@@ -1,0 +1,21 @@
+{
+  "name"         : "DatasetCrawler",
+  "version"      : "0.0.8",
+  "description"  : "Public Dataset Crawler",
+  "main"         : "server.js",
+  "author"       : "Ahmad.A.Assaf",
+  "dependencies" : {
+    "request"         : "latest",
+    "cheerio"         : "latest",
+    "async"           : "latest",
+    "underscore"      : "latest",
+    "validator"       : "latest",
+    "inquirer"        : "latest",
+    "mkdirp"          : "latest",
+    "extend"          : "latest",
+    "colors"          : "latest",
+    "awesome-progress": "latest",
+    "progress"        : "latest",
+    "csv-parse"       : "latest"
+  }
+}
