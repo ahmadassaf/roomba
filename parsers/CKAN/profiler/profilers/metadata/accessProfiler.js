@@ -19,14 +19,14 @@ function accessProfiler(parent) {
 
 		// Check the license information if they are correct and then do a check on the resources if they exist
 		this.licenseProfiling(root, function(error, licenseReport){
-			if (!error)
+			if (!error) {
 				if (!licenseReport.isEmpty()) {
 					profileTemplate.addObject("license", {});
 					profileTemplate.addObject("license",licenseReport.getProfile(),"license");
 				}
 				// Check if the groups object is defined and run the profiling process on its sub-components
 				if (root.resources && !_.isEmpty(root.resources)) {
-					this.resourceProfiling(root, function(error, profiler, dataset) {
+					accessProfiler.resourceProfiling(root, function(error, profiler, dataset) {
 						if (!error) profilerCallback(false, profileTemplate.getProfile(), root);
 					});
 				} else {
@@ -34,27 +34,32 @@ function accessProfiler(parent) {
 					profileTemplate.addEntry("missing", "resources", "resources information (API endpoints, downloadable dumpds, etc.) is missing");
 				  profilerCallback(false, profileTemplate.getProfile(), dataset);
 				}
+			}
 		});
 	}
 
 	this.licenseProfiling  = function licenseProfiling(root, callback) {
 
+
+		accessProfiler.CKANUtil.cache.getCache(accessProfiler.util.options.mappingFileName, function(error, mappingFile){
+				!error ?  processLicenseInformation(mappingFile) : processLicenseInformation();
+		}, "/util/");
+
+		function processLicenseInformation(mappingFile) {
+
 		var metadtaKeys    = ["license_title", "license_id"];
 		var licenseReport  = new profile(accessProfiler);
 
-		// Loop through the meta keys and check if they are undefined or missing
-		_.each(metadtaKeys, function(key, index) {
-			if (!_.has(root, key) || !root[key] || _.isEmpty(root[key]))
-				licenseReport.addEntry("report", key + " information is missing for this dataset");
-			else {
-				// There is a value defined for the id or for the title, try to disambiguate now
-			}
-		});
-		callback(false, licenseReport);
-
-		// this function will try to disambiguate a string against a license information
-		function disambiguateLicense(license) {
-
+			// Loop through the meta keys and check if they are undefined or missing
+			_.each(metadtaKeys, function(key, index) {
+				if (!_.has(root, key) || !root[key] || _.isEmpty(root[key])) {
+					licenseReport.addEntry("report", key + " information is missing for this dataset");
+				} else if (mappingFile) {
+					// There is a value defined for the id or for the title, try to disambiguate now
+				} else licenseReport.addEntry("report", "We could not normalize the license information as no mapping file was found !");
+			});
+			console.log(licenseReport.getProfile());
+			callback(false, licenseReport);
 		}
 	}
 

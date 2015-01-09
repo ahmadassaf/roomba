@@ -156,8 +156,10 @@ function profile(parent) {
 				createTitleHead("white", sectionKey + " Report");
 
 				_.each(section, function(element, elementKey){
-						// loop through all the section report sections
-						util.colorify("magenta", sectionKey + ": " + util.capitalize(elementKey));
+						// loop through all the section report sections and print sections titles if there are many
+						if (_.size(section) > 1)
+							util.colorify("magenta", sectionKey + ": " + util.capitalize(elementKey));
+
 						profile.printReport(element.report);
 						// create the statistics now by aggregating the information
 						aggregateReport = profile.mergeReports(aggregateReport,element,["report"]);
