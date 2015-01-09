@@ -17,29 +17,40 @@ function accessProfiler(parent) {
 		var root            = dataset.result ? dataset.result : dataset;
 		var dataset_keys    = _.keys(root);
 
-		// Check if the groups object is defined and run the profiling process on its sub-components
-		if (root.resources && !_.isEmpty(root.resources)) {
-			this.resourceProfiling(root, function(error, profiler, dataset) {
-				if (!error) profilerCallback(false, profileTemplate.getProfile(), root);
-			});
-		} else {
-			// There are no defined resources for this dataset
-			profileTemplate.addEntry("missing", "resources", "resources information (API endpoints, downloadable dumpds, etc.) is missing");
-		  profilerCallback(false, profileTemplate.getProfile(), dataset);
-		}
+
+		this.licenseProfiling(root, function(error, licenseReport){
+			if (!error)
+				if (!licenseReport.isEmpty()) {
+					profileTemplate.addObject("license", {});
+					profileTemplate.addObject("license",licenseReport.getProfile(),"license");
+				}
+				// Check if the groups object is defined and run the profiling process on its sub-components
+				if (root.resources && !_.isEmpty(root.resources)) {
+					this.resourceProfiling(root, function(error, profiler, dataset) {
+						if (!error) profilerCallback(false, profileTemplate.getProfile(), root);
+					});
+				} else {
+					// There are no defined resources for this dataset
+					profileTemplate.addEntry("missing", "resources", "resources information (API endpoints, downloadable dumpds, etc.) is missing");
+				  profilerCallback(false, profileTemplate.getProfile(), dataset);
+				}
+		});
 	}
 
 	this.licenseProfiling  = function licenseProfiling(root, callback) {
 
-		var metadtaKeys    = ["license_title", "license_url", "license_id"];
+		var metadtaKeys    = ["license_title", "license_id"];
 		var licenseReport  = new profile(accessProfiler);
 
 		// Loop through the meta keys and check if they are undefined or missing
 		_.each(metadtaKeys, function(key, index) {
-			if (!_.has(resource, key) || !resource[key] || _.isEmpty(resource[key]))
+			if (!_.has(root, key) || !root[key] || _.isEmpty(root[key]))
 				licenseReport.addEntry("report", key + " information is missing for this dataset");
+			else {
+				// There is a value defined for the id or for the title, try to disambiguate now
+			}
 		});
-
+		callback(false, licenseReport);
 	}
 
 	this.resourceProfiling = function resourceProfiling(root, callback) {

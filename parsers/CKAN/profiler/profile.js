@@ -164,8 +164,6 @@ function profile(parent) {
 				});
 				// Create the statistics report about the report of each section
 				printStatistics(_.omit(aggregateReport, "unreachableURLs"), sectionKey, _.size(section));
-				// create the report about connectivity issues surrounding unreachableURLs
-				createTitleHead("red", "Connectivity Issues");
 				printConnectivityIssues(aggregateReport.unreachableURLs);
 			}
 		});
@@ -180,6 +178,8 @@ function profile(parent) {
 		*/
 		function printStatistics(statisticsReport, key, total){
 
+			if (statisticsReport && _.size(statisticsReport)) {
+
 			// print the mini spearator for the statsitics section
 			createTitleHead("cyan", util.capitalize(key) + " Statistics");
 
@@ -189,15 +189,20 @@ function profile(parent) {
 					util.colorify(["yellow","blue"], [text,parseFloat((value / total) * 100).toFixed(2)+ "%"]);
 				});
 			});
+
+			}
 		}
 
 		function printConnectivityIssues(issues) {
-
-			var aggregateText = _.size(issues) == 1 ? "There is an access issue with one defined URL: " : "There are " + _.size(issues) + " connectivity issues with the following URLs: "
-			util.colorify("red", aggregateText);
-			_.each(issues, function(dummyValue, URL) {
-				console.log("   - " + URL);
-			})
+			if (issues && _.size(issues) > 0 ) {
+				// create the report about connectivity issues surrounding unreachableURLs
+				createTitleHead("red", "Connectivity Issues");
+				var aggregateText = _.size(issues) == 1 ? "There is an access issue with one defined URL: " : "There are " + _.size(issues) + " connectivity issues with the following URLs: "
+				util.colorify("red", aggregateText);
+				_.each(issues, function(dummyValue, URL) {
+					console.log("   - " + URL);
+				});
+			}
 		}
 
 		function createTitleHead(color, title) {
