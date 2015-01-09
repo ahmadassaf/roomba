@@ -17,7 +17,7 @@ function accessProfiler(parent) {
 		var root            = dataset.result ? dataset.result : dataset;
 		var dataset_keys    = _.keys(root);
 
-
+		// Check the license information if they are correct and then do a check on the resources if they exist
 		this.licenseProfiling(root, function(error, licenseReport){
 			if (!error)
 				if (!licenseReport.isEmpty()) {
@@ -51,6 +51,11 @@ function accessProfiler(parent) {
 			}
 		});
 		callback(false, licenseReport);
+
+		// this function will try to disambiguate a string against a license information
+		function disambiguateLicense(license) {
+
+		}
 	}
 
 	this.resourceProfiling = function resourceProfiling(root, callback) {
