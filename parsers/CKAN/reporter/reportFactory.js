@@ -33,11 +33,12 @@ function reportFactory(parent) {
 		if (keyPathArray.length == 1) {
 			// The path is shallow with no hierarchies defined, only one element
 			if (root[keyPathArray]) obj[root[keyPathArray]] = [];
-		} else {
-			_.each(root[keyPathArray[0]], function(child){
-				if (child[keyPathArray[1]] && !_.has(obj, child[keyPathArray[1]])) obj[child[keyPathArray[1]]] = [];
-			});
-		}
+		} else if (_.isArray(root[keyPathArray[0]])) {
+				_.each(root[keyPathArray[0]], function(child){
+					if (child[keyPathArray[1]] && !_.has(obj, child[keyPathArray[1]])) obj[child[keyPathArray[1]]] = [];
+				});
+			} else if (root[keyPathArray[0]] && root[keyPathArray[0]][keyPathArray[1]])
+									obj[root[keyPathArray[0]][keyPathArray[1]]] = [];
 
 		// iterate through all the keys entered and fill up the value information in each key
 		_.each(obj, function(value, key){
