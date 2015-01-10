@@ -6,7 +6,6 @@ var extend  = require('extend');
 function accessProfiler(parent) {
 
 	extend(this, parent);
-
 	var _               = this.util._;
 	var accessProfiler  = this;
 
@@ -54,29 +53,50 @@ function accessProfiler(parent) {
 			_.each(metadtaKeys, function(key, index) {
 				if (!_.has(root, key) || !root[key] || _.isEmpty(root[key])) {
 					licenseReport.addEntry("report", key + " information is missing for this dataset");
-				} else if (mappingFile) {
-					// There is a value defined for the id or for the title, try to disambiguate now
-					disambiguateLicense(root[key], function(error, license) {
-						if (!error) console.log(license);
-					});
-				} else licenseReport.addEntry("report", "We could not normalize the license information as no mapping file was found !");
+				}
 			});
 
-			console.log(licenseReport.getProfile());
-			callback(false, licenseReport);
+			if (mappingFile) {
+					// There is a value defined for the id or for the title, try to disambiguate now
+					accessProfiler.async.eachSeries(metadtaKeys, function(key, asyncCallback){
+						disambiguateLicense(root[key], function(error, license) {
+							if (!error) {
+								console.log(license);
+								callback(false, licenseReport);
+							} else asyncCallback();
+						});
+					}, function(err){
+						licenseReport.addEntry("report", "We could not normalize the license information as no valid mapping was found !");
+						callback(false, licenseReport);
+					});
+			} else {
+				licenseReport.addEntry("report", "We could not normalize the license information as no mapping file was found !");
+				callback(false, licenseReport);
+			}
+
 
 			// loop through the license mapping files and check if the license information exists there
 			function disambiguateLicense(license, callback) {
-				accessProfiler.async.each(mappingFile.mappings, function(mapping, asyncCallback){
 
+				accessProfiler.async.eachSeries(mappingFile.mappings, function(mapping, asyncCallback){
 				mapIgnoreCase(mapping.license_id, license, function(error) {
 					if (!error) {
-						callback(false, mapping);
+						// Check if there are multiple IDs defined, then the user should select which version he wishes
+						if (mapping.license_id.length > 1 ) {
+							accessProfiler.util.promptActionList("list", "licenseVersion", accessProfiler.options.prompt.licenceVersion, mapping.license_id, function(value) {
+									callback(false, value);
+							});
+						} else callback(false, mapping.license_id);
 					}
 					else {
 						mapIgnoreCase(mapping.disambiguations, license, function(error) {
 							if (!error) {
-								callback(false, mapping);
+								// Check if there are multiple IDs defined, then the user should select which version he wishes
+								if (mapping.license_id.length > 1 ) {
+									accessProfiler.util.promptActionList("list", "licenseVersion", accessProfiler.options.prompt.licenceVersion, mapping.license_id, function(value) {
+									callback(false, value);
+									});
+								} else callback(false, mapping.license_id);
 							} else asyncCallback();
 						});
 					}
