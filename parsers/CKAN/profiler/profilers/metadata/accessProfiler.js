@@ -56,10 +56,40 @@ function accessProfiler(parent) {
 					licenseReport.addEntry("report", key + " information is missing for this dataset");
 				} else if (mappingFile) {
 					// There is a value defined for the id or for the title, try to disambiguate now
+					disambiguateLicense(root[key], function(error, license) {
+						if (!error) console.log(license);
+					});
 				} else licenseReport.addEntry("report", "We could not normalize the license information as no mapping file was found !");
 			});
+
 			console.log(licenseReport.getProfile());
 			callback(false, licenseReport);
+
+			// loop through the license mapping files and check if the license information exists there
+			function disambiguateLicense(license, callback) {
+				accessProfiler.async.each(mappingFile.mappings, function(mapping, asyncCallback){
+
+				mapIgnoreCase(mapping.license_id, license, function(error) {
+					if (!error) {
+						callback(false, mapping);
+					}
+					else {
+						mapIgnoreCase(mapping.disambiguations, license, function(error) {
+							if (!error) {
+								callback(false, mapping);
+							} else asyncCallback();
+						});
+					}
+				});
+				}, function(err){ callback(true) });
+
+				// this function will check if a given license title is found an a set of values ignoring its case
+				function mapIgnoreCase(values, license, callback) {
+					accessProfiler.async.each(values, function(value, asyncCallback){
+						 license.toUpperCase() == value.toUpperCase() ? callback(false) : asyncCallback();
+					}, function(err) { callback(true) });
+				}
+			}
 		}
 	}
 
