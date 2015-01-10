@@ -59,10 +59,25 @@ function accessProfiler(parent) {
 			if (mappingFile) {
 					// There is a value defined for the id or for the title, try to disambiguate now
 					accessProfiler.async.eachSeries(metadtaKeys, function(key, asyncCallback){
-						disambiguateLicense(root[key], function(error, license) {
+						disambiguateLicense(root[key], function(error, licenseID) {
 							if (!error) {
-								console.log(license);
-								callback(false, licenseReport);
+								// Retreive the license information from the list of available licenses
+								accessProfiler.CKANUtil.cache.getCache(licenseID, function(error, normalizedInformation){
+										if (!error) {
+											// New normalized license information has been found, enhance the profile
+											root["license_id"]          = normalizedInformation.id;
+											root["license_title"]       = normalizedInformation.title;
+											root["license_url"]         = normalizedInformation.url;
+											root["license_information"] = _.omit(normalizedInformation,["id", "title", "url"]);
+
+											licenseReport.addEntry("report", "License information has been normalized !");
+											callback(false, licenseReport);
+										}
+										else {
+											licenseReport.addEntry("report", "We could not find matching license information to normalize !");
+											callback(false, licenseReport);
+										}
+								}, accessProfiler.util.options.licensesFolder + "licenses/");
 							} else asyncCallback();
 						});
 					}, function(err){
