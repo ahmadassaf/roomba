@@ -8,7 +8,7 @@ function DC() {
 
 	this.util        = new util(options, messages[options.locale]);
 	this.options     = this.util._.extend(options, messages[options.locale]);
-	this.cache       = new cache(__dirname + this.options.cacheFolderName);
+	this.cache       = new cache(__dirname, this.options.cacheFolderName);
 }
 
 DC.prototype.start = function start() {

@@ -6,7 +6,6 @@ var extend  = require('extend');
 function accessProfiler(parent) {
 
 	extend(this, parent);
-
 	var _               = this.util._;
 	var accessProfiler  = this;
 
@@ -17,29 +16,116 @@ function accessProfiler(parent) {
 		var root            = dataset.result ? dataset.result : dataset;
 		var dataset_keys    = _.keys(root);
 
-		// Check if the groups object is defined and run the profiling process on its sub-components
-		if (root.resources && !_.isEmpty(root.resources)) {
-			this.resourceProfiling(root, function(error, profiler, dataset) {
-				if (!error) profilerCallback(false, profileTemplate.getProfile(), root);
-			});
-		} else {
-			// There are no defined resources for this dataset
-			profileTemplate.addEntry("missing", "resources", "resources information (API endpoints, downloadable dumpds, etc.) is missing");
-		  profilerCallback(false, profileTemplate.getProfile(), dataset);
-		}
+		// Check the license information if they are correct and then do a check on the resources if they exist
+		this.licenseProfiling(root, function(error, licenseReport){
+			if (!error) {
+				if (!licenseReport.isEmpty()) {
+					profileTemplate.addObject("license", {});
+					profileTemplate.addObject("license",licenseReport.getProfile(),"license");
+				}
+				// Check if the groups object is defined and run the profiling process on its sub-components
+				if (root.resources && !_.isEmpty(root.resources)) {
+					accessProfiler.resourceProfiling(root, function(error, profiler, dataset) {
+						if (!error) profilerCallback(false, profileTemplate.getProfile(), root);
+					});
+				} else {
+					// There are no defined resources for this dataset
+					profileTemplate.addEntry("missing", "resources", "resources information (API endpoints, downloadable dumpds, etc.) is missing");
+				  profilerCallback(false, profileTemplate.getProfile(), dataset);
+				}
+			}
+		});
 	}
 
 	this.licenseProfiling  = function licenseProfiling(root, callback) {
 
-		var metadtaKeys    = ["license_title", "license_url", "license_id"];
+
+		accessProfiler.CKANUtil.cache.getCache(accessProfiler.util.options.mappingFileName, function(error, mappingFile){
+				!error ?  processLicenseInformation(mappingFile) : processLicenseInformation();
+		}, "/util/");
+
+		function processLicenseInformation(mappingFile) {
+
+		var metadtaKeys    = ["license_title", "license_id"];
 		var licenseReport  = new profile(accessProfiler);
 
-		// Loop through the meta keys and check if they are undefined or missing
-		_.each(metadtaKeys, function(key, index) {
-			if (!_.has(resource, key) || !resource[key] || _.isEmpty(resource[key]))
-				licenseReport.addEntry("report", key + " information is missing for this dataset");
-		});
+			// Loop through the meta keys and check if they are undefined or missing
+			_.each(metadtaKeys, function(key, index) {
+				if (!_.has(root, key) || !root[key] || _.isEmpty(root[key])) {
+					licenseReport.addEntry("report", key + " information is missing for this dataset");
+				}
+			});
 
+			if (mappingFile) {
+					// There is a value defined for the id or for the title, try to disambiguate now
+					accessProfiler.async.eachSeries(metadtaKeys, function(key, asyncCallback){
+						disambiguateLicense(root[key], function(error, licenseID) {
+							if (!error) {
+								// Retreive the license information from the list of available licenses
+								accessProfiler.CKANUtil.cache.getCache(licenseID, function(error, normalizedInformation){
+										if (!error) {
+											// New normalized license information has been found, enhance the profile
+											root["license_id"]          = normalizedInformation.id;
+											root["license_title"]       = normalizedInformation.title;
+											root["license_url"]         = normalizedInformation.url;
+											root["license_information"] = _.omit(normalizedInformation,["id", "title", "url"]);
+
+											licenseReport.addEntry("report", "License information has been normalized !");
+											callback(false, licenseReport);
+										}
+										else {
+											licenseReport.addEntry("report", "We could not find matching license information to normalize !");
+											callback(false, licenseReport);
+										}
+								}, accessProfiler.util.options.licensesFolder + "licenses/");
+							} else asyncCallback();
+						});
+					}, function(err){
+						licenseReport.addEntry("report", "We could not normalize the license information as no valid mapping was found !");
+						callback(false, licenseReport);
+					});
+			} else {
+				licenseReport.addEntry("report", "We could not normalize the license information as no mapping file was found !");
+				callback(false, licenseReport);
+			}
+
+
+			// loop through the license mapping files and check if the license information exists there
+			function disambiguateLicense(license, callback) {
+
+				accessProfiler.async.eachSeries(mappingFile.mappings, function(mapping, asyncCallback){
+				mapIgnoreCase(mapping.license_id, license, function(error) {
+					if (!error) {
+						// Check if there are multiple IDs defined, then the user should select which version he wishes
+						if (mapping.license_id.length > 1 ) {
+							accessProfiler.util.promptActionList("list", "licenseVersion", accessProfiler.options.prompt.licenceVersion, mapping.license_id, function(value) {
+									callback(false, value);
+							});
+						} else callback(false, mapping.license_id);
+					}
+					else {
+						mapIgnoreCase(mapping.disambiguations, license, function(error) {
+							if (!error) {
+								// Check if there are multiple IDs defined, then the user should select which version he wishes
+								if (mapping.license_id.length > 1 ) {
+									accessProfiler.util.promptActionList("list", "licenseVersion", accessProfiler.options.prompt.licenceVersion, mapping.license_id, function(value) {
+									callback(false, value);
+									});
+								} else callback(false, mapping.license_id);
+							} else asyncCallback();
+						});
+					}
+				});
+				}, function(err){ callback(true) });
+
+				// this function will check if a given license title is found an a set of values ignoring its case
+				function mapIgnoreCase(values, license, callback) {
+					accessProfiler.async.each(values, function(value, asyncCallback){
+						 license.toUpperCase() == value.toUpperCase() ? callback(false) : asyncCallback();
+					}, function(err) { callback(true) });
+				}
+			}
+		}
 	}
 
 	this.resourceProfiling = function resourceProfiling(root, callback) {

@@ -29,6 +29,7 @@ var messages =   {
 				"reportSelection"  : "Please select which one of the following reports you like to generate",
 				"groupNameEntry"   : "Please enter the Group name you wish to fetch details for (type 'exit' to return back to previous menu):",
 				"datasetNameEntry" : "Please enter the dataset name you wish to fetch details for (type 'exit' to return back to previous menu):",
+				"licenceVersion"   : "We have detected multiple license version information. Please select the correct one from below:",
 				"choiceList": [
 				{ "value" : "profileDataset"        , "name" : "Profile a specific dataset"}                   ,
 				{ "value" : "getAllDatasetsDetails" , "name" : "Fetch All the datasets in this portal"}        ,

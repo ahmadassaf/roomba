@@ -11,8 +11,9 @@ var colors = require('colors');
 * @param {String} folderName: the name with full path for the main cache folder
 */
 
-function Cache(folderName) {
-	this.cache_foldername   = folderName;
+function Cache(dirname, folderName) {
+	this.dirname            = dirname;
+	this.cache_foldername   = dirname + folderName;
 	this.createCacheFolder(this.cache_foldername, null, true);
 };
 
@@ -49,8 +50,11 @@ Cache.prototype.createCacheFolder = function createCacheFolder(folder, callback,
 *                             Quit the application after logging error message when error happens
 */
 
-Cache.prototype.getCache = function getCache(cache_filename, callback) {
-	cache_filename = this.cache_foldername + cache_filename + ".json";
+Cache.prototype.getCache = function getCache(cache_filename, callback, cache_folder) {
+
+	var cache_folder = cache_folder ? this.dirname + cache_folder : this.cache_foldername;
+	cache_filename   = cache_folder + cache_filename + ".json";
+
 	// Checks if the file has been already cached
 	fs.exists(cache_filename, function(exists) {
 		if (exists) {

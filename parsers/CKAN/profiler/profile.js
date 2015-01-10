@@ -156,16 +156,16 @@ function profile(parent) {
 				createTitleHead("white", sectionKey + " Report");
 
 				_.each(section, function(element, elementKey){
-						// loop through all the section report sections
-						util.colorify("magenta", sectionKey + ": " + util.capitalize(elementKey));
+						// loop through all the section report sections and print sections titles if there are many
+						if (_.size(section) > 1)
+							util.colorify("magenta", sectionKey + ": " + util.capitalize(elementKey));
+
 						profile.printReport(element.report);
 						// create the statistics now by aggregating the information
 						aggregateReport = profile.mergeReports(aggregateReport,element,["report"]);
 				});
 				// Create the statistics report about the report of each section
 				printStatistics(_.omit(aggregateReport, "unreachableURLs"), sectionKey, _.size(section));
-				// create the report about connectivity issues surrounding unreachableURLs
-				createTitleHead("red", "Connectivity Issues");
 				printConnectivityIssues(aggregateReport.unreachableURLs);
 			}
 		});
@@ -180,6 +180,8 @@ function profile(parent) {
 		*/
 		function printStatistics(statisticsReport, key, total){
 
+			if (statisticsReport && _.size(statisticsReport)) {
+
 			// print the mini spearator for the statsitics section
 			createTitleHead("cyan", util.capitalize(key) + " Statistics");
 
@@ -189,15 +191,20 @@ function profile(parent) {
 					util.colorify(["yellow","blue"], [text,parseFloat((value / total) * 100).toFixed(2)+ "%"]);
 				});
 			});
+
+			}
 		}
 
 		function printConnectivityIssues(issues) {
-
-			var aggregateText = _.size(issues) == 1 ? "There is an access issue with one defined URL: " : "There are " + _.size(issues) + " connectivity issues with the following URLs: "
-			util.colorify("red", aggregateText);
-			_.each(issues, function(dummyValue, URL) {
-				console.log("   - " + URL);
-			})
+			if (issues && _.size(issues) > 0 ) {
+				// create the report about connectivity issues surrounding unreachableURLs
+				createTitleHead("red", "Connectivity Issues");
+				var aggregateText = _.size(issues) == 1 ? "There is an access issue with one defined URL: " : "There are " + _.size(issues) + " connectivity issues with the following URLs: "
+				util.colorify("red", aggregateText);
+				_.each(issues, function(dummyValue, URL) {
+					console.log("   - " + URL);
+				});
+			}
 		}
 
 		function createTitleHead(color, title) {
