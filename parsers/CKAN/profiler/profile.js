@@ -144,6 +144,7 @@ function profile(parent) {
 		// print out the report text line by line
 		createTitleHead("white", "Metadata Report");
 		profile.printReport(report.report);
+		if (report.unreachableURLs) printConnectivityIssues(report.unreachableURLs, true);
 
 		_.each(report, function(section, sectionKey){
 
@@ -195,14 +196,14 @@ function profile(parent) {
 			}
 		}
 
-		function printConnectivityIssues(issues) {
+		function printConnectivityIssues(issues, isArray) {
 			if (issues && _.size(issues) > 0 ) {
 				// create the report about connectivity issues surrounding unreachableURLs
 				createTitleHead("red", "Connectivity Issues");
 				var aggregateText = _.size(issues) == 1 ? "There is an access issue with one defined URL: " : "There are " + _.size(issues) + " connectivity issues with the following URLs: "
 				util.colorify("red", aggregateText);
 				_.each(issues, function(dummyValue, URL) {
-					console.log("   - " + URL);
+					isArray ?  console.log("   - " + dummyValue) : console.log("   - " + URL);
 				});
 			}
 		}
