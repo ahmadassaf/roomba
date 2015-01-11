@@ -60,6 +60,10 @@ function accessProfiler(parent) {
 			if (mappingFile) {
 					// There is a value defined for the id or for the title, try to disambiguate now
 					accessProfiler.async.eachSeries(metadtaKeys, function(key, asyncCallback){
+
+					// Only disambiguate if the value is defined
+					if (_.has(root, key) && root[key])
+
 						disambiguateLicense(root[key], function(error, licenseID) {
 							if (!error) {
 								// Retreive the license information from the list of available licenses
