@@ -13,14 +13,14 @@ function datasetProfiler(parent) {
 		datasetProfiler.metadataProfiler.generalProfiler.start(dataset, function(error, generalReport){
 			if (!error) datasetProfiler.metadataProfiler.ownershipProfiler.start(dataset, function(error, ownershipReport){
 				if (!error) datasetProfiler.metadataProfiler.provenanceProfiler.start(dataset, function(error, provenanceReport){
-					if (!error) datasetProfiler.metadataProfiler.accessProfiler.start(dataset, function(error, accessReport, enhancedProfile){
+					if (!error) datasetProfiler.metadataProfiler.accessProfiler.start(dataset, function(error, accessReport, profileChanged, enhancedProfile){
 						if (!error) {
 
 							// merge the profiling reports and prompt the user if he wants to save that report
 							report.mergeReportsUniquely([generalReport, ownershipReport, provenanceReport, accessReport]);
 							report.prettyPrint();
 
-							if (accessReport.resources) {
+							if (profileChanged) {
 								datasetProfiler.CKANUtil.savePrompt("Enriched Metadata Profile", "enrichedFolder", enhancedProfile, function(error){
 									if (!error)
 										datasetProfiler.CKANUtil.promptSave(save, "profilesFolder", report, profilerCallback);

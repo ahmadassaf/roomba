@@ -10,6 +10,7 @@ function accessProfiler(parent) {
 	var accessProfiler  = this;
 
 	var profileTemplate = new profile(this);
+	var profileChanged  = false;
 
 	this.start      = function start(dataset, profilerCallback) {
 
@@ -26,12 +27,12 @@ function accessProfiler(parent) {
 				// Check if the groups object is defined and run the profiling process on its sub-components
 				if (root.resources && !_.isEmpty(root.resources)) {
 					accessProfiler.resourceProfiling(root, function(error, profiler, dataset) {
-						if (!error) profilerCallback(false, profileTemplate.getProfile(), root);
+						if (!error) profilerCallback(false, profileTemplate.getProfile(), profileChanged, root);
 					});
 				} else {
 					// There are no defined resources for this dataset
 					profileTemplate.addEntry("missing", "resources", "resources information (API endpoints, downloadable dumpds, etc.) is missing");
-				  profilerCallback(false, profileTemplate.getProfile(), dataset);
+				  profilerCallback(false, profileTemplate.getProfile(), profileChanged, dataset);
 				}
 			}
 		});
@@ -71,6 +72,7 @@ function accessProfiler(parent) {
 											root["license_information"] = _.omit(normalizedInformation,["id", "title", "url"]);
 
 											licenseReport.addEntry("report", "License information has been normalized !");
+											profileChanged = true;
 											callback(false, licenseReport);
 										}
 										else {
@@ -174,6 +176,7 @@ function accessProfiler(parent) {
 						resource.mimetype = resource_mimeType;
 						// indicate that the resource is reachable
 						resource["resource_reachable"] = true;
+						profileChanged = true;
 					}
 					next();
 				});
