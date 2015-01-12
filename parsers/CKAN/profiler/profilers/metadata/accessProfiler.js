@@ -165,17 +165,28 @@ function accessProfiler(parent) {
 						resourceReport.addEntry("report", "The url for this resource is not reachable !");
 						// Augment new field to the resource metadata file to indicate that the resource is not reachable
 						resource["resource_reachable"] = false;
-					} else {
-						// The url is de-referenced correctly, we need to check if some values are defined correctly
-						var resource_size     = response.headers["content-length"];
-						var resource_mimeType = response.headers["content-type"].split(';')[0];
+					} else if (response.headers["content-length"] || response.headers["content-type"]) {
 
-						// Check if the resource size is correct
-						if (resource.size && resource.size !== resource_size)
-							resourceReport.addEntry("report", "The size for resource is not defined correctly. Provided: " + parseInt(resource.size) + " where the actual size is: " + parseInt(resource_size));
-						// check if the mimeType is correct
-						if (resource.mimetype && resource.mimetype !== resource_mimeType)
-							resourceReport.addEntry("report", "The mimeType for resource is not defined correctly. Provided: " + resource.mimetype + " where the actual type is: " + resource_mimeType);
+						// The url is de-referenced correctly, we need to check if some values are defined correctly
+						var resource_size, resource_mimeType;
+
+						if (response.headers["content-length"]) {
+
+							resource_size = response.headers["content-length"];
+
+							// Check if the resource size is correct
+							if ((resource.size && resource.size !== resource_size) || !resource.size)
+								resourceReport.addEntry("report", "The size for resource is not defined correctly. Provided: " + parseInt(resource.size) + " where the actual size is: " + parseInt(resource_size));
+						}
+
+						if (response.headers["content-type"]) {
+
+							resource_mimeType = response.headers["content-type"].split(';')[0];
+
+							// check if the mimeType is correct
+							if ( (resource.mimetype && resource.mimetype !== resource_mimeType) || !resource.mimetype)
+								resourceReport.addEntry("report", "The mimeType for resource is not defined correctly. Provided: " + resource.mimetype + " where the actual type is: " + resource_mimeType);
+						}
 
 						// correct the values with the actual ones
 						resource.size     = resource_size;
