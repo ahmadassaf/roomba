@@ -10,6 +10,7 @@ function datasetProfiler(parent) {
 	var report          = new profile(this);
 
 	this.profile = function profile(dataset, save, profilerCallback) {
+
 		datasetProfiler.metadataProfiler.generalProfiler.start(dataset, function(error, generalReport){
 			if (!error) datasetProfiler.metadataProfiler.ownershipProfiler.start(dataset, function(error, ownershipReport){
 				if (!error) datasetProfiler.metadataProfiler.provenanceProfiler.start(dataset, function(error, provenanceReport){

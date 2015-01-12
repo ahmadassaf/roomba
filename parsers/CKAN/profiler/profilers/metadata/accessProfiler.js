@@ -62,7 +62,7 @@ function accessProfiler(parent) {
 					accessProfiler.async.eachSeries(metadtaKeys, function(key, asyncCallback){
 
 					// Only disambiguate if the value is defined
-					if (_.has(root, key) && root[key])
+					if (_.has(root, key) && root[key]) {
 
 						disambiguateLicense(root[key], function(error, licenseID) {
 							if (!error) {
@@ -86,6 +86,8 @@ function accessProfiler(parent) {
 								}, accessProfiler.util.options.licensesFolder + "licenses/");
 							} else asyncCallback();
 						});
+					} else asyncCallback();
+
 					}, function(err){
 						licenseReport.addEntry("report", "We could not normalize the license information as no valid mapping was found !");
 						callback(false, licenseReport);

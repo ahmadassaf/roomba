@@ -66,7 +66,7 @@ function ownershipProfiler(parent) {
 					profilerCallback(false, profileTemplate.getProfile());
 				} else profilerCallback(false, profileTemplate.getProfile());
 			});
-		}
+		} else profilerCallback(false, profileTemplate.getProfile());
 	}
 }
 
