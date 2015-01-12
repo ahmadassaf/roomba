@@ -103,13 +103,36 @@ function profile(parent) {
 		_.each(reports, function(report, key){
 			if (_.indexOf(excludeList, key) == -1) {
 		  	// Check if the target already has the key of this object already
-		  	if (_.has(target, key)) {
-		  		// Now we want to uniquely merge this key into the existing one [we check if its an array to do union or an object to extend]
-		  		_.each(report, function(element, index) {
-		  			_.has(target[key],element) ? target[key][element]++ : target[key][element] = 1;
-		  		});
-		  	} else if (!_.isEmpty(report))
-		  			target[key] = _.object(_.zip(report,Array.apply(null, new Array(report.length)).map(Number.prototype.valueOf,1)));
+		  	if (_.isArray(report)) {
+			  	if (_.has(target, key)) {
+			  		// Now we want to uniquely merge this key into the existing one [we check if its an array to do union or an object to extend]
+			  		_.each(report, function(element, index) {
+			  			_.has(target[key],element) ? target[key][element]++ : target[key][element] = 1;
+			  		});
+			  	} else if (!_.isEmpty(report))
+			  			target[key] = _.object(_.zip(report,Array.apply(null, new Array(report.length)).map(Number.prototype.valueOf,1)));
+		  	} else {
+	  			_.each(report, function(section, sectionKey) {
+				  		if (!target[key]) {
+				  			target[key] = {};
+				  			var sectionKeys = _.keys(section);
+				  			_.each(sectionKeys, function(extractedKey){
+				  				target[key][extractedKey] = [];
+				  			});
+				  		} else {
+					  	_.each(section, function(element, elementKey) {
+							 if (_.has(target[key], elementKey)) {
+						  		// Now we want to uniquely merge this key into the existing one [we check if its an array to do union or an object to extend]
+						  		_.each(element, function(elementile, index) {
+						  			_.has(target[key][elementKey],elementile) ? target[key][elementKey][elementile]++ : target[key][elementKey][elementile] = 1;
+					  		});
+					  		} else if (!_.isEmpty(element)) {
+					  			target[key][elementKey] = _.object(_.zip(element,Array.apply(null, new Array(element.length)).map(Number.prototype.valueOf,1)));
+					  		}
+					  	});
+				  	}
+	  			});
+		  	}
 			}
 	  });
 	  return target;
