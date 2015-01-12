@@ -44,58 +44,57 @@ function groupProfiler(parent) {
 			var fileName = folderName + "/" +  item.name;
 			var url      = groupProfiler.url + groupProfiler.API_path + groupProfiler.API_endpoints.dataset_description + item.name;
 
-			groupProfiler.util.download(groupProfiler.cache, fileName, url, function(error, dataset){
-				// If the file has been fetched successfully log it into the error.json
-				if (error) tick({errors: 1});
-					// Checks if the file has been already cached
-					else if (cachedProfiles) {
-						var cachedFileName =  groupProfiler.profilesFolder + item.name + ".json";
-						groupProfiler.cache.isCached(cachedFileName, function(exists) {
-							if (exists) {
-								groupProfiler.cache.getCache(item.name, function(error, file){
-									if (!error) {
-										// cache file has been found successfully, do the needed statistics and aggregations and go to next dataset
-										tick();
-									}
-								},groupProfiler.profilesFolder);
-							} else retreiveProfiles(dataset);
-						});
-					} else retreiveProfiles(dataset);
-			});
+			// The user does not want to overwrite existing files, so we need to check if the file already exists and skip it
+			if (!cachedProfiles) {
+				groupProfiler.cache.getCache(groupProfiler.profilesFolder + "/" + item.name, function(error, file){
+					if (!error) {
+						// cache file has been found successfully, do the needed statistics and aggregations and go to next dataset
+						tick();
+					} else retreiveProfiles(fileName, url);
+				});
+			} else retreiveProfiles(fileName, url);
 
-			function retreiveProfiles(dataset) {
+			function retreiveProfiles(fileName, url) {
 
 				var report = new profile(this);
 
-				groupProfiler.metadataProfiler.generalProfiler.start(dataset, function(error, generalReport){
-					if (!error) groupProfiler.metadataProfiler.ownershipProfiler.start(dataset, function(error, ownershipReport){
-						if (!error) groupProfiler.metadataProfiler.provenanceProfiler.start(dataset, function(error, provenanceReport){
-							if (!error) groupProfiler.metadataProfiler.accessProfiler.start(dataset, function(error, accessReport, profileChanged, enhancedProfile){
-								if (!error) {
-
-									// merge the various metadata reports
-									report.mergeReportsUniquely([generalReport, ownershipReport, provenanceReport, accessReport]);
-									// check if the user has selected he wishes to save the profile and enhanced profile
-									if (saveProfile) {
-										groupProfiler.cache.setCache(groupProfiler.profilesFolder + item.name, report.getProfile(), function(error){
+				groupProfiler.util.download(groupProfiler.cache, fileName, url, function(error, dataset){
+					// If the file has been fetched successfully log it into the error.json
+					if (error) tick({errors: 1});
+						// Checks if the file has been already cached
+						else {
+							groupProfiler.metadataProfiler.generalProfiler.start(dataset, function(error, generalReport){
+								if (!error) groupProfiler.metadataProfiler.ownershipProfiler.start(dataset, function(error, ownershipReport){
+									if (!error) groupProfiler.metadataProfiler.provenanceProfiler.start(dataset, function(error, provenanceReport){
+										if (!error) groupProfiler.metadataProfiler.accessProfiler.start(dataset, function(error, accessReport, profileChanged, enhancedProfile){
 											if (!error) {
-												// check if there is an enhanced profile and the user wishes to save it
-												if (profileChanged) {
-													groupProfiler.cache.setCache(groupProfiler.enrichedFolder + item.name, enhancedProfile, function(error){
+
+												// merge the various metadata reports
+												report.mergeReportsUniquely([generalReport, ownershipReport, provenanceReport, accessReport]);
+												// check if the user has selected he wishes to save the profile and enhanced profile
+												if (saveProfile) {
+													groupProfiler.cache.setCache(groupProfiler.profilesFolder + item.name, report.getProfile(), function(error){
 														if (!error) {
-															//aggregateReport[item.name] = groupProfiler.util.mergeObjects({}, [generalReport, ownershipReport, provenanceReport, accessReport]);
-															tick();
+															// check if there is an enhanced profile and the user wishes to save it
+															if (profileChanged) {
+																groupProfiler.cache.setCache(groupProfiler.enrichedFolder + item.name, enhancedProfile, function(error){
+																	if (!error) {
+																		//aggregateReport[item.name] = groupProfiler.util.mergeObjects({}, [generalReport, ownershipReport, provenanceReport, accessReport]);
+																		tick();
+																	} else tick();
+																});
+															} else tick();
 														} else tick();
 													});
 												} else tick();
 											} else tick();
 										});
-									} else tick();
-								} else tick();
+									});
+								});
 							});
-						});
-					});
+						}
 				});
+
 			}
 			function tick(options) {
 				// Signal the progress bar and loop the async foreach

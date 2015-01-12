@@ -83,6 +83,8 @@ Cache.prototype.getCache = function getCache(cache_filename, callback, cache_fol
 
 Cache.prototype.isCached = function isCached(cache_filename, callback) {
 
+	var cache_filename = this.dirname + "/" + cache_filename;
+
 	// Checks if the file has been already cached
 	fs.exists(cache_filename, function(exists) {
 		exists ? callback(true) : callback(false);
