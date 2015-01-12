@@ -73,6 +73,23 @@ Cache.prototype.getCache = function getCache(cache_filename, callback, cache_fol
 }
 
 /**
+* Check if the file passed ahs been cached in the file system
+*
+* @method isCached
+* @param {String} cache_filename: the name of the file we want to read
+* @param {Function} callback: Returns true the data if it has been already cached
+*                             Returns false if the file has not been saved before
+*/
+
+Cache.prototype.isCached = function isCached(cache_filename, callback) {
+
+	// Checks if the file has been already cached
+	fs.exists(cache_filename, function(exists) {
+		exists ? callback(true) : callback(false);
+	});
+}
+
+/**
 * Save a specific file as a JSON in the file system
 *
 * @method setCache

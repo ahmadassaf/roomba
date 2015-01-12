@@ -12,18 +12,24 @@ function groupProfiler(parent) {
 	this.profileGroup = function profileGroup(profilerCallback) {
 
 		groupProfiler.util.confirm("saveProfiles", groupProfiler.util.options.prompt.saveProfiles, function(saveProfile){
-			groupProfiler.util.confirm("cachedProfiles", groupProfiler.util.options.prompt.cachedProfiles, function(cachedProfiles){
-				groupProfiler.crawler.getGroupDetails(function(error, data, message, groupList){
-					if (!error)
-						groupProfiler.generateGroupProfiles(groupList.result.packages, saveProfile, cachedProfiles, function(error, aggregateReport){
-							console.log(aggregateReport);
-							/* To Do : The saving process and prompt */
-							!error ? profilerCallback(false, false, {type: "info", message: "profilingCompleted"}) : profilerCallback(false, false, {type: "error", message: "profilingFailed"});
-						});
-				  else profilerCallback(false, false, {type: "info", message: "menuReturn"});
+			if (saveProfile) {
+				groupProfiler.util.confirm("cachedProfiles", groupProfiler.util.options.prompt.cachedProfiles, function(cachedProfiles){
+					start(saveProfile, cachedProfiles);
 				});
-			});
+			} else start(saveProfile);
 		});
+
+		function start(saveProfile, cachedProfiles) {
+			groupProfiler.crawler.getGroupDetails(function(error, data, message, groupList){
+				if (!error)
+					groupProfiler.generateGroupProfiles(groupList.result.packages, saveProfile, cachedProfiles, function(error, aggregateReport){
+						console.log(aggregateReport);
+						/* To Do : The saving process and prompt */
+						!error ? profilerCallback(false, false, {type: "info", message: "profilingCompleted"}) : profilerCallback(false, false, {type: "error", message: "profilingFailed"});
+					});
+			  else profilerCallback(false, false, {type: "info", message: "menuReturn"});
+			});
+		}
 	}
 
 	this.generateGroupProfiles = function generateGroupProfiles(groupList, saveProfile, cachedProfiles, callback) {
@@ -41,15 +47,20 @@ function groupProfiler(parent) {
 			groupProfiler.util.download(groupProfiler.cache, fileName, url, function(error, dataset){
 				// If the file has been fetched successfully log it into the error.json
 				if (error) tick({errors: 1});
-
+					// Checks if the file has been already cached
 					else if (cachedProfiles) {
-						groupProfiler.cache.getCache(item.name, function(error, file){
-							if (!error) {
-								// cache file has been found successfully, do the needed statistics and aggregations and go to next dataset
-								tick();
+						var cachedFileName =  groupProfiler.profilesFolder + item.name + ".json";
+						groupProfiler.cache.isCached(cachedFileName, function(exists) {
+							if (exists) {
+								groupProfiler.cache.getCache(item.name, function(error, file){
+									if (!error) {
+										// cache file has been found successfully, do the needed statistics and aggregations and go to next dataset
+										tick();
+									}
+								},groupProfiler.profilesFolder);
 							} else retreiveProfiles(dataset);
-						},groupProfiler.profilesFolder);
-					}
+						});
+					} else retreiveProfiles(dataset);
 			});
 
 			function retreiveProfiles(dataset) {
