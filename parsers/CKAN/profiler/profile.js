@@ -133,7 +133,7 @@ function profile(parent) {
 
 	  function mergeAggregatedObject(report, key) {
 
-			target[key] = {};
+	  	target[key] = {};
 			// the report contains objects, groups, resources, license info, etc.
 			_.each(report, function(section, sectionKey) {
 
@@ -191,25 +191,23 @@ function profile(parent) {
 		var profile   = this;
 		var report    = this.aggregateReport;
 
-console.log(report);
-
 		// print out the report text line by line
 		profile.createTitleHead("white", "Metadata Report");
 		profile.printAggregatedReport(report.report);
 
-		if (report.unreachableURLs) profile.printConnectivityIssues(report.unreachableURLs, true);
+		if (report.unreachableURLs) profile.printConnectivityIssues("Dataset", report.unreachableURLs, true);
 
 		_.each(_.omit(report,["missing", "undefined", "unreachableURLs", "report"]), function(section, sectionKey){
 			var sectionKey = util.capitalize(sectionKey);
 
 			profile.createTitleHead("white", sectionKey + " Report");
+			profile.printAggregatedReport(section.report);
 
-			_.each(section, function(element, elementKey){
-				profile.printAggregatedReport(element.report);
-				// Create the statistics report about the report of each section
-				profile.printStatistics(_.omit(element, ["unreachableURLs", "report"]), sectionKey, _.size(section));
-				profile.printConnectivityIssues(element.unreachableURLs);
-			});
+			// Create the statistics report about the report of each section
+			profile.printStatistics(_.omit(section, ["unreachableURLs", "report"]), sectionKey, _.size(section));
+			// Create the connectivity issues report
+			profile.printConnectivityIssues(sectionKey, section.unreachableURLs);
+
 		});
 	}
 
@@ -227,7 +225,7 @@ console.log(report);
 		// print out the report text line by line
 		profile.createTitleHead("white", "Metadata Report");
 		profile.printReport(report.report);
-		if (report.unreachableURLs) profile.printConnectivityIssues(report.unreachableURLs, true);
+		if (report.unreachableURLs) profile.printConnectivityIssues("Dataset", report.unreachableURLs, true);
 
 		_.each(report, function(section, sectionKey){
 
@@ -250,7 +248,8 @@ console.log(report);
 				});
 				// Create the statistics report about the report of each section
 				profile.printStatistics(_.omit(aggregateReport, "unreachableURLs"), sectionKey, _.size(section));
-				profile.printConnectivityIssues(aggregateReport.unreachableURLs);
+				// Create the connectivity issues report
+				profile.printConnectivityIssues(sectionKey, aggregateReport.unreachableURLs);
 			}
 		});
 	}
@@ -264,7 +263,6 @@ console.log(report);
 	* * @param {Integer} total: the total number of elements in that report used to generate the statistics
 	*/
 	this.printStatistics = function printStatistics(statisticsReport, key, total){
-
 		if (statisticsReport && _.size(statisticsReport)) {
 
 		// print the mini spearator for the statsitics section
@@ -288,10 +286,10 @@ console.log(report);
 	* @param {Boolean} isArray: check if the passed issue is an array or not
 	*/
 
-	this.printConnectivityIssues = function printConnectivityIssues(issues, isArray) {
+	this.printConnectivityIssues = function printConnectivityIssues(sectionKey, issues, isArray) {
 		if (issues && _.size(issues) > 0 ) {
 			// create the report about connectivity issues surrounding unreachableURLs
-			this.createTitleHead("red", "Connectivity Issues");
+			this.createTitleHead("red", util.capitalize(sectionKey) + " Connectivity Issues");
 			var aggregateText = _.size(issues) == 1 ? "There is an access issue with one defined URL: " : "There are " + _.size(issues) + " connectivity issues with the following URLs: "
 			util.colorify("red", aggregateText);
 			_.each(issues, function(dummyValue, URL) {
