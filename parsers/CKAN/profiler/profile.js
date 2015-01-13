@@ -12,6 +12,7 @@ function profile(parent) {
 	// The default profile constructor
 	this.template        = {"missing" : [], "undefined" : [], "unreachableURLs": [], "report" : []};
 	this.aggregateReport = {"missing" : {}, "undefined" : {}, "unreachableURLs": {}, "report" : {}};
+	this.counter         = {"group" : 10, "tag" : 50, "resource" : 2};
 
 	/**
 	* Sets the current profile to a value passed by the user
@@ -31,6 +32,17 @@ function profile(parent) {
 	*/
 	this.getProfile = function getProfile() {
 		return this.template;
+	}
+
+	/**
+	* Update the counter  of a specific key with a passed value
+	*
+	* @method augmentCounter
+	* @param {String} key: the counter section we need to assign to update
+	* @param {Integer} value: the numerical value we want to increase the counter by
+	*/
+	this.augmentCounter = function setProfile(key, value) {
+		this.counter[key] += value;
 	}
 
 	/**
@@ -194,18 +206,18 @@ function profile(parent) {
 		// print out the report text line by line
 		profile.createTitleHead("white", "Metadata Report");
 		profile.printAggregatedReport(report.report);
-		profile.printStatistics(_.omit(report, ["tag", "resource", "group", "license", "unreachableURLs", "report" ]), "Dataset", 3);
+		profile.printStatistics(_.omit(report, ["tag", "resource", "group", "license", "unreachableURLs", "report" ]), "Dataset", total);
 
 		if (report.unreachableURLs) profile.printConnectivityIssues("Dataset", report.unreachableURLs, true);
 
-		_.each(_.omit(report,["missing", "undefined", "unreachableURLs", "report"]), function(section, sectionKey){
+		_.each(_.omit(report,["missing", "undefined", "unreachableURLs", "report", "license"]), function(section, sectionKey){
 			var sectionKey = util.capitalize(sectionKey);
 
 			profile.createTitleHead("white", sectionKey + " Report");
 			profile.printAggregatedReport(section.report);
 
-			// Create the statistics report about the report of each section
-			profile.printStatistics(_.omit(section, ["unreachableURLs", "report"]), sectionKey, _.size(section));
+			// Create the statistics report about the report of each nsection
+			profile.printStatistics(_.omit(section, ["unreachableURLs", "report"]), sectionKey, profile.counter[sectionKey.toLowerCase()] );
 			// Create the connectivity issues report
 			profile.printConnectivityIssues(sectionKey, section.unreachableURLs);
 

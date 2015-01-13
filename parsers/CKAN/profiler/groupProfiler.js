@@ -25,7 +25,7 @@ function groupProfiler(parent) {
 			groupProfiler.crawler.getGroupDetails(function(error, data, message, groupList){
 				if (!error)
 					groupProfiler.generateGroupProfiles(groupList.result.packages, saveProfile, cachedProfiles, function(error, aggregateReport){
-						aggregateReport.prettyPrintAggregationReport();
+						aggregateReport.prettyPrintAggregationReport(_.size(groupList.result.packages));
 						/* To Do : The saving process and prompt */
 						!error ? profilerCallback(false, false, {type: "info", message: "profilingCompleted"}) : profilerCallback(false, false, {type: "error", message: "profilingFailed"});
 					});
