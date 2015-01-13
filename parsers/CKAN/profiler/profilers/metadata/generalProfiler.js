@@ -118,8 +118,8 @@ function generalProfiler(parent) {
 					if (root.url) {
 						profileTemplate.addEntry("unreachableURLs", root.url);
 					}
-					profilerCallback(false, profileTemplate.getProfile());
-				} else profilerCallback(false, profileTemplate.getProfile());
+					profilerCallback(false, profileTemplate);
+				} else profilerCallback(false, profileTemplate);
 			});
 		}
 

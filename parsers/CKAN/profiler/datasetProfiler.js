@@ -18,7 +18,7 @@ function datasetProfiler(parent) {
 						if (!error) {
 
 							// merge the profiling reports and prompt the user if he wants to save that report
-							report.mergeReportsUniquely([generalReport, ownershipReport, provenanceReport, accessReport]);
+							report.mergeReportsUniquely([generalReport.getProfile(), ownershipReport.getProfile(), provenanceReport.getProfile(), accessReport.getProfile()]);
 							report.prettyPrint();
 
 							if (profileChanged) {

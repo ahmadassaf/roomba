@@ -31,12 +31,12 @@ function accessProfiler(parent) {
 					profileTemplate.augmentCounter("resource", _.size(root.resources));
 
 					accessProfiler.resourceProfiling(root, function(error, profiler, dataset) {
-						if (!error) profilerCallback(false, profileTemplate.getProfile(), profileChanged, root);
+						if (!error) profilerCallback(false, profileTemplate, profileChanged, root);
 					});
 				} else {
 					// There are no defined resources for this dataset
 					profileTemplate.addEntry("missing", "resources", "resources information (API endpoints, downloadable dumpds, etc.) is missing");
-				  profilerCallback(false, profileTemplate.getProfile(), profileChanged, dataset);
+				  profilerCallback(false, profileTemplate, profileChanged, dataset);
 				}
 			}
 		});
