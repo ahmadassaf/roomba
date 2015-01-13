@@ -54,12 +54,14 @@ function accessProfiler(parent) {
 		var metadtaKeys    = ["license_title", "license_id"];
 		var licenseReport  = new profile(accessProfiler);
 
-			// Loop through the meta keys and check if they are undefined or missing
-			_.each(metadtaKeys, function(key, index) {
-				if (!_.has(root, key) || !root[key] || _.isEmpty(root[key])) {
-					licenseReport.addEntry("report", key + " information is missing for this dataset");
-				}
-			});
+
+
+		// Loop through the meta keys and check if they are undefined or missing
+		_.each(metadtaKeys, function(key, index) {
+			if (!_.has(root, key) || !root[key] || _.isEmpty(root[key])) {
+					licenseReport.addEntry("undefined", key, key + " field exists but there is no value defined");
+			} else licenseReport.addEntry("missing", key, key + " information is missing for this dataset");
+		});
 
 			if (mappingFile) {
 					// There is a value defined for the id or for the title, try to disambiguate now

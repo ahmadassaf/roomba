@@ -235,7 +235,7 @@ function profile(parent) {
 
 		if (report.unreachableURLs) profile.printConnectivityIssues("Dataset", report.unreachableURLs, true);
 
-		_.each(_.omit(report,["missing", "undefined", "unreachableURLs", "report", "license"]), function(section, sectionKey){
+		_.each(_.omit(report,["missing", "undefined", "unreachableURLs", "report"]), function(section, sectionKey){
 			var sectionKey = util.capitalize(sectionKey);
 
 			profile.createTitleHead("white", sectionKey + " Report");
