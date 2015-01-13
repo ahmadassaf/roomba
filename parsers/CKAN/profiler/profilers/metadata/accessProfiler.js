@@ -54,8 +54,6 @@ function accessProfiler(parent) {
 		var metadtaKeys    = ["license_title", "license_id"];
 		var licenseReport  = new profile(accessProfiler);
 
-
-
 		// Loop through the meta keys and check if they are undefined or missing
 		_.each(metadtaKeys, function(key, index) {
 			if (!_.has(root, key) || !root[key] || _.isEmpty(root[key])) {

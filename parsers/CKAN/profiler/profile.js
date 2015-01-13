@@ -170,22 +170,25 @@ function profile(parent) {
 
 	  function mergeAggregatedObject(report, key) {
 
-	  	target[key] = {};
 			// the report contains objects, groups, resources, license info, etc.
 			_.each(report, function(section, sectionKey) {
 
 				/* if we havent added that object key i.e group to the target then we do by filling it with the keys of the reports
 				* being [missing, undefined, etc.] and the value for them is an empty array
 				*/
+
 		  	_.each(section, function(element, elementKey) {
-				 if (_.has(target[key], elementKey)) {
-			  		// Now we want to uniquely merge this key into the existing one [we check if its an array to do union or an object to extend]
-			  		_.each(element, function(elementile) {
-			  			_.has(target[key][elementKey],elementile) ? target[key][elementKey][elementile]++ : target[key][elementKey][elementile] = 1;
-		  		});
-		  		} else if (!_.isEmpty(element)) {
-		  			target[key][elementKey] = _.object(_.zip(element,Array.apply(null, new Array(element.length)).map(Number.prototype.valueOf,1)));
-		  		}
+					if (_.has(target, key)) {
+					 if (_.has(target[key], elementKey)) {
+				  		// Now we want to uniquely merge this key into the existing one [we check if its an array to do union or an object to extend]
+				  		console.log(element);
+				  		_.each(element, function(elementile) {
+				  			_.has(target[key][elementKey],elementile) ? target[key][elementKey][elementile]++ : target[key][elementKey][elementile] = 1;
+			  		});
+			  		} else if (!_.isEmpty(element)) {
+			  			target[key][elementKey] = _.object(_.zip(element,Array.apply(null, new Array(element.length)).map(Number.prototype.valueOf,1)));
+			  		}
+					} else target[key] = {}
 		  	});
 			});
 	  }
@@ -242,7 +245,8 @@ function profile(parent) {
 			profile.printAggregatedReport(section.report);
 
 			// Create the statistics report about the report of each nsection
-			profile.printStatistics(_.omit(section, ["unreachableURLs", "report"]), sectionKey, profile.counter[sectionKey.toLowerCase()] );
+			var counter = sectionKey == "License" ? total : profile.counter[sectionKey.toLowerCase()];
+			profile.printStatistics(_.omit(section, ["unreachableURLs", "report"]), sectionKey, counter);
 			// Create the connectivity issues report
 			profile.printConnectivityIssues(sectionKey, section.unreachableURLs);
 
@@ -301,7 +305,6 @@ function profile(parent) {
 	* * @param {Integer} total: the total number of elements in that report used to generate the statistics
 	*/
 	this.printStatistics = function printStatistics(statisticsReport, key, total){
-
 		if (statisticsReport && _.size(statisticsReport)) {
 
 		// print the mini spearator for the statsitics section
