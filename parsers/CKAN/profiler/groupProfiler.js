@@ -25,7 +25,6 @@ function groupProfiler(parent) {
 			groupProfiler.crawler.getGroupDetails(function(error, data, message, groupList){
 				if (!error)
 					groupProfiler.generateGroupProfiles(groupList.result.packages, saveProfile, cachedProfiles, function(error, aggregateReport){
-
 						aggregateReport.prettyPrintAggregationReport(_.size(groupList.result.packages));
 						/* To Do : The saving process and prompt */
 						!error ? profilerCallback(false, false, {type: "info", message: "profilingCompleted"}) : profilerCallback(false, false, {type: "error", message: "profilingFailed"});
@@ -49,10 +48,12 @@ function groupProfiler(parent) {
 
 			// The user does not want to overwrite existing files, so we need to check if the file already exists and skip it
 			if (!cachedProfiles) {
-				groupProfiler.cache.getCache(groupProfiler.profilesFolder + "/" + item.name, function(error, file){
+				groupProfiler.cache.getCache(groupProfiler.profilesFolder + item.name, function(error, file){
 					if (!error) {
+						console.log(groupProfiler.profilesFolder + "/" + item.name);
 						// cache file has been found successfully, do the needed statistics and aggregations and go to next dataset
-						aggregateReport.mergeReports(aggregateReport.getAggregateReport(), file);
+						aggregateReport.aggregateCounter([file.counter]);
+						aggregateReport.mergeReports(aggregateReport.getAggregateReport(), _.omit(file,"counter"));
 						tick();
 					} else retreiveProfiles(fileName, url);
 				});
@@ -75,8 +76,15 @@ function groupProfiler(parent) {
 											if (!error) {
 
 												// merge the various metadata reports
-												report.mergeReportsUniquely([generalReport, ownershipReport, provenanceReport, accessReport]);
+												report.mergeReportsUniquely([generalReport.getProfile(), ownershipReport, provenanceReport, accessReport.getProfile()]);
+												// merge the counter information retreived
+												report.aggregateCounter([generalReport.getCounter(), accessReport.getCounter()]);
+
 												aggregateReport.mergeReports(aggregateReport.getAggregateReport(), report.getProfile());
+												aggregateReport.aggregateCounter([report.getCounter()]);
+
+												// add the counter to the profile to be saved
+												report.addObject("counter", report.getCounter());
 
 												// check if the user has selected he wishes to save the profile and enhanced profile
 												if (saveProfile) {

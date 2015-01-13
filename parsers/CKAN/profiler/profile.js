@@ -7,7 +7,6 @@ function profile(parent) {
 	extend(this, parent);
 
 	var util      = this.util;
-	var _         = this.util._;
 
 	// The default profile constructor
 	this.template        = {"missing" : [], "undefined" : [], "unreachableURLs": [], "report" : []};
