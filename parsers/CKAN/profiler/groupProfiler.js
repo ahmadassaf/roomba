@@ -25,8 +25,7 @@ function groupProfiler(parent) {
 			groupProfiler.crawler.getGroupDetails(function(error, data, message, groupList){
 				if (!error)
 					groupProfiler.generateGroupProfiles(groupList.result.packages, saveProfile, cachedProfiles, function(error, aggregateReport){
-						console.log(aggregateReport.getProfile());
-						aggregateReport.prettyPrint();
+						aggregateReport.prettyPrintAggregationReport();
 						/* To Do : The saving process and prompt */
 						!error ? profilerCallback(false, false, {type: "info", message: "profilingCompleted"}) : profilerCallback(false, false, {type: "error", message: "profilingFailed"});
 					});
@@ -52,7 +51,7 @@ function groupProfiler(parent) {
 				groupProfiler.cache.getCache(groupProfiler.profilesFolder + "/" + item.name, function(error, file){
 					if (!error) {
 						// cache file has been found successfully, do the needed statistics and aggregations and go to next dataset
-						aggregateReport.mergeReports(aggregateReport.getProfile(), file);
+						aggregateReport.mergeReports(aggregateReport.getAggregateReport(), file);
 						tick();
 					} else retreiveProfiles(fileName, url);
 				});
@@ -76,7 +75,7 @@ function groupProfiler(parent) {
 
 												// merge the various metadata reports
 												report.mergeReportsUniquely([generalReport, ownershipReport, provenanceReport, accessReport]);
-												aggregateReport.mergeReports(aggregateReport.getProfile(), report.getProfile());
+												aggregateReport.mergeReports(aggregateReport.getAggregateReport(), report.getProfile());
 
 												// check if the user has selected he wishes to save the profile and enhanced profile
 												if (saveProfile) {
