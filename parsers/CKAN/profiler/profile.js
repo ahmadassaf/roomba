@@ -127,6 +127,7 @@ function profile(parent) {
 	* @param {Array} excludeList: a set of keys where its elements will be excluded from merge
 	*/
 	this.mergeReports = function mergeReports(target, reports, excludeList) {
+
 		_.each(reports, function(report, key){
 			if (_.indexOf(excludeList, key) == -1) {
 		  	// Check if the target already has the key of this object already
@@ -137,7 +138,7 @@ function profile(parent) {
 			  			_.has(target[key],element) ? target[key][element]++ : target[key][element] = 1;
 			  		});
 			  	} else if (!_.isEmpty(report))
-			  	_.object(_.zip(report,Array.apply(null, new Array(report.length)).map(Number.prototype.valueOf,1)));
+			  	target[key] = _.object(_.zip(report,Array.apply(null, new Array(report.length)).map(Number.prototype.valueOf,1)));
 
 		  	} else mergeAggregatedObject(report, key);
 			}
@@ -257,7 +258,7 @@ function profile(parent) {
 
 						profile.printReport(element.report);
 						// create the statistics now by aggregating the information
-						aggregateReport = profile.mergeReports(aggregateReport,element,["report"]);
+						aggregateReport = profile.mergeReports(aggregateReport, element, ["report"]);
 				});
 				// Create the statistics report about the report of each section
 				profile.printStatistics(_.omit(aggregateReport, "unreachableURLs"), sectionKey, _.size(section));

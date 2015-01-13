@@ -26,6 +26,10 @@ function accessProfiler(parent) {
 				}
 				// Check if the groups object is defined and run the profiling process on its sub-components
 				if (root.resources && !_.isEmpty(root.resources)) {
+
+					// Add the number of resources to the profile for statistical use
+					profileTemplate.augmentCounter("resource", _.size(root.resources));
+
 					accessProfiler.resourceProfiling(root, function(error, profiler, dataset) {
 						if (!error) profilerCallback(false, profileTemplate.getProfile(), profileChanged, root);
 					});

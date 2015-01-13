@@ -30,6 +30,8 @@ function generalProfiler(parent) {
 		// Check if the groups object is defined and run the profiling process on its sub-components
 		if (root.tags && !_.isEmpty(root.tags)) {
 
+			// Add the number of tags to the profile for statistical use
+			profileTemplate.augmentCounter("tag", _.size(root.tags));
 			// Add the section to profile group information in the profile
 			profileTemplate.addObject("tag", {});
 
@@ -62,6 +64,8 @@ function generalProfiler(parent) {
 			// Check if the groups object is defined and run the profiling process on its sub-components
 			if (root.groups && !_.isEmpty(root.groups)) {
 
+				// Add the number of groups to the profile for statistical use
+				profileTemplate.augmentCounter("group", _.size(root.groups));
 				// Add the section to profile group information in the profile
 				profileTemplate.addObject("group", {});
 
