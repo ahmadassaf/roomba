@@ -12,7 +12,7 @@ function profile(parent) {
 	// The default profile constructor
 	this.template        = {"missing" : [], "undefined" : [], "unreachableURLs": [], "report" : []};
 	this.aggregateReport = {"missing" : {}, "undefined" : {}, "unreachableURLs": {}, "report" : {}};
-	this.counter         = {"group" : 10, "tag" : 50, "resource" : 2};
+	this.counter         = {"group" : 0, "tag" : 0, "resource" : 0};
 
 	/**
 	* Sets the current profile to a value passed by the user
@@ -35,6 +35,16 @@ function profile(parent) {
 	}
 
 	/**
+	* Gets the current counter and return back
+	*
+	* @method getCounter
+	* @return {Object} return the current counter
+	*/
+	this.getCounter = function getCounter() {
+		return this.counter;
+	}
+
+	/**
 	* Update the counter  of a specific key with a passed value
 	*
 	* @method augmentCounter
@@ -43,6 +53,21 @@ function profile(parent) {
 	*/
 	this.augmentCounter = function setProfile(key, value) {
 		this.counter[key] += value;
+	}
+
+	/**
+	* Update the counter  of a specific key with a passed array of counters
+	*
+	* @method augmentCounter
+	* @param {Array} counters: the counters Array we need to assign to update
+	*/
+	this.aggregateCounter = function aggregateCounter(counters) {
+		var profile = this;
+		_.each(counters, function(counter) {
+			_.each(counter, function(value, counterSection){
+				profile.counter[counterSection] += value;
+			});
+		});
 	}
 
 	/**

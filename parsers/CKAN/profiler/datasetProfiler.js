@@ -18,15 +18,21 @@ function datasetProfiler(parent) {
 						if (!error) {
 
 							// merge the profiling reports and prompt the user if he wants to save that report
-							report.mergeReportsUniquely([generalReport.getProfile(), ownershipReport.getProfile(), provenanceReport.getProfile(), accessReport.getProfile()]);
+							report.mergeReportsUniquely([generalReport.getProfile(), ownershipReport, provenanceReport, accessReport.getProfile()]);
+							// merge the counter information retreived
+							report.aggregateCounter([generalReport.getCounter(), accessReport.getCounter()]);
+
 							report.prettyPrint();
+
+							// add the counter to the profile to be saved
+							report.addObject("counter", report.getCounter());
 
 							if (profileChanged) {
 								datasetProfiler.CKANUtil.savePrompt("Enriched Metadata Profile", "enrichedFolder", enhancedProfile, function(error){
 									if (!error)
-										datasetProfiler.CKANUtil.promptSave(save, "profilesFolder", report, profilerCallback);
+										datasetProfiler.CKANUtil.promptSave(save, "profilesFolder", report.getProfile(), profilerCallback);
 								});
-							} else datasetProfiler.CKANUtil.promptSave(save, "profilesFolder", report, profilerCallback);
+							} else datasetProfiler.CKANUtil.promptSave(save, "profilesFolder", report.getProfile(), profilerCallback);
 						}
 					});
 				});

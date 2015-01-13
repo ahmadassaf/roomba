@@ -24,7 +24,7 @@ function provenanceProfiler(parent) {
 			} else profileTemplate.addEntry("missing", key, key + " field is missing");
 		});
 
-		profilerCallback(false, profileTemplate);
+		profilerCallback(false, profileTemplate.getProfile());
 
 	}
 }

@@ -63,10 +63,10 @@ function ownershipProfiler(parent) {
 					if (root.organization.image_url) {
 						profileTemplate.addEntry("unreachableURLs", root.organization.image_url);
 					}
-					profilerCallback(false, profileTemplate);
-				} else profilerCallback(false, profileTemplate);
+					profilerCallback(false, profileTemplate.getProfile());
+				} else profilerCallback(false, profileTemplate.getProfile());
 			});
-		} else profilerCallback(false, profileTemplate);
+		} else profilerCallback(false, profileTemplate.getProfile());
 	}
 }
 
