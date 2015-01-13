@@ -176,7 +176,7 @@ function profile(parent) {
 	*/
 	this.printAggregatedReport = function printReport(report) {
 		_.each(report, function(number, message){
-			console.log(number + " " + message);
+			console.log("[" + number + "] " + message);
 		});
 	}
 
@@ -194,6 +194,7 @@ function profile(parent) {
 		// print out the report text line by line
 		profile.createTitleHead("white", "Metadata Report");
 		profile.printAggregatedReport(report.report);
+		profile.printStatistics(_.omit(report, ["tag", "resource", "group", "license", "unreachableURLs", "report" ]), "Dataset", 3);
 
 		if (report.unreachableURLs) profile.printConnectivityIssues("Dataset", report.unreachableURLs, true);
 
@@ -263,6 +264,7 @@ function profile(parent) {
 	* * @param {Integer} total: the total number of elements in that report used to generate the statistics
 	*/
 	this.printStatistics = function printStatistics(statisticsReport, key, total){
+
 		if (statisticsReport && _.size(statisticsReport)) {
 
 		// print the mini spearator for the statsitics section
