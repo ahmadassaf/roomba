@@ -48,6 +48,7 @@ Cache.prototype.createCacheFolder = function createCacheFolder(folder, callback,
 * @param {Function} callback: Returns the data if it has been already cached
 *                             Returns true error if the file has not been saved before
 *                             Quit the application after logging error message when error happens
+* @param {String} cache_folder: the name of the folder if it defers from the default cache folder
 */
 
 Cache.prototype.getCache = function getCache(cache_filename, callback, cache_folder) {
@@ -117,7 +118,7 @@ Cache.prototype.setCache = function setCache(cache_filename, data, callback) {
 * Removes a file from the filesystem
 *
 * @method removeFile
-* @param {String} url: The file system path
+* @param {String} cache_filename: The file name of the file we wish to remove
 */
 Cache.prototype.removeFile = function removeFile(cache_filename) {
 	cache_filename = this.cache_foldername + cache_filename + ".json";
@@ -128,7 +129,7 @@ Cache.prototype.removeFile = function removeFile(cache_filename) {
 * Removes a folder from the filesystem
 *
 * @method removeFolder
-* @param {String} url: The file system path
+* @param {String} foldername: The file system path for the folder we wish to remove
 */
 Cache.prototype.removeFolder = function removeFolder(foldername) {
 	cache_name = this.cache_foldername + foldername;
