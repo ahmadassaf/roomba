@@ -19,7 +19,7 @@ function util(options, messages) {
 *
 * @method checkValidAddress
 * @param {String} question: the prompt you need to send for address entry
-* @return {Boolean} Returns true on success
+* @param {Function} callback: Returns true on success
 */
 
 util.prototype.checkValidAddress = function checkValidAddress(question, callback) {
@@ -55,7 +55,8 @@ util.prototype.checkValidAddress = function checkValidAddress(question, callback
 *
 * @method checkAddress
 * @param {String} url: the URL we want to check
-* @return {Boolean} Returns true on success
+* @param {Function} callback: Returns true on success
+* @param {String} method: HTTP method if different than the default:POST
 */
 
 util.prototype.checkAddress = function (url, callback, method) {
@@ -73,7 +74,8 @@ util.prototype.checkAddress = function (url, callback, method) {
 * @method checkExitCode
 * @param {String} name: the name of the input operation
 * @param {String} message: the prompt message to ask the user
-* @return {String} Returns the user entry
+* @param {Function} callback: Returns the user entry
+* @param {Boolean} condition: A special check to measure against
 */
 util.prototype.getInput = function getInput(name, message, callback, condition) {
 	// Create a new commander interface where we will ask the first questionand then try to validate the URL and the web address
@@ -95,7 +97,7 @@ util.prototype.getInput = function getInput(name, message, callback, condition) 
 * @method confirm
 * @param {String} name: the name of the input operation
 * @param {String} message: the prompt message to ask the user
-* @return {String} Returns the user entry
+* @param {Function} callback: Returns the user entry
 */
 util.prototype.confirm = function getInput(name, message, callback) {
 	// Create a new commander interface where we will ask the first questionand then try to validate the URL and the web address
@@ -164,6 +166,18 @@ util.prototype.downloadWithProgress = function downloadWithProgress(cache, fileN
 	});
 };
 
+
+/**
+* Download a specified file from a URL using request not showing progress bar
+* This function will check if the requested file has been fetched and saved in a cache
+* if found, the file will be fetched from the cache, else it will be fetched from the URL
+*
+* @method downloadWithProgress/download
+* @param {Object} cache: The instance of the cache function
+* @param {String} filename: The file name to be cached or retreived from cache
+* @param {String} url: The URL for the resource to be downloaded
+* @param {Function} callback: the function that will get the sucess/fail and result
+*/
 util.prototype.download = function download(cache, fileName, url, callback){
 
 	var util = this;
@@ -191,7 +205,6 @@ util.prototype.download = function download(cache, fileName, url, callback){
 * @param {String} message: The question/ message printed before the choices list
 * @param {Array} choices: The set of questions i.e. {value: , name:}
 * @param {Function} callback: return the user selection to the callee function
-* @return {String} The user's selected action from the specified list
 */
 
 util.prototype.promptActionList = function promptActionList(type, name, message, choices, callback) {
