@@ -91,7 +91,7 @@ function generalProfiler(parent) {
 							}
 						// do the necessary checks and iterate to the next item in the async
 						next();
-						});
+						}, "HEAD");
 					} else next();
 
 					// Check if the group report is not empty and add it to the main profile report
@@ -120,7 +120,7 @@ function generalProfiler(parent) {
 					}
 					profilerCallback(false, profileTemplate);
 				} else profilerCallback(false, profileTemplate);
-			});
+			}, "HEAD");
 		}
 
 	}

@@ -50,7 +50,6 @@ function groupProfiler(parent) {
 			if (!cachedProfiles) {
 				groupProfiler.cache.getCache(groupProfiler.profilesFolder + item.name, function(error, file){
 					if (!error) {
-						console.log(groupProfiler.profilesFolder + "/" + item.name);
 						// cache file has been found successfully, do the needed statistics and aggregations and go to next dataset
 						aggregateReport.aggregateCounter([file.counter]);
 						aggregateReport.mergeReports(aggregateReport.getAggregateReport(), _.omit(file,"counter"));

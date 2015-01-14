@@ -181,7 +181,6 @@ function profile(parent) {
 					if (_.has(target, key)) {
 					 if (_.has(target[key], elementKey)) {
 				  		// Now we want to uniquely merge this key into the existing one [we check if its an array to do union or an object to extend]
-				  		console.log(element);
 				  		_.each(element, function(elementile) {
 				  			_.has(target[key][elementKey],elementile) ? target[key][elementKey][elementile]++ : target[key][elementKey][elementile] = 1;
 			  		});

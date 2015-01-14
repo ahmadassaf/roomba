@@ -169,7 +169,7 @@ function accessProfiler(parent) {
 						resourceReport.addEntry("report", "The url for this resource is not reachable !");
 						// Augment new field to the resource metadata file to indicate that the resource is not reachable
 						resource["resource_reachable"] = false;
-					} else if (response.headers["content-length"] || response.headers["content-type"]) {
+					} else{
 
 						// The url is de-referenced correctly, we need to check if some values are defined correctly
 						var resource_size, resource_mimeType;
@@ -181,6 +181,8 @@ function accessProfiler(parent) {
 							// Check if the resource size is correct
 							if ((resource.size && resource.size !== resource_size) || !resource.size)
 								resourceReport.addEntry("report", "The size for resource is not defined correctly. Provided: " + parseInt(resource.size) + " where the actual size is: " + parseInt(resource_size));
+							// correct the values with the actual ones
+							resource.size     = resource_size;
 						}
 
 						if (response.headers["content-type"]) {
@@ -190,17 +192,16 @@ function accessProfiler(parent) {
 							// check if the mimeType is correct
 							if ( (resource.mimetype && resource.mimetype !== resource_mimeType) || !resource.mimetype)
 								resourceReport.addEntry("report", "The mimeType for resource is not defined correctly. Provided: " + resource.mimetype + " where the actual type is: " + resource_mimeType);
+							// correct the values with the actual ones
+							resource.mimetype = resource_mimeType;
 						}
 
-						// correct the values with the actual ones
-						resource.size     = resource_size;
-						resource.mimetype = resource_mimeType;
 						// indicate that the resource is reachable
 						resource["resource_reachable"] = true;
 						profileChanged = true;
 					}
 					next();
-				});
+				}, "HEAD");
 			} else next();
 
 			// do the necessary checks and iterate to the next item in the async
