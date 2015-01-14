@@ -50,7 +50,6 @@ var messages =   {
 				separator
 				],
 				"reportGenerationChoiceList" : [
-				{ "value" : "licensesReport"         , "name" : "Aggregate datasets License Information"}       ,
 				{ "value" : "valueAggregator"        , "name" : "Aggregate a meta-field values"}                ,
 				{ "value" : "objectValueAggregator"  , "name" : "Aggregate a key:object meta-field values"}     ,
 				{ "value" : "exit"                   , "name" : "<-- Go back to previous menu"}								  ,

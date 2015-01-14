@@ -7,18 +7,6 @@ function reportFactory(parent) {
 	var reportFactory = this;
 	var _             = this.util._;
 
-
-	this.getLicenseInformation = function getLicenseInformation(dataset, executionCallback) {
-
-		var obj  = {};
-		var root = dataset.result ? dataset.result : dataset;
-
-		if (root.license_title) {
-			obj[root.license_title] =  root.license_url ? [root.license_url] : [];
-		}
-		executionCallback(false, obj);
-	}
-
 	this.getObjectKeyValues = function getObjectKeyValues(dataset, field, executionCallback) {
 
 		var obj  = {};

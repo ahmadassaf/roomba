@@ -59,19 +59,7 @@ function reportGenerator(parent) {
 		getReportDetails();
 
 		function getReportDetails() {
-			if (action == "licensesReport")
-				execute();
-			else {
-				if (action == "valueAggregator")
-						// get the users manual input for the field name he wishes to retrieve
-					reportGenerator.util.getInput( "fieldName", "Please enter the Field Name you wish to get details for [Note: For nested fields use '>' e.g. resources>resource_type]", function(field){
-						execute(field);
-					});
-					else
-						reportGenerator.util.getInput( "fieldName", "Please enter the key/value details. Please separate them using ':' and use '>' for nested fields. e.g. resources>resource_type:resources>name", function(field){
-							execute(field);
-						}, ":");
-				}
+			action == "valueAggregator" ? reportGenerator.util.getInput( "fieldName", "Please enter the Field Name you wish to get details for [Note: For nested fields use '>' e.g. resources>resource_type]", function(field){ execute(field) }) : reportGenerator.util.getInput( "fieldName", "Please enter the key/value details. Please separate them using ':' and use '>' for nested fields. e.g. resources>resource_type:resources>name", function(field){ execute(field)}, ":");
 			}
 
 		function execute(prompt) {
@@ -94,14 +82,6 @@ function reportGenerator(parent) {
 						 */
 
 						 switch(action) {
-						 	case "licensesReport" :
-								// Call the AccessProfiler that will aggregate the licenses information
-								reportGenerator.reportFactory.getLicenseInformation(dataset, function(error, report){
-									if (_.has(objectReport, Object.keys(report))) {
-										objectReport[Object.keys(report)].push(report[Object.keys(report)]);
-										objectReport[Object.keys(report)] = _.uniq(_.flatten(objectReport[Object.keys(report)]));
-									} else _.extend(objectReport, report);
-								}); break;
 								case "valueAggregator" :
 								reportGenerator.reportFactory.getFieldValues(dataset, prompt, function(error, report){
 									if (!error) arrayReport = _.union(arrayReport, _.flatten(report));
