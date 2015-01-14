@@ -75,6 +75,7 @@ function reportGenerator(parent) {
 					// If the file has been fetched successfully log it into the error.json
 					if (error) pace.op({errors: 1});
 					else {
+
 						 /* Here we will be executing the several actions to generate desired reports
 						 * Report 1: Licenss Report: Aggregate all the license information used in a portal
 						 * Report 2: Check all the possible values of a certain field giving its path
