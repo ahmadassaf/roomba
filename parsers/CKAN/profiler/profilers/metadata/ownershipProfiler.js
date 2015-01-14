@@ -12,30 +12,25 @@ function ownershipProfiler(parent) {
 
 	this.start      = function start(dataset, profilerCallback) {
 
+		var metadtaKeys      = ["maintainer", "maintainer_email", "owner_org", "author", "author_email"];
+		var organizationKeys = ["description", "title", "created", "approval_status", "revision_timestamp", "revision_id", "is_organization", "state", "type", "id", "name"];
 
-		var metadtaKeys     = ["maintainer", "maintainer_email", "owner_org", "author", "author_email"];
-		var profileTemplate = new profile(this);
+		var profileTemplate  = new profile(this);
 
-		var root            = dataset.result ? dataset.result : dataset;
-		var dataset_keys    = _.keys(root);
+		var root             = dataset.result ? dataset.result : dataset;
+		var dataset_keys     = _.keys(root);
 
-		_.each(metadtaKeys, function(key, index) {
-			if (_.has(root, key)) {
-				if (!root[key] || _.isEmpty(root[key]))
-					profileTemplate.addEntry("undefined", key, key + " field exists but there is no value defined");
-			} else profileTemplate.addEntry("missing", key, key + " field is missing");
-		});
+		profileTemplate.insertKeys(metadtaKeys, root);
 
 		// Call the series of validation checks i want to run on the dataset
 		ownershipProfiler.async.series([checkOrganization, checkEmailAddresses, checkURLsConnectivity], function(err){
 			profilerCallback(false, profileTemplate.getProfile());
-		})
+		});
 
 		function checkOrganization(callback) {
 			// Check if the groups object is defined and run the profiling process on its sub-components
 			if (_.has(root, "organization") && root.organization) {
 
-				var organizationKeys = ["description", "title", "created", "approval_status", "revision_timestamp", "revision_id", "is_organization", "state", "type", "id", "name"];
 
 				// Loop through the meta keys and check if they are undefined or missing
 				_.each(organizationKeys, function(key, index) {
@@ -70,16 +65,9 @@ function ownershipProfiler(parent) {
 		function checkURLsConnectivity(callback){
 			// Check if the image_url field for organization is referenceable
 			if (_.has(root, "organization") && _.has(root.organization, "image_url")) {
-				 ownershipProfiler.util.checkAddress(root.organization.image_url, function(error, body) {
-					if (error) {
-						profileTemplate.addEntry("report", "The organization image_url defined for this dataset is not reachable !");
-						if (root.organization.image_url) profileTemplate.addEntry("unreachableURLs", root.organization.image_url);
-
-						callback();
-
-					} else callback();
-				}, "HEAD");
-			}
+				profileTemplate.checkReferencability(ownershipProfiler.util, root.organization.image_url, "The organization image_url defined for this dataset is not reachable !", function(){
+					callback(); });
+			} else callback();
 		}
 	}
 }

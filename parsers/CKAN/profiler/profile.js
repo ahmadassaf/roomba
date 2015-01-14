@@ -7,10 +7,14 @@ function profile(parent) {
 
 	var util      = this.util;
 
-	// The default profile constructor
+	// The default profile constructors
 	this.template        = {"missing" : [], "undefined" : [], "unreachableURLs": [], "report" : []};
 	this.aggregateReport = {"missing" : {}, "undefined" : {}, "unreachableURLs": {}, "report" : {}};
 	this.counter         = {"group" : 0, "tag" : 0, "resource" : 0};
+
+
+	/**************************** Setters and Getters ****************************/
+
 
 	/**
 	* Sets the current profile to a value passed by the user
@@ -42,31 +46,6 @@ function profile(parent) {
 		return this.counter;
 	}
 
-	/**
-	* Update the counter  of a specific key with a passed value
-	*
-	* @method augmentCounter
-	* @param {String} key: the counter section we need to assign to update
-	* @param {Integer} value: the numerical value we want to increase the counter by
-	*/
-	this.augmentCounter = function setProfile(key, value) {
-		this.counter[key] += value;
-	}
-
-	/**
-	* Update the counter  of a specific key with a passed array of counters
-	*
-	* @method augmentCounter
-	* @param {Array} counters: the counters Array we need to assign to update
-	*/
-	this.aggregateCounter = function aggregateCounter(counters) {
-		var profile = this;
-		_.each(counters, function(counter) {
-			_.each(counter, function(value, counterSection){
-				profile.counter[counterSection] += value;
-			});
-		});
-	}
 
 	/**
 	* Gets the current aggregate Report and return back
@@ -76,6 +55,17 @@ function profile(parent) {
 	*/
 	this.getAggregateReport = function getProfile() {
 		return this.aggregateReport;
+	}
+
+	/**
+	* Update the counter  of a specific key with a passed value
+	*
+	* @method augmentCounter
+	* @param {String} key: the counter section we need to assign to update
+	* @param {Integer} value: the numerical value we want to increase the counter by
+	*/
+	this.augmentCounter = function setProfile(key, value) {
+		this.counter[key] += value;
 	}
 
 	/**
@@ -109,15 +99,64 @@ function profile(parent) {
 	}
 
 	/**
-	* Check if the current profile is empty
+	* Inserts entries to the profile i.e insert an entry for a missing field
+	* by parsing an array of keys against the dataset
 	*
-	* @method isEmpty
-	* @return {Object} return true if the profile is empty, false if not
+	* @method parseKeys
+	* @param {Array} metadtaKeys: the keys array we want to check against
+	* @param {Object} dataset: the dataset we want to examine
+	* @param {String} profile: the explaination of the entry added to the report
 	*/
-	this.isEmpty = function isEmpty() {
-		if ( _.isEmpty(this.template.missing) && _.isEmpty(this.template["undefined"]) && _.isEmpty(this.template.unreachableURLs) && _.isEmpty(this.template.report))
-			return true
-		else return false;
+	this.insertKeys = function addEntry(metadtaKeys, dataset) {
+
+		var profile = this;
+
+		_.each(metadtaKeys, function(key, index) {
+			if (_.has(dataset, key)) {
+				if (!dataset[key] || _.isEmpty(dataset[key]))
+					profile.addEntry("undefined", key, key + " field exists but there is no value defined");
+			} else profile.addEntry("missing", key, key + " field is missing");
+		});
+	}
+
+	/**
+	* Inserts entries to the profile i.e insert an entry for a missing field
+	* by checking the connectivity of the passed URL
+	*
+	* @method checkReferencability
+	* @param {Object} util: the util object [contains helper functions]
+	* @param {String} url: the url we want to check against
+	* @param {String} message: the message we want to add to the report
+	* @param {Function} callback: return the check value
+	*/
+	this.checkReferencability = function checkReferencability(util, url, message, callback) {
+
+		var profile = this;
+
+		util.checkAddress(url, function(error, body, response) {
+			if (error) {
+				profile.addEntry("report", message);
+				profile.addEntry("unreachableURLs", url);
+				callback(true);
+			} else callback(false, response);
+		}, "HEAD");
+	}
+
+	/**************************** Mergers & Aggregators ****************************/
+
+	/**
+	* Update the counter  of a specific key with a passed array of counters
+	*
+	* @method augmentCounter
+	* @param {Array} counters: the counters Array we need to assign to update
+	*/
+	this.aggregateCounter = function aggregateCounter(counters) {
+		var profile = this;
+		_.each(counters, function(counter) {
+			_.each(counter, function(value, counterSection){
+				profile.counter[counterSection] += value;
+			});
+		});
 	}
 
 	/**
@@ -192,6 +231,7 @@ function profile(parent) {
 	  return target;
 	}
 
+	/**************************** Printers and Display ****************************/
 
 	/**
 	* Prints the report generated line by line
@@ -348,6 +388,22 @@ function profile(parent) {
 	this.createTitleHead = function createTitleHead(color, title) {
 		util.colorify(color, util.createSeparator(80, "=", true) +  util.createSeparator(30, " ") + title + "\n"  + util.createSeparator(80,"="));
 	}
+
+	/**************************** Utilities ****************************/
+
+	/**
+	* Check if the current profile is empty
+	*
+	* @method isEmpty
+	* @return {Object} return true if the profile is empty, false if not
+	*/
+	this.isEmpty = function isEmpty() {
+		if ( _.isEmpty(this.template.missing) && _.isEmpty(this.template["undefined"]) && _.isEmpty(this.template.unreachableURLs) && _.isEmpty(this.template.report))
+			return true
+		else return false;
+	}
+
 };
+
 
 module.exports = profile;

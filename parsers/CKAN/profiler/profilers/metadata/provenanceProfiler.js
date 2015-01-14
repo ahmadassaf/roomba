@@ -17,12 +17,7 @@ function provenanceProfiler(parent) {
 		var root            = dataset.result ? dataset.result : dataset;
 		var dataset_keys    = _.keys(root);
 
-		_.each(metadtaKeys, function(key, index) {
-			if (_.has(root, key)) {
-				if (!root[key] || _.isEmpty(root[key]))
-					profileTemplate.addEntry("undefined", key, key + " field exists but there is no value defined");
-			} else profileTemplate.addEntry("missing", key, key + " field is missing");
-		});
+		profileTemplate.insertKeys(metadtaKeys, root);
 
 		profilerCallback(false, profileTemplate.getProfile());
 
