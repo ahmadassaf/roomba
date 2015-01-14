@@ -1,4 +1,3 @@
-
 var _               = require("underscore");
 var extend          = require('extend');
 
@@ -124,8 +123,7 @@ function profile(parent) {
 	/**
 	* Unqieuly merges all the properties of objects into a target
 	*
-	* @method mergeObjects
-	* @param {Object} target: the object we need to copy our objects and their properties into
+	* @method mergeReportsUniquely
 	* @param {Array} objects: An Array of objects on which will be copied into the target
 	* @return {Object} output the desired object with all the targets and their properties uniquely merged
 	*/
@@ -211,7 +209,7 @@ function profile(parent) {
 	* Prints an aggregated report generated line by line
 	* the function aggregates the various reports and produce several statistics
 	*
-	* @method printReport
+	* @method printAggregatedReport
 	*/
 	this.printAggregatedReport = function printReport(report) {
 		_.each(report, function(number, message){
@@ -339,6 +337,14 @@ function profile(parent) {
 		}
 	}
 
+
+	/**
+	* Prints the title head used for report sections
+	*
+	* @method createTitleHead
+	* @param {String} color: the color of the ext
+	* @param {String} title: the section title
+	*/
 	this.createTitleHead = function createTitleHead(color, title) {
 		util.colorify(color, util.createSeparator(80, "=", true) +  util.createSeparator(30, " ") + title + "\n"  + util.createSeparator(80,"="));
 	}
