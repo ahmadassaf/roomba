@@ -13,7 +13,7 @@ function ownershipProfiler(parent) {
 	this.start      = function start(dataset, profilerCallback) {
 
 		var metadtaKeys      = ["maintainer", "maintainer_email", "owner_org", "author", "author_email"];
-		var organizationKeys = ["description", "title", "created", "approval_status", "revision_timestamp", "revision_id", "is_organization", "state", "type", "id", "name"];
+		var organizationKeys = ["description", "title", "created", "approval_status", "revision_timestamp", "revision_id", "is_organization", "state", "type", "id", "name", "image_url"];
 
 		var profileTemplate  = new profile(this);
 
@@ -64,7 +64,7 @@ function ownershipProfiler(parent) {
 
 		function checkURLsConnectivity(callback){
 			// Check if the image_url field for organization is referenceable
-			if (_.has(root, "organization") && _.has(root.organization, "image_url")) {
+			if (_.has(root, "organization") && _.has(root.organization, "image_url") && root.organization.image_url) {
 				profileTemplate.checkReferencability(ownershipProfiler.util, root.organization.image_url, "The organization image_url defined for this dataset is not reachable !", function(){
 					callback(); });
 			} else callback();

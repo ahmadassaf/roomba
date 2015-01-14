@@ -118,8 +118,6 @@ function accessProfiler(parent) {
 			// Check if the groups object is defined and run the profiling process on its sub-components
 			if (root.resources && !_.isEmpty(root.resources)) {
 
-				// Add the number of resources to the profile for statistical use
-				profileTemplate.augmentCounter("resource", _.size(root.resources));
 				// Add the section to profile group information in the profile
 				profileTemplate.addObject("resource", {});
 
@@ -129,8 +127,11 @@ function accessProfiler(parent) {
 					var resourceID               = resource["name"] || resource["description"] || resource["id"];
 					var resourceReport           = new profile(accessProfiler);
 
+					// Add the number of resources to the profile for statistical use
+					profileTemplate.augmentCounter("resource", _.size(root.resources));
+
 					// Loop through the meta keys and check if they are undefined or missing
-					resourceReport.insertKeys(resourceKeys, root);
+					resourceReport.insertKeys(resourceKeys, resource);
 
 					// Check if there is a url defined and start the connectivity checks and corrections
 					if (resource.url) {
