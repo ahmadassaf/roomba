@@ -34,6 +34,7 @@ function CKAN(options, util, cache, url) {
 
 		// Inject modules dependency over those who require them i.e. parser before crawler
 		this.CKANUtil = new CKANUtil(this);
+
 		this.parser   = new parser(this);
 		this.crawler  = new crawler(this);
 		this.profiler = new profiler(this);
