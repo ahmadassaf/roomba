@@ -74,10 +74,12 @@ function ownershipProfiler(parent) {
 					if (error) {
 						profileTemplate.addEntry("report", "The organization image_url defined for this dataset is not reachable !");
 						if (root.organization.image_url) profileTemplate.addEntry("unreachableURLs", root.organization.image_url);
-					}
+
+						callback();
+
+					} else callback();
 				}, "HEAD");
 			}
-			callback();
 		}
 	}
 }
