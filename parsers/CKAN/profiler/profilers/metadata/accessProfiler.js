@@ -1,4 +1,4 @@
-var profile = require('../../profile');
+var profile = require('../profile');
 
 var extend  = require('extend');
 
