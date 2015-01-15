@@ -189,12 +189,13 @@ function accessProfiler(parent) {
 
 		function checkResourcesNumber(callback) {
 			// Check if the number of resources is the same as the number of resources defined
-			if (_.has(root, "num_resources") && root.resources && root.resources.length) {
-				if (root.num_resources !== root.resources.length) {
-					profileTemplate.addEntry("report", "num_resources field for this dataset is not correct. Provided: " + parseInt(root.num_resources) + " where the actual number is: " + parseInt(root.resources.length));
-					root.num_resources = root.resources.length;
-					profileChanged = true;
-				}
+			if (_.has(root, "num_resources")) {
+				var resourcesLength = root.resources ? root.resources.length  : 0;
+					if (root.num_resources !== resourcesLength) {
+						profileTemplate.addEntry("report", "num_resources field for this dataset is not correct. Provided: " + parseInt(root.num_resources) + " where the actual number is: " + parseInt(resourcesLength));
+						root.num_resources = resourcesLength;
+						profileChanged = true;
+					}
 			} else {
 				profileTemplate.addEntry("missing", "num_resources", "num_resources field is missing");
 				if (root.resources && root.resources.length) {
