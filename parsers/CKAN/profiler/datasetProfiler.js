@@ -11,32 +11,34 @@ function datasetProfiler(parent) {
 
 	this.profile = function profile(dataset, save, profilerCallback) {
 
-		datasetProfiler.metadataProfiler.generalProfiler.start(dataset, function(error, generalReport){
-			if (!error) datasetProfiler.metadataProfiler.ownershipProfiler.start(dataset, function(error, ownershipReport){
-				if (!error) datasetProfiler.metadataProfiler.provenanceProfiler.start(dataset, function(error, provenanceReport){
-					if (!error) datasetProfiler.metadataProfiler.accessProfiler.start(dataset, function(error, accessReport, profileChanged, enhancedProfile){
-						if (!error) {
+		datasetProfiler.async.parallel({
 
-							// merge the profiling reports and prompt the user if he wants to save that report
-							report.mergeReportsUniquely([generalReport.getProfile(), ownershipReport, provenanceReport, accessReport.getProfile()]);
-							// merge the counter information retreived
-							report.aggregateCounter([generalReport.getCounter(), accessReport.getCounter()]);
+			generalProfiler   : datasetProfiler.metadataProfiler.generalProfiler.start.bind(null,dataset),
+			ownershipProfiler : datasetProfiler.metadataProfiler.ownershipProfiler.start.bind(null,dataset),
+			provenanceProfiler: datasetProfiler.metadataProfiler.provenanceProfiler.start.bind(null,dataset),
+			accessProfiler    : datasetProfiler.metadataProfiler.accessProfiler.start.bind(null, dataset)
 
-							report.prettyPrint();
+		}, function (err, result) {
 
-							// add the counter to the profile to be saved
-							report.addObject("counter", report.getCounter());
+				// merge the profiling reports and prompt the user if he wants to save that report
+				report.mergeReportsUniquely([result.generalProfiler.getProfile(), result.ownershipProfiler, result.provenanceProfiler, result.accessProfiler.profile.getProfile()]);
+				// merge the counter information retreived
+				report.aggregateCounter([result.generalProfiler.getCounter(), result.accessProfiler.profile.getCounter()]);
+				// print the generated merged report
+				report.prettyPrint();
+				// add the counter to the profile to be saved
+				report.addObject("counter", report.getCounter());
+				// Check if the save prompt is valid to be displayed for saving report and enhanced profile
+				displaySavePrompt();
 
-							if (profileChanged) {
-								datasetProfiler.CKANUtil.savePrompt("Enriched Metadata Profile", "enrichedFolder", enhancedProfile, function(error){
-									if (!error)
-										datasetProfiler.CKANUtil.promptSave(save, "profilesFolder", report.getProfile(), profilerCallback);
-								});
-							} else datasetProfiler.CKANUtil.promptSave(save, "profilesFolder", report.getProfile(), profilerCallback);
-						}
-					});
-				});
-			});
+				function displaySavePrompt() {
+					if (result.accessProfiler.isChanged) {
+						datasetProfiler.CKANUtil.savePrompt("Enriched Metadata Profile", "enrichedFolder", result.accessProfiler.enhancedProfile, function(error){
+							if (!error)
+								datasetProfiler.CKANUtil.promptSave(save, "profilesFolder", report.getProfile(), profilerCallback);
+						});
+					} else datasetProfiler.CKANUtil.promptSave(save, "profilesFolder", report.getProfile(), profilerCallback);
+				}
 		});
 	}
 

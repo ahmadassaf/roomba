@@ -23,7 +23,7 @@ function accessProfiler(parent) {
 
 		// Call the series of validation checks i want to run on the dataset
 		accessProfiler.async.series([checkLicenses, resourceProfiling, checkCounts], function(err){
-			profilerCallback(false, profileTemplate, profileChanged, root);
+			profilerCallback(false, { "profile" : profileTemplate, "isChanged" : profileChanged, "enhancedProfile" : root});
 		});
 
 		function checkLicenses(callback) {
