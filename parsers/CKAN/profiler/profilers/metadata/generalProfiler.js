@@ -75,13 +75,17 @@ function generalProfiler(parent) {
 					groupProfile.insertKeys(groupsKeys, group);
 
 					if (group.image_display_url) {
-						groupProfile.checkReferencability(generalProfiler.util, root.organization.image_url, "The image_display_url defined for this group is not reachable !", function(){
-							if (!groupProfile.isEmpty()) {
+						groupProfile.checkReferencability(generalProfiler.util, group.image_display_url, "The image_display_url defined for this group is not reachable !", function(){
+							nextAsync();
+						});
+					} else nextAsync();
+
+					function nextAsync() {
+						if (!groupProfile.isEmpty()) {
 								profileTemplate.addObject(groupID,groupProfile.getProfile(),"group");
 							}
-							asyncCallback();
-						});
-					} else asyncCallback();
+						asyncCallback();
+					}
 
 				},function(err){ callback() });
 			} else {
