@@ -132,7 +132,7 @@ function Cache(dirname, folderName) {
 
 	Cache.prototype.createCacheFolder = function createCacheFolder(folder, callback, isRoot) {
 		// Check if the folder created is not the root, else append the root folder path
-		var foldername   = isRoot ? folder : Cache.cache_foldername + folder ;
+		var foldername   = isRoot ? folder : this.cache_foldername + folder ;
 		mkdir(foldername, function (error) {
 			if (callback) callback(null, foldername);
 				else if (error){

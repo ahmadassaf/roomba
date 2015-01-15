@@ -38,7 +38,7 @@ function groupProfiler(parent) {
 		var folderName      = this.datasetsFolder;
 		var pace            = require('awesome-progress')({total: groupList.length, finishMessage: this.options.info.datasetsFetched, errorMessage: this.options.error.parseError});
 		var profilingErrors = [];
-var counter = 0;
+
 		// Parse through the dataset list items and fetch the corresponding JSON file
 		groupProfiler.async.eachSeries(groupList, function(item, asyncCallback){
 
