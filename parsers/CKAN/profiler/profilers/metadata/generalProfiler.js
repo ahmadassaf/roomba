@@ -11,7 +11,7 @@ function generalProfiler(parent) {
 
 	this.start      = function start(dataset, profilerCallback) {
 
-		var metadtaKeys     = ["private", "id", "state", "type", "name", "isopen", "url", "notes", "title"];
+		var metadtaKeys     = ["private", "id", "state", "type", "name", "isopen", "url", "notes", "title", "num_tags", "num_resources"];
 		var groupsKeys      = ["display_name", "description", "title", "image_display_url", "id", "name"];
 		var tagsKeys        = ["vocabulary_id", "display_name", "name", "revision_timestamp", "state", "id"];
 

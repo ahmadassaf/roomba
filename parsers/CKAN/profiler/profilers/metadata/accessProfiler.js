@@ -16,12 +16,13 @@ function accessProfiler(parent) {
 
 		var licenseKeys  = ["license_title", "license_id", "license_url"];
 		var resourceKeys = ["resource_group_id", "cache_last_updated", "revision_timestamp", "webstore_last_updated", "id", "size", "state", "hash", "description", "format", "mimetype_inner", "url-type", "mimetype", "cache_url", "name", "created", "url", "webstore_url", "last_modified", "position", "revision_id", "resource_type" ];
+		var countKeys    = ["num_tags", "num_resources"];
 
 		var root         = dataset.result ? dataset.result : dataset;
 		var dataset_keys = _.keys(root);
 
 		// Call the series of validation checks i want to run on the dataset
-		accessProfiler.async.series([checkLicenses, resourceProfiling, checkResourcesNumber], function(err){
+		accessProfiler.async.series([checkLicenses, resourceProfiling, checkCounts], function(err){
 			profilerCallback(false, profileTemplate, profileChanged, root);
 		});
 
@@ -187,22 +188,23 @@ function accessProfiler(parent) {
 			}
 		}
 
-		function checkResourcesNumber(callback) {
-			// Check if the number of resources is the same as the number of resources defined
-			if (_.has(root, "num_resources")) {
-				var resourcesLength = root.resources ? root.resources.length  : 0;
-					if (root.num_resources !== resourcesLength) {
-						profileTemplate.addEntry("report", "num_resources field for this dataset is not correct. Provided: " + parseInt(root.num_resources) + " where the actual number is: " + parseInt(resourcesLength));
-						root.num_resources = resourcesLength;
+		function checkCounts(callback) {
+
+			_.each(countKeys, function(key){
+				// Check if the number of elements is the same as the number defined
+				var actualLength = root[key.split("_")[1]] ? root[key.split("_")[1]].length  : 0;
+
+				if (_.has(root, key)) {
+					if (root[key] !== actualLength) {
+						profileTemplate.addEntry("report", key + " field for this dataset is not correct. Provided: " + parseInt(root[key]) + " where the actual number is: " + actualLength);
+						root[key]      = actualLength;
 						profileChanged = true;
 					}
-			} else {
-				profileTemplate.addEntry("missing", "num_resources", "num_resources field is missing");
-				if (root.resources && root.resources.length) {
-					root.num_resources = root.resources.length;
+				} else if (actualLength) {
+					root[key]      = actualLength;
 					profileChanged = true;
 				}
-			}
+			});
 			callback();
 		}
 	}
