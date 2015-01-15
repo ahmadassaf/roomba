@@ -273,7 +273,7 @@ function profile(parent) {
 		profile.printAggregatedReport(report.report);
 		profile.printStatistics(_.omit(report, ["tag", "resource", "group", "license", "unreachableURLs", "report" ]), "Dataset", total);
 
-		if (report.unreachableURLs) profile.printConnectivityIssues("Dataset", report.unreachableURLs, true);
+		if (report.unreachableURLs) profile.printConnectivityIssues("Dataset", report.unreachableURLs);
 
 		_.each(_.omit(report,["missing", "undefined", "unreachableURLs", "report"]), function(section, sectionKey){
 			var sectionKey = util.capitalize(sectionKey);
