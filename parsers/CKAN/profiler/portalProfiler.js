@@ -74,7 +74,7 @@ function portalProfiler(parent) {
 									generalProfiler   : portalProfiler.metadataProfiler.generalProfiler.start.bind(null,dataset),
 									ownershipProfiler : portalProfiler.metadataProfiler.ownershipProfiler.start.bind(null,dataset),
 									provenanceProfiler: portalProfiler.metadataProfiler.provenanceProfiler.start.bind(null,dataset),
-									accessProfiler    : portalProfiler.metadataProfiler.accessProfiler.start.bind(null, dataset)
+									accessProfiler    : portalProfiler.metadataProfiler.accessProfiler.start.bind(null, dataset, true)
 
 								}, function (err, result) {
 

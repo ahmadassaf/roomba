@@ -12,7 +12,7 @@ function accessProfiler(parent) {
 	var profileTemplate = new profile(this);
 	var profileChanged  = false;
 
-	this.start      = function start(dataset, profilerCallback) {
+	this.start      = function start(dataset, isAggregate, profilerCallback) {
 
 		var licenseKeys  = ["license_title", "license_id", "license_url"];
 		var resourceKeys = ["resource_group_id", "cache_last_updated", "revision_timestamp", "webstore_last_updated", "id", "size", "state", "hash", "description", "format", "mimetype_inner", "url-type", "mimetype", "cache_url", "name", "created", "url", "webstore_url", "last_modified", "position", "revision_id", "resource_type" ];
@@ -145,7 +145,7 @@ function accessProfiler(parent) {
 									var resource_size = response.headers["content-length"];
 
 									if ( resource.size ) {
-										var reportMessage = "The size for resource is not defined correctly. Provided: " + parseInt(resource.size) + " where the actual size is: " + parseInt(resource_size);
+										var reportMessage = isAggregate ? "The size for resource is not defined correctly" : "The size for resource is not defined correctly. Provided: " + parseInt(resource.size) + " where the actual size is: " + parseInt(resource_size);
 										if (resource.size !== resource_size ) {
 											resourceReport.addEntry("report", reportMessage);
 											resource.size = resource_size;
@@ -161,7 +161,7 @@ function accessProfiler(parent) {
 									var resource_mimeType = response.headers["content-type"].split(';')[0];
 
 									if ( resource.mimetype ) {
-										var reportMessage = "The mimeType for resource is not defined correctly. Provided: " + resource.mimetype + " where the actual type is: " + resource_mimeType;
+										var reportMessage = isAggregate ? "The mimeType for resource is not defined correctly" : "The mimeType for resource is not defined correctly. Provided: " + resource.mimetype + " where the actual type is: " + resource_mimeType;
 										if (resource.mimetype !== resource_mimeType ) {
 											resourceReport.addEntry("report", reportMessage);
 											resource.mimetype = resource_mimeType;

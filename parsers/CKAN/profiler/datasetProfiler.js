@@ -16,7 +16,7 @@ function datasetProfiler(parent) {
 			generalProfiler   : datasetProfiler.metadataProfiler.generalProfiler.start.bind(null,dataset),
 			ownershipProfiler : datasetProfiler.metadataProfiler.ownershipProfiler.start.bind(null,dataset),
 			provenanceProfiler: datasetProfiler.metadataProfiler.provenanceProfiler.start.bind(null,dataset),
-			accessProfiler    : datasetProfiler.metadataProfiler.accessProfiler.start.bind(null, dataset)
+			accessProfiler    : datasetProfiler.metadataProfiler.accessProfiler.start.bind(null, dataset, false)
 
 		}, function (err, result) {
 

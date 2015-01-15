@@ -16,4 +16,13 @@ git clone --recursive http://github.com/ahmadassaf/opendata-checker
 
 `git submodule update --init`
 
-Now, you will need 
+Now, you will need to install the dependecies:
+
+```javascript
+\\ Downloading the required modules 
+npm intall
+\\ After the installation finish start the application
+node DC.js
+```
+
+

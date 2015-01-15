@@ -63,7 +63,7 @@ function groupProfiler(parent) {
 
 				groupProfiler.util.download(groupProfiler.cache, fileName, url, function(error, dataset){
 					// If the file has been fetched successfully log it into the error.json
-					if (error) next({errors: 1});
+					if (error) next({ errors: 1 });
 						else {
 
 							groupProfiler.async.waterfall([retreiveProfiles, checkSave], function() { next() });
@@ -74,7 +74,7 @@ function groupProfiler(parent) {
 									generalProfiler   : groupProfiler.metadataProfiler.generalProfiler.start.bind(null,dataset),
 									ownershipProfiler : groupProfiler.metadataProfiler.ownershipProfiler.start.bind(null,dataset),
 									provenanceProfiler: groupProfiler.metadataProfiler.provenanceProfiler.start.bind(null,dataset),
-									accessProfiler    : groupProfiler.metadataProfiler.accessProfiler.start.bind(null, dataset)
+									accessProfiler    : groupProfiler.metadataProfiler.accessProfiler.start.bind(null, dataset, true)
 
 								}, function (err, result) {
 
