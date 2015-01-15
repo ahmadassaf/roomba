@@ -1,0 +1,304 @@
+{
+    "license_title": "Other (Non-Commercial)",
+    "maintainer": "M. Kanzaki",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "mkanzaki@gmail.com",
+    "revision_timestamp": "2013-10-10T23:03:41.930453",
+    "id": "013217d3-2598-4e58-8436-50bfa111788a",
+    "metadata_created": "2011-07-07T04:46:23.734147",
+    "owner_org": "b15a85e0-4870-4d6f-8cb1-a5e1b12a83df",
+    "metadata_modified": "2013-10-10T23:03:41.930453",
+    "author": "National Diet Library of Japan",
+    "author_email": "",
+    "state": "active",
+    "version": "development version",
+    "license_id": "other-nc",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "SPARQL endpoint",
+            "format": "api/sparql",
+            "url": "http://id.ndl.go.jp/auth/ndla/",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 7,
+                "recent": 4
+            },
+            "revision_timestamp": "2012-03-07T08:48:40.227930",
+            "webstore_url": null,
+            "resource_group_id": "cdf21d0e-fb8e-41bb-8c96-d574dd4ecd17",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "7f8113d3-7ef9-43be-a948-8bc94c5d5cd3",
+            "size": null,
+            "id": "caf72020-a680-420f-a530-2d2ebe633091",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "SPARQL query form",
+            "format": "HTML",
+            "url": "http://iss.ndl.go.jp/ndla/sparql/",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 11,
+                "recent": 7
+            },
+            "revision_timestamp": "2012-03-07T08:48:40.227930",
+            "webstore_url": null,
+            "resource_group_id": "cdf21d0e-fb8e-41bb-8c96-d574dd4ecd17",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "7f8113d3-7ef9-43be-a948-8bc94c5d5cd3",
+            "size": null,
+            "id": "9058a455-c280-4fdb-a33d-7fe52cc5ed29",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Example authority record (con neg)",
+            "format": "example/rdf+xml",
+            "url": "http://id.ndl.go.jp/auth/ndlna/00054222",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 9,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-03-07T08:48:40.227930",
+            "webstore_url": null,
+            "resource_group_id": "cdf21d0e-fb8e-41bb-8c96-d574dd4ecd17",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "7f8113d3-7ef9-43be-a948-8bc94c5d5cd3",
+            "size": null,
+            "id": "6c0a85c7-06eb-409c-a62e-8e7e07515547",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "RDF dump",
+            "format": "application/rdf+xml",
+            "url": "http://iss.ndl.go.jp/ndla/wp-content/uploads/2011/04/ndlsh-rdf.zip",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 14,
+                "recent": 6
+            },
+            "revision_timestamp": "2012-03-07T08:48:40.227930",
+            "webstore_url": null,
+            "resource_group_id": "cdf21d0e-fb8e-41bb-8c96-d574dd4ecd17",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 3,
+            "revision_id": "7f8113d3-7ef9-43be-a948-8bc94c5d5cd3",
+            "size": "3644540",
+            "id": "d166964a-c817-46d2-ade4-750b4cbab3f9",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 4,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "authorities",
+            "name": "authorities",
+            "revision_timestamp": "2013-08-20T09:12:01.418382",
+            "state": "active",
+            "id": "180f8b50-ac1d-4174-a555-7bcaefbd46dd"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "country-japan",
+            "name": "country-japan",
+            "revision_timestamp": "2011-07-07T04:46:23.734147",
+            "state": "active",
+            "id": "1b0bae77-7b63-4240-be7c-7a359bfb1946"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2011-07-07T13:31:35.189258",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-dc",
+            "name": "format-dc",
+            "revision_timestamp": "2011-07-07T04:46:23.734147",
+            "state": "active",
+            "id": "0b675a54-621f-4fdb-850a-ef5d0b1b1ca3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2011-07-07T04:46:23.734147",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-skos",
+            "name": "format-skos",
+            "revision_timestamp": "2011-07-07T04:46:23.734147",
+            "state": "active",
+            "id": "4d405572-6308-41ed-a021-1990e618a626"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "government",
+            "name": "government",
+            "revision_timestamp": "2011-07-07T13:34:41.105709",
+            "state": "active",
+            "id": "22fddbd6-8780-4ce0-826f-e41efdc36688"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "health",
+            "name": "health",
+            "revision_timestamp": "2011-07-07T13:34:41.105709",
+            "state": "active",
+            "id": "fb603888-78de-4ff8-9a15-1967d065bbbb"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "library",
+            "name": "library",
+            "revision_timestamp": "2011-07-07T04:46:23.734147",
+            "state": "active",
+            "id": "7ec1ef56-6c27-4299-a3fa-578756ddc421"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lld",
+            "name": "lld",
+            "revision_timestamp": "2011-07-07T04:46:23.734147",
+            "state": "active",
+            "id": "c1dea2c0-3fb8-47b8-9b37-c076756e6420"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2011-07-07T04:46:23.734147",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-producer",
+            "name": "published-by-producer",
+            "revision_timestamp": "2011-07-07T13:31:35.189258",
+            "state": "active",
+            "id": "fcdb5c0a-2b91-44cb-83e5-19fd0d81125c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "subjects",
+            "name": "subjects",
+            "revision_timestamp": "2011-07-07T04:46:23.734147",
+            "state": "active",
+            "id": "df2c4956-931d-4b3f-87bb-7c81a5cf506b"
+        }
+    ],
+    "tracking_summary": {
+        "total": 286,
+        "recent": 9
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 13,
+    "name": "national-diet-library-authorities",
+    "isopen": false,
+    "url": "http://id.ndl.go.jp/auth/ndla",
+    "notes": "Name authorities and subject headings of Japan's National Library are provided as Linked Data. Each record is described with such vocabularies as SKOS, SKOS-XL, DC and RDA Elements G2. Records are linked to LCSH, VIAF etc. with SKOS mapping properties where applicable.",
+    "title": "Web NDL Authorities - National Diet Library of Japan",
+    "extras": [
+        {
+            "value": "4545",
+            "key": "links:lcsh",
+            "__extras": {
+                "package_id": "013217d3-2598-4e58-8436-50bfa111788a",
+                "revision_id": "933fa627-c74b-47f7-818a-054f29437f23"
+            }
+        },
+        {
+            "value": "2673",
+            "key": "links:viaf",
+            "__extras": {
+                "revision_id": "933fa627-c74b-47f7-818a-054f29437f23",
+                "package_id": "013217d3-2598-4e58-8436-50bfa111788a"
+            }
+        },
+        {
+            "value": "http://id.ndl.go.jp/auth/ndlna/",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "4ca06e15-cfd9-41a6-9bb4-bd3cd0b0e251",
+                "package_id": "013217d3-2598-4e58-8436-50bfa111788a"
+            }
+        },
+        {
+            "value": "ndlna",
+            "key": "shortname",
+            "__extras": {
+                "package_id": "013217d3-2598-4e58-8436-50bfa111788a",
+                "revision_id": "2ddceb2b-4c55-4c0b-8e39-96cf7d50f271"
+            }
+        },
+        {
+            "value": "15000000",
+            "key": "triples",
+            "__extras": {
+                "package_id": "013217d3-2598-4e58-8436-50bfa111788a",
+                "revision_id": "3c8699e2-c884-447f-8f0f-57394160732e"
+            }
+        }
+    ],
+    "organization": {
+        "description": "This group comprises open bibliographic datasets according to the [Principles on Open Bibliographic Data](http://openbiblio.net/principles) and a few not yet really open bibliographic datasets.\r\n\r\nIt is maintained by members of the [OKFN Working Group on Open Bibliographic Data](http://openbiblio.net/).\r\n",
+        "title": "Bibliographic Data",
+        "created": "2010-02-26T11:12:18.334260",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T14:28:11.214722",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://assets.okfn.org/web/images/header-logox2.png",
+        "revision_id": "98afb2ca-a8cb-4610-a5ec-0795b0489c49",
+        "type": "organization",
+        "id": "b15a85e0-4870-4d6f-8cb1-a5e1b12a83df",
+        "name": "bibliographic"
+    },
+    "revision_id": "8d247e11-514a-48c8-b95d-4c60d377f6cd"
+}

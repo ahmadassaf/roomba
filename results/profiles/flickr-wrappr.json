@@ -1,0 +1,190 @@
+{
+    "license_title": "Other (Not Open)",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-10T20:57:24.911964",
+    "id": "939bda38-6765-4854-bb23-bc28d99772c8",
+    "metadata_created": "2010-08-25T10:03:30.923946",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T20:57:24.911964",
+    "author": "Christian Becker",
+    "author_email": "chris@beckr.org",
+    "state": "active",
+    "version": "",
+    "license_id": "other-closed",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Example (RDF/XML)",
+            "format": "example/rdf+xml",
+            "url": "http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/White_House",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 63,
+                "recent": 3
+            },
+            "revision_timestamp": "2010-10-07T07:38:17.052183",
+            "webstore_url": null,
+            "resource_group_id": "f7fd3526-e306-dded-d70e-5ce75b3dbd2b",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "6dbd5abc-b767-436c-829b-5e879170cd7f",
+            "size": null,
+            "id": "a41c7ed4-8acb-4dfe-b7a0-68c3cc6d5e68",
+            "resource_type": null,
+            "name": null
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "format-foaf",
+            "name": "format-foaf",
+            "revision_timestamp": "2010-10-07T07:38:17.052183",
+            "state": "active",
+            "id": "bd737030-1ba6-4913-baaa-bfa2581618b5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2010-08-25T10:03:30.923946",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-vcard",
+            "name": "format-vcard",
+            "revision_timestamp": "2010-10-07T07:38:17.052183",
+            "state": "active",
+            "id": "15a4eeb8-5380-4f22-831f-ce6aad2bfe28"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2010-08-25T10:03:30.923946",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2010-10-07T07:38:17.052183",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-proprietary-vocab",
+            "name": "no-proprietary-vocab",
+            "revision_timestamp": "2010-10-07T07:38:17.052183",
+            "state": "active",
+            "id": "aef04cb8-a7aa-4419-8184-396b0ef6e680"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-provenance-metadata",
+            "name": "no-provenance-metadata",
+            "revision_timestamp": "2010-10-07T07:38:17.052183",
+            "state": "active",
+            "id": "585e9fca-2d67-4a07-b9d1-5495de054c7a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-vocab-mappings",
+            "name": "no-vocab-mappings",
+            "revision_timestamp": "2010-10-07T07:38:17.052183",
+            "state": "active",
+            "id": "e51273d8-dc60-4cf2-a68d-3cfd33b2c1fc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2010-10-07T07:38:17.052183",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "usergeneratedcontent",
+            "name": "usergeneratedcontent",
+            "revision_timestamp": "2010-10-07T07:38:17.052183",
+            "state": "active",
+            "id": "e9b2da79-5971-41f9-a314-36d368636b85"
+        }
+    ],
+    "tracking_summary": {
+        "total": 824,
+        "recent": 20
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 10,
+    "name": "flickr-wrappr",
+    "isopen": false,
+    "url": "http://www4.wiwiss.fu-berlin.de/flickrwrappr",
+    "notes": "The flickr wrappr extends DBpedia with RDF links to photos posted on flickr. For each of the 1.95 million DBpedia concepts, the wrappr generates a collection of flickr photos that depict the concept. ",
+    "title": "flickr™ wrappr",
+    "extras": [
+        {
+            "value": "3400000",
+            "key": "links:dbpedia",
+            "__extras": {
+                "package_id": "939bda38-6765-4854-bb23-bc28d99772c8",
+                "revision_id": "52648f07-4963-4308-9a11-ba984b6add89"
+            }
+        },
+        {
+            "value": "http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "10af7b8e-8e18-443e-bd3c-727ba5cfe602",
+                "package_id": "939bda38-6765-4854-bb23-bc28d99772c8"
+            }
+        },
+        {
+            "value": "flickr wrappr",
+            "key": "shortname",
+            "__extras": {
+                "revision_id": "5277cc1e-8243-430c-92f4-f07a560a2430",
+                "package_id": "939bda38-6765-4854-bb23-bc28d99772c8"
+            }
+        },
+        {
+            "value": "56100000",
+            "key": "triples",
+            "__extras": {
+                "package_id": "939bda38-6765-4854-bb23-bc28d99772c8",
+                "revision_id": "52648f07-4963-4308-9a11-ba984b6add89"
+            }
+        }
+    ],
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "cf0dfab0-4044-4feb-8f14-18d91212abb7"
+}

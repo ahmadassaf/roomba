@@ -1,0 +1,225 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Juan F. Sequeda",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "jsequeda@cs.utexas.edu",
+    "revision_timestamp": "2013-10-10T20:57:12.443379",
+    "id": "0083f0c4-5f55-4eac-bcff-7981df79dfdf",
+    "metadata_created": "2010-09-08T18:32:46.498754",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T20:57:12.443379",
+    "author": "Juan F. Sequeda",
+    "author_email": "jsequeda@cs.utexas.edu",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Example (RDF/XML) (future permanent URI scheme)",
+            "format": "example/rdf+xml",
+            "url": "http://data.fishesoftexas.org/fish/taxon61199#thing",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 15,
+                "recent": 3
+            },
+            "revision_timestamp": "2010-10-07T07:32:30.612208",
+            "webstore_url": null,
+            "resource_group_id": "d0ab3cd9-7927-7e7d-aed4-c6f796115e34",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "e546998c-c044-4b87-8419-bad1997cd1eb",
+            "size": null,
+            "id": "f131658f-7c56-4715-91a2-213ea8026310",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": null,
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Example (RDF/XML) (temporary URI scheme)",
+            "format": "example/rdf+xml",
+            "url": "http://data.fishesoftexas.org:8080/fish/taxon61199#thing",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 13,
+                "recent": 3
+            },
+            "revision_timestamp": "2010-10-07T07:32:30.612208",
+            "webstore_url": null,
+            "resource_group_id": "d0ab3cd9-7927-7e7d-aed4-c6f796115e34",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "e546998c-c044-4b87-8419-bad1997cd1eb",
+            "size": null,
+            "id": "5bb8b341-b0b4-49ae-bcd9-e9d01339ddc5",
+            "resource_type": null,
+            "name": null
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "biodiversity",
+            "name": "biodiversity",
+            "revision_timestamp": "2010-09-26T19:01:53.250405",
+            "state": "active",
+            "id": "bb261b99-130c-4e54-9bfd-bc8f62987944"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "broken_link",
+            "name": "broken_link",
+            "revision_timestamp": "2010-12-21T14:06:58.539397",
+            "state": "active",
+            "id": "0fd249d3-af87-42b5-8033-691dd8c34c6d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "fish",
+            "name": "fish",
+            "revision_timestamp": "2010-09-08T18:32:46.498754",
+            "state": "active",
+            "id": "9118aa02-9503-493d-a788-78839c60318c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2010-09-08T18:32:46.498754",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdfs",
+            "name": "format-rdfs",
+            "revision_timestamp": "2010-10-05T15:34:20.618479",
+            "state": "active",
+            "id": "781902f8-ba13-4330-bba3-54d0bbf24b58"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "geographic",
+            "name": "geographic",
+            "revision_timestamp": "2010-10-07T07:32:30.612208",
+            "state": "active",
+            "id": "dc08d94b-fbac-4bfc-92f0-94bee5fd546a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2010-09-08T18:32:46.498754",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-deref-vocab",
+            "name": "no-deref-vocab",
+            "revision_timestamp": "2011-07-20T22:38:34.981470",
+            "state": "active",
+            "id": "89a72f73-c7f6-4814-9e3d-3fff825c22f8"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-producer",
+            "name": "published-by-producer",
+            "revision_timestamp": "2010-10-07T07:32:30.612208",
+            "state": "active",
+            "id": "fcdb5c0a-2b91-44cb-83e5-19fd0d81125c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "rdf",
+            "name": "rdf",
+            "revision_timestamp": "2010-09-08T18:32:46.498754",
+            "state": "active",
+            "id": "6ae4215c-a85b-457c-862b-5a8718b02c6f"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "texas",
+            "name": "texas",
+            "revision_timestamp": "2010-09-08T20:50:03.288745",
+            "state": "active",
+            "id": "1f9be6db-6dbd-4bfc-89ec-8b0cea8232e5"
+        }
+    ],
+    "tracking_summary": {
+        "total": 487,
+        "recent": 13
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 11,
+    "name": "fishes-of-texas",
+    "isopen": false,
+    "url": "http://data.fishesoftexas.org",
+    "notes": "The [Fishes of Texas Project](http://www.fishesoftexas.org) is a multi-year research project that attempts to consolidate, standardize and fully georeference all of the known scientific information on the freshwater fishes of Texas. This package is the Linked Data version of the project's published data.\r\n\r\n### Not yet fully available\r\n\r\nThis dataset is only available from temporary URIs as of September 2010, see example resource links.\r\n\r\nA SPARQL endpoint is planned here: [http://data.fishesoftexas.org/sparql](http://data.fishesoftexas.org/sparql)",
+    "title": "Fishes of Texas",
+    "extras": [
+        {
+            "value": "15241",
+            "key": "links:dbpedia",
+            "__extras": {
+                "package_id": "0083f0c4-5f55-4eac-bcff-7981df79dfdf",
+                "revision_id": "978b74be-6bbb-44b3-8075-5e9ab86e98e1"
+            }
+        },
+        {
+            "value": "226",
+            "key": "links:taxonconcept",
+            "__extras": {
+                "revision_id": "978b74be-6bbb-44b3-8075-5e9ab86e98e1",
+                "package_id": "0083f0c4-5f55-4eac-bcff-7981df79dfdf"
+            }
+        },
+        {
+            "value": "http://data.fishesoftexas.org:8080/fish/",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "337278ea-1dc2-4aad-a74f-369fec7ff617",
+                "package_id": "0083f0c4-5f55-4eac-bcff-7981df79dfdf"
+            }
+        },
+        {
+            "value": "528897",
+            "key": "triples",
+            "__extras": {
+                "package_id": "0083f0c4-5f55-4eac-bcff-7981df79dfdf",
+                "revision_id": "978b74be-6bbb-44b3-8075-5e9ab86e98e1"
+            }
+        }
+    ],
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "9c92a4cb-e282-4402-80f2-b4ea94818a9d"
+}

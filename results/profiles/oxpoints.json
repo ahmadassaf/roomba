@@ -1,0 +1,130 @@
+{
+    "license_title": "CC0 1.0",
+    "maintainer": "IT Services, University of Oxford",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "oxpoints@oucs.ox.ac.uk",
+    "revision_timestamp": "2013-10-10T23:15:28.440602",
+    "id": "91c2afb8-bf37-45cf-a345-9dafeafb2045",
+    "metadata_created": "2011-02-23T15:22:35.825761",
+    "owner_org": "1a24e0c3-013b-481d-b25c-f36c651315d8",
+    "metadata_modified": "2013-10-10T23:15:28.440602",
+    "author": "IT Services, University of Oxford",
+    "author_email": "oxpoints@oucs.ox.ac.uk",
+    "state": "active",
+    "version": "",
+    "license_id": "CC0-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "text/html",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "",
+            "format": "api/sparql",
+            "url": "https://data.ox.ac.uk/sparql/",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "revision_timestamp": "2013-06-05T13:59:03.019567",
+            "webstore_url": "",
+            "resource_group_id": "9c745ca6-aca6-21e3-72d2-1604d5c9b6b9",
+            "state": "active",
+            "last_modified": "2013-06-05T08:59:02.742848",
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "81249823-ba8d-4166-a03f-cd6b7bcf34b8",
+            "size": "2833",
+            "id": "3f7824c9-a52b-4830-851e-8cdb75af6bfc",
+            "resource_type": "file",
+            "name": "SPARQL endpoint",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2013-07-02T12:44:03.590925",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "oxford",
+            "name": "oxford",
+            "revision_timestamp": "2011-02-23T15:22:35.825761",
+            "state": "active",
+            "id": "d47c5ab8-c571-4f00-9606-52322953dd27"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "university",
+            "name": "university",
+            "revision_timestamp": "2011-02-23T15:22:35.825761",
+            "state": "active",
+            "id": "5957c213-b875-4271-903d-f407526bcf4f"
+        }
+    ],
+    "tracking_summary": {
+        "total": 187,
+        "recent": 3
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "oxpoints",
+    "isopen": true,
+    "url": "https://data.ox.ac.uk/doc/dataset/oxpoints",
+    "notes": "OxPoints is the University's geospatial, temporal and organisational RDF store.\r\nOxPoints aims to contain information about most political and built entities within the University, including college, department, building and rooms.",
+    "title": "OxPoints (University of Oxford)",
+    "extras": [
+        {
+            "value": "http://oxpoints.oucs.ox.ac.uk/id/",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "ac2c0c39-3f4e-414d-b810-44d1062d6c98",
+                "package_id": "91c2afb8-bf37-45cf-a345-9dafeafb2045"
+            }
+        },
+        {
+            "value": "https://data.ox.ac.uk/graph/oxpoints/data",
+            "key": "sparql_graph_name",
+            "__extras": {
+                "revision_id": "41b38cb9-10a4-472d-908d-ad9dda159e5f",
+                "package_id": "91c2afb8-bf37-45cf-a345-9dafeafb2045"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "organization": {
+        "description": "This group gathers datasets of relevance to educational applications. it includes data about open educational resources (OER) and items which were created with an explicit educational purpose, as well as otherwise relevant datasets (academic publications, video assets, etc). All datasets included should expose linked data, and provide at least a SPARQL endpoint. For any enquiries, please contact the administrators via data@linkededucation.org.",
+        "title": "Linked Education Cloud",
+        "created": "2012-10-11T12:20:43.297930",
+        "approval_status": "approved",
+        "revision_timestamp": "2013-01-03T09:51:09.067990",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "",
+        "revision_id": "db4324b3-511f-43a7-ae1b-1940b9a5dc93",
+        "type": "organization",
+        "id": "1a24e0c3-013b-481d-b25c-f36c651315d8",
+        "name": "linked-education"
+    },
+    "revision_id": "2588ebcf-4b9a-450f-a7aa-d665403fbdb7",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": true,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

@@ -1,0 +1,426 @@
+{
+    "license_title": "",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-10T23:23:56.119084",
+    "id": "10d71720-307a-48fd-9ce5-94e39b086b53",
+    "metadata_created": "2010-09-06T08:58:57.462279",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T23:23:56.119084",
+    "author": "Data.gov.uk Team",
+    "author_email": "team@data.gov.uk",
+    "state": "active",
+    "version": "1.0",
+    "license_id": "",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "SPARQL endpoint",
+            "format": "api/sparql",
+            "url": "http://services.data.gov.uk/reference/sparql",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 15,
+                "recent": 3
+            },
+            "revision_timestamp": "2013-04-12T15:12:32.836353",
+            "webstore_url": "",
+            "resource_group_id": "ada74c68-cf99-7986-2d29-cefe2df7254c",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "35484789-0718-4c76-8ef6-6e432832cb47",
+            "size": null,
+            "id": "8adc72d2-755e-4dee-afe4-80c082de8a91",
+            "resource_type": "",
+            "name": ""
+        },
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "RDF Schema",
+            "format": "meta/rdf-schema",
+            "url": "http://reference.data.gov.uk/def/central-government",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 7,
+                "recent": 3
+            },
+            "revision_timestamp": "2013-07-01T14:23:46.178335",
+            "webstore_url": "",
+            "resource_group_id": "ada74c68-cf99-7986-2d29-cefe2df7254c",
+            "state": "active",
+            "last_modified": "2013-07-01T09:23:46.165582",
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "fb476bb1-bc9b-47ec-8bb7-b763b8b33b1c",
+            "size": "68551",
+            "id": "e4bd9f66-f925-42cd-8f2b-247bae39d632",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Downloads",
+            "format": "",
+            "url": "http://source.data.gov.uk/data/reference/",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 15,
+                "recent": 3
+            },
+            "revision_timestamp": "2013-07-01T14:23:46.930563",
+            "webstore_url": "",
+            "resource_group_id": "ada74c68-cf99-7986-2d29-cefe2df7254c",
+            "state": "active",
+            "last_modified": "2013-07-01T09:23:46.909969",
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "08419fce-455c-4ca7-8ae6-16f54d1edf27",
+            "size": null,
+            "id": "68483684-9de9-4447-bb09-49ce1ae94cf5",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Search API",
+            "format": "api/search",
+            "url": "http://services.data.gov.uk/reference/search",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 5,
+                "recent": 3
+            },
+            "revision_timestamp": "2013-04-12T15:12:32.836353",
+            "webstore_url": "",
+            "resource_group_id": "ada74c68-cf99-7986-2d29-cefe2df7254c",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 3,
+            "revision_id": "35484789-0718-4c76-8ef6-6e432832cb47",
+            "size": null,
+            "id": "2e92a991-4f71-4bc8-b2f1-fa52f38ee4e2",
+            "resource_type": "",
+            "name": ""
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Example: David Cameron (RDF/XML)",
+            "format": "example/rdf+xml",
+            "url": "http://reference.data.gov.uk/id/mp/witney/david-cameron",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 7,
+                "recent": 3
+            },
+            "revision_timestamp": "2013-07-01T14:23:49.099776",
+            "webstore_url": "",
+            "resource_group_id": "ada74c68-cf99-7986-2d29-cefe2df7254c",
+            "state": "active",
+            "last_modified": "2013-07-01T09:23:49.080758",
+            "webstore_last_updated": null,
+            "position": 4,
+            "revision_id": "412f44cc-02c1-458f-98a4-a4f8b06b9785",
+            "size": null,
+            "id": "b29745d3-5ef8-4dca-89f2-a48daa6017cd",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Example: Department for Education (RDF/XML)",
+            "format": "example/rdf+xml",
+            "url": "http://reference.data.gov.uk/id/department/dfe",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 9,
+                "recent": 3
+            },
+            "revision_timestamp": "2013-07-01T14:23:50.360338",
+            "webstore_url": "",
+            "resource_group_id": "ada74c68-cf99-7986-2d29-cefe2df7254c",
+            "state": "active",
+            "last_modified": "2013-07-01T09:23:50.342635",
+            "webstore_last_updated": null,
+            "position": 5,
+            "revision_id": "9b51e4e8-4636-477b-a081-6d2c6a057f5e",
+            "size": null,
+            "id": "36d3b25b-e67d-4016-a387-1059f60b0bae",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Linked Data API for MPs",
+            "format": "api/linked-data",
+            "url": "http://reference.data.gov.uk/doc/mp",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 7,
+                "recent": 3
+            },
+            "revision_timestamp": "2013-07-01T14:23:51.428921",
+            "webstore_url": "",
+            "resource_group_id": "ada74c68-cf99-7986-2d29-cefe2df7254c",
+            "state": "active",
+            "last_modified": "2013-07-01T09:23:51.406530",
+            "webstore_last_updated": null,
+            "position": 6,
+            "revision_id": "3e305604-ab47-462e-ad52-6b5373d07834",
+            "size": null,
+            "id": "59d57d92-8724-4f12-b1ff-15e1cc2817f4",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Linked Data API for departments",
+            "format": "api/linked-data",
+            "url": "http://reference.data.gov.uk/doc/department",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 5,
+                "recent": 3
+            },
+            "revision_timestamp": "2013-07-01T14:23:54.221779",
+            "webstore_url": "",
+            "resource_group_id": "ada74c68-cf99-7986-2d29-cefe2df7254c",
+            "state": "active",
+            "last_modified": "2013-07-01T09:23:54.201623",
+            "webstore_last_updated": null,
+            "position": 7,
+            "revision_id": "b6055e90-f21f-489d-9be6-6c5feee74307",
+            "size": null,
+            "id": "c09c7d3e-be71-4ef6-a972-f830c9efb4ca",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 8,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "broken_link",
+            "name": "broken_link",
+            "revision_timestamp": "2010-12-21T21:40:34.806028",
+            "state": "active",
+            "id": "0fd249d3-af87-42b5-8033-691dd8c34c6d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "country-uk",
+            "name": "country-uk",
+            "revision_timestamp": "2010-09-06T08:58:57.462279",
+            "state": "active",
+            "id": "b10871ea-b4ae-4e2e-bec9-a8d8ff357754"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2010-10-07T07:07:47.987918",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-dc",
+            "name": "format-dc",
+            "revision_timestamp": "2010-10-05T15:36:14.554834",
+            "state": "active",
+            "id": "0b675a54-621f-4fdb-850a-ef5d0b1b1ca3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-foaf",
+            "name": "format-foaf",
+            "revision_timestamp": "2010-09-06T08:58:57.462279",
+            "state": "active",
+            "id": "bd737030-1ba6-4913-baaa-bfa2581618b5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-org",
+            "name": "format-org",
+            "revision_timestamp": "2010-09-06T08:58:57.462279",
+            "state": "active",
+            "id": "7905552a-f7fe-4910-a03d-9a4a3184c895"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-skos",
+            "name": "format-skos",
+            "revision_timestamp": "2010-09-06T08:58:57.462279",
+            "state": "active",
+            "id": "4d405572-6308-41ed-a021-1990e618a626"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "government",
+            "name": "government",
+            "revision_timestamp": "2010-09-06T08:58:57.462279",
+            "state": "active",
+            "id": "22fddbd6-8780-4ce0-826f-e41efdc36688"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2010-09-06T08:58:57.462279",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2010-10-07T07:07:47.987918",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-provenance-metadata",
+            "name": "no-provenance-metadata",
+            "revision_timestamp": "2010-10-07T07:07:47.987918",
+            "state": "active",
+            "id": "585e9fca-2d67-4a07-b9d1-5495de054c7a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-vocab-mappings",
+            "name": "no-vocab-mappings",
+            "revision_timestamp": "2010-10-07T07:07:47.987918",
+            "state": "active",
+            "id": "e51273d8-dc60-4cf2-a68d-3cfd33b2c1fc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-producer",
+            "name": "published-by-producer",
+            "revision_timestamp": "2010-10-07T07:07:47.987918",
+            "state": "active",
+            "id": "fcdb5c0a-2b91-44cb-83e5-19fd0d81125c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uk",
+            "name": "uk",
+            "revision_timestamp": "2010-09-06T08:58:57.462279",
+            "state": "active",
+            "id": "af80edd3-32cc-4689-8916-9a78214f64a4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "ukgov",
+            "name": "ukgov",
+            "revision_timestamp": "2010-09-06T08:59:50.619404",
+            "state": "active",
+            "id": "764bddd1-8f2c-47b2-9142-fc20d346e53b"
+        }
+    ],
+    "tracking_summary": {
+        "total": 265,
+        "recent": 14
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 15,
+    "name": "reference-data-gov-uk",
+    "isopen": false,
+    "url": "http://reference.data.gov.uk/",
+    "notes": "Reference data for linked UK government data:\r\n\r\n* People\r\n* Departments\r\n* Namespace for various time intervals (separate sub-package package:data-gov-uk-time-intervals)\r\n\r\n### Linked Data API\r\n\r\nRoots:\r\n\r\nhttp://reference.data.gov.uk/doc/department\r\nhttp://reference.data.gov.uk/doc/mp",
+    "title": "reference.data.gov.uk",
+    "extras": [
+        {
+            "value": "1518",
+            "key": "links:data-gov-uk-time-intervals",
+            "__extras": {
+                "revision_id": "892950a4-5085-4d0f-8c9f-bb114d3d5894",
+                "package_id": "10d71720-307a-48fd-9ce5-94e39b086b53"
+            }
+        },
+        {
+            "value": "22",
+            "key": "links:dbpedia",
+            "__extras": {
+                "revision_id": "5c1163f6-e6b4-4582-906f-acc2709a98a1",
+                "package_id": "10d71720-307a-48fd-9ce5-94e39b086b53"
+            }
+        },
+        {
+            "value": "1405",
+            "key": "links:london-gazette",
+            "__extras": {
+                "revision_id": "8003258d-080a-4063-9ebd-1aea5c9b2672",
+                "package_id": "10d71720-307a-48fd-9ce5-94e39b086b53"
+            }
+        },
+        {
+            "value": "http://reference.data.gov.uk/id/",
+            "key": "namespace",
+            "__extras": {
+                "package_id": "10d71720-307a-48fd-9ce5-94e39b086b53",
+                "revision_id": "f4f8a555-ddf0-4215-8de6-2f23299594a6"
+            }
+        },
+        {
+            "value": "45809",
+            "key": "triples",
+            "__extras": {
+                "package_id": "10d71720-307a-48fd-9ce5-94e39b086b53",
+                "revision_id": "8224d1c1-61d5-4a45-a2b1-93d249fb6936"
+            }
+        }
+    ],
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "dfe432a1-9d4f-4475-82e9-ba4e197cefe8"
+}

@@ -1,0 +1,243 @@
+{
+    "license_title": "Creative Commons Attribution 4.0",
+    "maintainer": "Antonio De Marinis",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "demarinis@eea.europa.eu",
+    "revision_timestamp": "2013-10-10T20:46:14.093145",
+    "id": "91248a7b-5df1-4c53-ace9-9ce6c8783386",
+    "metadata_created": "2011-06-29T15:40:15.868031",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T20:46:14.093145",
+    "author": "Søren Roug",
+    "author_email": "Soren.Roug@eea.europa.eu",
+    "state": "active",
+    "version": "",
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "text/xml",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "EEA Full content catalogue for Linked Data spiders",
+            "format": "meta/sitemap",
+            "url": "http://www.eea.europa.eu/sitemap-all-content-rdf.xml",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 22,
+                "recent": 6
+            },
+            "revision_timestamp": "2012-08-02T14:03:42.936696",
+            "webstore_url": "",
+            "resource_group_id": "fdad4f1d-185c-48d9-bc4d-83571ece3c9e",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "1636e09a-f6ca-45b0-8abe-4b6f6aa7a2e3",
+            "size": null,
+            "id": "a8c94e9c-d9de-4e06-9c62-e571eeb38617",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "A publication example resource",
+            "format": "example/rdf+xml",
+            "url": "http://www.eea.europa.eu/publications/progress-towards-kyoto/@@rdf",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 9,
+                "recent": 5
+            },
+            "revision_timestamp": "2012-08-02T14:03:42.936696",
+            "webstore_url": "",
+            "resource_group_id": "fdad4f1d-185c-48d9-bc4d-83571ece3c9e",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "1636e09a-f6ca-45b0-8abe-4b6f6aa7a2e3",
+            "size": null,
+            "id": "1031a224-9761-4da5-ba36-f742eb7f2597",
+            "resource_type": "Publication",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "A dataset example resource",
+            "format": "example/rdf+xml",
+            "url": "http://www.eea.europa.eu/data-and-maps/data/natura-1/@@rdf",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 5,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-08-02T14:03:42.936696",
+            "webstore_url": "",
+            "resource_group_id": "fdad4f1d-185c-48d9-bc4d-83571ece3c9e",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "1636e09a-f6ca-45b0-8abe-4b6f6aa7a2e3",
+            "size": null,
+            "id": "3a47df2f-1e63-4036-b701-17d065ba02c7",
+            "resource_type": "Dataset",
+            "name": "Natura 2000 data - the European network of protected sites",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "SPARQL endpoint",
+            "format": "api/sparql",
+            "url": "http://semantic.eea.europa.eu/sparql",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 48,
+                "recent": 19
+            },
+            "revision_timestamp": "2012-08-02T14:03:42.936696",
+            "webstore_url": "",
+            "resource_group_id": "fdad4f1d-185c-48d9-bc4d-83571ece3c9e",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 3,
+            "revision_id": "1636e09a-f6ca-45b0-8abe-4b6f6aa7a2e3",
+            "size": null,
+            "id": "c3f46588-9337-40f4-881e-45ae28906a3a",
+            "resource_type": "api",
+            "name": "",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 4,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "environment",
+            "name": "environment",
+            "revision_timestamp": "2011-06-29T15:40:15.868031",
+            "state": "active",
+            "id": "2eda73c3-9cab-49e4-a44f-181fb4a1bea5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "government",
+            "name": "government",
+            "revision_timestamp": "2011-06-29T15:40:15.868031",
+            "state": "active",
+            "id": "22fddbd6-8780-4ce0-826f-e41efdc36688"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2011-06-29T15:40:15.868031",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lodcloud.nolinks",
+            "name": "lodcloud.nolinks",
+            "revision_timestamp": "2011-08-10T13:33:26.793420",
+            "state": "active",
+            "id": "ce89d5e1-b216-44ba-9603-d13fa7b248c4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-deref-vocab",
+            "name": "no-deref-vocab",
+            "revision_timestamp": "2011-06-29T15:40:15.868031",
+            "state": "active",
+            "id": "89a72f73-c7f6-4814-9e3d-3fff825c22f8"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-producer",
+            "name": "published-by-producer",
+            "revision_timestamp": "2011-06-29T15:40:15.868031",
+            "state": "active",
+            "id": "fcdb5c0a-2b91-44cb-83e5-19fd0d81125c"
+        }
+    ],
+    "tracking_summary": {
+        "total": 422,
+        "recent": 28
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "eea",
+    "isopen": true,
+    "url": "http://www.eea.europa.eu/",
+    "notes": "The European Environment Agency (EEA) is an agency of the European Union. Our task is to provide sound, independent information on the environment. We are a major information source for those involved in developing, adopting, implementing and evaluating environmental policy, and also the general public.\r\n\r\nThe dataset contains metadata for various items published on the portal; reports, articles, speeches, datasets, indicators etc.",
+    "title": "European Environment Agency Published Products",
+    "extras": [
+        {
+            "value": "http://www.eea.europa.eu/legal/copyright",
+            "key": "license_link",
+            "__extras": {
+                "package_id": "91248a7b-5df1-4c53-ace9-9ce6c8783386",
+                "revision_id": "e9bb9cde-3a51-4600-a861-e4fd5cb6ab7e"
+            }
+        },
+        {
+            "value": "http://www.eea.europa.eu/publications",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "e9bb9cde-3a51-4600-a861-e4fd5cb6ab7e",
+                "package_id": "91248a7b-5df1-4c53-ace9-9ce6c8783386"
+            }
+        },
+        {
+            "value": "1137236",
+            "key": "triples",
+            "__extras": {
+                "revision_id": "51b82d4a-2f88-4b5b-82d5-552dcadc505d",
+                "package_id": "91248a7b-5df1-4c53-ace9-9ce6c8783386"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "ae9f39bd-1a4f-488d-b759-e42eb76d9adb",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

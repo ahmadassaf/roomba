@@ -1,0 +1,430 @@
+{
+    "license_title": "",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-10T20:46:12.648183",
+    "id": "3609e173-ed25-45b6-b991-ad0c98fe1109",
+    "metadata_created": "2010-09-05T15:09:11.009225",
+    "owner_org": "1a24e0c3-013b-481d-b25c-f36c651315d8",
+    "metadata_modified": "2013-10-10T20:46:12.648183",
+    "author": "UK Government",
+    "author_email": "",
+    "state": "active",
+    "version": "1.0",
+    "license_id": "",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "text/html",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Example school (RDF/XML)",
+            "format": "example/rdf+xml",
+            "url": "http://education.data.gov.uk/id/school/520965",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 31,
+                "recent": 5
+            },
+            "revision_timestamp": "2012-12-18T13:33:29.829234",
+            "webstore_url": "",
+            "resource_group_id": "1dfc50df-f396-2fd8-26ae-85b881fca2d3",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "979cb5ad-2790-4ec2-a649-268390e57720",
+            "size": null,
+            "id": "edf7d771-ebbb-4659-ad1f-96cd7287c137",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "SPARQL endpoint",
+            "format": "api/sparql",
+            "url": "http://services.data.gov.uk/education/sparql",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 27,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-12-18T13:33:29.829234",
+            "webstore_url": "",
+            "resource_group_id": "1dfc50df-f396-2fd8-26ae-85b881fca2d3",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "979cb5ad-2790-4ec2-a649-268390e57720",
+            "size": null,
+            "id": "6fa47523-d89b-4c5e-b139-5a9063848a21",
+            "resource_type": "",
+            "name": ""
+        },
+        {
+            "mimetype": "",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Search API",
+            "format": "api/search",
+            "url": "http://services.data.gov.uk/education/search",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 15,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-12-18T13:33:29.829234",
+            "webstore_url": "",
+            "resource_group_id": "1dfc50df-f396-2fd8-26ae-85b881fca2d3",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "979cb5ad-2790-4ec2-a649-268390e57720",
+            "size": null,
+            "id": "79993c23-67d0-4469-adc3-fbe94a10cca6",
+            "resource_type": "",
+            "name": ""
+        },
+        {
+            "mimetype": "application/x-gzip",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download Edubase (RDF/XML)",
+            "format": "application/rdf+xml",
+            "url": "http://source.data.gov.uk/data/education/edubase/2009-08-14/edubase-rdf-r2rc3.tgz",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 25,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-12-18T13:33:29.829234",
+            "webstore_url": "",
+            "resource_group_id": "1dfc50df-f396-2fd8-26ae-85b881fca2d3",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 3,
+            "revision_id": "979cb5ad-2790-4ec2-a649-268390e57720",
+            "size": "83111500",
+            "id": "a3a0bed3-9c1e-46bb-bee5-0d34efb423ad",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/zip",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download school statistics (RDF/XML)",
+            "format": "application/rdf+xml",
+            "url": "http://source.data.gov.uk/data/education/pupil-teacher/2009-09-30/education-statistics.zip",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 7,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-12-18T13:33:29.829234",
+            "webstore_url": "",
+            "resource_group_id": "1dfc50df-f396-2fd8-26ae-85b881fca2d3",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 4,
+            "revision_id": "979cb5ad-2790-4ec2-a649-268390e57720",
+            "size": "254963",
+            "id": "4c2331b3-44cc-4b47-9779-17a26ef779d6",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "voiD description (partial)",
+            "format": "meta/void",
+            "url": "http://education.data.gov.uk/doc/institution",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 13,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-12-18T13:33:29.829234",
+            "webstore_url": "",
+            "resource_group_id": "1dfc50df-f396-2fd8-26ae-85b881fca2d3",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 5,
+            "revision_id": "979cb5ad-2790-4ec2-a649-268390e57720",
+            "size": null,
+            "id": "0a63077c-fe16-4712-a203-e312700c2883",
+            "resource_type": "",
+            "name": ""
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Linked Data API access to schools",
+            "format": "api/linked-data",
+            "url": "http://education.data.gov.uk/doc/school",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 15,
+                "recent": 5
+            },
+            "revision_timestamp": "2012-12-18T13:33:29.829234",
+            "webstore_url": "",
+            "resource_group_id": "1dfc50df-f396-2fd8-26ae-85b881fca2d3",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 6,
+            "revision_id": "979cb5ad-2790-4ec2-a649-268390e57720",
+            "size": null,
+            "id": "cdac15ec-4191-49c9-ba8b-0c104baee98d",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 7,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "broken_link",
+            "name": "broken_link",
+            "revision_timestamp": "2010-12-21T13:58:26.635207",
+            "state": "active",
+            "id": "0fd249d3-af87-42b5-8033-691dd8c34c6d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2010-10-07T07:06:07.694020",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "edubase",
+            "name": "edubase",
+            "revision_timestamp": "2010-09-05T15:09:11.009225",
+            "state": "active",
+            "id": "d4781274-cf35-4d2c-8921-cb53ec5a45db"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "education",
+            "name": "education",
+            "revision_timestamp": "2010-09-05T15:09:11.009225",
+            "state": "active",
+            "id": "40e9a7c2-fae7-4c1f-9e09-011fd8c4ccab"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-dc",
+            "name": "format-dc",
+            "revision_timestamp": "2010-10-05T15:58:59.207318",
+            "state": "active",
+            "id": "0b675a54-621f-4fdb-850a-ef5d0b1b1ca3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-foaf",
+            "name": "format-foaf",
+            "revision_timestamp": "2010-10-05T15:42:53.935536",
+            "state": "active",
+            "id": "bd737030-1ba6-4913-baaa-bfa2581618b5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-geo",
+            "name": "format-geo",
+            "revision_timestamp": "2010-09-05T15:09:11.009225",
+            "state": "active",
+            "id": "16f204d1-2004-4b26-97c9-93a8e42cc506"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-vcard",
+            "name": "format-vcard",
+            "revision_timestamp": "2010-09-05T15:09:11.009225",
+            "state": "active",
+            "id": "15a4eeb8-5380-4f22-831f-ce6aad2bfe28"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "government",
+            "name": "government",
+            "revision_timestamp": "2010-09-05T15:09:11.009225",
+            "state": "active",
+            "id": "22fddbd6-8780-4ce0-826f-e41efdc36688"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "linked-data-api",
+            "name": "linked-data-api",
+            "revision_timestamp": "2010-11-29T20:45:14.147237",
+            "state": "active",
+            "id": "aa30a5b6-ef8a-428a-b954-7164b9cb72bb"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2010-09-05T15:09:11.009225",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2010-10-07T07:06:07.694020",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-provenance-metadata",
+            "name": "no-provenance-metadata",
+            "revision_timestamp": "2010-10-07T07:06:07.694020",
+            "state": "active",
+            "id": "585e9fca-2d67-4a07-b9d1-5495de054c7a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-vocab-mappings",
+            "name": "no-vocab-mappings",
+            "revision_timestamp": "2010-10-07T07:06:07.694020",
+            "state": "active",
+            "id": "e51273d8-dc60-4cf2-a68d-3cfd33b2c1fc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "nurseries",
+            "name": "nurseries",
+            "revision_timestamp": "2010-09-05T15:09:11.009225",
+            "state": "active",
+            "id": "3a9c8c6d-e4cd-4a74-9f2b-f60d83b89646"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-producer",
+            "name": "published-by-producer",
+            "revision_timestamp": "2010-10-07T07:06:07.694020",
+            "state": "active",
+            "id": "fcdb5c0a-2b91-44cb-83e5-19fd0d81125c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "schools",
+            "name": "schools",
+            "revision_timestamp": "2010-09-05T15:09:11.009225",
+            "state": "active",
+            "id": "f36ef4ee-09a9-4a97-b97d-204be122ea75"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "ukgov",
+            "name": "ukgov",
+            "revision_timestamp": "2010-09-05T15:09:11.009225",
+            "state": "active",
+            "id": "764bddd1-8f2c-47b2-9142-fc20d346e53b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "university",
+            "name": "university",
+            "revision_timestamp": "2010-09-05T15:09:11.009225",
+            "state": "active",
+            "id": "5957c213-b875-4271-903d-f407526bcf4f"
+        }
+    ],
+    "tracking_summary": {
+        "total": 722,
+        "recent": 28
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 19,
+    "name": "education-data-gov-uk",
+    "isopen": false,
+    "url": "http://education.data.gov.uk/",
+    "notes": "Linked data about schools, nurseries and universities within the UK:\r\n\r\n* [Namespace for research institutionhttp://education.data.gov.uk/doc/institutions](http://education.data.gov.uk/doc/institution); populated with institutions that recently received BIS research funding\r\n* Edubase data on schools, nurseries\r\n* 2009 school statistics on local authority level: number of teachers; vacancies; pupil-teacher ratios (SCOVO)\r\n\r\nPart of package:data-gov-uk.\r\n\r\n### REST API\r\n\r\nThe Edubase data is also available [through a REST API](http://education.data.gov.uk/doc/school). See also [Jeni Tennison's blog post](http://data.gov.uk/blog/guest-post-developers-guide-linked-data-apis-jeni-tennison).",
+    "title": "education.data.gov.uk",
+    "extras": [
+        {
+            "value": "1697",
+            "key": "links:dbpedia",
+            "__extras": {
+                "revision_id": "fab63629-ff19-4030-b378-ec307f061cd0",
+                "package_id": "3609e173-ed25-45b6-b991-ad0c98fe1109"
+            }
+        },
+        {
+            "value": "379",
+            "key": "links:research-data-gov-uk",
+            "__extras": {
+                "revision_id": "ecb090f9-0119-4def-bc74-2dc434eb1b7c",
+                "package_id": "3609e173-ed25-45b6-b991-ad0c98fe1109"
+            }
+        },
+        {
+            "value": "400000",
+            "key": "links:statistics-data-gov-uk",
+            "__extras": {
+                "revision_id": "79c86075-599e-4150-aafc-a25552201e8a",
+                "package_id": "3609e173-ed25-45b6-b991-ad0c98fe1109"
+            }
+        },
+        {
+            "value": "http://education.data.gov.uk/doc/institution",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "da2b1f19-7d16-4d96-a736-5a7e30a5552c",
+                "package_id": "3609e173-ed25-45b6-b991-ad0c98fe1109"
+            }
+        },
+        {
+            "value": "6619847",
+            "key": "triples",
+            "__extras": {
+                "package_id": "3609e173-ed25-45b6-b991-ad0c98fe1109",
+                "revision_id": "79c86075-599e-4150-aafc-a25552201e8a"
+            }
+        }
+    ],
+    "organization": {
+        "description": "This group gathers datasets of relevance to educational applications. it includes data about open educational resources (OER) and items which were created with an explicit educational purpose, as well as otherwise relevant datasets (academic publications, video assets, etc). All datasets included should expose linked data, and provide at least a SPARQL endpoint. For any enquiries, please contact the administrators via data@linkededucation.org.",
+        "title": "Linked Education Cloud",
+        "created": "2012-10-11T12:20:43.297930",
+        "approval_status": "approved",
+        "revision_timestamp": "2013-01-03T09:51:09.067990",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "",
+        "revision_id": "db4324b3-511f-43a7-ae1b-1940b9a5dc93",
+        "type": "organization",
+        "id": "1a24e0c3-013b-481d-b25c-f36c651315d8",
+        "name": "linked-education"
+    },
+    "revision_id": "f2c69f7f-85e1-450f-af11-7da728942e05"
+}

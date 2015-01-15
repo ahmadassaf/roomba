@@ -1,0 +1,338 @@
+{
+    "license_title": "Creative Commons Attribution Share-Alike 4.0",
+    "maintainer": "Semantic Web Company",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-10T23:42:22.413194",
+    "id": "bb81fadf-4d5d-4696-815f-382922a02949",
+    "metadata_created": "2011-07-13T16:32:02.161014",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T23:42:22.413194",
+    "author": "Semantic Web Company",
+    "author_email": "office@semantic-web.at",
+    "state": "active",
+    "version": "1.0",
+    "license_id": "CC-BY-SA-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "SPARQL endpoint",
+            "format": "api/sparql",
+            "url": "http://vocabulary.semantic-web.at/PoolParty/sparql/semweb",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 25,
+                "recent": 5
+            },
+            "revision_timestamp": "2011-09-19T08:42:42.428538",
+            "webstore_url": null,
+            "resource_group_id": "5d5f7c49-0c4c-49e6-8df5-92db8652dea0",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "1482c274-203b-4277-89bb-f51e0eedc6b2",
+            "size": "13696",
+            "id": "c44e5d9c-2013-4f8e-abec-6cdba510d544",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Example",
+            "format": "example/rdf+xml",
+            "url": "http://vocabulary.semantic-web.at/semweb/253",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 27,
+                "recent": 6
+            },
+            "revision_timestamp": "2011-09-19T08:42:42.428538",
+            "webstore_url": null,
+            "resource_group_id": "5d5f7c49-0c4c-49e6-8df5-92db8652dea0",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "1482c274-203b-4277-89bb-f51e0eedc6b2",
+            "size": null,
+            "id": "9e54579d-68d0-473c-bb7f-c04b1c2a0b92",
+            "resource_type": "",
+            "name": ""
+        },
+        {
+            "mimetype": "application/x-trig",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download",
+            "format": "application/x-ntriples",
+            "url": "http://ckan.net/storage/f/file/80d5f096-e1ad-489f-9ff4-793e6f5f04d2",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 31,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-09-19T08:42:42.428538",
+            "webstore_url": null,
+            "resource_group_id": "5d5f7c49-0c4c-49e6-8df5-92db8652dea0",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "1482c274-203b-4277-89bb-f51e0eedc6b2",
+            "size": "2074242",
+            "id": "01d35a1b-0600-4b3a-bb42-f7ef855a4e97",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "",
+            "format": "meta/void\t",
+            "url": "http://vocabulary.semantic-web.at/semweb.rdf",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "revision_timestamp": "2011-10-11T15:26:35.865117",
+            "webstore_url": null,
+            "resource_group_id": "5d5f7c49-0c4c-49e6-8df5-92db8652dea0",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 3,
+            "revision_id": "6f1b6ffc-3ca0-4f45-9fe1-d694b2859197",
+            "size": "0",
+            "id": "072e3172-dd43-400a-aac6-f1eb22575f48",
+            "resource_type": "file",
+            "name": "VoID",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 4,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "crossdomain",
+            "name": "crossdomain",
+            "revision_timestamp": "2011-07-14T19:32:33.055724",
+            "state": "active",
+            "id": "833848ee-ef06-4283-bb26-164f6c3474b4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2011-07-14T19:45:03.183952",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-owl",
+            "name": "format-owl",
+            "revision_timestamp": "2011-07-20T20:57:41.468971",
+            "state": "active",
+            "id": "b88f7bba-f82e-49b2-9672-4cca65e040de"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-skos",
+            "name": "format-skos",
+            "revision_timestamp": "2011-07-13T16:48:57.410905",
+            "state": "active",
+            "id": "4d405572-6308-41ed-a021-1990e618a626"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2011-07-13T16:33:39.447391",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "people",
+            "name": "people",
+            "revision_timestamp": "2011-07-13T16:32:02.161014",
+            "state": "active",
+            "id": "be7123ef-4c6c-4c15-a1ad-3747c2f19bb3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-producer",
+            "name": "published-by-producer",
+            "revision_timestamp": "2011-07-13T16:47:30.456047",
+            "state": "active",
+            "id": "fcdb5c0a-2b91-44cb-83e5-19fd0d81125c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "research",
+            "name": "research",
+            "revision_timestamp": "2011-07-13T16:32:02.161014",
+            "state": "active",
+            "id": "4c12ce8b-de99-4fde-80a8-a8f812d8cfa7"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "semanticweb",
+            "name": "semanticweb",
+            "revision_timestamp": "2011-07-13T16:32:02.161014",
+            "state": "active",
+            "id": "5376d296-8aca-4e92-b40f-f702a200898a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "socialweb",
+            "name": "socialweb",
+            "revision_timestamp": "2011-07-13T16:32:02.161014",
+            "state": "active",
+            "id": "a525dc54-eefd-49f1-8193-8cbfc954980b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "technology",
+            "name": "technology",
+            "revision_timestamp": "2011-07-13T16:32:02.161014",
+            "state": "active",
+            "id": "167502dc-3167-4edd-aaac-67f037d1cc02"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "thesaurus",
+            "name": "thesaurus",
+            "revision_timestamp": "2011-07-13T16:32:02.161014",
+            "state": "active",
+            "id": "e37c9009-b3ad-4e0c-ada5-b04ae215ea21"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "usergeneratedcontent",
+            "name": "usergeneratedcontent",
+            "revision_timestamp": "2011-09-19T08:42:42.428538",
+            "state": "active",
+            "id": "e9b2da79-5971-41f9-a314-36d368636b85"
+        }
+    ],
+    "tracking_summary": {
+        "total": 375,
+        "recent": 19
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 13,
+    "name": "socialsemweb-thesaurus",
+    "isopen": true,
+    "url": "http://vocabulary.semantic-web.at/PoolParty/wiki/semweb",
+    "notes": "People, organisations, applications and technologies etc. relevant for the area of the Social Semantic Web",
+    "title": "Social Semantic Web Thesaurus",
+    "extras": [
+        {
+            "value": "300",
+            "key": "links:dbpedia",
+            "__extras": {
+                "package_id": "bb81fadf-4d5d-4696-815f-382922a02949",
+                "revision_id": "08338b55-6829-4522-aa71-b0865fb0bdf1"
+            }
+        },
+        {
+            "value": "200",
+            "key": "links:freebase",
+            "__extras": {
+                "revision_id": "08338b55-6829-4522-aa71-b0865fb0bdf1",
+                "package_id": "bb81fadf-4d5d-4696-815f-382922a02949"
+            }
+        },
+        {
+            "value": "100",
+            "key": "links:geonames-semantic-web",
+            "__extras": {
+                "package_id": "bb81fadf-4d5d-4696-815f-382922a02949",
+                "revision_id": "7b6fdec7-b9d4-447d-8967-6f2fb68e4897"
+            }
+        },
+        {
+            "value": "http://vocabulary.semantic-web.at/semweb.rdf",
+            "key": "meta/void",
+            "__extras": {
+                "package_id": "bb81fadf-4d5d-4696-815f-382922a02949",
+                "revision_id": "b1fb0df3-cfd9-4b13-97d6-c856742eca7f"
+            }
+        },
+        {
+            "value": "http://vocabulary.semantic-web.at/semweb/",
+            "key": "namespace",
+            "__extras": {
+                "package_id": "bb81fadf-4d5d-4696-815f-382922a02949",
+                "revision_id": "95a9737f-cc9e-4a6c-9a55-727f6b55dfcb"
+            }
+        },
+        {
+            "value": "SSW Thesaurus",
+            "key": "shortname",
+            "__extras": {
+                "package_id": "bb81fadf-4d5d-4696-815f-382922a02949",
+                "revision_id": "95a9737f-cc9e-4a6c-9a55-727f6b55dfcb"
+            }
+        },
+        {
+            "value": "20000",
+            "key": "triples",
+            "__extras": {
+                "revision_id": "b9b9a10a-3835-41de-bcff-4c90ab823a31",
+                "package_id": "bb81fadf-4d5d-4696-815f-382922a02949"
+            }
+        },
+        {
+            "value": "http://vocabulary.semantic-web.at/semweb.rdf",
+            "key": "void",
+            "__extras": {
+                "revision_id": "490aed9d-1564-47f6-82e8-37f1ba038506",
+                "package_id": "bb81fadf-4d5d-4696-815f-382922a02949"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "c05b5b5d-494d-491a-92cb-8795d67ea9cc",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

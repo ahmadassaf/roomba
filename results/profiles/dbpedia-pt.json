@@ -1,0 +1,178 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-10T20:29:32.007075",
+    "id": "59d456b7-b028-469d-be38-0d5eca56a88c",
+    "metadata_created": "2011-06-28T10:33:02.856725",
+    "owner_org": "8aa2e195-e67f-414e-a901-23035eafa634",
+    "metadata_modified": "2013-10-10T20:29:32.007075",
+    "author": "Pablo Mendes",
+    "author_email": "pablo.mendes@fu-berlin.de",
+    "state": "active",
+    "version": "0.1",
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "text/html",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "SPARQL Endpoint",
+            "format": "api/sparql",
+            "url": "http://pt.dbpedia.org/sparql",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 23,
+                "recent": 5
+            },
+            "revision_timestamp": "2012-09-19T17:51:22.761492",
+            "webstore_url": "",
+            "resource_group_id": "9094a897-42f3-40ee-a098-fa99a3246291",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "dbc495b2-0241-4b90-bdff-1012447c27bb",
+            "size": "5058",
+            "id": "666f9752-82f5-451b-97a3-24c8a9830c67",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Example Resource: Brazil",
+            "format": "example/rdf+xml",
+            "url": "http://pt.dbpedia.org/resource/Brazil",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 13,
+                "recent": 5
+            },
+            "revision_timestamp": "2012-09-19T17:51:22.761492",
+            "webstore_url": "",
+            "resource_group_id": "9094a897-42f3-40ee-a098-fa99a3246291",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "dbc495b2-0241-4b90-bdff-1012447c27bb",
+            "size": "438659",
+            "id": "b3afe229-6a79-43d1-b4e0-00a3cb35d7b6",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "crossdomain",
+            "name": "crossdomain",
+            "revision_timestamp": "2011-06-28T10:33:02.856725",
+            "state": "active",
+            "id": "833848ee-ef06-4283-bb26-164f6c3474b4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2011-06-28T10:45:54.701885",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2011-07-20T20:59:46.395285",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2011-06-28T10:33:02.856725",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-producer",
+            "name": "published-by-producer",
+            "revision_timestamp": "2011-06-28T10:45:54.701885",
+            "state": "active",
+            "id": "fcdb5c0a-2b91-44cb-83e5-19fd0d81125c"
+        }
+    ],
+    "tracking_summary": {
+        "total": 392,
+        "recent": 18
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "dbpedia-pt",
+    "isopen": true,
+    "url": "http://pt.dbpedia.org",
+    "notes": "DBpedia Portuguese is being constructed by a working group to internationalize DBpedia to the [Lusosphere](http://en.wikipedia.org/wiki/Lusosphere \"what is lusosphere?\").\r\n\r\nWe are actively collaborating with the [DBpedia Internationalization Team](http://wiki.dbpedia.org/Internationalization) to include knowledge from the [Portuguese Language Wikipedia](http://pt.wikipedia.org) into DBpedia. As a first step, we have performed a preliminary extraction (available at http://pt.dbpedia.org) and are editing several mappings and labels to the DBpedia Ontology. The activity is organized via the mailing list dbpedia-portuguese@lists.sourceforge.net\r\n\r\nhttp://pt.dbpedia.org",
+    "title": "DBpedia in Portuguese",
+    "extras": [
+        {
+            "value": "365839",
+            "key": "links:dbpedia",
+            "__extras": {
+                "package_id": "59d456b7-b028-469d-be38-0d5eca56a88c",
+                "revision_id": "b7ce6fd5-f241-4a94-89a6-59a873a69dea"
+            }
+        },
+        {
+            "value": "http://pt.dbpedia.org/resource/",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "59b6c305-a6a4-4988-b030-a49dae84095e",
+                "package_id": "59d456b7-b028-469d-be38-0d5eca56a88c"
+            }
+        },
+        {
+            "value": "http://pt.dbpedia.org",
+            "key": "sparql_graph_name",
+            "__extras": {
+                "revision_id": "f0f0d2ae-6d67-436a-afbc-be7000edf095",
+                "package_id": "59d456b7-b028-469d-be38-0d5eca56a88c"
+            }
+        },
+        {
+            "value": "24607332",
+            "key": "triples",
+            "__extras": {
+                "package_id": "59d456b7-b028-469d-be38-0d5eca56a88c",
+                "revision_id": "f0f0d2ae-6d67-436a-afbc-be7000edf095"
+            }
+        }
+    ],
+    "organization": {
+        "description": "",
+        "title": "DBpedia",
+        "created": "2013-02-05T10:20:58.186803",
+        "approval_status": "approved",
+        "revision_timestamp": "2013-02-05T16:25:16.306734",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "",
+        "revision_id": "be4ae78b-59c5-4f11-93ba-d8131a9d9c62",
+        "type": "organization",
+        "id": "8aa2e195-e67f-414e-a901-23035eafa634",
+        "name": "dbpedia-i18n"
+    },
+    "revision_id": "bbbda964-b505-499f-bd2a-492450edcf28"
+}

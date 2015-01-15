@@ -1,0 +1,253 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-11T00:07:59.050729",
+    "id": "557def94-520d-4cbf-8f05-4a4d8b6bf75d",
+    "metadata_created": "2010-09-01T10:42:48.420434",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-11T00:07:59.050729",
+    "author": "W3C",
+    "author_email": "public-swbp-wg@w3.org",
+    "state": "active",
+    "version": "2.0",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Download",
+            "format": "application/rdf+xml",
+            "url": "http://www.w3.org/2006/03/wn/wn20/download/wn20full.zip",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 37,
+                "recent": 3
+            },
+            "revision_timestamp": "2010-09-27T20:25:32.048920",
+            "webstore_url": null,
+            "resource_group_id": "19c67e63-eae6-733e-a3b0-d5d2d47acc2b",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "223126ee-2c42-4d8b-a5a4-c6b7b1a04efe",
+            "size": "13832499",
+            "id": "033221f9-bb3f-42d3-be5b-4ea6e0c27d7e",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "RDF Schema",
+            "format": "meta/rdf-schema",
+            "url": "http://www.w3.org/2006/03/wn/wn20/schemas/wnfull.rdfs",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 21,
+                "recent": 3
+            },
+            "revision_timestamp": "2010-10-06T18:05:49.924392",
+            "webstore_url": null,
+            "resource_group_id": "19c67e63-eae6-733e-a3b0-d5d2d47acc2b",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "747f654c-0058-4ace-a3b7-0d07d028a627",
+            "size": "35332",
+            "id": "5ace74c8-4da6-49b9-8b46-c5617422e343",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Example word sense",
+            "format": "example/rdf+xml",
+            "url": "http://www.w3.org/2006/03/wn/wn20/instances/wordsense-entity-noun-1",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 15,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-07-20T09:01:00.171634",
+            "webstore_url": null,
+            "resource_group_id": "19c67e63-eae6-733e-a3b0-d5d2d47acc2b",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "d6ba6fc8-3e1f-45b7-9b05-d39f5217bf5d",
+            "size": "661",
+            "id": "e6c15c03-9288-4e1a-b9bc-5c9856423c28",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 3,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "crossdomain",
+            "name": "crossdomain",
+            "revision_timestamp": "2010-10-06T18:05:49.924392",
+            "state": "active",
+            "id": "833848ee-ef06-4283-bb26-164f6c3474b4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2010-10-06T18:05:49.924392",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2010-09-01T10:42:48.420434",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-vu-wordnet",
+            "name": "format-vu-wordnet",
+            "revision_timestamp": "2011-07-20T09:01:00.171634",
+            "state": "active",
+            "id": "e1cedad7-0428-4f7f-82c2-3a13ae99bdda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2010-09-01T10:42:48.420434",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lodcloud.nolinks",
+            "name": "lodcloud.nolinks",
+            "revision_timestamp": "2011-08-10T12:52:16.989810",
+            "state": "active",
+            "id": "ce89d5e1-b216-44ba-9603-d13fa7b248c4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "nlp",
+            "name": "nlp",
+            "revision_timestamp": "2011-07-20T09:01:00.171634",
+            "state": "active",
+            "id": "33fa3c76-e484-477e-92a6-b5e610e03d93"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2010-10-06T18:05:49.924392",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-provenance-metadata",
+            "name": "no-provenance-metadata",
+            "revision_timestamp": "2010-10-06T18:05:49.924392",
+            "state": "active",
+            "id": "585e9fca-2d67-4a07-b9d1-5495de054c7a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-vocab-mappings",
+            "name": "no-vocab-mappings",
+            "revision_timestamp": "2010-10-06T18:05:49.924392",
+            "state": "active",
+            "id": "e51273d8-dc60-4cf2-a68d-3cfd33b2c1fc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2010-10-06T18:05:49.924392",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "w3c",
+            "name": "w3c",
+            "revision_timestamp": "2010-09-07T12:09:23.693376",
+            "state": "active",
+            "id": "26fb289e-44b5-4fc1-8d45-786a881708d2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 485,
+        "recent": 23
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 12,
+    "name": "w3c-wordnet",
+    "isopen": false,
+    "url": "http://www.w3.org/TR/wordnet-rdf",
+    "notes": "Presents a standard conversion of Princeton WordNet to RDF/OWL. It describes how it was converted and gives examples of how it may be queried for use in Semantic Web applications.\r\n\r\nEditors:\r\nMark van Assem, Vrije Universiteit Amsterdam\r\nAldo Gangemi, ISTC-CNR, Rome\r\nGuus Schreiber, Vrije Universiteit Amsterdam",
+    "title": "WordNet 2.0 (W3C)",
+    "extras": [
+        {
+            "value": "http://www.w3.org/2006/03/wn/wn20/",
+            "key": "namespace",
+            "__extras": {
+                "package_id": "557def94-520d-4cbf-8f05-4a4d8b6bf75d",
+                "revision_id": "d6ba6fc8-3e1f-45b7-9b05-d39f5217bf5d"
+            }
+        },
+        {
+            "value": "WordNet (W3C)",
+            "key": "shortname",
+            "__extras": {
+                "revision_id": "d6868acf-88fc-4153-9619-a8c1ef061138",
+                "package_id": "557def94-520d-4cbf-8f05-4a4d8b6bf75d"
+            }
+        },
+        {
+            "value": "710000",
+            "key": "triples",
+            "__extras": {
+                "revision_id": "54657431-c4ee-4723-94b2-ec0eda8be3a3",
+                "package_id": "557def94-520d-4cbf-8f05-4a4d8b6bf75d"
+            }
+        }
+    ],
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "9b604e91-c282-4924-9b70-5a6ec220fbe8"
+}

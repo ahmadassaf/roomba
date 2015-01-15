@@ -1,0 +1,271 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "Tai-Ting Wu",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "taitingwu@itri.org.tw",
+    "revision_timestamp": "2014-06-23T06:04:30.403654",
+    "id": "858dc724-5a4b-440f-801f-547e7f0f074a",
+    "metadata_created": "2013-11-08T01:23:44.902289",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2014-06-23T06:04:30.403654",
+    "author": "Tai-Ting Wu",
+    "author_email": "taitingwu@itri.org.tw",
+    "state": "active",
+    "version": null,
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "4e27d6d2-37ff-480b-8253-26ad517b4512",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-11-08T03:26:53.839832",
+            "webstore_last_updated": null,
+            "id": "7a262616-87e1-4589-890a-b1420235ac64",
+            "size": null,
+            "state": "active",
+            "hash": "",
+            "description": "SPARQL endpoint",
+            "format": "api/sparql",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "SPARQL endpoint of Taiwan Indigenous People ",
+            "created": "2013-11-07T19:33:49.958400",
+            "url": "http://lod.apc.gov.tw/sparql",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "f0e38269-b94f-4557-bcf8-abdd2d2e258f",
+            "resource_type": "api"
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Indigenous People",
+            "name": "Indigenous People",
+            "revision_timestamp": "2013-11-08T01:23:44.902289",
+            "state": "active",
+            "id": "a259b4c0-312b-45c2-9aa0-d5d0500c257e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Taiwan",
+            "name": "Taiwan",
+            "revision_timestamp": "2013-11-08T01:23:44.902289",
+            "state": "active",
+            "id": "e4e5455c-6547-47c3-b54f-efc416692858"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "aboriginal",
+            "name": "aboriginal",
+            "revision_timestamp": "2013-11-08T01:23:44.902289",
+            "state": "active",
+            "id": "2890a661-addc-4de5-8b89-04f372bbff49"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "government",
+            "name": "government",
+            "revision_timestamp": "2013-11-08T01:51:34.248549",
+            "state": "active",
+            "id": "22fddbd6-8780-4ce0-826f-e41efdc36688"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "indigenous",
+            "name": "indigenous",
+            "revision_timestamp": "2013-11-08T01:23:44.902289",
+            "state": "active",
+            "id": "50f1e06f-39be-43f4-8675-77ae3ad78b6d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2013-11-08T01:23:44.902289",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "tip",
+    "isopen": true,
+    "url": null,
+    "notes": "A SPARQL endpoint of Taiwan Indigenous People provides Taiwan Indigenous people information, including 6 major subjects : [Ethnic](http://lod.apc.gov.tw:8890/schemas/Ethnic_Introduction/), [Culture](http://lod.apc.gov.tw:8890/schemas/Cultural_Creative/), [Travel](http://lod.apc.gov.tw:8890/schemas/Travel/), [Gourmet](http://lod.apc.gov.tw:8890/schemas/Gourmet/), [Ceremony](http://lod.apc.gov.tw:8890/schemas/Ceremony/) and [Business] (http://lod.apc.gov.tw:8890/schemas/Business/).\r\n",
+    "title": "TIP",
+    "extras": [
+        {
+            "value": "\"TIP\"",
+            "key": "Name",
+            "__extras": {
+                "package_id": "858dc724-5a4b-440f-801f-547e7f0f074a",
+                "revision_id": "415fc139-6baf-4f07-94e1-b5e497679552"
+            }
+        },
+        {
+            "value": "\"Taiwan Indigenous People\"",
+            "key": "Title",
+            "__extras": {
+                "revision_id": "415fc139-6baf-4f07-94e1-b5e497679552",
+                "package_id": "858dc724-5a4b-440f-801f-547e7f0f074a"
+            }
+        },
+        {
+            "value": "http://lod.apc.gov.tw/",
+            "key": "URL",
+            "__extras": {
+                "package_id": "858dc724-5a4b-440f-801f-547e7f0f074a",
+                "revision_id": "415fc139-6baf-4f07-94e1-b5e497679552"
+            }
+        },
+        {
+            "value": "\"2013-12-11\"",
+            "key": "Version",
+            "__extras": {
+                "revision_id": "11711257-78b6-4f94-826b-b454849f7cb7",
+                "package_id": "858dc724-5a4b-440f-801f-547e7f0f074a"
+            }
+        },
+        {
+            "value": "314",
+            "key": "links:dbpedia",
+            "__extras": {
+                "package_id": "858dc724-5a4b-440f-801f-547e7f0f074a",
+                "revision_id": "11711257-78b6-4f94-826b-b454849f7cb7"
+            }
+        },
+        {
+            "value": "91",
+            "key": "links:freebase",
+            "__extras": {
+                "package_id": "858dc724-5a4b-440f-801f-547e7f0f074a",
+                "revision_id": "415fc139-6baf-4f07-94e1-b5e497679552"
+            }
+        },
+        {
+            "value": "20",
+            "key": "links:geonames-semantic-web",
+            "__extras": {
+                "revision_id": "415fc139-6baf-4f07-94e1-b5e497679552",
+                "package_id": "858dc724-5a4b-440f-801f-547e7f0f074a"
+            }
+        },
+        {
+            "value": "6",
+            "key": "links:linkedgeodata",
+            "__extras": {
+                "package_id": "858dc724-5a4b-440f-801f-547e7f0f074a",
+                "revision_id": "11711257-78b6-4f94-826b-b454849f7cb7"
+            }
+        },
+        {
+            "value": "89",
+            "key": "links:wikidata",
+            "__extras": {
+                "revision_id": "415fc139-6baf-4f07-94e1-b5e497679552",
+                "package_id": "858dc724-5a4b-440f-801f-547e7f0f074a"
+            }
+        },
+        {
+            "value": "11",
+            "key": "links:wikipediaontology",
+            "__extras": {
+                "package_id": "858dc724-5a4b-440f-801f-547e7f0f074a",
+                "revision_id": "415fc139-6baf-4f07-94e1-b5e497679552"
+            }
+        },
+        {
+            "value": "89",
+            "key": "links:yago-knowledge",
+            "__extras": {
+                "package_id": "858dc724-5a4b-440f-801f-547e7f0f074a",
+                "revision_id": "415fc139-6baf-4f07-94e1-b5e497679552"
+            }
+        },
+        {
+            "value": "http://lod.apc.gov.tw:8890/schemas/Business/",
+            "key": "namespace(Business)",
+            "__extras": {
+                "revision_id": "11711257-78b6-4f94-826b-b454849f7cb7",
+                "package_id": "858dc724-5a4b-440f-801f-547e7f0f074a"
+            }
+        },
+        {
+            "value": "http://lod.apc.gov.tw:8890/schemas/Ceremony/",
+            "key": "namespace(Ceremony)",
+            "__extras": {
+                "revision_id": "11711257-78b6-4f94-826b-b454849f7cb7",
+                "package_id": "858dc724-5a4b-440f-801f-547e7f0f074a"
+            }
+        },
+        {
+            "value": "http://lod.apc.gov.tw:8890/schemas/Cultural_Creative/",
+            "key": "namespace(Culture)",
+            "__extras": {
+                "package_id": "858dc724-5a4b-440f-801f-547e7f0f074a",
+                "revision_id": "11711257-78b6-4f94-826b-b454849f7cb7"
+            }
+        },
+        {
+            "value": "http://lod.apc.gov.tw:8890/schemas/Ethnic_Introduction/",
+            "key": "namespace(Ethnic)",
+            "__extras": {
+                "revision_id": "11711257-78b6-4f94-826b-b454849f7cb7",
+                "package_id": "858dc724-5a4b-440f-801f-547e7f0f074a"
+            }
+        },
+        {
+            "value": "http://lod.apc.gov.tw:8890/schemas/Gourmet/",
+            "key": "namespace(Gourmet)",
+            "__extras": {
+                "revision_id": "11711257-78b6-4f94-826b-b454849f7cb7",
+                "package_id": "858dc724-5a4b-440f-801f-547e7f0f074a"
+            }
+        },
+        {
+            "value": "http://lod.apc.gov.tw:8890/schemas/Travel/",
+            "key": "namespace(Travel)",
+            "__extras": {
+                "revision_id": "11711257-78b6-4f94-826b-b454849f7cb7",
+                "package_id": "858dc724-5a4b-440f-801f-547e7f0f074a"
+            }
+        },
+        {
+            "value": "264034",
+            "key": "triples",
+            "__extras": {
+                "package_id": "858dc724-5a4b-440f-801f-547e7f0f074a",
+                "revision_id": "11711257-78b6-4f94-826b-b454849f7cb7"
+            }
+        }
+    ],
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "c1bb2750-9e61-418a-ad5c-330a0446d470"
+}

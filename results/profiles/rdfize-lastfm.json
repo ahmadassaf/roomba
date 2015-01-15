@@ -1,0 +1,258 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-10T23:23:39.834859",
+    "id": "37c91a8e-2181-47bf-9596-31e39a8397fa",
+    "metadata_created": "2010-09-10T10:49:53.688259",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T23:23:39.834859",
+    "author": "Keith Alexander",
+    "author_email": "keith.alexander@talis.com",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "text/n3",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "voiD description",
+            "format": "meta/void",
+            "url": "http://lastfm.rdfize.com/meta.n3",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 19,
+                "recent": 3
+            },
+            "revision_timestamp": "2010-09-10T10:56:17.609412",
+            "webstore_url": null,
+            "resource_group_id": "b08ac575-c33e-5448-cb2d-5ebbcfa38eac",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "c2820941-0b60-4547-b63f-7e0350993c41",
+            "size": "2989",
+            "id": "14074290-6806-42d1-9903-7608003a4a8f",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/plain",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Example (Turtle)",
+            "format": "example/turtle",
+            "url": "http://lastfm.rdfize.com/events/937256",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 17,
+                "recent": 7
+            },
+            "revision_timestamp": "2010-09-10T10:56:17.609412",
+            "webstore_url": null,
+            "resource_group_id": "b08ac575-c33e-5448-cb2d-5ebbcfa38eac",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "c2820941-0b60-4547-b63f-7e0350993c41",
+            "size": null,
+            "id": "e05fdfef-3bff-47eb-b485-fbaf12ec557f",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "format-foaf",
+            "name": "format-foaf",
+            "revision_timestamp": "2010-10-07T09:44:01.968496",
+            "state": "active",
+            "id": "bd737030-1ba6-4913-baaa-bfa2581618b5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2010-09-10T10:56:17.609412",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-vcard",
+            "name": "format-vcard",
+            "revision_timestamp": "2010-10-05T15:36:00.608241",
+            "state": "active",
+            "id": "15a4eeb8-5380-4f22-831f-ce6aad2bfe28"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lastfm",
+            "name": "lastfm",
+            "revision_timestamp": "2010-09-10T10:56:17.609412",
+            "state": "active",
+            "id": "a48f66fe-b4af-4a12-a18a-a8c4499f1419"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2010-09-10T10:56:17.609412",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "media",
+            "name": "media",
+            "revision_timestamp": "2010-10-07T09:44:01.968496",
+            "state": "active",
+            "id": "e9d8b0c1-d68c-4020-a45d-1f46463d8f14"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "music",
+            "name": "music",
+            "revision_timestamp": "2010-09-10T10:49:53.688259",
+            "state": "active",
+            "id": "f4aa01a2-5bb2-4839-92f2-340fe9f71e62"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2010-10-07T09:44:01.968496",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-proprietary-vocab",
+            "name": "no-proprietary-vocab",
+            "revision_timestamp": "2010-10-07T09:44:01.968496",
+            "state": "active",
+            "id": "aef04cb8-a7aa-4419-8184-396b0ef6e680"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-vocab-mappings",
+            "name": "no-vocab-mappings",
+            "revision_timestamp": "2010-10-07T09:44:01.968496",
+            "state": "active",
+            "id": "e51273d8-dc60-4cf2-a68d-3cfd33b2c1fc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "provenance-metadata",
+            "name": "provenance-metadata",
+            "revision_timestamp": "2010-10-07T09:44:01.968496",
+            "state": "active",
+            "id": "24a0f0a3-36bc-4209-84e5-7d6b89d82dfa"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2010-10-07T09:44:01.968496",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        }
+    ],
+    "tracking_summary": {
+        "total": 873,
+        "recent": 20
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 12,
+    "name": "rdfize-lastfm",
+    "isopen": false,
+    "url": "http://lastfm.rdfize.com",
+    "notes": "A Linked Data wrapper around some of the last.fm API.",
+    "title": "Last.FM RDFization of Events, Artists, and Users",
+    "extras": [
+        {
+            "value": "5000000",
+            "key": "links:bbc-music",
+            "__extras": {
+                "package_id": "37c91a8e-2181-47bf-9596-31e39a8397fa",
+                "revision_id": "4ca44da7-2b87-4e1a-991d-52bb4366fb37"
+            }
+        },
+        {
+            "value": "23000",
+            "key": "links:dbpedia",
+            "__extras": {
+                "revision_id": "4ca44da7-2b87-4e1a-991d-52bb4366fb37",
+                "package_id": "37c91a8e-2181-47bf-9596-31e39a8397fa"
+            }
+        },
+        {
+            "value": "5000000",
+            "key": "links:dbtune-artists-last-fm",
+            "__extras": {
+                "package_id": "37c91a8e-2181-47bf-9596-31e39a8397fa",
+                "revision_id": "4ca44da7-2b87-4e1a-991d-52bb4366fb37"
+            }
+        },
+        {
+            "value": "40000000",
+            "key": "links:qdos",
+            "__extras": {
+                "package_id": "37c91a8e-2181-47bf-9596-31e39a8397fa",
+                "revision_id": "c2820941-0b60-4547-b63f-7e0350993c41"
+            }
+        },
+        {
+            "value": "http://lastfm.rdfize.com/",
+            "key": "namespace",
+            "__extras": {
+                "package_id": "37c91a8e-2181-47bf-9596-31e39a8397fa",
+                "revision_id": "1fae55f4-efdd-4fc3-9b59-39af80e4ed77"
+            }
+        },
+        {
+            "value": "Last.FM (rdfize)",
+            "key": "shortname",
+            "__extras": {
+                "package_id": "37c91a8e-2181-47bf-9596-31e39a8397fa",
+                "revision_id": "900e547b-5eee-408e-bb5d-cb77bd816320"
+            }
+        },
+        {
+            "value": "400000000",
+            "key": "triples",
+            "__extras": {
+                "revision_id": "d21ebd98-8e1f-4a01-b9e8-c63f8f2ae4d3",
+                "package_id": "37c91a8e-2181-47bf-9596-31e39a8397fa"
+            }
+        }
+    ],
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "e3ffb644-3984-4073-8d12-4ed8a011706a"
+}

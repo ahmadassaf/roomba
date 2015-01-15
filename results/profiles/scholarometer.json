@@ -1,0 +1,273 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Xiaoling Sun",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "sun20@indiana.edu",
+    "revision_timestamp": "2013-10-10T23:37:20.565866",
+    "id": "2dc00994-0d72-4a7a-8234-dca2b0e149ab",
+    "metadata_created": "2011-03-21T23:56:36.438180",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T23:37:20.565866",
+    "author": "Scholarometer Team",
+    "author_email": "scholarometer@googlegroups.com",
+    "state": "active",
+    "version": "2011-03-21",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Example resource",
+            "format": "example/rdf+xml",
+            "url": "http://scholarometer.indiana.edu/resource/author/f%20menczer",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 5,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-05-02T22:03:11.047445",
+            "webstore_url": "",
+            "resource_group_id": "b32c8e59-93db-4244-a6cc-6196ee627703",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "653cbd93-86b2-4e5a-aa19-799397c0a57e",
+            "size": null,
+            "id": "22705219-84c0-4b84-bc2d-f37378f40a93",
+            "resource_type": "",
+            "name": ""
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "RDF Schema",
+            "format": "meta/rdf-schema",
+            "url": "http://scholarometer.indiana.edu/namespaces/",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 3,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-05-02T22:03:11.047445",
+            "webstore_url": "",
+            "resource_group_id": "b32c8e59-93db-4244-a6cc-6196ee627703",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "653cbd93-86b2-4e5a-aa19-799397c0a57e",
+            "size": "31093",
+            "id": "73c9d8e9-68b0-4788-bd79-ba5af5065c18",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2011-03-21T23:56:36.438180",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-foaf",
+            "name": "format-foaf",
+            "revision_timestamp": "2011-03-21T23:56:36.438180",
+            "state": "active",
+            "id": "bd737030-1ba6-4913-baaa-bfa2581618b5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-owl",
+            "name": "format-owl",
+            "revision_timestamp": "2011-03-21T23:56:36.438180",
+            "state": "active",
+            "id": "b88f7bba-f82e-49b2-9672-4cca65e040de"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2011-03-21T23:56:36.438180",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdfs",
+            "name": "format-rdfs",
+            "revision_timestamp": "2011-03-21T23:56:36.438180",
+            "state": "active",
+            "id": "781902f8-ba13-4330-bba3-54d0bbf24b58"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-scholar",
+            "name": "format-scholar",
+            "revision_timestamp": "2011-03-21T23:56:36.438180",
+            "state": "active",
+            "id": "1e00310a-7497-4492-aec3-1c1c414c0bca"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "impact-analysis",
+            "name": "impact-analysis",
+            "revision_timestamp": "2011-03-21T23:56:36.438180",
+            "state": "active",
+            "id": "2d7beca5-5ac0-4c2b-ba09-02426bfe5791"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2011-03-21T23:56:36.438180",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2011-03-25T14:09:08.141279",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-provenance-metadata",
+            "name": "no-provenance-metadata",
+            "revision_timestamp": "2011-03-25T14:09:08.141279",
+            "state": "active",
+            "id": "585e9fca-2d67-4a07-b9d1-5495de054c7a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-vocab-mappings",
+            "name": "no-vocab-mappings",
+            "revision_timestamp": "2011-03-21T23:56:36.438180",
+            "state": "active",
+            "id": "e51273d8-dc60-4cf2-a68d-3cfd33b2c1fc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "publications",
+            "name": "publications",
+            "revision_timestamp": "2011-03-21T23:56:36.438180",
+            "state": "active",
+            "id": "c93ebe8f-83a0-498c-8704-1de94db149e9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-producer",
+            "name": "published-by-producer",
+            "revision_timestamp": "2011-03-21T23:56:36.438180",
+            "state": "active",
+            "id": "fcdb5c0a-2b91-44cb-83e5-19fd0d81125c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "scholarometer",
+            "name": "scholarometer",
+            "revision_timestamp": "2011-03-21T23:56:36.438180",
+            "state": "active",
+            "id": "0b706ea6-7822-4dad-957c-575d4a5030dc"
+        }
+    ],
+    "tracking_summary": {
+        "total": 192,
+        "recent": 14
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 14,
+    "name": "scholarometer",
+    "isopen": false,
+    "url": "http://scholarometer.indiana.edu/data.html",
+    "notes": "Scholarometer is a social tool for citation analysis, which provides a service to scholars by computing citation-based impact measures. Scholarometer data provides information about authors and disciplines based on citation analysis.",
+    "title": "Scholarometer",
+    "extras": [
+        {
+            "value": "1000",
+            "key": "links:dbpedia",
+            "__extras": {
+                "package_id": "2dc00994-0d72-4a7a-8234-dca2b0e149ab",
+                "revision_id": "9cf5f80e-8c38-401a-ac77-6e92178b719d"
+            }
+        },
+        {
+            "value": "1000",
+            "key": "links:freebase",
+            "__extras": {
+                "revision_id": "653cbd93-86b2-4e5a-aa19-799397c0a57e",
+                "package_id": "2dc00994-0d72-4a7a-8234-dca2b0e149ab"
+            }
+        },
+        {
+            "value": "1000",
+            "key": "links:fu-berlin-dblp",
+            "__extras": {
+                "package_id": "2dc00994-0d72-4a7a-8234-dca2b0e149ab",
+                "revision_id": "653cbd93-86b2-4e5a-aa19-799397c0a57e"
+            }
+        },
+        {
+            "value": "2500",
+            "key": "links:l3s-dblp",
+            "__extras": {
+                "package_id": "2dc00994-0d72-4a7a-8234-dca2b0e149ab",
+                "revision_id": "9cf5f80e-8c38-401a-ac77-6e92178b719d"
+            }
+        },
+        {
+            "value": "530",
+            "key": "links:opencyc",
+            "__extras": {
+                "package_id": "2dc00994-0d72-4a7a-8234-dca2b0e149ab",
+                "revision_id": "653cbd93-86b2-4e5a-aa19-799397c0a57e"
+            }
+        },
+        {
+            "value": "http://scholarometer.indiana.edu/namespaces/",
+            "key": "namespace",
+            "__extras": {
+                "package_id": "2dc00994-0d72-4a7a-8234-dca2b0e149ab",
+                "revision_id": "31f9cada-66ae-443d-b197-70279545ea14"
+            }
+        },
+        {
+            "value": "900000",
+            "key": "triples",
+            "__extras": {
+                "revision_id": "9cf5f80e-8c38-401a-ac77-6e92178b719d",
+                "package_id": "2dc00994-0d72-4a7a-8234-dca2b0e149ab"
+            }
+        }
+    ],
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "45338104-6b8c-4da5-a878-746eca6e6a31"
+}

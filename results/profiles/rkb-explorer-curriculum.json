@@ -1,0 +1,611 @@
+{
+    "license_title": "",
+    "maintainer": "",
+    "relationships_as_object": [
+        {
+            "comment": "1",
+            "type": "links_to",
+            "id": "a1a99fff-8cca-448a-886d-ca68b39d8a75",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:22:53.450848",
+                "subject_package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a",
+                "revision_id": "5b8eb45b-7c41-49a3-8170-1334498fa3ed",
+                "object_package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37"
+            }
+        },
+        {
+            "comment": "2",
+            "type": "links_to",
+            "id": "a40b95a5-a007-44a0-b9be-117774950bee",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:23:36.299144",
+                "subject_package_id": "feec8014-10d0-47c1-9f4d-eed33dc68d83",
+                "revision_id": "db38965b-a953-4a4c-8087-55c226a534e8",
+                "object_package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37"
+            }
+        }
+    ],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-10T23:27:16.238222",
+    "id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37",
+    "metadata_created": "2010-08-23T13:24:01.379036",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T23:27:16.238222",
+    "author": "Hugh Glaser",
+    "author_email": "hg@ecs.soton.ac.uk",
+    "state": "active",
+    "version": "",
+    "license_id": "",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "SPARQL endpoint",
+            "format": "api/sparql",
+            "url": "http://curriculum.rkbexplorer.com/sparql/",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "revision_timestamp": "2012-07-04T21:29:29.143763",
+            "webstore_url": "",
+            "resource_group_id": "e5f10efd-d0ce-9a85-6513-b44aba02410c",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "cac45e95-e63d-4d33-bfa9-a910f1b7a7fc",
+            "size": null,
+            "id": "dbb4382c-ead7-4943-8bde-fbe181c2a2d7",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "XML Sitemap",
+            "format": "meta/sitemap",
+            "url": "http://curriculum.rkbexplorer.com/sitemap.xml",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "revision_timestamp": "2012-07-04T21:29:29.143763",
+            "webstore_url": "",
+            "resource_group_id": "e5f10efd-d0ce-9a85-6513-b44aba02410c",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "cac45e95-e63d-4d33-bfa9-a910f1b7a7fc",
+            "size": "3195",
+            "id": "97258dc5-1a8f-416b-a03d-8c4738ffa42a",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/n3",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "voiD file",
+            "format": "meta/void",
+            "url": "http://curriculum.rkbexplorer.com/models/void.ttl",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "revision_timestamp": "2012-07-04T21:29:29.143763",
+            "webstore_url": "",
+            "resource_group_id": "e5f10efd-d0ce-9a85-6513-b44aba02410c",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "cac45e95-e63d-4d33-bfa9-a910f1b7a7fc",
+            "size": "9019",
+            "id": "45f30dfd-4620-4de8-a4ff-dce21337381f",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Example (RDF/XML)",
+            "format": "example/rdf+xml",
+            "url": "http://curriculum.rkbexplorer.com/id/course-4.01",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 5,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-07-04T21:29:29.143763",
+            "webstore_url": "",
+            "resource_group_id": "e5f10efd-d0ce-9a85-6513-b44aba02410c",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 3,
+            "revision_id": "cac45e95-e63d-4d33-bfa9-a910f1b7a7fc",
+            "size": null,
+            "id": "77e51cf4-d68b-426e-b8e9-65c0d0f93296",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e5f10efd-d0ce-9a85-6513-b44aba02410c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2012-07-04T21:29:29.143763",
+            "webstore_last_updated": null,
+            "id": "133949c5-7584-4110-ad55-5e83edcdeea8",
+            "size": "34143",
+            "state": "active",
+            "hash": "",
+            "description": "",
+            "format": "application/rdf+xml",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": "",
+            "mimetype": "application/x-gzip",
+            "cache_url": null,
+            "name": "Download (tar gzip of RDF)",
+            "created": "2012-07-04T21:29:29.251278",
+            "url": "http://curriculum.rkbexplorer.com/models/dump.tgz",
+            "webstore_url": "enabled",
+            "last_modified": "2012-07-03T16:08:28",
+            "position": 4,
+            "revision_id": "cac45e95-e63d-4d33-bfa9-a910f1b7a7fc",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 5,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2010-09-26T21:58:05.575234",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-akt",
+            "name": "format-akt",
+            "revision_timestamp": "2010-09-27T14:36:52.780747",
+            "state": "active",
+            "id": "f8ebd08e-fc7d-4a23-aa3f-9ad8b93e9cbc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-dc",
+            "name": "format-dc",
+            "revision_timestamp": "2010-09-27T14:36:52.780747",
+            "state": "active",
+            "id": "0b675a54-621f-4fdb-850a-ef5d0b1b1ca3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2010-08-23T13:24:01.379036",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2010-08-23T13:24:01.379036",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lodcloud.unconnected",
+            "name": "lodcloud.unconnected",
+            "revision_timestamp": "2011-07-22T16:20:32.347364",
+            "state": "active",
+            "id": "84fcfb78-a0ce-40ff-a6c8-b0749f5091f6"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2010-09-26T21:58:05.575234",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-vocab-mappings",
+            "name": "no-vocab-mappings",
+            "revision_timestamp": "2010-10-06T22:05:58.690551",
+            "state": "active",
+            "id": "e51273d8-dc60-4cf2-a68d-3cfd33b2c1fc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "provenance-metadata",
+            "name": "provenance-metadata",
+            "revision_timestamp": "2010-09-26T21:58:05.575234",
+            "state": "active",
+            "id": "24a0f0a3-36bc-4209-84e5-7d6b89d82dfa"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "publications",
+            "name": "publications",
+            "revision_timestamp": "2010-09-26T21:58:05.575234",
+            "state": "active",
+            "id": "c93ebe8f-83a0-498c-8704-1de94db149e9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2010-09-26T21:58:05.575234",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "void-sparql-endpoint",
+            "name": "void-sparql-endpoint",
+            "revision_timestamp": "2011-07-24T11:54:03.733143",
+            "state": "active",
+            "id": "9d821331-6c26-4261-bd2b-12dab19d508e"
+        }
+    ],
+    "tracking_summary": {
+        "total": 31,
+        "recent": 5
+    },
+    "groups": [],
+    "relationships_as_subject": [
+        {
+            "comment": "1",
+            "type": "links_to",
+            "id": "129cfeac-94c1-4e21-b16d-e1e27eb9edd5",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:23:45.134750",
+                "subject_package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37",
+                "revision_id": "e09dca5f-bc3e-405f-80fd-3c7987aa37a7",
+                "object_package_id": "36e89acf-8b08-4a46-8ae7-f1a5a5cdbc7c"
+            }
+        },
+        {
+            "comment": "1",
+            "type": "links_to",
+            "id": "e7b1ad25-b423-4663-86b7-d9ce60bdfc22",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:23:55.157885",
+                "subject_package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37",
+                "revision_id": "cc3c08aa-6da6-4f04-8a99-04c1ee50dfa9",
+                "object_package_id": "6954f22f-2db9-49b6-afe7-b73d46338075"
+            }
+        },
+        {
+            "comment": "10",
+            "type": "links_to",
+            "id": "a414da0d-45b4-4ba8-b637-ca787cb5e0d9",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:23:41.082469",
+                "subject_package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37",
+                "revision_id": "ef5b1bb2-244b-4736-bf8a-a9245313e4d9",
+                "object_package_id": "23125bb4-da77-4d8f-958d-c22a9c17e158"
+            }
+        },
+        {
+            "comment": "11",
+            "type": "links_to",
+            "id": "39aedb89-654d-48f2-b87b-98687383b1a3",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:23:54.524745",
+                "object_package_id": "fb7a2113-ce0d-4ca0-b23d-278d915433a1",
+                "revision_id": "6e1cfe8b-6dc8-49d0-95a4-fd5718bb4232",
+                "subject_package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37"
+            }
+        },
+        {
+            "comment": "2",
+            "type": "links_to",
+            "id": "8df13bea-b457-4eb1-a5b0-434be4182b49",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:23:42.789836",
+                "object_package_id": "0c2ec56c-c041-4775-b733-94cecefea420",
+                "revision_id": "b8552151-629b-4469-87bb-469d8333ff6b",
+                "subject_package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37"
+            }
+        },
+        {
+            "comment": "23",
+            "type": "links_to",
+            "id": "7825169e-deb0-4922-bd20-c60c538b62b1",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:23:47.235186",
+                "object_package_id": "3ffa7aac-7f1f-496f-801d-7941c932c631",
+                "revision_id": "692650bd-7491-49ab-b576-420ab5a776d6",
+                "subject_package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37"
+            }
+        },
+        {
+            "comment": "3",
+            "type": "links_to",
+            "id": "3c3856a1-ec15-492c-afbb-e9e302a446fd",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:23:49.780619",
+                "subject_package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37",
+                "revision_id": "b0a35d5d-cb3d-455c-a876-6cedeef633c6",
+                "object_package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3"
+            }
+        },
+        {
+            "comment": "3",
+            "type": "links_to",
+            "id": "da569da6-891a-41b8-a73a-08dc571de813",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:23:53.878257",
+                "subject_package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37",
+                "revision_id": "fc314bbc-422e-41fb-87ad-776583bd2633",
+                "object_package_id": "ddedeb88-dba0-4ac5-b8dd-f5b3142013a9"
+            }
+        },
+        {
+            "comment": "31",
+            "type": "links_to",
+            "id": "95aa49e9-5d99-4c06-86ed-03e7fe41b676",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:23:41.937615",
+                "subject_package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37",
+                "revision_id": "b0fcb658-8d7b-47e3-ae00-7f5832beb556",
+                "object_package_id": "3f3a5534-bafd-451f-9c2e-587a823c5f09"
+            }
+        },
+        {
+            "comment": "35",
+            "type": "links_to",
+            "id": "7564f19e-f4f6-4143-b120-f9419d180baf",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:23:47.833705",
+                "object_package_id": "edd880c6-d9e6-4bff-999b-7e344917925c",
+                "revision_id": "39059c0f-cfe1-4fa7-8de3-c1fff35fb18c",
+                "subject_package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37"
+            }
+        },
+        {
+            "comment": "4",
+            "type": "links_to",
+            "id": "84c68cdc-6f0c-48dc-8659-7afba16a3565",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:23:48.543031",
+                "object_package_id": "11830d16-fc34-49ac-acbb-4ffee77f2398",
+                "revision_id": "e802ae1f-0d85-46ca-a393-2f5604f9e2d7",
+                "subject_package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37"
+            }
+        },
+        {
+            "comment": "6",
+            "type": "links_to",
+            "id": "017ac84c-3bcb-48ec-88f3-572c482f6ee7",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:23:49.227164",
+                "object_package_id": "15f90bfb-75fa-4825-a384-cff14d4f5dca",
+                "revision_id": "0d09ae56-3743-43e0-aef6-0e14a5598931",
+                "subject_package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37"
+            }
+        },
+        {
+            "comment": "7",
+            "type": "links_to",
+            "id": "ada7711c-4216-4c0b-93e3-05e8af817cf4",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:23:41.460026",
+                "object_package_id": "382a8681-733a-420b-9420-ee71f09fb0af",
+                "revision_id": "b1a30dc2-8364-4630-b49f-1a0bc97c3989",
+                "subject_package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37"
+            }
+        }
+    ],
+    "num_tags": 12,
+    "name": "rkb-explorer-curriculum",
+    "isopen": false,
+    "url": "http://curriculum.rkbexplorer.com",
+    "notes": "",
+    "title": "ReSIST MSc in Resilient Computing Curriculum (RKBExplorer)",
+    "extras": [
+        {
+            "value": "31",
+            "key": "links:rkb-explorer-acm",
+            "__extras": {
+                "revision_id": "07bef3fb-2294-46fa-9be0-bcda4d704843",
+                "package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37"
+            }
+        },
+        {
+            "value": "7",
+            "key": "links:rkb-explorer-citeseer",
+            "__extras": {
+                "revision_id": "07bef3fb-2294-46fa-9be0-bcda4d704843",
+                "package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37"
+            }
+        },
+        {
+            "value": "8",
+            "key": "links:rkb-explorer-cordis",
+            "__extras": {
+                "package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37",
+                "revision_id": "07bef3fb-2294-46fa-9be0-bcda4d704843"
+            }
+        },
+        {
+            "value": "3",
+            "key": "links:rkb-explorer-courseware",
+            "__extras": {
+                "package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37",
+                "revision_id": "07bef3fb-2294-46fa-9be0-bcda4d704843"
+            }
+        },
+        {
+            "value": "23",
+            "key": "links:rkb-explorer-dblp",
+            "__extras": {
+                "package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37",
+                "revision_id": "07bef3fb-2294-46fa-9be0-bcda4d704843"
+            }
+        },
+        {
+            "value": "2",
+            "key": "links:rkb-explorer-dotac",
+            "__extras": {
+                "package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37",
+                "revision_id": "07bef3fb-2294-46fa-9be0-bcda4d704843"
+            }
+        },
+        {
+            "value": "10",
+            "key": "links:rkb-explorer-eprints",
+            "__extras": {
+                "package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37",
+                "revision_id": "07bef3fb-2294-46fa-9be0-bcda4d704843"
+            }
+        },
+        {
+            "value": "2",
+            "key": "links:rkb-explorer-ieee",
+            "__extras": {
+                "package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37",
+                "revision_id": "07bef3fb-2294-46fa-9be0-bcda4d704843"
+            }
+        },
+        {
+            "value": "6",
+            "key": "links:rkb-explorer-irit",
+            "__extras": {
+                "revision_id": "07bef3fb-2294-46fa-9be0-bcda4d704843",
+                "package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37"
+            }
+        },
+        {
+            "value": "1",
+            "key": "links:rkb-explorer-kisti",
+            "__extras": {
+                "package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37",
+                "revision_id": "07bef3fb-2294-46fa-9be0-bcda4d704843"
+            }
+        },
+        {
+            "value": "11",
+            "key": "links:rkb-explorer-laas",
+            "__extras": {
+                "package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37",
+                "revision_id": "07bef3fb-2294-46fa-9be0-bcda4d704843"
+            }
+        },
+        {
+            "value": "3",
+            "key": "links:rkb-explorer-newcastle",
+            "__extras": {
+                "revision_id": "07bef3fb-2294-46fa-9be0-bcda4d704843",
+                "package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37"
+            }
+        },
+        {
+            "value": "1",
+            "key": "links:rkb-explorer-nsf",
+            "__extras": {
+                "revision_id": "07bef3fb-2294-46fa-9be0-bcda4d704843",
+                "package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37"
+            }
+        },
+        {
+            "value": "10",
+            "key": "links:rkb-explorer-oai",
+            "__extras": {
+                "revision_id": "07bef3fb-2294-46fa-9be0-bcda4d704843",
+                "package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37"
+            }
+        },
+        {
+            "value": "4",
+            "key": "links:rkb-explorer-rae2001",
+            "__extras": {
+                "revision_id": "07bef3fb-2294-46fa-9be0-bcda4d704843",
+                "package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37"
+            }
+        },
+        {
+            "value": "1",
+            "key": "links:rkb-explorer-southampton",
+            "__extras": {
+                "revision_id": "07bef3fb-2294-46fa-9be0-bcda4d704843",
+                "package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37"
+            }
+        },
+        {
+            "value": "35",
+            "key": "links:rkb-explorer-wiki",
+            "__extras": {
+                "package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37",
+                "revision_id": "07bef3fb-2294-46fa-9be0-bcda4d704843"
+            }
+        },
+        {
+            "value": "http://curriculum.rkbexplorer.com/id/",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "25794f75-8beb-4ba0-8651-9b28f6b74361",
+                "package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37"
+            }
+        },
+        {
+            "value": "ReSIST Curriculum (RKBExplorer)",
+            "key": "shortname",
+            "__extras": {
+                "revision_id": "aa7c1837-2aa9-4ddb-82fe-cfb87475013b",
+                "package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37"
+            }
+        },
+        {
+            "value": "37789",
+            "key": "triples",
+            "__extras": {
+                "package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37",
+                "revision_id": "2c697834-3f98-4c3d-8b3a-f41fa93e9c3e"
+            }
+        }
+    ],
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "f2ef9199-cb48-4d5b-90e0-749013204065"
+}

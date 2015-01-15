@@ -1,0 +1,323 @@
+{
+    "license_title": "Creative Commons Attribution 4.0",
+    "maintainer": "Gerard de Melo",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "demelo@mpi-inf.de",
+    "revision_timestamp": "2013-10-10T22:18:25.001773",
+    "id": "08858529-7745-4e90-861e-c643ee4dddaf",
+    "metadata_created": "2009-10-27T19:01:58.369336",
+    "owner_org": "a27ebdd0-6059-46e5-b59c-5aaee0168568",
+    "metadata_modified": "2013-10-10T22:18:25.001773",
+    "author": "Gerard de Melo",
+    "author_email": "demelo@mpi-inf.de",
+    "state": "active",
+    "version": "",
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "voiD description",
+            "format": "meta/void",
+            "url": "http://www.lexvo.org/linkeddata/void.rdf",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 15,
+                "recent": 5
+            },
+            "revision_timestamp": "2012-09-19T17:38:27.268770",
+            "webstore_url": "",
+            "resource_group_id": "edc28075-5af7-ace0-4def-60fa8eabc97a",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "411ef980-4fa2-4809-a136-e76b66b7d474",
+            "size": "1573",
+            "id": "aaa0def1-65ad-4b78-bb52-6bdbcfafc8df",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "RDF Schema",
+            "format": "meta/rdf-schema",
+            "url": "http://lexvo.org/ontology",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 13,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-09-19T17:38:27.268770",
+            "webstore_url": "",
+            "resource_group_id": "edc28075-5af7-ace0-4def-60fa8eabc97a",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "411ef980-4fa2-4809-a136-e76b66b7d474",
+            "size": "19343",
+            "id": "4d123971-a832-4668-be62-281078901fa2",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/gzip",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download",
+            "format": "application/rdf+xml",
+            "url": "http://www.lexvo.org/resources/lexvo_latest.rdf.gz",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 15,
+                "recent": 5
+            },
+            "revision_timestamp": "2012-09-19T17:38:27.268770",
+            "webstore_url": "",
+            "resource_group_id": "edc28075-5af7-ace0-4def-60fa8eabc97a",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "411ef980-4fa2-4809-a136-e76b66b7d474",
+            "size": "6536423",
+            "id": "f3a57cfd-c488-4284-8f96-456f7dfafeac",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Example (RDF/XML)",
+            "format": "example/rdf+xml",
+            "url": "http://lexvo.org/id/iso639-3/spa",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 23,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-09-19T17:38:27.268770",
+            "webstore_url": "",
+            "resource_group_id": "edc28075-5af7-ace0-4def-60fa8eabc97a",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 3,
+            "revision_id": "411ef980-4fa2-4809-a136-e76b66b7d474",
+            "size": "111949",
+            "id": "cf8e387e-09d7-4062-9be2-0872c33dea0b",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 4,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "ckanupload.esw.200910",
+            "name": "ckanupload.esw.200910",
+            "revision_timestamp": "2009-10-27T19:01:58.369336",
+            "state": "active",
+            "id": "a02db6d4-95bd-4766-93f9-c34a087cadf8"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "crossdomain",
+            "name": "crossdomain",
+            "revision_timestamp": "2010-10-07T10:50:12.940118",
+            "state": "active",
+            "id": "833848ee-ef06-4283-bb26-164f6c3474b4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2010-10-07T10:50:12.940118",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2009-10-27T19:01:58.369336",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-xsd",
+            "name": "format-xsd",
+            "revision_timestamp": "2010-10-05T15:34:48.022328",
+            "state": "active",
+            "id": "19614489-6277-405d-b716-4cef729265a8"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "language",
+            "name": "language",
+            "revision_timestamp": "2009-10-27T19:01:58.369336",
+            "state": "active",
+            "id": "17676ea3-6968-49cc-91cb-f2952e56ce42"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "linkeddata",
+            "name": "linkeddata",
+            "revision_timestamp": "2009-10-30T17:59:31.538339",
+            "state": "active",
+            "id": "7b2b43f4-096d-4367-b702-e1d1a8442664"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2009-10-30T17:59:31.538339",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2010-10-07T10:50:12.940118",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-vocab-mappings",
+            "name": "no-vocab-mappings",
+            "revision_timestamp": "2010-10-07T10:50:12.940118",
+            "state": "active",
+            "id": "e51273d8-dc60-4cf2-a68d-3cfd33b2c1fc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "provenance-metadata",
+            "name": "provenance-metadata",
+            "revision_timestamp": "2010-10-07T10:50:12.940118",
+            "state": "active",
+            "id": "24a0f0a3-36bc-4209-84e5-7d6b89d82dfa"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2010-10-07T10:50:12.940118",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "rdf",
+            "name": "rdf",
+            "revision_timestamp": "2009-10-27T19:01:58.369336",
+            "state": "active",
+            "id": "6ae4215c-a85b-457c-862b-5a8718b02c6f"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "void-sparql-endpoint",
+            "name": "void-sparql-endpoint",
+            "revision_timestamp": "2011-06-30T16:54:03.434049",
+            "state": "active",
+            "id": "9d821331-6c26-4261-bd2b-12dab19d508e"
+        }
+    ],
+    "tracking_summary": {
+        "total": 357,
+        "recent": 19
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 14,
+    "name": "lexvo",
+    "isopen": true,
+    "url": "http://www.lexvo.org",
+    "notes": "### About\r\n\r\nData exposed: Linguistic Data\r\nSize of dump and data set: ~40MB\r\n\r\n### Openness\r\n\r\nDownload dump: CC-BY-SA 3.0 license\r\n\r\nThe web service additionally provides some parts that are not fully open, e.g. English language names taken from the Ethnologue Language Codes database are subject to specific redistribution conditions. ",
+    "title": "Lexvo",
+    "extras": [
+        {
+            "value": "2577",
+            "key": "links:dbpedia",
+            "__extras": {
+                "package_id": "08858529-7745-4e90-861e-c643ee4dddaf",
+                "revision_id": "da04cb7d-c35b-4bb5-8364-e9c5dad8f7db"
+            }
+        },
+        {
+            "value": "448",
+            "key": "links:lingvoj",
+            "__extras": {
+                "revision_id": "0930ca84-e751-4a08-a28f-37fd2b5715b9",
+                "package_id": "08858529-7745-4e90-861e-c643ee4dddaf"
+            }
+        },
+        {
+            "value": "2577",
+            "key": "links:yago",
+            "__extras": {
+                "revision_id": "3e2f003e-dc42-421b-a5fc-664677390026",
+                "package_id": "08858529-7745-4e90-861e-c643ee4dddaf"
+            }
+        },
+        {
+            "value": "http://lexvo.org/id/",
+            "key": "namespace",
+            "__extras": {
+                "package_id": "08858529-7745-4e90-861e-c643ee4dddaf",
+                "revision_id": "acfe32e4-3697-4ee1-bc4a-40801b31d2b3"
+            }
+        },
+        {
+            "value": "353815",
+            "key": "triples",
+            "__extras": {
+                "package_id": "08858529-7745-4e90-861e-c643ee4dddaf",
+                "revision_id": "0930ca84-e751-4a08-a28f-37fd2b5715b9"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "organization": {
+        "description": "A group for Linking Open Data datasets. The initial import of data for this group was done in October 2009 from the list of [RDF datasets dumps](http://esw.w3.org/DataSetRDFDumps) provided by the W3C Linking Open Data Interest Group.",
+        "title": "Linking Open Data",
+        "created": "2009-11-25T14:42:49.997148",
+        "approval_status": "approved",
+        "revision_timestamp": "2010-11-23T12:08:14.636275",
+        "is_organization": true,
+        "state": "active",
+        "image_url": null,
+        "revision_id": "8027041f-1c90-472b-9b0f-bb0ab36e74d3",
+        "type": "organization",
+        "id": "a27ebdd0-6059-46e5-b59c-5aaee0168568",
+        "name": "lod"
+    },
+    "revision_id": "19802a4f-ea40-4f8c-a98e-326dabd08666",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

@@ -1,0 +1,150 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-10T23:37:53.304307",
+    "id": "148a1406-482a-4f24-bb22-b24af7cc2262",
+    "metadata_created": "2011-07-19T09:27:25.455406",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T23:37:53.304307",
+    "author": "Steve Flinter",
+    "author_email": "stephen@flinter.com ",
+    "state": "active",
+    "version": "April 23rd, 2010",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Example resource",
+            "format": "example/rdf+xml",
+            "url": "http://semantictweet.com/barackobama/friends",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 50,
+                "recent": 6
+            },
+            "revision_timestamp": "2011-07-22T10:56:58.526318",
+            "webstore_url": null,
+            "resource_group_id": "1f6d97dd-7efe-4da4-98c2-845c4da7eb44",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "7c9ec180-1a1e-4dad-a57e-db6a04afcbc9",
+            "size": null,
+            "id": "5f2a215c-b2e2-49c9-b191-c0c87c5e288b",
+            "resource_type": null,
+            "name": null
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2011-07-20T21:14:43.308880",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2011-07-19T09:27:25.455406",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-proprietary-vocab",
+            "name": "no-proprietary-vocab",
+            "revision_timestamp": "2011-07-19T09:27:25.455406",
+            "state": "active",
+            "id": "aef04cb8-a7aa-4419-8184-396b0ef6e680"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2011-07-19T09:28:01.707255",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "usergeneratedcontent",
+            "name": "usergeneratedcontent",
+            "revision_timestamp": "2011-07-19T09:27:25.455406",
+            "state": "active",
+            "id": "e9b2da79-5971-41f9-a314-36d368636b85"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "wrapper",
+            "name": "wrapper",
+            "revision_timestamp": "2011-07-19T13:50:03.613576",
+            "state": "active",
+            "id": "4fef1caf-af78-462a-bb22-047097118057"
+        }
+    ],
+    "tracking_summary": {
+        "total": 601,
+        "recent": 27
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "semantictweet",
+    "isopen": false,
+    "url": "http://semantictweet.com/",
+    "notes": "SemanticTweet is a simple web service that generates a FOAF RDF document for you from your list of Twitter friends and followers (or more specifically, from the 100 most recent of each of your friends and followers). It does this using the Twitter REST API. This service uses public Twitter data only, and so doesn’t need your Twitter username or password.",
+    "title": "SemanticTweet",
+    "extras": [
+        {
+            "value": "100",
+            "key": "links:geonames-semantic-web",
+            "__extras": {
+                "revision_id": "0ce9ba22-db2c-45d4-8337-412f11da627d",
+                "package_id": "148a1406-482a-4f24-bb22-b24af7cc2262"
+            }
+        },
+        {
+            "value": "http://semantictweet.com/",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "45b12587-285f-4fa4-aa00-cdeca8bed446",
+                "package_id": "148a1406-482a-4f24-bb22-b24af7cc2262"
+            }
+        },
+        {
+            "value": "500000",
+            "key": "triples",
+            "__extras": {
+                "revision_id": "475870b0-d950-4e6a-a5da-52e58d4bd589",
+                "package_id": "148a1406-482a-4f24-bb22-b24af7cc2262"
+            }
+        }
+    ],
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "091cfbb0-e340-4b49-acd9-0ca4466a31ea"
+}

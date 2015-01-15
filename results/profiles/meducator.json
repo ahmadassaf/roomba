@@ -1,0 +1,296 @@
+{
+    "license_title": "Creative Commons Attribution Share-Alike 4.0",
+    "maintainer": "mEducator Linked Educational Resources team",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "admin@data.linkededucation.org",
+    "revision_timestamp": "2013-10-10T22:46:47.500064",
+    "id": "417942ab-33b7-4919-be99-3b155b3cb987",
+    "metadata_created": "2011-07-13T10:35:19.850106",
+    "owner_org": "1a24e0c3-013b-481d-b25c-f36c651315d8",
+    "metadata_modified": "2013-10-23T15:19:56.286112",
+    "author": "mEducator Linked Educational Resources team",
+    "author_email": "admin@data.linkededucation.org",
+    "state": "active",
+    "version": "2011-07-12",
+    "license_id": "CC-BY-SA-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "application/xml",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "SPARQL endpoint",
+            "format": "api/sparql",
+            "url": "http://meducator.open.ac.uk/resourcesrestapi/rest/meducator/sparql",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 33,
+                "recent": 5
+            },
+            "revision_timestamp": "2013-10-23T15:19:56.286112",
+            "webstore_url": "",
+            "resource_group_id": "fe5d84b5-0c3d-47bd-bafe-667b4542a200",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "1518a920-b6ee-423e-aaae-ed9df9efe719",
+            "size": null,
+            "id": "42ea1d38-1cfa-4f80-9eb1-c92c7bf03e79",
+            "resource_type": "api",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Schema",
+            "format": "meta/rdf-schema",
+            "url": "http://purl.org/meducator/ns",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 31,
+                "recent": 5
+            },
+            "revision_timestamp": "2012-11-24T16:16:02.683848",
+            "webstore_url": "",
+            "resource_group_id": "fe5d84b5-0c3d-47bd-bafe-667b4542a200",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "c7ddb616-3911-4fe6-b591-10c9b0663f0b",
+            "size": "30034",
+            "id": "b07a2101-8672-40e9-b128-e9a539dbb0ba",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/xml",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Resource description example",
+            "format": "example/rdf+xml",
+            "url": "http://purl.org/meducator/resources/25a8c581-66d7-4186-9411-f9f0f783463e",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 23,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-11-24T16:16:02.683848",
+            "webstore_url": "",
+            "resource_group_id": "fe5d84b5-0c3d-47bd-bafe-667b4542a200",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "c7ddb616-3911-4fe6-b591-10c9b0663f0b",
+            "size": null,
+            "id": "1e4829db-cc62-4ade-bb08-ca0c96109b9b",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 3,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "crossdomain",
+            "name": "crossdomain",
+            "revision_timestamp": "2011-07-13T12:04:35.554925",
+            "state": "active",
+            "id": "833848ee-ef06-4283-bb26-164f6c3474b4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2011-07-13T12:04:35.554925",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "e-learning",
+            "name": "e-learning",
+            "revision_timestamp": "2011-07-13T12:04:35.554925",
+            "state": "active",
+            "id": "b181e013-8b8d-494c-a1ba-6307ddaefa72"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "education",
+            "name": "education",
+            "revision_timestamp": "2011-07-13T12:04:35.554925",
+            "state": "active",
+            "id": "40e9a7c2-fae7-4c1f-9e09-011fd8c4ccab"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "educational",
+            "name": "educational",
+            "revision_timestamp": "2011-07-13T12:04:35.554925",
+            "state": "active",
+            "id": "0cc68732-dbb2-4119-82c4-72b4971180b0"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-api",
+            "name": "format-api",
+            "revision_timestamp": "2011-07-13T12:04:35.554925",
+            "state": "active",
+            "id": "0d85e6ba-8a0a-4d46-a3ce-61e61adf4174"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-http",
+            "name": "format-http",
+            "revision_timestamp": "2011-07-13T12:04:35.554925",
+            "state": "active",
+            "id": "0b479fcd-eaac-4c73-9bf0-946f7f234ddd"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2011-07-13T12:04:35.554925",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdfs",
+            "name": "format-rdfs",
+            "revision_timestamp": "2011-07-13T12:04:35.554925",
+            "state": "active",
+            "id": "781902f8-ba13-4330-bba3-54d0bbf24b58"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kmi",
+            "name": "kmi",
+            "revision_timestamp": "2012-11-24T16:16:02.683848",
+            "state": "active",
+            "id": "ed7959d9-4cdb-44de-a9cb-3af167cef91d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "l3s",
+            "name": "l3s",
+            "revision_timestamp": "2012-11-24T16:16:02.683848",
+            "state": "active",
+            "id": "b7cac8f1-a763-455f-b7f4-e2b09c609a8b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2011-07-13T12:04:35.554925",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-producer",
+            "name": "published-by-producer",
+            "revision_timestamp": "2011-07-13T12:04:35.554925",
+            "state": "active",
+            "id": "fcdb5c0a-2b91-44cb-83e5-19fd0d81125c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "sparql",
+            "name": "sparql",
+            "revision_timestamp": "2011-07-13T12:04:35.554925",
+            "state": "active",
+            "id": "a86ffe1a-683e-4daf-afa3-0762a3a8e63f"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "sparql-endpoint",
+            "name": "sparql-endpoint",
+            "revision_timestamp": "2011-07-13T12:04:35.554925",
+            "state": "active",
+            "id": "82e4a98b-19ad-40a7-a288-5c0c2fa2951d"
+        }
+    ],
+    "tracking_summary": {
+        "total": 595,
+        "recent": 15
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 15,
+    "name": "meducator",
+    "isopen": true,
+    "url": "http://linkededucation.org/meducator",
+    "notes": "The \"mEducator - Linked Educational Resources\" exposes linked data about publicly available educational Web resources. A light-weight RDF schema is exploited together with clustering and enrichment techniques to gradually interlink educational resources with entities in established LOD datasets.",
+    "title": "mEducator: Linked Educational Resources",
+    "extras": [
+        {
+            "value": "932",
+            "key": "links:dbpedia",
+            "__extras": {
+                "package_id": "417942ab-33b7-4919-be99-3b155b3cb987",
+                "revision_id": "586e572f-13d6-425e-b381-a5c0412850e4"
+            }
+        },
+        {
+            "value": "http://purl.org/meducator/resources/",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "59db8b3c-3406-43d8-a6a2-c25ecee44e55",
+                "package_id": "417942ab-33b7-4919-be99-3b155b3cb987"
+            }
+        },
+        {
+            "value": "meducator",
+            "key": "shortname",
+            "__extras": {
+                "revision_id": "c0ef54a8-fb85-4bf8-b5c4-d6ebbe96aa62",
+                "package_id": "417942ab-33b7-4919-be99-3b155b3cb987"
+            }
+        },
+        {
+            "value": "30294",
+            "key": "triples",
+            "__extras": {
+                "revision_id": "80a6f032-b10f-4e1c-9ae2-991278717eb2",
+                "package_id": "417942ab-33b7-4919-be99-3b155b3cb987"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "organization": {
+        "description": "This group gathers datasets of relevance to educational applications. it includes data about open educational resources (OER) and items which were created with an explicit educational purpose, as well as otherwise relevant datasets (academic publications, video assets, etc). All datasets included should expose linked data, and provide at least a SPARQL endpoint. For any enquiries, please contact the administrators via data@linkededucation.org.",
+        "title": "Linked Education Cloud",
+        "created": "2012-10-11T12:20:43.297930",
+        "approval_status": "approved",
+        "revision_timestamp": "2013-01-03T09:51:09.067990",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "",
+        "revision_id": "db4324b3-511f-43a7-ae1b-1940b9a5dc93",
+        "type": "organization",
+        "id": "1a24e0c3-013b-481d-b25c-f36c651315d8",
+        "name": "linked-education"
+    },
+    "revision_id": "0933ab12-3469-41ce-a1ba-0b88ad352b01",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

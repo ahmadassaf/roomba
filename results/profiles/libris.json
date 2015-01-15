@@ -1,0 +1,268 @@
+{
+    "license_title": "CC0 1.0",
+    "maintainer": "Martin Malmsten",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "martin.malmsten@kb.se",
+    "revision_timestamp": "2013-10-10T22:19:16.613790",
+    "id": "2938389f-b8ef-46e9-91f9-621817c01b50",
+    "metadata_created": "2010-08-29T17:25:28.911419",
+    "owner_org": "b15a85e0-4870-4d6f-8cb1-a5e1b12a83df",
+    "metadata_modified": "2013-10-10T22:19:16.613790",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": "",
+    "license_id": "CC0-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "SPARQL endpoint",
+            "format": "api/sparql",
+            "url": "http://lab3.libris.kb.se/sparql",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 49,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-11-11T19:35:00.506743",
+            "webstore_url": null,
+            "resource_group_id": "490c5252-9e5f-21fc-2e51-74e7ad3050c2",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "f931231b-8e34-4236-ba9c-764f05be1ab6",
+            "size": null,
+            "id": "26280bf4-9743-434c-af6c-95712997b97f",
+            "resource_type": "",
+            "name": ""
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Example resource",
+            "format": "example/rdf+xml",
+            "url": "http://libris.kb.se/resource/auth/163300",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 25,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-11-11T19:35:00.506743",
+            "webstore_url": null,
+            "resource_group_id": "490c5252-9e5f-21fc-2e51-74e7ad3050c2",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "f931231b-8e34-4236-ba9c-764f05be1ab6",
+            "size": "0",
+            "id": "52cc45aa-7b1d-4afa-b6b8-4b394239ba6a",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "format-bibo",
+            "name": "format-bibo",
+            "revision_timestamp": "2010-08-29T17:40:10.319090",
+            "state": "active",
+            "id": "4bbb2986-6e54-43b6-9dba-b55b0e3bdd60"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-dc",
+            "name": "format-dc",
+            "revision_timestamp": "2010-08-29T17:36:45.763756",
+            "state": "active",
+            "id": "0b675a54-621f-4fdb-850a-ef5d0b1b1ca3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-foaf",
+            "name": "format-foaf",
+            "revision_timestamp": "2010-08-29T17:25:28.911419",
+            "state": "active",
+            "id": "bd737030-1ba6-4913-baaa-bfa2581618b5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2010-08-29T17:25:28.911419",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-skos",
+            "name": "format-skos",
+            "revision_timestamp": "2010-08-29T17:25:28.911419",
+            "state": "active",
+            "id": "4d405572-6308-41ed-a021-1990e618a626"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lld",
+            "name": "lld",
+            "revision_timestamp": "2011-05-18T13:08:23.288599",
+            "state": "active",
+            "id": "c1dea2c0-3fb8-47b8-9b37-c076756e6420"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2010-08-29T17:25:28.911419",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-deref-vocab",
+            "name": "no-deref-vocab",
+            "revision_timestamp": "2011-07-20T21:51:22.096059",
+            "state": "active",
+            "id": "89a72f73-c7f6-4814-9e3d-3fff825c22f8"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2010-10-07T10:51:53.404704",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-provenance-metadata",
+            "name": "no-provenance-metadata",
+            "revision_timestamp": "2010-10-07T10:51:53.404704",
+            "state": "active",
+            "id": "585e9fca-2d67-4a07-b9d1-5495de054c7a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-vocab-mappings",
+            "name": "no-vocab-mappings",
+            "revision_timestamp": "2010-10-07T10:51:53.404704",
+            "state": "active",
+            "id": "e51273d8-dc60-4cf2-a68d-3cfd33b2c1fc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "publications",
+            "name": "publications",
+            "revision_timestamp": "2010-10-07T10:51:53.404704",
+            "state": "active",
+            "id": "c93ebe8f-83a0-498c-8704-1de94db149e9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-producer",
+            "name": "published-by-producer",
+            "revision_timestamp": "2010-10-07T10:51:53.404704",
+            "state": "active",
+            "id": "fcdb5c0a-2b91-44cb-83e5-19fd0d81125c"
+        }
+    ],
+    "tracking_summary": {
+        "total": 645,
+        "recent": 20
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 13,
+    "name": "libris",
+    "isopen": true,
+    "url": "http://libris.kb.se",
+    "notes": "Swedish Union Catalogue. Swedish National Bibliography and authority data. The National Bibliography and authority data is part of Libris, the Swedish Union Catalogue, and the long term goal is to release the whole database under an open license. The data contains links to Wikipedia, DBPedia, LC Authorities (names and subjects) and VIAF.",
+    "title": "LIBRIS",
+    "extras": [
+        {
+            "value": "4669",
+            "key": "links:dbpedia",
+            "__extras": {
+                "package_id": "2938389f-b8ef-46e9-91f9-621817c01b50",
+                "revision_id": "9a863831-5ade-4668-9a25-e65b47049722"
+            }
+        },
+        {
+            "value": "12586",
+            "key": "links:lcsh",
+            "__extras": {
+                "revision_id": "9a863831-5ade-4668-9a25-e65b47049722",
+                "package_id": "2938389f-b8ef-46e9-91f9-621817c01b50"
+            }
+        },
+        {
+            "value": "248228",
+            "key": "links:viaf",
+            "__extras": {
+                "revision_id": "b5ca7cad-7ba3-47f9-a350-589b6edc4c5f",
+                "package_id": "2938389f-b8ef-46e9-91f9-621817c01b50"
+            }
+        },
+        {
+            "value": "12039608",
+            "key": "marc-codes",
+            "__extras": {
+                "package_id": "2938389f-b8ef-46e9-91f9-621817c01b50",
+                "revision_id": "546d4e91-0831-4e1f-acca-8c8bd92e0894"
+            }
+        },
+        {
+            "value": "http://libris.kb.se/bib/",
+            "key": "namespace",
+            "__extras": {
+                "package_id": "2938389f-b8ef-46e9-91f9-621817c01b50",
+                "revision_id": "9f6879f8-c7d4-4c31-b7a1-1178efc88170"
+            }
+        },
+        {
+            "value": "50000000",
+            "key": "triples",
+            "__extras": {
+                "package_id": "2938389f-b8ef-46e9-91f9-621817c01b50",
+                "revision_id": "fe71108e-e158-4c34-ba7f-aa6881a656fe"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "organization": {
+        "description": "This group comprises open bibliographic datasets according to the [Principles on Open Bibliographic Data](http://openbiblio.net/principles) and a few not yet really open bibliographic datasets.\r\n\r\nIt is maintained by members of the [OKFN Working Group on Open Bibliographic Data](http://openbiblio.net/).\r\n",
+        "title": "Bibliographic Data",
+        "created": "2010-02-26T11:12:18.334260",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T14:28:11.214722",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://assets.okfn.org/web/images/header-logox2.png",
+        "revision_id": "98afb2ca-a8cb-4610-a5ec-0795b0489c49",
+        "type": "organization",
+        "id": "b15a85e0-4870-4d6f-8cb1-a5e1b12a83df",
+        "name": "bibliographic"
+    },
+    "revision_id": "c765e85f-28cf-480b-aff6-b0bb172a961c",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": true,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

@@ -1,0 +1,279 @@
+{
+    "license_title": "Creative Commons Attribution Share-Alike 4.0",
+    "maintainer": "SmartLink team",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "stefan.dietze@gmx.de",
+    "revision_timestamp": "2013-10-10T23:42:14.915342",
+    "id": "c9508070-7ebb-41d0-a863-43d8e2ee8ac1",
+    "metadata_created": "2011-05-10T16:41:56.270341",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T23:42:14.915342",
+    "author": "SmartLink team ",
+    "author_email": "stefan.dietze@gmx.de",
+    "state": "active",
+    "version": "2011-05-23",
+    "license_id": "CC-BY-SA-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "SPARQL endpoint",
+            "format": "api/sparql",
+            "url": "http://smartlink.open.ac.uk/smartlink/sparql",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 21,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-09-29T13:55:55.524587",
+            "webstore_url": null,
+            "resource_group_id": "79e2894d-1ab1-4425-ae4f-378e8826d604",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "c1aefc08-b0e7-459e-9ce9-a291ae6cd42a",
+            "size": null,
+            "id": "5a359b82-a6ef-4c1b-b17a-352cf987db6a",
+            "resource_type": "",
+            "name": ""
+        },
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Schema",
+            "format": "XML",
+            "url": "http://purl.org/smartlink/service-nfp",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 15,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-09-29T13:55:55.524587",
+            "webstore_url": null,
+            "resource_group_id": "79e2894d-1ab1-4425-ae4f-378e8826d604",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "c1aefc08-b0e7-459e-9ce9-a291ae6cd42a",
+            "size": "8359",
+            "id": "055c20f4-6a37-45b5-9a20-1d6dbe0b471a",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Service description example",
+            "format": "example/rdf+xml",
+            "url": "http://smartlink.open.ac.uk/smartlink/resource/services/3a76bf75-5cfc-411d-940d-bab8a4a407f1#LUPEDIA-Lookup-Service",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 15,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-09-29T13:55:55.524587",
+            "webstore_url": null,
+            "resource_group_id": "79e2894d-1ab1-4425-ae4f-378e8826d604",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "c1aefc08-b0e7-459e-9ce9-a291ae6cd42a",
+            "size": null,
+            "id": "d07cfb56-7bad-4cb5-906c-a2e4211364c9",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 3,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "crossdomain",
+            "name": "crossdomain",
+            "revision_timestamp": "2011-06-28T12:31:07.649670",
+            "state": "active",
+            "id": "833848ee-ef06-4283-bb26-164f6c3474b4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2011-07-13T08:53:26.275144",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-api",
+            "name": "format-api",
+            "revision_timestamp": "2011-05-10T16:41:56.270341",
+            "state": "active",
+            "id": "0d85e6ba-8a0a-4d46-a3ce-61e61adf4174"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-geo",
+            "name": "format-geo",
+            "revision_timestamp": "2011-07-20T21:09:53.362037",
+            "state": "active",
+            "id": "16f204d1-2004-4b26-97c9-93a8e42cc506"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-http",
+            "name": "format-http",
+            "revision_timestamp": "2011-05-10T16:41:56.270341",
+            "state": "active",
+            "id": "0b479fcd-eaac-4c73-9bf0-946f7f234ddd"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2011-05-10T16:41:56.270341",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdfs",
+            "name": "format-rdfs",
+            "revision_timestamp": "2011-05-10T16:41:56.270341",
+            "state": "active",
+            "id": "781902f8-ba13-4330-bba3-54d0bbf24b58"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-sawsdl",
+            "name": "format-sawsdl",
+            "revision_timestamp": "2011-05-10T16:41:56.270341",
+            "state": "active",
+            "id": "7d8574cc-d4b0-4bb0-87ab-296c3a4dcb3d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "iserve",
+            "name": "iserve",
+            "revision_timestamp": "2011-05-10T16:41:56.270341",
+            "state": "active",
+            "id": "5eb64347-1c53-444e-b011-b4b629240047"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2011-05-10T16:41:56.270341",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-producer",
+            "name": "published-by-producer",
+            "revision_timestamp": "2011-07-13T08:48:12.572296",
+            "state": "active",
+            "id": "fcdb5c0a-2b91-44cb-83e5-19fd0d81125c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "sparql",
+            "name": "sparql",
+            "revision_timestamp": "2011-05-10T16:41:56.270341",
+            "state": "active",
+            "id": "a86ffe1a-683e-4daf-afa3-0762a3a8e63f"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "sparql-endpoint",
+            "name": "sparql-endpoint",
+            "revision_timestamp": "2011-05-10T16:41:56.270341",
+            "state": "active",
+            "id": "82e4a98b-19ad-40a7-a288-5c0c2fa2951d"
+        }
+    ],
+    "tracking_summary": {
+        "total": 285,
+        "recent": 5
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 13,
+    "name": "smartlink",
+    "isopen": true,
+    "url": "http://purl.org/smartlink",
+    "notes": "SmartLink exposes Linked Data about publicly available Web services and Web APIs. In particular, the SmartLink data set extends existing service description schemas with a light-weight schema for non-functional properties. ",
+    "title": "SmartLink: Linked Services Non-Functional Properties",
+    "extras": [
+        {
+            "value": "233",
+            "key": "links:iserve",
+            "__extras": {
+                "package_id": "c9508070-7ebb-41d0-a863-43d8e2ee8ac1",
+                "revision_id": "21f77484-c459-4db6-b613-2d835e680f3f"
+            }
+        },
+        {
+            "value": "http://smartlink.open.ac.uk/smartlink/resource/",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "5fa23f5b-08ba-4340-a4fb-748b09278761",
+                "package_id": "c9508070-7ebb-41d0-a863-43d8e2ee8ac1"
+            }
+        },
+        {
+            "value": "SmartLink",
+            "key": "shortname",
+            "__extras": {
+                "revision_id": "25b3d389-d9d5-4440-bf7e-e6a1d84b814b",
+                "package_id": "c9508070-7ebb-41d0-a863-43d8e2ee8ac1"
+            }
+        },
+        {
+            "value": "2829",
+            "key": "triples",
+            "__extras": {
+                "package_id": "c9508070-7ebb-41d0-a863-43d8e2ee8ac1",
+                "revision_id": "21f77484-c459-4db6-b613-2d835e680f3f"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "80a5248f-42bb-4c2c-9a15-f697831f537c",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

@@ -1,0 +1,677 @@
+{
+    "license_title": "Creative Commons Attribution Share-Alike 4.0",
+    "maintainer": "Greek DBpedia Team - http://wiki.el.dbpedia.org/en/people",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-10T20:29:27.100375",
+    "id": "85ba8f54-22e1-40a3-a27c-ea720a08a751",
+    "metadata_created": "2011-03-28T14:21:37.245179",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T20:29:27.100375",
+    "author": "Greek DBpedia Team - http://wiki.el.dbpedia.org/en/people",
+    "author_email": "",
+    "state": "active",
+    "version": "1.0",
+    "license_id": "CC-BY-SA-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "text/html",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download page (N-Triples, Gzip-compressed)",
+            "format": "",
+            "url": "http://wiki.el.dbpedia.org/en/datasets",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 19,
+                "recent": 5
+            },
+            "revision_timestamp": "2012-09-19T17:54:28.385746",
+            "webstore_url": "",
+            "resource_group_id": "5a357a0b-dda9-40fa-bb3e-687713147294",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "3bedbeb3-ae5e-4e06-a012-fe2b53424473",
+            "size": null,
+            "id": "2cfee249-d1f2-4d9f-8975-c028b7d29cb8",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "SPARQL endpoint",
+            "format": "api/sparql",
+            "url": "http://el.dbpedia.org/sparql",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 27,
+                "recent": 5
+            },
+            "revision_timestamp": "2012-09-19T17:54:28.385746",
+            "webstore_url": "",
+            "resource_group_id": "5a357a0b-dda9-40fa-bb3e-687713147294",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "3bedbeb3-ae5e-4e06-a012-fe2b53424473",
+            "size": null,
+            "id": "2087f850-64ac-44a3-b0a7-c4878a53385e",
+            "resource_type": "file",
+            "name": "SPARQL endpoint"
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Downloads",
+            "format": "application/x-ntriples",
+            "url": "http://wiki.el.dbpedia.org/downloads/",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 13,
+                "recent": 11
+            },
+            "revision_timestamp": "2012-09-19T17:54:28.385746",
+            "webstore_url": "",
+            "resource_group_id": "5a357a0b-dda9-40fa-bb3e-687713147294",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "3bedbeb3-ae5e-4e06-a012-fe2b53424473",
+            "size": null,
+            "id": "9cdc17d3-8c7d-4a47-8282-fd2dd2041747",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/octet-stream",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "RDF Schema",
+            "format": "meta/rdf-schema",
+            "url": "http://downloads.dbpedia.org/3.6/dbpedia_3.6.owl.bz2",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 21,
+                "recent": 4
+            },
+            "revision_timestamp": "2012-09-19T17:54:28.385746",
+            "webstore_url": "",
+            "resource_group_id": "5a357a0b-dda9-40fa-bb3e-687713147294",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 3,
+            "revision_id": "3bedbeb3-ae5e-4e06-a012-fe2b53424473",
+            "size": "25847",
+            "id": "cdbf63bf-926d-4e8a-9448-dba0718b5fea",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Link to an example data item within the dataset (RDF/XML)",
+            "format": "example/rdf+xml",
+            "url": "http://el.dbpedia.org/data/Linux.rdf",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 11,
+                "recent": 5
+            },
+            "revision_timestamp": "2012-09-19T17:54:28.385746",
+            "webstore_url": "",
+            "resource_group_id": "5a357a0b-dda9-40fa-bb3e-687713147294",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 4,
+            "revision_id": "3bedbeb3-ae5e-4e06-a012-fe2b53424473",
+            "size": null,
+            "id": "18e627da-3ed3-4fd8-a5b0-121b6ebc451a",
+            "resource_type": "file",
+            "name": "RDF/XML Example"
+        },
+        {
+            "mimetype": "",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Link to an example data item within the dataset (Turtle)",
+            "format": "example/turtle",
+            "url": "http://el.dbpedia.org/data/Linux.n3",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "revision_timestamp": "2012-09-19T17:54:28.385746",
+            "webstore_url": "",
+            "resource_group_id": "5a357a0b-dda9-40fa-bb3e-687713147294",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 5,
+            "revision_id": "3bedbeb3-ae5e-4e06-a012-fe2b53424473",
+            "size": null,
+            "id": "62543bee-6ae1-4aee-92da-94538eb1a078",
+            "resource_type": "file",
+            "name": "Turtle Example"
+        },
+        {
+            "mimetype": "",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Link to an example data item within the dataset (RDFa)",
+            "format": "example/rdfa",
+            "url": "http://el.dbpedia.org/page/Linux",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 7,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-09-19T17:54:28.385746",
+            "webstore_url": "",
+            "resource_group_id": "5a357a0b-dda9-40fa-bb3e-687713147294",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 6,
+            "revision_id": "3bedbeb3-ae5e-4e06-a012-fe2b53424473",
+            "size": null,
+            "id": "3a2d1de8-276f-42db-90a4-67281515a6b9",
+            "resource_type": "file",
+            "name": "RDFa Example"
+        },
+        {
+            "mimetype": "",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Link to an example data item within the dataset (N-Triples)",
+            "format": "example/ntriples",
+            "url": "http://el.dbpedia.org/data/Linux.nt",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 11,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-09-19T17:54:28.385746",
+            "webstore_url": "",
+            "resource_group_id": "5a357a0b-dda9-40fa-bb3e-687713147294",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 7,
+            "revision_id": "3bedbeb3-ae5e-4e06-a012-fe2b53424473",
+            "size": null,
+            "id": "17d8b7f9-38ee-4e5d-9f7a-f7c400aa35e1",
+            "resource_type": "file",
+            "name": "N-Triples Example"
+        },
+        {
+            "mimetype": "application/xml",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Semantic Web Sitemap",
+            "format": "meta/sitemap",
+            "url": "http://wiki.el.dbpedia.org/sitemap.xml",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 3,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-09-19T17:54:28.385746",
+            "webstore_url": "",
+            "resource_group_id": "5a357a0b-dda9-40fa-bb3e-687713147294",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 8,
+            "revision_id": "3bedbeb3-ae5e-4e06-a012-fe2b53424473",
+            "size": "7655",
+            "id": "812371a0-cb6b-4674-97d7-ee74f2270566",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 9,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "access-api",
+            "name": "access-api",
+            "revision_timestamp": "2011-07-12T15:46:36.349702",
+            "state": "active",
+            "id": "86f1f13d-5f44-4f39-af56-148834519476"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "access-bulk",
+            "name": "access-bulk",
+            "revision_timestamp": "2011-07-12T15:46:36.349702",
+            "state": "active",
+            "id": "211162c4-939b-4e92-a531-7c178863a5fd"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "access-www",
+            "name": "access-www",
+            "revision_timestamp": "2011-07-12T15:46:36.349702",
+            "state": "active",
+            "id": "281bd70a-59bb-42c6-9359-0b1fa236123e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "crossdomain",
+            "name": "crossdomain",
+            "revision_timestamp": "2011-06-28T10:51:05.369524",
+            "state": "active",
+            "id": "833848ee-ef06-4283-bb26-164f6c3474b4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2011-07-12T15:46:36.349702",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-foaf",
+            "name": "format-foaf",
+            "revision_timestamp": "2011-07-12T15:46:36.349702",
+            "state": "active",
+            "id": "bd737030-1ba6-4913-baaa-bfa2581618b5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2011-07-12T15:46:36.349702",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdfs",
+            "name": "format-rdfs",
+            "revision_timestamp": "2011-07-12T15:46:36.349702",
+            "state": "active",
+            "id": "781902f8-ba13-4330-bba3-54d0bbf24b58"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-xhtml",
+            "name": "format-xhtml",
+            "revision_timestamp": "2011-07-20T21:17:01.561602",
+            "state": "active",
+            "id": "05609255-b76b-4056-a895-1fb3da7c734a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2011-03-28T18:18:55.864205",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2011-07-12T15:46:36.349702",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-provenance-metadata",
+            "name": "no-provenance-metadata",
+            "revision_timestamp": "2011-07-12T15:46:36.349702",
+            "state": "active",
+            "id": "585e9fca-2d67-4a07-b9d1-5495de054c7a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-vocab-mappings",
+            "name": "no-vocab-mappings",
+            "revision_timestamp": "2011-07-12T15:46:36.349702",
+            "state": "active",
+            "id": "e51273d8-dc60-4cf2-a68d-3cfd33b2c1fc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-producer",
+            "name": "published-by-producer",
+            "revision_timestamp": "2011-07-12T15:46:36.349702",
+            "state": "active",
+            "id": "fcdb5c0a-2b91-44cb-83e5-19fd0d81125c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "rdf",
+            "name": "rdf",
+            "revision_timestamp": "2011-07-12T15:46:36.349702",
+            "state": "active",
+            "id": "6ae4215c-a85b-457c-862b-5a8718b02c6f"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "search",
+            "name": "search",
+            "revision_timestamp": "2011-07-12T15:46:36.349702",
+            "state": "active",
+            "id": "6b8f961c-bfa1-4e70-b429-76b401f78fff"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "void-sparql-endpoint",
+            "name": "void-sparql-endpoint",
+            "revision_timestamp": "2011-07-24T11:57:55.063626",
+            "state": "active",
+            "id": "9d821331-6c26-4261-bd2b-12dab19d508e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "wikipedia",
+            "name": "wikipedia",
+            "revision_timestamp": "2011-03-28T14:21:37.245179",
+            "state": "active",
+            "id": "411ca2b6-769b-418f-aec8-bd6c1b532a9a"
+        }
+    ],
+    "tracking_summary": {
+        "total": 789,
+        "recent": 57
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 18,
+    "name": "dbpedia-el",
+    "isopen": true,
+    "url": "http://wiki.el.dbpedia.org",
+    "notes": "DBpedia is a \"community effort to extract structured information from Wikipedia and to make this information available on the Web. DBpedia allows you to ask sophisticated queries against Wikipedia, and to link other data sets on the Web to Wikipedia data. We hope this will make it easier for the amazing amount of information in Wikipedia to be used in new and interesting ways, and that it might inspire new mechanisms for navigating, linking and improving the encyclopaedia itself.\" \r\n\r\nThe Greek DBpedia is the first step towards Linked Data Internationalization and the first successful attempt to serve Linked Data with de-referencable IRI’s that could form a guide for LOD publishing in non-Latin languages.",
+    "title": "DBpedia in Greek",
+    "extras": [
+        {
+            "value": "14",
+            "key": "links:2000-us-census-rdf",
+            "__extras": {
+                "revision_id": "f0ad1f27-a8ba-48ad-a814-3033e9249fb7",
+                "package_id": "85ba8f54-22e1-40a3-a27c-ea720a08a751"
+            }
+        },
+        {
+            "value": "45000",
+            "key": "links:dbpedia",
+            "__extras": {
+                "revision_id": "4d72145a-26ff-4059-a41e-6ca4ea8d7c5b",
+                "package_id": "85ba8f54-22e1-40a3-a27c-ea720a08a751"
+            }
+        },
+        {
+            "value": "634",
+            "key": "links:dbtune-musicbrainz",
+            "__extras": {
+                "package_id": "85ba8f54-22e1-40a3-a27c-ea720a08a751",
+                "revision_id": "f918fd04-f21c-4802-a332-cc9993376f11"
+            }
+        },
+        {
+            "value": "97",
+            "key": "links:eunis",
+            "__extras": {
+                "revision_id": "f4fb2324-8559-442b-836c-64656d788b98",
+                "package_id": "85ba8f54-22e1-40a3-a27c-ea720a08a751"
+            }
+        },
+        {
+            "value": "43186",
+            "key": "links:flickr-wrappr",
+            "__extras": {
+                "revision_id": "f918fd04-f21c-4802-a332-cc9993376f11",
+                "package_id": "85ba8f54-22e1-40a3-a27c-ea720a08a751"
+            }
+        },
+        {
+            "value": "39112",
+            "key": "links:freebase",
+            "__extras": {
+                "package_id": "85ba8f54-22e1-40a3-a27c-ea720a08a751",
+                "revision_id": "f918fd04-f21c-4802-a332-cc9993376f11"
+            }
+        },
+        {
+            "value": "2",
+            "key": "links:fu-berlin-dailymed",
+            "__extras": {
+                "package_id": "85ba8f54-22e1-40a3-a27c-ea720a08a751",
+                "revision_id": "f918fd04-f21c-4802-a332-cc9993376f11"
+            }
+        },
+        {
+            "value": "4",
+            "key": "links:fu-berlin-dblp",
+            "__extras": {
+                "package_id": "85ba8f54-22e1-40a3-a27c-ea720a08a751",
+                "revision_id": "f918fd04-f21c-4802-a332-cc9993376f11"
+            }
+        },
+        {
+            "value": "69",
+            "key": "links:fu-berlin-diseasome",
+            "__extras": {
+                "package_id": "85ba8f54-22e1-40a3-a27c-ea720a08a751",
+                "revision_id": "f918fd04-f21c-4802-a332-cc9993376f11"
+            }
+        },
+        {
+            "value": "79",
+            "key": "links:fu-berlin-drugbank",
+            "__extras": {
+                "package_id": "85ba8f54-22e1-40a3-a27c-ea720a08a751",
+                "revision_id": "f4fb2324-8559-442b-836c-64656d788b98"
+            }
+        },
+        {
+            "value": "98",
+            "key": "links:fu-berlin-eurostat",
+            "__extras": {
+                "package_id": "85ba8f54-22e1-40a3-a27c-ea720a08a751",
+                "revision_id": "f918fd04-f21c-4802-a332-cc9993376f11"
+            }
+        },
+        {
+            "value": "323",
+            "key": "links:fu-berlin-project-gutenberg",
+            "__extras": {
+                "revision_id": "f918fd04-f21c-4802-a332-cc9993376f11",
+                "package_id": "85ba8f54-22e1-40a3-a27c-ea720a08a751"
+            }
+        },
+        {
+            "value": "151",
+            "key": "links:fu-berlin-sider",
+            "__extras": {
+                "revision_id": "f918fd04-f21c-4802-a332-cc9993376f11",
+                "package_id": "85ba8f54-22e1-40a3-a27c-ea720a08a751"
+            }
+        },
+        {
+            "value": "2010",
+            "key": "links:geonames-semantic-web",
+            "__extras": {
+                "revision_id": "f918fd04-f21c-4802-a332-cc9993376f11",
+                "package_id": "85ba8f54-22e1-40a3-a27c-ea720a08a751"
+            }
+        },
+        {
+            "value": "118",
+            "key": "links:geospecies",
+            "__extras": {
+                "revision_id": "f4fb2324-8559-442b-836c-64656d788b98",
+                "package_id": "85ba8f54-22e1-40a3-a27c-ea720a08a751"
+            }
+        },
+        {
+            "value": "923",
+            "key": "links:linkedgeodata",
+            "__extras": {
+                "revision_id": "54d6345a-f0cd-46fc-9454-943930184368",
+                "package_id": "85ba8f54-22e1-40a3-a27c-ea720a08a751"
+            }
+        },
+        {
+            "value": "330",
+            "key": "links:linkedmdb",
+            "__extras": {
+                "revision_id": "54d6345a-f0cd-46fc-9454-943930184368",
+                "package_id": "85ba8f54-22e1-40a3-a27c-ea720a08a751"
+            }
+        },
+        {
+            "value": "1743",
+            "key": "links:nytimes-linked-open-data",
+            "__extras": {
+                "package_id": "85ba8f54-22e1-40a3-a27c-ea720a08a751",
+                "revision_id": "f918fd04-f21c-4802-a332-cc9993376f11"
+            }
+        },
+        {
+            "value": "4117",
+            "key": "links:opencyc",
+            "__extras": {
+                "revision_id": "f918fd04-f21c-4802-a332-cc9993376f11",
+                "package_id": "85ba8f54-22e1-40a3-a27c-ea720a08a751"
+            }
+        },
+        {
+            "value": "39",
+            "key": "links:rdf-book-mashup",
+            "__extras": {
+                "package_id": "85ba8f54-22e1-40a3-a27c-ea720a08a751",
+                "revision_id": "f918fd04-f21c-4802-a332-cc9993376f11"
+            }
+        },
+        {
+            "value": "1",
+            "key": "links:revyu",
+            "__extras": {
+                "package_id": "85ba8f54-22e1-40a3-a27c-ea720a08a751",
+                "revision_id": "23e7981c-a109-48da-ab72-0cc66e77bb1a"
+            }
+        },
+        {
+            "value": "38",
+            "key": "links:tcmgenedit_dataset",
+            "__extras": {
+                "package_id": "85ba8f54-22e1-40a3-a27c-ea720a08a751",
+                "revision_id": "f918fd04-f21c-4802-a332-cc9993376f11"
+            }
+        },
+        {
+            "value": "7497",
+            "key": "links:w3c-wordnet",
+            "__extras": {
+                "revision_id": "f918fd04-f21c-4802-a332-cc9993376f11",
+                "package_id": "85ba8f54-22e1-40a3-a27c-ea720a08a751"
+            }
+        },
+        {
+            "value": "161",
+            "key": "links:wikicompany",
+            "__extras": {
+                "package_id": "85ba8f54-22e1-40a3-a27c-ea720a08a751",
+                "revision_id": "f4fb2324-8559-442b-836c-64656d788b98"
+            }
+        },
+        {
+            "value": "228",
+            "key": "links:world-factbook-fu-berlin",
+            "__extras": {
+                "revision_id": "f918fd04-f21c-4802-a332-cc9993376f11",
+                "package_id": "85ba8f54-22e1-40a3-a27c-ea720a08a751"
+            }
+        },
+        {
+            "value": "28778",
+            "key": "links:yago",
+            "__extras": {
+                "revision_id": "f918fd04-f21c-4802-a332-cc9993376f11",
+                "package_id": "85ba8f54-22e1-40a3-a27c-ea720a08a751"
+            }
+        },
+        {
+            "value": "http://el.dbpedia.org/resource/",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "22eaae31-e29e-4ef5-b9b1-fab1bad6d100",
+                "package_id": "85ba8f54-22e1-40a3-a27c-ea720a08a751"
+            }
+        },
+        {
+            "value": "Greek DBpedia",
+            "key": "shortname",
+            "__extras": {
+                "package_id": "85ba8f54-22e1-40a3-a27c-ea720a08a751",
+                "revision_id": "52293f27-4f86-4ba2-91ae-a668328a6c98"
+            }
+        },
+        {
+            "value": "4399898",
+            "key": "triples",
+            "__extras": {
+                "revision_id": "d756ae48-795c-4e3b-8dd5-7b0adcd71bb0",
+                "package_id": "85ba8f54-22e1-40a3-a27c-ea720a08a751"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "cd248bcb-ebf0-4191-bf00-2e543b4d4326",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

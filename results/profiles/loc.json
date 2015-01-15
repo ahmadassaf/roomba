@@ -1,0 +1,234 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-10T22:23:31.133519",
+    "id": "d461184b-b25f-46cb-9bc4-a75f934170e8",
+    "metadata_created": "2011-07-01T15:11:34.037819",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T22:23:31.133519",
+    "author": "Sergio Fernández",
+    "author_email": "sergio.fernandez@fundacionctic.org",
+    "state": "active",
+    "version": "April 2011",
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Example (red)",
+            "format": "example/rdf+xml",
+            "url": "http://purl.org/colors/rgb/ff0000",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 27,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-10-31T13:10:50.126764",
+            "webstore_url": null,
+            "resource_group_id": "bd5c953f-a738-417d-9721-a3b5a856d95d",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "5f54df2c-1da4-4cee-acf4-510ef40fff13",
+            "size": "0",
+            "id": "ce69ca38-3588-4a79-9edb-67a18b1801db",
+            "resource_type": "",
+            "name": "Example (red)",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "",
+            "format": "meta/void",
+            "url": "http://linkedopencolors.appspot.com/void.rdf",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 3,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-10-31T13:15:14.292282",
+            "webstore_url": null,
+            "resource_group_id": "bd5c953f-a738-417d-9721-a3b5a856d95d",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "19857a80-2a6b-4de7-b094-1a9545e9a4fa",
+            "size": null,
+            "id": "6785bca0-1bf9-4eba-93ff-239ed01c9a67",
+            "resource_type": "file",
+            "name": "void",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "aprilfools",
+            "name": "aprilfools",
+            "revision_timestamp": "2011-07-01T15:11:34.037819",
+            "state": "active",
+            "id": "a398e3bf-8245-4ff5-bed7-881902cec790"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "crossdomain",
+            "name": "crossdomain",
+            "revision_timestamp": "2011-07-01T15:11:34.037819",
+            "state": "active",
+            "id": "833848ee-ef06-4283-bb26-164f6c3474b4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "ctic",
+            "name": "ctic",
+            "revision_timestamp": "2011-07-19T07:55:08.965001",
+            "state": "active",
+            "id": "199f2067-06cd-454a-8772-0ec59df1a2be"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2011-07-20T20:59:04.706108",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2011-07-01T15:11:34.037819",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-proprietary-vocab",
+            "name": "no-proprietary-vocab",
+            "revision_timestamp": "2011-07-01T15:11:34.037819",
+            "state": "active",
+            "id": "aef04cb8-a7aa-4419-8184-396b0ef6e680"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2011-07-01T15:11:34.037819",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        }
+    ],
+    "tracking_summary": {
+        "total": 429,
+        "recent": 13
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 7,
+    "name": "loc",
+    "isopen": true,
+    "url": "http://linkedopencolors.appspot.com/",
+    "notes": "Linked Open Colors, dataset created for the April Fools' Day of 2011 as an informal initiative for promoting Linked Data. \r\nhttp://lists.w3.org/Archives/Public/public-lod/2011Apr/0003.html",
+    "title": "Linked Open Colors",
+    "extras": [
+        {
+            "value": "2011-04-01",
+            "key": "dct:created",
+            "__extras": {
+                "package_id": "d461184b-b25f-46cb-9bc4-a75f934170e8",
+                "revision_id": "6d8237ef-3edf-48e5-b624-1be106271de0"
+            }
+        },
+        {
+            "value": "http://www.wikier.org/foaf#wikier",
+            "key": "dct:creator",
+            "__extras": {
+                "revision_id": "f7c7b544-88fe-4cb5-b2fc-aca399ceb96f",
+                "package_id": "d461184b-b25f-46cb-9bc4-a75f934170e8"
+            }
+        },
+        {
+            "value": "Colors as Linked Open Data.",
+            "key": "http://purl.org/dc/terms/description",
+            "__extras": {
+                "package_id": "d461184b-b25f-46cb-9bc4-a75f934170e8",
+                "revision_id": "204ad5ca-f476-4b94-a338-d95abba790b4"
+            }
+        },
+        {
+            "value": "http://moreways.net",
+            "key": "http://purl.org/dc/terms/publisher",
+            "__extras": {
+                "package_id": "d461184b-b25f-46cb-9bc4-a75f934170e8",
+                "revision_id": "204ad5ca-f476-4b94-a338-d95abba790b4"
+            }
+        },
+        {
+            "value": "Linked Open Colors Dataset",
+            "key": "http://purl.org/dc/terms/title",
+            "__extras": {
+                "package_id": "d461184b-b25f-46cb-9bc4-a75f934170e8",
+                "revision_id": "204ad5ca-f476-4b94-a338-d95abba790b4"
+            }
+        },
+        {
+            "value": "http://purl.org/colors",
+            "key": "http://xmlns.com/foaf/0.1/homepage",
+            "__extras": {
+                "package_id": "d461184b-b25f-46cb-9bc4-a75f934170e8",
+                "revision_id": "204ad5ca-f476-4b94-a338-d95abba790b4"
+            }
+        },
+        {
+            "value": "16000000",
+            "key": "links:dbpedia",
+            "__extras": {
+                "revision_id": "b04aaf52-5d99-4976-b0f2-3a24d92382af",
+                "package_id": "d461184b-b25f-46cb-9bc4-a75f934170e8"
+            }
+        },
+        {
+            "value": "http://purl.org/colors/",
+            "key": "namespace",
+            "__extras": {
+                "package_id": "d461184b-b25f-46cb-9bc4-a75f934170e8",
+                "revision_id": "dbf5c16d-4a6f-4ecb-835f-be214bac0791"
+            }
+        },
+        {
+            "value": "160000000",
+            "key": "triples",
+            "__extras": {
+                "revision_id": "b04aaf52-5d99-4976-b0f2-3a24d92382af",
+                "package_id": "d461184b-b25f-46cb-9bc4-a75f934170e8"
+            }
+        }
+    ],
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "85c51a56-11ae-4c7d-80a7-059c1fb8f361"
+}
