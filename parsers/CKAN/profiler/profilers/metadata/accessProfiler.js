@@ -141,36 +141,41 @@ function accessProfiler(parent) {
 
 								resource["resource_reachable"] = true;
 
-								if (response.headers["content-length"]) {
-									var resource_size = response.headers["content-length"];
+								if (response["content-length"]) {
+									var resource_size = response["content-length"];
 
 									if ( resource.size ) {
 										var reportMessage = isAggregate ? "The size for resource is not defined correctly" : "The size for resource is not defined correctly. Provided: " + parseInt(resource.size) + " where the actual size is: " + parseInt(resource_size);
 										if (resource.size !== resource_size ) {
 											resourceReport.addEntry("report", reportMessage);
-											resource.size = resource_size;
-											profileChanged = true;
 										}
-									} else {
-										resource.size = resource_size;
-										profileChanged = true;
 									}
+
+									root.resources[root.resources.indexOf(resource)]["size"] = resource_size;
+									profileChanged = true;
 								}
 
-								if (response.headers["content-type"]) {
-									var resource_mimeType = response.headers["content-type"].split(';')[0];
+								if (response["content-type"]) {
+									var resource_mimeType = response["content-type"].split(';')[0];
 
 									if ( resource.mimetype ) {
 										var reportMessage = isAggregate ? "The mimeType for resource is not defined correctly" : "The mimeType for resource is not defined correctly. Provided: " + resource.mimetype + " where the actual type is: " + resource_mimeType;
 										if (resource.mimetype !== resource_mimeType ) {
 											resourceReport.addEntry("report", reportMessage);
-											resource.mimetype = resource_mimeType;
-											profileChanged = true;
 										}
-									} else {
-										resource.mimetype = resource_mimeType;
-										profileChanged = true;
 									}
+
+									root.resources[root.resources.indexOf(resource)]["mimetype"] = resource_mimeType;
+									profileChanged = true;
+								}
+							} else {
+								// The resource is not reachebl, but we want to check if there are dummy incorrect values entered
+								if (resource.mimetype) {
+										resourceReport.addEntry("report", "mimetype value defined where the resource is not reachable");
+								}
+
+								if (resource.size) {
+									resourceReport.addEntry("report", "size value defined where the resource is not reachable");
 								}
 							}
 
