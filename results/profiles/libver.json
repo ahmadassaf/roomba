@@ -1,0 +1,352 @@
+{
+    "license_title": "Creative Commons Attribution Share-Alike 4.0",
+    "maintainer": "Sotiris Karampatakis",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "s.karampatakis@gmail.com",
+    "revision_timestamp": "2013-10-10T22:19:17.326476",
+    "id": "99e25571-e8d4-45c3-a447-043cb2730b26",
+    "metadata_created": "2012-09-02T11:36:57.195384",
+    "owner_org": "3ed843b1-eed2-4c13-acc2-94606f12f0b0",
+    "metadata_modified": "2013-10-10T22:19:17.326476",
+    "author": "Sotiris Karampatakis",
+    "author_email": "s.karampatakis@gmail.com",
+    "state": "active",
+    "version": "1.0beta",
+    "license_id": "CC-BY-SA-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "41c92bd7-86c3-4e2d-a52e-be6f74d288d6",
+            "cache_last_updated": null,
+            "revision_timestamp": "2012-09-05T21:08:34.050671",
+            "webstore_last_updated": null,
+            "id": "8f90e2ab-3dac-4c22-b84b-7499ab0fbe0a",
+            "size": "7338",
+            "state": "active",
+            "hash": "",
+            "description": "The sparql endpoint of Public Library of Veroia ",
+            "format": "api/sparql",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": "",
+            "mimetype": "text/html",
+            "cache_url": "",
+            "name": "SPARQL Endpoint",
+            "created": "2012-09-02T06:36:57.289662",
+            "url": "http://libver.math.auth.gr/sparql",
+            "webstore_url": "",
+            "last_modified": "2012-09-02T06:36:59.587019",
+            "position": 0,
+            "revision_id": "4cfa1322-ad0e-455c-9cde-01c61e5570e5",
+            "resource_type": "api",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "41c92bd7-86c3-4e2d-a52e-be6f74d288d6",
+            "cache_last_updated": null,
+            "revision_timestamp": "2012-09-06T04:17:46.307113",
+            "webstore_last_updated": null,
+            "id": "40fa3fb9-4fdf-464d-a4e2-d8bb909607b4",
+            "size": "7773",
+            "state": "active",
+            "hash": "",
+            "description": "",
+            "format": "example/rdf+xml",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": "",
+            "mimetype": "application/rdf+xml",
+            "cache_url": "",
+            "name": "Link to an example data item within the dataset (RDF/XML)",
+            "created": "2012-09-05T05:50:38.753144",
+            "url": "http://libver.math.auth.gr/data/agent3911.rdf",
+            "webstore_url": "",
+            "last_modified": "2012-09-05T22:09:49.533619",
+            "position": 1,
+            "revision_id": "f9146dad-1776-4ba4-8cc9-a7f739e0a860",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "41c92bd7-86c3-4e2d-a52e-be6f74d288d6",
+            "cache_last_updated": null,
+            "revision_timestamp": "2012-09-05T21:27:24.971900",
+            "webstore_last_updated": null,
+            "id": "cb5aba4a-9f4f-4e51-b377-815e0b5e1007",
+            "size": "5164",
+            "state": "active",
+            "hash": "",
+            "description": "You can search the entire dataset through the Virtuoso Faceted Search application. You can try the free text search or an entity lookup.",
+            "format": "api/search",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": "",
+            "mimetype": "text/html",
+            "cache_url": "",
+            "name": "Virtuoso Faceted Search",
+            "created": "2012-09-05T16:23:00.176000",
+            "url": "http://libver.math.auth.gr/fct",
+            "webstore_url": "",
+            "last_modified": "2012-09-05T16:23:08.507164",
+            "position": 2,
+            "revision_id": "013fbf75-8dc7-4610-98a9-31cf7682bc89",
+            "resource_type": "api"
+        },
+        {
+            "resource_group_id": "41c92bd7-86c3-4e2d-a52e-be6f74d288d6",
+            "cache_last_updated": null,
+            "revision_timestamp": "2012-09-26T11:00:26.699483",
+            "webstore_last_updated": null,
+            "id": "408cb584-c7f4-4357-9482-4f77a3218689",
+            "size": "22301",
+            "state": "active",
+            "hash": "",
+            "description": "Link to an example data item within the dataset (RDFa)\r\nThe actual URI is http://libver.math.auth.gr/resource/agent3911, which redirect via 303 to http://libver.math.auth.gr/page/agent3911",
+            "format": "HTML",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": "",
+            "mimetype": "text/html",
+            "cache_url": "",
+            "name": "Link to an example data item within the dataset (RDFa)",
+            "created": "2012-09-05T18:03:08.222490",
+            "url": "http://libver.math.auth.gr/page/agent3911",
+            "webstore_url": "",
+            "last_modified": "2012-09-05T18:03:11.013215",
+            "position": 3,
+            "revision_id": "de9a8205-de8f-4d1f-8e6c-6fd57e28f64b",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "41c92bd7-86c3-4e2d-a52e-be6f74d288d6",
+            "cache_last_updated": null,
+            "revision_timestamp": "2012-09-26T11:00:26.699483",
+            "webstore_last_updated": null,
+            "owner": "85cc65de-108c-4fb4-b77a-fb79ceda8d3e",
+            "id": "31d99026-71aa-44e5-b8e0-5a94539d9a1a",
+            "size": "5267",
+            "cache_url_updated": "2012-09-06T04:36:21",
+            "state": "active",
+            "hash": "md5:299097e5748f21ad7e813ea55030c0e4",
+            "description": "RDF/XML file of a Book.",
+            "format": "application/rdf+xml",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": "",
+            "mimetype": "application/rdf+xml",
+            "cache_url": "",
+            "name": "2012-09-06T043619/record1_10.rdf",
+            "created": "2012-09-05T23:37:59.455349",
+            "url": "https://commondatastorage.googleapis.com/ckannet-storage/2012-09-06T043619/record1_10.rdf",
+            "webstore_url": "",
+            "last_modified": "2012-09-05T23:38:00.234339",
+            "position": 4,
+            "revision_id": "de9a8205-de8f-4d1f-8e6c-6fd57e28f64b",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "41c92bd7-86c3-4e2d-a52e-be6f74d288d6",
+            "cache_last_updated": null,
+            "revision_timestamp": "2012-09-26T11:00:26.699483",
+            "webstore_last_updated": "2012-09-25T09:33:42.851097",
+            "id": "2bba0a21-c4cc-49e4-970f-1879ae7ba16f",
+            "size": "2506",
+            "state": "active",
+            "hash": "fa33f1133c175bd7e4955ee16fd3a8a1e4f0a5a9",
+            "description": "",
+            "format": "meta/void",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": "",
+            "mimetype": "application/octet-stream",
+            "cache_url": "",
+            "name": "2012-09-25T143058/void.ttl",
+            "created": "2012-09-25T09:32:28.396842",
+            "url": "https://commondatastorage.googleapis.com/ckannet-storage/2012-09-25T143058/void.ttl",
+            "webstore_url": "active",
+            "last_modified": "2012-09-25T09:32:29.631322",
+            "position": 5,
+            "revision_id": "de9a8205-de8f-4d1f-8e6c-6fd57e28f64b",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 6,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "bibliographic",
+            "name": "bibliographic",
+            "revision_timestamp": "2012-09-02T11:45:58.422965",
+            "state": "active",
+            "id": "01d76f4d-6bf5-4cec-a2a8-59dc3f24ab2d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2012-09-02T11:45:58.422965",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdfs",
+            "name": "format-rdfs",
+            "revision_timestamp": "2012-09-05T10:11:07.687286",
+            "state": "active",
+            "id": "781902f8-ba13-4330-bba3-54d0bbf24b58"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lld",
+            "name": "lld",
+            "revision_timestamp": "2012-09-02T11:45:58.422965",
+            "state": "active",
+            "id": "c1dea2c0-3fb8-47b8-9b37-c076756e6420"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2012-09-02T11:45:58.422965",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "media",
+            "name": "media",
+            "revision_timestamp": "2012-09-05T10:12:40.470478",
+            "state": "active",
+            "id": "e9d8b0c1-d68c-4020-a45d-1f46463d8f14"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2012-09-26T11:00:26.699483",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-proprietary-vocab",
+            "name": "no-proprietary-vocab",
+            "revision_timestamp": "2012-09-05T10:25:04.161443",
+            "state": "active",
+            "id": "aef04cb8-a7aa-4419-8184-396b0ef6e680"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-provenance-metadata",
+            "name": "no-provenance-metadata",
+            "revision_timestamp": "2012-09-26T11:00:26.699483",
+            "state": "active",
+            "id": "585e9fca-2d67-4a07-b9d1-5495de054c7a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "publications",
+            "name": "publications",
+            "revision_timestamp": "2012-09-05T10:12:40.470478",
+            "state": "active",
+            "id": "c93ebe8f-83a0-498c-8704-1de94db149e9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2012-09-02T11:45:58.422965",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 11,
+    "name": "libver",
+    "isopen": true,
+    "url": "http://libver.math.auth.gr",
+    "notes": "Public Library of Veroia Linked Open Data Project. This is the first effort of a Greek Library to expose it's Bibliographic Data as Linked Open Data.",
+    "title": "Public Library of Veroia",
+    "extras": [
+        {
+            "value": "2915",
+            "key": "links:dbpedia",
+            "__extras": {
+                "revision_id": "97bcfc40-a937-4a2d-8b05-7a500f2ed463",
+                "package_id": "99e25571-e8d4-45c3-a447-043cb2730b26"
+            }
+        },
+        {
+            "value": "4197",
+            "key": "links:dbpedia-el",
+            "__extras": {
+                "revision_id": "97bcfc40-a937-4a2d-8b05-7a500f2ed463",
+                "package_id": "99e25571-e8d4-45c3-a447-043cb2730b26"
+            }
+        },
+        {
+            "value": "http://libver.math.auth.gr/resource",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "f43cc6cb-a9d0-4c8a-97b4-70c98a681ec6",
+                "package_id": "99e25571-e8d4-45c3-a447-043cb2730b26"
+            }
+        },
+        {
+            "value": "1285417",
+            "key": "triples",
+            "__extras": {
+                "package_id": "99e25571-e8d4-45c3-a447-043cb2730b26",
+                "revision_id": "01b8fae3-f849-480c-9ad6-542888e7be0c"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "organization": {
+        "description": "Datasets from GLAM (Galleries, Libraries, Archives and Museums) institutions that are open for (re-)use",
+        "title": "Open GLAM",
+        "created": "2012-06-04T12:08:36.880905",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-06-04T12:08:36.838203",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://dm2e.eu/files/Picture-23-e1335357496556.png",
+        "revision_id": "d8c94241-f190-45dd-879d-39dcb47096ba",
+        "type": "organization",
+        "id": "3ed843b1-eed2-4c13-acc2-94606f12f0b0",
+        "name": "open-glam"
+    },
+    "revision_id": "fddbfbae-bc1b-4dbc-b6e7-3bdb51889802",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

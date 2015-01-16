@@ -61,6 +61,26 @@ function reportFactory(parent) {
 		}
 		executionCallback(false, _.uniq(types));
 	}
+
+	this.checkEmpty = function checkEmpty(dataset, field, executionCallback){
+
+		var types = [];
+		var root  = dataset.result ? dataset.result : dataset;
+
+		// Construct the path array by splitting on the > hierarchy symbol
+		var pathArray = field.split(">");
+		if (pathArray.length == 1) {
+			// The path is shallow with no hierarchies defined, only one element
+			if (_.isUndefined(root[field]) || _.isNull(root[field]) || ( _.isString(root[field]) && root[field].length == 0) || (_.isEmpty(root[field])))
+				types.push(root.name);
+		} else {
+			_.each(root[pathArray[0]], function(child){
+				if (_.isUndefined(child[pathArray[1]]) || _.isNull(child[pathArray[1]]) || ( _.isString(child[pathArray[1]]) && child[pathArray[1]].length == 0) || (_.isEmpty(child[pathArray[1]])))
+					types.push(root.name);
+			});
+		}
+		executionCallback(false, _.uniq(types));
+	}
 }
 
 module.exports = reportFactory;

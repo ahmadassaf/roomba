@@ -1,0 +1,452 @@
+{
+    "license_title": "Other (Attribution)",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-10T22:59:58.330803",
+    "id": "bad8a1c8-d441-4824-b949-b594aa1bde16",
+    "metadata_created": "2011-11-16T16:34:51.269442",
+    "owner_org": "1a24e0c3-013b-481d-b25c-f36c651315d8",
+    "metadata_modified": "2013-10-10T22:59:58.330803",
+    "author": "Morelab",
+    "author_email": "m.emaldi@deusto.es",
+    "state": "active",
+    "version": "",
+    "license_id": "other-at",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Morelab's SPARQL endpoint",
+            "format": "api/sparql",
+            "url": "http://www.morelab.deusto.es/joseki/articles",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 13,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-04-30T07:19:45.120580",
+            "webstore_url": "",
+            "resource_group_id": "d140bbb6-a7f6-4cd3-8a58-3d7023cc8096",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "0914033f-4044-4f91-8aa8-0c406a42a864",
+            "size": null,
+            "id": "a7cf8250-5c60-4b27-a0c1-b5886f411a15",
+            "resource_type": "file",
+            "name": "SPARQL endpoint"
+        },
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Example URI of a publication of Morelab",
+            "format": "example/rdf+xml",
+            "url": "http://www.morelab.deusto.es/data/imhotep-an-approach-to-user-and-device-conscious-mobile-applications?output=xml",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 7,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-04-30T07:19:45.120580",
+            "webstore_url": "",
+            "resource_group_id": "d140bbb6-a7f6-4cd3-8a58-3d7023cc8096",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "0914033f-4044-4f91-8aa8-0c406a42a864",
+            "size": "4151",
+            "id": "1364da84-8c9d-4e68-a6b1-6ae57c9ead07",
+            "resource_type": "file",
+            "name": "Example URI",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/xml",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Sitemap of Morelab's resources",
+            "format": "meta/sitemap",
+            "url": "http://www.morelab.deusto.es/sitemap.xml",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 5,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-04-30T07:19:45.120580",
+            "webstore_url": "",
+            "resource_group_id": "d140bbb6-a7f6-4cd3-8a58-3d7023cc8096",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "0914033f-4044-4f91-8aa8-0c406a42a864",
+            "size": "15155",
+            "id": "36950794-4268-4baf-9f14-452b12805c55",
+            "resource_type": "file",
+            "name": "Sitemap",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 3,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "computer-science",
+            "name": "computer-science",
+            "revision_timestamp": "2011-11-16T16:40:28.391062",
+            "state": "active",
+            "id": "23a6e182-0f5a-4b20-9e64-db51c69397b4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-bibo",
+            "name": "format-bibo",
+            "revision_timestamp": "2011-11-30T10:40:18.083650",
+            "state": "active",
+            "id": "4bbb2986-6e54-43b6-9dba-b55b0e3bdd60"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-contact",
+            "name": "format-contact",
+            "revision_timestamp": "2011-11-30T10:40:18.083650",
+            "state": "active",
+            "id": "a1e2757c-8210-4df3-978a-c7e2ec1aa025"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-dc",
+            "name": "format-dc",
+            "revision_timestamp": "2011-11-30T10:40:18.083650",
+            "state": "active",
+            "id": "0b675a54-621f-4fdb-850a-ef5d0b1b1ca3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-dcterms",
+            "name": "format-dcterms",
+            "revision_timestamp": "2011-11-30T10:40:18.083650",
+            "state": "active",
+            "id": "79d8c60d-3cba-457f-8e51-1026aa2015ab"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-foaf",
+            "name": "format-foaf",
+            "revision_timestamp": "2011-11-30T10:40:18.083650",
+            "state": "active",
+            "id": "bd737030-1ba6-4913-baaa-bfa2581618b5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-geo",
+            "name": "format-geo",
+            "revision_timestamp": "2011-11-30T10:40:18.083650",
+            "state": "active",
+            "id": "16f204d1-2004-4b26-97c9-93a8e42cc506"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-geonames",
+            "name": "format-geonames",
+            "revision_timestamp": "2011-11-30T10:40:18.083650",
+            "state": "active",
+            "id": "35e84387-1d54-4b5b-bbd0-1f6e26237099"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-meta",
+            "name": "format-meta",
+            "revision_timestamp": "2011-11-30T10:40:18.083650",
+            "state": "active",
+            "id": "874aa24d-a134-4811-82a2-436d484358b4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-mvcb",
+            "name": "format-mvcb",
+            "revision_timestamp": "2011-11-30T10:40:18.083650",
+            "state": "active",
+            "id": "4c822c8e-5d23-4a6b-af36-a5a1ad5cab40"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-owl",
+            "name": "format-owl",
+            "revision_timestamp": "2011-11-30T10:40:18.083650",
+            "state": "active",
+            "id": "b88f7bba-f82e-49b2-9672-4cca65e040de"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-prv",
+            "name": "format-prv",
+            "revision_timestamp": "2011-11-30T10:40:18.083650",
+            "state": "active",
+            "id": "de31c3f0-bc81-4cd2-8996-b3054ae3ad24"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-prvtypes",
+            "name": "format-prvtypes",
+            "revision_timestamp": "2011-11-30T10:40:18.083650",
+            "state": "active",
+            "id": "43431eef-8770-4c1d-8339-3440d4c22c4d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2011-11-30T10:40:18.083650",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdfs",
+            "name": "format-rdfs",
+            "revision_timestamp": "2011-11-30T10:40:18.083650",
+            "state": "active",
+            "id": "781902f8-ba13-4330-bba3-54d0bbf24b58"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-re",
+            "name": "format-re",
+            "revision_timestamp": "2011-11-30T10:40:18.083650",
+            "state": "active",
+            "id": "96019c33-e9d9-40ed-97a1-1aabb5223492"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rel",
+            "name": "format-rel",
+            "revision_timestamp": "2011-11-30T10:40:18.083650",
+            "state": "active",
+            "id": "b31b2e6e-2f71-4696-a11a-f7462fcace9d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-sioc",
+            "name": "format-sioc",
+            "revision_timestamp": "2011-11-30T10:40:18.083650",
+            "state": "active",
+            "id": "7a334e2f-c6b6-4ef0-aefe-20b14d14718e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-skos",
+            "name": "format-skos",
+            "revision_timestamp": "2011-11-30T10:40:18.083650",
+            "state": "active",
+            "id": "4d405572-6308-41ed-a021-1990e618a626"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-swrc",
+            "name": "format-swrc",
+            "revision_timestamp": "2011-11-30T10:40:18.083650",
+            "state": "active",
+            "id": "4e5912c5-7cfb-4ab8-8d67-ea163c87c205"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-units",
+            "name": "format-units",
+            "revision_timestamp": "2011-11-30T10:40:18.083650",
+            "state": "active",
+            "id": "84e073d0-6f93-4733-94fb-909778f7ca94"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-uranai",
+            "name": "format-uranai",
+            "revision_timestamp": "2011-11-30T10:40:18.083650",
+            "state": "active",
+            "id": "d7c3360c-7d2f-49ad-86cf-8e90afcc6b77"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-xsd",
+            "name": "format-xsd",
+            "revision_timestamp": "2011-11-30T10:40:18.083650",
+            "state": "active",
+            "id": "19614489-6277-405d-b716-4cef729265a8"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-yago",
+            "name": "format-yago",
+            "revision_timestamp": "2011-11-30T10:40:18.083650",
+            "state": "active",
+            "id": "98130119-3d00-475e-b8a1-7f2fbcfb97a3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2011-11-30T09:43:15.068841",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2011-11-30T09:57:57.525310",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-proprietary-vocab",
+            "name": "no-proprietary-vocab",
+            "revision_timestamp": "2011-11-30T09:55:25.108798",
+            "state": "active",
+            "id": "aef04cb8-a7aa-4419-8184-396b0ef6e680"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-provenance-metadata",
+            "name": "no-provenance-metadata",
+            "revision_timestamp": "2011-11-30T09:57:57.525310",
+            "state": "active",
+            "id": "585e9fca-2d67-4a07-b9d1-5495de054c7a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "opendata",
+            "name": "opendata",
+            "revision_timestamp": "2011-11-16T16:40:28.391062",
+            "state": "active",
+            "id": "510e20eb-bb38-4cef-b3bb-a5ff9d9d3f18"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "projects",
+            "name": "projects",
+            "revision_timestamp": "2011-11-16T16:40:28.391062",
+            "state": "active",
+            "id": "8fbf1ed8-1e92-46fa-9b40-4fe69925ec5e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "publications",
+            "name": "publications",
+            "revision_timestamp": "2011-11-16T16:40:28.391062",
+            "state": "active",
+            "id": "c93ebe8f-83a0-498c-8704-1de94db149e9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-producer",
+            "name": "published-by-producer",
+            "revision_timestamp": "2011-11-30T09:54:02.459836",
+            "state": "active",
+            "id": "fcdb5c0a-2b91-44cb-83e5-19fd0d81125c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "research",
+            "name": "research",
+            "revision_timestamp": "2011-11-16T16:40:28.391062",
+            "state": "active",
+            "id": "4c12ce8b-de99-4fde-80a8-a8f812d8cfa7"
+        }
+    ],
+    "tracking_summary": {
+        "total": 221,
+        "recent": 5
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 33,
+    "name": "morelab",
+    "isopen": true,
+    "url": "http://www.morelab.deusto.es",
+    "notes": "A dataset that describes staff and publications of MoreLab, an ICT research group within the Deusto Institute of Technology (DeustoTech) at University of Deusto.\r\n\r\nData is available in RDF format through resolvable URIs and a SPARQL endpoint.",
+    "title": "morelab",
+    "extras": [
+        {
+            "value": "2",
+            "key": "links:data-incubator-our-airports",
+            "__extras": {
+                "revision_id": "12ab1c43-102e-4909-b7d1-869779d79020",
+                "package_id": "bad8a1c8-d441-4824-b949-b594aa1bde16"
+            }
+        },
+        {
+            "value": "38",
+            "key": "links:dbpedia",
+            "__extras": {
+                "revision_id": "8ff1ce38-cd62-4cdc-9a6a-28186e1d30ec",
+                "package_id": "bad8a1c8-d441-4824-b949-b594aa1bde16"
+            }
+        },
+        {
+            "value": "5",
+            "key": "links:geonames",
+            "__extras": {
+                "revision_id": "5b1dcbcd-82cf-496c-be33-3ce3d65c8b87",
+                "package_id": "bad8a1c8-d441-4824-b949-b594aa1bde16"
+            }
+        },
+        {
+            "value": "128",
+            "key": "links:l3s-dblp",
+            "__extras": {
+                "package_id": "bad8a1c8-d441-4824-b949-b594aa1bde16",
+                "revision_id": "8ff1ce38-cd62-4cdc-9a6a-28186e1d30ec"
+            }
+        },
+        {
+            "value": "35",
+            "key": "links:rkb-explorer-dblp",
+            "__extras": {
+                "package_id": "bad8a1c8-d441-4824-b949-b594aa1bde16",
+                "revision_id": "8ff1ce38-cd62-4cdc-9a6a-28186e1d30ec"
+            }
+        },
+        {
+            "value": "http://www.morelab.deusto.es/resource/",
+            "key": "namespace",
+            "__extras": {
+                "package_id": "bad8a1c8-d441-4824-b949-b594aa1bde16",
+                "revision_id": "49fc80d9-a87f-49fa-a686-beaa84841824"
+            }
+        },
+        {
+            "value": "3561",
+            "key": "triples",
+            "__extras": {
+                "revision_id": "db6984ad-e6ed-43fc-841b-e08d2c41a276",
+                "package_id": "bad8a1c8-d441-4824-b949-b594aa1bde16"
+            }
+        }
+    ],
+    "organization": {
+        "description": "This group gathers datasets of relevance to educational applications. it includes data about open educational resources (OER) and items which were created with an explicit educational purpose, as well as otherwise relevant datasets (academic publications, video assets, etc). All datasets included should expose linked data, and provide at least a SPARQL endpoint. For any enquiries, please contact the administrators via data@linkededucation.org.",
+        "title": "Linked Education Cloud",
+        "created": "2012-10-11T12:20:43.297930",
+        "approval_status": "approved",
+        "revision_timestamp": "2013-01-03T09:51:09.067990",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "",
+        "revision_id": "db4324b3-511f-43a7-ae1b-1940b9a5dc93",
+        "type": "organization",
+        "id": "1a24e0c3-013b-481d-b25c-f36c651315d8",
+        "name": "linked-education"
+    },
+    "revision_id": "e11a499f-8a61-4908-964f-0365dad1af22"
+}

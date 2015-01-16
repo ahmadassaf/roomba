@@ -113,7 +113,7 @@ function profile(parent) {
 
 		_.each(metadtaKeys, function(key, index) {
 			if (_.has(dataset, key)) {
-				if (!dataset[key] || _.isEmpty(dataset[key]))
+				if (_.isUndefined(dataset[key]) || _.isNull(dataset[key]) || ( _.isString(dataset[key]) && dataset[key].length == 0))
 					profile.addEntry("undefined", key, key + " field exists but there is no value defined");
 			} else profile.addEntry("missing", key, key + " field is missing");
 		});
@@ -138,7 +138,7 @@ function profile(parent) {
 				profile.addEntry("report", message);
 				profile.addEntry("unreachableURLs", url);
 				callback(true);
-			} else callback(false, response);
+			} else callback(false, response.headers);
 		}, "HEAD");
 	}
 

@@ -59,7 +59,7 @@ function reportGenerator(parent) {
 		getReportDetails();
 
 		function getReportDetails() {
-			action == "valueAggregator" ? reportGenerator.util.getInput( "fieldName", "Please enter the Field Name you wish to get details for [Note: For nested fields use '>' e.g. resources>resource_type]", function(field){ execute(field) }) : reportGenerator.util.getInput( "fieldName", "Please enter the key/value details. Please separate them using ':' and use '>' for nested fields. e.g. resources>resource_type:resources>name", function(field){ execute(field)}, ":");
+			action == "valueAggregator" || action == "checkEmpty" ? reportGenerator.util.getInput( "fieldName", "Please enter the Field Name you wish to get details for [Note: For nested fields use '>' e.g. resources>resource_type]", function(field){ execute(field) }) : reportGenerator.util.getInput( "fieldName", "Please enter the key/value details. Please separate them using ':' and use '>' for nested fields. e.g. resources>resource_type:resources>name", function(field){ execute(field)}, ":");
 			}
 
 		function execute(prompt) {
@@ -85,6 +85,10 @@ function reportGenerator(parent) {
 						 switch(action) {
 								case "valueAggregator" :
 								reportGenerator.reportFactory.getFieldValues(dataset, prompt, function(error, report){
+									if (!error) arrayReport = _.union(arrayReport, _.flatten(report));
+								}); break;
+								case "checkEmpty" :
+								reportGenerator.reportFactory.checkEmpty(dataset, prompt, function(error, report){
 									if (!error) arrayReport = _.union(arrayReport, _.flatten(report));
 								}); break;
 								case "objectValueAggregator" :

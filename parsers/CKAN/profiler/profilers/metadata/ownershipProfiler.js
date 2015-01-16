@@ -38,7 +38,7 @@ function ownershipProfiler(parent) {
 					var entryKey = key == "is_organization" ? "is_organization" : "organization_" + key;
 
 					if (_.has(root.organization, key)) {
-						if (!root.organization[key] || _.isEmpty(root.organization[key])) {
+						if (_.isUndefined(root.organization[key]) || _.isNull(root.organization[key]) || ( _.isString(root.organization[key]) && root.organization[key].length == 0)) {
 							profileTemplate.addEntry("undefined", entryKey, entryKey + " field exists but there is no value defined");
 						}
 					} else profileTemplate.addEntry("missing", entryKey, entryKey + " field is missing");

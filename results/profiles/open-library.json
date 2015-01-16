@@ -1,0 +1,363 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-10T23:14:16.371088",
+    "id": "08e39000-4309-4bba-9f4a-dd99fe4b93c1",
+    "metadata_created": "2008-10-04T12:22:31",
+    "owner_org": "ed47c074-2073-48d3-b852-03b01bc70703",
+    "metadata_modified": "2013-10-10T23:14:16.371088",
+    "author": "Internet Archive, a 501(c)(3) non-profit",
+    "author_email": "info@openlibrary.org",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "text/html",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "",
+            "format": "",
+            "url": "http://openlibrary.org/data",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 55,
+                "recent": 3
+            },
+            "revision_timestamp": "2013-07-01T14:26:04.306344",
+            "webstore_url": "",
+            "resource_group_id": "a6d9b38e-9285-eb72-b350-00fc88068a6b",
+            "state": "active",
+            "last_modified": "2013-07-01T09:26:04.279389",
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "95cce701-74e5-4848-91a5-b7e45dbced09",
+            "size": null,
+            "id": "976ad96e-6897-4ab6-9357-4fe73044ae1e",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Example (RDF/XML)",
+            "format": "example/rdf+xml",
+            "url": "http://openlibrary.org/books/OL6807502M.rdf",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 83,
+                "recent": 3
+            },
+            "revision_timestamp": "2013-07-01T14:26:04.784320",
+            "webstore_url": "",
+            "resource_group_id": "a6d9b38e-9285-eb72-b350-00fc88068a6b",
+            "state": "active",
+            "last_modified": "2013-07-01T09:26:04.763466",
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "7cbcb92f-9d18-4ca7-bab9-f3f3476183af",
+            "size": null,
+            "id": "7d784d21-7e69-4766-b1e2-96dea98c5cdc",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/json",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Example (JSON)",
+            "format": "JSON",
+            "url": "http://openlibrary.org/books/OL6807502M.json",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 39,
+                "recent": 3
+            },
+            "revision_timestamp": "2013-07-01T14:26:05.146278",
+            "webstore_url": "",
+            "resource_group_id": "a6d9b38e-9285-eb72-b350-00fc88068a6b",
+            "state": "active",
+            "last_modified": "2013-07-01T09:26:05.136338",
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "8ba7b784-6160-4df4-b0ed-677ae04d1855",
+            "size": null,
+            "id": "9bda1dc6-66d3-4a4e-900f-e957a5bbeec9",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Overview of available APIs, with links to more detailed documentation for each API.",
+            "format": "HTML",
+            "url": "http://openlibrary.org/developers/api",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 7,
+                "recent": 5
+            },
+            "revision_timestamp": "2012-09-19T17:58:17.041154",
+            "webstore_url": "",
+            "resource_group_id": "a6d9b38e-9285-eb72-b350-00fc88068a6b",
+            "state": "active",
+            "last_modified": "2012-04-19T10:40:56.958206",
+            "webstore_last_updated": null,
+            "position": 3,
+            "revision_id": "b2713dbf-72c5-480e-8109-b86c821bfe6f",
+            "size": null,
+            "id": "1e056e05-f21f-45d4-9618-df35de519537",
+            "resource_type": "documentation",
+            "name": "Open Library API documentation",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/octet-stream",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Gzip'ed text file containing the latest (at the time of the dump) revisions of all records.\r\n\r\nDocumentation about the exact contents can be found at http://openlibrary.org/developers/dumps.",
+            "format": "gz:txt",
+            "url": "http://openlibrary.org/data/ol_dump_latest.txt.gz",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 5,
+                "recent": 3
+            },
+            "revision_timestamp": "2013-07-01T14:26:05.971335",
+            "webstore_url": "enabled",
+            "resource_group_id": "a6d9b38e-9285-eb72-b350-00fc88068a6b",
+            "state": "active",
+            "last_modified": "2013-07-01T09:26:05.955006",
+            "webstore_last_updated": null,
+            "position": 4,
+            "revision_id": "17911d8f-1c1a-4f0d-bd11-568ccadcfe61",
+            "size": "7264800560",
+            "id": "ddca8d77-e95c-4c9e-88b8-7f0dc952358d",
+            "resource_type": "file",
+            "name": "Latest monthly dump",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 5,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "access-api",
+            "name": "access-api",
+            "revision_timestamp": "2009-12-01T23:09:06.976753",
+            "state": "active",
+            "id": "86f1f13d-5f44-4f39-af56-148834519476"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "access-bulk",
+            "name": "access-bulk",
+            "revision_timestamp": "2009-12-01T23:09:06.976753",
+            "state": "active",
+            "id": "211162c4-939b-4e92-a531-7c178863a5fd"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "access-json",
+            "name": "access-json",
+            "revision_timestamp": "2009-12-01T23:09:06.976753",
+            "state": "active",
+            "id": "0ed43838-f87c-4652-9d72-83f6785408d2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "bibliographic",
+            "name": "bibliographic",
+            "revision_timestamp": "2008-10-04T12:32:04",
+            "state": "active",
+            "id": "01d76f4d-6bf5-4cec-a2a8-59dc3f24ab2d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "book",
+            "name": "book",
+            "revision_timestamp": "2008-10-04T12:32:04",
+            "state": "active",
+            "id": "ebd1e523-e8aa-4ab3-a59a-bff3bdb4af61"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data",
+            "name": "data",
+            "revision_timestamp": "2008-10-04T12:32:04",
+            "state": "active",
+            "id": "e40d6abd-6772-4022-acf4-46d3dd46a899"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-bibo",
+            "name": "format-bibo",
+            "revision_timestamp": "2010-10-07T10:19:47.493269",
+            "state": "active",
+            "id": "4bbb2986-6e54-43b6-9dba-b55b0e3bdd60"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2010-09-09T11:55:33.628184",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "library",
+            "name": "library",
+            "revision_timestamp": "2008-10-04T12:32:04",
+            "state": "active",
+            "id": "7ec1ef56-6c27-4299-a3fa-578756ddc421"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lld",
+            "name": "lld",
+            "revision_timestamp": "2010-12-09T17:46:55.152738",
+            "state": "active",
+            "id": "c1dea2c0-3fb8-47b8-9b37-c076756e6420"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2010-09-09T11:55:33.628184",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lodcloud.nolinks",
+            "name": "lodcloud.nolinks",
+            "revision_timestamp": "2011-08-10T12:48:56.914576",
+            "state": "active",
+            "id": "ce89d5e1-b216-44ba-9603-d13fa7b248c4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2010-10-07T10:19:47.493269",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-proprietary-vocab",
+            "name": "no-proprietary-vocab",
+            "revision_timestamp": "2010-10-07T10:19:47.493269",
+            "state": "active",
+            "id": "aef04cb8-a7aa-4419-8184-396b0ef6e680"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-provenance-metadata",
+            "name": "no-provenance-metadata",
+            "revision_timestamp": "2010-10-07T10:19:47.493269",
+            "state": "active",
+            "id": "585e9fca-2d67-4a07-b9d1-5495de054c7a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-vocab-mappings",
+            "name": "no-vocab-mappings",
+            "revision_timestamp": "2010-10-07T10:19:47.493269",
+            "state": "active",
+            "id": "e51273d8-dc60-4cf2-a68d-3cfd33b2c1fc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "publications",
+            "name": "publications",
+            "revision_timestamp": "2010-10-07T10:19:47.493269",
+            "state": "active",
+            "id": "c93ebe8f-83a0-498c-8704-1de94db149e9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-producer",
+            "name": "published-by-producer",
+            "revision_timestamp": "2010-10-07T10:19:47.493269",
+            "state": "active",
+            "id": "fcdb5c0a-2b91-44cb-83e5-19fd0d81125c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "us",
+            "name": "us",
+            "revision_timestamp": "2008-10-04T12:32:04",
+            "state": "active",
+            "id": "aeec873e-188a-4cce-83c5-23e30c872b32"
+        }
+    ],
+    "tracking_summary": {
+        "total": 1705,
+        "recent": 33
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 19,
+    "name": "open-library",
+    "isopen": false,
+    "url": "http://openlibrary.org/",
+    "notes": "## About\r\n\r\n> One web page for every book ever published. It's a lofty, but achievable, goal.\r\n\r\n> To build it, we need hundreds of millions of book records, a brand new database infrastructure for handling huge amounts of dynamic information, a wiki interface, multi-language support, and people who are willing to contribute their time, effort, and book data.\r\n\r\n> To date, we have gathered about 30 million records (13.4 million are available through the site now), and more are on the way. We have built the database infrastructure and the wiki interface, and you can search millions of book records, narrow results by facet, and search across the full text of 230,000 scanned books. \r\n\r\n## Openness\r\n\r\nAll Open Library contributions are in the public domain.  See <http://openlibrary.org/about/license>.\r\n\r\n## Data\r\n\r\n * Dump of author records: <http://openlibrary.org/data/ol_dump_authors_latest.txt.gz>\r\n\r\n * Dump of edition records: <http://openlibrary.org/data/ol_dump_editions_latest.txt.gz>\r\n\r\n * API documentation: <http://openlibrary.org/developers/api>\r\n\r\n## Issues\r\n\r\nThe content negotiation on entity URIs is buggy. Asking for only application/rdf xml works, but asking for multiple types doesn't.\r\n\r\nThe triple count is a wild guess based on the numbers of 13 million records and 30 triples per record.",
+    "title": "Open Library",
+    "extras": [
+        {
+            "value": "http://openlibrary.org/",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "a7b89ece-249f-482a-aa82-f09961e719d7",
+                "package_id": "08e39000-4309-4bba-9f4a-dd99fe4b93c1"
+            }
+        },
+        {
+            "value": "Open Library",
+            "key": "shortname",
+            "__extras": {
+                "revision_id": "eea7f2d0-bbd5-4549-8cef-af1dd674f4d8",
+                "package_id": "08e39000-4309-4bba-9f4a-dd99fe4b93c1"
+            }
+        },
+        {
+            "value": "400000000",
+            "key": "triples",
+            "__extras": {
+                "revision_id": "fdf3613f-fbfc-44d2-afa6-800438f2df52",
+                "package_id": "08e39000-4309-4bba-9f4a-dd99fe4b93c1"
+            }
+        }
+    ],
+    "organization": {
+        "description": "Group for Library Linked Data\r\n\r\nPolicy described at: <a href=\"http://esw.w3.org/TaskForces/CommunityProjects/LinkedLibraryData/Datasets/CKANmetainformation\r\n\">http://esw.w3.org/TaskForces/CommunityProjects/LinkedLibraryData/Datasets/CKANmetainformation</a>\r\n\r\nCloud (partial) available at <a href=\"http://semantic.ckan.net/group/?group=http://ckan.net/group/lld\">http://semantic.ckan.net/group/?group=http://ckan.net/group/lld</a>. The brightly coloured circles represent the packages that are part of the LLD group. They grey circles represent packages that are connected to but are not members of this group (they typically are members of the general <a href=\"http://ckan.net/group/lod\">LOD Cloud</a> group). The size of the circles and the thickness of the lines are related to the size of the data and the number of outward links (logarithmic) respectively. ",
+        "title": "Library Linked Data",
+        "created": "2010-11-22T15:48:11.963288",
+        "approval_status": "approved",
+        "revision_timestamp": "2011-08-12T22:25:01.711856",
+        "is_organization": true,
+        "state": "active",
+        "image_url": null,
+        "revision_id": "2292e642-27e2-43e9-9673-879b29e4da19",
+        "type": "organization",
+        "id": "ed47c074-2073-48d3-b852-03b01bc70703",
+        "name": "lld"
+    },
+    "revision_id": "f627aa05-90fe-4f34-8681-882d2ae3a4d3"
+}
