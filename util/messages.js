@@ -33,8 +33,6 @@ var messages =   {
 				"saveProfiles"     : "Would you like to save automatically the generated repots and enhanced profiles ?",
 				"cachedProfiles"   : "Would you like to overwrite cached profiles if found ?",
 				"choiceList": [
-				{ "value" : "profileDataset"        , "name" : "Profile a specific dataset"}                   ,
-				{ "value" : "profileGroup"          , "name" : "Profile a specific Group"}                     ,
 				{ "value" : "getAllDatasetsDetails" , "name" : "Fetch All the datasets in this portal"}        ,
 				{ "value" : "getAllGroupsDetails"   , "name" : "Fetch All the datasets groups in this portal"} ,
 				{ "value" : "getGroupdetails"       , "name" : "Fetch the details of a specific group"}        ,
@@ -43,6 +41,8 @@ var messages =   {
 				{ "value" : "portalReport"          , "name" : "Generate Data Portal level reports"}           ,
 				{ "value" : "groupReport"           , "name" : "Generate Group level reports"}                 ,
 				separator                           ,
+				{ "value" : "profileDataset"        , "name" : "Profile a specific dataset"}                   ,
+				{ "value" : "profileGroup"          , "name" : "Profile a specific Group"}                     ,
 				{ "value" : "profileAllDatasets"    , "name" : "Profile All the datasets in this portal"}      ,
 				separator                           ,
 				{ "value" : "addressEntry"          , "name" : "Return to Address Entry"}                      ,
