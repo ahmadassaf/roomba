@@ -40,7 +40,6 @@ var messages =   {
 				separator                           ,
 				{ "value" : "portalReport"          , "name" : "Generate Data Portal level reports"}           ,
 				{ "value" : "groupReport"           , "name" : "Generate Group level reports"}                 ,
-				{ "value" : "checkEmpty"            , "name" : "Check Empty field valyes"}                     ,
 				separator                           ,
 				{ "value" : "profileDataset"        , "name" : "Profile a specific dataset"}                   ,
 				{ "value" : "profileGroup"          , "name" : "Profile a specific Group"}                     ,
@@ -53,6 +52,7 @@ var messages =   {
 				"reportGenerationChoiceList" : [
 				{ "value" : "valueAggregator"        , "name" : "Aggregate a meta-field values"}                ,
 				{ "value" : "objectValueAggregator"  , "name" : "Aggregate a key:object meta-field values"}     ,
+				{ "value" : "checkEmpty"             , "name" : "Check Empty field values"}                     ,
 				{ "value" : "exit"                   , "name" : "<-- Go back to previous menu"}								  ,
 				],
 				"manualPortalURLEntry" : "Would you like to  manually enter the desired portal URL: "
