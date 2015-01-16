@@ -1,0 +1,549 @@
+{
+    "license_title": "Creative Commons Attribution 4.0",
+    "maintainer": "Jason Mai",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "trashmai@gmail.com",
+    "revision_timestamp": "2013-10-10T22:20:50.348206",
+    "id": "2207f3f2-d48b-48d1-8a73-cf34c5fd91b1",
+    "metadata_created": "2011-01-27T15:12:01.532613",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T22:20:50.348206",
+    "author": "Jason Mai",
+    "author_email": "trashmai@gmail.com",
+    "state": "active",
+    "version": "2011-02-09",
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "sparql endpoint",
+            "format": "api/sparql",
+            "url": "http://ecowlim.tfri.gov.tw/sparql/query",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 29,
+                "recent": 3
+            },
+            "revision_timestamp": "2013-04-27T16:59:35.940354",
+            "webstore_url": "",
+            "resource_group_id": "057eafb5-a5ed-eef8-047f-a61c55c29347",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "25732366-b4b0-4067-8d7d-4e98d8623f88",
+            "size": null,
+            "id": "2c05e3db-9601-40e6-9968-40dee8db1304",
+            "resource_type": "",
+            "name": ""
+        },
+        {
+            "mimetype": "",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Sitemap index",
+            "format": "meta/sitemap",
+            "url": "http://ecowlim.tfri.gov.tw/sitemap_index.xml",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 9,
+                "recent": 3
+            },
+            "revision_timestamp": "2013-04-27T16:59:35.940354",
+            "webstore_url": "",
+            "resource_group_id": "057eafb5-a5ed-eef8-047f-a61c55c29347",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "25732366-b4b0-4067-8d7d-4e98d8623f88",
+            "size": null,
+            "id": "6a1a40af-49d0-47d9-bf84-86e9c0d3fbf5",
+            "resource_type": "",
+            "name": ""
+        },
+        {
+            "mimetype": "",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "a RDF-formatted document of data describing a specimen collecting event",
+            "format": "example/rdf+xml",
+            "url": "http://ecowlim.tfri.gov.tw/lode/data/flyhorse/CollectingEvent/10015?output=xml",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 15,
+                "recent": 7
+            },
+            "revision_timestamp": "2013-04-27T16:59:35.940354",
+            "webstore_url": "",
+            "resource_group_id": "057eafb5-a5ed-eef8-047f-a61c55c29347",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "25732366-b4b0-4067-8d7d-4e98d8623f88",
+            "size": null,
+            "id": "b27bdda0-5f10-4419-9da2-69e513152582",
+            "resource_type": "",
+            "name": ""
+        },
+        {
+            "mimetype": "",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "a N3-formatted document of data describing a specimen",
+            "format": "example/n3",
+            "url": "http://ecowlim.tfri.gov.tw/lode/data/taif/Specimen/TAIF-PLANT-1-1-10026-187900?output=n3",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 5,
+                "recent": 3
+            },
+            "revision_timestamp": "2013-04-27T16:59:35.940354",
+            "webstore_url": "",
+            "resource_group_id": "057eafb5-a5ed-eef8-047f-a61c55c29347",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 3,
+            "revision_id": "25732366-b4b0-4067-8d7d-4e98d8623f88",
+            "size": null,
+            "id": "dec8e18a-baab-47ba-8c4a-fe1c0f14649a",
+            "resource_type": "",
+            "name": ""
+        },
+        {
+            "mimetype": "",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "a RDF-formatted document of data describing a species and its taxonomy status",
+            "format": "example/rdf+xml",
+            "url": "http://ecowlim.tfri.gov.tw/lode/data/taibnet/Species/Callyodon_laxtoni?output=xml",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 13,
+                "recent": 3
+            },
+            "revision_timestamp": "2013-04-27T16:59:35.940354",
+            "webstore_url": "",
+            "resource_group_id": "057eafb5-a5ed-eef8-047f-a61c55c29347",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 4,
+            "revision_id": "25732366-b4b0-4067-8d7d-4e98d8623f88",
+            "size": null,
+            "id": "e1f0ffa4-e0b0-4778-b16e-c06968f34250",
+            "resource_type": "",
+            "name": ""
+        },
+        {
+            "mimetype": "",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "a RDF-formatted document of data describing a wildfire event",
+            "format": "example/rdf+xml",
+            "url": "http://ecowlim.tfri.gov.tw/lode/data/firedb/ForestFireEvent/1065?output=xml",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 13,
+                "recent": 3
+            },
+            "revision_timestamp": "2013-04-27T16:59:35.940354",
+            "webstore_url": "",
+            "resource_group_id": "057eafb5-a5ed-eef8-047f-a61c55c29347",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 5,
+            "revision_id": "25732366-b4b0-4067-8d7d-4e98d8623f88",
+            "size": null,
+            "id": "c1dca335-5a06-46db-9c7a-48df022956fd",
+            "resource_type": "",
+            "name": ""
+        },
+        {
+            "mimetype": "",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "A voiD description of LODE dataset",
+            "format": "meta/void",
+            "url": "http://ecowlim.tfri.gov.tw/lode/resource/void/Dataset",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 8,
+                "recent": 8
+            },
+            "revision_timestamp": "2013-04-27T16:59:35.940354",
+            "webstore_url": "",
+            "resource_group_id": "057eafb5-a5ed-eef8-047f-a61c55c29347",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 6,
+            "revision_id": "25732366-b4b0-4067-8d7d-4e98d8623f88",
+            "size": null,
+            "id": "4321f2fa-4581-463c-90e7-c09c36a5482d",
+            "resource_type": "",
+            "name": ""
+        }
+    ],
+    "num_resources": 7,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "biodiversity",
+            "name": "biodiversity",
+            "revision_timestamp": "2011-01-27T15:12:01.532613",
+            "state": "active",
+            "id": "bb261b99-130c-4e54-9bfd-bc8f62987944"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "crossdomain",
+            "name": "crossdomain",
+            "revision_timestamp": "2011-01-27T15:41:30.835466",
+            "state": "active",
+            "id": "833848ee-ef06-4283-bb26-164f6c3474b4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2011-01-27T15:41:30.835466",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "ecology",
+            "name": "ecology",
+            "revision_timestamp": "2011-01-27T15:12:01.532613",
+            "state": "active",
+            "id": "31c0c911-0d63-42a3-b168-ebd1a5cb91a8"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "environment",
+            "name": "environment",
+            "revision_timestamp": "2013-04-27T16:59:35.940354",
+            "state": "active",
+            "id": "2eda73c3-9cab-49e4-a44f-181fb4a1bea5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-dbo",
+            "name": "format-dbo",
+            "revision_timestamp": "2011-07-19T11:18:55.681551",
+            "state": "active",
+            "id": "0ebc2617-a23f-4616-9fb2-e9c3e4adcf2b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-dbpedia",
+            "name": "format-dbpedia",
+            "revision_timestamp": "2011-01-27T15:41:30.835466",
+            "state": "active",
+            "id": "3b5b56c6-ffc7-4497-a58a-df7fcae2ed9b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-dbpowl",
+            "name": "format-dbpowl",
+            "revision_timestamp": "2011-01-27T15:41:30.835466",
+            "state": "active",
+            "id": "599872ed-5ebd-4828-9fc6-a91c55586d89"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-dbpprop",
+            "name": "format-dbpprop",
+            "revision_timestamp": "2011-01-27T15:41:30.835466",
+            "state": "active",
+            "id": "e9e2499e-b4f2-4cfb-9116-3d41605b8ba9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-dc",
+            "name": "format-dc",
+            "revision_timestamp": "2011-01-27T15:41:30.835466",
+            "state": "active",
+            "id": "0b675a54-621f-4fdb-850a-ef5d0b1b1ca3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-dwc",
+            "name": "format-dwc",
+            "revision_timestamp": "2011-01-27T15:41:30.835466",
+            "state": "active",
+            "id": "2372fcd8-9db0-47fa-9447-ae4ed32c7ba4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-event",
+            "name": "format-event",
+            "revision_timestamp": "2011-01-27T15:41:30.835466",
+            "state": "active",
+            "id": "766ed801-2d88-4f40-9ee8-c552c889998b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-foaf",
+            "name": "format-foaf",
+            "revision_timestamp": "2011-01-27T15:41:30.835466",
+            "state": "active",
+            "id": "bd737030-1ba6-4913-baaa-bfa2581618b5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-geo",
+            "name": "format-geo",
+            "revision_timestamp": "2011-01-27T15:41:30.835466",
+            "state": "active",
+            "id": "16f204d1-2004-4b26-97c9-93a8e42cc506"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-muo",
+            "name": "format-muo",
+            "revision_timestamp": "2011-01-27T15:41:30.835466",
+            "state": "active",
+            "id": "2fc17116-961b-4027-a7ce-6f80ccb9f82e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2011-01-28T07:46:41.044577",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdfs",
+            "name": "format-rdfs",
+            "revision_timestamp": "2011-01-28T07:46:41.044577",
+            "state": "active",
+            "id": "781902f8-ba13-4330-bba3-54d0bbf24b58"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-skos",
+            "name": "format-skos",
+            "revision_timestamp": "2011-01-27T15:41:30.835466",
+            "state": "active",
+            "id": "4d405572-6308-41ed-a021-1990e618a626"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-time",
+            "name": "format-time",
+            "revision_timestamp": "2011-01-27T15:41:30.835466",
+            "state": "active",
+            "id": "89e12c4c-de55-4c8e-ad6d-26e36ea60265"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-tl",
+            "name": "format-tl",
+            "revision_timestamp": "2011-01-27T15:41:30.835466",
+            "state": "active",
+            "id": "1c6bbced-f5a5-423e-81a8-c609f4fb4eae"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-ucum",
+            "name": "format-ucum",
+            "revision_timestamp": "2011-01-27T15:41:30.835466",
+            "state": "active",
+            "id": "98037b44-2f8e-46c9-b01a-90d1ec1fe16b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "insects",
+            "name": "insects",
+            "revision_timestamp": "2011-01-27T15:12:01.532613",
+            "state": "active",
+            "id": "11994a83-7835-4fbb-8c39-837ed016ff0a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "license-metadata",
+            "name": "license-metadata",
+            "revision_timestamp": "2011-02-09T09:10:06.438575",
+            "state": "active",
+            "id": "8d7e5c73-261b-4137-a278-42f56a6ec4bb"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2011-01-27T15:12:01.532613",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "measurement",
+            "name": "measurement",
+            "revision_timestamp": "2011-07-20T13:29:04.531694",
+            "state": "active",
+            "id": "f4bcc231-ecb6-45a6-adb7-10176189b456"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "plants",
+            "name": "plants",
+            "revision_timestamp": "2011-01-27T15:12:01.532613",
+            "state": "active",
+            "id": "4a5db525-8799-4ac6-b1d2-e9c85bb66856"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "provenance-metadata",
+            "name": "provenance-metadata",
+            "revision_timestamp": "2011-07-20T17:41:01.836613",
+            "state": "active",
+            "id": "24a0f0a3-36bc-4209-84e5-7d6b89d82dfa"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-producer",
+            "name": "published-by-producer",
+            "revision_timestamp": "2011-01-27T15:41:30.835466",
+            "state": "active",
+            "id": "fcdb5c0a-2b91-44cb-83e5-19fd0d81125c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "wildfire",
+            "name": "wildfire",
+            "revision_timestamp": "2011-01-27T15:12:01.532613",
+            "state": "active",
+            "id": "14a2b1ea-bb84-4843-8380-05a738f8dcd1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 701,
+        "recent": 13
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 29,
+    "name": "linked-open-data-of-ecology",
+    "isopen": true,
+    "url": "http://ecowlim.tfri.gov.tw/lode",
+    "notes": "Linked Open Data of Ecology ([LODE][]) is a prototype to integrate the data of ecology by linked data approach. So far the subjects include most of [wildfire][], [taxonomy][], biodiversity data of [plants][] and [insects][] in Taiwan. \r\n\r\n2011/07/20: Recently we added a new dataset about measurements of DBH(diameters breast height) of tree entities in Nansi forest dynamics plot ([FDP-NS][]).\r\n\r\n[LODE]: http://ecowlim.tfri.gov.tw/lode\r\n[wildfire]: http://ecowlim.tfri.gov.tw/lode/resource/firedb/ForestFireEvent\r\n[taxonomy]: http://ecowlim.tfri.gov.tw/lode/page/taibnet/Species\r\n[plants]: http://ecowlim.tfri.gov.tw/lode/page/taif/Species\r\n[insects]: http://ecowlim.tfri.gov.tw/lode/page/flyhorse/Species\r\n[FDP-NS]: http://ecowlim.tfri.gov.tw/lode/resource/fdp/NansiForestDynamicsPlotCensus/01",
+    "title": "Linked Open Data of Ecology",
+    "extras": [
+        {
+            "value": "28059",
+            "key": "links:bio2rdf-uniprot-taxonomy",
+            "__extras": {
+                "revision_id": "18927951-e408-4acb-8643-f151a5026db3",
+                "package_id": "2207f3f2-d48b-48d1-8a73-cf34c5fd91b1"
+            }
+        },
+        {
+            "value": "10000",
+            "key": "links:dbpedia",
+            "__extras": {
+                "revision_id": "df8a4c76-90be-4352-a4de-77bd3371cd91",
+                "package_id": "2207f3f2-d48b-48d1-8a73-cf34c5fd91b1"
+            }
+        },
+        {
+            "value": "3870",
+            "key": "links:freebase",
+            "__extras": {
+                "package_id": "2207f3f2-d48b-48d1-8a73-cf34c5fd91b1",
+                "revision_id": "18927951-e408-4acb-8643-f151a5026db3"
+            }
+        },
+        {
+            "value": "230",
+            "key": "links:geonames-semantic-web",
+            "__extras": {
+                "package_id": "2207f3f2-d48b-48d1-8a73-cf34c5fd91b1",
+                "revision_id": "18927951-e408-4acb-8643-f151a5026db3"
+            }
+        },
+        {
+            "value": "3739",
+            "key": "links:geospecies",
+            "__extras": {
+                "package_id": "2207f3f2-d48b-48d1-8a73-cf34c5fd91b1",
+                "revision_id": "df8a4c76-90be-4352-a4de-77bd3371cd91"
+            }
+        },
+        {
+            "value": "1023",
+            "key": "links:nytimes-linked-open-data",
+            "__extras": {
+                "package_id": "2207f3f2-d48b-48d1-8a73-cf34c5fd91b1",
+                "revision_id": "18927951-e408-4acb-8643-f151a5026db3"
+            }
+        },
+        {
+            "value": "http://ecowlim.tfri.gov.tw/lode/resource/",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "274db2cd-4e16-4ce6-b315-fee2aba196ae",
+                "package_id": "2207f3f2-d48b-48d1-8a73-cf34c5fd91b1"
+            }
+        },
+        {
+            "value": "LODE",
+            "key": "shortname",
+            "__extras": {
+                "package_id": "2207f3f2-d48b-48d1-8a73-cf34c5fd91b1",
+                "revision_id": "2ed68d50-6f63-4129-bb8f-156ef458c3f8"
+            }
+        },
+        {
+            "value": "23015257",
+            "key": "triples",
+            "__extras": {
+                "revision_id": "2c690f33-eb45-450c-acf8-6b909eb47258",
+                "package_id": "2207f3f2-d48b-48d1-8a73-cf34c5fd91b1"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "8aba3f1f-840b-4f78-8252-de0577bc9842",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

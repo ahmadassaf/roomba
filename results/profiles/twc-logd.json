@@ -1,0 +1,264 @@
+{
+    "license_title": "CC0 1.0",
+    "maintainer": "Dominic DiFranzo",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "difrad@rpi.edu",
+    "revision_timestamp": "2013-10-10T23:59:15.532332",
+    "id": "e7f874ed-c5fb-4d7c-9abc-ce56a15287b1",
+    "metadata_created": "2010-09-01T10:07:22.564470",
+    "owner_org": "d0821303-befa-4808-a00f-4e1e073df26f",
+    "metadata_modified": "2013-12-21T19:19:50.266965",
+    "author": "Tetherless World Constellation, Rensselaer Polytechnic Institute",
+    "author_email": "",
+    "state": "active",
+    "version": "2011-07-20",
+    "license_id": "CC0-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download (Turtle, gzipped)",
+            "format": "",
+            "url": "http://logd.tw.rpi.edu/twc-logd",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 21,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-09-22T13:40:39.809721",
+            "webstore_url": null,
+            "resource_group_id": "140ef163-e79c-a6c9-8b5f-577a1c2cc458",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "690e1639-92c7-4ce7-ac4e-438245450f9e",
+            "size": null,
+            "id": "6e670091-111e-4935-ba7f-dfefdf725ccf",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "SPARQL endpoint",
+            "format": "api/query",
+            "url": "http://logd.tw.rpi.edu/sparql",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 19,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-09-22T13:40:39.809721",
+            "webstore_url": null,
+            "resource_group_id": "140ef163-e79c-a6c9-8b5f-577a1c2cc458",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "690e1639-92c7-4ce7-ac4e-438245450f9e",
+            "size": null,
+            "id": "b2cfbceb-c6c0-4aba-bc4b-23df44e5d4c1",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Example URI",
+            "format": "example/rdf+xml",
+            "url": "http://logd.tw.rpi.edu/source/dfid-gov-uk/dataset/statistics-on-international-development-2009/version/2009-Nov-10/foreignAid_158_6",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 13,
+                "recent": 7
+            },
+            "revision_timestamp": "2011-09-22T13:40:39.809721",
+            "webstore_url": null,
+            "resource_group_id": "140ef163-e79c-a6c9-8b5f-577a1c2cc458",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "690e1639-92c7-4ce7-ac4e-438245450f9e",
+            "size": null,
+            "id": "10ec0fbf-99bf-401d-ab62-58d7801ef373",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 3,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "country-us",
+            "name": "country-us",
+            "revision_timestamp": "2010-09-09T16:46:04.803227",
+            "state": "active",
+            "id": "08bb3e29-7d3b-45fe-96b0-cc88730ffc44"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2010-10-06T22:11:46.761415",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2010-09-01T10:07:22.564470",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "government",
+            "name": "government",
+            "revision_timestamp": "2010-10-06T22:11:46.761415",
+            "state": "active",
+            "id": "22fddbd6-8780-4ce0-826f-e41efdc36688"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2010-09-01T10:07:22.564470",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2010-10-06T22:11:46.761415",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-provenance-metadata",
+            "name": "no-provenance-metadata",
+            "revision_timestamp": "2010-10-06T22:11:46.761415",
+            "state": "active",
+            "id": "585e9fca-2d67-4a07-b9d1-5495de054c7a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-vocab-mappings",
+            "name": "no-vocab-mappings",
+            "revision_timestamp": "2010-10-06T22:11:46.761415",
+            "state": "active",
+            "id": "e51273d8-dc60-4cf2-a68d-3cfd33b2c1fc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2010-10-06T22:11:46.761415",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        }
+    ],
+    "tracking_summary": {
+        "total": 821,
+        "recent": 27
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 9,
+    "name": "twc-logd",
+    "isopen": true,
+    "url": "http://logd.tw.rpi.edu",
+    "notes": "The Tetherless World Constellation (TWC) at Rensselaer Polytechnic Institute (RPI) maintains Linked Open Government Data (LOGD), an RDF version of the datasets published by package:data-gov and other government-related sources.\r\n\r\nLOGD replaces the old TWC Data-gov Corpus published in May 2010.",
+    "title": "TWC: Linking Open Government Data",
+    "extras": [
+        {
+            "value": "2039",
+            "key": "links:dbpedia",
+            "__extras": {
+                "package_id": "e7f874ed-c5fb-4d7c-9abc-ce56a15287b1",
+                "revision_id": "96424d37-2815-41a8-9b7b-61179500fd31"
+            }
+        },
+        {
+            "value": "1839",
+            "key": "links:geonames-semantic-web",
+            "__extras": {
+                "revision_id": "eb41c3c1-ea18-4a29-b846-4fe69e973214",
+                "package_id": "e7f874ed-c5fb-4d7c-9abc-ce56a15287b1"
+            }
+        },
+        {
+            "value": "1909",
+            "key": "links:govtrack",
+            "__extras": {
+                "revision_id": "b36d040c-a42d-406b-932b-5b78e3ab5ed0",
+                "package_id": "e7f874ed-c5fb-4d7c-9abc-ce56a15287b1"
+            }
+        },
+        {
+            "value": "http://logd.tw.rpi.edu/",
+            "key": "namespace",
+            "__extras": {
+                "package_id": "e7f874ed-c5fb-4d7c-9abc-ce56a15287b1",
+                "revision_id": "70c9d4ee-0783-489c-9f1a-32b7467bcad7"
+            }
+        },
+        {
+            "value": "TWC LOGD",
+            "key": "shortname",
+            "__extras": {
+                "package_id": "e7f874ed-c5fb-4d7c-9abc-ce56a15287b1",
+                "revision_id": "631f286c-bfa9-4e4d-bcfb-1b4d192b3774"
+            }
+        },
+        {
+            "value": "9803142573",
+            "key": "triples",
+            "__extras": {
+                "package_id": "e7f874ed-c5fb-4d7c-9abc-ce56a15287b1",
+                "revision_id": "70c9d4ee-0783-489c-9f1a-32b7467bcad7"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "organization": {
+        "description": "Datasets listed, created, or curated by RPI's Tetherless World Constellation research group ( http://tw.rpi.edu/ ) for any of its ongoing or historic projects.",
+        "title": "Tetherless World Constellation",
+        "created": "2013-01-02T13:28:36.671406",
+        "approval_status": "approved",
+        "revision_timestamp": "2013-12-21T19:19:50.266965",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://tw.rpi.edu/media/latest/TW_Logo_193w.png",
+        "revision_id": "8a71e8b1-26bd-4e7e-b250-386925316496",
+        "type": "organization",
+        "id": "d0821303-befa-4808-a00f-4e1e073df26f",
+        "name": "tetherless-world-constellation"
+    },
+    "revision_id": "db85f2cb-7da7-4264-90fd-7885063368f1",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": true,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

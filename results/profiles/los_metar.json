@@ -1,0 +1,244 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Barry Norton",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "barry.norton@kit.edu",
+    "revision_timestamp": "2013-10-10T22:23:49.902315",
+    "id": "8e68690b-534c-40e0-ad84-b6af07e70e5b",
+    "metadata_created": "2010-09-10T07:38:36.501543",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T22:23:49.902315",
+    "author": "Barry Norton",
+    "author_email": "barry.norton@kit.edu",
+    "state": "active",
+    "version": "1.1",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Data dump",
+            "format": "application/rdf+xml",
+            "url": "http://www.linkedopenservices.org/data/METARStations.rdf.xml",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 45,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-07-19T14:26:38.305509",
+            "webstore_url": null,
+            "resource_group_id": "696496ae-0ceb-696a-d885-e0e599325622",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "ec7f281b-ce64-4171-804e-4e6b93415b72",
+            "size": null,
+            "id": "2d983565-90cd-4042-be6e-ef6d26cbc131",
+            "resource_type": null,
+            "name": null
+        },
+        {
+            "mimetype": null,
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "ICAO resources",
+            "format": "rdf/xml, turtle, html",
+            "url": "http://www.linkedopenservices.org/services/geo/SpatialResources/point/ICAO/",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 13,
+                "recent": 3
+            },
+            "revision_timestamp": "2010-09-10T07:38:36.501543",
+            "webstore_url": null,
+            "resource_group_id": "696496ae-0ceb-696a-d885-e0e599325622",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "2e8a0074-6eac-4c49-8d77-5733dcc61feb",
+            "size": null,
+            "id": "2a831756-9e68-4e25-a4b6-eee1e47baa74",
+            "resource_type": null,
+            "name": null
+        },
+        {
+            "mimetype": null,
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "IATA resources",
+            "format": "rdf/xml, turtle, html",
+            "url": "http://www.linkedopenservices.org/services/geo/SpatialResources/point/IATA/",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 11,
+                "recent": 3
+            },
+            "revision_timestamp": "2010-09-10T07:38:36.501543",
+            "webstore_url": null,
+            "resource_group_id": "696496ae-0ceb-696a-d885-e0e599325622",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "2e8a0074-6eac-4c49-8d77-5733dcc61feb",
+            "size": null,
+            "id": "0ff01085-70dd-4200-9d7e-b54788f190ec",
+            "resource_type": null,
+            "name": null
+        },
+        {
+            "mimetype": null,
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Example resource",
+            "format": "example/rdf+xml",
+            "url": "http://www.linkedopenservices.org/services/geo/SpatialResources/point/ICAO/PADK",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 29,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-07-18T14:08:29.027232",
+            "webstore_url": null,
+            "resource_group_id": "696496ae-0ceb-696a-d885-e0e599325622",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 3,
+            "revision_id": "a54cfcd5-ff64-4475-a8d1-cc2cd32642bf",
+            "size": null,
+            "id": "ee68af81-3363-4f23-b8a0-806e20aca4e1",
+            "resource_type": null,
+            "name": null
+        }
+    ],
+    "num_resources": 4,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "geographic",
+            "name": "geographic",
+            "revision_timestamp": "2011-07-18T14:08:29.027232",
+            "state": "active",
+            "id": "dc08d94b-fbac-4bfc-92f0-94bee5fd546a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "iata",
+            "name": "iata",
+            "revision_timestamp": "2010-09-10T07:38:36.501543",
+            "state": "active",
+            "id": "99aba304-b4f9-4b10-acf4-3b1e008cc46f"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "icao",
+            "name": "icao",
+            "revision_timestamp": "2010-09-10T07:38:36.501543",
+            "state": "active",
+            "id": "21c585c6-99b9-4bb2-b971-800a3fa7dfba"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2010-09-10T07:38:36.501543",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "metar",
+            "name": "metar",
+            "revision_timestamp": "2010-09-10T07:38:36.501543",
+            "state": "active",
+            "id": "2edbdd2f-8da3-4769-af6a-8f2aa19236ef"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-deref-vocab",
+            "name": "no-deref-vocab",
+            "revision_timestamp": "2011-07-18T14:08:29.027232",
+            "state": "active",
+            "id": "89a72f73-c7f6-4814-9e3d-3fff825c22f8"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2011-07-18T14:08:29.027232",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        }
+    ],
+    "tracking_summary": {
+        "total": 363,
+        "recent": 3
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 7,
+    "name": "los_metar",
+    "isopen": false,
+    "url": "http://www.linkedopenservices.org/services/geo/SpatialResources/point/ICAO/",
+    "notes": "Airports producing METAR weather reports with URI scheme based on (pseudo-)ICAO (and IATA) codes (with raw original codes as skos:notation) interlinked with OurAirports, Geonames and DBPedia airports",
+    "title": "Weather Stations",
+    "extras": [
+        {
+            "value": "1123",
+            "key": "links:dbpedia",
+            "__extras": {
+                "package_id": "8e68690b-534c-40e0-ad84-b6af07e70e5b",
+                "revision_id": "2e8a0074-6eac-4c49-8d77-5733dcc61feb"
+            }
+        },
+        {
+            "value": "107",
+            "key": "links:geonames-semantic-web",
+            "__extras": {
+                "revision_id": "72118fc1-fad0-48b8-901f-cdd6a1367b60",
+                "package_id": "8e68690b-534c-40e0-ad84-b6af07e70e5b"
+            }
+        },
+        {
+            "value": "http://www.linkedopenservices.org/services/geo/SpatialResources/point/ICAO/",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "dd6ca7cd-cfca-42be-9013-b16cbdf12157",
+                "package_id": "8e68690b-534c-40e0-ad84-b6af07e70e5b"
+            }
+        },
+        {
+            "value": "75184",
+            "key": "triples",
+            "__extras": {
+                "package_id": "8e68690b-534c-40e0-ad84-b6af07e70e5b",
+                "revision_id": "2e8a0074-6eac-4c49-8d77-5733dcc61feb"
+            }
+        }
+    ],
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "69d0ca5b-d493-4546-b318-c699bd6dc4d7"
+}

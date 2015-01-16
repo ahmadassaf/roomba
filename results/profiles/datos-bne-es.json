@@ -1,0 +1,402 @@
+{
+    "license_title": "CC0 1.0",
+    "maintainer": "Daniel Vila-Suero and Boris Villazón-Terrazas",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "dvila@fi.upm.es",
+    "revision_timestamp": "2013-10-10T20:29:04.380034",
+    "id": "78cd19c3-0f70-4f4b-a455-fdeeb95bf4fc",
+    "metadata_created": "2011-12-12T19:06:33.727489",
+    "owner_org": "ed47c074-2073-48d3-b852-03b01bc70703",
+    "metadata_modified": "2013-10-10T20:29:04.380034",
+    "author": "Ontology Engineering Group, Facultad de Informática, Universidad Politécnica de Madrid",
+    "author_email": "dvila@fi.upm.es",
+    "state": "active",
+    "version": "0.0.1",
+    "license_id": "CC0-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "text/html",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "SPARQL endpoint datos.bne.es dataset",
+            "format": "api/sparql",
+            "url": "http://datos.bne.es/sparql",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 37,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-05-18T15:52:10.944749",
+            "webstore_url": "",
+            "resource_group_id": "1bf10d44-7b2b-4fa7-93df-9494e97d151a",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "c521fe01-4a39-4911-9689-724c1f3eb1d2",
+            "size": "7353",
+            "id": "857463c4-2694-4e2c-a3f4-7568f3d77dbd",
+            "resource_type": "api",
+            "name": "Sparql Endpoint",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "",
+            "format": "application/turtle",
+            "url": "http://datos.bne.es/resource/XX1718747",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 5,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-05-18T16:09:30.028431",
+            "webstore_url": "",
+            "resource_group_id": "1bf10d44-7b2b-4fa7-93df-9494e97d151a",
+            "state": "active",
+            "last_modified": "2012-05-18T15:49:40.168307",
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "79ed3993-76b2-4707-a519-37cf487393c6",
+            "size": "413854",
+            "id": "15e321eb-7308-457c-9d57-f3cdc422c399",
+            "resource_type": "example",
+            "name": "Example resource (Turtle)",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "1bf10d44-7b2b-4fa7-93df-9494e97d151a",
+            "cache_last_updated": null,
+            "revision_timestamp": "2012-05-29T08:26:03.894204",
+            "webstore_last_updated": "2012-05-23T14:28:55.061873",
+            "id": "060dbbd6-c104-4915-ac6b-8363ec4c3752",
+            "size": "5032",
+            "state": "active",
+            "hash": "493f64990bf88440038cf643d57fca12f5b8657c",
+            "description": "Void file in Turtle describing the main features of the datos.bne.es dataset.\r\n\r\nAcknowledgements:\r\n\r\nCreated using http://lab.linkeddata.deri.ie/ve2/ by @mhausenblas",
+            "format": "meta/void",
+            "tracking_summary": {
+                "total": 7,
+                "recent": 3
+            },
+            "mimetype_inner": "",
+            "mimetype": "application/octet-stream",
+            "cache_url": "",
+            "name": "bne.ttl",
+            "created": "2012-05-23T14:28:52.425830",
+            "url": "https://commondatastorage.googleapis.com/ckannet-storage/2012-05-23T142816/bne.ttl",
+            "webstore_url": "http://thedatahub.org/api/data/060dbbd6-c104-4915-ac6b-8363ec4c3752/",
+            "last_modified": "2012-05-23T14:28:53.729714",
+            "position": 2,
+            "revision_id": "a0df5bdf-e0a2-42a4-9537-74c40c0a3508",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "1bf10d44-7b2b-4fa7-93df-9494e97d151a",
+            "cache_last_updated": null,
+            "revision_timestamp": "2012-05-24T08:52:15.789606",
+            "webstore_last_updated": null,
+            "id": "4d2b4d5c-d7df-4b23-b067-2afea0c18e0d",
+            "size": "123466501",
+            "state": "active",
+            "hash": "",
+            "description": "",
+            "format": "bz2:nt",
+            "tracking_summary": {
+                "total": 11,
+                "recent": 5
+            },
+            "mimetype_inner": "",
+            "mimetype": "application/x-bzip2",
+            "cache_url": "",
+            "name": "Data dump of authority data in (N-Triples)",
+            "created": "2012-05-24T08:38:38.090965",
+            "url": "http://datos.bne.es/datadumps/aut091211.nt.bz2",
+            "webstore_url": "enabled",
+            "last_modified": "2011-12-12T01:14:32",
+            "position": 3,
+            "revision_id": "38dedb8e-eb50-4ea0-bf6a-2ed9bec4abc2",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "1bf10d44-7b2b-4fa7-93df-9494e97d151a",
+            "cache_last_updated": null,
+            "revision_timestamp": "2012-05-24T08:52:15.789606",
+            "webstore_last_updated": null,
+            "id": "9cb71f2e-1f96-4b0f-b281-8946ad5b94a2",
+            "size": "294805629",
+            "state": "active",
+            "hash": "",
+            "description": "",
+            "format": "bz2:nt",
+            "tracking_summary": {
+                "total": 9,
+                "recent": 3
+            },
+            "mimetype_inner": "",
+            "mimetype": "application/x-bzip2",
+            "cache_url": "",
+            "name": "Data dump of bibliographic data in (N-Triples)",
+            "created": "2012-05-24T08:38:38.090985",
+            "url": "http://datos.bne.es/datadumps/bib121211.nt.bz2",
+            "webstore_url": "enabled",
+            "last_modified": "2012-05-24T08:38:39.462045",
+            "position": 4,
+            "revision_id": "38dedb8e-eb50-4ea0-bf6a-2ed9bec4abc2",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "1bf10d44-7b2b-4fa7-93df-9494e97d151a",
+            "cache_last_updated": null,
+            "revision_timestamp": "2012-05-24T08:52:15.789606",
+            "webstore_last_updated": null,
+            "id": "bb29e8ff-5f39-418f-b049-689479ac440a",
+            "size": "3362744",
+            "state": "active",
+            "hash": "",
+            "description": "",
+            "format": "bz2:nt",
+            "tracking_summary": {
+                "total": 5,
+                "recent": 5
+            },
+            "mimetype_inner": "",
+            "mimetype": "application/x-bzip2",
+            "cache_url": "",
+            "name": "Data dump of owl:sameAs links to viaf.org",
+            "created": "2012-05-24T08:38:38.090992",
+            "url": "http://datos.bne.es/datadumps/links-viaf.nt.bz2",
+            "webstore_url": "enabled",
+            "last_modified": "2012-05-24T08:38:39.692851",
+            "position": 5,
+            "revision_id": "38dedb8e-eb50-4ea0-bf6a-2ed9bec4abc2",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "1bf10d44-7b2b-4fa7-93df-9494e97d151a",
+            "cache_last_updated": null,
+            "revision_timestamp": "2012-05-24T08:52:15.789606",
+            "webstore_last_updated": null,
+            "id": "45e8a139-0594-4e2c-a337-c6a6a5fd82a9",
+            "size": "1128526",
+            "state": "active",
+            "hash": "",
+            "description": "",
+            "format": "",
+            "tracking_summary": {
+                "total": 9,
+                "recent": 3
+            },
+            "mimetype_inner": "",
+            "mimetype": "application/x-bzip2",
+            "cache_url": "",
+            "name": "Data dump of owl:sameAs links to DBPedia, GND, Libris and Sudoc",
+            "created": "2012-05-24T08:38:38.090998",
+            "url": "http://datos.bne.es/datadumps/links-others.nt.bz2",
+            "url_error": "URL unobtainable",
+            "webstore_url": "enabled",
+            "last_modified": "2012-05-24T08:38:39.276834",
+            "position": 6,
+            "revision_id": "38dedb8e-eb50-4ea0-bf6a-2ed9bec4abc2",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 7,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "bibliographic",
+            "name": "bibliographic",
+            "revision_timestamp": "2012-02-02T14:10:56.865023",
+            "state": "active",
+            "id": "01d76f4d-6bf5-4cec-a2a8-59dc3f24ab2d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "cc0",
+            "name": "cc0",
+            "revision_timestamp": "2012-02-07T23:07:46.115411",
+            "state": "active",
+            "id": "c317d3df-654b-4695-b2ee-ea7326d00ded"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format.ifla",
+            "name": "format.ifla",
+            "revision_timestamp": "2012-02-02T14:10:56.865023",
+            "state": "active",
+            "id": "6a1a5b70-1f91-4bfb-932c-cd57bc58b9b7"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format.rdf",
+            "name": "format.rdf",
+            "revision_timestamp": "2012-02-02T14:10:56.865023",
+            "state": "active",
+            "id": "0a6f98a9-477b-41e3-bc12-abd1ec72da59"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2011-12-15T09:42:54.947095",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lodcloud",
+            "name": "lodcloud",
+            "revision_timestamp": "2011-12-12T19:14:36.042349",
+            "state": "active",
+            "id": "d12e8428-2d7b-4259-9c40-3886efb22a78"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2011-12-15T10:03:25.299056",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-proprietary-vocab",
+            "name": "no-proprietary-vocab",
+            "revision_timestamp": "2011-12-15T10:01:41.658160",
+            "state": "active",
+            "id": "aef04cb8-a7aa-4419-8184-396b0ef6e680"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "publications",
+            "name": "publications",
+            "revision_timestamp": "2011-12-15T09:42:54.947095",
+            "state": "active",
+            "id": "c93ebe8f-83a0-498c-8704-1de94db149e9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-producer",
+            "name": "published-by-producer",
+            "revision_timestamp": "2011-12-15T10:01:41.658160",
+            "state": "active",
+            "id": "fcdb5c0a-2b91-44cb-83e5-19fd0d81125c"
+        }
+    ],
+    "tracking_summary": {
+        "total": 914,
+        "recent": 38
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 10,
+    "name": "datos-bne-es",
+    "isopen": true,
+    "url": "http://datos.bne.es",
+    "notes": "Open bibliographic linked data from the Spanish National LIbrary including 4 million authority records, 2.4 million bibliographic records resulting in over 58 million triples.\r\n\r\nThe Spanish data are modelled using IFLA vocabularies.  For the migration and linkage, we used Marimba, a particular tool developed by us and designed for being used by librarians.\r\n\r\n### Data\r\n\r\n* 4 Million authority records\r\n* 2.4 million of bibliographic records\r\n* 58 million of RDF triples\r\n* 600K links with other resources (VIAF, SUDOC, GND (German national library), Libris, DBpedia)\r\n\r\nMore detail is provided at: <http://www.bne.es/es/Catalogos/DatosEnlazados/FuentesDatos/>\r\n\r\n> The data are taken from the catalog bibliographic and authority of the National Library of Spain. 3,900,000 have been extracted bibliographic resource records, papers belonging to modern, old, electronic resources, manuscripts, periodicals, maps, prints, photographs, printed music, sound and audiovisual recordings.\r\n> \r\n> Have also been extracted 4,200,000 authority records of persons, entities, conferences, uniform titles and subjects, which are used in bibliographic records. Both sets of records are coded according to the MARC21 format.\r\n> \r\n> So far it has become a very representative subset of the library catalog, consisting of 2.4 million bibliographic records of monographs modern formats, old printed music and sound recordings.",
+    "title": "datos.bne.es",
+    "extras": [
+        {
+            "value": "36431",
+            "key": "links:dbpedia",
+            "__extras": {
+                "revision_id": "8ff5a87a-03b2-4551-b4ab-0143d2fac39a",
+                "package_id": "78cd19c3-0f70-4f4b-a455-fdeeb95bf4fc"
+            }
+        },
+        {
+            "value": "76413",
+            "key": "links:dnb-gemeinsame-normdatei",
+            "__extras": {
+                "revision_id": "8ff5a87a-03b2-4551-b4ab-0143d2fac39a",
+                "package_id": "78cd19c3-0f70-4f4b-a455-fdeeb95bf4fc"
+            }
+        },
+        {
+            "value": "3112900",
+            "key": "links:lexvo",
+            "__extras": {
+                "revision_id": "455b6f92-9be8-4d2a-8dbc-7bdee2d03784",
+                "package_id": "78cd19c3-0f70-4f4b-a455-fdeeb95bf4fc"
+            }
+        },
+        {
+            "value": "10884",
+            "key": "links:libris",
+            "__extras": {
+                "package_id": "78cd19c3-0f70-4f4b-a455-fdeeb95bf4fc",
+                "revision_id": "1440fe49-5575-4e61-9b23-8c5c534044ed"
+            }
+        },
+        {
+            "value": "9725",
+            "key": "links:sudocfr",
+            "__extras": {
+                "package_id": "78cd19c3-0f70-4f4b-a455-fdeeb95bf4fc",
+                "revision_id": "8ff5a87a-03b2-4551-b4ab-0143d2fac39a"
+            }
+        },
+        {
+            "value": "454068",
+            "key": "links:viaf",
+            "__extras": {
+                "package_id": "78cd19c3-0f70-4f4b-a455-fdeeb95bf4fc",
+                "revision_id": "8ff5a87a-03b2-4551-b4ab-0143d2fac39a"
+            }
+        },
+        {
+            "value": "http://datos.bne.es/resource/",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "f18293c5-66b3-41b7-a7a3-1fac2af7df99",
+                "package_id": "78cd19c3-0f70-4f4b-a455-fdeeb95bf4fc"
+            }
+        },
+        {
+            "value": "58053215",
+            "key": "triples",
+            "__extras": {
+                "package_id": "78cd19c3-0f70-4f4b-a455-fdeeb95bf4fc",
+                "revision_id": "f18293c5-66b3-41b7-a7a3-1fac2af7df99"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "organization": {
+        "description": "Group for Library Linked Data\r\n\r\nPolicy described at: <a href=\"http://esw.w3.org/TaskForces/CommunityProjects/LinkedLibraryData/Datasets/CKANmetainformation\r\n\">http://esw.w3.org/TaskForces/CommunityProjects/LinkedLibraryData/Datasets/CKANmetainformation</a>\r\n\r\nCloud (partial) available at <a href=\"http://semantic.ckan.net/group/?group=http://ckan.net/group/lld\">http://semantic.ckan.net/group/?group=http://ckan.net/group/lld</a>. The brightly coloured circles represent the packages that are part of the LLD group. They grey circles represent packages that are connected to but are not members of this group (they typically are members of the general <a href=\"http://ckan.net/group/lod\">LOD Cloud</a> group). The size of the circles and the thickness of the lines are related to the size of the data and the number of outward links (logarithmic) respectively. ",
+        "title": "Library Linked Data",
+        "created": "2010-11-22T15:48:11.963288",
+        "approval_status": "approved",
+        "revision_timestamp": "2011-08-12T22:25:01.711856",
+        "is_organization": true,
+        "state": "active",
+        "image_url": null,
+        "revision_id": "2292e642-27e2-43e9-9673-879b29e4da19",
+        "type": "organization",
+        "id": "ed47c074-2073-48d3-b852-03b01bc70703",
+        "name": "lld"
+    },
+    "revision_id": "9f15dbee-43a2-4692-810c-7f519fd326ba",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": true,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

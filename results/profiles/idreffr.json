@@ -1,0 +1,257 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "Yann NICOLAS",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "nicolas@abes.fr",
+    "revision_timestamp": "2013-10-10T21:19:49.461505",
+    "id": "13e5145d-9072-42d8-9ab7-9642eb1c8829",
+    "metadata_created": "2011-07-05T10:25:14.814460",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T21:19:49.461505",
+    "author": "ABES",
+    "author_email": "apisudoc@abes.fr",
+    "state": "active",
+    "version": "",
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Paul Veyne's record in RDF/XML",
+            "format": "example/rdf+xml",
+            "url": "http://www.idref.fr/027182800.rdf",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 13,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-07-19T14:46:35.449406",
+            "webstore_url": null,
+            "resource_group_id": "3bf72862-a7fe-4260-ae41-611d6f14b0b1",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "55ca5b08-3bdd-4807-9642-2e90ee855768",
+            "size": "67105",
+            "id": "a63c6db9-0d92-44b3-ad5f-eb9eb28f6a1e",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": null,
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Paul Veyne's resource URI with 303 redirection",
+            "format": "uri",
+            "url": "http://www.idref.fr/027182800/id",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "revision_timestamp": "2011-07-05T10:25:14.814460",
+            "webstore_url": null,
+            "resource_group_id": "3bf72862-a7fe-4260-ae41-611d6f14b0b1",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "9c9917f6-97c6-47dc-b23f-17770ef97273",
+            "size": null,
+            "id": "49fffa65-6c24-4104-954a-b1f73bb7525b",
+            "resource_type": null,
+            "name": null
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "authority",
+            "name": "authority",
+            "revision_timestamp": "2011-07-05T10:25:14.814460",
+            "state": "active",
+            "id": "c7958de3-3cd8-4b31-8875-1656fad74e97"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "bibliographic",
+            "name": "bibliographic",
+            "revision_timestamp": "2011-07-05T10:25:14.814460",
+            "state": "active",
+            "id": "01d76f4d-6bf5-4cec-a2a8-59dc3f24ab2d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2011-07-20T21:06:00.786708",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "france",
+            "name": "france",
+            "revision_timestamp": "2011-07-05T10:25:14.814460",
+            "state": "active",
+            "id": "2309cc4f-f332-41b9-87f8-8f2dbb2f425c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "idref",
+            "name": "idref",
+            "revision_timestamp": "2011-07-05T10:25:14.814460",
+            "state": "active",
+            "id": "fc01072d-978e-4f42-a0d6-5ba17724a55f"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lld",
+            "name": "lld",
+            "revision_timestamp": "2011-07-05T14:09:42.225524",
+            "state": "active",
+            "id": "c1dea2c0-3fb8-47b8-9b37-c076756e6420"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2011-07-05T10:25:14.814460",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-proprietary-vocab",
+            "name": "no-proprietary-vocab",
+            "revision_timestamp": "2011-07-08T13:44:15.329744",
+            "state": "active",
+            "id": "aef04cb8-a7aa-4419-8184-396b0ef6e680"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "publications",
+            "name": "publications",
+            "revision_timestamp": "2011-07-08T13:44:15.329744",
+            "state": "active",
+            "id": "c93ebe8f-83a0-498c-8704-1de94db149e9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-producer",
+            "name": "published-by-producer",
+            "revision_timestamp": "2011-07-08T13:44:15.329744",
+            "state": "active",
+            "id": "fcdb5c0a-2b91-44cb-83e5-19fd0d81125c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "rdf",
+            "name": "rdf",
+            "revision_timestamp": "2011-07-05T10:25:14.814460",
+            "state": "active",
+            "id": "6ae4215c-a85b-457c-862b-5a8718b02c6f"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "sudoc",
+            "name": "sudoc",
+            "revision_timestamp": "2011-07-05T10:25:14.814460",
+            "state": "active",
+            "id": "c8daab6c-72d2-4220-bb85-4169b8a07cf2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "unioncatalogue",
+            "name": "unioncatalogue",
+            "revision_timestamp": "2011-07-05T10:25:14.814460",
+            "state": "active",
+            "id": "e9ad0987-02ad-404c-b2f2-8b1ebc921b6c"
+        }
+    ],
+    "tracking_summary": {
+        "total": 267,
+        "recent": 5
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 13,
+    "name": "idreffr",
+    "isopen": true,
+    "url": "http://punktokomo.abes.fr/2011/07/05/idref-des-pages-html-et-rdf-plus-riches/",
+    "notes": "Source : [IdRef](http://www.idref.fr)\r\n\r\nIdRef is a Web application dedicated to Sudoc authority data.\r\n[Sudoc](http://www.sudoc.abes.fr) is the French academic union catalogue, maintained by ABES.\r\nIdRef promotes the use of these authority data beyond Sudoc, in other French Higher Education applications.\r\n\r\nSize : more than 2 millions authority records\r\n\r\nVocabularies : Dublin Core, FOAF, BIBO, etc.\r\n\r\nLicensing : not yet, but will be as open as possible\r\n",
+    "title": "IdRef: Sudoc authority data",
+    "extras": [
+        {
+            "value": "25000",
+            "key": "links:FMeSH",
+            "__extras": {
+                "package_id": "13e5145d-9072-42d8-9ab7-9642eb1c8829",
+                "revision_id": "7f518286-6909-4b17-af5a-b641e7778dc1"
+            }
+        },
+        {
+            "value": "500000",
+            "key": "links:geonames-semantic-web",
+            "__extras": {
+                "revision_id": "025cd182-bdb0-44df-ae7e-9e41a2295f81",
+                "package_id": "13e5145d-9072-42d8-9ab7-9642eb1c8829"
+            }
+        },
+        {
+            "value": "600000",
+            "key": "links:lexvo",
+            "__extras": {
+                "revision_id": "324b3b3f-cd51-431e-afdf-51f883381e55",
+                "package_id": "13e5145d-9072-42d8-9ab7-9642eb1c8829"
+            }
+        },
+        {
+            "value": "20000000",
+            "key": "links:sudocfr",
+            "__extras": {
+                "package_id": "13e5145d-9072-42d8-9ab7-9642eb1c8829",
+                "revision_id": "176824bb-40ad-4781-a611-5e34a28460fb"
+            }
+        },
+        {
+            "value": "http://www.idref.fr/",
+            "key": "namespace",
+            "__extras": {
+                "package_id": "13e5145d-9072-42d8-9ab7-9642eb1c8829",
+                "revision_id": "456875f1-726f-410f-a4d1-8802a2dc5377"
+            }
+        },
+        {
+            "value": "20000000",
+            "key": "triples",
+            "__extras": {
+                "package_id": "13e5145d-9072-42d8-9ab7-9642eb1c8829",
+                "revision_id": "324b3b3f-cd51-431e-afdf-51f883381e55"
+            }
+        }
+    ],
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "5c815925-9f13-4701-bae0-c2f3e54108ff"
+}

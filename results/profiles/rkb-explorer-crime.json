@@ -1,0 +1,308 @@
+{
+    "license_title": "Open Government Licence 3.0 (United Kingdom)",
+    "maintainer": "EnAKTing Project",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-10T23:27:16.008912",
+    "id": "3a5eea1b-353d-46fc-886a-c70f6ad5f932",
+    "metadata_created": "2011-06-06T11:42:50.182074",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T23:27:16.008912",
+    "author": "Ian Millard",
+    "author_email": "",
+    "state": "active",
+    "version": "",
+    "license_id": "OGL-UK-3.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "text/html",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download source RDF files",
+            "format": "",
+            "url": "http://crime.rkbexplorer.com/models/",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 55,
+                "recent": 3
+            },
+            "revision_timestamp": "2013-05-22T12:27:28.781487",
+            "webstore_url": "",
+            "resource_group_id": "ee019623-4b73-446f-ac48-261653ccb8a3",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "c1e7ad79-24c8-4d29-bf05-472ea542f559",
+            "size": null,
+            "id": "9d61afcb-6317-4087-b9a9-561d2fade8dc",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "SPARQL endpoint",
+            "format": "api/sparql",
+            "url": "http://crime.rkbexplorer.com/sparql/",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 48,
+                "recent": 12
+            },
+            "revision_timestamp": "2013-05-22T12:27:28.781487",
+            "webstore_url": "",
+            "resource_group_id": "ee019623-4b73-446f-ac48-261653ccb8a3",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "c1e7ad79-24c8-4d29-bf05-472ea542f559",
+            "size": null,
+            "id": "4074c2fc-f5a1-438c-a8b3-22239cf7879a",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Example: individual crime report",
+            "format": "example/rdf+xml",
+            "url": "http://crime.rkbexplorer.com/id/2010-12/hampshire-constabulary/9999",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 31,
+                "recent": 5
+            },
+            "revision_timestamp": "2013-05-22T12:27:28.781487",
+            "webstore_url": "",
+            "resource_group_id": "ee019623-4b73-446f-ac48-261653ccb8a3",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "c1e7ad79-24c8-4d29-bf05-472ea542f559",
+            "size": null,
+            "id": "c0e6e67f-cb4e-4945-b9cf-f73c6ed53bea",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Example: ward level aggregate",
+            "format": "example/rdf+xml",
+            "url": "http://crime.rkbexplorer.com/id/2010-12-7000000000017583-all-crime",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 8,
+                "recent": 6
+            },
+            "revision_timestamp": "2013-05-22T12:27:28.781487",
+            "webstore_url": "",
+            "resource_group_id": "ee019623-4b73-446f-ac48-261653ccb8a3",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 3,
+            "revision_id": "c1e7ad79-24c8-4d29-bf05-472ea542f559",
+            "size": null,
+            "id": "ebcc3532-2c51-476b-8508-9810cd370fa3",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 4,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "aggregates",
+            "name": "aggregates",
+            "revision_timestamp": "2011-06-06T11:42:50.182074",
+            "state": "active",
+            "id": "6f4b18d8-27a8-4a6d-82f0-7f854811ca76"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "counties",
+            "name": "counties",
+            "revision_timestamp": "2011-06-06T11:42:50.182074",
+            "state": "active",
+            "id": "b31b44d6-670d-4fb5-9d9d-1052370ae202"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "crime",
+            "name": "crime",
+            "revision_timestamp": "2011-06-06T11:42:50.182074",
+            "state": "active",
+            "id": "de03f8e8-fdf6-413c-adb8-febc99376095"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "crime-statistics",
+            "name": "crime-statistics",
+            "revision_timestamp": "2011-06-06T11:42:50.182074",
+            "state": "active",
+            "id": "7c682ec9-a6c8-4178-a2b8-43fefc2b8d8c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2011-08-10T08:50:43.633010",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "geographic",
+            "name": "geographic",
+            "revision_timestamp": "2011-06-06T11:42:50.182074",
+            "state": "active",
+            "id": "dc08d94b-fbac-4bfc-92f0-94bee5fd546a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "government",
+            "name": "government",
+            "revision_timestamp": "2011-08-07T06:40:19.484857",
+            "state": "active",
+            "id": "22fddbd6-8780-4ce0-826f-e41efdc36688"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "linked-open-data",
+            "name": "linked-open-data",
+            "revision_timestamp": "2011-06-06T11:42:50.182074",
+            "state": "active",
+            "id": "47b4d11b-416f-4eb8-9cb1-00c29fac1711"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "linkeddata",
+            "name": "linkeddata",
+            "revision_timestamp": "2011-08-07T06:40:58.789166",
+            "state": "active",
+            "id": "7b2b43f4-096d-4367-b702-e1d1a8442664"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2011-08-07T06:40:19.484857",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "opendatachallenge",
+            "name": "opendatachallenge",
+            "revision_timestamp": "2011-06-06T11:42:50.182074",
+            "state": "active",
+            "id": "185f4b83-3f52-4b66-81b1-b7f45fa0e6d0"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2011-08-10T08:50:43.633010",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "rdf",
+            "name": "rdf",
+            "revision_timestamp": "2011-08-07T06:40:19.484857",
+            "state": "active",
+            "id": "6ae4215c-a85b-457c-862b-5a8718b02c6f"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "wards",
+            "name": "wards",
+            "revision_timestamp": "2011-06-06T11:42:50.182074",
+            "state": "active",
+            "id": "3d10a9cd-82cf-4e8c-b6ee-2b6c7caa111d"
+        }
+    ],
+    "tracking_summary": {
+        "total": 685,
+        "recent": 9
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 14,
+    "name": "rkb-explorer-crime",
+    "isopen": true,
+    "url": "http://crime.rkbexplorer.com/",
+    "notes": "The data presented here is a linked data representation of the street-level crime reports first released for England and Wales in 2011.\r\n\r\nInitial data exports cover December 2010, with monthly updates added when available, usually released one to two months in arrears.\r\n\r\nEntries exist for each individual crime report. These have been enriched by linking to the nearest postcode for the position at which the crime was reported, which hooks you into the Ordnance Survey administrative geography dataset.\r\n\r\nIn addition, aggregate statistics have been computed for each crime type at Ward, County and European Region level. These include not only cumulative values for these regions, appropriately identified in the OS dataset, but also include densities by area and population. These statistics are extensively used in the See UK application.",
+    "title": "Street level crime reports for England and Wales",
+    "extras": [
+        {
+            "value": "684394",
+            "key": "links:ordnance-survey-linked-data",
+            "__extras": {
+                "package_id": "3a5eea1b-353d-46fc-886a-c70f6ad5f932",
+                "revision_id": "1dca4c7c-9f37-4f9c-9ed4-e555a6056900"
+            }
+        },
+        {
+            "value": "http://crime.rkbexplorer.com/id/",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "c1e7ad79-24c8-4d29-bf05-472ea542f559",
+                "package_id": "3a5eea1b-353d-46fc-886a-c70f6ad5f932"
+            }
+        },
+        {
+            "value": "7780271",
+            "key": "triples",
+            "__extras": {
+                "revision_id": "15c72864-dd08-4dc9-97ce-2919f67e4ce5",
+                "package_id": "3a5eea1b-353d-46fc-886a-c70f6ad5f932"
+            }
+        }
+    ],
+    "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "d79967f8-7796-444e-b6f9-14cd018ac1d7",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": true,
+        "family": "",
+        "is_generic": false,
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "UK Government",
+        "status": "active"
+    }
+}

@@ -1,0 +1,248 @@
+{
+    "license_title": "Other (Attribution)",
+    "maintainer": "The British Museum",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-10T20:05:36.106374",
+    "id": "125a3a2a-a0fe-4086-a794-192873562cd7",
+    "metadata_created": "2011-09-30T14:55:44.941715",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T20:05:36.106374",
+    "author": "Dominic Oldman",
+    "author_email": "doldman@britishmuseum.org",
+    "state": "active",
+    "version": "",
+    "license_id": "other-at",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "SPARQL endpoint",
+            "format": "api/sparql",
+            "url": "http://collection.britishmuseum.org/Sparql",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 11,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-12-05T12:14:49.429624",
+            "webstore_url": null,
+            "resource_group_id": "2f78f4a0-fde7-4652-9e4e-dd600ade03c0",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "666b49ef-bbdc-47d0-8e07-f3dd0c4cd7a1",
+            "size": null,
+            "id": "8246d58c-31d1-4d20-8548-c32bcfb666e9",
+            "resource_type": "api",
+            "name": ""
+        },
+        {
+            "mimetype": "",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Example (RDF/XML)",
+            "format": "example/rdf+xml",
+            "url": "http://collection.britishmuseum.org/description/object/EAF119791.rdf",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 23,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-12-05T12:14:49.429624",
+            "webstore_url": null,
+            "resource_group_id": "2f78f4a0-fde7-4652-9e4e-dd600ade03c0",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "666b49ef-bbdc-47d0-8e07-f3dd0c4cd7a1",
+            "size": null,
+            "id": "dca6fba2-4db4-4d30-a99a-8bfd558d7fe4",
+            "resource_type": "file",
+            "name": "Object EAF119791"
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "cultural",
+            "name": "cultural",
+            "revision_timestamp": "2011-09-30T15:06:31.691922",
+            "state": "active",
+            "id": "7c29bf28-75ef-4441-b859-21f8361d6d40"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "culturalheritage",
+            "name": "culturalheritage",
+            "revision_timestamp": "2011-09-30T15:06:31.691922",
+            "state": "active",
+            "id": "b3c17860-fd17-48ea-948b-4b7c5f1e09f2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2011-12-05T12:36:54.575572",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-cidoc-crm",
+            "name": "format-cidoc-crm",
+            "revision_timestamp": "2011-12-05T12:14:49.429624",
+            "state": "active",
+            "id": "8ae6cdb8-f4ff-4e24-aec7-757fc2eb6015"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-foaf",
+            "name": "format-foaf",
+            "revision_timestamp": "2011-12-05T19:41:37.674093",
+            "state": "active",
+            "id": "bd737030-1ba6-4913-baaa-bfa2581618b5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2011-12-05T12:39:48.516917",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-skos",
+            "name": "format-skos",
+            "revision_timestamp": "2011-12-05T19:41:37.674093",
+            "state": "active",
+            "id": "4d405572-6308-41ed-a021-1990e618a626"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2011-10-04T20:13:12.135362",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lodcloud.candidate",
+            "name": "lodcloud.candidate",
+            "revision_timestamp": "2011-10-04T20:13:12.135362",
+            "state": "active",
+            "id": "876d816f-3021-4554-9f03-874ea3a5575f"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2011-12-05T12:36:54.575572",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-provenance-metadata",
+            "name": "no-provenance-metadata",
+            "revision_timestamp": "2011-12-05T12:36:54.575572",
+            "state": "active",
+            "id": "585e9fca-2d67-4a07-b9d1-5495de054c7a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-vocab-mappings",
+            "name": "no-vocab-mappings",
+            "revision_timestamp": "2011-12-05T12:36:54.575572",
+            "state": "active",
+            "id": "e51273d8-dc60-4cf2-a68d-3cfd33b2c1fc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "publications",
+            "name": "publications",
+            "revision_timestamp": "2011-12-05T12:39:48.516917",
+            "state": "active",
+            "id": "c93ebe8f-83a0-498c-8704-1de94db149e9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-producer",
+            "name": "published-by-producer",
+            "revision_timestamp": "2011-12-05T12:36:54.575572",
+            "state": "active",
+            "id": "fcdb5c0a-2b91-44cb-83e5-19fd0d81125c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "sparql",
+            "name": "sparql",
+            "revision_timestamp": "2011-10-04T20:13:12.135362",
+            "state": "active",
+            "id": "a86ffe1a-683e-4daf-afa3-0762a3a8e63f"
+        }
+    ],
+    "tracking_summary": {
+        "total": 281,
+        "recent": 20
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 15,
+    "name": "british-museum-collection",
+    "isopen": true,
+    "url": "http://collection.britishmuseum.org",
+    "notes": "Welcome to this Linked Data and SPARQL service. It provides access to the same collection data available through the Museum’s web presented Collection Online, but in a computer readable format. The use of the W3C open data standard, RDF, allows the Museum’s collection data to join and relate to a growing body of linked data published by other organisations around the world interested in promoting accessibility and collaboration.\r\n\r\nThe data has also been organised using the CIDOC-CRM (Conceptual Reference Model) crucial for harmonising with other cultural heritage data. The current version is beta and development work continues to improve the service. We hope that the service will be used by the community to develop friendly web applications that are freely available to the community. \r\n\r\nLicence available at http://collection.britishmuseum.org/Licensing",
+    "title": "British Museum Collection",
+    "extras": [
+        {
+            "value": "http://collection.britishmuseum.org/Licensing",
+            "key": "licence_link",
+            "__extras": {
+                "package_id": "125a3a2a-a0fe-4086-a794-192873562cd7",
+                "revision_id": "07a62f25-08d3-49c2-a916-ebd67d0c6c5e"
+            }
+        },
+        {
+            "value": "http://collection.britishmuseum.org/id/",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "666b49ef-bbdc-47d0-8e07-f3dd0c4cd7a1",
+                "package_id": "125a3a2a-a0fe-4086-a794-192873562cd7"
+            }
+        },
+        {
+            "value": "105635648",
+            "key": "triples",
+            "__extras": {
+                "revision_id": "b732bd9c-d8a9-4948-a80c-b344f9947a62",
+                "package_id": "125a3a2a-a0fe-4086-a794-192873562cd7"
+            }
+        }
+    ],
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "9af148d5-6c31-4244-892b-f3818be53117"
+}

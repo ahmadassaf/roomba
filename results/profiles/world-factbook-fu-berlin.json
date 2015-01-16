@@ -1,0 +1,252 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-11T00:16:27.052583",
+    "id": "375c6648-25fc-4a5d-9244-57991ab9b299",
+    "metadata_created": "2010-07-28T00:03:30.033510",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-11T00:16:27.052583",
+    "author": "Christian Bizer",
+    "author_email": "christian.bizer@fu-berlin.de",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "SPARQL endpoint",
+            "format": "api/sparql",
+            "url": "http://www4.wiwiss.fu-berlin.de/factbook/sparql",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 93,
+                "recent": 7
+            },
+            "revision_timestamp": "2010-07-28T00:03:30.033510",
+            "webstore_url": null,
+            "resource_group_id": "0eb21deb-9de9-8bc8-c2f5-aaf7cfed36cf",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "28d1d40f-d7b0-49a4-ae7c-8c2e68af5d7f",
+            "size": null,
+            "id": "d60602a3-cea5-4207-b6fb-79a11d204838",
+            "resource_type": null,
+            "name": null
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Example resource",
+            "format": "example/rdf+xml",
+            "url": "http://www4.wiwiss.fu-berlin.de/factbook/resource/Akrotiri",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 59,
+                "recent": 7
+            },
+            "revision_timestamp": "2011-07-20T08:52:22.571258",
+            "webstore_url": null,
+            "resource_group_id": "0eb21deb-9de9-8bc8-c2f5-aaf7cfed36cf",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "f4744b6d-7be5-470d-b78f-27ca416d15b6",
+            "size": "24624",
+            "id": "5f4eff00-c6ef-4da4-9a81-89e9ff17809c",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/turtle",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Download all",
+            "format": "application/rdf+xml",
+            "url": "http://www4.wiwiss.fu-berlin.de/factbook/all",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 68,
+                "recent": 6
+            },
+            "revision_timestamp": "2011-07-20T08:55:22.141439",
+            "webstore_url": null,
+            "resource_group_id": "0eb21deb-9de9-8bc8-c2f5-aaf7cfed36cf",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "44762956-4992-4bcf-a81e-f855bfafc096",
+            "size": "455",
+            "id": "e6f5e56f-3487-4e20-a2cf-bec48b1d37f9",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 3,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "accident-statistics",
+            "name": "accident-statistics",
+            "revision_timestamp": "2011-07-20T08:52:22.571258",
+            "state": "active",
+            "id": "b4c34525-9685-4a58-a151-28ccf6131fbf"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "country",
+            "name": "country",
+            "revision_timestamp": "2010-07-28T00:03:30.033510",
+            "state": "active",
+            "id": "f20ee2f6-45b0-4c93-ac0c-4e17a998db4f"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2010-10-06T17:55:38.863599",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-factbook",
+            "name": "format-factbook",
+            "revision_timestamp": "2011-07-20T21:24:45.640373",
+            "state": "active",
+            "id": "efd6d363-b883-4de5-b4a4-a2bc77cca7c3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2010-07-28T00:03:30.033510",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "geographic",
+            "name": "geographic",
+            "revision_timestamp": "2010-10-06T17:55:38.863599",
+            "state": "active",
+            "id": "dc08d94b-fbac-4bfc-92f0-94bee5fd546a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2011-07-20T08:52:22.571258",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lodcloud.nolinks",
+            "name": "lodcloud.nolinks",
+            "revision_timestamp": "2011-08-10T12:51:11.171437",
+            "state": "active",
+            "id": "ce89d5e1-b216-44ba-9603-d13fa7b248c4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2010-10-06T17:55:38.863599",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-provenance-metadata",
+            "name": "no-provenance-metadata",
+            "revision_timestamp": "2010-10-06T17:55:38.863599",
+            "state": "active",
+            "id": "585e9fca-2d67-4a07-b9d1-5495de054c7a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-vocab-mappings",
+            "name": "no-vocab-mappings",
+            "revision_timestamp": "2010-10-06T17:58:19.916700",
+            "state": "active",
+            "id": "e51273d8-dc60-4cf2-a68d-3cfd33b2c1fc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2010-10-06T17:55:38.863599",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        }
+    ],
+    "tracking_summary": {
+        "total": 1222,
+        "recent": 66
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 12,
+    "name": "world-factbook-fu-berlin",
+    "isopen": false,
+    "url": "http://www4.wiwiss.fu-berlin.de/factbook/",
+    "notes": "A partial RDF conversion of the CIA World Factbook, package:cia-world-factbook.",
+    "title": "World Factbook (FU Berlin)",
+    "extras": [
+        {
+            "value": "http://www4.wiwiss.fu-berlin.de/factbook/resource/",
+            "key": "namespace",
+            "__extras": {
+                "package_id": "375c6648-25fc-4a5d-9244-57991ab9b299",
+                "revision_id": "9d00c312-20fb-4d4a-874f-dc9ac2cd8e05"
+            }
+        },
+        {
+            "value": "World Factbook",
+            "key": "shortname",
+            "__extras": {
+                "revision_id": "28d1d40f-d7b0-49a4-ae7c-8c2e68af5d7f",
+                "package_id": "375c6648-25fc-4a5d-9244-57991ab9b299"
+            }
+        },
+        {
+            "value": "38640",
+            "key": "triples",
+            "__extras": {
+                "revision_id": "28d1d40f-d7b0-49a4-ae7c-8c2e68af5d7f",
+                "package_id": "375c6648-25fc-4a5d-9244-57991ab9b299"
+            }
+        }
+    ],
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "a38bbbfc-8c73-45b2-bcf6-36fc03c3101f"
+}

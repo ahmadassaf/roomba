@@ -1,0 +1,263 @@
+{
+    "license_title": "Creative Commons Attribution 4.0",
+    "maintainer": "LinkedGeoData Team",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "linked-geo-data@googlegroups.com",
+    "revision_timestamp": "2013-10-10T22:20:47.057973",
+    "id": "c880ddf4-c1d4-4296-bb39-9be49af073e9",
+    "metadata_created": "2010-07-26T18:30:52.525700",
+    "owner_org": "7f8fe932-8eb0-430f-955b-e07dc1eadf17",
+    "metadata_modified": "2013-10-10T22:20:47.057973",
+    "author": "Universität Leipzig",
+    "author_email": "",
+    "state": "active",
+    "version": "2010-07",
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Download",
+            "format": "",
+            "url": "http://downloads.linkedgeodata.org/",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 79,
+                "recent": 3
+            },
+            "revision_timestamp": "2010-07-26T18:30:52.525700",
+            "webstore_url": null,
+            "resource_group_id": "645556b7-078c-4312-e809-cb046428ae0f",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "3278b4a3-3e18-4c30-9845-5a94a03f8543",
+            "size": null,
+            "id": "2464eb08-761e-4709-95e7-72385a221b8b",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "SPARQL endpoint",
+            "format": "api/sparql",
+            "url": "http://linkedgeodata.org/sparql/",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 79,
+                "recent": 3
+            },
+            "revision_timestamp": "2010-09-30T19:46:25.864233",
+            "webstore_url": null,
+            "resource_group_id": "645556b7-078c-4312-e809-cb046428ae0f",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "1a80cb1a-0966-4b91-923c-3777632aaadd",
+            "size": "9969",
+            "id": "25af0ce6-1452-4d6d-b39e-3d057327d28f",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": null,
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Example ressource (rdf)",
+            "format": "example/rdf+xml",
+            "url": "http://linkedgeodata.org/page/node302066361.rdf",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 62,
+                "recent": 7
+            },
+            "revision_timestamp": "2011-07-21T13:32:42.522314",
+            "webstore_url": null,
+            "resource_group_id": "645556b7-078c-4312-e809-cb046428ae0f",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "c44c8b6d-5635-4806-aca1-1e3df030a934",
+            "size": null,
+            "id": "a3716466-d11b-43db-99e4-74fe73d87ffe",
+            "resource_type": null,
+            "name": null
+        }
+    ],
+    "num_resources": 3,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2010-10-07T11:09:50.671425",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-geo",
+            "name": "format-geo",
+            "revision_timestamp": "2010-10-07T11:09:50.671425",
+            "state": "active",
+            "id": "16f204d1-2004-4b26-97c9-93a8e42cc506"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-georss",
+            "name": "format-georss",
+            "revision_timestamp": "2010-10-07T11:09:50.671425",
+            "state": "active",
+            "id": "2e5b2d1a-0dd9-420e-be5e-eb871d7e458e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2010-07-26T18:30:52.525700",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "geographic",
+            "name": "geographic",
+            "revision_timestamp": "2010-09-07T09:47:04.404749",
+            "state": "active",
+            "id": "dc08d94b-fbac-4bfc-92f0-94bee5fd546a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2010-07-26T18:30:52.525700",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2010-10-07T11:09:50.671425",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-provenance-metadata",
+            "name": "no-provenance-metadata",
+            "revision_timestamp": "2010-10-07T11:09:50.671425",
+            "state": "active",
+            "id": "585e9fca-2d67-4a07-b9d1-5495de054c7a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-vocab-mappings",
+            "name": "no-vocab-mappings",
+            "revision_timestamp": "2010-10-07T11:09:50.671425",
+            "state": "active",
+            "id": "e51273d8-dc60-4cf2-a68d-3cfd33b2c1fc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2010-10-07T11:09:50.671425",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "sparql",
+            "name": "sparql",
+            "revision_timestamp": "2010-07-26T18:30:52.525700",
+            "state": "active",
+            "id": "a86ffe1a-683e-4daf-afa3-0762a3a8e63f"
+        }
+    ],
+    "tracking_summary": {
+        "total": 1819,
+        "recent": 48
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 11,
+    "name": "linkedgeodata",
+    "isopen": true,
+    "url": "http://linkedgeodata.org/",
+    "notes": "LinkedGeoData is an effort to add a spatial dimension to the Web of Data / Semantic Web. LinkedGeoData uses the information collected by the OpenStreetMap project and makes it available as an RDF knowledge base according to the Linked Data principles. It interlinks this data with other knowledge bases in the Linking Open Data initiative.",
+    "title": "LinkedGeoData",
+    "extras": [
+        {
+            "value": "53024",
+            "key": "links:dbpedia",
+            "__extras": {
+                "package_id": "c880ddf4-c1d4-4296-bb39-9be49af073e9",
+                "revision_id": "05951b4a-c2f2-4413-871b-7c52bb35bafa"
+            }
+        },
+        {
+            "value": "http://linkedgeodata.org/",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "08cb9f90-f630-483b-ae5a-7cb906780fc2",
+                "package_id": "c880ddf4-c1d4-4296-bb39-9be49af073e9"
+            }
+        },
+        {
+            "value": "http://linkedgeodata.org/",
+            "key": "sparql_graph_name",
+            "__extras": {
+                "revision_id": "3278b4a3-3e18-4c30-9845-5a94a03f8543",
+                "package_id": "c880ddf4-c1d4-4296-bb39-9be49af073e9"
+            }
+        },
+        {
+            "value": "3000000000",
+            "key": "triples",
+            "__extras": {
+                "package_id": "c880ddf4-c1d4-4296-bb39-9be49af073e9",
+                "revision_id": "05951b4a-c2f2-4413-871b-7c52bb35bafa"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "organization": {
+        "description": "Data sets produced, published and/or hosted by LOD2: http://lod2.eu/\r\nThis also includes data sets that were partially improved such as DBpedia,",
+        "title": "LOD2 EU Project",
+        "created": "2012-09-26T12:07:54.131247",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-09-26T17:10:25.471815",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://www.semantic-web.at/newsletter/lod2/logo.png",
+        "revision_id": "cf8345df-8e27-4f63-9ad0-90ffeff0477f",
+        "type": "organization",
+        "id": "7f8fe932-8eb0-430f-955b-e07dc1eadf17",
+        "name": "lod2-eu-project"
+    },
+    "revision_id": "7f143f11-93ac-4c41-97fb-53be102fda79",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

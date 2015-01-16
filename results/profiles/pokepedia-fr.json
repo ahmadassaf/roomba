@@ -1,0 +1,253 @@
+{
+    "license_title": "Creative Commons Attribution-NonCommercial 4.0",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-10T23:18:41.111229",
+    "id": "6e3211ee-81ac-4541-b3df-c7897f361eb5",
+    "metadata_created": "2010-09-06T14:50:30.994002",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T23:18:41.111229",
+    "author": "Poképédia",
+    "author_email": "misdre pokepedia@gmail.com",
+    "state": "active",
+    "version": "2010-09 (0.2)",
+    "license_id": "CC-BY-NC-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "application/x-gzip",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Download",
+            "format": "application/rdf+xml",
+            "url": "http://data.pokepedia.fr/dumps/pokepedia-fr_rdfdump.tar.gz",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 17,
+                "recent": 3
+            },
+            "revision_timestamp": "2010-09-27T18:07:40.466239",
+            "webstore_url": null,
+            "resource_group_id": "f83c032d-22f5-99f4-1de1-24f8e3a37429",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "a717e284-5581-4b24-9091-f69fb9c25168",
+            "size": "1224706",
+            "id": "e0da2a49-7dcb-4609-bae2-0c387aa39f48",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/xml",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Example (RDF/XML)",
+            "format": "example/rdf+xml",
+            "url": "http://www.pokepedia.fr/index.php/Spécial:ExportRDF/Bulbizarre",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 15,
+                "recent": 5
+            },
+            "revision_timestamp": "2010-09-27T18:07:40.466239",
+            "webstore_url": null,
+            "resource_group_id": "f83c032d-22f5-99f4-1de1-24f8e3a37429",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "a717e284-5581-4b24-9091-f69fb9c25168",
+            "size": null,
+            "id": "90b3fbeb-77df-4279-8fc4-df47d9399925",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2010-10-07T09:57:21.365191",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2010-09-10T15:29:10.418020",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2010-09-06T14:50:30.994002",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "media",
+            "name": "media",
+            "revision_timestamp": "2010-09-08T05:56:30.538574",
+            "state": "active",
+            "id": "e9d8b0c1-d68c-4020-a45d-1f46463d8f14"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2010-10-07T09:57:21.365191",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-provenance-metadata",
+            "name": "no-provenance-metadata",
+            "revision_timestamp": "2010-10-07T09:57:21.365191",
+            "state": "active",
+            "id": "585e9fca-2d67-4a07-b9d1-5495de054c7a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-vocab-mappings",
+            "name": "no-vocab-mappings",
+            "revision_timestamp": "2010-10-07T09:57:21.365191",
+            "state": "active",
+            "id": "e51273d8-dc60-4cf2-a68d-3cfd33b2c1fc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "pokemon",
+            "name": "pokemon",
+            "revision_timestamp": "2010-09-06T14:50:30.994002",
+            "state": "active",
+            "id": "9ff0d656-c5fb-4f6a-ad6b-808b147f6698"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "pokémon",
+            "name": "pokémon",
+            "revision_timestamp": "2010-09-06T14:50:30.994002",
+            "state": "active",
+            "id": "f6ca5bd1-c804-435a-aecb-8ea9d8777e6d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-producer",
+            "name": "published-by-producer",
+            "revision_timestamp": "2010-10-07T09:57:21.365191",
+            "state": "active",
+            "id": "fcdb5c0a-2b91-44cb-83e5-19fd0d81125c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "smw",
+            "name": "smw",
+            "revision_timestamp": "2010-09-10T15:29:10.418020",
+            "state": "active",
+            "id": "4f5932bf-f9f1-4f1a-bebc-bf2ed40192f2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "wiki",
+            "name": "wiki",
+            "revision_timestamp": "2010-09-10T15:29:10.418020",
+            "state": "active",
+            "id": "cc3e501b-4f62-42e6-b10d-3232367b7dd3"
+        }
+    ],
+    "tracking_summary": {
+        "total": 767,
+        "recent": 25
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 12,
+    "name": "pokepedia-fr",
+    "isopen": false,
+    "url": "http://www.pokepedia.fr",
+    "notes": "Linked data on all Pokemon franchise",
+    "title": "Poképédia",
+    "extras": [
+        {
+            "value": "http://www.pokepedia.fr/index.php/Poképédia:Conditions_d'utilisation",
+            "key": "license_link",
+            "__extras": {
+                "package_id": "6e3211ee-81ac-4541-b3df-c7897f361eb5",
+                "revision_id": "c694191f-7da9-4292-b982-51adcfc4385d"
+            }
+        },
+        {
+            "value": "510",
+            "key": "links:data-incubator-pokedex",
+            "__extras": {
+                "revision_id": "bc2c621d-bd0d-4a46-9de6-1e2b79435778",
+                "package_id": "6e3211ee-81ac-4541-b3df-c7897f361eb5"
+            }
+        },
+        {
+            "value": "493",
+            "key": "links:dbpedia",
+            "__extras": {
+                "revision_id": "bc2c621d-bd0d-4a46-9de6-1e2b79435778",
+                "package_id": "6e3211ee-81ac-4541-b3df-c7897f361eb5"
+            }
+        },
+        {
+            "value": "http://www.pokepedia.fr/index.php/",
+            "key": "namespace",
+            "__extras": {
+                "package_id": "6e3211ee-81ac-4541-b3df-c7897f361eb5",
+                "revision_id": "0baa100d-5567-4d63-9e53-e8ef1ad3b129"
+            }
+        },
+        {
+            "value": "115150",
+            "key": "triples",
+            "__extras": {
+                "package_id": "6e3211ee-81ac-4541-b3df-c7897f361eb5",
+                "revision_id": "bc2c621d-bd0d-4a46-9de6-1e2b79435778"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "fc3df45a-e1b7-410c-872d-484efd8955b6",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "Creative Commons",
+        "od_conformance": "rejected",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

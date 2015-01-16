@@ -1,0 +1,376 @@
+{
+    "license_title": "CC0 1.0",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-10T23:43:26.560462",
+    "id": "b3fbae72-9b2d-4f67-9847-574356a6cd58",
+    "metadata_created": "2010-09-02T20:24:12.708812",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2014-08-18T15:07:14.877699",
+    "author": "ECS /  Southampton University",
+    "author_email": "webmaster@ecs.soton.ac.uk",
+    "state": "active",
+    "version": "",
+    "license_id": "CC0-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "voID Description",
+            "format": "meta/void",
+            "url": "http://eprints.ecs.soton.ac.uk/id/repository",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 7,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-01-26T09:59:00.345024",
+            "webstore_url": null,
+            "resource_group_id": "288d486b-8c9e-e3a5-1e98-cb1748a526c0",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "6f897866-340d-4b23-b794-567e535378c8",
+            "size": null,
+            "id": "a7b9f00d-8287-48f9-bc3a-9fb3b8baf3c2",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download (RDF/XML)",
+            "format": "application/rdf+xml",
+            "url": "http://eprints.ecs.soton.ac.uk/id/dump",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 13,
+                "recent": 3
+            },
+            "revision_timestamp": "2014-08-18T15:07:14.877699",
+            "webstore_url": null,
+            "resource_group_id": "288d486b-8c9e-e3a5-1e98-cb1748a526c0",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "cdd03c6a-5840-4727-b7a1-479b21703d59",
+            "size": null,
+            "id": "a63d652f-33c0-41bd-b6b4-3b4a306f46f9",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Example resource",
+            "format": "example/ntriples",
+            "url": "http://eprints.ecs.soton.ac.uk/id/eprint/22587",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 9,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-01-26T09:59:00.345024",
+            "webstore_url": null,
+            "resource_group_id": "288d486b-8c9e-e3a5-1e98-cb1748a526c0",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "6f897866-340d-4b23-b794-567e535378c8",
+            "size": null,
+            "id": "a80b5dc2-b2e9-4c4a-a443-e24c213a0e98",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 3,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "computer-science",
+            "name": "computer-science",
+            "revision_timestamp": "2010-09-02T20:24:12.708812",
+            "state": "active",
+            "id": "23a6e182-0f5a-4b20-9e64-db51c69397b4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2010-10-07T08:45:27.487898",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "electronics",
+            "name": "electronics",
+            "revision_timestamp": "2010-09-02T20:24:12.708812",
+            "state": "active",
+            "id": "4629a00e-c419-4a78-a8c0-49095c6746be"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eprints",
+            "name": "eprints",
+            "revision_timestamp": "2010-09-02T20:24:12.708812",
+            "state": "active",
+            "id": "a04b9690-1bab-4bda-8370-3ef2871594ad"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-bibo",
+            "name": "format-bibo",
+            "revision_timestamp": "2010-09-02T20:24:12.708812",
+            "state": "active",
+            "id": "4bbb2986-6e54-43b6-9dba-b55b0e3bdd60"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-cc",
+            "name": "format-cc",
+            "revision_timestamp": "2010-10-05T15:04:51.142685",
+            "state": "active",
+            "id": "e1f4979f-716a-4997-bec8-8b08f20c6b40"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-dc",
+            "name": "format-dc",
+            "revision_timestamp": "2010-10-05T15:04:51.142685",
+            "state": "active",
+            "id": "0b675a54-621f-4fdb-850a-ef5d0b1b1ca3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-ecs",
+            "name": "format-ecs",
+            "revision_timestamp": "2010-10-05T15:04:51.142685",
+            "state": "active",
+            "id": "ba915eed-edab-4b18-a31d-4440105805a1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-event",
+            "name": "format-event",
+            "revision_timestamp": "2010-10-05T15:04:51.142685",
+            "state": "active",
+            "id": "766ed801-2d88-4f40-9ee8-c552c889998b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-foaf",
+            "name": "format-foaf",
+            "revision_timestamp": "2010-10-05T15:04:51.142685",
+            "state": "active",
+            "id": "bd737030-1ba6-4913-baaa-bfa2581618b5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-geo",
+            "name": "format-geo",
+            "revision_timestamp": "2010-10-05T15:04:51.142685",
+            "state": "active",
+            "id": "16f204d1-2004-4b26-97c9-93a8e42cc506"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-owl",
+            "name": "format-owl",
+            "revision_timestamp": "2010-10-05T15:04:51.142685",
+            "state": "active",
+            "id": "b88f7bba-f82e-49b2-9672-4cca65e040de"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2010-09-10T14:59:28.259443",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdfs",
+            "name": "format-rdfs",
+            "revision_timestamp": "2010-10-05T15:04:51.142685",
+            "state": "active",
+            "id": "781902f8-ba13-4330-bba3-54d0bbf24b58"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-skos",
+            "name": "format-skos",
+            "revision_timestamp": "2010-10-05T15:04:51.142685",
+            "state": "active",
+            "id": "4d405572-6308-41ed-a021-1990e618a626"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-void",
+            "name": "format-void",
+            "revision_timestamp": "2010-10-05T15:04:51.142685",
+            "state": "active",
+            "id": "d3333071-1566-4279-a795-522765bca9cf"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-xsd",
+            "name": "format-xsd",
+            "revision_timestamp": "2010-10-05T15:04:51.142685",
+            "state": "active",
+            "id": "19614489-6277-405d-b716-4cef729265a8"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "license-metadata",
+            "name": "license-metadata",
+            "revision_timestamp": "2010-10-07T08:45:27.487898",
+            "state": "active",
+            "id": "8d7e5c73-261b-4137-a278-42f56a6ec4bb"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lld",
+            "name": "lld",
+            "revision_timestamp": "2011-08-09T16:01:12.060309",
+            "state": "active",
+            "id": "c1dea2c0-3fb8-47b8-9b37-c076756e6420"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2010-09-02T20:24:12.708812",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-vocab-mappings",
+            "name": "no-vocab-mappings",
+            "revision_timestamp": "2010-10-07T08:45:27.487898",
+            "state": "active",
+            "id": "e51273d8-dc60-4cf2-a68d-3cfd33b2c1fc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "provenance-metadata",
+            "name": "provenance-metadata",
+            "revision_timestamp": "2010-10-07T08:45:27.487898",
+            "state": "active",
+            "id": "24a0f0a3-36bc-4209-84e5-7d6b89d82dfa"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "publications",
+            "name": "publications",
+            "revision_timestamp": "2010-10-19T11:14:47.654413",
+            "state": "active",
+            "id": "c93ebe8f-83a0-498c-8704-1de94db149e9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-producer",
+            "name": "published-by-producer",
+            "revision_timestamp": "2010-10-07T08:45:27.487898",
+            "state": "active",
+            "id": "fcdb5c0a-2b91-44cb-83e5-19fd0d81125c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "southampton",
+            "name": "southampton",
+            "revision_timestamp": "2010-09-02T20:24:12.708812",
+            "state": "active",
+            "id": "1ac3b9e6-2bbe-4f74-80eb-0c6eacc6a5e5"
+        }
+    ],
+    "tracking_summary": {
+        "total": 234,
+        "recent": 18
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 25,
+    "name": "southampton-ecs-eprints",
+    "isopen": true,
+    "url": "http://eprints.ecs.soton.ac.uk/",
+    "notes": "This is live data produced by the EPrints server since its upgrade to EPrints v3.2.1 and is distinct from the service provided by RKB Explorer.",
+    "title": "ECS Southampton EPrints",
+    "extras": [
+        {
+            "value": "http://creativecommons.org/publicdomain/zero/1.0",
+            "key": "license_link",
+            "__extras": {
+                "revision_id": "47ce49f3-b880-48b3-811e-17b63dfc6f69",
+                "package_id": "b3fbae72-9b2d-4f67-9847-574356a6cd58"
+            }
+        },
+        {
+            "value": "24000",
+            "key": "links:ecs",
+            "__extras": {
+                "revision_id": "312025ca-238f-401d-ad81-2ade8044cb4d",
+                "package_id": "b3fbae72-9b2d-4f67-9847-574356a6cd58"
+            }
+        },
+        {
+            "value": "http://eprints.ecs.soton.ac.uk/id/eprint/",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "de91204e-cd92-49a0-b823-48119b26f5a6",
+                "package_id": "b3fbae72-9b2d-4f67-9847-574356a6cd58"
+            }
+        },
+        {
+            "value": "1000000",
+            "key": "triples",
+            "__extras": {
+                "package_id": "b3fbae72-9b2d-4f67-9847-574356a6cd58",
+                "revision_id": "312025ca-238f-401d-ad81-2ade8044cb4d"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "2a2dd9f1-b330-4979-a69c-778249529bb5",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": true,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

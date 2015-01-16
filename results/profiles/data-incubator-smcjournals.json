@@ -1,0 +1,368 @@
+{
+    "license_title": "Open Data Commons Public Domain Dedication and Licence 1.0",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-10T20:28:57.828526",
+    "id": "ec9b3c11-5a14-4acd-9518-c2203a7da417",
+    "metadata_created": "2011-08-13T14:28:41.890166",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T20:28:57.828526",
+    "author": "Keith Alexander",
+    "author_email": "keithalexander@keithalexander.co.uk",
+    "state": "active",
+    "version": "0.1",
+    "license_id": "ODC-PDDL-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "SPARQL endpoint",
+            "format": "api/sparql",
+            "url": "http://api.talis.com/stores/smcjournals/services/sparql",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 15,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-01-26T09:54:53.123533",
+            "webstore_url": null,
+            "resource_group_id": "bb429d22-a234-430a-8254-6804868c1b57",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "32785d82-d44a-4d2c-9f03-cc08c46d186d",
+            "size": null,
+            "id": "1a1c5a00-a73b-4423-a30d-e92ee6d96425",
+            "resource_type": "",
+            "name": ""
+        },
+        {
+            "mimetype": "",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Example Resource",
+            "format": "example/*",
+            "url": "http://smcjournals.dataincubator.org/hills/A'cailliach",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 15,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-01-26T09:54:53.123533",
+            "webstore_url": null,
+            "resource_group_id": "bb429d22-a234-430a-8254-6804868c1b57",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "32785d82-d44a-4d2c-9f03-cc08c46d186d",
+            "size": null,
+            "id": "b78fb36d-5263-4e0f-84e3-5254220c801c",
+            "resource_type": "",
+            "name": ""
+        },
+        {
+            "mimetype": "",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Example Resource",
+            "format": "example/rdf+xml",
+            "url": "http://smcjournals.dataincubator.org/hills/A'cailliach.rdf",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 23,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-01-26T09:54:53.123533",
+            "webstore_url": null,
+            "resource_group_id": "bb429d22-a234-430a-8254-6804868c1b57",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "32785d82-d44a-4d2c-9f03-cc08c46d186d",
+            "size": null,
+            "id": "b69553d7-7314-4144-b393-e5f4a2bb0575",
+            "resource_type": "",
+            "name": ""
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "VoID Description",
+            "format": "meta/void",
+            "url": "http://smcjournals.dataincubator.org/",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 3,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-01-26T09:54:53.123533",
+            "webstore_url": null,
+            "resource_group_id": "bb429d22-a234-430a-8254-6804868c1b57",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 3,
+            "revision_id": "32785d82-d44a-4d2c-9f03-cc08c46d186d",
+            "size": "177",
+            "id": "1eb65116-d61d-4d08-b376-144b87788a1c",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 4,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "19thcentury",
+            "name": "19thcentury",
+            "revision_timestamp": "2011-08-13T14:28:41.890166",
+            "state": "active",
+            "id": "59f090ec-d36d-4abb-8f4d-dca2d4e47341"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "climbing",
+            "name": "climbing",
+            "revision_timestamp": "2011-08-13T14:28:41.890166",
+            "state": "active",
+            "id": "56c97dd5-393f-43f4-b4e5-25e92f698509"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "club",
+            "name": "club",
+            "revision_timestamp": "2011-08-13T14:28:41.890166",
+            "state": "active",
+            "id": "881fff7a-4946-4a26-85c6-d9d3cfd87869"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-bib",
+            "name": "format-bib",
+            "revision_timestamp": "2011-08-13T14:28:41.890166",
+            "state": "active",
+            "id": "e680fb9a-f708-43fb-bd92-88460150e017"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-foaf",
+            "name": "format-foaf",
+            "revision_timestamp": "2011-08-13T14:28:41.890166",
+            "state": "active",
+            "id": "bd737030-1ba6-4913-baaa-bfa2581618b5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-geovocab",
+            "name": "format-geovocab",
+            "revision_timestamp": "2011-08-13T14:28:41.890166",
+            "state": "active",
+            "id": "ad9c2a64-bf1a-4bc1-b8f0-97a079c6afcd"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2011-08-13T14:28:41.890166",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "geographic",
+            "name": "geographic",
+            "revision_timestamp": "2011-08-13T14:28:41.890166",
+            "state": "active",
+            "id": "dc08d94b-fbac-4bfc-92f0-94bee5fd546a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "journals",
+            "name": "journals",
+            "revision_timestamp": "2011-08-13T14:28:41.890166",
+            "state": "active",
+            "id": "9ff5eabe-3381-4be4-a425-60a80556e697"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "license-metadata",
+            "name": "license-metadata",
+            "revision_timestamp": "2011-08-13T16:37:27.953501",
+            "state": "active",
+            "id": "8d7e5c73-261b-4137-a278-42f56a6ec4bb"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lld",
+            "name": "lld",
+            "revision_timestamp": "2011-09-01T20:37:41.811226",
+            "state": "active",
+            "id": "c1dea2c0-3fb8-47b8-9b37-c076756e6420"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2011-08-13T14:28:41.890166",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "mountaineering",
+            "name": "mountaineering",
+            "revision_timestamp": "2011-08-13T14:28:41.890166",
+            "state": "active",
+            "id": "abf042a0-9bb6-490b-a8f9-806b7df1c69d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-proprietary-vocab",
+            "name": "no-proprietary-vocab",
+            "revision_timestamp": "2011-08-13T16:37:27.953501",
+            "state": "active",
+            "id": "aef04cb8-a7aa-4419-8184-396b0ef6e680"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "provenance-metadata",
+            "name": "provenance-metadata",
+            "revision_timestamp": "2011-08-13T16:37:27.953501",
+            "state": "active",
+            "id": "24a0f0a3-36bc-4209-84e5-7d6b89d82dfa"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2011-08-13T16:37:27.953501",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "sport",
+            "name": "sport",
+            "revision_timestamp": "2011-08-13T14:28:41.890166",
+            "state": "active",
+            "id": "cf93a3e9-21d9-4bb9-8d29-3f7600e7c3d8"
+        }
+    ],
+    "tracking_summary": {
+        "total": 215,
+        "recent": 5
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 17,
+    "name": "data-incubator-smcjournals",
+    "isopen": true,
+    "url": "http://smcjournals.dataincubator.org",
+    "notes": " This is a Linked Data representation of a digital archive of 'Scottish Mountaineering Club Journal Issues 1 to 36, 1890-1901', which was created by Alan Dawson, Centre for Digital Library Research, University of Strathclyde, with funding from the Scottish Mountaineering Trust.\r\n  The Linked Data representation currently covers the relationships between places, people, journal issues and articles gathered from the Cumulative Indexes of Authors, Hills, People and Articles.\r\n  \r\n  TODO:\r\n    \r\n  (from the Cumulative Indexes)\r\n  Events\r\n  Illustrations\r\n  Reviews\r\n  Topics  \r\n\r\n  And:\r\n\r\n  \"The SMC in 1894: Rules, officers, members\" (http://gdl.cdlr.strath.ac.uk/smcj/smc1894.htm)\r\n\r\n",
+    "title": "Scottish Mountaineering Council Journals Issues 1-36",
+    "extras": [
+        {
+            "value": "123",
+            "key": "links:data-incubator-climb",
+            "__extras": {
+                "revision_id": "36fbe80f-e36c-4ebb-b190-25e793d7742c",
+                "package_id": "ec9b3c11-5a14-4acd-9518-c2203a7da417"
+            }
+        },
+        {
+            "value": "11",
+            "key": "links:dbpedia",
+            "__extras": {
+                "revision_id": "949f2bdf-4733-45e0-8ee9-752888dd5173",
+                "package_id": "ec9b3c11-5a14-4acd-9518-c2203a7da417"
+            }
+        },
+        {
+            "value": "10",
+            "key": "links:geonames-semantic-web",
+            "__extras": {
+                "revision_id": "5f2aecac-ce32-4baf-b10b-e05dc6826f04",
+                "package_id": "ec9b3c11-5a14-4acd-9518-c2203a7da417"
+            }
+        },
+        {
+            "value": "11",
+            "key": "links:ordnance-survey-linked-data",
+            "__extras": {
+                "package_id": "ec9b3c11-5a14-4acd-9518-c2203a7da417",
+                "revision_id": "949f2bdf-4733-45e0-8ee9-752888dd5173"
+            }
+        },
+        {
+            "value": "http://smcjournals.dataincubator.org/",
+            "key": "namespace",
+            "__extras": {
+                "package_id": "ec9b3c11-5a14-4acd-9518-c2203a7da417",
+                "revision_id": "5442a985-eb04-4768-b42a-8e7ff5f04edd"
+            }
+        },
+        {
+            "value": "smcjournals",
+            "key": "shortName",
+            "__extras": {
+                "package_id": "ec9b3c11-5a14-4acd-9518-c2203a7da417",
+                "revision_id": "5442a985-eb04-4768-b42a-8e7ff5f04edd"
+            }
+        },
+        {
+            "value": "smcjournals",
+            "key": "shortname",
+            "__extras": {
+                "revision_id": "5afba6ae-96c8-4c91-8221-9bbc90e466b1",
+                "package_id": "ec9b3c11-5a14-4acd-9518-c2203a7da417"
+            }
+        },
+        {
+            "value": "15801",
+            "key": "triples",
+            "__extras": {
+                "package_id": "ec9b3c11-5a14-4acd-9518-c2203a7da417",
+                "revision_id": "5442a985-eb04-4768-b42a-8e7ff5f04edd"
+            }
+        }
+    ],
+    "license_url": "http://www.opendefinition.org/licenses/odc-pddl",
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "8a7570b4-b9f5-417a-b3ff-9c284116374f",
+    "license_information": {
+        "domain_content": false,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "",
+        "status": "active"
+    }
+}

@@ -1,0 +1,167 @@
+{
+    "license_title": "Other (Not Open)",
+    "maintainer": "Sebastian Hellmann",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-10T21:55:21.155072",
+    "id": "e7dba441-4786-40a3-b607-9090ad5aac97",
+    "metadata_created": "2011-09-09T07:53:14.447832",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T21:55:21.155072",
+    "author": "Sebastian Hellmann",
+    "author_email": "",
+    "state": "active",
+    "version": "",
+    "license_id": "other-closed",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "text/plain",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download",
+            "format": "text/turtle",
+            "url": "http://klappstuhlclub.de/wp/wp-content/plugins/RDF2WP/Output/EntireBlogExporter.php?format=text/plain",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 3,
+                "recent": 3
+            },
+            "revision_timestamp": "2013-04-13T16:35:53.934228",
+            "webstore_url": "",
+            "resource_group_id": "96b50db3-7c54-412f-b0ba-681d3f6aac46",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "692caeb1-704e-4a4a-9f91-773fbf250cf5",
+            "size": null,
+            "id": "130a9cf7-c680-44e9-b499-598bc25cf2a7",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "klappstuhlclub",
+            "name": "klappstuhlclub",
+            "revision_timestamp": "2011-09-09T07:53:14.447832",
+            "state": "active",
+            "id": "02ddf21f-5c70-432e-9a55-05342b9fc22d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "ksc",
+            "name": "ksc",
+            "revision_timestamp": "2011-09-09T07:53:14.447832",
+            "state": "active",
+            "id": "28e3103f-8c5c-4585-9be6-f314fab005cb"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2011-09-09T07:56:01.188565",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "rdf2wp",
+            "name": "rdf2wp",
+            "revision_timestamp": "2011-09-09T07:53:14.447832",
+            "state": "active",
+            "id": "b3b55166-9280-4d22-b149-d3125fcbcd3a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "semantic-web",
+            "name": "semantic-web",
+            "revision_timestamp": "2011-09-09T07:53:14.447832",
+            "state": "active",
+            "id": "5b9def5a-4e84-4e6e-bb8e-4700aa635c6b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "usergeneratedcontent",
+            "name": "usergeneratedcontent",
+            "revision_timestamp": "2011-09-09T07:56:31.842035",
+            "state": "active",
+            "id": "e9b2da79-5971-41f9-a314-36d368636b85"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "wiki",
+            "name": "wiki",
+            "revision_timestamp": "2011-09-09T07:53:14.447832",
+            "state": "active",
+            "id": "cc3e501b-4f62-42e6-b10d-3232367b7dd3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "wikipedia",
+            "name": "wikipedia",
+            "revision_timestamp": "2011-09-09T07:53:14.447832",
+            "state": "active",
+            "id": "411ca2b6-769b-418f-aec8-bd6c1b532a9a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "wordpress",
+            "name": "wordpress",
+            "revision_timestamp": "2011-09-09T07:53:14.447832",
+            "state": "active",
+            "id": "f3fd8696-a4b5-4ca3-96e9-2fa937d86478"
+        }
+    ],
+    "tracking_summary": {
+        "total": 171,
+        "recent": 5
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 9,
+    "name": "klappstuhlclub",
+    "isopen": false,
+    "url": "http://klappstuhlclub.de",
+    "notes": "##Klappstuhlclub\r\nhttp://klappstuhlclub.de \r\nThe Klappstuhlclub (Folding chair club) is meeting every week (mostly Wednesday evening) in cities around the globe. The focus is on Germany currently (Leipzig over 300 meetings, Berlin over 200 meetings), but also Lisbon, France and USA.\r\n\r\n### Get involved\r\nPlease email if:  \r\n1. You want to join the Klappstuhlclub or you want to create a Klappstuhlclub in your city . (kurzum@googlemail.com)\r\n2. You want to know how we made a simple Wordpress blog Linked Data ready and all that. (hellmann@informatik.uni-leipzig.de )\r\n\r\n### License \r\nData is protected for privacy issues.\r\n\r\n### Semantic Wiki Wordpress\r\nThe data was created with a Wordpress plugin see\r\nhttp://bitbucket.org/aksw/rdf2wp/overview\r\n\r\nEach Blogpost is available as Linked Data. User enter data the same way as in Wikipedia infoboxes (with a Wiki template)\r\n\r\nSPARQL endpoint (Virtuoso) is here:\r\nhttp://klappstuhlclub.de/sparql\r\n\r\n",
+    "title": "Klappstuhlclub",
+    "extras": [
+        {
+            "value": "50",
+            "key": "links:dbpedia",
+            "__extras": {
+                "revision_id": "82b23f1a-5fdb-40f3-88a9-b4bbb1b46e76",
+                "package_id": "e7dba441-4786-40a3-b607-9090ad5aac97"
+            }
+        },
+        {
+            "value": "1032",
+            "key": "triples",
+            "__extras": {
+                "revision_id": "82b23f1a-5fdb-40f3-88a9-b4bbb1b46e76",
+                "package_id": "e7dba441-4786-40a3-b607-9090ad5aac97"
+            }
+        }
+    ],
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "9d3901b4-165a-4c1d-845f-465f7e66a673"
+}

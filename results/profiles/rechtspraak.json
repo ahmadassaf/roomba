@@ -1,0 +1,341 @@
+{
+    "license_title": "Creative Commons Attribution 4.0",
+    "maintainer": "Rinke Hoekstra",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "hoekstra@few.vu.nl",
+    "revision_timestamp": "2013-10-10T23:23:51.134126",
+    "id": "32883e69-b687-4d26-9043-af97173bae45",
+    "metadata_created": "2010-09-06T11:03:10.915617",
+    "owner_org": "4ba9e6af-0e19-4259-8ac2-210659169c90",
+    "metadata_modified": "2013-10-10T23:23:51.134126",
+    "author": "Rinke Hoekstra",
+    "author_email": "hoekstra@few.vu.nl",
+    "state": "active",
+    "version": "2010-09-06",
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "SPARQL Endpoint",
+            "format": "api/sparql",
+            "url": "http://eculture2.cs.vu.nl:5020/sparql/",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 45,
+                "recent": 3
+            },
+            "revision_timestamp": "2013-01-23T19:35:50.847058",
+            "webstore_url": "",
+            "resource_group_id": "290c8ede-56de-8ba7-abe9-0a35324c7af9",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "f3636591-bc01-42a6-9ecb-f0445ac9cff5",
+            "size": null,
+            "id": "ea06ac4c-1e2f-42fc-a4cf-f4b070882953",
+            "resource_type": "",
+            "name": ""
+        },
+        {
+            "mimetype": "",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "VOID Description",
+            "format": "meta/void",
+            "url": "http://www.best-project.nl/rechtspraak.ttl",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 25,
+                "recent": 15
+            },
+            "revision_timestamp": "2013-01-23T19:35:50.847058",
+            "webstore_url": "",
+            "resource_group_id": "290c8ede-56de-8ba7-abe9-0a35324c7af9",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "f3636591-bc01-42a6-9ecb-f0445ac9cff5",
+            "size": null,
+            "id": "d5f7fb39-271a-4d4c-b889-145a6550346d",
+            "resource_type": "",
+            "name": ""
+        },
+        {
+            "mimetype": "",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Example (RDF/XML)",
+            "format": "example/rdf+xml",
+            "url": "http://linkeddata.few.vu.nl/rechtspraak/uitspraak/BM4461",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 35,
+                "recent": 3
+            },
+            "revision_timestamp": "2013-01-23T19:35:50.847058",
+            "webstore_url": "",
+            "resource_group_id": "290c8ede-56de-8ba7-abe9-0a35324c7af9",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "f3636591-bc01-42a6-9ecb-f0445ac9cff5",
+            "size": null,
+            "id": "25396f2b-86f8-4c08-b243-3ebcf8b2d790",
+            "resource_type": "",
+            "name": ""
+        }
+    ],
+    "num_resources": 3,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "broken_link",
+            "name": "broken_link",
+            "revision_timestamp": "2010-12-21T15:05:38.680788",
+            "state": "active",
+            "id": "0fd249d3-af87-42b5-8033-691dd8c34c6d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "case-law",
+            "name": "case-law",
+            "revision_timestamp": "2010-09-06T11:03:10.915617",
+            "state": "active",
+            "id": "6f71fe1a-23bd-4b4f-b704-744880b7ed6e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2010-09-06T11:03:10.915617",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-dbo",
+            "name": "format-dbo",
+            "revision_timestamp": "2011-07-19T11:01:47.132926",
+            "state": "active",
+            "id": "0ebc2617-a23f-4616-9fb2-e9c3e4adcf2b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-dbpedia",
+            "name": "format-dbpedia",
+            "revision_timestamp": "2010-09-06T13:03:58.009912",
+            "state": "active",
+            "id": "3b5b56c6-ffc7-4497-a58a-df7fcae2ed9b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-geo",
+            "name": "format-geo",
+            "revision_timestamp": "2011-07-19T11:01:47.132926",
+            "state": "active",
+            "id": "16f204d1-2004-4b26-97c9-93a8e42cc506"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-geonames",
+            "name": "format-geonames",
+            "revision_timestamp": "2010-09-06T13:03:58.009912",
+            "state": "active",
+            "id": "35e84387-1d54-4b5b-bbd0-1f6e26237099"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-metalex",
+            "name": "format-metalex",
+            "revision_timestamp": "2010-09-06T13:03:58.009912",
+            "state": "active",
+            "id": "6a32307f-8338-4373-ba12-9da61a01560c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-owl",
+            "name": "format-owl",
+            "revision_timestamp": "2010-09-06T11:03:10.915617",
+            "state": "active",
+            "id": "b88f7bba-f82e-49b2-9672-4cca65e040de"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2010-10-05T15:36:02.231253",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "government",
+            "name": "government",
+            "revision_timestamp": "2010-09-06T11:03:10.915617",
+            "state": "active",
+            "id": "22fddbd6-8780-4ce0-826f-e41efdc36688"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "law",
+            "name": "law",
+            "revision_timestamp": "2010-09-06T11:03:10.915617",
+            "state": "active",
+            "id": "048d42ba-4d53-4eb3-b41a-21fa8b43749b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2010-09-06T11:03:10.915617",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2010-10-07T09:42:15.734056",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-vocab-mappings",
+            "name": "no-vocab-mappings",
+            "revision_timestamp": "2010-10-07T09:42:15.734056",
+            "state": "active",
+            "id": "e51273d8-dc60-4cf2-a68d-3cfd33b2c1fc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "provenance-metadata",
+            "name": "provenance-metadata",
+            "revision_timestamp": "2011-07-24T16:54:53.794693",
+            "state": "active",
+            "id": "24a0f0a3-36bc-4209-84e5-7d6b89d82dfa"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2010-10-07T09:42:15.734056",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "void-sparql-endpoint",
+            "name": "void-sparql-endpoint",
+            "revision_timestamp": "2011-07-24T11:48:09.564030",
+            "state": "active",
+            "id": "9d821331-6c26-4261-bd2b-12dab19d508e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "vu",
+            "name": "vu",
+            "revision_timestamp": "2010-09-07T12:14:43.944689",
+            "state": "active",
+            "id": "60cc3c8f-8595-4cfe-b820-765f4d1dab0e"
+        }
+    ],
+    "tracking_summary": {
+        "total": 571,
+        "recent": 13
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 19,
+    "name": "rechtspraak",
+    "isopen": true,
+    "url": "http://www.best-project.nl",
+    "notes": "RDF version of the official case law dataset of the Netherlands Council of the Judiciary (at [http://www.rechtspraak.nl](http://www.rechtspraak.nl)). It contains approximately 145k descriptions of court proceedings, linked to DBPedia and Geonames (places mentioned in cases). It contains all Dutch courts and their locations.\r\n\r\nURIs are dereferenceable.\r\n\r\nExample: [http://linkeddata.few.vu.nl/rechtspraak/uitspraak/BM4461](http://linkeddata.few.vu.nl/rechtspraak/uitspraak/BM4461)\r\n\r\nThis dataset was developed within the BEST project at the VU University Amsterdam.",
+    "title": "Rechtspraak.nl",
+    "extras": [
+        {
+            "value": "575",
+            "key": "links:dbpedia",
+            "__extras": {
+                "package_id": "32883e69-b687-4d26-9043-af97173bae45",
+                "revision_id": "49304d6f-204a-435d-ac59-77e05889f479"
+            }
+        },
+        {
+            "value": "220058",
+            "key": "links:geonames-semantic-web",
+            "__extras": {
+                "revision_id": "a4c50a74-50fa-4158-a40f-e645a8ce9cbd",
+                "package_id": "32883e69-b687-4d26-9043-af97173bae45"
+            }
+        },
+        {
+            "value": "http://linkeddata.few.vu.nl/rechtspraak/",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "1ee24d42-b130-4902-afca-68eb94b69c33",
+                "package_id": "32883e69-b687-4d26-9043-af97173bae45"
+            }
+        },
+        {
+            "value": "Rechtspraak.nl",
+            "key": "shortname",
+            "__extras": {
+                "revision_id": "711cc3c9-bfe2-408d-b834-93dc7aaebdf1",
+                "package_id": "32883e69-b687-4d26-9043-af97173bae45"
+            }
+        },
+        {
+            "value": "http://linkeddata.few.vu.nl/rechtspraak",
+            "key": "sparql_graph_name",
+            "__extras": {
+                "package_id": "32883e69-b687-4d26-9043-af97173bae45",
+                "revision_id": "7e66922f-ed2d-4d98-9455-fdbe5a4f0c6a"
+            }
+        },
+        {
+            "value": "1931860",
+            "key": "triples",
+            "__extras": {
+                "package_id": "32883e69-b687-4d26-9043-af97173bae45",
+                "revision_id": "7e66922f-ed2d-4d98-9455-fdbe5a4f0c6a"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "organization": {
+        "description": "",
+        "title": "Nederland",
+        "created": "2011-10-20T12:50:22.273810",
+        "approval_status": "approved",
+        "revision_timestamp": "2013-01-29T12:13:09.658099",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "",
+        "revision_id": "16679c6a-89b8-4742-b602-ca64de1eb5bc",
+        "type": "organization",
+        "id": "4ba9e6af-0e19-4259-8ac2-210659169c90",
+        "name": "nederland"
+    },
+    "revision_id": "36cb3178-14c2-43a4-bce3-13089b13a10b",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

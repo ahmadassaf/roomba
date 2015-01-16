@@ -1,0 +1,387 @@
+{
+    "license_title": "Creative Commons Attribution 4.0",
+    "maintainer": "Søren Roug",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "soren.roug@eea.europa.eu",
+    "revision_timestamp": "2013-10-10T20:53:04.032989",
+    "id": "b80eac1d-d089-4152-be64-36b898ae5d81",
+    "metadata_created": "2010-09-04T16:37:31.270659",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T20:53:04.032989",
+    "author": "European Environment Agency",
+    "author_email": "eunis@eea.europa.eu",
+    "state": "active",
+    "version": "2011",
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "voiD description",
+            "format": "meta/void",
+            "url": "http://eunis.eea.europa.eu/void.rdf",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 37,
+                "recent": 5
+            },
+            "revision_timestamp": "2012-09-07T12:18:58.127720",
+            "webstore_url": "",
+            "resource_group_id": "67dad12b-10a9-e7fc-5708-e0e904c479df",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "9cb81b33-6a2b-4218-8e82-a28742d3dde8",
+            "size": "12260",
+            "id": "634a5d67-30e4-4954-8943-30d9ae4d5337",
+            "resource_type": "file",
+            "name": "voiD description",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "SPARQL endpoint",
+            "format": "api/sparql",
+            "url": "http://semantic.eea.europa.eu/sparql",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 48,
+                "recent": 19
+            },
+            "revision_timestamp": "2012-08-02T14:11:10.776889",
+            "webstore_url": "",
+            "resource_group_id": "67dad12b-10a9-e7fc-5708-e0e904c479df",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "3ce0da8e-0fe8-4e4a-a32f-7547244da5b5",
+            "size": null,
+            "id": "eb28c327-985e-4610-895a-ac55189a27db",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/x-gzip",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download species",
+            "format": "application/rdf+xml",
+            "url": "http://eunis.eea.europa.eu/rdf/species.rdf.gz",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 37,
+                "recent": 6
+            },
+            "revision_timestamp": "2012-09-07T12:18:58.127720",
+            "webstore_url": "",
+            "resource_group_id": "67dad12b-10a9-e7fc-5708-e0e904c479df",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "9cb81b33-6a2b-4218-8e82-a28742d3dde8",
+            "size": null,
+            "id": "bd04f50b-8df7-494e-b1a2-99dfed75f77e",
+            "resource_type": "file",
+            "name": "Species",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/x-gzip",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download protected sites",
+            "format": "application/rdf+xml",
+            "url": "http://eunis.eea.europa.eu/rdf/sites.rdf.gz",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 25,
+                "recent": 7
+            },
+            "revision_timestamp": "2012-09-07T12:18:58.127720",
+            "webstore_url": "",
+            "resource_group_id": "67dad12b-10a9-e7fc-5708-e0e904c479df",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 3,
+            "revision_id": "9cb81b33-6a2b-4218-8e82-a28742d3dde8",
+            "size": null,
+            "id": "1dd07911-a1ff-4bcf-bacb-b64af8418620",
+            "resource_type": "file",
+            "name": "Sites",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/x-gzip",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download habitat types",
+            "format": "application/rdf+xml",
+            "url": "http://eunis.eea.europa.eu/rdf/habitats.rdf.gz",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 17,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-09-07T12:18:58.127720",
+            "webstore_url": "",
+            "resource_group_id": "67dad12b-10a9-e7fc-5708-e0e904c479df",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 4,
+            "revision_id": "9cb81b33-6a2b-4218-8e82-a28742d3dde8",
+            "size": null,
+            "id": "c4fb3fc8-62b5-4f3c-9ae1-12b39818064d",
+            "resource_type": "file",
+            "name": "Habitat types",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download higher taxonomies",
+            "format": "application/rdf+xml",
+            "url": "http://eunis.eea.europa.eu/rdf/taxonomies.rdf.gz",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 7,
+                "recent": 5
+            },
+            "revision_timestamp": "2012-09-07T12:18:58.127720",
+            "webstore_url": "",
+            "resource_group_id": "67dad12b-10a9-e7fc-5708-e0e904c479df",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 5,
+            "revision_id": "9cb81b33-6a2b-4218-8e82-a28742d3dde8",
+            "size": null,
+            "id": "32646463-6c02-4612-b3c1-4d5aae99901d",
+            "resource_type": "file",
+            "name": "Higher taxonomies"
+        },
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Example resource",
+            "format": "example/rdf+xml",
+            "url": "http://eunis.eea.europa.eu/species/4055/rdf",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 9,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-08-02T14:11:10.776889",
+            "webstore_url": "",
+            "resource_group_id": "67dad12b-10a9-e7fc-5708-e0e904c479df",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 6,
+            "revision_id": "3ce0da8e-0fe8-4e4a-a32f-7547244da5b5",
+            "size": null,
+            "id": "163d9f39-7b02-4ecd-8357-370d3f0313e2",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 7,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "biodiversity",
+            "name": "biodiversity",
+            "revision_timestamp": "2010-09-04T16:37:31.270659",
+            "state": "active",
+            "id": "bb261b99-130c-4e54-9bfd-bc8f62987944"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2010-09-04T16:39:34.738224",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "environment",
+            "name": "environment",
+            "revision_timestamp": "2013-04-27T16:52:51.029171",
+            "state": "active",
+            "id": "2eda73c3-9cab-49e4-a44f-181fb4a1bea5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2010-09-04T16:37:31.270659",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "geographic",
+            "name": "geographic",
+            "revision_timestamp": "2010-10-06T22:30:56.070525",
+            "state": "active",
+            "id": "dc08d94b-fbac-4bfc-92f0-94bee5fd546a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "license-metadata",
+            "name": "license-metadata",
+            "revision_timestamp": "2010-10-06T22:30:56.070525",
+            "state": "active",
+            "id": "8d7e5c73-261b-4137-a278-42f56a6ec4bb"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2010-09-04T16:37:31.270659",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-vocab-mappings",
+            "name": "no-vocab-mappings",
+            "revision_timestamp": "2010-10-06T22:30:56.070525",
+            "state": "active",
+            "id": "e51273d8-dc60-4cf2-a68d-3cfd33b2c1fc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "provenance-metadata",
+            "name": "provenance-metadata",
+            "revision_timestamp": "2010-10-06T22:30:56.070525",
+            "state": "active",
+            "id": "24a0f0a3-36bc-4209-84e5-7d6b89d82dfa"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-producer",
+            "name": "published-by-producer",
+            "revision_timestamp": "2010-10-07T07:17:09.379134",
+            "state": "active",
+            "id": "fcdb5c0a-2b91-44cb-83e5-19fd0d81125c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "void-sparql-endpoint",
+            "name": "void-sparql-endpoint",
+            "revision_timestamp": "2011-08-16T11:29:35.024776",
+            "state": "active",
+            "id": "9d821331-6c26-4261-bd2b-12dab19d508e"
+        }
+    ],
+    "tracking_summary": {
+        "total": 637,
+        "recent": 21
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 11,
+    "name": "eunis",
+    "isopen": true,
+    "url": "http://eunis.eea.europa.eu",
+    "notes": "EUNIS consists of information on species, habitat types and sites.",
+    "title": "European Nature Information System",
+    "extras": [
+        {
+            "value": "http://creativecommons.org/licenses/by/2.5/dk",
+            "key": "license_link",
+            "__extras": {
+                "revision_id": "b5381046-3b0e-4f3a-9c70-56cad276627c",
+                "package_id": "b80eac1d-d089-4152-be64-36b898ae5d81"
+            }
+        },
+        {
+            "value": "5683",
+            "key": "links:dbpedia",
+            "__extras": {
+                "revision_id": "a177e745-2aa8-4d61-9148-14be0fb5503d",
+                "package_id": "b80eac1d-d089-4152-be64-36b898ae5d81"
+            }
+        },
+        {
+            "value": "3346",
+            "key": "links:geospecies",
+            "__extras": {
+                "revision_id": "a177e745-2aa8-4d61-9148-14be0fb5503d",
+                "package_id": "b80eac1d-d089-4152-be64-36b898ae5d81"
+            }
+        },
+        {
+            "value": "http://eunis.eea.europa.eu/",
+            "key": "namespace",
+            "__extras": {
+                "package_id": "b80eac1d-d089-4152-be64-36b898ae5d81",
+                "revision_id": "4a96fff3-59e0-4164-92d4-3bc164205bb6"
+            }
+        },
+        {
+            "value": "EUNIS",
+            "key": "shortname",
+            "__extras": {
+                "package_id": "b80eac1d-d089-4152-be64-36b898ae5d81",
+                "revision_id": "38954ae9-e382-4a43-abd3-893dd7fb1078"
+            }
+        },
+        {
+            "value": "20229105",
+            "key": "triples",
+            "__extras": {
+                "package_id": "b80eac1d-d089-4152-be64-36b898ae5d81",
+                "revision_id": "b8a7ada1-1a4c-4f2f-bd3f-662a9839aa4e"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "3a473a8f-b2ab-4c45-9b10-8a81a4ebd278",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

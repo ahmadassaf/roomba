@@ -30,7 +30,6 @@ function datasetProfiler(parent) {
 				report.addObject("counter", report.getCounter());
 				// Check if the save prompt is valid to be displayed for saving report and enhanced profile
 				displaySavePrompt();
-
 				function displaySavePrompt() {
 					if (result.accessProfiler.isChanged) {
 						datasetProfiler.CKANUtil.savePrompt("Enriched Metadata Profile", "enrichedFolder", result.accessProfiler.enhancedProfile, function(error){

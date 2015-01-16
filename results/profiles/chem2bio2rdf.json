@@ -1,0 +1,284 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Bin Chen",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "binchen@indiana.edu",
+    "revision_timestamp": "2013-10-10T20:16:02.404945",
+    "id": "81a66e0a-70e4-4d62-ac0b-fd039db7179b",
+    "metadata_created": "2010-09-07T19:59:36.350514",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T20:16:02.404945",
+    "author": "David Wild, Ying Ding",
+    "author_email": "dingying@indiana.edu",
+    "state": "active",
+    "version": "1.0",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Downloads (Turtle)",
+            "format": "text/turtle",
+            "url": "http://chem2bio2rdf.org/download",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 11,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-07-19T15:05:29.004928",
+            "webstore_url": null,
+            "resource_group_id": "d0235b52-aa7e-a822-fb20-159d62347cb4",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "6282a375-63f3-43af-83bd-11e8db1521f5",
+            "size": "0",
+            "id": "927f2598-e731-4dc4-aee3-8fff79ba6926",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/xml",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Sitemap XML",
+            "format": "meta/sitemap",
+            "url": "http://cheminfov.informatics.indiana.edu:8080/sitemap.xml",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 7,
+                "recent": 3
+            },
+            "revision_timestamp": "2010-09-10T19:08:06.588720",
+            "webstore_url": null,
+            "resource_group_id": "d0235b52-aa7e-a822-fb20-159d62347cb4",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "144e943d-9155-46db-b984-68da580090b3",
+            "size": "18290",
+            "id": "d614ff00-78c6-4475-91f0-ae8e13b7f262",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": null,
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Example resource",
+            "format": "example/rdf+xml",
+            "url": "http://chem2bio2rdf.org/bindingdb/resource/bindingdb_ligand/1",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 13,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-07-19T00:16:41.122654",
+            "webstore_url": null,
+            "resource_group_id": "d0235b52-aa7e-a822-fb20-159d62347cb4",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "1c83820b-f6a8-4d1f-b092-2d02348bb004",
+            "size": null,
+            "id": "e64a9410-e89b-4189-8fba-2dbb5b47f504",
+            "resource_type": null,
+            "name": null
+        }
+    ],
+    "num_resources": 3,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "chemogenomics",
+            "name": "chemogenomics",
+            "revision_timestamp": "2010-09-07T19:59:36.350514",
+            "state": "active",
+            "id": "a4d73d6c-422e-4ebf-932e-a75a6b423c08"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2010-10-06T16:25:09.398508",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2010-09-10T19:08:06.588720",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdfs",
+            "name": "format-rdfs",
+            "revision_timestamp": "2011-07-20T21:02:53.671069",
+            "state": "active",
+            "id": "781902f8-ba13-4330-bba3-54d0bbf24b58"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lifesciences",
+            "name": "lifesciences",
+            "revision_timestamp": "2010-10-06T16:25:09.398508",
+            "state": "active",
+            "id": "ee133eb4-ba7f-4e5c-8d92-9543ec13b860"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2010-09-07T19:59:36.350514",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2010-10-06T16:25:09.398508",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-provenance-metadata",
+            "name": "no-provenance-metadata",
+            "revision_timestamp": "2010-10-06T16:25:09.398508",
+            "state": "active",
+            "id": "585e9fca-2d67-4a07-b9d1-5495de054c7a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-vocab-mappings",
+            "name": "no-vocab-mappings",
+            "revision_timestamp": "2010-10-06T16:25:09.398508",
+            "state": "active",
+            "id": "e51273d8-dc60-4cf2-a68d-3cfd33b2c1fc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2010-10-06T16:25:09.398508",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "void-sparql-endpoint",
+            "name": "void-sparql-endpoint",
+            "revision_timestamp": "2011-07-24T11:53:30.381113",
+            "state": "active",
+            "id": "9d821331-6c26-4261-bd2b-12dab19d508e"
+        }
+    ],
+    "tracking_summary": {
+        "total": 283,
+        "recent": 10
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 11,
+    "name": "chem2bio2rdf",
+    "isopen": false,
+    "url": "http://chem2bio2rdf.org",
+    "notes": "",
+    "title": "Chem2Bio2RDF",
+    "extras": [
+        {
+            "value": "408326",
+            "key": "links:bio2rdf-cas",
+            "__extras": {
+                "package_id": "81a66e0a-70e4-4d62-ac0b-fd039db7179b",
+                "revision_id": "144e943d-9155-46db-b984-68da580090b3"
+            }
+        },
+        {
+            "value": "25867",
+            "key": "links:bio2rdf-geneid",
+            "__extras": {
+                "revision_id": "144e943d-9155-46db-b984-68da580090b3",
+                "package_id": "81a66e0a-70e4-4d62-ac0b-fd039db7179b"
+            }
+        },
+        {
+            "value": "609612",
+            "key": "links:bio2rdf-mesh",
+            "__extras": {
+                "package_id": "81a66e0a-70e4-4d62-ac0b-fd039db7179b",
+                "revision_id": "144e943d-9155-46db-b984-68da580090b3"
+            }
+        },
+        {
+            "value": "27658",
+            "key": "links:bio2rdf-omim",
+            "__extras": {
+                "package_id": "81a66e0a-70e4-4d62-ac0b-fd039db7179b",
+                "revision_id": "144e943d-9155-46db-b984-68da580090b3"
+            }
+        },
+        {
+            "value": "109876",
+            "key": "links:bio2rdf-pubmed",
+            "__extras": {
+                "package_id": "81a66e0a-70e4-4d62-ac0b-fd039db7179b",
+                "revision_id": "144e943d-9155-46db-b984-68da580090b3"
+            }
+        },
+        {
+            "value": "111384",
+            "key": "links:bio2rdf-taxon",
+            "__extras": {
+                "package_id": "81a66e0a-70e4-4d62-ac0b-fd039db7179b",
+                "revision_id": "144e943d-9155-46db-b984-68da580090b3"
+            }
+        },
+        {
+            "value": "http://chem2bio2rdf.org/bindingdb/",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "7dddba0f-c08a-4025-bdf0-27ffa70273f3",
+                "package_id": "81a66e0a-70e4-4d62-ac0b-fd039db7179b"
+            }
+        },
+        {
+            "value": "82925998",
+            "key": "triples",
+            "__extras": {
+                "package_id": "81a66e0a-70e4-4d62-ac0b-fd039db7179b",
+                "revision_id": "cb55c00b-e3f0-4150-bb6e-3e32791aed26"
+            }
+        }
+    ],
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "8ce1a5e2-adcf-4ac3-b48a-e8b79b198f14"
+}

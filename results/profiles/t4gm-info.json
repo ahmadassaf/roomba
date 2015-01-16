@@ -1,0 +1,277 @@
+{
+    "license_title": "Open Data Commons Open Database License 1.0",
+    "maintainer": "Bradley P. Allen <http://bradleypallen.org>",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "bradley.p.allen@gmail.com",
+    "revision_timestamp": "2013-10-10T23:47:46.097757",
+    "id": "655ebced-6c74-4df3-9049-646796453b24",
+    "metadata_created": "2009-10-27T19:02:17.316586",
+    "owner_org": "b15a85e0-4870-4d6f-8cb1-a5e1b12a83df",
+    "metadata_modified": "2013-10-10T23:47:46.097757",
+    "author": "Bradley P. Allen <http://bradleypallen.org>",
+    "author_email": "bradley.p.allen@gmail.com",
+    "state": "active",
+    "version": "1.1",
+    "license_id": "ODbL-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "application/xhtml+xml",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Linked Data entry point (RDFa)",
+            "format": "application/xhtml+xml",
+            "url": "http://www.t4gm.info",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 11,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-06-11T22:20:56.167920",
+            "webstore_url": "",
+            "resource_group_id": "1ff815f6-20a9-a796-ac3b-e6cd5405b609",
+            "state": "active",
+            "last_modified": "2012-06-12T00:00:00",
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "3b375f03-3a17-4840-826a-5cfce025e6e6",
+            "size": "3952",
+            "id": "dfbabf14-2adc-448d-bdcf-049ee3b567c3",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download (RDF/XML)",
+            "format": "application/rdf+xml",
+            "url": "http://www.t4gm.info/linkset",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 5,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-06-13T10:09:16.041014",
+            "webstore_url": "",
+            "resource_group_id": "1ff815f6-20a9-a796-ac3b-e6cd5405b609",
+            "state": "active",
+            "last_modified": "2012-06-13T10:09:14.320915",
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "ef9b100e-8df1-4633-be21-b1402f38f605",
+            "size": "2929915",
+            "id": "dc10b7f0-7d42-4d16-b4d8-669521f279f5",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "ckanupload.esw.200910",
+            "name": "ckanupload.esw.200910",
+            "revision_timestamp": "2009-10-27T19:02:17.316586",
+            "state": "active",
+            "id": "a02db6d4-95bd-4766-93f9-c34a087cadf8"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "decommissioned",
+            "name": "decommissioned",
+            "revision_timestamp": "2012-06-11T22:51:17.819636",
+            "state": "active",
+            "id": "07b48c63-6366-40e5-a297-b4cd5a9b2e35"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-dc",
+            "name": "format-dc",
+            "revision_timestamp": "2011-07-20T20:54:37.117613",
+            "state": "active",
+            "id": "0b675a54-621f-4fdb-850a-ef5d0b1b1ca3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2009-10-27T19:02:17.316586",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-skos",
+            "name": "format-skos",
+            "revision_timestamp": "2010-09-10T15:52:56.528016",
+            "state": "active",
+            "id": "4d405572-6308-41ed-a021-1990e618a626"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "library",
+            "name": "library",
+            "revision_timestamp": "2009-10-28T17:44:22.481254",
+            "state": "active",
+            "id": "7ec1ef56-6c27-4299-a3fa-578756ddc421"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "linkeddata",
+            "name": "linkeddata",
+            "revision_timestamp": "2009-10-30T17:59:46.156654",
+            "state": "active",
+            "id": "7b2b43f4-096d-4367-b702-e1d1a8442664"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lld",
+            "name": "lld",
+            "revision_timestamp": "2011-01-05T21:01:25.502600",
+            "state": "active",
+            "id": "c1dea2c0-3fb8-47b8-9b37-c076756e6420"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2009-10-30T17:59:46.156654",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-proprietary-vocab",
+            "name": "no-proprietary-vocab",
+            "revision_timestamp": "2010-10-07T08:28:50.766688",
+            "state": "active",
+            "id": "aef04cb8-a7aa-4419-8184-396b0ef6e680"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-provenance-metadata",
+            "name": "no-provenance-metadata",
+            "revision_timestamp": "2010-10-07T08:28:50.766688",
+            "state": "active",
+            "id": "585e9fca-2d67-4a07-b9d1-5495de054c7a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "publications",
+            "name": "publications",
+            "revision_timestamp": "2010-10-07T08:28:50.766688",
+            "state": "active",
+            "id": "c93ebe8f-83a0-498c-8704-1de94db149e9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2010-10-07T08:28:50.766688",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "rdf",
+            "name": "rdf",
+            "revision_timestamp": "2009-10-27T19:02:17.316586",
+            "state": "active",
+            "id": "6ae4215c-a85b-457c-862b-5a8718b02c6f"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "thesaurus",
+            "name": "thesaurus",
+            "revision_timestamp": "2010-09-08T16:01:17.091185",
+            "state": "active",
+            "id": "e37c9009-b3ad-4e0c-ada5-b04ae215ea21"
+        }
+    ],
+    "tracking_summary": {
+        "total": 181,
+        "recent": 5
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 15,
+    "name": "t4gm-info",
+    "isopen": true,
+    "url": "http://www.t4gm.info/",
+    "notes": "Published in 2009, t4gm.info was a Linked Data rendering in RDFa of the Library of Congress' Thesaurus for Graphic Materials. It is now an early example of [a linked data set that has been permanently removed from the Web][1], since it has been superceded by the U.S. Library of Congress' own [Thesaurus for Graphic Materials][2], now provided as part of the Library of Congress's linked data services. t4gm.info was unpublished in 2012.\r\n\r\n[This page][3] provides a brief [VoiD][4] description of the t4gm.info dataset and its relationship to the equivalent information at id.loc.gov, expressed in RDFa. In addition, this site provides a specific mapping of resources from t4gm.info to id.loc.gov as [a VoiD linkset][5]. Both the VoiD dataset and linkset descriptions can be retrieved through content negotiation in a variety of linked data formats (i.e., in either RDF/XML, Turtle, or N-Triples.) GET requests for t4gm.info concept resources are redirected as 301 Moved Permanently to the equivalent resource at id.loc.gov. GET requests for any other resources that were part of the original t4gm.info site are returned as 410 Gone.\r\n\r\n [1]: http://patterns.dataincubator.org/book/unpublish.html\r\n [2]: http://id.loc.gov/vocabulary/graphicMaterials.html\r\n [3]: http://www.t4gm.info\r\n [4]: http://www.w3.org/TR/void/\r\n [5]: http://www.t4gm.info/linkset\r\n [6]: http://bradleypallen.org\r\n [7]: http://thedatahub.org/en/dataset/t4gm-info",
+    "title": "Thesaurus for Graphic Materials (t4gm.info)",
+    "extras": [
+        {
+            "value": "12045",
+            "key": "links:lcsh",
+            "__extras": {
+                "package_id": "655ebced-6c74-4df3-9049-646796453b24",
+                "revision_id": "2574ffb9-27b4-4b82-a058-e50dae2dd5fa"
+            }
+        },
+        {
+            "value": "http://www.t4gm.info/",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "293b49cf-f74f-4a3c-90c2-185d0a244d86",
+                "package_id": "655ebced-6c74-4df3-9049-646796453b24"
+            }
+        },
+        {
+            "value": "t4gm.info",
+            "key": "shortname",
+            "__extras": {
+                "revision_id": "a20d9c26-6c93-4add-a47e-d2f69f8e9c8a",
+                "package_id": "655ebced-6c74-4df3-9049-646796453b24"
+            }
+        },
+        {
+            "value": "thesaurus",
+            "key": "topic",
+            "__extras": {
+                "revision_id": "4d77caac-9ef5-49fc-a314-1bad61b91f26",
+                "package_id": "655ebced-6c74-4df3-9049-646796453b24"
+            }
+        },
+        {
+            "value": "12057",
+            "key": "triples",
+            "__extras": {
+                "package_id": "655ebced-6c74-4df3-9049-646796453b24",
+                "revision_id": "2574ffb9-27b4-4b82-a058-e50dae2dd5fa"
+            }
+        }
+    ],
+    "license_url": "http://www.opendefinition.org/licenses/odc-odbl",
+    "organization": {
+        "description": "This group comprises open bibliographic datasets according to the [Principles on Open Bibliographic Data](http://openbiblio.net/principles) and a few not yet really open bibliographic datasets.\r\n\r\nIt is maintained by members of the [OKFN Working Group on Open Bibliographic Data](http://openbiblio.net/).\r\n",
+        "title": "Bibliographic Data",
+        "created": "2010-02-26T11:12:18.334260",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T14:28:11.214722",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://assets.okfn.org/web/images/header-logox2.png",
+        "revision_id": "98afb2ca-a8cb-4610-a5ec-0795b0489c49",
+        "type": "organization",
+        "id": "b15a85e0-4870-4d6f-8cb1-a5e1b12a83df",
+        "name": "bibliographic"
+    },
+    "revision_id": "3de5c0f3-dc54-41ba-98cc-a964cdb2f964",
+    "license_information": {
+        "domain_content": false,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "",
+        "status": "active"
+    }
+}

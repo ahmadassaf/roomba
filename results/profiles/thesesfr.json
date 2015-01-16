@@ -1,0 +1,269 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "Yann NICOLAS",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "nicolas@abes.fr",
+    "revision_timestamp": "2013-10-10T23:54:28.400966",
+    "id": "f74aeb7e-4f57-4009-adb2-a23319ea3c3b",
+    "metadata_created": "2011-07-13T22:24:01.098780",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T23:54:28.400966",
+    "author": "ABES",
+    "author_email": "apisudoc@abes.fr",
+    "state": "active",
+    "version": "",
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "application/xml",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "thesis metadata in RDF",
+            "format": "example/rdf+xml",
+            "url": "http://www.theses.fr/2006INPL032N.rdf",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 25,
+                "recent": 7
+            },
+            "revision_timestamp": "2011-07-14T09:27:44.729064",
+            "webstore_url": null,
+            "resource_group_id": "6cce40e4-d060-425d-8e8c-d5422c703f47",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "e2bee5b7-4115-45a8-abe6-af5141c6b48c",
+            "size": "8999",
+            "id": "c8dbccf4-810a-4e11-8103-9f1c0deb87e4",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/xml",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "thesis advisor metadata in RDF",
+            "format": "example/rdf+xml",
+            "url": "http://www.theses.fr/111219930.rdf",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 7,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-07-14T09:27:44.729064",
+            "webstore_url": null,
+            "resource_group_id": "6cce40e4-d060-425d-8e8c-d5422c703f47",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "e2bee5b7-4115-45a8-abe6-af5141c6b48c",
+            "size": "9218",
+            "id": "3803c64b-0cc8-4bf5-bc5b-bcee4a6a9f31",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Sitemap",
+            "format": "meta/sitemap",
+            "url": "http://www.theses.fr/sitemap.xml",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 5,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-07-14T19:22:19.599246",
+            "webstore_url": null,
+            "resource_group_id": "6cce40e4-d060-425d-8e8c-d5422c703f47",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "48e01aa9-f271-4704-bdc8-95d9b0a7dc74",
+            "size": "4212",
+            "id": "a14121d3-4bc0-4c55-a190-ba8bae4dad73",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 3,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "abes",
+            "name": "abes",
+            "revision_timestamp": "2011-07-13T22:24:01.098780",
+            "state": "active",
+            "id": "4d6f823d-0721-4ef8-a575-ae0b5e8998ec"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "dissertations",
+            "name": "dissertations",
+            "revision_timestamp": "2011-07-13T22:24:01.098780",
+            "state": "active",
+            "id": "392b4f57-eb3c-46f6-a69c-d5e8912113e2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-dc",
+            "name": "format-dc",
+            "revision_timestamp": "2011-07-20T21:00:48.307452",
+            "state": "active",
+            "id": "0b675a54-621f-4fdb-850a-ef5d0b1b1ca3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "france",
+            "name": "france",
+            "revision_timestamp": "2011-07-13T22:24:01.098780",
+            "state": "active",
+            "id": "2309cc4f-f332-41b9-87f8-8f2dbb2f425c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lld",
+            "name": "lld",
+            "revision_timestamp": "2011-07-13T23:38:37.692862",
+            "state": "active",
+            "id": "c1dea2c0-3fb8-47b8-9b37-c076756e6420"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2011-07-14T09:31:43.380539",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2011-07-14T21:39:11.748146",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-proprietary-vocab",
+            "name": "no-proprietary-vocab",
+            "revision_timestamp": "2011-07-14T19:31:08.625776",
+            "state": "active",
+            "id": "aef04cb8-a7aa-4419-8184-396b0ef6e680"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "provenance-metadata",
+            "name": "provenance-metadata",
+            "revision_timestamp": "2011-07-14T21:39:11.748146",
+            "state": "active",
+            "id": "24a0f0a3-36bc-4209-84e5-7d6b89d82dfa"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "publications",
+            "name": "publications",
+            "revision_timestamp": "2011-07-14T09:32:37.022770",
+            "state": "active",
+            "id": "c93ebe8f-83a0-498c-8704-1de94db149e9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-producer",
+            "name": "published-by-producer",
+            "revision_timestamp": "2011-07-14T21:40:17.839999",
+            "state": "active",
+            "id": "fcdb5c0a-2b91-44cb-83e5-19fd0d81125c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "rdf",
+            "name": "rdf",
+            "revision_timestamp": "2011-07-13T22:24:01.098780",
+            "state": "active",
+            "id": "6ae4215c-a85b-457c-862b-5a8718b02c6f"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "theses",
+            "name": "theses",
+            "revision_timestamp": "2011-07-13T22:24:01.098780",
+            "state": "active",
+            "id": "e7707923-9d2d-4f47-abe5-17ffa89acb72"
+        }
+    ],
+    "tracking_summary": {
+        "total": 391,
+        "recent": 21
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 13,
+    "name": "thesesfr",
+    "isopen": true,
+    "url": "http://www.theses.fr",
+    "notes": "Source : [theses.fr](http://www.theses.fr)\r\n\r\ntheses.fr is the french dissertations search engine, maintained by ABES\r\n\r\n\r\nLicensing : not yet, but will be as open as possible\r\n\r\nNB : The RDFa of theses.fr is being tested and will be be fixed in next days.",
+    "title": "theses.fr",
+    "extras": [
+        {
+            "value": "30000",
+            "key": "links:idreffr",
+            "__extras": {
+                "package_id": "f74aeb7e-4f57-4009-adb2-a23319ea3c3b",
+                "revision_id": "e2bee5b7-4115-45a8-abe6-af5141c6b48c"
+            }
+        },
+        {
+            "value": "http://www.theses.fr/",
+            "key": "namesapce",
+            "__extras": {
+                "revision_id": "e86a183e-7de3-4640-a45c-3585970171cc",
+                "package_id": "f74aeb7e-4f57-4009-adb2-a23319ea3c3b"
+            }
+        },
+        {
+            "value": "http://www.theses.fr/",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "74e6e912-3a49-434a-abb2-6b81a991a522",
+                "package_id": "f74aeb7e-4f57-4009-adb2-a23319ea3c3b"
+            }
+        },
+        {
+            "value": "300000",
+            "key": "triples",
+            "__extras": {
+                "package_id": "f74aeb7e-4f57-4009-adb2-a23319ea3c3b",
+                "revision_id": "c52807c1-b405-4183-9573-44e8b1d9b72b"
+            }
+        }
+    ],
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "63b555ad-2c70-42aa-95a8-144a565d226b"
+}

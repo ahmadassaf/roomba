@@ -1,0 +1,343 @@
+{
+    "license_title": "Open Data Commons Public Domain Dedication and Licence 1.0",
+    "maintainer": "Keith Alexander",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "keithalexander@keithalexander.co.uk",
+    "revision_timestamp": "2013-10-10T23:19:29.680758",
+    "id": "a5355e68-0ffd-4946-b855-2a7b9a1dc44e",
+    "metadata_created": "2010-09-17T01:08:01.637137",
+    "owner_org": "b15a85e0-4870-4d6f-8cb1-a5e1b12a83df",
+    "metadata_modified": "2013-10-10T23:19:29.680758",
+    "author": "Keith Alexander",
+    "author_email": "keithalexander@keithalexander.co.uk",
+    "state": "active",
+    "version": "0.1",
+    "license_id": "ODC-PDDL-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "text/html",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "voiD description",
+            "format": "meta/void",
+            "url": "http://keithalexander.co.uk/pbac",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 9,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-09-19T17:44:56.323907",
+            "webstore_url": "",
+            "resource_group_id": "e5523d78-0a57-5ded-32fd-985f77cec4e6",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "8fd77467-91e8-422a-9ed4-11d24b80604a",
+            "size": null,
+            "id": "6098ab52-714b-48e3-8314-b43b77f6e28f",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "SPARQL endpoint",
+            "format": "api/sparql",
+            "url": "http://api.talis.com/stores/pbac/services/sparql",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 7,
+                "recent": 5
+            },
+            "revision_timestamp": "2012-09-19T17:44:56.323907",
+            "webstore_url": "",
+            "resource_group_id": "e5523d78-0a57-5ded-32fd-985f77cec4e6",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "8fd77467-91e8-422a-9ed4-11d24b80604a",
+            "size": null,
+            "id": "e4df9e2a-b823-4015-8cb9-f6825644ffa5",
+            "resource_type": "",
+            "name": ""
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Example (RDF/XML)",
+            "format": "example/rdf+xml",
+            "url": "http://keithalexander.co.uk/pbac/identified/agents/405.rdf",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 13,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-09-19T17:44:56.323907",
+            "webstore_url": "",
+            "resource_group_id": "e5523d78-0a57-5ded-32fd-985f77cec4e6",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "8fd77467-91e8-422a-9ed4-11d24b80604a",
+            "size": null,
+            "id": "6c241a0e-2af4-4425-8853-3d6cbf44bbad",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 3,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "auction",
+            "name": "auction",
+            "revision_timestamp": "2010-09-17T01:09:46.997941",
+            "state": "active",
+            "id": "b9f081fa-b107-40f4-9f4a-3c259f6a5b96"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "bibliographic",
+            "name": "bibliographic",
+            "revision_timestamp": "2010-09-17T01:08:01.637137",
+            "state": "active",
+            "id": "01d76f4d-6bf5-4cec-a2a8-59dc3f24ab2d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "book",
+            "name": "book",
+            "revision_timestamp": "2010-09-17T01:09:46.997941",
+            "state": "active",
+            "id": "ebd1e523-e8aa-4ab3-a59a-bff3bdb4af61"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "catalogue",
+            "name": "catalogue",
+            "revision_timestamp": "2010-09-17T01:09:46.997941",
+            "state": "active",
+            "id": "00ad1680-c150-4281-861b-83637b859a77"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2010-10-07T09:58:52.724750",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "dutch",
+            "name": "dutch",
+            "revision_timestamp": "2010-09-17T01:09:46.997941",
+            "state": "active",
+            "id": "565e16fb-1714-4542-8914-98d9963d6252"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "english",
+            "name": "english",
+            "revision_timestamp": "2010-09-17T01:09:46.997941",
+            "state": "active",
+            "id": "a42d708b-6465-4188-af70-937821d9bdab"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2011-07-20T21:11:56.238813",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdfs",
+            "name": "format-rdfs",
+            "revision_timestamp": "2010-10-05T16:00:33.751960",
+            "state": "active",
+            "id": "781902f8-ba13-4330-bba3-54d0bbf24b58"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "historical",
+            "name": "historical",
+            "revision_timestamp": "2010-09-17T01:09:46.997941",
+            "state": "active",
+            "id": "f5aeb78b-abaf-439f-83af-0fa918563b22"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "holland",
+            "name": "holland",
+            "revision_timestamp": "2010-09-17T01:09:46.997941",
+            "state": "active",
+            "id": "fd3738e4-d472-4f22-b321-d3e29e117de6"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "license-metadata",
+            "name": "license-metadata",
+            "revision_timestamp": "2010-10-07T09:58:52.724750",
+            "state": "active",
+            "id": "8d7e5c73-261b-4137-a278-42f56a6ec4bb"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lld",
+            "name": "lld",
+            "revision_timestamp": "2011-08-09T16:05:13.491668",
+            "state": "active",
+            "id": "c1dea2c0-3fb8-47b8-9b37-c076756e6420"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2010-09-17T01:08:01.637137",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-vocab-mappings",
+            "name": "no-vocab-mappings",
+            "revision_timestamp": "2010-10-07T09:58:52.724750",
+            "state": "active",
+            "id": "e51273d8-dc60-4cf2-a68d-3cfd33b2c1fc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "printed",
+            "name": "printed",
+            "revision_timestamp": "2010-09-17T01:09:46.997941",
+            "state": "active",
+            "id": "e13fa1ce-4dde-4a3c-9d8f-6df7dd66c1b5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "provenance-metadata",
+            "name": "provenance-metadata",
+            "revision_timestamp": "2010-10-07T09:58:52.724750",
+            "state": "active",
+            "id": "24a0f0a3-36bc-4209-84e5-7d6b89d82dfa"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "publications",
+            "name": "publications",
+            "revision_timestamp": "2010-09-17T01:08:01.637137",
+            "state": "active",
+            "id": "c93ebe8f-83a0-498c-8704-1de94db149e9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2010-10-07T10:00:34.924447",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "puritans",
+            "name": "puritans",
+            "revision_timestamp": "2010-09-17T01:09:46.997941",
+            "state": "active",
+            "id": "ccf05df1-9ede-4097-bcea-8c817fbee1ed"
+        }
+    ],
+    "tracking_summary": {
+        "total": 185,
+        "recent": 7
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 20,
+    "name": "printed-book-auction-catalogues",
+    "isopen": true,
+    "url": "http://keithalexander.co.uk/pbac",
+    "notes": "The books are those listed in the English language section of Dutch printed book auction catalogues of collections of scholars and religious ministers. In some cases, the prior owner of the books listed was from England; in others they were of dutch nationality. For more information about printed book auction catalogues, see http://bibliopolis.nl",
+    "title": "English Language Books listed in Printed Book Auction Catalogues from 17th Century Holland",
+    "extras": [
+        {
+            "value": "1607",
+            "key": "links:dbpedia",
+            "__extras": {
+                "package_id": "a5355e68-0ffd-4946-b855-2a7b9a1dc44e",
+                "revision_id": "b093989c-0d9d-4461-904e-833baddab9b7"
+            }
+        },
+        {
+            "value": "http://keithalexander.co.uk/pbac",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "cef75dac-bfb9-420b-9807-0fbdf060b22b",
+                "package_id": "a5355e68-0ffd-4946-b855-2a7b9a1dc44e"
+            }
+        },
+        {
+            "value": "11143",
+            "key": "numberOfResources",
+            "__extras": {
+                "revision_id": "b093989c-0d9d-4461-904e-833baddab9b7",
+                "package_id": "a5355e68-0ffd-4946-b855-2a7b9a1dc44e"
+            }
+        },
+        {
+            "value": "PBAC",
+            "key": "shortname",
+            "__extras": {
+                "revision_id": "dc15e201-22bb-4897-ab5b-3c0e8bea9abf",
+                "package_id": "a5355e68-0ffd-4946-b855-2a7b9a1dc44e"
+            }
+        },
+        {
+            "value": "55214",
+            "key": "triples",
+            "__extras": {
+                "package_id": "a5355e68-0ffd-4946-b855-2a7b9a1dc44e",
+                "revision_id": "b093989c-0d9d-4461-904e-833baddab9b7"
+            }
+        }
+    ],
+    "license_url": "http://www.opendefinition.org/licenses/odc-pddl",
+    "organization": {
+        "description": "This group comprises open bibliographic datasets according to the [Principles on Open Bibliographic Data](http://openbiblio.net/principles) and a few not yet really open bibliographic datasets.\r\n\r\nIt is maintained by members of the [OKFN Working Group on Open Bibliographic Data](http://openbiblio.net/).\r\n",
+        "title": "Bibliographic Data",
+        "created": "2010-02-26T11:12:18.334260",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T14:28:11.214722",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://assets.okfn.org/web/images/header-logox2.png",
+        "revision_id": "98afb2ca-a8cb-4610-a5ec-0795b0489c49",
+        "type": "organization",
+        "id": "b15a85e0-4870-4d6f-8cb1-a5e1b12a83df",
+        "name": "bibliographic"
+    },
+    "revision_id": "ac706495-af5f-49bd-9ac0-74d6d97c71be",
+    "license_information": {
+        "domain_content": false,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "",
+        "status": "active"
+    }
+}

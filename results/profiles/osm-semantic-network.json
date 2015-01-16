@@ -1,0 +1,363 @@
+{
+    "license_title": "Open Data Commons Open Database License 1.0",
+    "maintainer": "Andrea Ballatore",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-10T23:14:57.266235",
+    "id": "4442c93a-8588-465d-aabc-878d1a73a1ab",
+    "metadata_created": "2013-02-11T13:13:18.463780",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T23:14:57.266235",
+    "author": "Andrea Ballatore",
+    "author_email": "andrea.ballatore@ucd.ie",
+    "state": "active",
+    "version": "1.0",
+    "license_id": "ODbL-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "25269ebd-2489-47ec-a038-7fe1ceac3674",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-21T10:17:41.187230",
+            "webstore_last_updated": null,
+            "id": "b58b9e39-1fb7-4ebf-aadf-59589e7993fd",
+            "size": "11007634",
+            "state": "active",
+            "hash": "",
+            "description": "OSM Semantic Network.",
+            "format": "application/rdf+xml",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": "",
+            "mimetype": "application/rdf+xml",
+            "cache_url": "",
+            "name": "Download RDF Dump",
+            "created": "2013-02-11T07:13:18.659867",
+            "url": "http://spatial.ucd.ie/osn/skos/osm_semantic_network.skos.rdf",
+            "webstore_url": "",
+            "last_modified": "2013-02-11T07:13:20.141376",
+            "position": 0,
+            "revision_id": "119ceb1f-7bcd-4816-9f89-f2e014642184",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "25269ebd-2489-47ec-a038-7fe1ceac3674",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-21T10:17:41.187230",
+            "webstore_last_updated": null,
+            "id": "33822ff1-37d1-4b37-a8b6-3a6afed4a778",
+            "size": "1758185",
+            "state": "active",
+            "hash": "",
+            "description": "Semantic mappings of OSM terms with WordNet, LinkedGeoData, DBpedia",
+            "format": "application/rdf+xml",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": "",
+            "mimetype": "application/rdf+xml",
+            "cache_url": "",
+            "name": "Download RDF LOD Mappings",
+            "created": "2013-02-11T07:17:59.253151",
+            "url": "http://spatial.ucd.ie/osn/skos/osm_semantic_network_mappings.rdf",
+            "webstore_url": "",
+            "last_modified": "2013-02-11T07:18:00.589421",
+            "position": 1,
+            "revision_id": "119ceb1f-7bcd-4816-9f89-f2e014642184",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "25269ebd-2489-47ec-a038-7fe1ceac3674",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-02-11T13:23:34.086379",
+            "webstore_last_updated": null,
+            "id": "50cd7bf4-ffea-4320-8876-e4d752a8a7d7",
+            "size": "7348",
+            "state": "active",
+            "hash": "",
+            "description": "",
+            "format": "api/sparql",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": "",
+            "mimetype": "text/html",
+            "cache_url": "",
+            "name": "SPARQL End Point",
+            "created": "2013-02-11T07:19:14.898956",
+            "url": "http://spatial.ucd.ie/lod/sparql",
+            "webstore_url": "",
+            "last_modified": "2013-02-11T07:19:16.376695",
+            "position": 2,
+            "revision_id": "87e13f90-6b1b-4409-9040-706a3387bc02",
+            "resource_type": "api",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "25269ebd-2489-47ec-a038-7fe1ceac3674",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-21T18:35:44.591371",
+            "webstore_last_updated": null,
+            "id": "eefbc145-986d-4773-8559-df3b1ca7a964",
+            "size": "17700",
+            "state": "active",
+            "hash": "",
+            "description": "waterway=river",
+            "format": "application/rdf+xml",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": "",
+            "mimetype": "text/rdf+n3",
+            "cache_url": "",
+            "name": "Example URI (waterway=river)",
+            "created": "2013-03-21T10:59:31.148432",
+            "url": "http://spatial.ucd.ie/lod/osn/data/term/k:waterway/v:river",
+            "webstore_url": "",
+            "last_modified": "2013-03-21T11:06:22.768841",
+            "position": 3,
+            "revision_id": "b493b825-cc2f-4593-89a7-4363d5b16a8d",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "25269ebd-2489-47ec-a038-7fe1ceac3674",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-21T18:35:44.591371",
+            "webstore_last_updated": null,
+            "id": "abaf084a-2f69-4f80-842b-112c9c02426c",
+            "size": "34455",
+            "state": "active",
+            "hash": "",
+            "description": "Term: amenity=university",
+            "format": "application/rdf+xml",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": "",
+            "mimetype": "text/html",
+            "cache_url": "",
+            "name": "Example URI (amenity=university)",
+            "created": "2013-03-21T11:05:33.591660",
+            "url": "http://spatial.ucd.ie/lod/osn/term/k:amenity/v:university",
+            "webstore_url": "",
+            "last_modified": "2013-03-21T11:06:02.384258",
+            "position": 4,
+            "revision_id": "b493b825-cc2f-4593-89a7-4363d5b16a8d",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 5,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2013-03-21T09:53:17.258367",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-skos",
+            "name": "format-skos",
+            "revision_timestamp": "2013-03-21T09:54:18.121227",
+            "state": "active",
+            "id": "4d405572-6308-41ed-a021-1990e618a626"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "geographic",
+            "name": "geographic",
+            "revision_timestamp": "2013-02-11T13:14:25.774125",
+            "state": "active",
+            "id": "dc08d94b-fbac-4bfc-92f0-94bee5fd546a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "geospatial information",
+            "name": "geospatial information",
+            "revision_timestamp": "2013-02-11T16:17:08.474811",
+            "state": "active",
+            "id": "946c2068-a687-433b-9302-13624b66624a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "license-metadata",
+            "name": "license-metadata",
+            "revision_timestamp": "2013-03-21T09:56:20.635179",
+            "state": "active",
+            "id": "8d7e5c73-261b-4137-a278-42f56a6ec4bb"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "linked open data",
+            "name": "linked open data",
+            "revision_timestamp": "2013-02-11T16:17:08.474811",
+            "state": "active",
+            "id": "13215563-99f6-4e0e-9207-2b23427c54f7"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2013-03-21T09:46:56.521658",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "maps",
+            "name": "maps",
+            "revision_timestamp": "2013-02-11T16:17:08.474811",
+            "state": "active",
+            "id": "bf9b5ff7-db43-4118-aa63-c9d47b822c75"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "openstreetmap",
+            "name": "openstreetmap",
+            "revision_timestamp": "2013-02-11T13:14:25.774125",
+            "state": "active",
+            "id": "7565cfb2-facc-4799-8004-15fef6e5e820"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "osm",
+            "name": "osm",
+            "revision_timestamp": "2013-02-11T13:14:25.774125",
+            "state": "active",
+            "id": "7bcfa1e6-26cb-475e-8f9c-bdddd2a051ff"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "provenance-metadata",
+            "name": "provenance-metadata",
+            "revision_timestamp": "2013-03-21T09:55:22.888710",
+            "state": "active",
+            "id": "24a0f0a3-36bc-4209-84e5-7d6b89d82dfa"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2013-03-21T09:52:47.132445",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "semantics",
+            "name": "semantics",
+            "revision_timestamp": "2013-02-11T16:17:08.474811",
+            "state": "active",
+            "id": "ad0f2186-7451-4d28-b9d0-caf20bc27aaf"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "vocab-mappings",
+            "name": "vocab-mappings",
+            "revision_timestamp": "2013-03-21T09:54:50.712554",
+            "state": "active",
+            "id": "7fb7cacf-4e96-4986-9c3f-03ed4ed05f61"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "vocabulary",
+            "name": "vocabulary",
+            "revision_timestamp": "2013-02-11T13:14:25.774125",
+            "state": "active",
+            "id": "8b63be5d-4a37-4bb1-b6e2-e841723d3da5"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 15,
+    "name": "osm-semantic-network",
+    "isopen": true,
+    "url": "http://wiki.openstreetmap.org/wiki/OSM_Semantic_Network",
+    "notes": "The **OSM Semantic Network** is a Semantic Web resource extracted from the [OpenStreetMap Wiki website](http://wiki.openstreetmap.org), encoded as a SKOS vocabulary. It contains a machine-readable representation of the tags (i.e. terms) used to describe [map features](http://wiki.openstreetmap.org/wiki/Map_Features) in OSM, and several semantic relations between them. The OSM terms are linked to [LinkedGeoData](http://datahub.io/dataset/linkedgeodata) and WordNet.\r\n\r\nAuthor & Maintaner: [Andrea Ballatore](https://sites.google.com/site/andreaballatore)",
+    "title": "OSM Semantic Network",
+    "extras": [
+        {
+            "value": "School of Computer Science and Informatics",
+            "key": "Department",
+            "__extras": {
+                "revision_id": "44baca2e-ce48-49ef-9d55-4889631f6ac2",
+                "package_id": "4442c93a-8588-465d-aabc-878d1a73a1ab"
+            }
+        },
+        {
+            "value": "University College Dublin",
+            "key": "Institution",
+            "__extras": {
+                "revision_id": "44baca2e-ce48-49ef-9d55-4889631f6ac2",
+                "package_id": "4442c93a-8588-465d-aabc-878d1a73a1ab"
+            }
+        },
+        {
+            "value": "1335",
+            "key": "links:linkedgeodata",
+            "__extras": {
+                "revision_id": "bb455d55-9bc3-419e-b791-e73872cc9838",
+                "package_id": "4442c93a-8588-465d-aabc-878d1a73a1ab"
+            }
+        },
+        {
+            "value": "http://spatial.ucd.ie/lod/osn",
+            "key": "namespace",
+            "__extras": {
+                "package_id": "4442c93a-8588-465d-aabc-878d1a73a1ab",
+                "revision_id": "91099fcd-1d46-4e0a-95ca-67e55c6dd932"
+            }
+        },
+        {
+            "value": "126621",
+            "key": "triples",
+            "__extras": {
+                "package_id": "4442c93a-8588-465d-aabc-878d1a73a1ab",
+                "revision_id": "71b2e63a-e227-4c04-b1f8-29b8aa1ce0b0"
+            }
+        }
+    ],
+    "license_url": "http://www.opendefinition.org/licenses/odc-odbl",
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "c3950f1f-c869-41d5-8a12-84061d796270",
+    "license_information": {
+        "domain_content": false,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "",
+        "status": "active"
+    }
+}

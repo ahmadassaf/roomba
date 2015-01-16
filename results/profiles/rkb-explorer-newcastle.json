@@ -1,0 +1,763 @@
+{
+    "license_title": "Creative Commons Attribution 4.0",
+    "maintainer": "",
+    "relationships_as_object": [
+        {
+            "comment": "14",
+            "type": "links_to",
+            "id": "a0d306e9-5dae-4aa3-be58-dbb97926c15c",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:22:06.385496",
+                "object_package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3",
+                "revision_id": "0f480970-b361-48ae-99d2-55a9856ec79e",
+                "subject_package_id": "6e829250-dd11-45d2-bdcc-15281e1bda21"
+            }
+        },
+        {
+            "comment": "239",
+            "type": "links_to",
+            "id": "bd0cfe9a-f22f-4877-8264-26d502ad94f0",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:22:53.032872",
+                "subject_package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a",
+                "revision_id": "d06bf270-1b88-4d8d-aaaa-909fcef4d4b2",
+                "object_package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3"
+            }
+        },
+        {
+            "comment": "3",
+            "type": "links_to",
+            "id": "3c3856a1-ec15-492c-afbb-e9e302a446fd",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:23:49.780619",
+                "object_package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3",
+                "revision_id": "b0a35d5d-cb3d-455c-a876-6cedeef633c6",
+                "subject_package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37"
+            }
+        },
+        {
+            "comment": "3",
+            "type": "links_to",
+            "id": "fd6de8c7-a935-4272-81c7-40ad722aae7f",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:23:15.268886",
+                "object_package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3",
+                "revision_id": "9bfff0f3-3962-421c-a30a-417edbaa7e96",
+                "subject_package_id": "77b1e682-7595-470c-b222-40561b0f0f32"
+            }
+        },
+        {
+            "comment": "73",
+            "type": "links_to",
+            "id": "ae819dc4-b5f3-4e3a-9297-a20f7090aead",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:23:34.429105",
+                "object_package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3",
+                "revision_id": "4f955b8d-2c90-422b-8acc-c94fe36e5344",
+                "subject_package_id": "feec8014-10d0-47c1-9f4d-eed33dc68d83"
+            }
+        }
+    ],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-10T23:27:24.072914",
+    "id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3",
+    "metadata_created": "2010-08-23T13:45:49.026265",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T23:27:24.072914",
+    "author": "Hugh Glaser",
+    "author_email": "hg@ecs.soton.ac.uk",
+    "state": "active",
+    "version": "",
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "SPARQL endpoint",
+            "format": "api/sparql",
+            "url": "http://newcastle.rkbexplorer.com/sparql/",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 7,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-07-04T21:31:33.300648",
+            "webstore_url": "",
+            "resource_group_id": "aeaad732-09d7-21aa-617a-8e3d572ef1aa",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "adab8499-e1e7-4e4b-9806-4a92bba8466a",
+            "size": null,
+            "id": "799987f1-9325-4419-b853-51bb67ef9bc2",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "XML Sitemap",
+            "format": "meta/sitemap",
+            "url": "http://newcastle.rkbexplorer.com/sitemap.xml",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "revision_timestamp": "2012-07-04T21:31:33.300648",
+            "webstore_url": "",
+            "resource_group_id": "aeaad732-09d7-21aa-617a-8e3d572ef1aa",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "adab8499-e1e7-4e4b-9806-4a92bba8466a",
+            "size": "1927",
+            "id": "10eff130-e353-4933-8188-2c1bb69700da",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/n3",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "voiD file",
+            "format": "meta/void",
+            "url": "http://newcastle.rkbexplorer.com/models/void.ttl",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "revision_timestamp": "2012-07-04T21:31:33.300648",
+            "webstore_url": "",
+            "resource_group_id": "aeaad732-09d7-21aa-617a-8e3d572ef1aa",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "adab8499-e1e7-4e4b-9806-4a92bba8466a",
+            "size": "14818",
+            "id": "07df1a5e-ea9a-48c9-8201-567ee0870b86",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Example (RDF/XML)",
+            "format": "example/rdf+xml",
+            "url": "http://newcastle.rkbexplorer.com/id/person-10",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 9,
+                "recent": 5
+            },
+            "revision_timestamp": "2012-07-04T21:31:33.300648",
+            "webstore_url": "",
+            "resource_group_id": "aeaad732-09d7-21aa-617a-8e3d572ef1aa",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 3,
+            "revision_id": "adab8499-e1e7-4e4b-9806-4a92bba8466a",
+            "size": null,
+            "id": "e1e10dde-6466-4d9e-8f7e-4266e01f04de",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "aeaad732-09d7-21aa-617a-8e3d572ef1aa",
+            "cache_last_updated": null,
+            "revision_timestamp": "2012-07-04T21:31:34.354899",
+            "webstore_last_updated": null,
+            "id": "b8245b03-1cd8-411e-887c-87438c51fe72",
+            "size": "850473",
+            "state": "active",
+            "hash": "",
+            "description": "",
+            "format": "application/rdf+xml",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": "",
+            "mimetype": "application/x-gzip",
+            "cache_url": null,
+            "name": "Download (tar gzip of RDF)",
+            "created": "2012-07-04T21:31:33.417474",
+            "url": "http://newcastle.rkbexplorer.com/models/dump.tgz",
+            "webstore_url": "enabled",
+            "last_modified": "2012-07-04T21:31:34.133688",
+            "position": 4,
+            "revision_id": "23937d99-7d11-4e4f-9816-3745d5bc75e5",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 5,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2010-09-26T22:00:57.345343",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-akt",
+            "name": "format-akt",
+            "revision_timestamp": "2010-09-27T14:37:53.135681",
+            "state": "active",
+            "id": "f8ebd08e-fc7d-4a23-aa3f-9ad8b93e9cbc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-dc",
+            "name": "format-dc",
+            "revision_timestamp": "2010-09-27T14:37:53.135681",
+            "state": "active",
+            "id": "0b675a54-621f-4fdb-850a-ef5d0b1b1ca3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2010-08-23T13:45:49.026265",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2010-08-23T13:45:49.026265",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2010-09-26T22:00:57.345343",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-vocab-mappings",
+            "name": "no-vocab-mappings",
+            "revision_timestamp": "2010-10-06T22:06:30.825555",
+            "state": "active",
+            "id": "e51273d8-dc60-4cf2-a68d-3cfd33b2c1fc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "provenance-metadata",
+            "name": "provenance-metadata",
+            "revision_timestamp": "2010-09-26T22:00:57.345343",
+            "state": "active",
+            "id": "24a0f0a3-36bc-4209-84e5-7d6b89d82dfa"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "publications",
+            "name": "publications",
+            "revision_timestamp": "2010-09-26T22:00:57.345343",
+            "state": "active",
+            "id": "c93ebe8f-83a0-498c-8704-1de94db149e9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2010-09-26T22:00:57.345343",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "void-sparql-endpoint",
+            "name": "void-sparql-endpoint",
+            "revision_timestamp": "2011-07-24T11:55:21.171813",
+            "state": "active",
+            "id": "9d821331-6c26-4261-bd2b-12dab19d508e"
+        }
+    ],
+    "tracking_summary": {
+        "total": 176,
+        "recent": 6
+    },
+    "groups": [],
+    "relationships_as_subject": [
+        {
+            "comment": "13",
+            "type": "links_to",
+            "id": "35b76995-482f-4f5c-9355-3cdcff387054",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:24:34.994914",
+                "object_package_id": "6954f22f-2db9-49b6-afe7-b73d46338075",
+                "revision_id": "c59f1ada-cc33-4dc7-a824-02f3cdf7e490",
+                "subject_package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3"
+            }
+        },
+        {
+            "comment": "131",
+            "type": "links_to",
+            "id": "056ce7b4-dd31-409e-90ec-b0f671ca1f3d",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:24:31.169901",
+                "object_package_id": "36e89acf-8b08-4a46-8ae7-f1a5a5cdbc7c",
+                "revision_id": "158ac1e7-1018-499a-af9b-d2ece155bafe",
+                "subject_package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3"
+            }
+        },
+        {
+            "comment": "14",
+            "type": "links_to",
+            "id": "67d2f915-35a0-45e3-a241-e17773cf66df",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:24:45.777868",
+                "object_package_id": "2f65834d-2d9b-4394-95f0-318860590f98",
+                "revision_id": "c4bef8dc-ea67-4cd1-8bfe-5de6f4e09829",
+                "subject_package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3"
+            }
+        },
+        {
+            "comment": "1421",
+            "type": "links_to",
+            "id": "208a4ca5-f2db-499b-a853-9b7b113f4118",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:24:42.893826",
+                "object_package_id": "0c2ec56c-c041-4775-b733-94cecefea420",
+                "revision_id": "5cc50ded-5e27-4e59-96bc-c41c7fb1e70b",
+                "subject_package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3"
+            }
+        },
+        {
+            "comment": "1453",
+            "type": "links_to",
+            "id": "514351a6-9217-4035-93f6-1c6128f9ee68",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:24:34.104514",
+                "subject_package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3",
+                "revision_id": "29d23a29-e6a2-4987-b667-a93717046fd6",
+                "object_package_id": "3f3a5534-bafd-451f-9c2e-587a823c5f09"
+            }
+        },
+        {
+            "comment": "16",
+            "type": "links_to",
+            "id": "d9cb3f6b-2682-44e8-bbd7-f4853a0b9cbc",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:24:39.108309",
+                "object_package_id": "ddedeb88-dba0-4ac5-b8dd-f5b3142013a9",
+                "revision_id": "9a502f54-c3c5-45dd-bb79-870feba78498",
+                "subject_package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3"
+            }
+        },
+        {
+            "comment": "2",
+            "type": "links_to",
+            "id": "531412c7-031c-42a1-aaca-3996ca849da8",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:24:43.796066",
+                "object_package_id": "7565e870-177e-484a-afa7-c2d80afe1647",
+                "revision_id": "45305d19-4db1-49dc-89c4-8c46d2375aca",
+                "subject_package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3"
+            }
+        },
+        {
+            "comment": "2259",
+            "type": "links_to",
+            "id": "dd797fea-f61c-4ac0-8e1c-8a7f336f437b",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:24:37.339089",
+                "object_package_id": "3ffa7aac-7f1f-496f-801d-7941c932c631",
+                "revision_id": "95740686-a91a-46d9-9dbf-9078d66d8f31",
+                "subject_package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3"
+            }
+        },
+        {
+            "comment": "30",
+            "type": "links_to",
+            "id": "1e771c73-fd34-46a3-99e2-4e54cd1dcf84",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:24:32.953769",
+                "object_package_id": "15f90bfb-75fa-4825-a384-cff14d4f5dca",
+                "revision_id": "4f76558d-13cb-4ff1-a6ff-227274d71120",
+                "subject_package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3"
+            }
+        },
+        {
+            "comment": "40",
+            "type": "links_to",
+            "id": "92ed98e4-fa60-456b-a195-8eba9173b596",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:24:38.233919",
+                "object_package_id": "edd880c6-d9e6-4bff-999b-7e344917925c",
+                "revision_id": "b4f77a20-d4a9-4d1f-8d24-80506683d99f",
+                "subject_package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3"
+            }
+        },
+        {
+            "comment": "7",
+            "type": "links_to",
+            "id": "bc4f465d-ecf1-41ed-b88d-7c14c0572de0",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:24:41.871775",
+                "subject_package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3",
+                "revision_id": "cc67b89b-5cb2-4de2-b544-2101396b1dfb",
+                "object_package_id": "1969c668-a7db-4c65-971b-81cf4b3d1a75"
+            }
+        },
+        {
+            "comment": "728",
+            "type": "links_to",
+            "id": "3f6f99a5-9a38-4b35-b164-c751d4e96d1a",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:24:32.009044",
+                "object_package_id": "11830d16-fc34-49ac-acbb-4ffee77f2398",
+                "revision_id": "d88a8319-c10a-4693-96e1-e2b851dfa0e1",
+                "subject_package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3"
+            }
+        },
+        {
+            "comment": "78",
+            "type": "links_to",
+            "id": "d2f22a07-a3ac-4c6d-b110-9965b73cb772",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:24:48.033843",
+                "object_package_id": "fb7a2113-ce0d-4ca0-b23d-278d915433a1",
+                "revision_id": "3e460fc9-13db-402d-9af1-64a6226450aa",
+                "subject_package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3"
+            }
+        },
+        {
+            "comment": "796",
+            "type": "links_to",
+            "id": "424ef75f-f1da-477c-a8f5-d03f69b66d98",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:24:29.375952",
+                "subject_package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3",
+                "revision_id": "fcc0f70f-f2bd-46d4-8196-b642b88ecb12",
+                "object_package_id": "382a8681-733a-420b-9420-ee71f09fb0af"
+            }
+        },
+        {
+            "comment": "8",
+            "type": "links_to",
+            "id": "d843ff7f-19fe-4689-9943-86c179428788",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:24:30.266856",
+                "object_package_id": "097078f5-0a5c-465e-b58d-7e2076a7025f",
+                "revision_id": "0cdd1da5-58e7-4ab8-a09b-549450525a17",
+                "subject_package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3"
+            }
+        },
+        {
+            "comment": "8",
+            "type": "links_to",
+            "id": "eda066b0-7b35-4499-bc67-3417de14452c",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:24:44.602722",
+                "object_package_id": "d0459637-cf13-4217-a245-6bc7139552a3",
+                "revision_id": "65b7bf01-8e37-4df7-94f1-6169a5d06413",
+                "subject_package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3"
+            }
+        },
+        {
+            "comment": "864",
+            "type": "links_to",
+            "id": "d45d983e-5cc7-4405-bbe5-d6d9cb1ec779",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:24:28.472168",
+                "object_package_id": "23125bb4-da77-4d8f-958d-c22a9c17e158",
+                "revision_id": "faf243a2-d699-4a37-aa3e-93b175fda5f8",
+                "subject_package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3"
+            }
+        }
+    ],
+    "num_tags": 11,
+    "name": "rkb-explorer-newcastle",
+    "isopen": true,
+    "url": "http://newcastle.rkbexplorer.com",
+    "notes": "",
+    "title": "University of Newcastle upon Tyne (RKBExplorer)",
+    "extras": [
+        {
+            "value": "1453",
+            "key": "links:rkb-explorer-acm",
+            "__extras": {
+                "revision_id": "1c2842e1-f3a1-4071-b1db-89c9b17629a4",
+                "package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3"
+            }
+        },
+        {
+            "value": "8",
+            "key": "links:rkb-explorer-budapest",
+            "__extras": {
+                "revision_id": "1c2842e1-f3a1-4071-b1db-89c9b17629a4",
+                "package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3"
+            }
+        },
+        {
+            "value": "796",
+            "key": "links:rkb-explorer-citeseer",
+            "__extras": {
+                "package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3",
+                "revision_id": "1c2842e1-f3a1-4071-b1db-89c9b17629a4"
+            }
+        },
+        {
+            "value": "4",
+            "key": "links:rkb-explorer-cordis",
+            "__extras": {
+                "revision_id": "1c2842e1-f3a1-4071-b1db-89c9b17629a4",
+                "package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3"
+            }
+        },
+        {
+            "value": "16",
+            "key": "links:rkb-explorer-courseware",
+            "__extras": {
+                "revision_id": "1c2842e1-f3a1-4071-b1db-89c9b17629a4",
+                "package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3"
+            }
+        },
+        {
+            "value": "2",
+            "key": "links:rkb-explorer-curriculum",
+            "__extras": {
+                "package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3",
+                "revision_id": "1c2842e1-f3a1-4071-b1db-89c9b17629a4"
+            }
+        },
+        {
+            "value": "2259",
+            "key": "links:rkb-explorer-dblp",
+            "__extras": {
+                "package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3",
+                "revision_id": "1c2842e1-f3a1-4071-b1db-89c9b17629a4"
+            }
+        },
+        {
+            "value": "14",
+            "key": "links:rkb-explorer-deploy",
+            "__extras": {
+                "package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3",
+                "revision_id": "1c2842e1-f3a1-4071-b1db-89c9b17629a4"
+            }
+        },
+        {
+            "value": "1421",
+            "key": "links:rkb-explorer-dotac",
+            "__extras": {
+                "package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3",
+                "revision_id": "1c2842e1-f3a1-4071-b1db-89c9b17629a4"
+            }
+        },
+        {
+            "value": "1142",
+            "key": "links:rkb-explorer-eprints",
+            "__extras": {
+                "package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3",
+                "revision_id": "1c2842e1-f3a1-4071-b1db-89c9b17629a4"
+            }
+        },
+        {
+            "value": "1",
+            "key": "links:rkb-explorer-epsrc",
+            "__extras": {
+                "package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3",
+                "revision_id": "1c2842e1-f3a1-4071-b1db-89c9b17629a4"
+            }
+        },
+        {
+            "value": "16",
+            "key": "links:rkb-explorer-ibm",
+            "__extras": {
+                "revision_id": "1c2842e1-f3a1-4071-b1db-89c9b17629a4",
+                "package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3"
+            }
+        },
+        {
+            "value": "82",
+            "key": "links:rkb-explorer-ieee",
+            "__extras": {
+                "revision_id": "1c2842e1-f3a1-4071-b1db-89c9b17629a4",
+                "package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3"
+            }
+        },
+        {
+            "value": "30",
+            "key": "links:rkb-explorer-irit",
+            "__extras": {
+                "revision_id": "1c2842e1-f3a1-4071-b1db-89c9b17629a4",
+                "package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3"
+            }
+        },
+        {
+            "value": "227",
+            "key": "links:rkb-explorer-kisti",
+            "__extras": {
+                "revision_id": "1c2842e1-f3a1-4071-b1db-89c9b17629a4",
+                "package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3"
+            }
+        },
+        {
+            "value": "78",
+            "key": "links:rkb-explorer-laas",
+            "__extras": {
+                "revision_id": "1c2842e1-f3a1-4071-b1db-89c9b17629a4",
+                "package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3"
+            }
+        },
+        {
+            "value": "13",
+            "key": "links:rkb-explorer-nsf",
+            "__extras": {
+                "revision_id": "1c2842e1-f3a1-4071-b1db-89c9b17629a4",
+                "package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3"
+            }
+        },
+        {
+            "value": "864",
+            "key": "links:rkb-explorer-oai",
+            "__extras": {
+                "package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3",
+                "revision_id": "1c2842e1-f3a1-4071-b1db-89c9b17629a4"
+            }
+        },
+        {
+            "value": "8",
+            "key": "links:rkb-explorer-pisa",
+            "__extras": {
+                "revision_id": "1c2842e1-f3a1-4071-b1db-89c9b17629a4",
+                "package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3"
+            }
+        },
+        {
+            "value": "728",
+            "key": "links:rkb-explorer-rae2001",
+            "__extras": {
+                "package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3",
+                "revision_id": "1c2842e1-f3a1-4071-b1db-89c9b17629a4"
+            }
+        },
+        {
+            "value": "3",
+            "key": "links:rkb-explorer-resex",
+            "__extras": {
+                "package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3",
+                "revision_id": "1c2842e1-f3a1-4071-b1db-89c9b17629a4"
+            }
+        },
+        {
+            "value": "2",
+            "key": "links:rkb-explorer-roma",
+            "__extras": {
+                "package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3",
+                "revision_id": "1c2842e1-f3a1-4071-b1db-89c9b17629a4"
+            }
+        },
+        {
+            "value": "131",
+            "key": "links:rkb-explorer-southampton",
+            "__extras": {
+                "revision_id": "1c2842e1-f3a1-4071-b1db-89c9b17629a4",
+                "package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3"
+            }
+        },
+        {
+            "value": "7",
+            "key": "links:rkb-explorer-ulm",
+            "__extras": {
+                "package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3",
+                "revision_id": "1c2842e1-f3a1-4071-b1db-89c9b17629a4"
+            }
+        },
+        {
+            "value": "40",
+            "key": "links:rkb-explorer-wiki",
+            "__extras": {
+                "revision_id": "1c2842e1-f3a1-4071-b1db-89c9b17629a4",
+                "package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3"
+            }
+        },
+        {
+            "value": "7",
+            "key": "links:southampton-ecs-eprints",
+            "__extras": {
+                "revision_id": "9667bb52-2c45-48c0-9ff9-d728868ab549",
+                "package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3"
+            }
+        },
+        {
+            "value": "http://newcastle.rkbexplorer.com/id/",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "fd04307f-1175-4efd-a1a1-73824cffa600",
+                "package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3"
+            }
+        },
+        {
+            "value": "Newcastle (RKBExplorer)",
+            "key": "shortname",
+            "__extras": {
+                "package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3",
+                "revision_id": "00b94421-66b6-43af-a287-f640cdbf7f99"
+            }
+        },
+        {
+            "value": "87505",
+            "key": "triples",
+            "__extras": {
+                "revision_id": "dc8ff24b-f602-44eb-a19e-173e6aa8e836",
+                "package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "928b2d10-a1a3-4b01-b49b-76440d44c98e",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}
