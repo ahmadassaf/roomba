@@ -4,21 +4,11 @@
         "resources"
     ],
     "undefined": [
-        "private",
-        "isopen",
-        "num_tags",
-        "num_resources",
-        "is_organization",
         "organization_image_url"
     ],
     "unreachableURLs": [],
     "report": [
-        "private field exists but there is no value defined",
-        "isopen field exists but there is no value defined",
-        "num_tags field exists but there is no value defined",
-        "num_resources field exists but there is no value defined",
         "group information is missing. Check organization information as they can be mixed sometimes",
-        "is_organization field exists but there is no value defined",
         "organization_image_url field exists but there is no value defined",
         "resources information (API endpoints, downloadable dumpds, etc.) is missing"
     ],
@@ -228,8 +218,7 @@
                 "mimetype",
                 "cache_url",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [
                 "http://futurewavehosting.com:3030/my-family-lineage/sparql"
@@ -245,7 +234,6 @@
                 "cache_url field exists but there is no value defined",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The url for this resource is not reachable !"
             ]
         },
@@ -258,8 +246,7 @@
                 "webstore_last_updated",
                 "hash",
                 "mimetype_inner",
-                "cache_url",
-                "position"
+                "cache_url"
             ],
             "unreachableURLs": [
                 "http://futurewavehosting.com:3030/my-family-lineage/query"
@@ -271,40 +258,9 @@
                 "mimetype_inner field exists but there is no value defined",
                 "url-type field is missing",
                 "cache_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
-                "The url for this resource is not reachable !"
-            ]
-        },
-        "License Data": {
-            "missing": [
-                "url-type"
-            ],
-            "undefined": [
-                "cache_last_updated",
-                "webstore_last_updated",
-                "size",
-                "hash",
-                "description",
-                "mimetype_inner",
-                "cache_url",
-                "last_modified",
-                "position"
-            ],
-            "unreachableURLs": [
-                "http://www.opendatacommons.org/odc-public-domain-dedication-and-licence/"
-            ],
-            "report": [
-                "cache_last_updated field exists but there is no value defined",
-                "webstore_last_updated field exists but there is no value defined",
-                "size field exists but there is no value defined",
-                "hash field exists but there is no value defined",
-                "description field exists but there is no value defined",
-                "mimetype_inner field exists but there is no value defined",
-                "url-type field is missing",
-                "cache_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
-                "The url for this resource is not reachable !"
+                "The url for this resource is not reachable !",
+                "mimetype value defined where the resource is not reachable",
+                "size value defined where the resource is not reachable"
             ]
         },
         "FOAF vocabulary": {
@@ -317,8 +273,7 @@
                 "hash",
                 "description",
                 "mimetype_inner",
-                "cache_url",
-                "position"
+                "cache_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -329,7 +284,6 @@
                 "mimetype_inner field exists but there is no value defined",
                 "url-type field is missing",
                 "cache_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The size for resource is not defined correctly",
                 "The mimeType for resource is not defined correctly"
             ]
@@ -344,8 +298,7 @@
                 "hash",
                 "mimetype_inner",
                 "cache_url",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -356,7 +309,6 @@
                 "url-type field is missing",
                 "cache_url field exists but there is no value defined",
                 "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The mimeType for resource is not defined correctly"
             ]
         },
@@ -370,8 +322,7 @@
                 "hash",
                 "mimetype_inner",
                 "cache_url",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -382,7 +333,6 @@
                 "url-type field is missing",
                 "cache_url field exists but there is no value defined",
                 "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The mimeType for resource is not defined correctly"
             ]
         },
@@ -396,8 +346,7 @@
                 "hash",
                 "mimetype_inner",
                 "cache_url",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -408,7 +357,6 @@
                 "url-type field is missing",
                 "cache_url field exists but there is no value defined",
                 "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The mimeType for resource is not defined correctly"
             ]
         },
@@ -421,8 +369,7 @@
                 "webstore_last_updated",
                 "hash",
                 "mimetype_inner",
-                "cache_url",
-                "position"
+                "cache_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -432,7 +379,6 @@
                 "mimetype_inner field exists but there is no value defined",
                 "url-type field is missing",
                 "cache_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The mimeType for resource is not defined correctly"
             ]
         },
@@ -446,8 +392,7 @@
                 "hash",
                 "description",
                 "mimetype_inner",
-                "cache_url",
-                "position"
+                "cache_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -458,7 +403,6 @@
                 "mimetype_inner field exists but there is no value defined",
                 "url-type field is missing",
                 "cache_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The mimeType for resource is not defined correctly"
             ]
         },
@@ -471,8 +415,7 @@
                 "webstore_last_updated",
                 "hash",
                 "mimetype_inner",
-                "cache_url",
-                "position"
+                "cache_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -482,8 +425,38 @@
                 "mimetype_inner field exists but there is no value defined",
                 "url-type field is missing",
                 "cache_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The mimeType for resource is not defined correctly"
+            ]
+        },
+        "License Data": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "description",
+                "mimetype_inner",
+                "cache_url",
+                "last_modified"
+            ],
+            "unreachableURLs": [
+                "http://www.opendatacommons.org/odc-public-domain-dedication-and-licence/"
+            ],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "description field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "cache_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined",
+                "The url for this resource is not reachable !",
+                "mimetype value defined where the resource is not reachable"
             ]
         }
     },

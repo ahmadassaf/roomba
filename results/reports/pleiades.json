@@ -4,21 +4,11 @@
         "resources"
     ],
     "undefined": [
-        "private",
-        "isopen",
-        "num_tags",
-        "num_resources",
-        "is_organization",
         "version"
     ],
     "unreachableURLs": [],
     "report": [
-        "private field exists but there is no value defined",
-        "isopen field exists but there is no value defined",
-        "num_tags field exists but there is no value defined",
-        "num_resources field exists but there is no value defined",
         "group information is missing. Check organization information as they can be mixed sometimes",
-        "is_organization field exists but there is no value defined",
         "version field exists but there is no value defined",
         "resources information (API endpoints, downloadable dumpds, etc.) is missing"
     ],
@@ -252,8 +242,7 @@
             "undefined": [
                 "cache_last_updated",
                 "mimetype_inner",
-                "cache_url",
-                "position"
+                "cache_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -261,7 +250,6 @@
                 "mimetype_inner field exists but there is no value defined",
                 "url-type field is missing",
                 "cache_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The size for resource is not defined correctly",
                 "The mimeType for resource is not defined correctly"
             ]
@@ -276,8 +264,7 @@
                 "webstore_last_updated",
                 "hash",
                 "cache_url",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -288,7 +275,6 @@
                 "cache_url field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The size for resource is not defined correctly"
             ]
         },
@@ -302,8 +288,7 @@
                 "webstore_last_updated",
                 "hash",
                 "cache_url",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -314,7 +299,6 @@
                 "cache_url field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The size for resource is not defined correctly"
             ]
         }
@@ -322,6 +306,6 @@
     "counter": {
         "group": 0,
         "tag": 21,
-        "resource": 5878
+        "resource": 5711
     }
 }

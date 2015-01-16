@@ -8,7 +8,7 @@
     "id": "2bf72657-2bb6-4134-97d4-abf02a5277e6",
     "metadata_created": "2013-02-20T15:57:39.469478",
     "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
-    "metadata_modified": "2013-10-10T22:08:13.767748",
+    "metadata_modified": "2014-12-15T06:52:25.177611",
     "author": "LAK Data Team",
     "author_email": "admin@data.linkededucation.org",
     "state": "active",
@@ -46,7 +46,7 @@
         {
             "resource_group_id": "324033a1-41fc-4e6b-bd2d-d451abf86deb",
             "cache_last_updated": null,
-            "revision_timestamp": "2013-02-21T05:40:34.833884",
+            "revision_timestamp": "2014-12-15T06:50:03.580322",
             "webstore_last_updated": null,
             "id": "6b3cfdf6-f9e7-4ca0-82c5-d59519005f8d",
             "size": null,
@@ -63,17 +63,97 @@
             "cache_url": "",
             "name": "Example resource",
             "created": "2013-02-20T10:10:31.002418",
-            "url": "http://data.linkededucation.org/resource/lak/conference/edm2012/paper/52",
-            "url_error": "Server returned error: Internal server error on the remote server",
+            "url": "http://data.linkededucation.org/resource/lak/conference/lak2013/paper/93",
             "webstore_url": "",
             "last_modified": null,
             "position": 1,
-            "revision_id": "f8e8f99d-b628-45ec-8c7c-cb118138a445",
+            "revision_id": "22878e3c-20a8-4d0b-80eb-c9484c3fc421",
             "resource_type": "file",
             "resource_reachable": true
+        },
+        {
+            "resource_group_id": "324033a1-41fc-4e6b-bd2d-d451abf86deb",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-15T06:49:28.323950",
+            "webstore_last_updated": null,
+            "id": "ee1e8cae-ac36-41e5-9917-09b4b9301766",
+            "size": null,
+            "state": "active",
+            "hash": "",
+            "description": "",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "Schema",
+            "created": "2014-12-15T06:49:28.451953",
+            "url": "http://lak.linkededucation.org/schema/lak.rdf",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "2f98c9d6-67d4-409c-bfad-41abec0394d0",
+            "resource_type": "file"
+        },
+        {
+            "resource_group_id": "324033a1-41fc-4e6b-bd2d-d451abf86deb",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-15T06:52:09.073917",
+            "webstore_last_updated": null,
+            "id": "ff69d702-8753-4b80-aae2-d992c7d89044",
+            "size": null,
+            "state": "active",
+            "hash": "",
+            "description": "",
+            "format": "application/rdf+xml",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "Dump (RDF/XML)",
+            "created": "2014-12-15T06:50:54.301388",
+            "url": "http://lak.linkededucation.org/lak/LAK-DATASET-DUMP.rdf.zip",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "08261c75-6055-4098-a270-4ff5e6f9a47d",
+            "resource_type": "file"
+        },
+        {
+            "resource_group_id": "324033a1-41fc-4e6b-bd2d-d451abf86deb",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-15T06:52:25.177611",
+            "webstore_last_updated": null,
+            "id": "a3a3154d-7545-4d43-92da-1a8c204717f9",
+            "size": null,
+            "state": "active",
+            "hash": "",
+            "description": "",
+            "format": "application/x-ntriples",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "Dump (NT)",
+            "created": "2014-12-15T06:51:28.558415",
+            "url": "http://lak.linkededucation.org/lak/LAK-DATASET-DUMP.nt.zip",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 4,
+            "revision_id": "9c9eec16-f2ba-4030-bd2d-078a90b943d2",
+            "resource_type": "file"
         }
     ],
-    "num_resources": 2,
+    "num_resources": 5,
     "tags": [
         {
             "vocabulary_id": null,
@@ -213,8 +293,8 @@
             "value": "http://data.linkededucation.org/resource/",
             "key": "namespace",
             "__extras": {
-                "revision_id": "ade0f359-5550-46ee-baa1-dd6a14c64e4b",
-                "package_id": "2bf72657-2bb6-4134-97d4-abf02a5277e6"
+                "package_id": "2bf72657-2bb6-4134-97d4-abf02a5277e6",
+                "revision_id": "ade0f359-5550-46ee-baa1-dd6a14c64e4b"
             }
         },
         {

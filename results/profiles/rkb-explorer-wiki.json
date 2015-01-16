@@ -100,6 +100,28 @@
                 "revision_id": "e7eb3ac6-b21b-4b78-a324-ce4fb9b9a4c7",
                 "object_package_id": "edd880c6-d9e6-4bff-999b-7e344917925c"
             }
+        },
+        {
+            "comment": "mika_i_zika",
+            "type": "depends_on",
+            "id": "615f7970-f2fc-466b-b32a-4e3768865420",
+            "__extras": {
+                "revision_timestamp": "2014-11-01T14:25:34.345755",
+                "object_package_id": "edd880c6-d9e6-4bff-999b-7e344917925c",
+                "revision_id": "2953af2d-dd5a-4358-9039-fee6a1d9ee10",
+                "subject_package_id": "15f90bfb-75fa-4825-a384-cff14d4f5dca"
+            }
+        },
+        {
+            "comment": "some comment",
+            "type": "child_of",
+            "id": "034fece1-b221-44ec-813c-d78b1b1d1a6f",
+            "__extras": {
+                "revision_timestamp": "2014-11-01T14:21:54.643882",
+                "object_package_id": "edd880c6-d9e6-4bff-999b-7e344917925c",
+                "revision_id": "d3b01b85-0394-4635-b34b-0e84678fd433",
+                "subject_package_id": "15f90bfb-75fa-4825-a384-cff14d4f5dca"
+            }
         }
     ],
     "private": false,
@@ -108,7 +130,7 @@
     "id": "edd880c6-d9e6-4bff-999b-7e344917925c",
     "metadata_created": "2010-08-23T13:46:50.069210",
     "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
-    "metadata_modified": "2013-10-10T23:27:29.301211",
+    "metadata_modified": "2014-11-01T14:25:34.345755",
     "author": "Hugh Glaser",
     "author_email": "hg@ecs.soton.ac.uk",
     "state": "active",
@@ -377,7 +399,19 @@
         "recent": 9
     },
     "groups": [],
-    "relationships_as_subject": [],
+    "relationships_as_subject": [
+        {
+            "comment": "mika_i_zika",
+            "type": "derives_from",
+            "id": "028ba2b1-12d4-48ca-95ca-5daf3bc9a634",
+            "__extras": {
+                "revision_timestamp": "2014-11-01T14:23:07.491097",
+                "object_package_id": "15f90bfb-75fa-4825-a384-cff14d4f5dca",
+                "revision_id": "4aad11f7-6ca6-4a1c-9896-7a4980b8daf2",
+                "subject_package_id": "edd880c6-d9e6-4bff-999b-7e344917925c"
+            }
+        }
+    ],
     "num_tags": 11,
     "name": "rkb-explorer-wiki",
     "isopen": false,

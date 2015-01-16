@@ -4,26 +4,15 @@
         "resources"
     ],
     "undefined": [
-        "private",
-        "isopen",
         "url",
-        "num_tags",
-        "num_resources",
-        "is_organization",
         "version"
     ],
     "unreachableURLs": [],
     "report": [
-        "private field exists but there is no value defined",
-        "isopen field exists but there is no value defined",
         "url field exists but there is no value defined",
-        "num_tags field exists but there is no value defined",
-        "num_resources field exists but there is no value defined",
         "group information is missing. Check organization information as they can be mixed sometimes",
-        "is_organization field exists but there is no value defined",
         "version field exists but there is no value defined",
-        "resources information (API endpoints, downloadable dumpds, etc.) is missing",
-        "num_resources field for this dataset is not correct. Provided: NaN where the actual number is: 1"
+        "resources information (API endpoints, downloadable dumpds, etc.) is missing"
     ],
     "tag": {
         "Indigenous People": {
@@ -114,8 +103,7 @@
                 "mimetype",
                 "cache_url",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [
                 "http://lod.apc.gov.tw/sparql"
@@ -131,7 +119,6 @@
                 "cache_url field exists but there is no value defined",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The url for this resource is not reachable !"
             ]
         }
@@ -139,6 +126,6 @@
     "counter": {
         "group": 0,
         "tag": 6,
-        "resource": 6257
+        "resource": 6134
     }
 }

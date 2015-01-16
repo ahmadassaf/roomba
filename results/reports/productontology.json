@@ -3,21 +3,10 @@
         "group",
         "resources"
     ],
-    "undefined": [
-        "private",
-        "isopen",
-        "num_tags",
-        "num_resources",
-        "is_organization"
-    ],
+    "undefined": [],
     "unreachableURLs": [],
     "report": [
-        "private field exists but there is no value defined",
-        "isopen field exists but there is no value defined",
-        "num_tags field exists but there is no value defined",
-        "num_resources field exists but there is no value defined",
         "group information is missing. Check organization information as they can be mixed sometimes",
-        "is_organization field exists but there is no value defined",
         "maintainer_email is not a valid e-mail address !",
         "resources information (API endpoints, downloadable dumpds, etc.) is missing"
     ],
@@ -168,7 +157,6 @@
                 "cache_url",
                 "name",
                 "webstore_url",
-                "position",
                 "resource_type"
             ],
             "unreachableURLs": [],
@@ -183,7 +171,6 @@
                 "name field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "resource_type field exists but there is no value defined"
             ]
         },
@@ -200,7 +187,6 @@
                 "cache_url",
                 "name",
                 "webstore_url",
-                "position",
                 "resource_type"
             ],
             "unreachableURLs": [],
@@ -214,7 +200,6 @@
                 "name field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "resource_type field exists but there is no value defined"
             ]
         }
@@ -222,6 +207,6 @@
     "counter": {
         "group": 0,
         "tag": 12,
-        "resource": 4757
+        "resource": 4599
     }
 }

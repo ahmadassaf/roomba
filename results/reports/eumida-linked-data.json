@@ -3,24 +3,13 @@
         "group",
         "resources"
     ],
-    "undefined": [
-        "private",
-        "isopen",
-        "num_tags",
-        "num_resources",
-        "is_organization"
-    ],
+    "undefined": [],
     "unreachableURLs": [
         "http://eumida.publicdata.eu/"
     ],
     "report": [
-        "private field exists but there is no value defined",
-        "isopen field exists but there is no value defined",
-        "num_tags field exists but there is no value defined",
-        "num_resources field exists but there is no value defined",
         "group information is missing. Check organization information as they can be mixed sometimes",
         "The url defined for this dataset is not reachable !",
-        "is_organization field exists but there is no value defined",
         "resources information (API endpoints, downloadable dumpds, etc.) is missing"
     ],
     "tag": {
@@ -127,8 +116,7 @@
                 "hash",
                 "mimetype_inner",
                 "cache_url",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [
                 "http://api.talis.com/stores/eumida/services/sparql"
@@ -142,8 +130,30 @@
                 "url-type field is missing",
                 "cache_url field exists but there is no value defined",
                 "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
-                "The url for this resource is not reachable !"
+                "The url for this resource is not reachable !",
+                "mimetype value defined where the resource is not reachable"
+            ]
+        },
+        "VoID Dataset URI": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "mimetype_inner",
+                "cache_url"
+            ],
+            "unreachableURLs": [
+                "http://eumida.publicdata.eu/void.ttl"
+            ],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "cache_url field exists but there is no value defined",
+                "The url for this resource is not reachable !",
+                "mimetype value defined where the resource is not reachable",
+                "size value defined where the resource is not reachable"
             ]
         },
         "\"Numbers of Doctorates Awarded by Higher Education Institutions\"": {
@@ -156,8 +166,7 @@
                 "hash",
                 "mimetype_inner",
                 "cache_url",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [
                 "http://eumida.publicdata.eu/data/dataset/doctorates-awarded.rdf"
@@ -170,8 +179,9 @@
                 "url-type field is missing",
                 "cache_url field exists but there is no value defined",
                 "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
-                "The url for this resource is not reachable !"
+                "The url for this resource is not reachable !",
+                "mimetype value defined where the resource is not reachable",
+                "size value defined where the resource is not reachable"
             ]
         },
         "\"Federal Ministry of Defence\"": {
@@ -184,8 +194,7 @@
                 "hash",
                 "mimetype_inner",
                 "cache_url",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [
                 "http://eumida.publicdata.eu/data/institution/AT055.rdf"
@@ -198,30 +207,9 @@
                 "url-type field is missing",
                 "cache_url field exists but there is no value defined",
                 "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
-                "The url for this resource is not reachable !"
-            ]
-        },
-        "VoID Dataset URI": {
-            "missing": [
-                "url-type"
-            ],
-            "undefined": [
-                "cache_last_updated",
-                "mimetype_inner",
-                "cache_url",
-                "position"
-            ],
-            "unreachableURLs": [
-                "http://eumida.publicdata.eu/void.ttl"
-            ],
-            "report": [
-                "cache_last_updated field exists but there is no value defined",
-                "mimetype_inner field exists but there is no value defined",
-                "url-type field is missing",
-                "cache_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
-                "The url for this resource is not reachable !"
+                "The url for this resource is not reachable !",
+                "mimetype value defined where the resource is not reachable",
+                "size value defined where the resource is not reachable"
             ]
         },
         "\"i s c e d6- students-enrolled\"": {
@@ -234,8 +222,7 @@
                 "hash",
                 "mimetype_inner",
                 "cache_url",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [
                 "http://eumida.publicdata.eu/data/institution/AT055/ISCED6-Students-enrolled.rdf"
@@ -248,14 +235,15 @@
                 "url-type field is missing",
                 "cache_url field exists but there is no value defined",
                 "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
-                "The url for this resource is not reachable !"
+                "The url for this resource is not reachable !",
+                "mimetype value defined where the resource is not reachable",
+                "size value defined where the resource is not reachable"
             ]
         }
     },
     "counter": {
         "group": 0,
         "tag": 8,
-        "resource": 4417
+        "resource": 4238
     }
 }

@@ -1,22 +1,13 @@
 {
     "missing": [
-        "group"
+        "group",
+        "resources"
     ],
-    "undefined": [
-        "private",
-        "isopen",
-        "num_tags",
-        "num_resources",
-        "is_organization"
-    ],
+    "undefined": [],
     "unreachableURLs": [],
     "report": [
-        "private field exists but there is no value defined",
-        "isopen field exists but there is no value defined",
-        "num_tags field exists but there is no value defined",
-        "num_resources field exists but there is no value defined",
         "group information is missing. Check organization information as they can be mixed sometimes",
-        "is_organization field exists but there is no value defined"
+        "resources information (API endpoints, downloadable dumpds, etc.) is missing"
     ],
     "tag": {
         "deref-vocab": {
@@ -193,8 +184,7 @@
                 "mimetype_inner",
                 "cache_url",
                 "name",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -207,8 +197,79 @@
                 "name field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The size for resource is not defined correctly"
+            ]
+        },
+        "sameAs linkset for events": {
+            "missing": [
+                "url-type",
+                "created"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "name",
+                "webstore_url",
+                "last_modified"
+            ],
+            "unreachableURLs": [
+                "http://www.eurecom.fr/~troncy/ic2011/Events_sameAs.nt"
+            ],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "name field exists but there is no value defined",
+                "created field is missing",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined",
+                "The url for this resource is not reachable !"
+            ]
+        },
+        "sameAs linkset for venues": {
+            "missing": [
+                "url-type",
+                "created"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "name",
+                "webstore_url",
+                "last_modified"
+            ],
+            "unreachableURLs": [
+                "http://www.eurecom.fr/~troncy/ic2011/Venues_sameAs.nt"
+            ],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "name field exists but there is no value defined",
+                "created field is missing",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined",
+                "The url for this resource is not reachable !"
             ]
         },
         "sameAs linkset for artists": {
@@ -226,8 +287,7 @@
                 "cache_url",
                 "name",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [
                 "http://www.eurecom.fr/~troncy/ic2011/Artists_sameAs.nt"
@@ -245,7 +305,6 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The url for this resource is not reachable !"
             ]
         },
@@ -265,8 +324,7 @@
                 "cache_url",
                 "name",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [],
             "report": [
@@ -282,84 +340,7 @@
                 "name field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined"
-            ]
-        },
-        "sameAs linkset for events": {
-            "missing": [
-                "url-type",
-                "created"
-            ],
-            "undefined": [
-                "cache_last_updated",
-                "webstore_last_updated",
-                "size",
-                "hash",
-                "mimetype_inner",
-                "mimetype",
-                "cache_url",
-                "name",
-                "webstore_url",
-                "last_modified",
-                "position"
-            ],
-            "unreachableURLs": [
-                "http://www.eurecom.fr/~troncy/ic2011/Events_sameAs.nt"
-            ],
-            "report": [
-                "cache_last_updated field exists but there is no value defined",
-                "webstore_last_updated field exists but there is no value defined",
-                "size field exists but there is no value defined",
-                "hash field exists but there is no value defined",
-                "mimetype_inner field exists but there is no value defined",
-                "url-type field is missing",
-                "mimetype field exists but there is no value defined",
-                "cache_url field exists but there is no value defined",
-                "name field exists but there is no value defined",
-                "created field is missing",
-                "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
-                "The url for this resource is not reachable !"
-            ]
-        },
-        "sameAs linkset for venues": {
-            "missing": [
-                "url-type",
-                "created"
-            ],
-            "undefined": [
-                "cache_last_updated",
-                "webstore_last_updated",
-                "size",
-                "hash",
-                "mimetype_inner",
-                "mimetype",
-                "cache_url",
-                "name",
-                "webstore_url",
-                "last_modified",
-                "position"
-            ],
-            "unreachableURLs": [
-                "http://www.eurecom.fr/~troncy/ic2011/Venues_sameAs.nt"
-            ],
-            "report": [
-                "cache_last_updated field exists but there is no value defined",
-                "webstore_last_updated field exists but there is no value defined",
-                "size field exists but there is no value defined",
-                "hash field exists but there is no value defined",
-                "mimetype_inner field exists but there is no value defined",
-                "url-type field is missing",
-                "mimetype field exists but there is no value defined",
-                "cache_url field exists but there is no value defined",
-                "name field exists but there is no value defined",
-                "created field is missing",
-                "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
-                "The url for this resource is not reachable !"
+                "last_modified field exists but there is no value defined"
             ]
         },
         "W3C Ontology for Media Resources 1.0": {
@@ -377,8 +358,7 @@
                 "cache_url",
                 "name",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [],
             "report": [
@@ -393,43 +373,7 @@
                 "name field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined"
-            ]
-        },
-        "LODE ontology": {
-            "missing": [
-                "url-type",
-                "created"
-            ],
-            "undefined": [
-                "cache_last_updated",
-                "webstore_last_updated",
-                "size",
-                "hash",
-                "mimetype_inner",
-                "mimetype",
-                "cache_url",
-                "name",
-                "webstore_url",
-                "last_modified",
-                "position"
-            ],
-            "unreachableURLs": [],
-            "report": [
-                "cache_last_updated field exists but there is no value defined",
-                "webstore_last_updated field exists but there is no value defined",
-                "size field exists but there is no value defined",
-                "hash field exists but there is no value defined",
-                "mimetype_inner field exists but there is no value defined",
-                "url-type field is missing",
-                "mimetype field exists but there is no value defined",
-                "cache_url field exists but there is no value defined",
-                "name field exists but there is no value defined",
-                "created field is missing",
-                "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "last_modified field exists but there is no value defined"
             ]
         },
         "LODE ontology including vocab mappings": {
@@ -447,8 +391,7 @@
                 "cache_url",
                 "name",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [],
             "report": [
@@ -463,8 +406,40 @@
                 "name field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "last_modified field exists but there is no value defined"
+            ]
+        },
+        "LODE ontology": {
+            "missing": [
+                "url-type",
+                "created"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "name",
+                "webstore_url",
+                "last_modified"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "name field exists but there is no value defined",
+                "created field is missing",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined"
             ]
         },
         "Example (RDF/XML)": {
@@ -482,8 +457,7 @@
                 "cache_url",
                 "name",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [],
             "report": [
@@ -498,14 +472,13 @@
                 "name field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "last_modified field exists but there is no value defined"
             ]
         }
     },
     "counter": {
         "group": 0,
         "tag": 15,
-        "resource": 81
+        "resource": 5796
     }
 }

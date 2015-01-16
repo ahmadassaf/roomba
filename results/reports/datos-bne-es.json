@@ -4,21 +4,11 @@
         "resources"
     ],
     "undefined": [
-        "private",
-        "isopen",
-        "num_tags",
-        "num_resources",
-        "is_organization",
         "organization_image_url"
     ],
     "unreachableURLs": [],
     "report": [
-        "private field exists but there is no value defined",
-        "isopen field exists but there is no value defined",
-        "num_tags field exists but there is no value defined",
-        "num_resources field exists but there is no value defined",
         "group information is missing. Check organization information as they can be mixed sometimes",
-        "is_organization field exists but there is no value defined",
         "organization_image_url field exists but there is no value defined",
         "resources information (API endpoints, downloadable dumpds, etc.) is missing"
     ],
@@ -145,8 +135,7 @@
                 "hash",
                 "description",
                 "mimetype_inner",
-                "cache_url",
-                "position"
+                "cache_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -156,33 +145,7 @@
                 "description field exists but there is no value defined",
                 "mimetype_inner field exists but there is no value defined",
                 "url-type field is missing",
-                "cache_url field exists but there is no value defined",
-                "position field exists but there is no value defined"
-            ]
-        },
-        "Data dump of bibliographic data in (N-Triples)": {
-            "missing": [
-                "url-type"
-            ],
-            "undefined": [
-                "cache_last_updated",
-                "webstore_last_updated",
-                "hash",
-                "description",
-                "mimetype_inner",
-                "cache_url",
-                "position"
-            ],
-            "unreachableURLs": [],
-            "report": [
-                "cache_last_updated field exists but there is no value defined",
-                "webstore_last_updated field exists but there is no value defined",
-                "hash field exists but there is no value defined",
-                "description field exists but there is no value defined",
-                "mimetype_inner field exists but there is no value defined",
-                "url-type field is missing",
-                "cache_url field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "cache_url field exists but there is no value defined"
             ]
         },
         "Sparql Endpoint": {
@@ -199,8 +162,7 @@
                 "mimetype",
                 "cache_url",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [],
             "report": [
@@ -214,27 +176,30 @@
                 "cache_url field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "last_modified field exists but there is no value defined"
             ]
         },
-        "bne.ttl": {
+        "Data dump of bibliographic data in (N-Triples)": {
             "missing": [
                 "url-type"
             ],
             "undefined": [
                 "cache_last_updated",
+                "webstore_last_updated",
+                "hash",
+                "description",
                 "mimetype_inner",
-                "cache_url",
-                "position"
+                "cache_url"
             ],
             "unreachableURLs": [],
             "report": [
                 "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "description field exists but there is no value defined",
                 "mimetype_inner field exists but there is no value defined",
                 "url-type field is missing",
-                "cache_url field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "cache_url field exists but there is no value defined"
             ]
         },
         "Data dump of owl:sameAs links to viaf.org": {
@@ -247,8 +212,7 @@
                 "hash",
                 "description",
                 "mimetype_inner",
-                "cache_url",
-                "position"
+                "cache_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -258,8 +222,7 @@
                 "description field exists but there is no value defined",
                 "mimetype_inner field exists but there is no value defined",
                 "url-type field is missing",
-                "cache_url field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "cache_url field exists but there is no value defined"
             ]
         },
         "Data dump of owl:sameAs links to DBPedia, GND, Libris and Sudoc": {
@@ -273,8 +236,7 @@
                 "description",
                 "format",
                 "mimetype_inner",
-                "cache_url",
-                "position"
+                "cache_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -285,8 +247,7 @@
                 "format field exists but there is no value defined",
                 "mimetype_inner field exists but there is no value defined",
                 "url-type field is missing",
-                "cache_url field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "cache_url field exists but there is no value defined"
             ]
         },
         "Example resource (Turtle)": {
@@ -301,8 +262,7 @@
                 "description",
                 "mimetype_inner",
                 "cache_url",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -315,15 +275,31 @@
                 "cache_url field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The size for resource is not defined correctly",
                 "The mimeType for resource is not defined correctly"
+            ]
+        },
+        "bne.ttl": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "mimetype_inner",
+                "cache_url"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "cache_url field exists but there is no value defined"
             ]
         }
     },
     "counter": {
         "group": 0,
         "tag": 10,
-        "resource": 5108
+        "resource": 4941
     }
 }

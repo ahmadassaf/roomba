@@ -4,28 +4,17 @@
         "resources"
     ],
     "undefined": [
-        "private",
-        "isopen",
-        "num_tags",
-        "num_resources",
         "maintainer",
         "maintainer_email",
-        "is_organization",
         "organization_image_url"
     ],
     "unreachableURLs": [],
     "report": [
-        "private field exists but there is no value defined",
-        "isopen field exists but there is no value defined",
-        "num_tags field exists but there is no value defined",
-        "num_resources field exists but there is no value defined",
         "group information is missing. Check organization information as they can be mixed sometimes",
         "maintainer field exists but there is no value defined",
         "maintainer_email field exists but there is no value defined",
-        "is_organization field exists but there is no value defined",
         "organization_image_url field exists but there is no value defined",
-        "resources information (API endpoints, downloadable dumpds, etc.) is missing",
-        "num_resources field for this dataset is not correct. Provided: NaN where the actual number is: 1"
+        "resources information (API endpoints, downloadable dumpds, etc.) is missing"
     ],
     "tag": {
         "country-uk": {
@@ -210,7 +199,7 @@
         }
     },
     "resource": {
-        "Example XML page": {
+        "Feed of newly published legislation": {
             "missing": [
                 "url-type"
             ],
@@ -220,9 +209,7 @@
                 "hash",
                 "mimetype_inner",
                 "cache_url",
-                "name",
-                "webstore_url",
-                "position"
+                "name"
             ],
             "unreachableURLs": [],
             "report": [
@@ -233,8 +220,7 @@
                 "url-type field is missing",
                 "cache_url field exists but there is no value defined",
                 "name field exists but there is no value defined",
-                "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "The size for resource is not defined correctly"
             ]
         },
         "Example RDF/XML page": {
@@ -252,8 +238,7 @@
                 "cache_url",
                 "name",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [],
             "report": [
@@ -268,11 +253,10 @@
                 "name field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "last_modified field exists but there is no value defined"
             ]
         },
-        "Feed of newly published legislation": {
+        "Example XML page": {
             "missing": [
                 "url-type"
             ],
@@ -283,7 +267,7 @@
                 "mimetype_inner",
                 "cache_url",
                 "name",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -294,14 +278,13 @@
                 "url-type field is missing",
                 "cache_url field exists but there is no value defined",
                 "name field exists but there is no value defined",
-                "position field exists but there is no value defined",
-                "The size for resource is not defined correctly"
+                "webstore_url field exists but there is no value defined"
             ]
         }
     },
     "counter": {
         "group": 0,
         "tag": 17,
-        "resource": 6279
+        "resource": 6156
     }
 }

@@ -4,21 +4,11 @@
         "resources"
     ],
     "undefined": [
-        "private",
-        "isopen",
-        "num_tags",
-        "num_resources",
-        "is_organization",
         "organization_image_url"
     ],
     "unreachableURLs": [],
     "report": [
-        "private field exists but there is no value defined",
-        "isopen field exists but there is no value defined",
-        "num_tags field exists but there is no value defined",
-        "num_resources field exists but there is no value defined",
         "group information is missing. Check organization information as they can be mixed sometimes",
-        "is_organization field exists but there is no value defined",
         "organization_image_url field exists but there is no value defined",
         "resources information (API endpoints, downloadable dumpds, etc.) is missing"
     ],
@@ -260,8 +250,7 @@
                 "cache_url",
                 "name",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [],
             "report": [
@@ -276,68 +265,7 @@
                 "name field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined"
-            ]
-        },
-        "Link to an example data item within the dataset (RDF/XML)": {
-            "missing": [
-                "url-type",
-                "created"
-            ],
-            "undefined": [
-                "cache_last_updated",
-                "webstore_last_updated",
-                "size",
-                "hash",
-                "mimetype_inner",
-                "cache_url",
-                "webstore_url",
-                "last_modified",
-                "position"
-            ],
-            "unreachableURLs": [],
-            "report": [
-                "cache_last_updated field exists but there is no value defined",
-                "webstore_last_updated field exists but there is no value defined",
-                "size field exists but there is no value defined",
-                "hash field exists but there is no value defined",
-                "mimetype_inner field exists but there is no value defined",
-                "url-type field is missing",
-                "cache_url field exists but there is no value defined",
-                "created field is missing",
-                "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined"
-            ]
-        },
-        "Link to an example data item within the dataset (Turtle)": {
-            "missing": [
-                "url-type",
-                "created"
-            ],
-            "undefined": [
-                "cache_last_updated",
-                "webstore_last_updated",
-                "size",
-                "hash",
-                "mimetype_inner",
-                "cache_url",
-                "webstore_url",
-                "position"
-            ],
-            "unreachableURLs": [],
-            "report": [
-                "cache_last_updated field exists but there is no value defined",
-                "webstore_last_updated field exists but there is no value defined",
-                "size field exists but there is no value defined",
-                "hash field exists but there is no value defined",
-                "mimetype_inner field exists but there is no value defined",
-                "url-type field is missing",
-                "cache_url field exists but there is no value defined",
-                "created field is missing",
-                "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "last_modified field exists but there is no value defined"
             ]
         },
         "Link to an example data item within the dataset (RDFa)": {
@@ -353,10 +281,11 @@
                 "mimetype_inner",
                 "cache_url",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
-            "unreachableURLs": [],
+            "unreachableURLs": [
+                "http://dbpedia.org/page/Berlin"
+            ],
             "report": [
                 "cache_last_updated field exists but there is no value defined",
                 "webstore_last_updated field exists but there is no value defined",
@@ -368,42 +297,8 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined"
-            ]
-        },
-        "Semantic Web Sitemap": {
-            "missing": [
-                "url-type",
-                "created"
-            ],
-            "undefined": [
-                "cache_last_updated",
-                "webstore_last_updated",
-                "size",
-                "hash",
-                "mimetype_inner",
-                "mimetype",
-                "cache_url",
-                "name",
-                "webstore_url",
-                "last_modified",
-                "position"
-            ],
-            "unreachableURLs": [],
-            "report": [
-                "cache_last_updated field exists but there is no value defined",
-                "webstore_last_updated field exists but there is no value defined",
-                "size field exists but there is no value defined",
-                "hash field exists but there is no value defined",
-                "mimetype_inner field exists but there is no value defined",
-                "url-type field is missing",
-                "mimetype field exists but there is no value defined",
-                "cache_url field exists but there is no value defined",
-                "name field exists but there is no value defined",
-                "created field is missing",
-                "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "The url for this resource is not reachable !",
+                "mimetype value defined where the resource is not reachable"
             ]
         },
         "voiD description": {
@@ -421,8 +316,7 @@
                 "cache_url",
                 "name",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [
                 "http://dbpedia.org/void/Dataset"
@@ -440,13 +334,13 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The url for this resource is not reachable !"
             ]
         },
-        "Link to an example Linked Data entry": {
+        "Semantic Web Sitemap": {
             "missing": [
-                "url-type"
+                "url-type",
+                "created"
             ],
             "undefined": [
                 "cache_last_updated",
@@ -456,8 +350,9 @@
                 "mimetype_inner",
                 "mimetype",
                 "cache_url",
-                "last_modified",
-                "position"
+                "name",
+                "webstore_url",
+                "last_modified"
             ],
             "unreachableURLs": [],
             "report": [
@@ -469,8 +364,10 @@
                 "url-type field is missing",
                 "mimetype field exists but there is no value defined",
                 "cache_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "name field exists but there is no value defined",
+                "created field is missing",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined"
             ]
         },
         "RDF Schema": {
@@ -488,8 +385,7 @@
                 "cache_url",
                 "name",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [],
             "report": [
@@ -504,8 +400,7 @@
                 "name field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "last_modified field exists but there is no value defined"
             ]
         },
         "Download": {
@@ -523,8 +418,7 @@
                 "cache_url",
                 "name",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [],
             "report": [
@@ -539,8 +433,36 @@
                 "name field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "last_modified field exists but there is no value defined"
+            ]
+        },
+        "Link to an example data item within the dataset (RDF/XML)": {
+            "missing": [
+                "url-type",
+                "created"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "cache_url",
+                "webstore_url",
+                "last_modified"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "cache_url field exists but there is no value defined",
+                "created field is missing",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined"
             ]
         },
         "Download page (N-Triples, bz2-compressed)": {
@@ -559,8 +481,7 @@
                 "cache_url",
                 "name",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [],
             "report": [
@@ -576,8 +497,61 @@
                 "name field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "last_modified field exists but there is no value defined"
+            ]
+        },
+        "Link to an example Linked Data entry": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "last_modified"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined"
+            ]
+        },
+        "Link to an example data item within the dataset (Turtle)": {
+            "missing": [
+                "url-type",
+                "created"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "cache_url",
+                "webstore_url"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "cache_url field exists but there is no value defined",
+                "created field is missing",
+                "webstore_url field exists but there is no value defined"
             ]
         }
     },

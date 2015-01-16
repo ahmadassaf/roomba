@@ -4,21 +4,11 @@
         "resources"
     ],
     "undefined": [
-        "private",
-        "isopen",
-        "num_tags",
-        "num_resources",
-        "is_organization",
         "version"
     ],
     "unreachableURLs": [],
     "report": [
-        "private field exists but there is no value defined",
-        "isopen field exists but there is no value defined",
-        "num_tags field exists but there is no value defined",
-        "num_resources field exists but there is no value defined",
         "group information is missing. Check organization information as they can be mixed sometimes",
-        "is_organization field exists but there is no value defined",
         "maintainer_email is not a valid e-mail address !",
         "version field exists but there is no value defined",
         "resources information (API endpoints, downloadable dumpds, etc.) is missing"
@@ -141,8 +131,7 @@
                 "cache_url",
                 "name",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [],
             "report": [
@@ -157,8 +146,7 @@
                 "name field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "last_modified field exists but there is no value defined"
             ]
         },
         "Downloads (RDF/XML)": {
@@ -176,8 +164,7 @@
                 "cache_url",
                 "name",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [
                 "http://enipedia.tudelft.nl/downloads/enipedia.rdf"
@@ -195,7 +182,6 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The url for this resource is not reachable !"
             ]
         },
@@ -211,8 +197,7 @@
                 "mimetype_inner",
                 "cache_url",
                 "name",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -224,8 +209,7 @@
                 "cache_url field exists but there is no value defined",
                 "name field exists but there is no value defined",
                 "created field is missing",
-                "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "webstore_url field exists but there is no value defined"
             ]
         },
         "weblog": {
@@ -243,8 +227,7 @@
                 "cache_url",
                 "name",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [],
             "report": [
@@ -259,8 +242,7 @@
                 "name field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "last_modified field exists but there is no value defined"
             ]
         }
     },

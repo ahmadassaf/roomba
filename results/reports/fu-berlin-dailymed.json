@@ -3,21 +3,11 @@
         "group"
     ],
     "undefined": [
-        "private",
-        "isopen",
-        "num_tags",
-        "num_resources",
-        "is_organization",
         "version"
     ],
     "unreachableURLs": [],
     "report": [
-        "private field exists but there is no value defined",
-        "isopen field exists but there is no value defined",
-        "num_tags field exists but there is no value defined",
-        "num_resources field exists but there is no value defined",
         "group information is missing. Check organization information as they can be mixed sometimes",
-        "is_organization field exists but there is no value defined",
         "version field exists but there is no value defined"
     ],
     "tag": {
@@ -146,8 +136,7 @@
                 "cache_url",
                 "name",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [
                 "http://www4.wiwiss.fu-berlin.de/dailymed/sparql"
@@ -165,7 +154,6 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The url for this resource is not reachable !"
             ]
         },
@@ -181,8 +169,7 @@
                 "mimetype_inner",
                 "cache_url",
                 "name",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [
                 "http://www4.wiwiss.fu-berlin.de/dailymed/dailymed_dump.nt.bz2"
@@ -197,8 +184,9 @@
                 "name field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
-                "The url for this resource is not reachable !"
+                "The url for this resource is not reachable !",
+                "mimetype value defined where the resource is not reachable",
+                "size value defined where the resource is not reachable"
             ]
         },
         "XML Sitemap": {
@@ -216,8 +204,7 @@
                 "cache_url",
                 "name",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [
                 "http://www4.wiwiss.fu-berlin.de/dailymed/sitemap.xml"
@@ -235,7 +222,6 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The url for this resource is not reachable !"
             ]
         },
@@ -254,8 +240,7 @@
                 "cache_url",
                 "name",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [],
             "report": [
@@ -270,8 +255,7 @@
                 "name field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "last_modified field exists but there is no value defined"
             ]
         }
     },

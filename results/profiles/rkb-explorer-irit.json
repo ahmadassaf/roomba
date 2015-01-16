@@ -89,6 +89,17 @@
                 "revision_id": "67ca6442-af6b-4ce4-b9cf-9a16c67ca7ae",
                 "subject_package_id": "3f3a5534-bafd-451f-9c2e-587a823c5f09"
             }
+        },
+        {
+            "comment": "mika_i_zika",
+            "type": "derives_from",
+            "id": "028ba2b1-12d4-48ca-95ca-5daf3bc9a634",
+            "__extras": {
+                "revision_timestamp": "2014-11-01T14:23:07.491097",
+                "subject_package_id": "edd880c6-d9e6-4bff-999b-7e344917925c",
+                "revision_id": "4aad11f7-6ca6-4a1c-9896-7a4980b8daf2",
+                "object_package_id": "15f90bfb-75fa-4825-a384-cff14d4f5dca"
+            }
         }
     ],
     "private": false,
@@ -97,7 +108,7 @@
     "id": "15f90bfb-75fa-4825-a384-cff14d4f5dca",
     "metadata_created": "2010-08-23T13:45:02.310010",
     "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
-    "metadata_modified": "2013-10-10T23:27:22.266574",
+    "metadata_modified": "2014-11-01T14:25:34.345755",
     "author": "Hugh Glaser",
     "author_email": "hg@ecs.soton.ac.uk",
     "state": "active",
@@ -366,7 +377,41 @@
         "recent": 3
     },
     "groups": [],
-    "relationships_as_subject": [],
+    "relationships_as_subject": [
+        {
+            "comment": "mika_i_zika",
+            "type": "depends_on",
+            "id": "4bd5b9a0-7b03-4a33-8977-3a32e023d1af",
+            "__extras": {
+                "revision_timestamp": "2014-11-01T14:23:47.128757",
+                "object_package_id": "feec8014-10d0-47c1-9f4d-eed33dc68d83",
+                "revision_id": "ed06345e-80b7-4e0e-9dec-99e1e7eaa64a",
+                "subject_package_id": "15f90bfb-75fa-4825-a384-cff14d4f5dca"
+            }
+        },
+        {
+            "comment": "mika_i_zika",
+            "type": "depends_on",
+            "id": "615f7970-f2fc-466b-b32a-4e3768865420",
+            "__extras": {
+                "revision_timestamp": "2014-11-01T14:25:34.345755",
+                "subject_package_id": "15f90bfb-75fa-4825-a384-cff14d4f5dca",
+                "revision_id": "2953af2d-dd5a-4358-9039-fee6a1d9ee10",
+                "object_package_id": "edd880c6-d9e6-4bff-999b-7e344917925c"
+            }
+        },
+        {
+            "comment": "some comment",
+            "type": "child_of",
+            "id": "034fece1-b221-44ec-813c-d78b1b1d1a6f",
+            "__extras": {
+                "revision_timestamp": "2014-11-01T14:21:54.643882",
+                "subject_package_id": "15f90bfb-75fa-4825-a384-cff14d4f5dca",
+                "revision_id": "d3b01b85-0394-4635-b34b-0e84678fd433",
+                "object_package_id": "edd880c6-d9e6-4bff-999b-7e344917925c"
+            }
+        }
+    ],
     "num_tags": 11,
     "name": "rkb-explorer-irit",
     "isopen": false,
@@ -426,8 +471,8 @@
             "value": "4344",
             "key": "links:rkb-explorer-dblp",
             "__extras": {
-                "revision_id": "99871dcf-d1ff-4040-b705-de3d47950d47",
-                "package_id": "15f90bfb-75fa-4825-a384-cff14d4f5dca"
+                "package_id": "15f90bfb-75fa-4825-a384-cff14d4f5dca",
+                "revision_id": "99871dcf-d1ff-4040-b705-de3d47950d47"
             }
         },
         {

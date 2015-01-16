@@ -3,23 +3,11 @@
         "group",
         "resources"
     ],
-    "undefined": [
-        "private",
-        "isopen",
-        "num_tags",
-        "num_resources",
-        "is_organization"
-    ],
+    "undefined": [],
     "unreachableURLs": [],
     "report": [
-        "private field exists but there is no value defined",
-        "isopen field exists but there is no value defined",
-        "num_tags field exists but there is no value defined",
-        "num_resources field exists but there is no value defined",
         "group information is missing. Check organization information as they can be mixed sometimes",
-        "is_organization field exists but there is no value defined",
-        "resources information (API endpoints, downloadable dumpds, etc.) is missing",
-        "num_resources field for this dataset is not correct. Provided: NaN where the actual number is: 1"
+        "resources information (API endpoints, downloadable dumpds, etc.) is missing"
     ],
     "tag": {
         "austria": {
@@ -144,6 +132,39 @@
         }
     },
     "resource": {
+        "SPARQL Endpoint - Geologic Unit": {
+            "missing": [
+                "url-type",
+                "created"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "name",
+                "webstore_url",
+                "last_modified"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "name field exists but there is no value defined",
+                "created field is missing",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined"
+            ]
+        },
         "Download - Geologic Unit": {
             "missing": [
                 "url-type",
@@ -159,8 +180,7 @@
                 "cache_url",
                 "name",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [
                 "http://resource.geolba.ac.at/PoolParty/OpenConfigPathResourceProvider/backuproot?fileName=d7b07bce-7ce4-4bcb-85ae-e0f774e6fb8d/pp_project_geologische_einheiten.rdf&contentType=application/rdf%2Bxml"
@@ -178,7 +198,6 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The url for this resource is not reachable !"
             ]
         },
@@ -197,8 +216,7 @@
                 "cache_url",
                 "name",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [],
             "report": [
@@ -213,78 +231,7 @@
                 "name field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined"
-            ]
-        },
-        "SPARQL Endpoint - Geologic Unit": {
-            "missing": [
-                "url-type",
-                "created"
-            ],
-            "undefined": [
-                "cache_last_updated",
-                "webstore_last_updated",
-                "size",
-                "hash",
-                "mimetype_inner",
-                "mimetype",
-                "cache_url",
-                "name",
-                "webstore_url",
-                "last_modified",
-                "position"
-            ],
-            "unreachableURLs": [],
-            "report": [
-                "cache_last_updated field exists but there is no value defined",
-                "webstore_last_updated field exists but there is no value defined",
-                "size field exists but there is no value defined",
-                "hash field exists but there is no value defined",
-                "mimetype_inner field exists but there is no value defined",
-                "url-type field is missing",
-                "mimetype field exists but there is no value defined",
-                "cache_url field exists but there is no value defined",
-                "name field exists but there is no value defined",
-                "created field is missing",
-                "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined"
-            ]
-        },
-        "Geologic Time Scale": {
-            "missing": [
-                "url-type",
-                "created"
-            ],
-            "undefined": [
-                "cache_last_updated",
-                "webstore_last_updated",
-                "size",
-                "hash",
-                "mimetype_inner",
-                "mimetype",
-                "cache_url",
-                "name",
-                "webstore_url",
-                "last_modified",
-                "position"
-            ],
-            "unreachableURLs": [],
-            "report": [
-                "cache_last_updated field exists but there is no value defined",
-                "webstore_last_updated field exists but there is no value defined",
-                "size field exists but there is no value defined",
-                "hash field exists but there is no value defined",
-                "mimetype_inner field exists but there is no value defined",
-                "url-type field is missing",
-                "mimetype field exists but there is no value defined",
-                "cache_url field exists but there is no value defined",
-                "name field exists but there is no value defined",
-                "created field is missing",
-                "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "last_modified field exists but there is no value defined"
             ]
         },
         "Geologic Unit": {
@@ -303,7 +250,6 @@
                 "name",
                 "webstore_url",
                 "last_modified",
-                "position",
                 "resource_type"
             ],
             "unreachableURLs": [],
@@ -320,8 +266,40 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "resource_type field exists but there is no value defined"
+            ]
+        },
+        "Geologic Time Scale": {
+            "missing": [
+                "url-type",
+                "created"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "name",
+                "webstore_url",
+                "last_modified"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "name field exists but there is no value defined",
+                "created field is missing",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined"
             ]
         },
         "SPARQL Endpoint - Geologic Time Scale": {
@@ -339,8 +317,7 @@
                 "cache_url",
                 "name",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [],
             "report": [
@@ -355,8 +332,7 @@
                 "name field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "last_modified field exists but there is no value defined"
             ]
         },
         "Download - Geologic Time Scale": {
@@ -374,8 +350,7 @@
                 "cache_url",
                 "name",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [
                 "http://resource.geolba.ac.at/PoolParty/OpenConfigPathResourceProvider/backuproot?fileName=urn:uuid:1D763DCD-0E5C-0001-FBB1-1D401A50B620/pp_project_geologische_zeitskala.rdf&contentType=application/rdf%2Bxml"
@@ -393,7 +368,6 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The url for this resource is not reachable !"
             ]
         },
@@ -412,8 +386,7 @@
                 "cache_url",
                 "name",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [],
             "report": [
@@ -428,116 +401,7 @@
                 "name field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined"
-            ]
-        },
-        "SPARQL Endpoint - Lithology": {
-            "missing": [
-                "url-type",
-                "created"
-            ],
-            "undefined": [
-                "cache_last_updated",
-                "webstore_last_updated",
-                "size",
-                "hash",
-                "mimetype_inner",
-                "mimetype",
-                "cache_url",
-                "name",
-                "webstore_url",
-                "last_modified",
-                "position"
-            ],
-            "unreachableURLs": [],
-            "report": [
-                "cache_last_updated field exists but there is no value defined",
-                "webstore_last_updated field exists but there is no value defined",
-                "size field exists but there is no value defined",
-                "hash field exists but there is no value defined",
-                "mimetype_inner field exists but there is no value defined",
-                "url-type field is missing",
-                "mimetype field exists but there is no value defined",
-                "cache_url field exists but there is no value defined",
-                "name field exists but there is no value defined",
-                "created field is missing",
-                "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined"
-            ]
-        },
-        "Download - Lithology": {
-            "missing": [
-                "url-type",
-                "created"
-            ],
-            "undefined": [
-                "cache_last_updated",
-                "webstore_last_updated",
-                "size",
-                "hash",
-                "mimetype_inner",
-                "mimetype",
-                "cache_url",
-                "name",
-                "webstore_url",
-                "last_modified",
-                "position"
-            ],
-            "unreachableURLs": [
-                "http://resource.geolba.ac.at/PoolParty/OpenConfigPathResourceProvider/backuproot?fileName=urn:uuid:1D87806F-E88C-0001-AFCC-DC87F6001C3A/pp_project_lithologische_einheiten.rdf&contentType=application/rdf%2Bxml"
-            ],
-            "report": [
-                "cache_last_updated field exists but there is no value defined",
-                "webstore_last_updated field exists but there is no value defined",
-                "size field exists but there is no value defined",
-                "hash field exists but there is no value defined",
-                "mimetype_inner field exists but there is no value defined",
-                "url-type field is missing",
-                "mimetype field exists but there is no value defined",
-                "cache_url field exists but there is no value defined",
-                "name field exists but there is no value defined",
-                "created field is missing",
-                "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
-                "The url for this resource is not reachable !"
-            ]
-        },
-        "Example (rdf) - Lithology": {
-            "missing": [
-                "url-type",
-                "created"
-            ],
-            "undefined": [
-                "cache_last_updated",
-                "webstore_last_updated",
-                "size",
-                "hash",
-                "mimetype_inner",
-                "mimetype",
-                "cache_url",
-                "name",
-                "webstore_url",
-                "last_modified",
-                "position"
-            ],
-            "unreachableURLs": [],
-            "report": [
-                "cache_last_updated field exists but there is no value defined",
-                "webstore_last_updated field exists but there is no value defined",
-                "size field exists but there is no value defined",
-                "hash field exists but there is no value defined",
-                "mimetype_inner field exists but there is no value defined",
-                "url-type field is missing",
-                "mimetype field exists but there is no value defined",
-                "cache_url field exists but there is no value defined",
-                "name field exists but there is no value defined",
-                "created field is missing",
-                "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "last_modified field exists but there is no value defined"
             ]
         },
         "Lithology": {
@@ -556,7 +420,6 @@
                 "name",
                 "webstore_url",
                 "last_modified",
-                "position",
                 "resource_type"
             ],
             "unreachableURLs": [],
@@ -573,11 +436,10 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "resource_type field exists but there is no value defined"
             ]
         },
-        "SPARQL Endpoint - Lithotectonic Unit": {
+        "SPARQL Endpoint - Lithology": {
             "missing": [
                 "url-type",
                 "created"
@@ -592,8 +454,7 @@
                 "cache_url",
                 "name",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [],
             "report": [
@@ -608,8 +469,76 @@
                 "name field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined"
+            ]
+        },
+        "Download - Lithology": {
+            "missing": [
+                "url-type",
+                "created"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "name",
+                "webstore_url",
+                "last_modified"
+            ],
+            "unreachableURLs": [
+                "http://resource.geolba.ac.at/PoolParty/OpenConfigPathResourceProvider/backuproot?fileName=urn:uuid:1D87806F-E88C-0001-AFCC-DC87F6001C3A/pp_project_lithologische_einheiten.rdf&contentType=application/rdf%2Bxml"
+            ],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "name field exists but there is no value defined",
+                "created field is missing",
+                "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "The url for this resource is not reachable !"
+            ]
+        },
+        "Example (rdf) - Lithology": {
+            "missing": [
+                "url-type",
+                "created"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "name",
+                "webstore_url",
+                "last_modified"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "name field exists but there is no value defined",
+                "created field is missing",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined"
             ]
         },
         "Lithotectonic Unit": {
@@ -628,7 +557,6 @@
                 "name",
                 "webstore_url",
                 "last_modified",
-                "position",
                 "resource_type"
             ],
             "unreachableURLs": [],
@@ -645,8 +573,40 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "resource_type field exists but there is no value defined"
+            ]
+        },
+        "SPARQL Endpoint - Lithotectonic Unit": {
+            "missing": [
+                "url-type",
+                "created"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "name",
+                "webstore_url",
+                "last_modified"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "name field exists but there is no value defined",
+                "created field is missing",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined"
             ]
         },
         "Download - Lithotectonic Unit": {
@@ -664,8 +624,7 @@
                 "cache_url",
                 "name",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [
                 "http://resource.geolba.ac.at/PoolParty/OpenConfigPathResourceProvider/backuproot?fileName=d13bb3e7-df48-4cba-bd0c-e63c8943d9e0/pp_project_lithotektonische_einheiten.rdf&contentType=application/rdf%2Bxml"
@@ -683,7 +642,6 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The url for this resource is not reachable !"
             ]
         },
@@ -702,8 +660,7 @@
                 "cache_url",
                 "name",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [],
             "report": [
@@ -718,8 +675,7 @@
                 "name field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "last_modified field exists but there is no value defined"
             ]
         },
         "VoiD - Lithotectonic Unit": {
@@ -737,8 +693,7 @@
                 "cache_url",
                 "name",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [],
             "report": [
@@ -753,8 +708,7 @@
                 "name field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "last_modified field exists but there is no value defined"
             ]
         },
         "VoiD - Lithology": {
@@ -772,8 +726,7 @@
                 "cache_url",
                 "name",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [],
             "report": [
@@ -788,43 +741,7 @@
                 "name field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined"
-            ]
-        },
-        "VoiD - Geologic Unit": {
-            "missing": [
-                "url-type",
-                "created"
-            ],
-            "undefined": [
-                "cache_last_updated",
-                "webstore_last_updated",
-                "size",
-                "hash",
-                "mimetype_inner",
-                "mimetype",
-                "cache_url",
-                "name",
-                "webstore_url",
-                "last_modified",
-                "position"
-            ],
-            "unreachableURLs": [],
-            "report": [
-                "cache_last_updated field exists but there is no value defined",
-                "webstore_last_updated field exists but there is no value defined",
-                "size field exists but there is no value defined",
-                "hash field exists but there is no value defined",
-                "mimetype_inner field exists but there is no value defined",
-                "url-type field is missing",
-                "mimetype field exists but there is no value defined",
-                "cache_url field exists but there is no value defined",
-                "name field exists but there is no value defined",
-                "created field is missing",
-                "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "last_modified field exists but there is no value defined"
             ]
         },
         "VoiD - Geologic Time Scale": {
@@ -842,8 +759,7 @@
                 "cache_url",
                 "name",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [],
             "report": [
@@ -858,14 +774,46 @@
                 "name field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "last_modified field exists but there is no value defined"
+            ]
+        },
+        "VoiD - Geologic Unit": {
+            "missing": [
+                "url-type",
+                "created"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "name",
+                "webstore_url",
+                "last_modified"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "name field exists but there is no value defined",
+                "created field is missing",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined"
             ]
         }
     },
     "counter": {
         "group": 0,
         "tag": 11,
-        "resource": 6679
+        "resource": 6556
     }
 }

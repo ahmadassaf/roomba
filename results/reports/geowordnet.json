@@ -3,24 +3,13 @@
         "group",
         "resources"
     ],
-    "undefined": [
-        "private",
-        "isopen",
-        "num_tags",
-        "num_resources",
-        "is_organization"
-    ],
+    "undefined": [],
     "unreachableURLs": [
         "http://geowordnet.semanticmatching.org/"
     ],
     "report": [
-        "private field exists but there is no value defined",
-        "isopen field exists but there is no value defined",
-        "num_tags field exists but there is no value defined",
-        "num_resources field exists but there is no value defined",
         "group information is missing. Check organization information as they can be mixed sometimes",
         "The url defined for this dataset is not reachable !",
-        "is_organization field exists but there is no value defined",
         "maintainer_email is not a valid e-mail address !",
         "author_email is not a valid e-mail address !",
         "resources information (API endpoints, downloadable dumpds, etc.) is missing"
@@ -264,7 +253,6 @@
                 "name",
                 "webstore_url",
                 "last_modified",
-                "position",
                 "resource_type"
             ],
             "unreachableURLs": [
@@ -283,7 +271,6 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "resource_type field exists but there is no value defined",
                 "The url for this resource is not reachable !"
             ]
@@ -304,7 +291,6 @@
                 "name",
                 "webstore_url",
                 "last_modified",
-                "position",
                 "resource_type"
             ],
             "unreachableURLs": [
@@ -323,7 +309,6 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "resource_type field exists but there is no value defined",
                 "The url for this resource is not reachable !"
             ]
@@ -344,7 +329,6 @@
                 "name",
                 "webstore_url",
                 "last_modified",
-                "position",
                 "resource_type"
             ],
             "unreachableURLs": [
@@ -363,7 +347,6 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "resource_type field exists but there is no value defined",
                 "The url for this resource is not reachable !"
             ]
@@ -384,7 +367,6 @@
                 "name",
                 "webstore_url",
                 "last_modified",
-                "position",
                 "resource_type"
             ],
             "unreachableURLs": [
@@ -403,7 +385,6 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "resource_type field exists but there is no value defined",
                 "The url for this resource is not reachable !"
             ]
@@ -424,7 +405,6 @@
                 "name",
                 "webstore_url",
                 "last_modified",
-                "position",
                 "resource_type"
             ],
             "unreachableURLs": [
@@ -443,7 +423,6 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "resource_type field exists but there is no value defined",
                 "The url for this resource is not reachable !"
             ]
@@ -464,7 +443,6 @@
                 "name",
                 "webstore_url",
                 "last_modified",
-                "position",
                 "resource_type"
             ],
             "unreachableURLs": [
@@ -483,7 +461,6 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "resource_type field exists but there is no value defined",
                 "The url for this resource is not reachable !"
             ]
@@ -504,7 +481,6 @@
                 "name",
                 "webstore_url",
                 "last_modified",
-                "position",
                 "resource_type"
             ],
             "unreachableURLs": [
@@ -523,7 +499,6 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "resource_type field exists but there is no value defined",
                 "The url for this resource is not reachable !"
             ]

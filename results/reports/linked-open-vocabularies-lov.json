@@ -2,24 +2,13 @@
     "missing": [
         "group"
     ],
-    "undefined": [
-        "private",
-        "isopen",
-        "num_tags",
-        "num_resources",
-        "is_organization"
-    ],
+    "undefined": [],
     "unreachableURLs": [
         "http://lov.okfn.org/dataset/lov/index.html"
     ],
     "report": [
-        "private field exists but there is no value defined",
-        "isopen field exists but there is no value defined",
-        "num_tags field exists but there is no value defined",
-        "num_resources field exists but there is no value defined",
         "group information is missing. Check organization information as they can be mixed sometimes",
-        "The url defined for this dataset is not reachable !",
-        "is_organization field exists but there is no value defined"
+        "The url defined for this dataset is not reachable !"
     ],
     "tag": {
         "crossdomain": {
@@ -186,8 +175,7 @@
                 "mimetype_inner",
                 "cache_url",
                 "name",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [
                 "http://lov.okfn.org/dataset/lov/rdf/vocabulary_cco.rdf"
@@ -202,8 +190,9 @@
                 "name field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
-                "The url for this resource is not reachable !"
+                "The url for this resource is not reachable !",
+                "mimetype value defined where the resource is not reachable",
+                "size value defined where the resource is not reachable"
             ]
         },
         "RDF File": {
@@ -218,8 +207,7 @@
                 "mimetype_inner",
                 "cache_url",
                 "name",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [
                 "http://lov.okfn.org/dataset/lov/lov.rdf"
@@ -234,8 +222,9 @@
                 "name field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
-                "The url for this resource is not reachable !"
+                "The url for this resource is not reachable !",
+                "mimetype value defined where the resource is not reachable",
+                "size value defined where the resource is not reachable"
             ]
         },
         "SPARQL endpoint": {
@@ -250,8 +239,7 @@
                 "mimetype_inner",
                 "cache_url",
                 "name",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -264,7 +252,6 @@
                 "name field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The size for resource is not defined correctly"
             ]
         }

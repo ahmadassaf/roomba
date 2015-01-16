@@ -4,24 +4,14 @@
         "resources"
     ],
     "undefined": [
-        "private",
-        "isopen",
-        "num_tags",
-        "num_resources",
         "maintainer",
-        "maintainer_email",
-        "is_organization"
+        "maintainer_email"
     ],
     "unreachableURLs": [],
     "report": [
-        "private field exists but there is no value defined",
-        "isopen field exists but there is no value defined",
-        "num_tags field exists but there is no value defined",
-        "num_resources field exists but there is no value defined",
         "group information is missing. Check organization information as they can be mixed sometimes",
         "maintainer field exists but there is no value defined",
         "maintainer_email field exists but there is no value defined",
-        "is_organization field exists but there is no value defined",
         "resources information (API endpoints, downloadable dumpds, etc.) is missing"
     ],
     "tag": {
@@ -127,53 +117,7 @@
         }
     },
     "resource": {
-        "Example journal paper": {
-            "missing": [
-                "url-type",
-                "created"
-            ],
-            "undefined": [
-                "cache_last_updated",
-                "description",
-                "mimetype_inner",
-                "cache_url",
-                "position"
-            ],
-            "unreachableURLs": [],
-            "report": [
-                "cache_last_updated field exists but there is no value defined",
-                "description field exists but there is no value defined",
-                "mimetype_inner field exists but there is no value defined",
-                "url-type field is missing",
-                "cache_url field exists but there is no value defined",
-                "created field is missing",
-                "position field exists but there is no value defined"
-            ]
-        },
-        "Example target": {
-            "missing": [
-                "url-type",
-                "created"
-            ],
-            "undefined": [
-                "cache_last_updated",
-                "description",
-                "mimetype_inner",
-                "cache_url",
-                "position"
-            ],
-            "unreachableURLs": [],
-            "report": [
-                "cache_last_updated field exists but there is no value defined",
-                "description field exists but there is no value defined",
-                "mimetype_inner field exists but there is no value defined",
-                "url-type field is missing",
-                "cache_url field exists but there is no value defined",
-                "created field is missing",
-                "position field exists but there is no value defined"
-            ]
-        },
-        "Example journal": {
+        "SPARQL endpoint": {
             "missing": [
                 "url-type",
                 "created"
@@ -183,29 +127,25 @@
                 "webstore_last_updated",
                 "size",
                 "hash",
-                "description",
                 "mimetype_inner",
+                "mimetype",
                 "cache_url",
-                "webstore_url",
-                "last_modified",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [
-                "http://linkedchemistry.info/chembl/journal/j2d9cdf677b52f45100278f594cd7198a"
+                "http://rdf.farmbio.uu.se/chembl/sparql"
             ],
             "report": [
                 "cache_last_updated field exists but there is no value defined",
                 "webstore_last_updated field exists but there is no value defined",
                 "size field exists but there is no value defined",
                 "hash field exists but there is no value defined",
-                "description field exists but there is no value defined",
                 "mimetype_inner field exists but there is no value defined",
                 "url-type field is missing",
+                "mimetype field exists but there is no value defined",
                 "cache_url field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The url for this resource is not reachable !"
             ]
         },
@@ -223,8 +163,7 @@
                 "mimetype_inner",
                 "cache_url",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [
                 "http://data.kasabi.com/dataset/chembl-rdf/molecule/m100431.html"
@@ -241,8 +180,85 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
-                "The url for this resource is not reachable !"
+                "The url for this resource is not reachable !",
+                "mimetype value defined where the resource is not reachable"
+            ]
+        },
+        "Example journal": {
+            "missing": [
+                "url-type",
+                "created"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "description",
+                "mimetype_inner",
+                "cache_url",
+                "webstore_url",
+                "last_modified"
+            ],
+            "unreachableURLs": [
+                "http://linkedchemistry.info/chembl/journal/j2d9cdf677b52f45100278f594cd7198a"
+            ],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "description field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "cache_url field exists but there is no value defined",
+                "created field is missing",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined",
+                "The url for this resource is not reachable !",
+                "mimetype value defined where the resource is not reachable"
+            ]
+        },
+        "Example journal paper": {
+            "missing": [
+                "url-type",
+                "created"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "description",
+                "mimetype_inner",
+                "cache_url"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "description field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "cache_url field exists but there is no value defined",
+                "created field is missing"
+            ]
+        },
+        "Example target": {
+            "missing": [
+                "url-type",
+                "created"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "description",
+                "mimetype_inner",
+                "cache_url"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "description field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "cache_url field exists but there is no value defined",
+                "created field is missing"
             ]
         },
         "Example activity": {
@@ -254,8 +270,7 @@
                 "cache_last_updated",
                 "description",
                 "mimetype_inner",
-                "cache_url",
-                "position"
+                "cache_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -264,8 +279,7 @@
                 "mimetype_inner field exists but there is no value defined",
                 "url-type field is missing",
                 "cache_url field exists but there is no value defined",
-                "created field is missing",
-                "position field exists but there is no value defined"
+                "created field is missing"
             ]
         },
         "Example assay": {
@@ -277,8 +291,7 @@
                 "cache_last_updated",
                 "description",
                 "mimetype_inner",
-                "cache_url",
-                "position"
+                "cache_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -287,11 +300,10 @@
                 "mimetype_inner field exists but there is no value defined",
                 "url-type field is missing",
                 "cache_url field exists but there is no value defined",
-                "created field is missing",
-                "position field exists but there is no value defined"
+                "created field is missing"
             ]
         },
-        "SPARQL endpoint": {
+        "CHEMINF ontology": {
             "missing": [
                 "url-type",
                 "created"
@@ -301,27 +313,29 @@
                 "webstore_last_updated",
                 "size",
                 "hash",
+                "description",
                 "mimetype_inner",
                 "mimetype",
                 "cache_url",
                 "webstore_url",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [
-                "http://rdf.farmbio.uu.se/chembl/sparql"
+                "http://rest.bioontology.org/bioportal/ontologies/download/45415?apikey=4ea81d74-8960-4525-810b-fa1baab576ff"
             ],
             "report": [
                 "cache_last_updated field exists but there is no value defined",
                 "webstore_last_updated field exists but there is no value defined",
                 "size field exists but there is no value defined",
                 "hash field exists but there is no value defined",
+                "description field exists but there is no value defined",
                 "mimetype_inner field exists but there is no value defined",
                 "url-type field is missing",
                 "mimetype field exists but there is no value defined",
                 "cache_url field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
+                "last_modified field exists but there is no value defined",
                 "The url for this resource is not reachable !"
             ]
         },
@@ -340,8 +354,7 @@
                 "mimetype",
                 "cache_url",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [
                 "http://data.kasabi.com/dataset/chembl-rdf"
@@ -359,45 +372,6 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
-                "The url for this resource is not reachable !"
-            ]
-        },
-        "CHEMINF ontology": {
-            "missing": [
-                "url-type",
-                "created"
-            ],
-            "undefined": [
-                "cache_last_updated",
-                "webstore_last_updated",
-                "size",
-                "hash",
-                "description",
-                "mimetype_inner",
-                "mimetype",
-                "cache_url",
-                "webstore_url",
-                "last_modified",
-                "position"
-            ],
-            "unreachableURLs": [
-                "http://rest.bioontology.org/bioportal/ontologies/download/45415?apikey=4ea81d74-8960-4525-810b-fa1baab576ff"
-            ],
-            "report": [
-                "cache_last_updated field exists but there is no value defined",
-                "webstore_last_updated field exists but there is no value defined",
-                "size field exists but there is no value defined",
-                "hash field exists but there is no value defined",
-                "description field exists but there is no value defined",
-                "mimetype_inner field exists but there is no value defined",
-                "url-type field is missing",
-                "mimetype field exists but there is no value defined",
-                "cache_url field exists but there is no value defined",
-                "created field is missing",
-                "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The url for this resource is not reachable !"
             ]
         },
@@ -413,8 +387,7 @@
                 "description",
                 "mimetype_inner",
                 "cache_url",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [
                 "http://semantics.bigcat.unimaas.nl/chembl/v13_5/"
@@ -429,8 +402,9 @@
                 "cache_url field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
-                "The url for this resource is not reachable !"
+                "The url for this resource is not reachable !",
+                "mimetype value defined where the resource is not reachable",
+                "size value defined where the resource is not reachable"
             ]
         }
     },

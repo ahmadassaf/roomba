@@ -4,25 +4,15 @@
         "resources"
     ],
     "undefined": [
-        "private",
-        "isopen",
-        "num_tags",
-        "num_resources",
         "maintainer",
         "maintainer_email",
-        "is_organization",
         "version"
     ],
     "unreachableURLs": [],
     "report": [
-        "private field exists but there is no value defined",
-        "isopen field exists but there is no value defined",
-        "num_tags field exists but there is no value defined",
-        "num_resources field exists but there is no value defined",
         "group information is missing. Check organization information as they can be mixed sometimes",
         "maintainer field exists but there is no value defined",
         "maintainer_email field exists but there is no value defined",
-        "is_organization field exists but there is no value defined",
         "version field exists but there is no value defined",
         "resources information (API endpoints, downloadable dumpds, etc.) is missing"
     ],
@@ -109,7 +99,7 @@
         }
     },
     "resource": {
-        "RDF Ontology": {
+        "Example resource": {
             "missing": [
                 "url-type",
                 "created"
@@ -121,10 +111,11 @@
                 "mimetype_inner",
                 "cache_url",
                 "name",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
-            "unreachableURLs": [],
+            "unreachableURLs": [
+                "http://govwild.org/rdf/?uri=http%3A%2F%2Fgovwild.org%2Fid%2Fperson%2FAngela_Merkel_deBundestag_370_P"
+            ],
             "report": [
                 "cache_last_updated field exists but there is no value defined",
                 "webstore_last_updated field exists but there is no value defined",
@@ -135,42 +126,9 @@
                 "name field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined"
-            ]
-        },
-        "http://govwild.org/sparql?query=<query>": {
-            "missing": [
-                "url-type",
-                "created"
-            ],
-            "undefined": [
-                "cache_last_updated",
-                "webstore_last_updated",
-                "size",
-                "hash",
-                "mimetype_inner",
-                "mimetype",
-                "cache_url",
-                "name",
-                "webstore_url",
-                "last_modified",
-                "position"
-            ],
-            "unreachableURLs": [],
-            "report": [
-                "cache_last_updated field exists but there is no value defined",
-                "webstore_last_updated field exists but there is no value defined",
-                "size field exists but there is no value defined",
-                "hash field exists but there is no value defined",
-                "mimetype_inner field exists but there is no value defined",
-                "url-type field is missing",
-                "mimetype field exists but there is no value defined",
-                "cache_url field exists but there is no value defined",
-                "name field exists but there is no value defined",
-                "created field is missing",
-                "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "The url for this resource is not reachable !",
+                "mimetype value defined where the resource is not reachable",
+                "size value defined where the resource is not reachable"
             ]
         },
         "http://govwild.org/rdf/?uri=<uri>": {
@@ -188,8 +146,7 @@
                 "cache_url",
                 "name",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [
                 "http://govwild.org/rdf/"
@@ -207,11 +164,76 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The url for this resource is not reachable !"
             ]
         },
-        "Example resource": {
+        "Download (N3)": {
+            "missing": [
+                "url-type",
+                "created"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "name",
+                "webstore_url",
+                "last_modified"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "name field exists but there is no value defined",
+                "created field is missing",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined"
+            ]
+        },
+        "http://govwild.org/sparql?query=<query>": {
+            "missing": [
+                "url-type",
+                "created"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "name",
+                "webstore_url",
+                "last_modified"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "name field exists but there is no value defined",
+                "created field is missing",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined"
+            ]
+        },
+        "RDF Ontology": {
             "missing": [
                 "url-type",
                 "created"
@@ -223,12 +245,9 @@
                 "mimetype_inner",
                 "cache_url",
                 "name",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
-            "unreachableURLs": [
-                "http://govwild.org/rdf/?uri=http%3A%2F%2Fgovwild.org%2Fid%2Fperson%2FAngela_Merkel_deBundestag_370_P"
-            ],
+            "unreachableURLs": [],
             "report": [
                 "cache_last_updated field exists but there is no value defined",
                 "webstore_last_updated field exists but there is no value defined",
@@ -238,9 +257,7 @@
                 "cache_url field exists but there is no value defined",
                 "name field exists but there is no value defined",
                 "created field is missing",
-                "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
-                "The url for this resource is not reachable !"
+                "webstore_url field exists but there is no value defined"
             ]
         },
         "7f2dabe5-c8cb-4d44-bbca-952f195659ab": {
@@ -259,8 +276,7 @@
                 "cache_url",
                 "name",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [],
             "report": [
@@ -276,43 +292,7 @@
                 "name field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined"
-            ]
-        },
-        "Download (N3)": {
-            "missing": [
-                "url-type",
-                "created"
-            ],
-            "undefined": [
-                "cache_last_updated",
-                "webstore_last_updated",
-                "size",
-                "hash",
-                "mimetype_inner",
-                "mimetype",
-                "cache_url",
-                "name",
-                "webstore_url",
-                "last_modified",
-                "position"
-            ],
-            "unreachableURLs": [],
-            "report": [
-                "cache_last_updated field exists but there is no value defined",
-                "webstore_last_updated field exists but there is no value defined",
-                "size field exists but there is no value defined",
-                "hash field exists but there is no value defined",
-                "mimetype_inner field exists but there is no value defined",
-                "url-type field is missing",
-                "mimetype field exists but there is no value defined",
-                "cache_url field exists but there is no value defined",
-                "name field exists but there is no value defined",
-                "created field is missing",
-                "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "last_modified field exists but there is no value defined"
             ]
         }
     },

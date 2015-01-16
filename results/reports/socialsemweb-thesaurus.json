@@ -4,24 +4,13 @@
         "resources"
     ],
     "undefined": [
-        "private",
-        "isopen",
-        "num_tags",
-        "num_resources",
-        "maintainer_email",
-        "is_organization"
+        "maintainer_email"
     ],
     "unreachableURLs": [],
     "report": [
-        "private field exists but there is no value defined",
-        "isopen field exists but there is no value defined",
-        "num_tags field exists but there is no value defined",
-        "num_resources field exists but there is no value defined",
         "group information is missing. Check organization information as they can be mixed sometimes",
         "maintainer_email field exists but there is no value defined",
-        "is_organization field exists but there is no value defined",
-        "resources information (API endpoints, downloadable dumpds, etc.) is missing",
-        "num_resources field for this dataset is not correct. Provided: NaN where the actual number is: 1"
+        "resources information (API endpoints, downloadable dumpds, etc.) is missing"
     ],
     "tag": {
         "crossdomain": {
@@ -182,7 +171,6 @@
                 "name",
                 "webstore_url",
                 "last_modified",
-                "position",
                 "resource_type"
             ],
             "unreachableURLs": [],
@@ -199,7 +187,6 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "resource_type field exists but there is no value defined"
             ]
         },
@@ -219,7 +206,6 @@
                 "name",
                 "webstore_url",
                 "last_modified",
-                "position",
                 "resource_type"
             ],
             "unreachableURLs": [
@@ -238,7 +224,6 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "resource_type field exists but there is no value defined",
                 "The url for this resource is not reachable !"
             ]
@@ -258,8 +243,7 @@
                 "mimetype",
                 "cache_url",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [],
             "report": [
@@ -274,8 +258,7 @@
                 "cache_url field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "last_modified field exists but there is no value defined"
             ]
         },
         "Download": {
@@ -294,7 +277,6 @@
                 "name",
                 "webstore_url",
                 "last_modified",
-                "position",
                 "resource_type"
             ],
             "unreachableURLs": [],
@@ -311,7 +293,6 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "resource_type field exists but there is no value defined"
             ]
         }
@@ -319,6 +300,6 @@
     "counter": {
         "group": 0,
         "tag": 13,
-        "resource": 6004
+        "resource": 5917
     }
 }

@@ -4,29 +4,18 @@
         "resources"
     ],
     "undefined": [
-        "private",
-        "isopen",
         "notes",
-        "num_tags",
-        "num_resources",
-        "is_organization",
         "version"
     ],
     "unreachableURLs": [
         "http://www.grenoble.prabi.fr/obiwarehouse/unipathway"
     ],
     "report": [
-        "private field exists but there is no value defined",
-        "isopen field exists but there is no value defined",
         "notes field exists but there is no value defined",
-        "num_tags field exists but there is no value defined",
-        "num_resources field exists but there is no value defined",
         "group information is missing. Check organization information as they can be mixed sometimes",
         "The url defined for this dataset is not reachable !",
-        "is_organization field exists but there is no value defined",
         "version field exists but there is no value defined",
-        "resources information (API endpoints, downloadable dumpds, etc.) is missing",
-        "num_resources field for this dataset is not correct. Provided: NaN where the actual number is: 1"
+        "resources information (API endpoints, downloadable dumpds, etc.) is missing"
     ],
     "tag": {
         "format-rdf": {
@@ -143,8 +132,7 @@
                 "mimetype_inner",
                 "cache_url",
                 "name",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [
                 "ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/rdf/pathways.rdf.gz"
@@ -159,8 +147,9 @@
                 "name field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
-                "The url for this resource is not reachable !"
+                "The url for this resource is not reachable !",
+                "mimetype value defined where the resource is not reachable",
+                "size value defined where the resource is not reachable"
             ]
         },
         "SPARQL endpoint": {
@@ -175,8 +164,7 @@
                 "mimetype_inner",
                 "cache_url",
                 "name",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -189,7 +177,6 @@
                 "name field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The size for resource is not defined correctly"
             ]
         }
@@ -197,6 +184,6 @@
     "counter": {
         "group": 0,
         "tag": 9,
-        "resource": 6856
+        "resource": 6733
     }
 }

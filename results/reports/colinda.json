@@ -4,24 +4,13 @@
         "resources"
     ],
     "undefined": [
-        "private",
-        "isopen",
-        "num_tags",
-        "num_resources",
-        "is_organization",
         "organization_image_url"
     ],
     "unreachableURLs": [],
     "report": [
-        "private field exists but there is no value defined",
-        "isopen field exists but there is no value defined",
-        "num_tags field exists but there is no value defined",
-        "num_resources field exists but there is no value defined",
         "group information is missing. Check organization information as they can be mixed sometimes",
-        "is_organization field exists but there is no value defined",
         "organization_image_url field exists but there is no value defined",
-        "resources information (API endpoints, downloadable dumpds, etc.) is missing",
-        "num_resources field for this dataset is not correct. Provided: NaN where the actual number is: 1"
+        "resources information (API endpoints, downloadable dumpds, etc.) is missing"
     ],
     "tag": {
         "conferences": {
@@ -184,8 +173,7 @@
                 "cache_last_updated",
                 "webstore_last_updated",
                 "cache_url",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -194,7 +182,6 @@
                 "url-type field is missing",
                 "cache_url field exists but there is no value defined",
                 "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The size for resource is not defined correctly"
             ]
         },
@@ -208,8 +195,7 @@
                 "hash",
                 "mimetype_inner",
                 "cache_url",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -220,7 +206,6 @@
                 "url-type field is missing",
                 "cache_url field exists but there is no value defined",
                 "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The size for resource is not defined correctly"
             ]
         },
@@ -234,8 +219,7 @@
                 "hash",
                 "mimetype_inner",
                 "cache_url",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -245,8 +229,7 @@
                 "mimetype_inner field exists but there is no value defined",
                 "url-type field is missing",
                 "cache_url field exists but there is no value defined",
-                "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "webstore_url field exists but there is no value defined"
             ]
         },
         "Sample conference": {
@@ -260,8 +243,7 @@
                 "hash",
                 "mimetype_inner",
                 "cache_url",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -273,7 +255,6 @@
                 "url-type field is missing",
                 "cache_url field exists but there is no value defined",
                 "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The mimeType for resource is not defined correctly"
             ]
         }
@@ -281,6 +262,6 @@
     "counter": {
         "group": 0,
         "tag": 14,
-        "resource": 5988
+        "resource": 5901
     }
 }

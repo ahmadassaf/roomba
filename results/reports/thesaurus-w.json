@@ -4,33 +4,22 @@
         "resources"
     ],
     "undefined": [
-        "private",
-        "isopen",
-        "num_tags",
-        "num_resources",
         "maintainer",
         "maintainer_email",
         "author_email",
-        "is_organization",
         "version"
     ],
     "unreachableURLs": [
         "http://www.archivesdefrance.culture.gouv.fr/thesaurus/"
     ],
     "report": [
-        "private field exists but there is no value defined",
-        "isopen field exists but there is no value defined",
-        "num_tags field exists but there is no value defined",
-        "num_resources field exists but there is no value defined",
         "group information is missing. Check organization information as they can be mixed sometimes",
         "The url defined for this dataset is not reachable !",
         "maintainer field exists but there is no value defined",
         "maintainer_email field exists but there is no value defined",
         "author_email field exists but there is no value defined",
-        "is_organization field exists but there is no value defined",
         "version field exists but there is no value defined",
-        "resources information (API endpoints, downloadable dumpds, etc.) is missing",
-        "num_resources field for this dataset is not correct. Provided: NaN where the actual number is: 1"
+        "resources information (API endpoints, downloadable dumpds, etc.) is missing"
     ],
     "tag": {
         "format-rdf": {
@@ -118,7 +107,7 @@
         }
     },
     "resource": {
-        "SPARQL endpoint": {
+        "Example RDF/XML for \"Homing pigeon\"": {
             "missing": [
                 "url-type",
                 "created"
@@ -134,11 +123,10 @@
                 "name",
                 "webstore_url",
                 "last_modified",
-                "position",
                 "resource_type"
             ],
             "unreachableURLs": [
-                "http://www.archivesdefrance.culture.gouv.fr/thesaurus/sparql"
+                "http://www.archivesdefrance.culture.gouv.fr/thesaurus/data/T1-503"
             ],
             "report": [
                 "cache_last_updated field exists but there is no value defined",
@@ -153,7 +141,6 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "resource_type field exists but there is no value defined",
                 "The url for this resource is not reachable !"
             ]
@@ -174,7 +161,6 @@
                 "name",
                 "webstore_url",
                 "last_modified",
-                "position",
                 "resource_type"
             ],
             "unreachableURLs": [
@@ -193,47 +179,6 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
-                "resource_type field exists but there is no value defined",
-                "The url for this resource is not reachable !"
-            ]
-        },
-        "Example RDF/XML for \"Homing pigeon\"": {
-            "missing": [
-                "url-type",
-                "created"
-            ],
-            "undefined": [
-                "cache_last_updated",
-                "webstore_last_updated",
-                "size",
-                "hash",
-                "mimetype_inner",
-                "mimetype",
-                "cache_url",
-                "name",
-                "webstore_url",
-                "last_modified",
-                "position",
-                "resource_type"
-            ],
-            "unreachableURLs": [
-                "http://www.archivesdefrance.culture.gouv.fr/thesaurus/data/T1-503"
-            ],
-            "report": [
-                "cache_last_updated field exists but there is no value defined",
-                "webstore_last_updated field exists but there is no value defined",
-                "size field exists but there is no value defined",
-                "hash field exists but there is no value defined",
-                "mimetype_inner field exists but there is no value defined",
-                "url-type field is missing",
-                "mimetype field exists but there is no value defined",
-                "cache_url field exists but there is no value defined",
-                "name field exists but there is no value defined",
-                "created field is missing",
-                "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "resource_type field exists but there is no value defined",
                 "The url for this resource is not reachable !"
             ]
@@ -254,7 +199,6 @@
                 "name",
                 "webstore_url",
                 "last_modified",
-                "position",
                 "resource_type"
             ],
             "unreachableURLs": [
@@ -273,7 +217,44 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
+                "resource_type field exists but there is no value defined",
+                "The url for this resource is not reachable !"
+            ]
+        },
+        "SPARQL endpoint": {
+            "missing": [
+                "url-type",
+                "created"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "name",
+                "webstore_url",
+                "last_modified",
+                "resource_type"
+            ],
+            "unreachableURLs": [
+                "http://www.archivesdefrance.culture.gouv.fr/thesaurus/sparql"
+            ],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "name field exists but there is no value defined",
+                "created field is missing",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined",
                 "resource_type field exists but there is no value defined",
                 "The url for this resource is not reachable !"
             ]
@@ -294,7 +275,6 @@
                 "name",
                 "webstore_url",
                 "last_modified",
-                "position",
                 "resource_type"
             ],
             "unreachableURLs": [
@@ -313,7 +293,6 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "resource_type field exists but there is no value defined",
                 "The url for this resource is not reachable !"
             ]
@@ -334,7 +313,6 @@
                 "name",
                 "webstore_url",
                 "last_modified",
-                "position",
                 "resource_type"
             ],
             "unreachableURLs": [
@@ -353,7 +331,6 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "resource_type field exists but there is no value defined",
                 "The url for this resource is not reachable !"
             ]
@@ -374,7 +351,6 @@
                 "name",
                 "webstore_url",
                 "last_modified",
-                "position",
                 "resource_type"
             ],
             "unreachableURLs": [
@@ -393,7 +369,6 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "resource_type field exists but there is no value defined",
                 "The url for this resource is not reachable !"
             ]
@@ -402,6 +377,6 @@
     "counter": {
         "group": 0,
         "tag": 7,
-        "resource": 6058
+        "resource": 5971
     }
 }

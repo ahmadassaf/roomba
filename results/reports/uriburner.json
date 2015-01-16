@@ -4,26 +4,16 @@
         "resources"
     ],
     "undefined": [
-        "private",
-        "isopen",
-        "num_tags",
-        "num_resources",
         "maintainer",
         "maintainer_email",
-        "author_email",
-        "is_organization"
+        "author_email"
     ],
     "unreachableURLs": [],
     "report": [
-        "private field exists but there is no value defined",
-        "isopen field exists but there is no value defined",
-        "num_tags field exists but there is no value defined",
-        "num_resources field exists but there is no value defined",
         "group information is missing. Check organization information as they can be mixed sometimes",
         "maintainer field exists but there is no value defined",
         "maintainer_email field exists but there is no value defined",
         "author_email field exists but there is no value defined",
-        "is_organization field exists but there is no value defined",
         "resources information (API endpoints, downloadable dumpds, etc.) is missing"
     ],
     "tag": {
@@ -158,7 +148,6 @@
                 "name",
                 "webstore_url",
                 "last_modified",
-                "position",
                 "resource_type"
             ],
             "unreachableURLs": [],
@@ -175,7 +164,6 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "resource_type field exists but there is no value defined"
             ]
         },
@@ -195,7 +183,6 @@
                 "name",
                 "webstore_url",
                 "last_modified",
-                "position",
                 "resource_type"
             ],
             "unreachableURLs": [],
@@ -212,7 +199,6 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "resource_type field exists but there is no value defined"
             ]
         }
@@ -220,6 +206,6 @@
     "counter": {
         "group": 0,
         "tag": 10,
-        "resource": 5141
+        "resource": 4974
     }
 }

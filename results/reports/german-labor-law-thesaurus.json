@@ -3,26 +3,14 @@
         "group",
         "resources"
     ],
-    "undefined": [
-        "private",
-        "isopen",
-        "num_tags",
-        "num_resources",
-        "is_organization"
-    ],
+    "undefined": [],
     "unreachableURLs": [
         "http://vocabulary.wolterskluwer.de/"
     ],
     "report": [
-        "private field exists but there is no value defined",
-        "isopen field exists but there is no value defined",
-        "num_tags field exists but there is no value defined",
-        "num_resources field exists but there is no value defined",
         "group information is missing. Check organization information as they can be mixed sometimes",
         "The url defined for this dataset is not reachable !",
-        "is_organization field exists but there is no value defined",
-        "resources information (API endpoints, downloadable dumpds, etc.) is missing",
-        "num_resources field for this dataset is not correct. Provided: NaN where the actual number is: 1"
+        "resources information (API endpoints, downloadable dumpds, etc.) is missing"
     ],
     "tag": {
         "format-dcterms": {
@@ -169,8 +157,7 @@
                 "description",
                 "mimetype_inner",
                 "cache_url",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -182,8 +169,37 @@
                 "mimetype_inner field exists but there is no value defined",
                 "url-type field is missing",
                 "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined"
+            ]
+        },
+        "Example for \"Indexlohn\"": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "hash",
+                "description",
+                "mimetype_inner",
+                "cache_url",
+                "webstore_url"
+            ],
+            "unreachableURLs": [
+                "http://vocabulary.wolterskluwer.de/arbeitsrecht/10924.rdf"
+            ],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "description field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "cache_url field exists but there is no value defined",
                 "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "The url for this resource is not reachable !",
+                "mimetype value defined where the resource is not reachable",
+                "size value defined where the resource is not reachable"
             ]
         },
         "RDF/XML File": {
@@ -198,8 +214,7 @@
                 "mimetype_inner",
                 "cache_url",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [
                 "http://vocabulary.wolterskluwer.de/arbeitsrecht/export/arbeitsrecht.rdf"
@@ -214,68 +229,9 @@
                 "cache_url field exists but there is no value defined",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
-                "The url for this resource is not reachable !"
-            ]
-        },
-        "Trig File": {
-            "missing": [
-                "url-type"
-            ],
-            "undefined": [
-                "cache_last_updated",
-                "webstore_last_updated",
-                "hash",
-                "description",
-                "mimetype_inner",
-                "cache_url",
-                "webstore_url",
-                "position"
-            ],
-            "unreachableURLs": [
-                "http://vocabulary.wolterskluwer.de/arbeitsrecht/export/arbeitsrecht.trig"
-            ],
-            "report": [
-                "cache_last_updated field exists but there is no value defined",
-                "webstore_last_updated field exists but there is no value defined",
-                "hash field exists but there is no value defined",
-                "description field exists but there is no value defined",
-                "mimetype_inner field exists but there is no value defined",
-                "url-type field is missing",
-                "cache_url field exists but there is no value defined",
-                "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
-                "The url for this resource is not reachable !"
-            ]
-        },
-        "Example for \"Indexlohn\"": {
-            "missing": [
-                "url-type"
-            ],
-            "undefined": [
-                "cache_last_updated",
-                "webstore_last_updated",
-                "hash",
-                "description",
-                "mimetype_inner",
-                "cache_url",
-                "webstore_url",
-                "position"
-            ],
-            "unreachableURLs": [
-                "http://vocabulary.wolterskluwer.de/arbeitsrecht/10924.rdf"
-            ],
-            "report": [
-                "cache_last_updated field exists but there is no value defined",
-                "webstore_last_updated field exists but there is no value defined",
-                "hash field exists but there is no value defined",
-                "description field exists but there is no value defined",
-                "mimetype_inner field exists but there is no value defined",
-                "url-type field is missing",
-                "cache_url field exists but there is no value defined",
-                "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
-                "The url for this resource is not reachable !"
+                "The url for this resource is not reachable !",
+                "mimetype value defined where the resource is not reachable",
+                "size value defined where the resource is not reachable"
             ]
         },
         "voiD description": {
@@ -292,8 +248,7 @@
                 "mimetype",
                 "cache_url",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [
                 "http://vocabulary.wolterskluwer.de/arbeitsrecht.rdf"
@@ -310,14 +265,43 @@
                 "cache_url field exists but there is no value defined",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The url for this resource is not reachable !"
+            ]
+        },
+        "Trig File": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "hash",
+                "description",
+                "mimetype_inner",
+                "cache_url",
+                "webstore_url"
+            ],
+            "unreachableURLs": [
+                "http://vocabulary.wolterskluwer.de/arbeitsrecht/export/arbeitsrecht.trig"
+            ],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "description field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined",
+                "The url for this resource is not reachable !",
+                "mimetype value defined where the resource is not reachable",
+                "size value defined where the resource is not reachable"
             ]
         }
     },
     "counter": {
         "group": 0,
         "tag": 12,
-        "resource": 6928
+        "resource": 6805
     }
 }

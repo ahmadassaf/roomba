@@ -3,21 +3,10 @@
         "group",
         "resources"
     ],
-    "undefined": [
-        "private",
-        "isopen",
-        "num_tags",
-        "num_resources",
-        "is_organization"
-    ],
+    "undefined": [],
     "unreachableURLs": [],
     "report": [
-        "private field exists but there is no value defined",
-        "isopen field exists but there is no value defined",
-        "num_tags field exists but there is no value defined",
-        "num_resources field exists but there is no value defined",
         "group information is missing. Check organization information as they can be mixed sometimes",
-        "is_organization field exists but there is no value defined",
         "resources information (API endpoints, downloadable dumpds, etc.) is missing"
     ],
     "tag": {
@@ -313,7 +302,7 @@
         }
     },
     "resource": {
-        "XML Sitemap": {
+        "TaxonConcept Ontology Documentation": {
             "missing": [
                 "url-type",
                 "created"
@@ -321,25 +310,23 @@
             "undefined": [
                 "cache_last_updated",
                 "webstore_last_updated",
+                "size",
                 "hash",
                 "mimetype_inner",
                 "cache_url",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [],
             "report": [
                 "cache_last_updated field exists but there is no value defined",
                 "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
                 "hash field exists but there is no value defined",
                 "mimetype_inner field exists but there is no value defined",
                 "url-type field is missing",
                 "cache_url field exists but there is no value defined",
                 "created field is missing",
-                "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
-                "The size for resource is not defined correctly",
-                "The mimeType for resource is not defined correctly"
+                "webstore_url field exists but there is no value defined"
             ]
         },
         "TaxonConcept Ontology": {
@@ -353,8 +340,7 @@
                 "hash",
                 "mimetype_inner",
                 "cache_url",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -366,12 +352,11 @@
                 "cache_url field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The size for resource is not defined correctly",
                 "The mimeType for resource is not defined correctly"
             ]
         },
-        "TaxonConcept Ontology Documentation": {
+        "XML Sitemap": {
             "missing": [
                 "url-type",
                 "created"
@@ -379,54 +364,23 @@
             "undefined": [
                 "cache_last_updated",
                 "webstore_last_updated",
-                "size",
                 "hash",
                 "mimetype_inner",
                 "cache_url",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [],
             "report": [
                 "cache_last_updated field exists but there is no value defined",
                 "webstore_last_updated field exists but there is no value defined",
-                "size field exists but there is no value defined",
                 "hash field exists but there is no value defined",
                 "mimetype_inner field exists but there is no value defined",
                 "url-type field is missing",
                 "cache_url field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined"
-            ]
-        },
-        "voiD description": {
-            "missing": [
-                "url-type",
-                "created"
-            ],
-            "undefined": [
-                "cache_last_updated",
-                "webstore_last_updated",
-                "size",
-                "hash",
-                "mimetype_inner",
-                "cache_url",
-                "webstore_url",
-                "position"
-            ],
-            "unreachableURLs": [],
-            "report": [
-                "cache_last_updated field exists but there is no value defined",
-                "webstore_last_updated field exists but there is no value defined",
-                "size field exists but there is no value defined",
-                "hash field exists but there is no value defined",
-                "mimetype_inner field exists but there is no value defined",
-                "url-type field is missing",
-                "cache_url field exists but there is no value defined",
-                "created field is missing",
-                "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "The size for resource is not defined correctly",
+                "The mimeType for resource is not defined correctly"
             ]
         },
         "Species Occurrence List": {
@@ -440,8 +394,7 @@
                 "hash",
                 "mimetype_inner",
                 "cache_url",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -453,35 +406,7 @@
                 "cache_url field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The size for resource is not defined correctly"
-            ]
-        },
-        "Link to an example occurrence record RDF": {
-            "missing": [
-                "url-type",
-                "created"
-            ],
-            "undefined": [
-                "cache_last_updated",
-                "webstore_last_updated",
-                "hash",
-                "mimetype_inner",
-                "cache_url",
-                "webstore_url",
-                "position"
-            ],
-            "unreachableURLs": [],
-            "report": [
-                "cache_last_updated field exists but there is no value defined",
-                "webstore_last_updated field exists but there is no value defined",
-                "hash field exists but there is no value defined",
-                "mimetype_inner field exists but there is no value defined",
-                "url-type field is missing",
-                "cache_url field exists but there is no value defined",
-                "created field is missing",
-                "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined"
             ]
         },
         "Link to an example occurrence record HTML": {
@@ -495,8 +420,7 @@
                 "hash",
                 "mimetype_inner",
                 "cache_url",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -507,93 +431,10 @@
                 "url-type field is missing",
                 "cache_url field exists but there is no value defined",
                 "created field is missing",
-                "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "webstore_url field exists but there is no value defined"
             ]
         },
-        "EoL DataObject RDF Download File 1": {
-            "missing": [
-                "url-type"
-            ],
-            "undefined": [
-                "cache_last_updated",
-                "webstore_last_updated",
-                "hash",
-                "description",
-                "mimetype_inner",
-                "cache_url",
-                "webstore_url",
-                "position"
-            ],
-            "unreachableURLs": [],
-            "report": [
-                "cache_last_updated field exists but there is no value defined",
-                "webstore_last_updated field exists but there is no value defined",
-                "hash field exists but there is no value defined",
-                "description field exists but there is no value defined",
-                "mimetype_inner field exists but there is no value defined",
-                "url-type field is missing",
-                "cache_url field exists but there is no value defined",
-                "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined"
-            ]
-        },
-        "EoL Annotation RDF Download File 1": {
-            "missing": [
-                "url-type"
-            ],
-            "undefined": [
-                "cache_last_updated",
-                "webstore_last_updated",
-                "hash",
-                "description",
-                "mimetype_inner",
-                "cache_url",
-                "webstore_url",
-                "position"
-            ],
-            "unreachableURLs": [],
-            "report": [
-                "cache_last_updated field exists but there is no value defined",
-                "webstore_last_updated field exists but there is no value defined",
-                "hash field exists but there is no value defined",
-                "description field exists but there is no value defined",
-                "mimetype_inner field exists but there is no value defined",
-                "url-type field is missing",
-                "cache_url field exists but there is no value defined",
-                "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
-                "The size for resource is not defined correctly"
-            ]
-        },
-        "EoL DataObject": {
-            "missing": [
-                "url-type"
-            ],
-            "undefined": [
-                "cache_last_updated",
-                "webstore_last_updated",
-                "hash",
-                "mimetype_inner",
-                "cache_url",
-                "webstore_url",
-                "position"
-            ],
-            "unreachableURLs": [],
-            "report": [
-                "cache_last_updated field exists but there is no value defined",
-                "webstore_last_updated field exists but there is no value defined",
-                "hash field exists but there is no value defined",
-                "mimetype_inner field exists but there is no value defined",
-                "url-type field is missing",
-                "cache_url field exists but there is no value defined",
-                "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
-                "The size for resource is not defined correctly",
-                "The mimeType for resource is not defined correctly"
-            ]
-        },
-        "TaxonConcept Documentation and Blog": {
+        "Link to an example occurrence record RDF": {
             "missing": [
                 "url-type",
                 "created"
@@ -604,8 +445,7 @@
                 "hash",
                 "mimetype_inner",
                 "cache_url",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -616,9 +456,7 @@
                 "url-type field is missing",
                 "cache_url field exists but there is no value defined",
                 "created field is missing",
-                "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
-                "The size for resource is not defined correctly"
+                "webstore_url field exists but there is no value defined"
             ]
         },
         "Species Turtle Download 1": {
@@ -629,8 +467,7 @@
             "undefined": [
                 "cache_last_updated",
                 "mimetype_inner",
-                "cache_url",
-                "position"
+                "cache_url"
             ],
             "unreachableURLs": [
                 "http://lod.taxonconcept.org/rdf/txn_ses_000001.ttl"
@@ -641,8 +478,9 @@
                 "url-type field is missing",
                 "cache_url field exists but there is no value defined",
                 "created field is missing",
-                "position field exists but there is no value defined",
-                "The url for this resource is not reachable !"
+                "The url for this resource is not reachable !",
+                "mimetype value defined where the resource is not reachable",
+                "size value defined where the resource is not reachable"
             ]
         },
         "Species Occurrence Records Turtle Download": {
@@ -659,8 +497,7 @@
                 "mimetype",
                 "cache_url",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [
                 "http://lod.taxonconcept.org/rdf/txn_ocs.ttl.gz"
@@ -677,7 +514,6 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The url for this resource is not reachable !"
             ]
         },
@@ -695,8 +531,7 @@
                 "mimetype",
                 "cache_url",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [
                 "http://lod.taxonconcept.org/rdf/txn_images.ttl.gz"
@@ -713,7 +548,6 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The url for this resource is not reachable !"
             ]
         },
@@ -731,8 +565,7 @@
                 "mimetype",
                 "cache_url",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [
                 "http://lod.taxonconcept.org/rdf/txn_distribution.ttl.gz"
@@ -749,8 +582,109 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The url for this resource is not reachable !"
+            ]
+        },
+        "EoL DataObject RDF Download File 1": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "hash",
+                "description",
+                "mimetype_inner",
+                "cache_url",
+                "webstore_url"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "description field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined"
+            ]
+        },
+        "EoL DataObject": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "hash",
+                "mimetype_inner",
+                "cache_url",
+                "webstore_url"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined",
+                "The size for resource is not defined correctly",
+                "The mimeType for resource is not defined correctly"
+            ]
+        },
+        "TaxonConcept Documentation and Blog": {
+            "missing": [
+                "url-type",
+                "created"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "hash",
+                "mimetype_inner",
+                "cache_url",
+                "webstore_url"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "cache_url field exists but there is no value defined",
+                "created field is missing",
+                "webstore_url field exists but there is no value defined",
+                "The size for resource is not defined correctly"
+            ]
+        },
+        "EoL Annotation RDF Download File 1": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "hash",
+                "description",
+                "mimetype_inner",
+                "cache_url",
+                "webstore_url"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "description field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined",
+                "The size for resource is not defined correctly"
             ]
         },
         "Species USDA Plants Data Turtle Download File 1": {
@@ -761,8 +695,7 @@
             "undefined": [
                 "cache_last_updated",
                 "mimetype_inner",
-                "cache_url",
-                "position"
+                "cache_url"
             ],
             "unreachableURLs": [
                 "http://lod.taxonconcept.org/rdf/usda_plants_000001.ttl"
@@ -773,8 +706,9 @@
                 "url-type field is missing",
                 "cache_url field exists but there is no value defined",
                 "created field is missing",
-                "position field exists but there is no value defined",
-                "The url for this resource is not reachable !"
+                "The url for this resource is not reachable !",
+                "mimetype value defined where the resource is not reachable",
+                "size value defined where the resource is not reachable"
             ]
         },
         "Species Misc Turtle Download": {
@@ -791,8 +725,7 @@
                 "mimetype",
                 "cache_url",
                 "webstore_url",
-                "last_modified",
-                "position"
+                "last_modified"
             ],
             "unreachableURLs": [
                 "http://lod.taxonconcept.org/rdf/txn_misc.ttl.gz"
@@ -809,8 +742,34 @@
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
                 "last_modified field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The url for this resource is not reachable !"
+            ]
+        },
+        "voiD description": {
+            "missing": [
+                "url-type",
+                "created"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "cache_url",
+                "webstore_url"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "cache_url field exists but there is no value defined",
+                "created field is missing",
+                "webstore_url field exists but there is no value defined"
             ]
         },
         "Link to an example insect": {
@@ -824,8 +783,7 @@
                 "hash",
                 "mimetype_inner",
                 "cache_url",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -837,7 +795,6 @@
                 "cache_url field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The size for resource is not defined correctly"
             ]
         },
@@ -852,8 +809,7 @@
                 "hash",
                 "mimetype_inner",
                 "cache_url",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -865,7 +821,6 @@
                 "cache_url field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The size for resource is not defined correctly"
             ]
         },
@@ -880,8 +835,7 @@
                 "hash",
                 "mimetype_inner",
                 "cache_url",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -893,7 +847,6 @@
                 "cache_url field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The size for resource is not defined correctly"
             ]
         },
@@ -908,8 +861,7 @@
                 "hash",
                 "mimetype_inner",
                 "cache_url",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -921,7 +873,6 @@
                 "cache_url field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The size for resource is not defined correctly"
             ]
         },
@@ -936,8 +887,7 @@
                 "hash",
                 "mimetype_inner",
                 "cache_url",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -949,7 +899,6 @@
                 "cache_url field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
                 "The size for resource is not defined correctly"
             ]
         },
@@ -961,8 +910,7 @@
             "undefined": [
                 "cache_last_updated",
                 "mimetype_inner",
-                "cache_url",
-                "position"
+                "cache_url"
             ],
             "unreachableURLs": [
                 "http://lod.taxonconcept.org/rdf/txn_ses_000002.ttl"
@@ -973,8 +921,9 @@
                 "url-type field is missing",
                 "cache_url field exists but there is no value defined",
                 "created field is missing",
-                "position field exists but there is no value defined",
-                "The url for this resource is not reachable !"
+                "The url for this resource is not reachable !",
+                "mimetype value defined where the resource is not reachable",
+                "size value defined where the resource is not reachable"
             ]
         },
         "SPARQL endpoint": {
@@ -988,8 +937,7 @@
                 "hash",
                 "mimetype_inner",
                 "cache_url",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [
                 "http://lsd.taxonconcept.org/sparql"
@@ -1003,14 +951,15 @@
                 "cache_url field exists but there is no value defined",
                 "created field is missing",
                 "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined",
-                "The url for this resource is not reachable !"
+                "The url for this resource is not reachable !",
+                "mimetype value defined where the resource is not reachable",
+                "size value defined where the resource is not reachable"
             ]
         }
     },
     "counter": {
         "group": 0,
         "tag": 28,
-        "resource": 5771
+        "resource": 5604
     }
 }

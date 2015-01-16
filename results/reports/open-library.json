@@ -4,26 +4,16 @@
         "resources"
     ],
     "undefined": [
-        "private",
-        "isopen",
-        "num_tags",
-        "num_resources",
         "maintainer",
         "maintainer_email",
-        "is_organization",
         "organization_image_url",
         "version"
     ],
     "unreachableURLs": [],
     "report": [
-        "private field exists but there is no value defined",
-        "isopen field exists but there is no value defined",
-        "num_tags field exists but there is no value defined",
-        "num_resources field exists but there is no value defined",
         "group information is missing. Check organization information as they can be mixed sometimes",
         "maintainer field exists but there is no value defined",
         "maintainer_email field exists but there is no value defined",
-        "is_organization field exists but there is no value defined",
         "organization_image_url field exists but there is no value defined",
         "version field exists but there is no value defined",
         "resources information (API endpoints, downloadable dumpds, etc.) is missing"
@@ -247,8 +237,7 @@
                 "mimetype_inner",
                 "cache_url",
                 "name",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -261,8 +250,7 @@
                 "cache_url field exists but there is no value defined",
                 "name field exists but there is no value defined",
                 "created field is missing",
-                "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "webstore_url field exists but there is no value defined"
             ]
         },
         "Example (RDF/XML)": {
@@ -278,8 +266,7 @@
                 "mimetype_inner",
                 "cache_url",
                 "name",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -292,8 +279,7 @@
                 "cache_url field exists but there is no value defined",
                 "name field exists but there is no value defined",
                 "created field is missing",
-                "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "webstore_url field exists but there is no value defined"
             ]
         },
         "976ad96e-6897-4ab6-9357-4fe73044ae1e": {
@@ -311,8 +297,7 @@
                 "mimetype_inner",
                 "cache_url",
                 "name",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -327,8 +312,7 @@
                 "cache_url field exists but there is no value defined",
                 "name field exists but there is no value defined",
                 "created field is missing",
-                "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "webstore_url field exists but there is no value defined"
             ]
         },
         "Open Library API documentation": {
@@ -343,8 +327,7 @@
                 "hash",
                 "mimetype_inner",
                 "cache_url",
-                "webstore_url",
-                "position"
+                "webstore_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -356,8 +339,7 @@
                 "url-type field is missing",
                 "cache_url field exists but there is no value defined",
                 "created field is missing",
-                "webstore_url field exists but there is no value defined",
-                "position field exists but there is no value defined"
+                "webstore_url field exists but there is no value defined"
             ]
         },
         "Latest monthly dump": {
@@ -370,8 +352,7 @@
                 "webstore_last_updated",
                 "hash",
                 "mimetype_inner",
-                "cache_url",
-                "position"
+                "cache_url"
             ],
             "unreachableURLs": [],
             "report": [
@@ -382,7 +363,6 @@
                 "url-type field is missing",
                 "cache_url field exists but there is no value defined",
                 "created field is missing",
-                "position field exists but there is no value defined",
                 "The size for resource is not defined correctly"
             ]
         }
@@ -390,6 +370,6 @@
     "counter": {
         "group": 0,
         "tag": 19,
-        "resource": 4171
+        "resource": 3992
     }
 }
