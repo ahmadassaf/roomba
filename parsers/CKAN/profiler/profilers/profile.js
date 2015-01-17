@@ -319,7 +319,7 @@ function profile(parent) {
 			var counter = sectionKey == "License" ? total : profile.counter[sectionKey.toLowerCase()];
 			profile.printStatistics(_.omit(section, ["unreachableURLs", "report", "unreachableTypes"]), sectionKey, counter, true);
 			// Create the connectivity issues report
-			profile.printConnectivityIssues(sectionKey, section.unreachableURLs, null, report.resource);
+			profile.printConnectivityIssues(sectionKey, section.unreachableURLs, null, report.resource, true);
 
 		});
 	}
@@ -402,7 +402,7 @@ function profile(parent) {
 	* @param {Boolean} isArray: check if the passed issue is an array or not
 	*/
 
-	this.printConnectivityIssues = function printConnectivityIssues(sectionKey, issues, isArray, aggregateReport) {
+	this.printConnectivityIssues = function printConnectivityIssues(sectionKey, issues, isArray, aggregateReport, isAggregate) {
 
 		var profile = this;
 		if (issues && _.size(issues) > 0 ) {
@@ -415,15 +415,16 @@ function profile(parent) {
 			});
 		}
 
-		if (_.has(aggregateReport, unreachableTypes)) {
+		if (!isAggregate || (isAggregate && sectionKey == "Resource"))
+			if (_.has(aggregateReport, unreachableTypes)) {
 
-			var unreachableTypes = aggregateReport.unreachableTypes;
-			// print the mini spearator for the statsitics section
-			profile.createTitleHead("cyan", "Un-Reachable URLs Types");
-			_.each(unreachableTypes, function(value, type){
-				console.log("There are: " + value + " unreachable URLs of type [" + type + "]");
-			});
-		}
+				var unreachableTypes = aggregateReport.unreachableTypes;
+				// print the mini spearator for the statsitics section
+				profile.createTitleHead("cyan", "Un-Reachable URLs Types");
+				_.each(unreachableTypes, function(value, type){
+					console.log("There are: " + value + " unreachable URLs of type [" + type + "]");
+				});
+			}
 	}
 
 
