@@ -1,0 +1,283 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-10T23:27:18.848781",
+    "id": "3b9d4cb6-0f51-4912-8c79-6b1d9f329f52",
+    "metadata_created": "2010-08-23T13:24:52.397846",
+    "owner_org": "1a24e0c3-013b-481d-b25c-f36c651315d8",
+    "metadata_modified": "2013-10-10T23:27:18.848781",
+    "author": "Hugh Glaser",
+    "author_email": "hg@ecs.soton.ac.uk",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "SPARQL endpoint",
+            "format": "api/sparql",
+            "url": "http://ecs.rkbexplorer.com/sparql",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 9,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-06-23T20:26:46.225284",
+            "webstore_url": "",
+            "resource_group_id": "9c26c759-192f-09e9-3146-a425d28cc70b",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "ef507f0b-2dc3-4eb2-8f47-bb8237b8feb8",
+            "size": null,
+            "id": "c03aefc1-d7d2-4cbb-acb8-73a59b763e24",
+            "resource_type": "file",
+            "name": ""
+        },
+        {
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "XML Sitemap",
+            "format": "meta/sitemap",
+            "url": "http://ecs.rkbexplorer.com/sitemap.xml",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 3,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-06-23T20:26:46.225284",
+            "webstore_url": "",
+            "resource_group_id": "9c26c759-192f-09e9-3146-a425d28cc70b",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "ef507f0b-2dc3-4eb2-8f47-bb8237b8feb8",
+            "size": "718",
+            "id": "46911fcd-7b76-4385-bad7-5f8c3adc7685",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/n3",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "voiD file",
+            "format": "meta/void",
+            "url": "http://ecs.rkbexplorer.com/models/void.ttl",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 7,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-06-23T20:26:46.225284",
+            "webstore_url": "",
+            "resource_group_id": "9c26c759-192f-09e9-3146-a425d28cc70b",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "ef507f0b-2dc3-4eb2-8f47-bb8237b8feb8",
+            "size": "1893",
+            "id": "1e290da2-98c7-4042-a772-73fe5f085042",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Example resource",
+            "format": "example/rdf+xml",
+            "url": "http://www.rkbexplorer.com/ontologies/coref#coreferenceData",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 5,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-06-23T20:26:46.225284",
+            "webstore_url": "",
+            "resource_group_id": "9c26c759-192f-09e9-3146-a425d28cc70b",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 3,
+            "revision_id": "ef507f0b-2dc3-4eb2-8f47-bb8237b8feb8",
+            "size": "1973",
+            "id": "bcb96327-f9af-4329-9d10-d83d23534e92",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "9c26c759-192f-09e9-3146-a425d28cc70b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2012-07-02T10:43:08.575883",
+            "webstore_last_updated": null,
+            "id": "ad4a44ce-09ed-4b8c-9d84-9fe4b895371f",
+            "size": "45",
+            "state": "active",
+            "hash": "",
+            "description": "",
+            "format": "application/rdf+xml",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": "",
+            "mimetype": "application/x-gzip",
+            "cache_url": null,
+            "name": "Download (tar gzip of RDF)",
+            "created": "2012-06-23T20:26:46.412353",
+            "url": "http://ecs.rkbexplorer.com/models/dump.tgz",
+            "webstore_url": "enabled",
+            "last_modified": "2012-06-23T19:23:44",
+            "position": 4,
+            "revision_id": "446774de-5d03-474c-b6cf-5855e4b5f1b0",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 5,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "crossdomain",
+            "name": "crossdomain",
+            "revision_timestamp": "2011-07-20T11:00:30.996308",
+            "state": "active",
+            "id": "833848ee-ef06-4283-bb26-164f6c3474b4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2011-07-20T11:00:30.996308",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-owl",
+            "name": "format-owl",
+            "revision_timestamp": "2011-07-20T20:56:59.513601",
+            "state": "active",
+            "id": "b88f7bba-f82e-49b2-9672-4cca65e040de"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2010-08-23T13:24:52.397846",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2010-08-23T13:24:52.397846",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "provenance-metadata",
+            "name": "provenance-metadata",
+            "revision_timestamp": "2011-07-24T16:55:57.020739",
+            "state": "active",
+            "id": "24a0f0a3-36bc-4209-84e5-7d6b89d82dfa"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-producer",
+            "name": "published-by-producer",
+            "revision_timestamp": "2011-07-20T11:00:30.996308",
+            "state": "active",
+            "id": "fcdb5c0a-2b91-44cb-83e5-19fd0d81125c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "void-sparql-endpoint",
+            "name": "void-sparql-endpoint",
+            "revision_timestamp": "2011-07-24T11:49:26.900901",
+            "state": "active",
+            "id": "9d821331-6c26-4261-bd2b-12dab19d508e"
+        }
+    ],
+    "tracking_summary": {
+        "total": 49,
+        "recent": 6
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 8,
+    "name": "rkb-explorer-ecs",
+    "isopen": false,
+    "url": "http://ecs.rkbexplorer.com",
+    "notes": "Semantic repository that contains and publishes co-reference information, forming the underlying distributed storage model behind the RKB Explorer initiative.",
+    "title": "School of Electronics and Computer Science, University of Southampton",
+    "extras": [
+        {
+            "value": "1",
+            "key": "links:rkb-explorer-dblp",
+            "__extras": {
+                "package_id": "3b9d4cb6-0f51-4912-8c79-6b1d9f329f52",
+                "revision_id": "9b65eb0f-4c27-40c6-8765-bf075747b6c7"
+            }
+        },
+        {
+            "value": "552",
+            "key": "links:rkb-explorer-southampton",
+            "__extras": {
+                "revision_id": "9b65eb0f-4c27-40c6-8765-bf075747b6c7",
+                "package_id": "3b9d4cb6-0f51-4912-8c79-6b1d9f329f52"
+            }
+        },
+        {
+            "value": "http://ecs.rkbexplorer.com/id/",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "ccd7f07b-2ddc-4e26-8b2b-0e1f886a283e",
+                "package_id": "3b9d4cb6-0f51-4912-8c79-6b1d9f329f52"
+            }
+        },
+        {
+            "value": "ECS Southampton (RKB Explorer)",
+            "key": "shortname",
+            "__extras": {
+                "package_id": "3b9d4cb6-0f51-4912-8c79-6b1d9f329f52",
+                "revision_id": "cdac9a51-ef0a-4f2f-9c9e-dedb4ab72c53"
+            }
+        }
+    ],
+    "organization": {
+        "description": "This group gathers datasets of relevance to educational applications. it includes data about open educational resources (OER) and items which were created with an explicit educational purpose, as well as otherwise relevant datasets (academic publications, video assets, etc). All datasets included should expose linked data, and provide at least a SPARQL endpoint. For any enquiries, please contact the administrators via data@linkededucation.org.",
+        "title": "Linked Education Cloud",
+        "created": "2012-10-11T12:20:43.297930",
+        "approval_status": "approved",
+        "revision_timestamp": "2013-01-03T09:51:09.067990",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "",
+        "revision_id": "db4324b3-511f-43a7-ae1b-1940b9a5dc93",
+        "type": "organization",
+        "id": "1a24e0c3-013b-481d-b25c-f36c651315d8",
+        "name": "linked-education"
+    },
+    "revision_id": "9f8a038c-57d6-4df8-8893-1d9a105f1748"
+}

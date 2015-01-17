@@ -1,0 +1,551 @@
+{
+    "license_title": "Open Government Licence 3.0 (United Kingdom)",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-10T20:18:38.465597",
+    "id": "5939f823-c0a2-4be9-8b4b-28d7c8df9bad",
+    "metadata_created": "2011-02-21T09:53:05.756474",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T20:18:38.465597",
+    "author": "Florian Bauer",
+    "author_email": "florian.bauer@reeep.org",
+    "state": "active",
+    "version": "1.0",
+    "license_id": "OGL-UK-3.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "SPARQL endpoint",
+            "format": "api/sparql",
+            "url": "http://sparql.reegle.info/",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 29,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-10-21T18:04:00.344487",
+            "webstore_url": null,
+            "resource_group_id": "a16a828e-abdb-5fb3-2fec-3701b8f5aa15",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "2405ed4d-3b13-4e7c-b854-bdf3a234ba9d",
+            "size": "5911",
+            "id": "442e5db2-6e06-4680-9f1f-630d29614481",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Description of Stakeholder Datasets",
+            "format": "RDF",
+            "url": "http://data.reegle.info/developers/actor",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 5,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-10-21T18:04:00.344487",
+            "webstore_url": null,
+            "resource_group_id": "a16a828e-abdb-5fb3-2fec-3701b8f5aa15",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "2405ed4d-3b13-4e7c-b854-bdf3a234ba9d",
+            "size": null,
+            "id": "67776fd7-8cc7-4ecf-859e-6c978057d035",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Link to an example data item within the dataset (Actors)",
+            "format": "example/rdf+xml",
+            "url": "http://www.reegle.info/actors/2354.rdf",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 17,
+                "recent": 7
+            },
+            "revision_timestamp": "2011-10-21T18:04:00.344487",
+            "webstore_url": null,
+            "resource_group_id": "a16a828e-abdb-5fb3-2fec-3701b8f5aa15",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "2405ed4d-3b13-4e7c-b854-bdf3a234ba9d",
+            "size": "17876",
+            "id": "68796996-949a-4236-ba10-e724077b478a",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Description of Policy and Regulatory Country Overviews",
+            "format": "RDF",
+            "url": "http://data.reegle.info/developers/profile",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 5,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-10-21T18:04:00.344487",
+            "webstore_url": null,
+            "resource_group_id": "a16a828e-abdb-5fb3-2fec-3701b8f5aa15",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 3,
+            "revision_id": "2405ed4d-3b13-4e7c-b854-bdf3a234ba9d",
+            "size": null,
+            "id": "bfce076a-4a78-4415-9ecf-7bbe9b08f355",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Link to an example data item within the dataset (Policy Overview)",
+            "format": "example/rdf+xml",
+            "url": "http://www.reegle.info/profiles/40.rdf",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 11,
+                "recent": 7
+            },
+            "revision_timestamp": "2011-10-21T18:04:00.344487",
+            "webstore_url": null,
+            "resource_group_id": "a16a828e-abdb-5fb3-2fec-3701b8f5aa15",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 4,
+            "revision_id": "2405ed4d-3b13-4e7c-b854-bdf3a234ba9d",
+            "size": "48889",
+            "id": "5b5897f9-9e37-4dc4-b4da-751a0b8f4533",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Description of Project Output Datasets",
+            "format": "RDF",
+            "url": "http://data.reegle.info/developers/projectoutput",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 3,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-10-21T18:04:00.344487",
+            "webstore_url": null,
+            "resource_group_id": "a16a828e-abdb-5fb3-2fec-3701b8f5aa15",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 5,
+            "revision_id": "2405ed4d-3b13-4e7c-b854-bdf3a234ba9d",
+            "size": null,
+            "id": "1b40465d-1571-435a-adef-6715a5d921f0",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Link to an example data item within the dataset (Project Outputs)",
+            "format": "example/rdf+xml",
+            "url": "http://reegle.info/projectoutputs/28.rdf",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 15,
+                "recent": 7
+            },
+            "revision_timestamp": "2011-10-21T18:04:00.344487",
+            "webstore_url": null,
+            "resource_group_id": "a16a828e-abdb-5fb3-2fec-3701b8f5aa15",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 6,
+            "revision_id": "2405ed4d-3b13-4e7c-b854-bdf3a234ba9d",
+            "size": "8360",
+            "id": "eafcd635-6cf9-4a45-9791-e0aaf4120dbf",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Description of Clean Energy and Climate Change Thesaurus Datasets",
+            "format": "RDF",
+            "url": "http://data.reegle.info/thesaurus/concept",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 15,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-10-21T18:04:00.344487",
+            "webstore_url": null,
+            "resource_group_id": "a16a828e-abdb-5fb3-2fec-3701b8f5aa15",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 7,
+            "revision_id": "2405ed4d-3b13-4e7c-b854-bdf3a234ba9d",
+            "size": null,
+            "id": "050bb4e9-12e3-4819-880d-4356a368010b",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Link to an example data item within the dataset (thesaurus)",
+            "format": "example/rdf+xml",
+            "url": "http://reegle.info/glossary/39.rdf",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 11,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-10-21T18:04:00.344487",
+            "webstore_url": null,
+            "resource_group_id": "a16a828e-abdb-5fb3-2fec-3701b8f5aa15",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 8,
+            "revision_id": "2405ed4d-3b13-4e7c-b854-bdf3a234ba9d",
+            "size": "13453",
+            "id": "0ba6e33d-2a72-46b7-87ec-4b24ffa2ed1b",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "RDF Schema",
+            "format": "meta/rdf-schema",
+            "url": "http://www.reegle.info/schema.rdf",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 11,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-10-21T18:04:00.344487",
+            "webstore_url": null,
+            "resource_group_id": "a16a828e-abdb-5fb3-2fec-3701b8f5aa15",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 9,
+            "revision_id": "2405ed4d-3b13-4e7c-b854-bdf3a234ba9d",
+            "size": "18770",
+            "id": "09e21791-9f4e-4d32-ae3f-b16436df7c89",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/x-ntriples",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download (full dump)",
+            "format": "application/x-ntriples",
+            "url": "http://www.reegle.info/downloads/latest_reegle_dump.nt",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 23,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-10-21T18:04:00.344487",
+            "webstore_url": null,
+            "resource_group_id": "a16a828e-abdb-5fb3-2fec-3701b8f5aa15",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 10,
+            "revision_id": "2405ed4d-3b13-4e7c-b854-bdf3a234ba9d",
+            "size": "10198665",
+            "id": "73574a61-30a9-461a-81b1-e155422187b8",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/xml",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Sitemap",
+            "format": "meta/sitemap",
+            "url": "http://www.reegle.info/sitemap.xml",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 5,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-10-21T18:04:00.344487",
+            "webstore_url": null,
+            "resource_group_id": "a16a828e-abdb-5fb3-2fec-3701b8f5aa15",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 11,
+            "revision_id": "2405ed4d-3b13-4e7c-b854-bdf3a234ba9d",
+            "size": "516612",
+            "id": "1ae80491-d6f0-471b-b9c8-7e0fa40c5068",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Example resource",
+            "format": "example/rdf+xml",
+            "url": "http://www.reegle.info/actors/2354.rdf",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 17,
+                "recent": 7
+            },
+            "revision_timestamp": "2011-10-21T18:04:00.344487",
+            "webstore_url": null,
+            "resource_group_id": "a16a828e-abdb-5fb3-2fec-3701b8f5aa15",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 12,
+            "revision_id": "2405ed4d-3b13-4e7c-b854-bdf3a234ba9d",
+            "size": "17876",
+            "id": "828c3313-5939-4bf8-ae30-77853ec29614",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "climate",
+            "name": "climate",
+            "revision_timestamp": "2011-02-21T09:53:05.756474",
+            "state": "active",
+            "id": "77a7c7f4-71b6-408a-a103-c4ebadb9e232"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2011-07-13T08:00:05.446917",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "energy",
+            "name": "energy",
+            "revision_timestamp": "2011-02-21T09:53:05.756474",
+            "state": "active",
+            "id": "647743a6-b647-42f7-9550-aea87160c624"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-skos",
+            "name": "format-skos",
+            "revision_timestamp": "2011-07-13T07:40:29.785070",
+            "state": "active",
+            "id": "4d405572-6308-41ed-a021-1990e618a626"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "government",
+            "name": "government",
+            "revision_timestamp": "2011-10-21T18:04:00.344487",
+            "state": "active",
+            "id": "22fddbd6-8780-4ce0-826f-e41efdc36688"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "license-metadata",
+            "name": "license-metadata",
+            "revision_timestamp": "2011-07-13T07:40:29.785070",
+            "state": "active",
+            "id": "8d7e5c73-261b-4137-a278-42f56a6ec4bb"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2011-03-25T21:12:19.904325",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "provenance-metadata",
+            "name": "provenance-metadata",
+            "revision_timestamp": "2011-07-13T07:40:29.785070",
+            "state": "active",
+            "id": "24a0f0a3-36bc-4209-84e5-7d6b89d82dfa"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-producer",
+            "name": "published-by-producer",
+            "revision_timestamp": "2011-07-13T07:40:29.785070",
+            "state": "active",
+            "id": "fcdb5c0a-2b91-44cb-83e5-19fd0d81125c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "renewable-energy",
+            "name": "renewable-energy",
+            "revision_timestamp": "2011-02-21T09:54:52.094397",
+            "state": "active",
+            "id": "c30d33b8-073e-41ca-82c3-e22a8b328ba4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "save-energy",
+            "name": "save-energy",
+            "revision_timestamp": "2011-02-21T09:53:05.756474",
+            "state": "active",
+            "id": "bcf8bd5b-b671-40cd-89e9-7e046a6aa2bb"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "thesaurus",
+            "name": "thesaurus",
+            "revision_timestamp": "2011-02-21T09:53:05.756474",
+            "state": "active",
+            "id": "e37c9009-b3ad-4e0c-ada5-b04ae215ea21"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "void-sparql-endpoint",
+            "name": "void-sparql-endpoint",
+            "revision_timestamp": "2011-07-24T11:49:55.661164",
+            "state": "active",
+            "id": "9d821331-6c26-4261-bd2b-12dab19d508e"
+        }
+    ],
+    "tracking_summary": {
+        "total": 565,
+        "recent": 13
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 13,
+    "name": "clean-energy-data-reegle",
+    "isopen": true,
+    "url": "http://data.reegle.info/",
+    "notes": "Comprehensive set of linked clean energy data including: \r\n\r\n*  policy and regulatory country profiles, \r\n*  key stakeholders (organisation profiles),\r\n*  project outcome documents and a\r\n*  thesaurus (SKOS format) on renewables, energy efficiency and climate change for public re-use. ",
+    "title": "Linked Clean Energy Data (reegle.info)",
+    "extras": [
+        {
+            "value": "330",
+            "key": "links:dbpedia",
+            "__extras": {
+                "revision_id": "35337b6e-ae49-40bf-a8a8-49f63e9418e5",
+                "package_id": "5939f823-c0a2-4be9-8b4b-28d7c8df9bad"
+            }
+        },
+        {
+            "value": "227",
+            "key": "links:open-energy-info-wiki",
+            "__extras": {
+                "revision_id": "cc9ce989-a3c0-4d03-adf4-b35bbd262b15",
+                "package_id": "5939f823-c0a2-4be9-8b4b-28d7c8df9bad"
+            }
+        },
+        {
+            "value": "http://reegle.info",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "ff349251-d762-459b-9d81-56dd5e2a7c7f",
+                "package_id": "5939f823-c0a2-4be9-8b4b-28d7c8df9bad"
+            }
+        },
+        {
+            "value": "334049",
+            "key": "triples",
+            "__extras": {
+                "package_id": "5939f823-c0a2-4be9-8b4b-28d7c8df9bad",
+                "revision_id": "2405ed4d-3b13-4e7c-b854-bdf3a234ba9d"
+            }
+        }
+    ],
+    "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "3a5338e4-f76a-4f13-823e-276b2ea947de",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": true,
+        "family": "",
+        "is_generic": false,
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "UK Government",
+        "status": "active"
+    }
+}

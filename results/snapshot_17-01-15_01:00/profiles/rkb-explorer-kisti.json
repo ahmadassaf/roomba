@@ -1,0 +1,784 @@
+{
+    "license_title": "",
+    "maintainer": "",
+    "relationships_as_object": [
+        {
+            "comment": "102",
+            "type": "links_to",
+            "id": "d6764df4-7c1e-4f85-9b2a-5c67eabdeb7c",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:22:07.474776",
+                "object_package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a",
+                "revision_id": "862cf27c-9d61-462a-bbb1-e93c8c06e39d",
+                "subject_package_id": "6e829250-dd11-45d2-bdcc-15281e1bda21"
+            }
+        },
+        {
+            "comment": "5",
+            "type": "links_to",
+            "id": "a0deb203-14f7-4ec8-ac4c-985f354ba9ea",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:22:28.021351",
+                "subject_package_id": "714d4f77-9ee3-4edf-8783-f50f6fbd0bb3",
+                "revision_id": "7d479e3c-618a-4e20-b9ad-2c80a945d440",
+                "object_package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a"
+            }
+        }
+    ],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-10T23:27:23.418240",
+    "id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a",
+    "metadata_created": "2010-08-23T12:33:27.357266",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T23:27:23.418240",
+    "author": "Hugh Glaser",
+    "author_email": "hg@ecs.soton.ac.uk",
+    "state": "active",
+    "version": "",
+    "license_id": "",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "SPARQL endpoint",
+            "format": "api/sparql",
+            "url": "http://kisti.rkbexplorer.com/sparql/",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 19,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-07-04T21:31:08.475268",
+            "webstore_url": "",
+            "resource_group_id": "0309fb15-8d2f-6fbe-4e54-60573e6ab22a",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "c0a004f4-79d0-4431-a34b-6488d6d6402b",
+            "size": null,
+            "id": "5912a82c-fea1-40e8-9c51-4510451277ab",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "XML Sitemap",
+            "format": "meta/sitemap",
+            "url": "http://kisti.rkbexplorer.com/sitemap.xml",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 3,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-07-04T21:31:08.475268",
+            "webstore_url": "",
+            "resource_group_id": "0309fb15-8d2f-6fbe-4e54-60573e6ab22a",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "c0a004f4-79d0-4431-a34b-6488d6d6402b",
+            "size": "1252",
+            "id": "a669d5c0-be55-418c-b53a-aa500a60494c",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/n3",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "voiD file",
+            "format": "meta/void",
+            "url": "http://kisti.rkbexplorer.com/models/void.ttl",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "revision_timestamp": "2012-07-04T21:31:08.475268",
+            "webstore_url": "",
+            "resource_group_id": "0309fb15-8d2f-6fbe-4e54-60573e6ab22a",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "c0a004f4-79d0-4431-a34b-6488d6d6402b",
+            "size": "5155",
+            "id": "a7bf44a3-c1f2-437a-add9-66ea526fa6d1",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Example (RDF/XML)",
+            "format": "example/rdf+xml",
+            "url": "http://kisti.rkbexplorer.com/id/PER_00000000000000131417",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 11,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-07-04T21:31:08.475268",
+            "webstore_url": "",
+            "resource_group_id": "0309fb15-8d2f-6fbe-4e54-60573e6ab22a",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 3,
+            "revision_id": "c0a004f4-79d0-4431-a34b-6488d6d6402b",
+            "size": null,
+            "id": "12144995-b619-492d-b8e9-66653576007a",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "0309fb15-8d2f-6fbe-4e54-60573e6ab22a",
+            "cache_last_updated": null,
+            "revision_timestamp": "2012-07-04T21:31:09.848291",
+            "webstore_last_updated": null,
+            "id": "21bbc807-e744-4f71-b6fe-07ab60828cf7",
+            "size": "45",
+            "state": "active",
+            "hash": "",
+            "description": "",
+            "format": "application/rdf+xml",
+            "tracking_summary": {
+                "total": 5,
+                "recent": 3
+            },
+            "mimetype_inner": "",
+            "mimetype": "application/x-gzip",
+            "cache_url": null,
+            "name": "Download (tar gzip of RDF)",
+            "created": "2012-07-04T21:31:08.591185",
+            "url": "http://kisti.rkbexplorer.com/models/dump.tgz",
+            "webstore_url": "enabled",
+            "last_modified": "2012-07-04T21:31:09.754674",
+            "position": 4,
+            "revision_id": "de465a4b-1d62-4698-be9c-e4102da5418a",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 5,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2010-09-26T22:00:47.070420",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-dc",
+            "name": "format-dc",
+            "revision_timestamp": "2010-09-27T14:37:45.927087",
+            "state": "active",
+            "id": "0b675a54-621f-4fdb-850a-ef5d0b1b1ca3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-foaf",
+            "name": "format-foaf",
+            "revision_timestamp": "2011-07-19T11:15:36.043882",
+            "state": "active",
+            "id": "bd737030-1ba6-4913-baaa-bfa2581618b5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2010-08-23T12:33:27.357266",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-scovo",
+            "name": "format-scovo",
+            "revision_timestamp": "2011-07-19T11:15:36.043882",
+            "state": "active",
+            "id": "c661f893-35a3-49cd-9161-ca18ff863917"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-void",
+            "name": "format-void",
+            "revision_timestamp": "2011-07-19T11:15:36.043882",
+            "state": "active",
+            "id": "d3333071-1566-4279-a795-522765bca9cf"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2010-08-23T12:33:27.357266",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2010-09-26T22:00:47.070420",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-vocab-mappings",
+            "name": "no-vocab-mappings",
+            "revision_timestamp": "2010-10-06T22:06:26.275900",
+            "state": "active",
+            "id": "e51273d8-dc60-4cf2-a68d-3cfd33b2c1fc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "provenance-metadata",
+            "name": "provenance-metadata",
+            "revision_timestamp": "2010-09-26T22:00:47.070420",
+            "state": "active",
+            "id": "24a0f0a3-36bc-4209-84e5-7d6b89d82dfa"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "publications",
+            "name": "publications",
+            "revision_timestamp": "2010-09-26T22:00:47.070420",
+            "state": "active",
+            "id": "c93ebe8f-83a0-498c-8704-1de94db149e9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2010-09-26T22:00:47.070420",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "test",
+            "name": "test",
+            "revision_timestamp": "2010-08-23T13:24:04.805827",
+            "state": "active",
+            "id": "0162d453-e705-4234-949b-2fb5c41fa647"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "void-sparql-endpoint",
+            "name": "void-sparql-endpoint",
+            "revision_timestamp": "2011-07-24T11:56:57.980234",
+            "state": "active",
+            "id": "9d821331-6c26-4261-bd2b-12dab19d508e"
+        }
+    ],
+    "tracking_summary": {
+        "total": 389,
+        "recent": 9
+    },
+    "groups": [],
+    "relationships_as_subject": [
+        {
+            "comment": "1",
+            "type": "links_to",
+            "id": "0db0d735-e0a6-4dd3-8f6c-cd1a6281c0c5",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:22:52.554864",
+                "object_package_id": "df02b742-2fdc-4f74-b110-5c97843edd4b",
+                "revision_id": "87e16950-b3f0-4794-9600-aa2273fb28b5",
+                "subject_package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a"
+            }
+        },
+        {
+            "comment": "1",
+            "type": "links_to",
+            "id": "9ff7736d-2a3c-47fa-b766-cf9704741972",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:23:00.310036",
+                "object_package_id": "1ce5e4fc-b9cb-454a-8b69-d75e5e20b25c",
+                "revision_id": "65057cc6-8a13-4a51-9937-0e315e5a81aa",
+                "subject_package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a"
+            }
+        },
+        {
+            "comment": "1",
+            "type": "links_to",
+            "id": "a1a99fff-8cca-448a-886d-ca68b39d8a75",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:22:53.450848",
+                "object_package_id": "7cfc8b4d-11d6-428b-929e-33d32f0e3d37",
+                "revision_id": "5b8eb45b-7c41-49a3-8170-1334498fa3ed",
+                "subject_package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a"
+            }
+        },
+        {
+            "comment": "10",
+            "type": "links_to",
+            "id": "12181e76-1e60-4544-8f08-2b5994cc2df4",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:22:58.530275",
+                "object_package_id": "d0459637-cf13-4217-a245-6bc7139552a3",
+                "revision_id": "b3b41e4c-18af-4080-a1a8-270d1eeee686",
+                "subject_package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a"
+            }
+        },
+        {
+            "comment": "106009",
+            "type": "links_to",
+            "id": "4aeb4b0d-53ff-494d-9d6a-b8afb3b63b88",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:22:54.601350",
+                "subject_package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a",
+                "revision_id": "144aaa32-d8dc-4104-b5b6-c321dfa01b71",
+                "object_package_id": "3ffa7aac-7f1f-496f-801d-7941c932c631"
+            }
+        },
+        {
+            "comment": "155",
+            "type": "links_to",
+            "id": "3eaf942f-bd28-4e7e-b9f8-156fac0f0951",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:22:51.422704",
+                "object_package_id": "15f90bfb-75fa-4825-a384-cff14d4f5dca",
+                "revision_id": "e97994b2-3c93-4e21-864e-e5a8872de0ad",
+                "subject_package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a"
+            }
+        },
+        {
+            "comment": "183945",
+            "type": "links_to",
+            "id": "8c2e0606-7034-4cb8-af70-7082fd591395",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:22:49.362001",
+                "subject_package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a",
+                "revision_id": "081c425b-31ed-4312-ab21-014da726c891",
+                "object_package_id": "382a8681-733a-420b-9420-ee71f09fb0af"
+            }
+        },
+        {
+            "comment": "2",
+            "type": "links_to",
+            "id": "06a747b7-0499-4cdd-9825-f3de5a805c02",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:22:59.739606",
+                "object_package_id": "77b1e682-7595-470c-b222-40561b0f0f32",
+                "revision_id": "8dc5d8c5-e12f-439b-aafb-6a676f77ed82",
+                "subject_package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a"
+            }
+        },
+        {
+            "comment": "239",
+            "type": "links_to",
+            "id": "bd0cfe9a-f22f-4877-8264-26d502ad94f0",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:22:53.032872",
+                "object_package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3",
+                "revision_id": "d06bf270-1b88-4d8d-aaaa-909fcef4d4b2",
+                "subject_package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a"
+            }
+        },
+        {
+            "comment": "25",
+            "type": "links_to",
+            "id": "2af2825a-edf9-498b-81f3-cfe98ea64a54",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:23:01.109340",
+                "object_package_id": "fb7a2113-ce0d-4ca0-b23d-278d915433a1",
+                "revision_id": "d7f5f07d-1bed-4bb6-92f7-63e8fe93e6f7",
+                "subject_package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a"
+            }
+        },
+        {
+            "comment": "25",
+            "type": "links_to",
+            "id": "4264d2e0-111e-40fb-a085-3ba68e5f184e",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:22:57.624696",
+                "subject_package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a",
+                "revision_id": "9fb00ca3-7324-464f-9ee9-b70fd75bea6f",
+                "object_package_id": "7565e870-177e-484a-afa7-c2d80afe1647"
+            }
+        },
+        {
+            "comment": "3",
+            "type": "links_to",
+            "id": "0a5f4d3f-24f5-4380-99e5-e1e11d53c0f6",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:22:57.108607",
+                "object_package_id": "0c2ec56c-c041-4775-b733-94cecefea420",
+                "revision_id": "91486b48-5131-4100-915e-e369897850d0",
+                "subject_package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a"
+            }
+        },
+        {
+            "comment": "3",
+            "type": "links_to",
+            "id": "7cb10ebe-bd7e-475c-a827-2dd98bd056eb",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:22:50.943004",
+                "object_package_id": "11830d16-fc34-49ac-acbb-4ffee77f2398",
+                "revision_id": "8eac5ed7-08db-4aa8-a3e2-1cd5b75c74a6",
+                "subject_package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a"
+            }
+        },
+        {
+            "comment": "31",
+            "type": "links_to",
+            "id": "95f59a87-3593-48c3-8ba3-37a95edc8a0e",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:22:49.846045",
+                "subject_package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a",
+                "revision_id": "09ab3016-8cb1-41c2-9a35-42db4a844153",
+                "object_package_id": "097078f5-0a5c-465e-b58d-7e2076a7025f"
+            }
+        },
+        {
+            "comment": "5",
+            "type": "links_to",
+            "id": "820b46ea-e15f-4029-9d73-8e3b2907dfa9",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:22:56.571423",
+                "object_package_id": "1969c668-a7db-4c65-971b-81cf4b3d1a75",
+                "revision_id": "1ea55555-b2d9-45a4-8748-8662b081e700",
+                "subject_package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a"
+            }
+        },
+        {
+            "comment": "5",
+            "type": "links_to",
+            "id": "cd92e881-dca3-466f-b5e9-2a3a083993a5",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:22:55.728621",
+                "object_package_id": "edd880c6-d9e6-4bff-999b-7e344917925c",
+                "revision_id": "4a0221ab-88ef-40dc-be8a-fdd2502be8c2",
+                "subject_package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a"
+            }
+        },
+        {
+            "comment": "561",
+            "type": "links_to",
+            "id": "1509e4aa-d34b-47a8-8702-6eff8a9487ed",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:23:02.745113",
+                "object_package_id": "feec8014-10d0-47c1-9f4d-eed33dc68d83",
+                "revision_id": "64931f88-bce0-446a-a5a1-84e12b3daf2a",
+                "subject_package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a"
+            }
+        },
+        {
+            "comment": "6",
+            "type": "links_to",
+            "id": "1fce10be-894c-43d3-81b1-50a688ed0d27",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:22:48.852875",
+                "object_package_id": "23125bb4-da77-4d8f-958d-c22a9c17e158",
+                "revision_id": "db19c840-0d9b-444e-95b8-fc8677aecaf1",
+                "subject_package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a"
+            }
+        },
+        {
+            "comment": "63800",
+            "type": "links_to",
+            "id": "b39be40e-2ce7-4f62-a52a-a30cf5d6999f",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:22:51.779297",
+                "subject_package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a",
+                "revision_id": "26106471-2200-4c78-8e4e-ffd8a5c963d2",
+                "object_package_id": "3f3a5534-bafd-451f-9c2e-587a823c5f09"
+            }
+        },
+        {
+            "comment": "695",
+            "type": "links_to",
+            "id": "84095229-2387-4127-a09e-d0ca9dde5a73",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:22:50.361690",
+                "subject_package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a",
+                "revision_id": "e9c9d837-06e7-4ea2-96d6-f163d522dd2d",
+                "object_package_id": "36e89acf-8b08-4a46-8ae7-f1a5a5cdbc7c"
+            }
+        }
+    ],
+    "num_tags": 14,
+    "name": "rkb-explorer-kisti",
+    "isopen": false,
+    "url": "http://kisti.rkbexplorer.com",
+    "notes": "",
+    "title": "Korean Institute of Science Technology and Information (RKBExplorer)",
+    "extras": [
+        {
+            "value": "63800",
+            "key": "links:rkb-explorer-acm",
+            "__extras": {
+                "revision_id": "6689ef05-41c3-4f7e-be19-45e596c5520a",
+                "package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a"
+            }
+        },
+        {
+            "value": "31",
+            "key": "links:rkb-explorer-budapest",
+            "__extras": {
+                "revision_id": "6689ef05-41c3-4f7e-be19-45e596c5520a",
+                "package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a"
+            }
+        },
+        {
+            "value": "183945",
+            "key": "links:rkb-explorer-citeseer",
+            "__extras": {
+                "package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a",
+                "revision_id": "6689ef05-41c3-4f7e-be19-45e596c5520a"
+            }
+        },
+        {
+            "value": "17",
+            "key": "links:rkb-explorer-cordis",
+            "__extras": {
+                "revision_id": "6689ef05-41c3-4f7e-be19-45e596c5520a",
+                "package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a"
+            }
+        },
+        {
+            "value": "1",
+            "key": "links:rkb-explorer-curriculum",
+            "__extras": {
+                "revision_id": "6689ef05-41c3-4f7e-be19-45e596c5520a",
+                "package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a"
+            }
+        },
+        {
+            "value": "106009",
+            "key": "links:rkb-explorer-dblp",
+            "__extras": {
+                "package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a",
+                "revision_id": "6689ef05-41c3-4f7e-be19-45e596c5520a"
+            }
+        },
+        {
+            "value": "3",
+            "key": "links:rkb-explorer-dotac",
+            "__extras": {
+                "package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a",
+                "revision_id": "6689ef05-41c3-4f7e-be19-45e596c5520a"
+            }
+        },
+        {
+            "value": "43",
+            "key": "links:rkb-explorer-eprints",
+            "__extras": {
+                "package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a",
+                "revision_id": "6689ef05-41c3-4f7e-be19-45e596c5520a"
+            }
+        },
+        {
+            "value": "4",
+            "key": "links:rkb-explorer-eurecom",
+            "__extras": {
+                "package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a",
+                "revision_id": "6689ef05-41c3-4f7e-be19-45e596c5520a"
+            }
+        },
+        {
+            "value": "1",
+            "key": "links:rkb-explorer-ft",
+            "__extras": {
+                "package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a",
+                "revision_id": "6689ef05-41c3-4f7e-be19-45e596c5520a"
+            }
+        },
+        {
+            "value": "101",
+            "key": "links:rkb-explorer-ibm",
+            "__extras": {
+                "package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a",
+                "revision_id": "6689ef05-41c3-4f7e-be19-45e596c5520a"
+            }
+        },
+        {
+            "value": "561",
+            "key": "links:rkb-explorer-ieee",
+            "__extras": {
+                "revision_id": "6689ef05-41c3-4f7e-be19-45e596c5520a",
+                "package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a"
+            }
+        },
+        {
+            "value": "155",
+            "key": "links:rkb-explorer-irit",
+            "__extras": {
+                "revision_id": "6689ef05-41c3-4f7e-be19-45e596c5520a",
+                "package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a"
+            }
+        },
+        {
+            "value": "3",
+            "key": "links:rkb-explorer-italy",
+            "__extras": {
+                "revision_id": "6689ef05-41c3-4f7e-be19-45e596c5520a",
+                "package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a"
+            }
+        },
+        {
+            "value": "1",
+            "key": "links:rkb-explorer-jisc",
+            "__extras": {
+                "revision_id": "6689ef05-41c3-4f7e-be19-45e596c5520a",
+                "package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a"
+            }
+        },
+        {
+            "value": "25",
+            "key": "links:rkb-explorer-laas",
+            "__extras": {
+                "revision_id": "6689ef05-41c3-4f7e-be19-45e596c5520a",
+                "package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a"
+            }
+        },
+        {
+            "value": "1",
+            "key": "links:rkb-explorer-lisbon",
+            "__extras": {
+                "revision_id": "6689ef05-41c3-4f7e-be19-45e596c5520a",
+                "package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a"
+            }
+        },
+        {
+            "value": "239",
+            "key": "links:rkb-explorer-newcastle",
+            "__extras": {
+                "package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a",
+                "revision_id": "6689ef05-41c3-4f7e-be19-45e596c5520a"
+            }
+        },
+        {
+            "value": "6",
+            "key": "links:rkb-explorer-oai",
+            "__extras": {
+                "revision_id": "6689ef05-41c3-4f7e-be19-45e596c5520a",
+                "package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a"
+            }
+        },
+        {
+            "value": "10",
+            "key": "links:rkb-explorer-pisa",
+            "__extras": {
+                "package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a",
+                "revision_id": "6689ef05-41c3-4f7e-be19-45e596c5520a"
+            }
+        },
+        {
+            "value": "3",
+            "key": "links:rkb-explorer-rae2001",
+            "__extras": {
+                "package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a",
+                "revision_id": "6689ef05-41c3-4f7e-be19-45e596c5520a"
+            }
+        },
+        {
+            "value": "2",
+            "key": "links:rkb-explorer-resex",
+            "__extras": {
+                "package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a",
+                "revision_id": "6689ef05-41c3-4f7e-be19-45e596c5520a"
+            }
+        },
+        {
+            "value": "25",
+            "key": "links:rkb-explorer-roma",
+            "__extras": {
+                "revision_id": "6689ef05-41c3-4f7e-be19-45e596c5520a",
+                "package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a"
+            }
+        },
+        {
+            "value": "695",
+            "key": "links:rkb-explorer-southampton",
+            "__extras": {
+                "package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a",
+                "revision_id": "6689ef05-41c3-4f7e-be19-45e596c5520a"
+            }
+        },
+        {
+            "value": "5",
+            "key": "links:rkb-explorer-ulm",
+            "__extras": {
+                "revision_id": "6689ef05-41c3-4f7e-be19-45e596c5520a",
+                "package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a"
+            }
+        },
+        {
+            "value": "5",
+            "key": "links:rkb-explorer-wiki",
+            "__extras": {
+                "revision_id": "6689ef05-41c3-4f7e-be19-45e596c5520a",
+                "package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a"
+            }
+        },
+        {
+            "value": "10",
+            "key": "links:semantic-web-dog-food",
+            "__extras": {
+                "revision_id": "cd0edf64-2f35-4bf3-a1bf-75d1524b7828",
+                "package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a"
+            }
+        },
+        {
+            "value": "http://kisti.rkbexplorer.com/id/",
+            "key": "namespace",
+            "__extras": {
+                "package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a",
+                "revision_id": "59bb9616-4b92-4337-aa74-6e7bcb9567b8"
+            }
+        },
+        {
+            "value": "KISTI (RKBExplorer)",
+            "key": "shortname",
+            "__extras": {
+                "revision_id": "5a990ca4-97e9-4d71-a277-8d29186be913",
+                "package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a"
+            }
+        },
+        {
+            "value": "12815726",
+            "key": "triples",
+            "__extras": {
+                "package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a",
+                "revision_id": "8d12b364-1a77-45da-b043-1030f2e8f394"
+            }
+        }
+    ],
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "6378337a-c46c-4e1d-8bfd-54b36253f881"
+}

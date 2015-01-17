@@ -1,0 +1,268 @@
+{
+    "license_title": "Open Data Commons Public Domain Dedication and Licence 1.0",
+    "maintainer": " Anja Jentzsch",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "anja@anjeve.de ",
+    "revision_timestamp": "2013-10-10T20:52:37.628007",
+    "id": "41d7fc63-ea2f-4cb8-a445-a1625eff0829",
+    "metadata_created": "2011-06-29T11:53:00.549721",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T20:52:37.628007",
+    "author": "Michael Hausenblas",
+    "author_email": "michael.hausenblas@deri.org",
+    "state": "active",
+    "version": "",
+    "license_id": "ODC-PDDL-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "f69eca94-2d64-4469-a2b6-64dc5ad37c68",
+            "cache_last_updated": null,
+            "revision_timestamp": "2012-08-05T13:47:54.655867",
+            "webstore_last_updated": null,
+            "id": "e85c5cc6-db49-4e42-8f74-5960ff55b7c5",
+            "size": "82742",
+            "state": "active",
+            "hash": "",
+            "description": "",
+            "format": "rdfa",
+            "tracking_summary": {
+                "total": 3,
+                "recent": 3
+            },
+            "mimetype_inner": "",
+            "mimetype": "text/html",
+            "cache_url": "",
+            "name": "Download (RDFa)",
+            "created": "2012-08-02T15:50:56.799215",
+            "url": "http://institutions.publicdata.eu/",
+            "webstore_url": "",
+            "last_modified": "2012-08-05T00:00:00",
+            "position": 0,
+            "revision_id": "b5d125dd-5d06-4c9a-9e68-d91f1794a7ce",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/turtle",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download (Turtle)",
+            "format": "turtle",
+            "url": "http://institutions.publicdata.eu/all.ttl",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "revision_timestamp": "2012-08-05T13:47:54.655867",
+            "webstore_url": "",
+            "resource_group_id": "f69eca94-2d64-4469-a2b6-64dc5ad37c68",
+            "state": "active",
+            "last_modified": "2012-08-05T00:00:00",
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "b5d125dd-5d06-4c9a-9e68-d91f1794a7ce",
+            "size": "44774",
+            "id": "ebfef621-6b33-46d4-82b1-d84486d855fc",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Example (HTML+RDFa)",
+            "format": "example/rdfa",
+            "url": "http://institutions.publicdata.eu/#ec",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 15,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-08-05T13:43:58.500018",
+            "webstore_url": "",
+            "resource_group_id": "f69eca94-2d64-4469-a2b6-64dc5ad37c68",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "fc2e254b-5522-475a-b57f-bd19029ba677",
+            "size": "82742",
+            "id": "c4050241-3c14-47e7-8fa1-7ac0ca1d5956",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "VoID description",
+            "format": "meta/void",
+            "url": "http://institutions.publicdata.eu/.well-known/void",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 3,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-08-05T17:29:37.402143",
+            "webstore_url": "",
+            "resource_group_id": "f69eca94-2d64-4469-a2b6-64dc5ad37c68",
+            "state": "active",
+            "last_modified": "2012-08-05T17:29:17.001582",
+            "webstore_last_updated": null,
+            "position": 3,
+            "revision_id": "9e1c9b78-8137-444c-98e9-b321faf51843",
+            "size": "6509",
+            "id": "742d3629-3b98-48b7-b17a-251819fb977d",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 4,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2011-06-29T11:53:00.549721",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eu-institution",
+            "name": "eu-institution",
+            "revision_timestamp": "2012-08-03T14:30:54.726805",
+            "state": "active",
+            "id": "6bbf5581-73c0-47f1-bf42-b2afa69ba954"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "government",
+            "name": "government",
+            "revision_timestamp": "2011-06-29T11:59:26.335458",
+            "state": "active",
+            "id": "22fddbd6-8780-4ce0-826f-e41efdc36688"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "license-metadata",
+            "name": "license-metadata",
+            "revision_timestamp": "2011-07-20T19:14:46.716797",
+            "state": "active",
+            "id": "8d7e5c73-261b-4137-a278-42f56a6ec4bb"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2011-06-29T11:53:00.549721",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "provenance-metadata",
+            "name": "provenance-metadata",
+            "revision_timestamp": "2011-07-24T16:55:26.767910",
+            "state": "active",
+            "id": "24a0f0a3-36bc-4209-84e5-7d6b89d82dfa"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2011-06-29T11:53:00.549721",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        }
+    ],
+    "tracking_summary": {
+        "total": 289,
+        "recent": 23
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 7,
+    "name": "eu-institutions",
+    "isopen": true,
+    "url": "http://institutions.publicdata.eu/",
+    "notes": "This site defines Linked Data compatible URIs for major institutions and bodies of the European Union that can be used as identifiers in EU-related datasets. \r\n\r\nhttp://institutions.publicdata.eu/\r\n\r\n",
+    "title": "Institutions and Bodies of the European Union",
+    "extras": [
+        {
+            "value": "http://www.opendatacommons.org/licenses/pddl",
+            "key": "license_link",
+            "__extras": {
+                "package_id": "41d7fc63-ea2f-4cb8-a445-a1625eff0829",
+                "revision_id": "fe9ca340-46a8-46b2-9a0e-ee25b087261c"
+            }
+        },
+        {
+            "value": "154",
+            "key": "links:dbpedia",
+            "__extras": {
+                "revision_id": "ef7538f3-16ed-4f8f-bad7-7db7187596b5",
+                "package_id": "41d7fc63-ea2f-4cb8-a445-a1625eff0829"
+            }
+        },
+        {
+            "value": "38",
+            "key": "links:eu-agencies-bodies",
+            "__extras": {
+                "revision_id": "cd4c4ce5-7655-4525-8c46-428bdd459459",
+                "package_id": "41d7fc63-ea2f-4cb8-a445-a1625eff0829"
+            }
+        },
+        {
+            "value": "http://institutions.publicdata.eu/#",
+            "key": "namespace",
+            "__extras": {
+                "package_id": "41d7fc63-ea2f-4cb8-a445-a1625eff0829",
+                "revision_id": "96bbb22a-0b02-4e3e-bfdf-36b5a83085bc"
+            }
+        },
+        {
+            "value": "643",
+            "key": "triples",
+            "__extras": {
+                "package_id": "41d7fc63-ea2f-4cb8-a445-a1625eff0829",
+                "revision_id": "a96d9a8e-f5b5-4a29-a160-3bdc84467b41"
+            }
+        }
+    ],
+    "license_url": "http://www.opendefinition.org/licenses/odc-pddl",
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "dc85519e-7faf-499a-9654-290aed05f635",
+    "license_information": {
+        "domain_content": false,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "",
+        "status": "active"
+    }
+}

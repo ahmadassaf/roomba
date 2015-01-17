@@ -1,0 +1,212 @@
+{
+    "license_title": "Other (Not Open)",
+    "maintainer": "UniProt consortium",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "help@uniprot.org",
+    "revision_timestamp": "2014-04-16T12:29:54.959196",
+    "id": "f2459dc0-fe52-4371-9112-0cc3a4942a88",
+    "metadata_created": "2010-08-30T15:49:50.169396",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2014-04-16T12:29:54.959196",
+    "author": "UniProt consortium",
+    "author_email": "help@uniprot.org",
+    "state": "active",
+    "version": "",
+    "license_id": "other-closed",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Official first party download location",
+            "format": "application/rdf+xml",
+            "url": "http://ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/rdf/uniref.rdf.gz",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "revision_timestamp": "2012-09-05T05:29:15.927329",
+            "webstore_url": "",
+            "resource_group_id": "5aec5c1a-3912-69db-02ed-0073dcc73009",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "078768ad-890c-459c-b9be-9421a1fb0e81",
+            "size": null,
+            "id": "6e75620c-05ad-4fee-af12-e369575c1090",
+            "resource_type": "file",
+            "name": ""
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "SPARQL endpoint",
+            "format": "api/sparql",
+            "url": "http://beta.sparql.uniprot.org",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 3,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-06-13T10:08:50.851374",
+            "webstore_url": "",
+            "resource_group_id": "5aec5c1a-3912-69db-02ed-0073dcc73009",
+            "state": "active",
+            "last_modified": "2012-06-13T10:08:50.790394",
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "818393d3-f6a8-418b-9710-492ef6b14574",
+            "size": "19324",
+            "id": "64d48da3-8f80-41af-b013-d373da3e7aef",
+            "resource_type": "file",
+            "name": "beta.sparql.uniprot.org",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Example URI",
+            "format": "application/rdf+xml",
+            "url": "http://www.uniprot.org/uniref/UniRef100_A0A003.rdf",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 5,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-06-11T10:34:26.292654",
+            "webstore_url": "",
+            "resource_group_id": "5aec5c1a-3912-69db-02ed-0073dcc73009",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "7d038983-fc43-4072-838f-129a7c67c7cb",
+            "size": "2490",
+            "id": "2f37444b-5e9c-4ce5-823c-2b08bf349765",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 3,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2010-08-30T15:49:50.169396",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-uniprot",
+            "name": "format-uniprot",
+            "revision_timestamp": "2011-07-20T20:57:08.941418",
+            "state": "active",
+            "id": "931f4847-3218-4794-ae17-8c4ae45f516c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lifesciences",
+            "name": "lifesciences",
+            "revision_timestamp": "2010-09-26T13:38:42.812483",
+            "state": "active",
+            "id": "ee133eb4-ba7f-4e5c-8d92-9543ec13b860"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2010-08-30T15:49:50.169396",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2010-09-26T13:38:42.812483",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-proprietary-vocab",
+            "name": "no-proprietary-vocab",
+            "revision_timestamp": "2010-09-27T11:05:03.799285",
+            "state": "active",
+            "id": "aef04cb8-a7aa-4419-8184-396b0ef6e680"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-vocab-mappings",
+            "name": "no-vocab-mappings",
+            "revision_timestamp": "2010-10-06T15:23:50.712298",
+            "state": "active",
+            "id": "e51273d8-dc60-4cf2-a68d-3cfd33b2c1fc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-provider",
+            "name": "published-by-provider",
+            "revision_timestamp": "2014-04-16T12:29:54.959196",
+            "state": "active",
+            "id": "c11f33cd-e024-4d4a-ac41-eafe95ccada0"
+        }
+    ],
+    "tracking_summary": {
+        "total": 183,
+        "recent": 5
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 8,
+    "name": "uniref",
+    "isopen": false,
+    "url": "http://www.uniprot.org/uniref/",
+    "notes": "The UniRef databases provide clustered sets of sequences from UniProt Knowledgebase (including splice variants and isoforms) and selected UniParc records, in order to obtain complete coverage of sequence space at several resolutions while hiding redundant sequences (but not their descriptions) from view. Unlike UniParc, sequence fragments are merged in UniRef.\r\n\r\n### Openness\r\n\r\nNot open. [Copyright page](ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/rdf/README) states:\r\n\r\nCopyright 2007-2014 UniProt Consortium. We have chosen to apply the Creative Commons Attribution-NoDerivs License (http://creativecommons.org/licenses/by-nd/3.0/) to all copyrightable parts (http://sciencecommons.org/) of our databases. This means that you are free to copy, distribute, display and make commercial use of these databases, provided you give us credit. However, if you intend to distribute a modified version of one of our databases, you must ask us for permission first. All databases and documents in the UniProt FTP directory may be copied and redistributed freely, without advance permission, provided that this copyright statement is reproduced with each copy.",
+    "title": "UniProt UniRef",
+    "extras": [
+        {
+            "value": "http://www.uniprot.org/uniref/",
+            "key": "namespace",
+            "__extras": {
+                "package_id": "f2459dc0-fe52-4371-9112-0cc3a4942a88",
+                "revision_id": "391fe8cd-ccef-448a-a6f1-16af64a8982f"
+            }
+        },
+        {
+            "value": "UniRef",
+            "key": "shortname",
+            "__extras": {
+                "revision_id": "3ad0df1b-acff-445f-bee4-fcc47180ec6b",
+                "package_id": "f2459dc0-fe52-4371-9112-0cc3a4942a88"
+            }
+        }
+    ],
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "c3a92d17-4bfd-4b88-9c20-008cfda41642"
+}

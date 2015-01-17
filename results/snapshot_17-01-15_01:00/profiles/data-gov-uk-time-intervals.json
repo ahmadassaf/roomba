@@ -1,0 +1,406 @@
+{
+    "license_title": "UK Crown Copyright with data.gov.uk rights",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-10T20:28:54.716807",
+    "id": "33beeb8a-5692-4b45-ab64-2364754ebc39",
+    "metadata_created": "2010-09-06T09:19:50.444811",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T20:28:54.716807",
+    "author": "Stuart Williams (Epimorphics Ltd)",
+    "author_email": "",
+    "state": "active",
+    "version": "1.0",
+    "license_id": "ukcrown-withrights",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Example Gregorian interval",
+            "format": "example/rdf+xml",
+            "url": "http://reference.data.gov.uk/id/gregorian-interval/1977-11-01T12:22:45/P2Y1MT1H6S",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 25,
+                "recent": 3
+            },
+            "revision_timestamp": "2010-09-27T17:53:57.521392",
+            "webstore_url": null,
+            "resource_group_id": "9bd14205-8761-4009-cd0f-6d2d0b3cc174",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "da75b432-7b7b-4de6-9933-f6320dbf7f05",
+            "size": null,
+            "id": "016108df-b184-4ea9-839d-6c10e070740f",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Example year",
+            "format": "example/rdf+xml",
+            "url": "http://reference.data.gov.uk/id/year/2010",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 13,
+                "recent": 4
+            },
+            "revision_timestamp": "2010-09-27T17:53:57.521392",
+            "webstore_url": null,
+            "resource_group_id": "9bd14205-8761-4009-cd0f-6d2d0b3cc174",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "da75b432-7b7b-4de6-9933-f6320dbf7f05",
+            "size": null,
+            "id": "40708aaa-d8f9-4845-bfab-34868b85bca9",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Example day",
+            "format": "example/rdf+xml",
+            "url": "http://reference.data.gov.uk/id/day/2010-09-06",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 15,
+                "recent": 3
+            },
+            "revision_timestamp": "2010-09-27T17:53:57.521392",
+            "webstore_url": null,
+            "resource_group_id": "9bd14205-8761-4009-cd0f-6d2d0b3cc174",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "da75b432-7b7b-4de6-9933-f6320dbf7f05",
+            "size": null,
+            "id": "f656e926-5184-49d7-a0c6-7acc043d0241",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Example government year",
+            "format": "example/rdf+xml",
+            "url": "http://reference.data.gov.uk/id/government-year/2010-2011",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 5,
+                "recent": 3
+            },
+            "revision_timestamp": "2010-09-27T17:53:57.521392",
+            "webstore_url": null,
+            "resource_group_id": "9bd14205-8761-4009-cd0f-6d2d0b3cc174",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 3,
+            "revision_id": "da75b432-7b7b-4de6-9933-f6320dbf7f05",
+            "size": null,
+            "id": "05031129-3c30-404a-a4c3-9d7b58fb426b",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "RDF Schema",
+            "format": "meta/rdf-schema",
+            "url": "http://reference.data.gov.uk/def/intervals",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 27,
+                "recent": 5
+            },
+            "revision_timestamp": "2010-10-06T17:03:52.097140",
+            "webstore_url": null,
+            "resource_group_id": "9bd14205-8761-4009-cd0f-6d2d0b3cc174",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 4,
+            "revision_id": "b7060463-e849-4024-9f19-723c4d32cf66",
+            "size": "124560",
+            "id": "02bdc99d-2aa5-457a-9aa7-412483750b79",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 5,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "country-uk",
+            "name": "country-uk",
+            "revision_timestamp": "2010-09-06T09:19:50.444811",
+            "state": "active",
+            "id": "b10871ea-b4ae-4e2e-bec9-a8d8ff357754"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "dates",
+            "name": "dates",
+            "revision_timestamp": "2010-09-06T09:19:50.444811",
+            "state": "active",
+            "id": "e6822c34-dd79-46a6-b2e9-92a28ce6aa5a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "days",
+            "name": "days",
+            "revision_timestamp": "2010-09-06T09:19:50.444811",
+            "state": "active",
+            "id": "840c58d2-0e72-4ea6-bb5a-db0fdbb585bf"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2010-10-06T17:03:52.097140",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-foaf",
+            "name": "format-foaf",
+            "revision_timestamp": "2010-10-06T17:05:33.230295",
+            "state": "active",
+            "id": "bd737030-1ba6-4913-baaa-bfa2581618b5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-skos",
+            "name": "format-skos",
+            "revision_timestamp": "2011-07-20T20:54:56.358936",
+            "state": "active",
+            "id": "4d405572-6308-41ed-a021-1990e618a626"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-time",
+            "name": "format-time",
+            "revision_timestamp": "2010-09-06T09:19:50.444811",
+            "state": "active",
+            "id": "89e12c4c-de55-4c8e-ad6d-26e36ea60265"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "government",
+            "name": "government",
+            "revision_timestamp": "2010-09-06T09:19:50.444811",
+            "state": "active",
+            "id": "22fddbd6-8780-4ce0-826f-e41efdc36688"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "instants",
+            "name": "instants",
+            "revision_timestamp": "2010-09-06T09:19:50.444811",
+            "state": "active",
+            "id": "a6fba395-a00b-427e-8242-9ca8c1950a2e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "intervals",
+            "name": "intervals",
+            "revision_timestamp": "2010-09-06T09:19:50.444811",
+            "state": "active",
+            "id": "a912a508-9063-4b69-92c0-24a41a4d1773"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2010-09-06T09:19:50.444811",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lodcloud.nolinks",
+            "name": "lodcloud.nolinks",
+            "revision_timestamp": "2011-08-10T12:50:43.259616",
+            "state": "active",
+            "id": "ce89d5e1-b216-44ba-9603-d13fa7b248c4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "months",
+            "name": "months",
+            "revision_timestamp": "2010-09-06T09:19:50.444811",
+            "state": "active",
+            "id": "0651c464-653f-4bcf-b736-f307c3e5ad60"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2010-10-06T17:03:52.097140",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-provenance-metadata",
+            "name": "no-provenance-metadata",
+            "revision_timestamp": "2010-10-06T17:03:52.097140",
+            "state": "active",
+            "id": "585e9fca-2d67-4a07-b9d1-5495de054c7a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-vocab-mappings",
+            "name": "no-vocab-mappings",
+            "revision_timestamp": "2010-10-06T17:03:52.097140",
+            "state": "active",
+            "id": "e51273d8-dc60-4cf2-a68d-3cfd33b2c1fc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-producer",
+            "name": "published-by-producer",
+            "revision_timestamp": "2010-10-06T17:26:58.501827",
+            "state": "active",
+            "id": "fcdb5c0a-2b91-44cb-83e5-19fd0d81125c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "quarters",
+            "name": "quarters",
+            "revision_timestamp": "2010-09-06T09:19:50.444811",
+            "state": "active",
+            "id": "9ae6b29f-815f-413f-a6fe-2ede3ac4a2e7"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "times",
+            "name": "times",
+            "revision_timestamp": "2010-09-06T09:19:50.444811",
+            "state": "active",
+            "id": "ea2c3edf-8529-4f44-928f-aab4912bf685"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uk",
+            "name": "uk",
+            "revision_timestamp": "2010-09-06T09:19:50.444811",
+            "state": "active",
+            "id": "af80edd3-32cc-4689-8916-9a78214f64a4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "ukgov",
+            "name": "ukgov",
+            "revision_timestamp": "2010-09-06T09:19:50.444811",
+            "state": "active",
+            "id": "764bddd1-8f2c-47b2-9142-fc20d346e53b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "weeks",
+            "name": "weeks",
+            "revision_timestamp": "2010-09-06T09:19:50.444811",
+            "state": "active",
+            "id": "79b6c89f-c041-4624-ade8-7f1f5947d4a4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "years",
+            "name": "years",
+            "revision_timestamp": "2010-09-06T09:19:50.444811",
+            "state": "active",
+            "id": "8bd17312-955d-4781-b88c-ef3d9b4cf5fe"
+        }
+    ],
+    "tracking_summary": {
+        "total": 772,
+        "recent": 24
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 23,
+    "name": "data-gov-uk-time-intervals",
+    "isopen": false,
+    "url": "http://www.epimorphics.com/web/wiki/using-interval-set-uris-statistical-data",
+    "notes": "Linked data for every time interval and instant into the past and future, from years down to seconds. This is an infinite set of linked data. It includes government years and properly handles the transition to the Gregorian calendar within the UK.\r\n\r\nPart of package:reference-data-gov-uk",
+    "title": "data.gov.uk Time Intervals",
+    "extras": [
+        {
+            "value": "http://reference.data.gov.uk/id/",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "c93ee2dc-4fd4-468e-93a1-e70da6830fac",
+                "package_id": "33beeb8a-5692-4b45-ab64-2364754ebc39"
+            }
+        },
+        {
+            "value": "data.gov.uk Intervals",
+            "key": "shortname",
+            "__extras": {
+                "revision_id": "8ec7075c-dfe0-4157-b72a-c9f02301f101",
+                "package_id": "33beeb8a-5692-4b45-ab64-2364754ebc39"
+            }
+        },
+        {
+            "value": "1000000000",
+            "key": "triples",
+            "__extras": {
+                "revision_id": "a1375e08-6ffa-4de8-9e4f-f7c0029ce45e",
+                "package_id": "33beeb8a-5692-4b45-ab64-2364754ebc39"
+            }
+        }
+    ],
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "81d192cd-f4af-43e6-8707-49b326c1ccdf",
+    "license_url": "",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": false,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "",
+        "status": "active"
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-10T23:42:05.955237",
+    "id": "f6e2da38-f3b8-4b81-99ee-8d6426655dcf",
+    "metadata_created": "2010-08-03T11:00:52.352199",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T23:42:05.955237",
+    "author": "Paul Groth",
+    "author_email": "pgroth@few.vu.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Example resource",
+            "format": "example/rdf+xml",
+            "url": "http://linkeddata.few.vu.nl/slideshare/mhelmke/presentation-zen",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 17,
+                "recent": 5
+            },
+            "revision_timestamp": "2011-09-19T05:48:35.218791",
+            "webstore_url": null,
+            "resource_group_id": "94573f64-0bea-4076-a940-5431d8055cd4",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "8f2e2b35-0c0a-49c7-90ee-44afae64b9c4",
+            "size": null,
+            "id": "7529f390-b2c8-4313-945b-f2bd869506bb",
+            "resource_type": "",
+            "name": ""
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "api",
+            "name": "api",
+            "revision_timestamp": "2010-08-03T11:00:52.352199",
+            "state": "active",
+            "id": "6f07b0d7-8601-4e17-a174-7cec12c5f7ee"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-dc",
+            "name": "format-dc",
+            "revision_timestamp": "2011-07-24T10:34:31.753334",
+            "state": "active",
+            "id": "0b675a54-621f-4fdb-850a-ef5d0b1b1ca3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2010-08-03T11:00:52.352199",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-sioc",
+            "name": "format-sioc",
+            "revision_timestamp": "2010-08-03T11:00:52.352199",
+            "state": "active",
+            "id": "7a334e2f-c6b6-4ef0-aefe-20b14d14718e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2010-08-03T11:00:52.352199",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lodcloud.nolinks",
+            "name": "lodcloud.nolinks",
+            "revision_timestamp": "2010-08-03T11:00:52.352199",
+            "state": "active",
+            "id": "ce89d5e1-b216-44ba-9603-d13fa7b248c4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "metadata",
+            "name": "metadata",
+            "revision_timestamp": "2010-08-03T11:00:52.352199",
+            "state": "active",
+            "id": "f566a248-87c9-4b6c-9c93-acd9be930902"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "presentations",
+            "name": "presentations",
+            "revision_timestamp": "2010-08-03T11:00:52.352199",
+            "state": "active",
+            "id": "422f0a30-18d0-4e3e-9943-fe7620c6fd96"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2011-07-20T18:47:20.115645",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "slides",
+            "name": "slides",
+            "revision_timestamp": "2010-08-03T11:00:52.352199",
+            "state": "active",
+            "id": "33b3e8af-ee2c-454c-adab-a9e9a7363700"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "usergeneratedcontent",
+            "name": "usergeneratedcontent",
+            "revision_timestamp": "2011-07-20T18:47:20.115645",
+            "state": "active",
+            "id": "e9b2da79-5971-41f9-a314-36d368636b85"
+        }
+    ],
+    "tracking_summary": {
+        "total": 267,
+        "recent": 3
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 11,
+    "name": "slideshare2rdf",
+    "isopen": false,
+    "url": "http://linkeddata.few.vu.nl/slideshare/",
+    "notes": "### Description\r\n\r\nAn API for [Slideshare.net](http://slideshare.net/), it provides RDF metadata for the presentations uploaded to Slideshare. The RDF representation uses the SIOC ontology.\r\n\r\n",
+    "title": "Slideshare2RDF Server",
+    "extras": [
+        {
+            "value": "http://linkeddata.few.vu.nl/slideshare/",
+            "key": "namespace",
+            "__extras": {
+                "package_id": "f6e2da38-f3b8-4b81-99ee-8d6426655dcf",
+                "revision_id": "44d673d0-5743-4adb-b52d-41976c9b2df1"
+            }
+        },
+        {
+            "value": "10000000",
+            "key": "triples",
+            "__extras": {
+                "revision_id": "4de85c0c-656d-4fbd-afcb-4456cff1d88b",
+                "package_id": "f6e2da38-f3b8-4b81-99ee-8d6426655dcf"
+            }
+        }
+    ],
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "bb85543d-7abb-410a-85fb-0aba62901881"
+}

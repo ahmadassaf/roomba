@@ -1,0 +1,277 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-10T23:37:40.721637",
+    "id": "99fefdc1-195e-4e41-91ca-4f4ce81a8ea5",
+    "metadata_created": "2009-10-27T19:02:19.423159",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T23:37:40.721637",
+    "author": "Joshua Tauberer <http://razor.occams.info/>",
+    "author_email": "",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "application/octet-stream",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Download (Turtle)",
+            "format": "text/turtle",
+            "url": "http://www.govtrack.us/data/misc/sec.n3.gz",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 17,
+                "recent": 3
+            },
+            "revision_timestamp": "2010-09-09T16:49:34.734565",
+            "webstore_url": null,
+            "resource_group_id": "8455db25-d4e6-6ac0-1fe0-93b90cdc0383",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "fb9974be-e583-4863-be22-c032345a798e",
+            "size": "8549692",
+            "id": "47b4eab5-4b14-415c-8d02-6bfdbf0d7db3",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "SPARQL endpoint",
+            "format": "api/sparql",
+            "url": "http://rdfabout.com/sparql",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 13,
+                "recent": 3
+            },
+            "revision_timestamp": "2010-09-09T16:49:34.734565",
+            "webstore_url": null,
+            "resource_group_id": "8455db25-d4e6-6ac0-1fe0-93b90cdc0383",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "fb9974be-e583-4863-be22-c032345a798e",
+            "size": null,
+            "id": "878d63af-eedd-4d66-9eb4-28ee51bd2003",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Example (News Corp)",
+            "format": "example/rdf+xml",
+            "url": "http://www.rdfabout.com/rdf/usgov/sec/id/cik0001308161",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 11,
+                "recent": 5
+            },
+            "revision_timestamp": "2011-07-20T20:37:26.778643",
+            "webstore_url": null,
+            "resource_group_id": "8455db25-d4e6-6ac0-1fe0-93b90cdc0383",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "1f61a58f-5a1d-4b9b-afc0-517b81318f58",
+            "size": null,
+            "id": "297507b4-7753-47ed-af34-46ceebc40a14",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 3,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "ckanupload.esw.200910",
+            "name": "ckanupload.esw.200910",
+            "revision_timestamp": "2009-10-27T19:02:19.423159",
+            "state": "active",
+            "id": "a02db6d4-95bd-4766-93f9-c34a087cadf8"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-foaf",
+            "name": "format-foaf",
+            "revision_timestamp": "2010-10-06T22:08:26.462341",
+            "state": "active",
+            "id": "bd737030-1ba6-4913-baaa-bfa2581618b5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2009-10-27T19:02:19.423159",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-vcard",
+            "name": "format-vcard",
+            "revision_timestamp": "2010-10-06T22:08:26.462341",
+            "state": "active",
+            "id": "15a4eeb8-5380-4f22-831f-ce6aad2bfe28"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "government",
+            "name": "government",
+            "revision_timestamp": "2010-10-06T22:08:26.462341",
+            "state": "active",
+            "id": "22fddbd6-8780-4ce0-826f-e41efdc36688"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "linkeddata",
+            "name": "linkeddata",
+            "revision_timestamp": "2009-10-30T17:59:47.767730",
+            "state": "active",
+            "id": "7b2b43f4-096d-4367-b702-e1d1a8442664"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2009-10-30T17:59:47.767730",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-deref-vocab",
+            "name": "no-deref-vocab",
+            "revision_timestamp": "2010-10-06T22:08:26.462341",
+            "state": "active",
+            "id": "89a72f73-c7f6-4814-9e3d-3fff825c22f8"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2010-10-06T22:08:26.462341",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-provenance-metadata",
+            "name": "no-provenance-metadata",
+            "revision_timestamp": "2010-10-06T22:08:26.462341",
+            "state": "active",
+            "id": "585e9fca-2d67-4a07-b9d1-5495de054c7a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-vocab-mappings",
+            "name": "no-vocab-mappings",
+            "revision_timestamp": "2010-10-06T22:08:26.462341",
+            "state": "active",
+            "id": "e51273d8-dc60-4cf2-a68d-3cfd33b2c1fc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2010-10-06T22:08:26.462341",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "rdf",
+            "name": "rdf",
+            "revision_timestamp": "2009-10-27T19:02:19.423159",
+            "state": "active",
+            "id": "6ae4215c-a85b-457c-862b-5a8718b02c6f"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "size-large",
+            "name": "size-large",
+            "revision_timestamp": "2009-11-12T21:00:30.591807",
+            "state": "active",
+            "id": "8c461cca-abe1-4f24-a617-d762280aaafe"
+        }
+    ],
+    "tracking_summary": {
+        "total": 253,
+        "recent": 15
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 14,
+    "name": "sec-rdfabout",
+    "isopen": false,
+    "url": "http://www.rdfabout.com/demo/sec/",
+    "notes": "Data exposed: corporate ownership\r\n\r\nSize of dump and data set: 1.8 million triples\r\n\r\nNotes: also found in the of SPARQL Endpoints",
+    "title": "U.S. Securities and Exchange Commission Corporate Ownership RDF Data (rdfabout)",
+    "extras": [
+        {
+            "value": "86",
+            "key": "links:dbpedia",
+            "__extras": {
+                "package_id": "99fefdc1-195e-4e41-91ca-4f4ce81a8ea5",
+                "revision_id": "f0460f2a-fe52-479c-8105-f9ce891414aa"
+            }
+        },
+        {
+            "value": "http://www.rdfabout.com/rdf/usgov/sec/id/",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "05587808-b268-42af-a122-c4958bb0bb75",
+                "package_id": "99fefdc1-195e-4e41-91ca-4f4ce81a8ea5"
+            }
+        },
+        {
+            "value": "SEC (rdfabout)",
+            "key": "shortname",
+            "__extras": {
+                "revision_id": "06773a64-4e5d-4dd1-8a18-4197c1e7699c",
+                "package_id": "99fefdc1-195e-4e41-91ca-4f4ce81a8ea5"
+            }
+        },
+        {
+            "value": "1800000",
+            "key": "triples",
+            "__extras": {
+                "package_id": "99fefdc1-195e-4e41-91ca-4f4ce81a8ea5",
+                "revision_id": "fb9974be-e583-4863-be22-c032345a798e"
+            }
+        }
+    ],
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "ece7b5ad-13b7-4514-95ad-c647833512f1"
+}

@@ -1,0 +1,460 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Dr. Juergen Rilling",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "rilling@cse.concordia.ca",
+    "revision_timestamp": "2013-10-10T23:37:39.429485",
+    "id": "5ffdc32f-00ec-4bf5-b0c5-cfeca507987f",
+    "metadata_created": "2011-01-28T22:33:38.271815",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T23:37:39.429485",
+    "author": "Iman Keivanloo",
+    "author_email": "keivanloo@ieee.org",
+    "state": "active",
+    "version": "001",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "All triples of SECOLD Version 001 (Compressed)",
+            "format": "application/x-ntriples",
+            "url": "http://aseg.cs.concordia.ca/secold/download/static/secold_v_001.tar",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 9,
+                "recent": 5
+            },
+            "revision_timestamp": "2011-02-24T19:18:00.577617",
+            "webstore_url": null,
+            "resource_group_id": "b671d6d8-79c6-d515-1686-ec2d655903fb",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "74088862-e247-4d48-98c0-49b0ad05f5b5",
+            "size": null,
+            "id": "fc562586-1584-49a6-b32e-c3fb80d7c283",
+            "resource_type": null,
+            "name": null
+        },
+        {
+            "mimetype": null,
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "RDF Schema (SOCON)",
+            "format": "meta/rdf-schema",
+            "url": "http://aseg.cs.concordia.ca/ontologies/2010/11/socon.rdf",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 15,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-02-24T19:18:00.577617",
+            "webstore_url": null,
+            "resource_group_id": "b671d6d8-79c6-d515-1686-ec2d655903fb",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "74088862-e247-4d48-98c0-49b0ad05f5b5",
+            "size": null,
+            "id": "98c1918d-1f4d-441a-801f-42f6ed472687",
+            "resource_type": null,
+            "name": null
+        },
+        {
+            "mimetype": null,
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "RDF Schema (VERON)",
+            "format": "meta/rdf-schema",
+            "url": "http://aseg.cs.concordia.ca/ontologies/2010/11/veron.rdf",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "revision_timestamp": "2011-02-24T19:18:00.577617",
+            "webstore_url": null,
+            "resource_group_id": "b671d6d8-79c6-d515-1686-ec2d655903fb",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "74088862-e247-4d48-98c0-49b0ad05f5b5",
+            "size": null,
+            "id": "fdff02e3-58b5-4441-8855-bdc294115eb3",
+            "resource_type": null,
+            "name": null
+        },
+        {
+            "mimetype": null,
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "RDF Schema (METON)",
+            "format": "meta/rdf-schema",
+            "url": "http://aseg.cs.concordia.ca/ontologies/2010/11/meton.rdf",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "revision_timestamp": "2011-02-24T19:18:00.577617",
+            "webstore_url": null,
+            "resource_group_id": "b671d6d8-79c6-d515-1686-ec2d655903fb",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 3,
+            "revision_id": "74088862-e247-4d48-98c0-49b0ad05f5b5",
+            "size": null,
+            "id": "8535fd3b-eeda-4500-aa71-b8f37d5c46c3",
+            "resource_type": null,
+            "name": null
+        },
+        {
+            "mimetype": null,
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Link to an example data item (a Java type) within the data set (RDF/XML)",
+            "format": "example/rdf+xml",
+            "url": "http://aseg.cs.concordia.ca/secold/download/static/secold_001_samples/sample_fqn_java.util.Collection.rdf",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 11,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-02-24T19:18:00.577617",
+            "webstore_url": null,
+            "resource_group_id": "b671d6d8-79c6-d515-1686-ec2d655903fb",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 4,
+            "revision_id": "74088862-e247-4d48-98c0-49b0ad05f5b5",
+            "size": null,
+            "id": "e87db33c-90ac-4d1f-b72f-daeddba0d0a9",
+            "resource_type": null,
+            "name": null
+        },
+        {
+            "mimetype": null,
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Link to an example data item (a software project) within the data set (RDF/XML)",
+            "format": "example/rdf+xml",
+            "url": "http://aseg.cs.concordia.ca/secold/download/static/secold_001_samples/sample_project_apache_lucene.rdf",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 5,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-02-24T19:18:00.577617",
+            "webstore_url": null,
+            "resource_group_id": "b671d6d8-79c6-d515-1686-ec2d655903fb",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 5,
+            "revision_id": "74088862-e247-4d48-98c0-49b0ad05f5b5",
+            "size": null,
+            "id": "20455f62-3a94-44a7-b64d-6da71008478e",
+            "resource_type": null,
+            "name": null
+        },
+        {
+            "mimetype": null,
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Link to an example data item (a project snapshot) within the data set (RDF/XML)",
+            "format": "example/rdf+xml",
+            "url": "http://aseg.cs.concordia.ca/secold/download/static/secold_001_samples/sample_snapshot_of_lucene_project.rdf",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 3,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-02-24T19:18:00.577617",
+            "webstore_url": null,
+            "resource_group_id": "b671d6d8-79c6-d515-1686-ec2d655903fb",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 6,
+            "revision_id": "74088862-e247-4d48-98c0-49b0ad05f5b5",
+            "size": null,
+            "id": "f2e5c493-8bf1-4ced-ac99-524d26cb96f4",
+            "resource_type": null,
+            "name": null
+        },
+        {
+            "mimetype": null,
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Link to an example data item (a source code file) within the data set (RDF/XML)",
+            "format": "example/rdf+xml",
+            "url": "http://aseg.cs.concordia.ca/secold/download/static/secold_001_samples/sample_variation_of_a_java_class.rdf",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 11,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-02-24T19:18:00.577617",
+            "webstore_url": null,
+            "resource_group_id": "b671d6d8-79c6-d515-1686-ec2d655903fb",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 7,
+            "revision_id": "74088862-e247-4d48-98c0-49b0ad05f5b5",
+            "size": null,
+            "id": "c91da168-8ca4-4494-95d3-fb3a40f30465",
+            "resource_type": null,
+            "name": null
+        },
+        {
+            "mimetype": null,
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Sparql Endpoint (No GUI)",
+            "format": "api/sparql",
+            "url": "http://aseg.cs.concordia.ca/secold/sparqlendpoint",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 17,
+                "recent": 7
+            },
+            "revision_timestamp": "2011-03-16T21:16:40.643999",
+            "webstore_url": null,
+            "resource_group_id": "b671d6d8-79c6-d515-1686-ec2d655903fb",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 8,
+            "revision_id": "81d08c52-4fc6-4737-b818-c2167926fa13",
+            "size": null,
+            "id": "2f794f70-6a75-4d3b-81b2-42f1812b490a",
+            "resource_type": null,
+            "name": null
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Sparql Endpoint (Ajax-based GUI)",
+            "format": "",
+            "url": "http://aseg.cs.concordia.ca/secold/sparql/",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 17,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-03-16T21:16:40.643999",
+            "webstore_url": null,
+            "resource_group_id": "b671d6d8-79c6-d515-1686-ec2d655903fb",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 9,
+            "revision_id": "81d08c52-4fc6-4737-b818-c2167926fa13",
+            "size": "0",
+            "id": "a4a962d9-70b6-4a8b-b6e4-24e8addc46f2",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "SECOLD download Page",
+            "format": "",
+            "url": "http://aseg.cs.concordia.ca/secold/download",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 5,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-03-16T21:16:40.643999",
+            "webstore_url": null,
+            "resource_group_id": "b671d6d8-79c6-d515-1686-ec2d655903fb",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 10,
+            "revision_id": "81d08c52-4fc6-4737-b818-c2167926fa13",
+            "size": "814",
+            "id": "ce21528e-6cac-4881-96f4-53e161f5bf1b",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 11,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2011-03-25T22:07:20.315193",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2011-03-25T22:07:20.315193",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2011-01-28T22:33:38.271815",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2011-03-25T22:07:20.315193",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-provenance-metadata",
+            "name": "no-provenance-metadata",
+            "revision_timestamp": "2011-03-25T22:07:20.315193",
+            "state": "active",
+            "id": "585e9fca-2d67-4a07-b9d1-5495de054c7a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open_source",
+            "name": "open_source",
+            "revision_timestamp": "2011-01-28T22:33:38.271815",
+            "state": "active",
+            "id": "c09bfaf1-e68c-4ec9-9d58-9f2753b157b4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-producer",
+            "name": "published-by-producer",
+            "revision_timestamp": "2011-07-20T20:22:08.682530",
+            "state": "active",
+            "id": "fcdb5c0a-2b91-44cb-83e5-19fd0d81125c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "software",
+            "name": "software",
+            "revision_timestamp": "2011-01-28T22:33:38.271815",
+            "state": "active",
+            "id": "98adc2e3-9988-4537-93c9-18a31a47f653"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "source_code",
+            "name": "source_code",
+            "revision_timestamp": "2011-01-28T22:33:38.271815",
+            "state": "active",
+            "id": "8791230b-4be4-4364-9d5a-51517eff09d7"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "usergeneratedcontent",
+            "name": "usergeneratedcontent",
+            "revision_timestamp": "2011-07-20T20:22:08.682530",
+            "state": "active",
+            "id": "e9b2da79-5971-41f9-a314-36d368636b85"
+        }
+    ],
+    "tracking_summary": {
+        "total": 695,
+        "recent": 15
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 10,
+    "name": "secold",
+    "isopen": false,
+    "url": "http://aseg.cs.concordia.ca/secold",
+    "notes": "SECOLD contains structured source code facts from open source projects. It is developed to service source code mining, search and traceability research and tools by providing structural source code search over open source code on the Internet.\r\n\r\nIt has 1.5 billion facts extracted from more than 1 million source code file. SECOLD is connected to DBpedia, freebase and opencyc.\r\n\r\nIt extracts fine-grained facts from source code in several levels (e.g. presentation, syntax, and semantic).\r\n",
+    "title": "Source Code Ecosystem Linked Data",
+    "extras": [
+        {
+            "value": "2100",
+            "key": "links:dbpedia",
+            "__extras": {
+                "revision_id": "800fb49a-bbc2-484d-9d40-178e96fe754e",
+                "package_id": "5ffdc32f-00ec-4bf5-b0c5-cfeca507987f"
+            }
+        },
+        {
+            "value": "25",
+            "key": "links:freebase",
+            "__extras": {
+                "revision_id": "800fb49a-bbc2-484d-9d40-178e96fe754e",
+                "package_id": "5ffdc32f-00ec-4bf5-b0c5-cfeca507987f"
+            }
+        },
+        {
+            "value": "2000",
+            "key": "links:opencyc",
+            "__extras": {
+                "package_id": "5ffdc32f-00ec-4bf5-b0c5-cfeca507987f",
+                "revision_id": "800fb49a-bbc2-484d-9d40-178e96fe754e"
+            }
+        },
+        {
+            "value": "http://aseg.cs.concordia.ca/secold/resource/",
+            "key": "namespace",
+            "__extras": {
+                "package_id": "5ffdc32f-00ec-4bf5-b0c5-cfeca507987f",
+                "revision_id": "685c23d2-c75e-4c05-a402-25684cd1a195"
+            }
+        },
+        {
+            "value": "1500000000",
+            "key": "triples",
+            "__extras": {
+                "package_id": "5ffdc32f-00ec-4bf5-b0c5-cfeca507987f",
+                "revision_id": "800fb49a-bbc2-484d-9d40-178e96fe754e"
+            }
+        }
+    ],
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "c1ce9635-3847-4ea1-952d-51f116a0cbeb"
+}

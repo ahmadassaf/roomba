@@ -1,0 +1,424 @@
+{
+    "license_title": "Creative Commons Attribution Share-Alike 4.0",
+    "maintainer": "Jörg Waitelonis, Harald Sack",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "joerg@yovisto.com, harald.sack@hpi.uni-potsdam.de",
+    "revision_timestamp": "2013-10-11T00:21:42.212000",
+    "id": "78fad339-ff47-4c18-afe5-d836c4e190a5",
+    "metadata_created": "2011-07-18T11:13:31.666352",
+    "owner_org": "1a24e0c3-013b-481d-b25c-f36c651315d8",
+    "metadata_modified": "2013-10-11T00:21:42.212000",
+    "author": "Yovisto.com",
+    "author_email": "info@yovisto.com",
+    "state": "active",
+    "version": "0.9",
+    "license_id": "CC-BY-SA-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Public SPARQL-Endpoint",
+            "format": "api/sparql",
+            "url": "http://sparql.yovisto.com/",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 25,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-12-18T16:03:50.641072",
+            "webstore_url": "",
+            "resource_group_id": "4346cfc8-3b05-4cbf-8825-127ddd3b358a",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "52f597ad-82c4-4b5c-937f-8843f9c5b225",
+            "size": null,
+            "id": "8133967e-896f-483e-b620-6dfec9cbf1d8",
+            "resource_type": "",
+            "name": ""
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Embedded RDFa in Yovisto website.",
+            "format": "html+rdfa",
+            "url": "http://www.yovisto.com/",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 17,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-12-18T16:03:50.641072",
+            "webstore_url": "",
+            "resource_group_id": "4346cfc8-3b05-4cbf-8825-127ddd3b358a",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "52f597ad-82c4-4b5c-937f-8843f9c5b225",
+            "size": null,
+            "id": "c4599757-41f3-434c-8bc6-c14b38461d9b",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/x-gzip",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Turtle Dump (gzipped)",
+            "format": "text/turtle",
+            "url": "http://www.yovisto.com/labs/dumps/latest.ttl.tar.gz",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 5,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-12-18T16:03:50.641072",
+            "webstore_url": "",
+            "resource_group_id": "4346cfc8-3b05-4cbf-8825-127ddd3b358a",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "52f597ad-82c4-4b5c-937f-8843f9c5b225",
+            "size": "41634430",
+            "id": "455ccc76-bec9-4b51-a3c9-a83cd628273b",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/plain",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "OWL-DL Description",
+            "format": "meta/rdf-schema",
+            "url": "http://www.yovisto.com/ontology/0.9/index.owl ",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "revision_timestamp": "2012-12-18T16:03:50.641072",
+            "webstore_url": "",
+            "resource_group_id": "4346cfc8-3b05-4cbf-8825-127ddd3b358a",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 3,
+            "revision_id": "52f597ad-82c4-4b5c-937f-8843f9c5b225",
+            "size": "14411",
+            "id": "a39432cb-fed1-43e7-93d1-19713d4344ee",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/xml",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Sitemap",
+            "format": "meta/sitemap",
+            "url": "http://www.yovisto.com/sitemapext.xml",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 9,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-12-18T16:03:50.641072",
+            "webstore_url": "",
+            "resource_group_id": "4346cfc8-3b05-4cbf-8825-127ddd3b358a",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 4,
+            "revision_id": "52f597ad-82c4-4b5c-937f-8843f9c5b225",
+            "size": "1064",
+            "id": "284bd2df-ec36-424d-a951-81c65a3c1745",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Example resource",
+            "format": "example/rdf+xml",
+            "url": "http://www.yovisto.com/resource/speaker/470",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 23,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-12-18T16:03:50.641072",
+            "webstore_url": "",
+            "resource_group_id": "4346cfc8-3b05-4cbf-8825-127ddd3b358a",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 5,
+            "revision_id": "52f597ad-82c4-4b5c-937f-8843f9c5b225",
+            "size": "86583",
+            "id": "b95f07f7-a6d9-4d5c-8fa3-04c293df3710",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 6,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "academic",
+            "name": "academic",
+            "revision_timestamp": "2011-07-18T14:28:05.121089",
+            "state": "active",
+            "id": "df3b8070-2cee-49fa-b8a6-0826af5f43db"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "crossdomain",
+            "name": "crossdomain",
+            "revision_timestamp": "2011-07-18T14:28:05.121089",
+            "state": "active",
+            "id": "833848ee-ef06-4283-bb26-164f6c3474b4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2011-07-18T14:37:05.301242",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "e-learning",
+            "name": "e-learning",
+            "revision_timestamp": "2011-07-18T14:28:05.121089",
+            "state": "active",
+            "id": "b181e013-8b8d-494c-a1ba-6307ddaefa72"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "education",
+            "name": "education",
+            "revision_timestamp": "2011-07-18T14:28:05.121089",
+            "state": "active",
+            "id": "40e9a7c2-fae7-4c1f-9e09-011fd8c4ccab"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-cc",
+            "name": "format-cc",
+            "revision_timestamp": "2011-07-18T14:58:40.528157",
+            "state": "active",
+            "id": "e1f4979f-716a-4997-bec8-8b08f20c6b40"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-dc",
+            "name": "format-dc",
+            "revision_timestamp": "2011-07-18T14:58:40.528157",
+            "state": "active",
+            "id": "0b675a54-621f-4fdb-850a-ef5d0b1b1ca3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-foaf",
+            "name": "format-foaf",
+            "revision_timestamp": "2011-07-18T14:58:40.528157",
+            "state": "active",
+            "id": "bd737030-1ba6-4913-baaa-bfa2581618b5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-mpeg7",
+            "name": "format-mpeg7",
+            "revision_timestamp": "2011-07-18T14:58:40.528157",
+            "state": "active",
+            "id": "d28cc718-5b99-48cb-a695-1e265f8c328a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-tag",
+            "name": "format-tag",
+            "revision_timestamp": "2011-07-18T14:58:40.528157",
+            "state": "active",
+            "id": "895d1d7c-be1c-4344-ba2e-6fd6435050ac"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2011-07-18T11:13:31.666352",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "multimedia",
+            "name": "multimedia",
+            "revision_timestamp": "2011-07-18T14:28:05.121089",
+            "state": "active",
+            "id": "6e663afc-2c14-4861-acb5-eaedeb9a51c8"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2011-07-18T14:53:18.820444",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-provenance-metadata",
+            "name": "no-provenance-metadata",
+            "revision_timestamp": "2011-07-18T14:53:18.820444",
+            "state": "active",
+            "id": "585e9fca-2d67-4a07-b9d1-5495de054c7a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-vocab-mappings",
+            "name": "no-vocab-mappings",
+            "revision_timestamp": "2011-07-18T14:56:11.085020",
+            "state": "active",
+            "id": "e51273d8-dc60-4cf2-a68d-3cfd33b2c1fc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-producer",
+            "name": "published-by-producer",
+            "revision_timestamp": "2011-07-18T14:37:05.301242",
+            "state": "active",
+            "id": "fcdb5c0a-2b91-44cb-83e5-19fd0d81125c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "science",
+            "name": "science",
+            "revision_timestamp": "2011-07-18T14:28:05.121089",
+            "state": "active",
+            "id": "8cda05a5-8312-46aa-b077-571b97363826"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "usergeneratedcontent",
+            "name": "usergeneratedcontent",
+            "revision_timestamp": "2011-09-19T08:46:47.864235",
+            "state": "active",
+            "id": "e9b2da79-5971-41f9-a314-36d368636b85"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "video",
+            "name": "video",
+            "revision_timestamp": "2011-07-18T14:28:05.121089",
+            "state": "active",
+            "id": "7e589c43-7b4f-4c17-8fdc-06d1c9c73826"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "void-sparql-endpoint",
+            "name": "void-sparql-endpoint",
+            "revision_timestamp": "2011-07-24T11:51:33.947386",
+            "state": "active",
+            "id": "9d821331-6c26-4261-bd2b-12dab19d508e"
+        }
+    ],
+    "tracking_summary": {
+        "total": 339,
+        "recent": 15
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 20,
+    "name": "yovisto",
+    "isopen": true,
+    "url": "http://www.yovisto.com/ontology/",
+    "notes": "Yovisto is a video search engine specialized in academic lecture recordings and conference talks. Unlike other video search engines, Yovisto provides a time based video index,\r\nwhich allows to search within the videos’ content. Automated analysis techniques such as scene detection\r\nand intelligent character recognition are used for metadata generation. Time dependent collaborative annotation enables the user to annotate tags and comments at any\r\npoint within a video.",
+    "title": "Yovisto - academic video search",
+    "extras": [
+        {
+            "value": "300",
+            "key": "links:dbpedia",
+            "__extras": {
+                "revision_id": "5d97dc4e-602d-40a1-8d47-7301fb518903",
+                "package_id": "78fad339-ff47-4c18-afe5-d836c4e190a5"
+            }
+        },
+        {
+            "value": "http://www.yovisto.com/resource",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "3738af52-f560-4ab7-b40f-750e0a7f89e9",
+                "package_id": "78fad339-ff47-4c18-afe5-d836c4e190a5"
+            }
+        },
+        {
+            "value": "yovisto",
+            "key": "shortname",
+            "__extras": {
+                "revision_id": "3738af52-f560-4ab7-b40f-750e0a7f89e9",
+                "package_id": "78fad339-ff47-4c18-afe5-d836c4e190a5"
+            }
+        },
+        {
+            "value": "http://www.yovisto.com",
+            "key": "sparql_graph_name",
+            "__extras": {
+                "revision_id": "3738af52-f560-4ab7-b40f-750e0a7f89e9",
+                "package_id": "78fad339-ff47-4c18-afe5-d836c4e190a5"
+            }
+        },
+        {
+            "value": "4932352",
+            "key": "triples",
+            "__extras": {
+                "package_id": "78fad339-ff47-4c18-afe5-d836c4e190a5",
+                "revision_id": "02578272-0529-4014-b482-1df7fdebd857"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "organization": {
+        "description": "This group gathers datasets of relevance to educational applications. it includes data about open educational resources (OER) and items which were created with an explicit educational purpose, as well as otherwise relevant datasets (academic publications, video assets, etc). All datasets included should expose linked data, and provide at least a SPARQL endpoint. For any enquiries, please contact the administrators via data@linkededucation.org.",
+        "title": "Linked Education Cloud",
+        "created": "2012-10-11T12:20:43.297930",
+        "approval_status": "approved",
+        "revision_timestamp": "2013-01-03T09:51:09.067990",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "",
+        "revision_id": "db4324b3-511f-43a7-ae1b-1940b9a5dc93",
+        "type": "organization",
+        "id": "1a24e0c3-013b-481d-b25c-f36c651315d8",
+        "name": "linked-education"
+    },
+    "revision_id": "bb41dfbd-9e15-430b-aca9-3951a5dd58fc",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

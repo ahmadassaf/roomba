@@ -1,0 +1,242 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-10T23:59:20.490289",
+    "id": "a8552764-5ead-4f74-9154-ad3bc43e0daf",
+    "metadata_created": "2010-09-02T08:56:32.939965",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T23:59:20.490289",
+    "author": "Uberblic Labs",
+    "author_email": "contact@uberblic.com",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Download",
+            "format": "",
+            "url": "http://platform.uberblic.org/dumps/",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 18,
+                "recent": 6
+            },
+            "revision_timestamp": "2010-09-30T19:57:52.435363",
+            "webstore_url": null,
+            "resource_group_id": "581dd808-da88-de87-24a4-9bd01aa09a84",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "0aabc6db-d7b5-4898-9d4e-559a8248ddf7",
+            "size": null,
+            "id": "4e7e072c-cdbf-45e5-9781-a90c466d62f1",
+            "resource_type": null,
+            "name": null
+        },
+        {
+            "mimetype": null,
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Example (RDF/XML)",
+            "format": "example/rdf+xml",
+            "url": "http://uberblic.org/resource/55c53674-2ac1-4070-8e56-3fd780ab9aa1#thing",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 17,
+                "recent": 3
+            },
+            "revision_timestamp": "2010-10-06T21:33:50.023198",
+            "webstore_url": null,
+            "resource_group_id": "581dd808-da88-de87-24a4-9bd01aa09a84",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "566cc5aa-5975-492d-9d1d-cbf0246aa314",
+            "size": null,
+            "id": "35a58434-d555-4d20-8111-50e47ee012ab",
+            "resource_type": null,
+            "name": null
+        },
+        {
+            "mimetype": null,
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Sparql endpoint",
+            "format": "api/sparql",
+            "url": "http://platform.uberblic.org/api/v1/sparql",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 13,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-07-18T22:51:51.853261",
+            "webstore_url": null,
+            "resource_group_id": "581dd808-da88-de87-24a4-9bd01aa09a84",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "35cc2943-ef5c-488b-b04b-f0460e42b21b",
+            "size": null,
+            "id": "abcc5796-663b-45b8-b911-01ef787af012",
+            "resource_type": null,
+            "name": null
+        }
+    ],
+    "num_resources": 3,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "crossdomain",
+            "name": "crossdomain",
+            "revision_timestamp": "2010-10-06T22:01:27.214636",
+            "state": "active",
+            "id": "833848ee-ef06-4283-bb26-164f6c3474b4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2010-09-02T08:56:32.939965",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdfs",
+            "name": "format-rdfs",
+            "revision_timestamp": "2010-10-05T15:39:11.930037",
+            "state": "active",
+            "id": "781902f8-ba13-4330-bba3-54d0bbf24b58"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2010-09-02T08:56:32.939965",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2010-10-06T21:33:50.023198",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-proprietary-vocab",
+            "name": "no-proprietary-vocab",
+            "revision_timestamp": "2010-10-06T21:33:50.023198",
+            "state": "active",
+            "id": "aef04cb8-a7aa-4419-8184-396b0ef6e680"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-provenance-metadata",
+            "name": "no-provenance-metadata",
+            "revision_timestamp": "2010-10-06T21:33:50.023198",
+            "state": "active",
+            "id": "585e9fca-2d67-4a07-b9d1-5495de054c7a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-vocab-mappings",
+            "name": "no-vocab-mappings",
+            "revision_timestamp": "2010-10-06T21:33:50.023198",
+            "state": "active",
+            "id": "e51273d8-dc60-4cf2-a68d-3cfd33b2c1fc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2010-10-06T21:33:50.023198",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        }
+    ],
+    "tracking_summary": {
+        "total": 478,
+        "recent": 16
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 9,
+    "name": "uberblic",
+    "isopen": false,
+    "url": "http://platform.uberblic.org",
+    "notes": "### SPARQL access\r\n\r\nAccording to [this page](http://uberblic.org/developers/apis/sparql/), there should be a SPARQL endpoint at [this location](http://platform.uberblic.org/api/v1/sparql), but it refuses any request with a 403 Not Authorized error.",
+    "title": "Uberblic.org",
+    "extras": [
+        {
+            "value": "1196",
+            "key": "links:dbpedia",
+            "__extras": {
+                "package_id": "a8552764-5ead-4f74-9154-ad3bc43e0daf",
+                "revision_id": "93641f7a-038f-4725-b84b-126aecc4b606"
+            }
+        },
+        {
+            "value": "155193",
+            "key": "links:freebase",
+            "__extras": {
+                "revision_id": "93641f7a-038f-4725-b84b-126aecc4b606",
+                "package_id": "a8552764-5ead-4f74-9154-ad3bc43e0daf"
+            }
+        },
+        {
+            "value": "135132",
+            "key": "links:geonames-semantic-web",
+            "__extras": {
+                "revision_id": "93641f7a-038f-4725-b84b-126aecc4b606",
+                "package_id": "a8552764-5ead-4f74-9154-ad3bc43e0daf"
+            }
+        },
+        {
+            "value": "http://uberblic.org/resource/",
+            "key": "namespace",
+            "__extras": {
+                "package_id": "a8552764-5ead-4f74-9154-ad3bc43e0daf",
+                "revision_id": "5b3c7df3-d660-4e60-baf8-d60300877882"
+            }
+        },
+        {
+            "value": "100000000",
+            "key": "triples",
+            "__extras": {
+                "package_id": "a8552764-5ead-4f74-9154-ad3bc43e0daf",
+                "revision_id": "1cba8394-d607-4461-a4ee-23b3c563dba8"
+            }
+        }
+    ],
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "8db60ab3-ed84-48f2-89df-a726f852d707"
+}

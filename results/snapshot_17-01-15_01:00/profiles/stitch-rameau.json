@@ -1,0 +1,361 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-10T23:44:16.977071",
+    "id": "0771043e-bb00-40eb-86aa-10b09769969e",
+    "metadata_created": "2009-10-27T19:02:08.925684",
+    "owner_org": "ed47c074-2073-48d3-b852-03b01bc70703",
+    "metadata_modified": "2013-10-10T23:44:16.977071",
+    "author": "Antoine Isaac <http://www.few.vu.nl/~aisaac>, Rameau committee <http://rameau.bnf.fr>",
+    "author_email": "aisaac@few.vu.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "application/x-gzip",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Subject headings (SKOS)",
+            "format": "application/rdf+xml",
+            "url": "http://www.cs.vu.nl/STITCH/rameau/dump/Rameau.skos.gz",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 45,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-06-06T11:42:27.621638",
+            "webstore_url": "",
+            "resource_group_id": "fcca131d-b8c9-fb07-065c-7cd3b7c19378",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "779c1148-ddab-41ee-880a-8227e213f6ac",
+            "size": "13591393",
+            "id": "35bcf8a2-89ed-4adb-a041-f6fba6c3b82f",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/x-gzip",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "LCSH mappings (SKOS)",
+            "format": "application/rdf+xml",
+            "url": "http://www.cs.vu.nl/STITCH/rameau/dump/MACSMapping-Rameau_LCSH.skos.gz",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 21,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-06-06T11:42:27.621638",
+            "webstore_url": "",
+            "resource_group_id": "fcca131d-b8c9-fb07-065c-7cd3b7c19378",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "779c1148-ddab-41ee-880a-8227e213f6ac",
+            "size": "536256",
+            "id": "ef58e06e-bd33-400e-be89-9708a0180c5c",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/zip",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "SWD mappings (SKOS)",
+            "format": "application/rdf+xml",
+            "url": "http://www.cs.vu.nl/STITCH/rameau/dump/MACSMappings-Rameau_SWD.rdf.zip",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 21,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-06-06T11:42:27.621638",
+            "webstore_url": "",
+            "resource_group_id": "fcca131d-b8c9-fb07-065c-7cd3b7c19378",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "779c1148-ddab-41ee-880a-8227e213f6ac",
+            "size": "279572",
+            "id": "a0ccf702-33b7-4f34-8446-d9899b7c01d9",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Example resource",
+            "format": "example/rdf+xml",
+            "url": "http://stitch.cs.vu.nl/vocabularies/rameau/autorites_matieres",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 17,
+                "recent": 4
+            },
+            "revision_timestamp": "2012-06-06T11:42:27.621638",
+            "webstore_url": "",
+            "resource_group_id": "fcca131d-b8c9-fb07-065c-7cd3b7c19378",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 3,
+            "revision_id": "779c1148-ddab-41ee-880a-8227e213f6ac",
+            "size": null,
+            "id": "8e9de77c-c517-4723-abdf-3726d1378028",
+            "resource_type": "file",
+            "name": ""
+        },
+        {
+            "mimetype": "",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "RAMEAU data in the officiel data.bnf.fr (open license)",
+            "format": "",
+            "url": "http://echanges.bnf.fr/PIVOT/databnf_all_rdf_xml.tar.gz?user=databnf&password=databnf",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 29,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-06-06T11:42:27.621638",
+            "webstore_url": "",
+            "resource_group_id": "fcca131d-b8c9-fb07-065c-7cd3b7c19378",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 4,
+            "revision_id": "779c1148-ddab-41ee-880a-8227e213f6ac",
+            "size": null,
+            "id": "054a93ca-59de-45ef-98f1-b4c1b250011b",
+            "resource_type": "file",
+            "name": "Dump at data.bnf.fr"
+        }
+    ],
+    "num_resources": 5,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "authorities",
+            "name": "authorities",
+            "revision_timestamp": "2013-08-20T09:09:58.415863",
+            "state": "active",
+            "id": "180f8b50-ac1d-4174-a555-7bcaefbd46dd"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "ckanupload.esw.200910",
+            "name": "ckanupload.esw.200910",
+            "revision_timestamp": "2009-10-27T19:02:08.925684",
+            "state": "active",
+            "id": "a02db6d4-95bd-4766-93f9-c34a087cadf8"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "decommissioned",
+            "name": "decommissioned",
+            "revision_timestamp": "2012-06-06T11:42:27.621638",
+            "state": "active",
+            "id": "07b48c63-6366-40e5-a297-b4cd5a9b2e35"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2009-10-27T19:02:08.925684",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-skos",
+            "name": "format-skos",
+            "revision_timestamp": "2010-07-26T22:40:40.738598",
+            "state": "active",
+            "id": "4d405572-6308-41ed-a021-1990e618a626"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "library",
+            "name": "library",
+            "revision_timestamp": "2009-10-27T19:02:08.925684",
+            "state": "active",
+            "id": "7ec1ef56-6c27-4299-a3fa-578756ddc421"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "linkeddata",
+            "name": "linkeddata",
+            "revision_timestamp": "2009-10-30T17:59:38.177280",
+            "state": "active",
+            "id": "7b2b43f4-096d-4367-b702-e1d1a8442664"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lld",
+            "name": "lld",
+            "revision_timestamp": "2011-07-28T15:26:07.615487",
+            "state": "active",
+            "id": "c1dea2c0-3fb8-47b8-9b37-c076756e6420"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2009-10-30T17:59:38.177280",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-deref-vocab",
+            "name": "no-deref-vocab",
+            "revision_timestamp": "2010-10-07T08:38:50.389335",
+            "state": "active",
+            "id": "89a72f73-c7f6-4814-9e3d-3fff825c22f8"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2010-10-07T08:38:50.389335",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-provenance-metadata",
+            "name": "no-provenance-metadata",
+            "revision_timestamp": "2010-10-07T08:38:50.389335",
+            "state": "active",
+            "id": "585e9fca-2d67-4a07-b9d1-5495de054c7a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-vocab-mappings",
+            "name": "no-vocab-mappings",
+            "revision_timestamp": "2010-10-07T08:38:50.389335",
+            "state": "active",
+            "id": "e51273d8-dc60-4cf2-a68d-3cfd33b2c1fc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "publications",
+            "name": "publications",
+            "revision_timestamp": "2010-10-07T08:38:50.389335",
+            "state": "active",
+            "id": "c93ebe8f-83a0-498c-8704-1de94db149e9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2010-10-07T08:38:50.389335",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "rdf",
+            "name": "rdf",
+            "revision_timestamp": "2009-10-27T19:02:08.925684",
+            "state": "active",
+            "id": "6ae4215c-a85b-457c-862b-5a8718b02c6f"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "vu",
+            "name": "vu",
+            "revision_timestamp": "2010-09-07T12:21:08.450450",
+            "state": "active",
+            "id": "60cc3c8f-8595-4cfe-b820-765f4d1dab0e"
+        }
+    ],
+    "tracking_summary": {
+        "total": 407,
+        "recent": 5
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 17,
+    "name": "stitch-rameau",
+    "isopen": false,
+    "url": "http://stitch.cs.vu.nl/rameau/",
+    "notes": "Data exposed: SKOS representation of the RAMEAU book indexing vocabulary, maintained by the French National Library (BnF)\r\nSize of dump and data set: 130 MB uncompressed\r\nNotes: aligned to LCSH and SWD via SKOS mapping links\r\n\r\nPublished as SKOS/RDF by the STITCH project.\r\n\r\nAs of February 2012, URIs of the RAMEAU concepts redirect to equivalent descriptions at data.bnf.fr, see http://data.bnf.fr/semanticweb-en",
+    "title": "RAMEAU subject headings (STITCH)",
+    "extras": [
+        {
+            "value": "700",
+            "key": "links:agrovoc-skos",
+            "__extras": {
+                "revision_id": "fc4e97c1-1d77-48f2-948b-38870ef61af3",
+                "package_id": "0771043e-bb00-40eb-86aa-10b09769969e"
+            }
+        },
+        {
+            "value": "20000",
+            "key": "links:dnb-gemeinsame-normdatei",
+            "__extras": {
+                "revision_id": "4762c4d3-f97a-4dc4-a836-e63fc7a0b087",
+                "package_id": "0771043e-bb00-40eb-86aa-10b09769969e"
+            }
+        },
+        {
+            "value": "60000",
+            "key": "links:lcsh",
+            "__extras": {
+                "revision_id": "a3b401c4-edbe-4391-b22f-a8890a4388ce",
+                "package_id": "0771043e-bb00-40eb-86aa-10b09769969e"
+            }
+        },
+        {
+            "value": "http://stitch.cs.vu.nl/vocabularies/rameau/",
+            "key": "namespace",
+            "__extras": {
+                "package_id": "0771043e-bb00-40eb-86aa-10b09769969e",
+                "revision_id": "026fe1cc-e3ea-4980-8e52-6aec70de8cbd"
+            }
+        },
+        {
+            "value": "1619918",
+            "key": "triples",
+            "__extras": {
+                "package_id": "0771043e-bb00-40eb-86aa-10b09769969e",
+                "revision_id": "63c56ef8-b6d4-4c1e-a4f2-9e8cb0242fbe"
+            }
+        }
+    ],
+    "organization": {
+        "description": "Group for Library Linked Data\r\n\r\nPolicy described at: <a href=\"http://esw.w3.org/TaskForces/CommunityProjects/LinkedLibraryData/Datasets/CKANmetainformation\r\n\">http://esw.w3.org/TaskForces/CommunityProjects/LinkedLibraryData/Datasets/CKANmetainformation</a>\r\n\r\nCloud (partial) available at <a href=\"http://semantic.ckan.net/group/?group=http://ckan.net/group/lld\">http://semantic.ckan.net/group/?group=http://ckan.net/group/lld</a>. The brightly coloured circles represent the packages that are part of the LLD group. They grey circles represent packages that are connected to but are not members of this group (they typically are members of the general <a href=\"http://ckan.net/group/lod\">LOD Cloud</a> group). The size of the circles and the thickness of the lines are related to the size of the data and the number of outward links (logarithmic) respectively. ",
+        "title": "Library Linked Data",
+        "created": "2010-11-22T15:48:11.963288",
+        "approval_status": "approved",
+        "revision_timestamp": "2011-08-12T22:25:01.711856",
+        "is_organization": true,
+        "state": "active",
+        "image_url": null,
+        "revision_id": "2292e642-27e2-43e9-9673-879b29e4da19",
+        "type": "organization",
+        "id": "ed47c074-2073-48d3-b852-03b01bc70703",
+        "name": "lld"
+    },
+    "revision_id": "b5abd197-420e-4155-906f-22a61e4ee2c0"
+}

@@ -1,0 +1,373 @@
+{
+    "license_title": "Open Data Commons Public Domain Dedication and Licence 1.0",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-10T23:01:39.132569",
+    "id": "32bf1a4e-b5cd-46c3-a7d2-c4fd53cbe3f7",
+    "metadata_created": "2010-09-07T17:56:16.979690",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T23:01:39.132569",
+    "author": "David De Roure",
+    "author_email": "david.deroure@oerc.ox.ac.uk",
+    "state": "active",
+    "version": "",
+    "license_id": "ODC-PDDL-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Download (RDF/XML)",
+            "format": "application/rdf+xml",
+            "url": "http://rdf.myexperiment.org/myexperiment.rdf.gz",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 23,
+                "recent": 7
+            },
+            "revision_timestamp": "2010-09-20T12:15:55.887050",
+            "webstore_url": null,
+            "resource_group_id": "a898f796-cc01-391f-910b-190377851cc6",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "9b88b251-e274-4c4a-993e-971fd4043531",
+            "size": null,
+            "id": "19321400-af6a-4e64-a206-8131cfe6d19f",
+            "resource_type": null,
+            "name": null
+        },
+        {
+            "mimetype": "application/xml",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "SPARQL endpoint",
+            "format": "api/sparql",
+            "url": "http://rdf.myexperiment.org/sparql/",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 13,
+                "recent": 3
+            },
+            "revision_timestamp": "2010-09-20T12:15:55.887050",
+            "webstore_url": null,
+            "resource_group_id": "a898f796-cc01-391f-910b-190377851cc6",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "9b88b251-e274-4c4a-993e-971fd4043531",
+            "size": null,
+            "id": "d25cd846-38fe-4ea0-be9a-2dbd335ebb35",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "VoiD description updated daily",
+            "format": "meta/void",
+            "url": "http://rdf.myexperiment.org/void.rdf",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 3,
+                "recent": 3
+            },
+            "revision_timestamp": "2010-09-20T12:15:55.887050",
+            "webstore_url": null,
+            "resource_group_id": "a898f796-cc01-391f-910b-190377851cc6",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "9b88b251-e274-4c4a-993e-971fd4043531",
+            "size": "6190",
+            "id": "2a2e0601-220c-4cb7-853b-4352f02b8526",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Example workflow (RDF/XML)",
+            "format": "example/rdf+xml",
+            "url": "http://www.myexperiment.org/workflows/12",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 15,
+                "recent": 3
+            },
+            "revision_timestamp": "2010-09-20T12:15:55.887050",
+            "webstore_url": null,
+            "resource_group_id": "a898f796-cc01-391f-910b-190377851cc6",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 3,
+            "revision_id": "9b88b251-e274-4c4a-993e-971fd4043531",
+            "size": "38767",
+            "id": "51c08de8-794f-438d-b536-d1e20d2e7340",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Example user (RDF/XML)",
+            "format": "example/rdf+xml",
+            "url": "http://www.myexperiment.org/users/26",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 13,
+                "recent": 3
+            },
+            "revision_timestamp": "2010-09-20T12:15:55.887050",
+            "webstore_url": null,
+            "resource_group_id": "a898f796-cc01-391f-910b-190377851cc6",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 4,
+            "revision_id": "9b88b251-e274-4c4a-993e-971fd4043531",
+            "size": "15708",
+            "id": "32ce72e0-19de-4b0a-9e86-a0b30a16a474",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 5,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "bioinformatics",
+            "name": "bioinformatics",
+            "revision_timestamp": "2010-09-08T06:37:20.993332",
+            "state": "active",
+            "id": "eac6dd38-b48f-4aa2-b9f9-8b04aaf8821a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2011-07-15T11:30:47.126385",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-dbo",
+            "name": "format-dbo",
+            "revision_timestamp": "2010-09-20T12:30:09.019955",
+            "state": "active",
+            "id": "0ebc2617-a23f-4616-9fb2-e9c3e4adcf2b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-dc",
+            "name": "format-dc",
+            "revision_timestamp": "2010-09-20T12:30:09.019955",
+            "state": "active",
+            "id": "0b675a54-621f-4fdb-850a-ef5d0b1b1ca3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-foaf",
+            "name": "format-foaf",
+            "revision_timestamp": "2010-09-20T12:30:09.019955",
+            "state": "active",
+            "id": "bd737030-1ba6-4913-baaa-bfa2581618b5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-ore",
+            "name": "format-ore",
+            "revision_timestamp": "2011-07-17T21:22:20.475312",
+            "state": "active",
+            "id": "5db400f1-2f43-49bf-a345-e9db943076c6"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2010-09-07T17:56:16.979690",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-sioc",
+            "name": "format-sioc",
+            "revision_timestamp": "2010-09-20T12:30:09.019955",
+            "state": "active",
+            "id": "7a334e2f-c6b6-4ef0-aefe-20b14d14718e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "license-metadata",
+            "name": "license-metadata",
+            "revision_timestamp": "2011-07-24T17:20:37.772829",
+            "state": "active",
+            "id": "8d7e5c73-261b-4137-a278-42f56a6ec4bb"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2010-09-07T17:56:16.979690",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "openscience",
+            "name": "openscience",
+            "revision_timestamp": "2010-09-08T06:37:20.993332",
+            "state": "active",
+            "id": "41c41857-fbf3-49ad-8c99-f75db3602809"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "provenance-metadata",
+            "name": "provenance-metadata",
+            "revision_timestamp": "2011-07-24T16:57:58.046297",
+            "state": "active",
+            "id": "24a0f0a3-36bc-4209-84e5-7d6b89d82dfa"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2011-07-15T11:35:07.940680",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "reproducible",
+            "name": "reproducible",
+            "revision_timestamp": "2010-09-08T15:12:58.876138",
+            "state": "active",
+            "id": "f0b8eceb-f8a8-40a4-9898-c12337a5c9ef"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "science",
+            "name": "science",
+            "revision_timestamp": "2010-09-08T06:37:20.993332",
+            "state": "active",
+            "id": "8cda05a5-8312-46aa-b077-571b97363826"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "usergeneratedcontent",
+            "name": "usergeneratedcontent",
+            "revision_timestamp": "2010-09-07T18:19:00.646970",
+            "state": "active",
+            "id": "e9b2da79-5971-41f9-a314-36d368636b85"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "void-sparql-endpoint",
+            "name": "void-sparql-endpoint",
+            "revision_timestamp": "2011-07-24T11:54:47.588323",
+            "state": "active",
+            "id": "9d821331-6c26-4261-bd2b-12dab19d508e"
+        }
+    ],
+    "tracking_summary": {
+        "total": 423,
+        "recent": 3
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 17,
+    "name": "my-experiment",
+    "isopen": true,
+    "url": "http://www.myexperiment.org",
+    "notes": "[myExperiment](http://www.myexperiment.org) is a social web site for researchers sharing scientific workflows and \"packs\" (aggregations of resources).\r\n\r\nAs of September 2010 it has several thousand members and a collection of around 1300 workflows, 350 files and 130 packs. It is the largest public collection of scientific workflows.\r\n\r\nmyExperiment contains user-generated content, The RDF description of the public content is available under PDDL, while the actual user-generated content has separate licenses on a per-item basis.\r\n\r\nThe site was the subject of the keynote \"[Repositories and Linked Open Data: the view from myExperiment](http://www.myexperiment.org/packs/131)\" by David De Roure at Open Repositories 2010 in Madrid, Spain.\r\n\r\nmyExperiment has three sister projects:\r\n\r\n* The [BioCatalogue](http://www.biocatalogue.org/) - see package:biocatalogue\r\n* [SysmoDB](http://www.sysmo-db.org/) - see package:sysmo-db\r\n* [MethodBox](http://www.methodbox.org/)",
+    "title": "myExperiment",
+    "extras": [
+        {
+            "value": "2586",
+            "key": "links:dbpedia",
+            "__extras": {
+                "revision_id": "a28af6f5-43ed-4ad9-8418-07ee96b0f6a5",
+                "package_id": "32bf1a4e-b5cd-46c3-a7d2-c4fd53cbe3f7"
+            }
+        },
+        {
+            "value": "168",
+            "key": "links:l3s-dblp",
+            "__extras": {
+                "revision_id": "9b88b251-e274-4c4a-993e-971fd4043531",
+                "package_id": "32bf1a4e-b5cd-46c3-a7d2-c4fd53cbe3f7"
+            }
+        },
+        {
+            "value": "48",
+            "key": "links:southampton-ecs-eprints",
+            "__extras": {
+                "revision_id": "9b88b251-e274-4c4a-993e-971fd4043531",
+                "package_id": "32bf1a4e-b5cd-46c3-a7d2-c4fd53cbe3f7"
+            }
+        },
+        {
+            "value": "myExperiment",
+            "key": "shortname",
+            "__extras": {
+                "package_id": "32bf1a4e-b5cd-46c3-a7d2-c4fd53cbe3f7",
+                "revision_id": "161bafe2-bc73-4416-83d6-3e3791f9d50f"
+            }
+        },
+        {
+            "value": "660342",
+            "key": "triples",
+            "__extras": {
+                "package_id": "32bf1a4e-b5cd-46c3-a7d2-c4fd53cbe3f7",
+                "revision_id": "44195642-7d28-4ce3-820b-3d0946f9ee31"
+            }
+        }
+    ],
+    "license_url": "http://www.opendefinition.org/licenses/odc-pddl",
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "56d29808-7804-4d34-be89-db8b5a0a38f9",
+    "license_information": {
+        "domain_content": false,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "",
+        "status": "active"
+    }
+}

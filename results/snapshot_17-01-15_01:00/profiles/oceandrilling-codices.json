@@ -1,0 +1,303 @@
+{
+    "license_title": "Other (Attribution)",
+    "maintainer": "Douglas Fils",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "dfils@oceanleadership.org",
+    "revision_timestamp": "2013-10-10T23:12:45.189448",
+    "id": "de32ac86-fe71-41db-bbd6-eb1a7f0cb9dc",
+    "metadata_created": "2011-06-30T16:18:56.999760",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T23:12:45.189448",
+    "author": "Consortium for Ocean Leadership",
+    "author_email": "dfils@oceanleadership.org",
+    "state": "active",
+    "version": "",
+    "license_id": "other-at",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "SPARQL Endpoint",
+            "format": "api/sparql",
+            "url": "http://data.oceandrilling.org/sparql",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 29,
+                "recent": 5
+            },
+            "revision_timestamp": "2011-06-30T16:18:56.999760",
+            "webstore_url": null,
+            "resource_group_id": "eb91bb21-c71d-4c0c-b26e-a6b51009b082",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "826363f0-0912-4828-9318-7314d0d4827d",
+            "size": "11713",
+            "id": "8534c64e-cff5-4ad1-b899-2bc374801d21",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": null,
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Turtle serialization of Codices data",
+            "format": "text/turtle",
+            "url": "http://data.oceandrilling.org/models/codices.ttl",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 5,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-07-17T18:15:58.989459",
+            "webstore_url": null,
+            "resource_group_id": "eb91bb21-c71d-4c0c-b26e-a6b51009b082",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "8ce5c9d5-0f8f-4a98-8667-d57f0a5dfebb",
+            "size": null,
+            "id": "417e1ab2-3f96-4853-abfe-bbbe014c58b6",
+            "resource_type": null,
+            "name": null
+        },
+        {
+            "mimetype": "text/plain",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "voiD document",
+            "format": "meta/void",
+            "url": "http://data.oceandrilling.org/descriptions/codices.void",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 5,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-07-05T22:25:54.928084",
+            "webstore_url": null,
+            "resource_group_id": "eb91bb21-c71d-4c0c-b26e-a6b51009b082",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "32964380-5eca-4556-9b38-faa5560e706e",
+            "size": "1902",
+            "id": "04dcf051-322e-4231-b053-40e4aa5754c3",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": null,
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Example resource",
+            "format": "example/rdf+xml",
+            "url": "http://data.oceandrilling.org/codices/lsh/313/1/C",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 12,
+                "recent": 6
+            },
+            "revision_timestamp": "2011-07-18T16:32:03.359271",
+            "webstore_url": null,
+            "resource_group_id": "eb91bb21-c71d-4c0c-b26e-a6b51009b082",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 3,
+            "revision_id": "2ea3a3ec-f2c5-4ba8-a69d-c6f725b39c32",
+            "size": null,
+            "id": "69e1e004-20a7-4273-b809-9b69bdbb7640",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 4,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "drilling",
+            "name": "drilling",
+            "revision_timestamp": "2011-06-30T16:18:56.999760",
+            "state": "active",
+            "id": "ee48f43c-0e1a-4c27-ae89-08f5ffa229fb"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-geo",
+            "name": "format-geo",
+            "revision_timestamp": "2011-07-19T11:10:41.402450",
+            "state": "active",
+            "id": "16f204d1-2004-4b26-97c9-93a8e42cc506"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-owl",
+            "name": "format-owl",
+            "revision_timestamp": "2011-07-19T11:10:41.402450",
+            "state": "active",
+            "id": "b88f7bba-f82e-49b2-9672-4cca65e040de"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-skos",
+            "name": "format-skos",
+            "revision_timestamp": "2011-07-19T11:10:41.402450",
+            "state": "active",
+            "id": "4d405572-6308-41ed-a021-1990e618a626"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "geographic",
+            "name": "geographic",
+            "revision_timestamp": "2011-06-30T16:18:56.999760",
+            "state": "active",
+            "id": "dc08d94b-fbac-4bfc-92f0-94bee5fd546a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "license-metadata",
+            "name": "license-metadata",
+            "revision_timestamp": "2011-07-20T19:19:20.971914",
+            "state": "active",
+            "id": "8d7e5c73-261b-4137-a278-42f56a6ec4bb"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2011-06-30T16:18:56.999760",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-deref-vocab",
+            "name": "no-deref-vocab",
+            "revision_timestamp": "2011-06-30T16:18:56.999760",
+            "state": "active",
+            "id": "89a72f73-c7f6-4814-9e3d-3fff825c22f8"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "ocean",
+            "name": "ocean",
+            "revision_timestamp": "2011-06-30T16:18:56.999760",
+            "state": "active",
+            "id": "62c5f92c-9617-45b4-802c-8f35e4abe463"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "provenance-metadata",
+            "name": "provenance-metadata",
+            "revision_timestamp": "2011-07-24T16:57:51.713338",
+            "state": "active",
+            "id": "24a0f0a3-36bc-4209-84e5-7d6b89d82dfa"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-producer",
+            "name": "published-by-producer",
+            "revision_timestamp": "2011-06-30T16:18:56.999760",
+            "state": "active",
+            "id": "fcdb5c0a-2b91-44cb-83e5-19fd0d81125c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "void-sparql-endpoint",
+            "name": "void-sparql-endpoint",
+            "revision_timestamp": "2011-07-24T11:54:42.523951",
+            "state": "active",
+            "id": "9d821331-6c26-4261-bd2b-12dab19d508e"
+        }
+    ],
+    "tracking_summary": {
+        "total": 217,
+        "recent": 7
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 12,
+    "name": "oceandrilling-codices",
+    "isopen": true,
+    "url": "http://data.oceandrilling.org/codices/",
+    "notes": "Codices:  Drill Site and Expedition Data\r\n\r\nCodices exposes general site data (location, depth, recovery, etc) along with publication links and other associated data.\r\n\r\n\r\nWe are still in a development mode and working in particular and the namespace URI's and their hosting. So some elements here will change as we tweak responsibility for maintaining namespaces and curating them. You are welcome (encouraged) to explore our sparql endpoint (http://data.oceandrilling.org/sparql) and engage us, comment and criticize. (Doug)\r\n\r\nThis site is guided by the linked data pattern (http://linkeddata.org/). Information on this effort and the steps being taken to expose data in this approach are described here.\r\n\r\nThis data represents only a small percentage of the data available but is sufficient for testing at this time. Additional data related to log files from LDEO, timescales from CHRONOS and data from TAMU are yet to be loaded. \r\n\r\nhttp://data.oceandrilling.org/linkeddata.html",
+    "title": "Ocean Drilling - Codices",
+    "extras": [
+        {
+            "value": "http://data.oceandrilling.org/codices#",
+            "key": "default_graph",
+            "__extras": {
+                "package_id": "de32ac86-fe71-41db-bbd6-eb1a7f0cb9dc",
+                "revision_id": "826363f0-0912-4828-9318-7314d0d4827d"
+            }
+        },
+        {
+            "value": "http://creativecommons.org/licenses/by-nc-sa/3.0/us",
+            "key": "license_link",
+            "__extras": {
+                "revision_id": "947acccc-6dfb-4c28-a455-ce4eb42eca79",
+                "package_id": "de32ac86-fe71-41db-bbd6-eb1a7f0cb9dc"
+            }
+        },
+        {
+            "value": "3022",
+            "key": "links:dbpedia",
+            "__extras": {
+                "revision_id": "6c812352-26c9-4234-b495-058fe50794f2",
+                "package_id": "de32ac86-fe71-41db-bbd6-eb1a7f0cb9dc"
+            }
+        },
+        {
+            "value": "3022",
+            "key": "links:freebase",
+            "__extras": {
+                "package_id": "de32ac86-fe71-41db-bbd6-eb1a7f0cb9dc",
+                "revision_id": "6c812352-26c9-4234-b495-058fe50794f2"
+            }
+        },
+        {
+            "value": "http://data.oceandrilling.org/codices/",
+            "key": "namespace",
+            "__extras": {
+                "package_id": "de32ac86-fe71-41db-bbd6-eb1a7f0cb9dc",
+                "revision_id": "6fc86a81-c5b2-4038-9705-7f56e33a23ca"
+            }
+        },
+        {
+            "value": "24489366",
+            "key": "triples",
+            "__extras": {
+                "package_id": "de32ac86-fe71-41db-bbd6-eb1a7f0cb9dc",
+                "revision_id": "27f3fae5-bc36-40a6-ae0b-8eb5cafc77ec"
+            }
+        }
+    ],
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "db91ea99-a9f2-497e-84c5-3b9b94fca967"
+}

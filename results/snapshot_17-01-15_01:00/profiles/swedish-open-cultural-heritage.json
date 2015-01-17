@@ -1,0 +1,290 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "Börje Lewin",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "borje.lewin@raa.se",
+    "revision_timestamp": "2013-10-10T23:47:30.603863",
+    "id": "6077a272-efe4-406c-9123-ca487ac91dbe",
+    "metadata_created": "2010-12-10T07:27:48.196575",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T23:47:30.603863",
+    "author": "Börje Lewin",
+    "author_email": "borje.lewin@raa.se",
+    "state": "active",
+    "version": "1.0",
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Enterence page for browsing the data",
+            "format": "HTML",
+            "url": "http://kringla.nu",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 11,
+                "recent": 3
+            },
+            "revision_timestamp": "2010-12-10T07:27:48.196575",
+            "webstore_url": null,
+            "resource_group_id": "f38e1741-b60d-3616-25fb-37acf6f77118",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "b02a1f40-9105-4ee7-96b4-46c1dc78133e",
+            "size": null,
+            "id": "80f4e13b-3883-4d6a-b0de-2478b3745856",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "description for how to use the SOCH API",
+            "format": "HTML",
+            "url": "http://www.ksamsok.se/in-english/api/",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 3,
+                "recent": 3
+            },
+            "revision_timestamp": "2010-12-10T07:27:48.196575",
+            "webstore_url": null,
+            "resource_group_id": "f38e1741-b60d-3616-25fb-37acf6f77118",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "b02a1f40-9105-4ee7-96b4-46c1dc78133e",
+            "size": null,
+            "id": "bdc3a0f8-4067-4489-960a-2cfb9a2ec463",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Demo application showing url priciples more closely",
+            "format": "HTML",
+            "url": "http://www.ksamsok.se/tools/demo/loppan/loppan.html",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 7,
+                "recent": 3
+            },
+            "revision_timestamp": "2010-12-10T07:27:48.196575",
+            "webstore_url": null,
+            "resource_group_id": "f38e1741-b60d-3616-25fb-37acf6f77118",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "b02a1f40-9105-4ee7-96b4-46c1dc78133e",
+            "size": "9460",
+            "id": "74f34abd-e1c8-4626-8ce8-923f5e14ffa5",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/xml",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "rdf sample",
+            "format": "application/rdf+xml",
+            "url": "http://kulturarvsdata.se/ksamsok/api?stylesheet=&x-api=test&method=search&hitsPerPage=50&query=item%3D%22Docka%22+and+create_toTime%3E%3D1700+and+create_fromTime%3C%3D1799",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "revision_timestamp": "2011-07-19T11:17:46.861880",
+            "webstore_url": null,
+            "resource_group_id": "f38e1741-b60d-3616-25fb-37acf6f77118",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 3,
+            "revision_id": "e7ebc515-ea12-45d7-aeae-f14e878571e7",
+            "size": "413226",
+            "id": "82d0479c-11ac-4a15-be16-e85c6248c75f",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": null,
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Example (RDF/XML)",
+            "format": "example/rdf+xml",
+            "url": "http://kulturarvsdata.se/NOMU/object/NM0151866",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 9,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-07-19T11:02:12.677188",
+            "webstore_url": null,
+            "resource_group_id": "f38e1741-b60d-3616-25fb-37acf6f77118",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 4,
+            "revision_id": "a2b2eaed-784a-4c2c-89a8-d2ad47410e1b",
+            "size": null,
+            "id": "a03f5fa4-d88b-4e89-9982-51694a93df18",
+            "resource_type": null,
+            "name": null
+        }
+    ],
+    "num_resources": 5,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "cultural",
+            "name": "cultural",
+            "revision_timestamp": "2010-12-10T07:27:48.196575",
+            "state": "active",
+            "id": "7c29bf28-75ef-4441-b859-21f8361d6d40"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "cultural-institutions",
+            "name": "cultural-institutions",
+            "revision_timestamp": "2010-12-10T07:27:48.196575",
+            "state": "active",
+            "id": "dc4daa47-bd1f-47f1-acb3-821eb6e6ac7d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "culturalheritage",
+            "name": "culturalheritage",
+            "revision_timestamp": "2010-12-10T07:27:48.196575",
+            "state": "active",
+            "id": "b3c17860-fd17-48ea-948b-4b7c5f1e09f2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-dc",
+            "name": "format-dc",
+            "revision_timestamp": "2011-07-20T20:53:31.020289",
+            "state": "active",
+            "id": "0b675a54-621f-4fdb-850a-ef5d0b1b1ca3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "linked-open-data",
+            "name": "linked-open-data",
+            "revision_timestamp": "2010-12-10T07:27:48.196575",
+            "state": "active",
+            "id": "47b4d11b-416f-4eb8-9cb1-00c29fac1711"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2011-07-19T11:02:12.677188",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lodcloud.nolinks",
+            "name": "lodcloud.nolinks",
+            "revision_timestamp": "2011-08-10T12:52:50.840819",
+            "state": "active",
+            "id": "ce89d5e1-b216-44ba-9603-d13fa7b248c4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-deref-vocab",
+            "name": "no-deref-vocab",
+            "revision_timestamp": "2011-07-19T11:17:46.861880",
+            "state": "active",
+            "id": "89a72f73-c7f6-4814-9e3d-3fff825c22f8"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "openaccess",
+            "name": "openaccess",
+            "revision_timestamp": "2010-12-10T07:27:48.196575",
+            "state": "active",
+            "id": "6ee34c19-6b6d-4c47-b00f-c55c70cf5e2d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "publications",
+            "name": "publications",
+            "revision_timestamp": "2011-07-19T11:02:12.677188",
+            "state": "active",
+            "id": "c93ebe8f-83a0-498c-8704-1de94db149e9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-producer",
+            "name": "published-by-producer",
+            "revision_timestamp": "2011-07-19T11:02:12.677188",
+            "state": "active",
+            "id": "fcdb5c0a-2b91-44cb-83e5-19fd0d81125c"
+        }
+    ],
+    "tracking_summary": {
+        "total": 275,
+        "recent": 13
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 11,
+    "name": "swedish-open-cultural-heritage",
+    "isopen": true,
+    "url": "http://www.ksamsok.se/in-english/",
+    "notes": "SOCH is a set of 3.4 million (as of december 2010) cultural heritage objects harvested from a large number of museums and other local, regional and national cultural heritage organizations.\r\n\r\nDifferent Creative Commons licenses are used for different datasets in SOCH. The main goal is to provide as open licenses as possible.",
+    "title": "Swedish Open Cultural Heritage",
+    "extras": [
+        {
+            "value": "http://kulturarvsdata.se/",
+            "key": "namespace",
+            "__extras": {
+                "package_id": "6077a272-efe4-406c-9123-ca487ac91dbe",
+                "revision_id": "e7ebc515-ea12-45d7-aeae-f14e878571e7"
+            }
+        },
+        {
+            "value": "3400000",
+            "key": "triples",
+            "__extras": {
+                "revision_id": "62b846da-ba6a-46bf-bf6e-81c358920217",
+                "package_id": "6077a272-efe4-406c-9123-ca487ac91dbe"
+            }
+        }
+    ],
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "be699cca-0458-414f-899c-0b7672515a56"
+}

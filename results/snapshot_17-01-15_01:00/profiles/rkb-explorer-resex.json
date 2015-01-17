@@ -1,0 +1,565 @@
+{
+    "license_title": "",
+    "maintainer": "",
+    "relationships_as_object": [
+        {
+            "comment": "2",
+            "type": "links_to",
+            "id": "06a747b7-0499-4cdd-9825-f3de5a805c02",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:22:59.739606",
+                "subject_package_id": "6088e558-4e1c-43e8-bd8e-73a36a8d7a5a",
+                "revision_id": "8dc5d8c5-e12f-439b-aafb-6a676f77ed82",
+                "object_package_id": "77b1e682-7595-470c-b222-40561b0f0f32"
+            }
+        },
+        {
+            "comment": "3",
+            "type": "links_to",
+            "id": "9b977e40-5543-4ed3-b41c-d53e0cf4c632",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:22:03.956351",
+                "subject_package_id": "6e829250-dd11-45d2-bdcc-15281e1bda21",
+                "revision_id": "e845280f-a3a4-4663-81d4-82b7e39f2535",
+                "object_package_id": "77b1e682-7595-470c-b222-40561b0f0f32"
+            }
+        }
+    ],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-10T23:27:27.052849",
+    "id": "77b1e682-7595-470c-b222-40561b0f0f32",
+    "metadata_created": "2010-08-23T13:46:41.378923",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T23:27:27.052849",
+    "author": "Hugh Glaser",
+    "author_email": "hg@ecs.soton.ac.uk",
+    "state": "active",
+    "version": "",
+    "license_id": "",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "SPARQL endpoint",
+            "format": "api/sparql",
+            "url": "http://resex.rkbexplorer.com/sparql/",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 7,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-07-04T21:33:12.394362",
+            "webstore_url": "",
+            "resource_group_id": "26509026-8191-3635-fdec-d5148e162f33",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "6809c73d-886b-4999-8907-70e75e9b9ee2",
+            "size": null,
+            "id": "5a597070-8906-4e33-968a-5bbaee0e0cf1",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "XML Sitemap",
+            "format": "meta/sitemap",
+            "url": "http://resex.rkbexplorer.com/sitemap.xml",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "revision_timestamp": "2012-07-04T21:33:12.394362",
+            "webstore_url": "",
+            "resource_group_id": "26509026-8191-3635-fdec-d5148e162f33",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "6809c73d-886b-4999-8907-70e75e9b9ee2",
+            "size": "74575",
+            "id": "a3679449-9a8f-4bfa-bec3-0ee17958c845",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/n3",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "voiD file",
+            "format": "meta/void",
+            "url": "http://resex.rkbexplorer.com/models/void.ttl",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "revision_timestamp": "2012-07-04T21:33:12.394362",
+            "webstore_url": "",
+            "resource_group_id": "26509026-8191-3635-fdec-d5148e162f33",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "6809c73d-886b-4999-8907-70e75e9b9ee2",
+            "size": "8125",
+            "id": "d30302e5-788c-482f-9f63-dfd477d08ef2",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Example (RDF/XML)",
+            "format": "example/rdf+xml",
+            "url": "http://resex.rkbexplorer.com/id/resilience-mechanism-65b5cef4",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 3,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-07-04T21:33:12.394362",
+            "webstore_url": "",
+            "resource_group_id": "26509026-8191-3635-fdec-d5148e162f33",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 3,
+            "revision_id": "6809c73d-886b-4999-8907-70e75e9b9ee2",
+            "size": null,
+            "id": "bf3937e4-a120-4113-9ef8-54ba763a60d9",
+            "resource_type": "file",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "26509026-8191-3635-fdec-d5148e162f33",
+            "cache_last_updated": null,
+            "revision_timestamp": "2012-07-04T21:33:13.384808",
+            "webstore_last_updated": null,
+            "id": "94778055-8cb6-459c-888d-06180c337971",
+            "size": "45",
+            "state": "active",
+            "hash": "",
+            "description": "",
+            "format": "application/rdf+xml",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": "",
+            "mimetype": "application/x-gzip",
+            "cache_url": null,
+            "name": "Download (tar gzip of RDF)",
+            "created": "2012-07-04T21:33:12.487303",
+            "url": "http://resex.rkbexplorer.com/models/dump.tgz",
+            "webstore_url": "enabled",
+            "last_modified": "2012-07-04T21:33:13.328789",
+            "position": 4,
+            "revision_id": "c8d5df8b-3c20-4274-b24d-5780d3b523a0",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 5,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2010-09-26T22:01:26.449991",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-akt",
+            "name": "format-akt",
+            "revision_timestamp": "2010-09-27T14:38:14.160978",
+            "state": "active",
+            "id": "f8ebd08e-fc7d-4a23-aa3f-9ad8b93e9cbc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-dc",
+            "name": "format-dc",
+            "revision_timestamp": "2010-09-27T14:38:14.160978",
+            "state": "active",
+            "id": "0b675a54-621f-4fdb-850a-ef5d0b1b1ca3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2010-08-23T13:46:41.378923",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2010-08-23T13:46:41.378923",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2010-09-26T22:01:26.449991",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-vocab-mappings",
+            "name": "no-vocab-mappings",
+            "revision_timestamp": "2010-10-06T22:06:43.466996",
+            "state": "active",
+            "id": "e51273d8-dc60-4cf2-a68d-3cfd33b2c1fc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "provenance-metadata",
+            "name": "provenance-metadata",
+            "revision_timestamp": "2010-09-26T22:01:26.449991",
+            "state": "active",
+            "id": "24a0f0a3-36bc-4209-84e5-7d6b89d82dfa"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "publications",
+            "name": "publications",
+            "revision_timestamp": "2010-09-10T18:22:21.205778",
+            "state": "active",
+            "id": "c93ebe8f-83a0-498c-8704-1de94db149e9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2010-09-26T22:01:26.449991",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "void-sparql-endpoint",
+            "name": "void-sparql-endpoint",
+            "revision_timestamp": "2011-07-24T11:58:59.401643",
+            "state": "active",
+            "id": "9d821331-6c26-4261-bd2b-12dab19d508e"
+        }
+    ],
+    "tracking_summary": {
+        "total": 143,
+        "recent": 3
+    },
+    "groups": [],
+    "relationships_as_subject": [
+        {
+            "comment": "2",
+            "type": "links_to",
+            "id": "192570c8-aaa1-4f19-8194-415682329120",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:23:11.877119",
+                "subject_package_id": "77b1e682-7595-470c-b222-40561b0f0f32",
+                "revision_id": "2900dd01-2b54-4255-80c9-9e2ea11c3d11",
+                "object_package_id": "0c2ec56c-c041-4775-b733-94cecefea420"
+            }
+        },
+        {
+            "comment": "2",
+            "type": "links_to",
+            "id": "44da6831-ad01-4235-abf2-9c5eadff08a5",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:23:14.566070",
+                "subject_package_id": "77b1e682-7595-470c-b222-40561b0f0f32",
+                "revision_id": "0130516a-c24b-4162-b1e2-a8ed4ddd68e3",
+                "object_package_id": "11830d16-fc34-49ac-acbb-4ffee77f2398"
+            }
+        },
+        {
+            "comment": "28",
+            "type": "links_to",
+            "id": "19be85cf-a8c7-42d2-b1e5-711b5a264280",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:23:13.303974",
+                "subject_package_id": "77b1e682-7595-470c-b222-40561b0f0f32",
+                "revision_id": "4185fcc4-3697-4347-a31b-570faf3d93ed",
+                "object_package_id": "3ffa7aac-7f1f-496f-801d-7941c932c631"
+            }
+        },
+        {
+            "comment": "291",
+            "type": "links_to",
+            "id": "f77fbfb7-4594-40e6-b0f8-46649a0aa426",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:23:15.728548",
+                "object_package_id": "3f3a5534-bafd-451f-9c2e-587a823c5f09",
+                "revision_id": "6dbcf4fc-2ec0-4612-9d7f-b9325bb7a4f3",
+                "subject_package_id": "77b1e682-7595-470c-b222-40561b0f0f32"
+            }
+        },
+        {
+            "comment": "3",
+            "type": "links_to",
+            "id": "6095be36-e2ea-4dcc-b091-f4861215d0da",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:23:14.076710",
+                "object_package_id": "d0459637-cf13-4217-a245-6bc7139552a3",
+                "revision_id": "258ce228-b4de-442c-be40-4fbc349f7eea",
+                "subject_package_id": "77b1e682-7595-470c-b222-40561b0f0f32"
+            }
+        },
+        {
+            "comment": "3",
+            "type": "links_to",
+            "id": "e3e976dd-9b0b-484c-b6f7-446b210eec6c",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:23:10.597706",
+                "object_package_id": "fb7a2113-ce0d-4ca0-b23d-278d915433a1",
+                "revision_id": "e1ff92a0-7661-475c-b8ae-4280c620a211",
+                "subject_package_id": "77b1e682-7595-470c-b222-40561b0f0f32"
+            }
+        },
+        {
+            "comment": "3",
+            "type": "links_to",
+            "id": "fd6de8c7-a935-4272-81c7-40ad722aae7f",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:23:15.268886",
+                "subject_package_id": "77b1e682-7595-470c-b222-40561b0f0f32",
+                "revision_id": "9bfff0f3-3962-421c-a30a-417edbaa7e96",
+                "object_package_id": "a3bb25e1-6dac-4cde-b7d3-4e0dd5b958f3"
+            }
+        },
+        {
+            "comment": "3",
+            "type": "links_to",
+            "id": "feb38407-412c-4174-b6f8-4feb70f7192e",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:23:11.287334",
+                "subject_package_id": "77b1e682-7595-470c-b222-40561b0f0f32",
+                "revision_id": "1c359526-ab8c-43e1-b69c-6820a19cc257",
+                "object_package_id": "097078f5-0a5c-465e-b58d-7e2076a7025f"
+            }
+        },
+        {
+            "comment": "6",
+            "type": "links_to",
+            "id": "a838bbb7-cd3c-4e7d-9ca8-f5352841ea66",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:23:17.314600",
+                "subject_package_id": "77b1e682-7595-470c-b222-40561b0f0f32",
+                "revision_id": "bd8b40e0-c777-4f45-9893-801464d7d9e6",
+                "object_package_id": "feec8014-10d0-47c1-9f4d-eed33dc68d83"
+            }
+        },
+        {
+            "comment": "6",
+            "type": "links_to",
+            "id": "c3e73005-98f8-417e-bb85-3da423920c96",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:23:10.054519",
+                "object_package_id": "382a8681-733a-420b-9420-ee71f09fb0af",
+                "revision_id": "2d49a501-89b5-494c-9026-4cc05f427621",
+                "subject_package_id": "77b1e682-7595-470c-b222-40561b0f0f32"
+            }
+        },
+        {
+            "comment": "7",
+            "type": "links_to",
+            "id": "8095a481-09dd-4429-a8f8-1ebb70a53eb9",
+            "__extras": {
+                "revision_timestamp": "2010-09-02T16:23:08.716709",
+                "object_package_id": "23125bb4-da77-4d8f-958d-c22a9c17e158",
+                "revision_id": "4b841648-2a99-47d0-95a4-94db61c6216a",
+                "subject_package_id": "77b1e682-7595-470c-b222-40561b0f0f32"
+            }
+        }
+    ],
+    "num_tags": 11,
+    "name": "rkb-explorer-resex",
+    "isopen": false,
+    "url": "http://resex.rkbexplorer.com",
+    "notes": "",
+    "title": "ReSIST Resilience Mechanisms (RKBExplorer.com)",
+    "extras": [
+        {
+            "value": "11",
+            "key": "links:dbpedia",
+            "__extras": {
+                "revision_id": "d24c64f9-2bce-4806-a9dc-91954d8dbc31",
+                "package_id": "77b1e682-7595-470c-b222-40561b0f0f32"
+            }
+        },
+        {
+            "value": "291",
+            "key": "links:rkb-explorer-acm",
+            "__extras": {
+                "revision_id": "7b4e3b55-0458-4205-912c-4eb0fdd9414c",
+                "package_id": "77b1e682-7595-470c-b222-40561b0f0f32"
+            }
+        },
+        {
+            "value": "3",
+            "key": "links:rkb-explorer-budapest",
+            "__extras": {
+                "revision_id": "7b4e3b55-0458-4205-912c-4eb0fdd9414c",
+                "package_id": "77b1e682-7595-470c-b222-40561b0f0f32"
+            }
+        },
+        {
+            "value": "6",
+            "key": "links:rkb-explorer-citeseer",
+            "__extras": {
+                "package_id": "77b1e682-7595-470c-b222-40561b0f0f32",
+                "revision_id": "7b4e3b55-0458-4205-912c-4eb0fdd9414c"
+            }
+        },
+        {
+            "value": "28",
+            "key": "links:rkb-explorer-dblp",
+            "__extras": {
+                "package_id": "77b1e682-7595-470c-b222-40561b0f0f32",
+                "revision_id": "7b4e3b55-0458-4205-912c-4eb0fdd9414c"
+            }
+        },
+        {
+            "value": "2",
+            "key": "links:rkb-explorer-dotac",
+            "__extras": {
+                "package_id": "77b1e682-7595-470c-b222-40561b0f0f32",
+                "revision_id": "7b4e3b55-0458-4205-912c-4eb0fdd9414c"
+            }
+        },
+        {
+            "value": "2",
+            "key": "links:rkb-explorer-eprints",
+            "__extras": {
+                "package_id": "77b1e682-7595-470c-b222-40561b0f0f32",
+                "revision_id": "7b4e3b55-0458-4205-912c-4eb0fdd9414c"
+            }
+        },
+        {
+            "value": "4",
+            "key": "links:rkb-explorer-ibm",
+            "__extras": {
+                "package_id": "77b1e682-7595-470c-b222-40561b0f0f32",
+                "revision_id": "7b4e3b55-0458-4205-912c-4eb0fdd9414c"
+            }
+        },
+        {
+            "value": "6",
+            "key": "links:rkb-explorer-ieee",
+            "__extras": {
+                "revision_id": "7b4e3b55-0458-4205-912c-4eb0fdd9414c",
+                "package_id": "77b1e682-7595-470c-b222-40561b0f0f32"
+            }
+        },
+        {
+            "value": "2",
+            "key": "links:rkb-explorer-kisti",
+            "__extras": {
+                "package_id": "77b1e682-7595-470c-b222-40561b0f0f32",
+                "revision_id": "7b4e3b55-0458-4205-912c-4eb0fdd9414c"
+            }
+        },
+        {
+            "value": "3",
+            "key": "links:rkb-explorer-laas",
+            "__extras": {
+                "package_id": "77b1e682-7595-470c-b222-40561b0f0f32",
+                "revision_id": "7b4e3b55-0458-4205-912c-4eb0fdd9414c"
+            }
+        },
+        {
+            "value": "3",
+            "key": "links:rkb-explorer-newcastle",
+            "__extras": {
+                "revision_id": "7b4e3b55-0458-4205-912c-4eb0fdd9414c",
+                "package_id": "77b1e682-7595-470c-b222-40561b0f0f32"
+            }
+        },
+        {
+            "value": "7",
+            "key": "links:rkb-explorer-oai",
+            "__extras": {
+                "revision_id": "7b4e3b55-0458-4205-912c-4eb0fdd9414c",
+                "package_id": "77b1e682-7595-470c-b222-40561b0f0f32"
+            }
+        },
+        {
+            "value": "3",
+            "key": "links:rkb-explorer-pisa",
+            "__extras": {
+                "revision_id": "7b4e3b55-0458-4205-912c-4eb0fdd9414c",
+                "package_id": "77b1e682-7595-470c-b222-40561b0f0f32"
+            }
+        },
+        {
+            "value": "2",
+            "key": "links:rkb-explorer-rae2001",
+            "__extras": {
+                "revision_id": "7b4e3b55-0458-4205-912c-4eb0fdd9414c",
+                "package_id": "77b1e682-7595-470c-b222-40561b0f0f32"
+            }
+        },
+        {
+            "value": "http://resex.rkbexplorer.com/id/",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "16718c09-c323-417c-a7fc-28c4734c65d4",
+                "package_id": "77b1e682-7595-470c-b222-40561b0f0f32"
+            }
+        },
+        {
+            "value": "RESEX (RKBExplorer.com)",
+            "key": "shortname",
+            "__extras": {
+                "package_id": "77b1e682-7595-470c-b222-40561b0f0f32",
+                "revision_id": "d6d77a67-1f01-4ffb-ae2c-1f74cf9e0a2b"
+            }
+        },
+        {
+            "value": "55582",
+            "key": "triples",
+            "__extras": {
+                "revision_id": "c09a2d30-275d-43bb-9bea-29d470fe3e19",
+                "package_id": "77b1e682-7595-470c-b222-40561b0f0f32"
+            }
+        }
+    ],
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "0fec463b-dc43-4ccb-a364-3aa1e8f09b6d"
+}

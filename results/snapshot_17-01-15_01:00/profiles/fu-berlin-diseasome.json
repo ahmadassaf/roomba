@@ -1,0 +1,309 @@
+{
+    "license_title": "Other (Non-Commercial)",
+    "maintainer": "Anja Jentzsch",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "anja@anjeve.de",
+    "revision_timestamp": "2013-10-10T20:59:56.591215",
+    "id": "fa439987-64dc-404c-bc2b-ee5d173f3d62",
+    "metadata_created": "2010-08-03T11:31:08.638508",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T20:59:56.591215",
+    "author": "Anja Jentzsch",
+    "author_email": "anja@anjeve.de",
+    "state": "active",
+    "version": "",
+    "license_id": "other-nc",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "SPARQL endpoint",
+            "format": "api/sparql",
+            "url": "http://www4.wiwiss.fu-berlin.de/diseasome/sparql",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 35,
+                "recent": 3
+            },
+            "revision_timestamp": "2010-08-03T11:31:08.638508",
+            "webstore_url": null,
+            "resource_group_id": "bc18f952-a8a6-a132-cbcc-9d594f379459",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "53f87ac7-4a89-411a-ac70-a4dc25691297",
+            "size": null,
+            "id": "0788fb71-3581-4281-b34e-bbe60503c452",
+            "resource_type": null,
+            "name": null
+        },
+        {
+            "mimetype": null,
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "N-Triples, bz2 packed",
+            "format": "application/x-ntriples",
+            "url": "http://www4.wiwiss.fu-berlin.de/diseasome/diseasome_dump.nt.bz2",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 29,
+                "recent": 3
+            },
+            "revision_timestamp": "2010-08-03T12:36:56.380697",
+            "webstore_url": null,
+            "resource_group_id": "bc18f952-a8a6-a132-cbcc-9d594f379459",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "1029836a-c996-40bd-ba0f-a7455be0f9f2",
+            "size": null,
+            "id": "15ed9b1e-938a-40e9-b11b-c848741182bf",
+            "resource_type": null,
+            "name": null
+        },
+        {
+            "mimetype": null,
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "XML Sitemap",
+            "format": "meta/sitemap",
+            "url": "http://www4.wiwiss.fu-berlin.de/diseasome/sitemap.xml",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 7,
+                "recent": 3
+            },
+            "revision_timestamp": "2010-08-31T16:02:29.557514",
+            "webstore_url": null,
+            "resource_group_id": "bc18f952-a8a6-a132-cbcc-9d594f379459",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "3bc55c5a-f696-4be5-806c-a56cf441bcc7",
+            "size": null,
+            "id": "89873558-a690-4f82-9b11-abf0f10d0d5e",
+            "resource_type": null,
+            "name": null
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Example resource",
+            "format": "example/rdf+xml",
+            "url": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/74",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 18,
+                "recent": 6
+            },
+            "revision_timestamp": "2011-07-19T00:23:31.722582",
+            "webstore_url": null,
+            "resource_group_id": "bc18f952-a8a6-a132-cbcc-9d594f379459",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 3,
+            "revision_id": "227e6178-117f-4c49-91b8-cc292af187a7",
+            "size": "74856",
+            "id": "e5333f25-5db8-45a4-8c52-daa9cb3a5ddf",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 4,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2010-10-06T22:36:38.652762",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lifesciences",
+            "name": "lifesciences",
+            "revision_timestamp": "2010-10-06T22:36:38.652762",
+            "state": "active",
+            "id": "ee133eb4-ba7f-4e5c-8d92-9543ec13b860"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2010-08-03T11:31:08.638508",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2010-10-06T22:36:38.652762",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-provenance-metadata",
+            "name": "no-provenance-metadata",
+            "revision_timestamp": "2010-10-06T22:36:38.652762",
+            "state": "active",
+            "id": "585e9fca-2d67-4a07-b9d1-5495de054c7a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2010-10-06T22:36:38.652762",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "vocab-mappings",
+            "name": "vocab-mappings",
+            "revision_timestamp": "2010-10-06T22:36:38.652762",
+            "state": "active",
+            "id": "7fb7cacf-4e96-4986-9c3f-03ed4ed05f61"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "void-sparql-endpoint",
+            "name": "void-sparql-endpoint",
+            "revision_timestamp": "2011-07-24T11:59:35.616364",
+            "state": "active",
+            "id": "9d821331-6c26-4261-bd2b-12dab19d508e"
+        }
+    ],
+    "tracking_summary": {
+        "total": 529,
+        "recent": 9
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 8,
+    "name": "fu-berlin-diseasome",
+    "isopen": false,
+    "url": "http://www4.wiwiss.fu-berlin.de/diseasome/",
+    "notes": "Linked Data version of Diseasome publishes a network of 4,300 disorders and disease genes linked by known disorder-gene associations for exploring all known phenotype and disease gene associations, indicating the common genetic origin of many diseases. The list of disorders, disease genes, and associations between them was obtained from the Online Mendelian Inheritance in Man (OMIM), a compilation of human disease genes and phenotypes.\r\n\r\nOMIM Data Use from http://www.ncbi.nlm.nih.gov/Omim/restrictions.html\r\n\r\nCopyright © 1966-2008 Johns Hopkins University.\r\n\r\nThe OMIM® database including the collective data contained therein is the property of the Johns Hopkins University, which holds the copyright thereto.\r\n\r\nThe OMIM database is made available to the general public subject to certain restrictions. You may use the OMIM database and data obtained from this site for your personal use, for educational or scholarly use, or for research purposes only. The OMIM database may not be copied, distributed, transmitted, duplicated, reduced or altered in any way for commercial purposes, or for the purpose of redistribution, without a license from the Johns Hopkins University.\r\n\r\nRequests for information regarding a license for commercial use or redistribution of the OMIM database may be sent via e-mail to JHTT-Communications@jhmi.edu.\r\n\r\n\r\nlinks:bio2rdf-symbol: 9743",
+    "title": "Diseasome",
+    "extras": [
+        {
+            "value": "688",
+            "key": "links:bio2rdf-geneid",
+            "__extras": {
+                "package_id": "fa439987-64dc-404c-bc2b-ee5d173f3d62",
+                "revision_id": "31709f14-7bc5-4dd8-aec5-6e4ea504bd47"
+            }
+        },
+        {
+            "value": "688",
+            "key": "links:bio2rdf-hgnc",
+            "__extras": {
+                "revision_id": "31709f14-7bc5-4dd8-aec5-6e4ea504bd47",
+                "package_id": "fa439987-64dc-404c-bc2b-ee5d173f3d62"
+            }
+        },
+        {
+            "value": "2929",
+            "key": "links:bio2rdf-omim",
+            "__extras": {
+                "package_id": "fa439987-64dc-404c-bc2b-ee5d173f3d62",
+                "revision_id": "31709f14-7bc5-4dd8-aec5-6e4ea504bd47"
+            }
+        },
+        {
+            "value": "1943",
+            "key": "links:dbpedia",
+            "__extras": {
+                "package_id": "fa439987-64dc-404c-bc2b-ee5d173f3d62",
+                "revision_id": "53f87ac7-4a89-411a-ac70-a4dc25691297"
+            }
+        },
+        {
+            "value": "6124",
+            "key": "links:fu-berlin-dailymed",
+            "__extras": {
+                "package_id": "fa439987-64dc-404c-bc2b-ee5d173f3d62",
+                "revision_id": "31709f14-7bc5-4dd8-aec5-6e4ea504bd47"
+            }
+        },
+        {
+            "value": "8202",
+            "key": "links:fu-berlin-drugbank",
+            "__extras": {
+                "package_id": "fa439987-64dc-404c-bc2b-ee5d173f3d62",
+                "revision_id": "31709f14-7bc5-4dd8-aec5-6e4ea504bd47"
+            }
+        },
+        {
+            "value": "238",
+            "key": "links:fu-berlin-sider",
+            "__extras": {
+                "revision_id": "53f87ac7-4a89-411a-ac70-a4dc25691297",
+                "package_id": "fa439987-64dc-404c-bc2b-ee5d173f3d62"
+            }
+        },
+        {
+            "value": "372",
+            "key": "links:linkedct",
+            "__extras": {
+                "package_id": "fa439987-64dc-404c-bc2b-ee5d173f3d62",
+                "revision_id": "3a515360-2b11-40b9-90c0-eb476a917466"
+            }
+        },
+        {
+            "value": "376",
+            "key": "links:tcmgenedit_dataset",
+            "__extras": {
+                "revision_id": "3a515360-2b11-40b9-90c0-eb476a917466",
+                "package_id": "fa439987-64dc-404c-bc2b-ee5d173f3d62"
+            }
+        },
+        {
+            "value": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/",
+            "key": "namespace",
+            "__extras": {
+                "package_id": "fa439987-64dc-404c-bc2b-ee5d173f3d62",
+                "revision_id": "607b6f05-8a74-4c03-bf4f-fe1aabbd9a51"
+            }
+        },
+        {
+            "value": "91182",
+            "key": "triples",
+            "__extras": {
+                "package_id": "fa439987-64dc-404c-bc2b-ee5d173f3d62",
+                "revision_id": "53f87ac7-4a89-411a-ac70-a4dc25691297"
+            }
+        }
+    ],
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "aebf3a80-7cb7-49d6-ad43-d96e45a456ed"
+}

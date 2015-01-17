@@ -1,0 +1,254 @@
+{
+    "license_title": "Creative Commons Attribution 4.0",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-10T19:54:17.589302",
+    "id": "5dd363f4-639b-45c5-aa10-a2c19176c181",
+    "metadata_created": "2010-09-02T10:26:08.619055",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T19:54:17.589302",
+    "author": "Tom Scott",
+    "author_email": "http://derivadow.com",
+    "state": "active",
+    "version": "",
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "RDF Schema",
+            "format": "meta/rdf-schema",
+            "url": "http://purl.org/ontology/po",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 91,
+                "recent": 3
+            },
+            "revision_timestamp": "2010-09-02T10:26:08.619055",
+            "webstore_url": null,
+            "resource_group_id": "680ec90a-886b-5362-b0f9-23a08004c5de",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "c7a9fc29-8593-4161-9284-d5a2b3e7b459",
+            "size": null,
+            "id": "5a9b649a-1b3e-4a83-a1e0-3e2f7e244348",
+            "resource_type": null,
+            "name": null
+        },
+        {
+            "mimetype": null,
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "RDF Schema (N3)",
+            "format": "meta/rdf-schema",
+            "url": "http://www.bbc.co.uk/ontologies/programmes/2009-09-07.n3",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 86,
+                "recent": 6
+            },
+            "revision_timestamp": "2010-09-27T17:44:39.457297",
+            "webstore_url": null,
+            "resource_group_id": "680ec90a-886b-5362-b0f9-23a08004c5de",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "f6d93395-f059-4686-b7fa-e0359f128806",
+            "size": null,
+            "id": "3629a9f9-2f76-4a1b-8465-f6f73db62a3e",
+            "resource_type": null,
+            "name": null
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Example (RDF/XML)",
+            "format": "example/rdf+xml",
+            "url": "http://www.bbc.co.uk/programmes/b0074fmn#programme",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 119,
+                "recent": 3
+            },
+            "revision_timestamp": "2010-09-27T17:53:45.123048",
+            "webstore_url": null,
+            "resource_group_id": "680ec90a-886b-5362-b0f9-23a08004c5de",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 3,
+            "revision_id": "6012585b-c347-4985-9972-9c316bb37759",
+            "size": "82388",
+            "id": "41b5dc76-d916-4e32-9133-2d7f3451eb10",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 3,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2010-09-24T14:16:15.075627",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-dc",
+            "name": "format-dc",
+            "revision_timestamp": "2010-09-24T14:16:15.075627",
+            "state": "active",
+            "id": "0b675a54-621f-4fdb-850a-ef5d0b1b1ca3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-foaf",
+            "name": "format-foaf",
+            "revision_timestamp": "2010-09-24T14:16:15.075627",
+            "state": "active",
+            "id": "bd737030-1ba6-4913-baaa-bfa2581618b5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2010-09-02T10:26:08.619055",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2010-09-02T10:26:08.619055",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "media",
+            "name": "media",
+            "revision_timestamp": "2010-09-24T14:16:15.075627",
+            "state": "active",
+            "id": "e9d8b0c1-d68c-4020-a45d-1f46463d8f14"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2010-09-24T14:16:15.075627",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-provenance-metadata",
+            "name": "no-provenance-metadata",
+            "revision_timestamp": "2010-09-24T14:16:15.075627",
+            "state": "active",
+            "id": "585e9fca-2d67-4a07-b9d1-5495de054c7a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-producer",
+            "name": "published-by-producer",
+            "revision_timestamp": "2010-09-24T14:16:15.075627",
+            "state": "active",
+            "id": "fcdb5c0a-2b91-44cb-83e5-19fd0d81125c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "vocab-mappings",
+            "name": "vocab-mappings",
+            "revision_timestamp": "2010-09-24T14:16:15.075627",
+            "state": "active",
+            "id": "7fb7cacf-4e96-4986-9c3f-03ed4ed05f61"
+        }
+    ],
+    "tracking_summary": {
+        "total": 1553,
+        "recent": 36
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 10,
+    "name": "bbc-programmes",
+    "isopen": true,
+    "url": "http://www.bbc.co.uk/programmes",
+    "notes": "TV & Radio programme broadcasted by the BBC",
+    "title": "BBC Programmes",
+    "extras": [
+        {
+            "value": "10000",
+            "key": "links:bbc-music",
+            "__extras": {
+                "package_id": "5dd363f4-639b-45c5-aa10-a2c19176c181",
+                "revision_id": "c7a9fc29-8593-4161-9284-d5a2b3e7b459"
+            }
+        },
+        {
+            "value": "23237",
+            "key": "links:dbpedia",
+            "__extras": {
+                "revision_id": "56afe9cd-b494-45ad-9be7-920e65d0d2fa",
+                "package_id": "5dd363f4-639b-45c5-aa10-a2c19176c181"
+            }
+        },
+        {
+            "value": "http://www.bbc.co.uk/programmes",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "fa580c97-2777-4c70-8cf0-5cd28dd9629d",
+                "package_id": "5dd363f4-639b-45c5-aa10-a2c19176c181"
+            }
+        },
+        {
+            "value": "60000000",
+            "key": "triples",
+            "__extras": {
+                "package_id": "5dd363f4-639b-45c5-aa10-a2c19176c181",
+                "revision_id": "04436fed-a605-49f5-aa99-4ab6905d5876"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "dbc549f8-702f-4b1c-82ef-3df4ada16800",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

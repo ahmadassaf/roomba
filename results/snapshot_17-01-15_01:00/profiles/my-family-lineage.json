@@ -1,0 +1,533 @@
+{
+    "license_title": "Open Data Commons Attribution License 1.0",
+    "maintainer": "Bruce Whealton",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "bruce@whealton.info",
+    "revision_timestamp": "2013-10-10T23:01:40.185286",
+    "id": "6f7818fc-c29c-48e8-8552-64a91dac58ab",
+    "metadata_created": "2012-02-27T23:11:47.685009",
+    "owner_org": "ff622fed-7fcd-4917-b383-ff4fa895087e",
+    "metadata_modified": "2013-10-10T23:01:40.185286",
+    "author": "Bruce Whealton",
+    "author_email": "bruce@whealton.info",
+    "state": "active",
+    "version": "1.1",
+    "license_id": "ODC-BY-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "c0414a7d-7280-4938-aef3-b876d3fef14f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2012-07-12T06:27:41.969390",
+            "webstore_last_updated": null,
+            "id": "7beb46e9-92a8-475e-a215-04393b2bf9c0",
+            "size": "107830",
+            "state": "active",
+            "hash": "",
+            "description": "This data set comes from the data entered into a MediaWiki website at:  http://my-family-lineage.com/wiki/Main_Page\r\nThe data can be uploaded from a GEDCOM ( Genealogical Data Communication - common format for communication between different genealogy programs, which each have their own internal formats) file, or a person can manually enter data into form fields.  This data if it comes from a GEDCOM file import will be converted to RDF format.  If it is entered on the website, then Semantic Forms and Templates are used to align values with various RDF Classes, Properties and Object values.  \r\n\r\nWe use popular vocabularies, like Dublin Core, FOAF, BIO (a vocabulary for describing biographical information as events), REL (Relationships), and GEDCOM X which defines factTypes.\r\n\r\nThis data is also added or loaded into (Inserted into) a triple store and assigned to a data set called 'my-family-lineage.'  We are using Fuseki and the TDB triple store in the Jena package.\r\n\r\nThe wiki application currently reports over 3.2 Million triples.  Our data is also stored in the Fuseki Triple Store which also provides a SPARQL endpoint.  Data describing Events in a person or family's life are described with a Place for the event.  The Places named graph has about 50,000 triples, of which 7318 are links to other data sets that are part of the LOD Cloud, including DBpedia, Freebase, Yago, and Geonames.\r\n\r\nSELECT COUNT (DISTINCT ?link) WHERE {\r\n  GRAPH <http://futurewavehosting.com:3030/my-family-lineage/graph/Places> {\r\n    ?place <http://www.w3.org/2002/07/owl#sameAs> ?link\r\n  }\r\n}\r\nreports 7318 links to other external datasets.\r\n",
+            "format": "RDF",
+            "tracking_summary": {
+                "total": 3,
+                "recent": 3
+            },
+            "mimetype_inner": "",
+            "mimetype": "application/rdf+xml",
+            "cache_url": "",
+            "name": "My Family Lineage",
+            "created": "2012-05-18T16:46:19.545662",
+            "url": "http://futurewavehosting.com:3030/my-family-lineage/query",
+            "webstore_url": "enabled",
+            "last_modified": "2012-02-18T00:00:00",
+            "position": 0,
+            "revision_id": "148b4aee-54fa-4203-866c-ce4a9a104f31",
+            "resource_type": "api"
+        },
+        {
+            "resource_group_id": "c0414a7d-7280-4938-aef3-b876d3fef14f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2012-06-22T00:53:39.757525",
+            "webstore_last_updated": null,
+            "id": "7ceada14-43fb-40b7-a276-d612298318af",
+            "size": null,
+            "state": "active",
+            "hash": "",
+            "description": "SPARQL endpoint",
+            "format": "api/sparql",
+            "tracking_summary": {
+                "total": 5,
+                "recent": 3
+            },
+            "mimetype_inner": "",
+            "mimetype": "",
+            "cache_url": "",
+            "name": "SPARQL endpoint",
+            "created": "2012-06-21T23:33:48.389897",
+            "url": "http://futurewavehosting.com:3030/my-family-lineage/sparql",
+            "webstore_url": "",
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "e4f2d600-74ff-4d4e-99e9-2bf0fbe8b4e3",
+            "resource_type": "api"
+        },
+        {
+            "resource_group_id": "c0414a7d-7280-4938-aef3-b876d3fef14f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2012-07-26T19:47:08.404330",
+            "webstore_last_updated": null,
+            "id": "2e0c7ed2-056f-4172-8018-2b61de7715a7",
+            "size": "4565",
+            "state": "active",
+            "hash": "",
+            "description": "VoID Vocabulary",
+            "format": "meta/void",
+            "tracking_summary": {
+                "total": 5,
+                "recent": 3
+            },
+            "mimetype_inner": "",
+            "mimetype": "text/html",
+            "cache_url": "",
+            "name": "VoID Vocabulary",
+            "created": "2012-06-21T23:39:23.645397",
+            "url": "http://my-family-lineage.com/void.ttl",
+            "webstore_url": "",
+            "last_modified": "2012-06-21T23:39:24.626637",
+            "position": 2,
+            "revision_id": "f1024c82-2c94-47c1-a199-4fd2f05640a7",
+            "resource_type": "metadata",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c0414a7d-7280-4938-aef3-b876d3fef14f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2012-06-22T00:53:39.757525",
+            "webstore_last_updated": null,
+            "id": "141a4feb-1ac0-45e6-865b-b04b4a6865bb",
+            "size": "3743",
+            "state": "active",
+            "hash": "",
+            "description": "Semantic Web Sitemap",
+            "format": "meta/sitemap",
+            "tracking_summary": {
+                "total": 3,
+                "recent": 3
+            },
+            "mimetype_inner": "",
+            "mimetype": "text/html",
+            "cache_url": "",
+            "name": "Semantic Web Sitemap",
+            "created": "2012-06-21T23:43:45.017817",
+            "url": "http://my-family-lineage.com/w/sitemap/sitemap-index-whealton_wiki.xml",
+            "webstore_url": "",
+            "last_modified": "2012-06-18T05:02:12",
+            "position": 3,
+            "revision_id": "e4f2d600-74ff-4d4e-99e9-2bf0fbe8b4e3",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c0414a7d-7280-4938-aef3-b876d3fef14f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2012-08-06T06:10:39.547039",
+            "webstore_last_updated": null,
+            "id": "42784c7a-957b-45c4-bfb2-d89a09c811ab",
+            "size": "215585",
+            "state": "active",
+            "hash": "",
+            "description": "Link to an example data item within the dataset (RDF/XML)\r\nThis is the Adams Family Genealogy in RDF/XML format.  It was generated by converting a GEDCOM file to RDF.  GEDCOM is a common format used by Genealogy programs for data communication between different programs.",
+            "format": "example/rdf+xml",
+            "tracking_summary": {
+                "total": 3,
+                "recent": 3
+            },
+            "mimetype_inner": "",
+            "mimetype": "text/html",
+            "cache_url": "",
+            "name": "Link to an example data item within the dataset (RDF/XML)",
+            "created": "2012-06-22T00:49:35.967040",
+            "url": "http://my-family-lineage.com/w/images/d/d0/Adams.rdf",
+            "webstore_url": "",
+            "last_modified": "2012-08-06T06:10:37.974031",
+            "position": 4,
+            "revision_id": "ed8f1ad2-a2d4-4497-a3a4-b888caefc6d8",
+            "resource_type": "example",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c0414a7d-7280-4938-aef3-b876d3fef14f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2012-06-29T00:42:44.641711",
+            "webstore_last_updated": null,
+            "id": "3dec1a8b-c333-47f4-b1a2-0199945e0f14",
+            "size": "94212",
+            "state": "active",
+            "hash": "",
+            "description": "Download Classes",
+            "format": "application/rdf+xml",
+            "tracking_summary": {
+                "total": 3,
+                "recent": 3
+            },
+            "mimetype_inner": "",
+            "mimetype": "text/html",
+            "cache_url": "",
+            "name": "Download Classes",
+            "created": "2012-06-22T01:05:44.093329",
+            "url": "http://my-family-lineage.com/w/RDF/classes.rdf",
+            "webstore_url": "enabled",
+            "last_modified": "2012-06-22T01:05:45.586228",
+            "position": 5,
+            "revision_id": "dc084636-4597-4d40-aeee-3309b5520ca4",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c0414a7d-7280-4938-aef3-b876d3fef14f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2012-06-29T00:42:44.641711",
+            "webstore_last_updated": null,
+            "id": "e607c1f6-412d-4978-b4e9-d4f2f98511d4",
+            "size": "107830",
+            "state": "active",
+            "hash": "",
+            "description": "",
+            "format": "application/rdf xml",
+            "tracking_summary": {
+                "total": 3,
+                "recent": 3
+            },
+            "mimetype_inner": "",
+            "mimetype": "text/html",
+            "cache_url": "",
+            "name": "Download BruceWhealtonJr.rdf",
+            "created": "2012-06-22T01:07:42.700524",
+            "url": "http://my-family-lineage.com/w/images/a/af/BruceWhealtonJr.rdf",
+            "webstore_url": "enabled",
+            "last_modified": "2012-06-22T01:07:43.461430",
+            "position": 6,
+            "revision_id": "dc084636-4597-4d40-aeee-3309b5520ca4",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c0414a7d-7280-4938-aef3-b876d3fef14f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2012-07-26T19:57:55.331897",
+            "webstore_last_updated": null,
+            "id": "f94f38ab-e690-4d89-9db9-ca7442d773e0",
+            "size": "2842152",
+            "state": "active",
+            "hash": "",
+            "description": "This file came from a GEDCOM (Genealogical Data Communication) file upload.  It was converted into RDF using the vocabularies appropriate for different facts, terms, people, families and more.  ",
+            "format": "RDF",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": "",
+            "mimetype": "text/html",
+            "cache_url": "",
+            "name": "Sangster Family Tree in RDF format",
+            "created": "2012-07-13T00:06:27.754397",
+            "url": "http://my-family-lineage.com/w/images/6/6c/Sangster_family_tree_2012-06-30.rdf",
+            "webstore_url": "enabled",
+            "last_modified": "2012-06-30T06:10:19",
+            "position": 7,
+            "revision_id": "583df7b4-c69f-4b3a-89d7-655a96c68a25",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c0414a7d-7280-4938-aef3-b876d3fef14f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2012-08-05T23:17:02.359681",
+            "webstore_last_updated": null,
+            "id": "58ff6a67-f620-4793-8e51-9ad7aefc5632",
+            "size": "44209",
+            "state": "active",
+            "hash": "",
+            "description": "",
+            "format": "meta/rdf-schema",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": "",
+            "mimetype": "application/rdf+xml",
+            "cache_url": "",
+            "name": "FOAF vocabulary",
+            "created": "2012-08-05T22:47:58.066961",
+            "url": "http://xmlns.com/foaf/spec/index.rdf",
+            "webstore_url": "enabled",
+            "last_modified": "2011-01-23T19:42:36",
+            "position": 8,
+            "revision_id": "c8872b4e-f6a8-4c40-87b8-87ca8ec6cf86",
+            "resource_type": "metadata",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c0414a7d-7280-4938-aef3-b876d3fef14f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2012-08-05T23:17:02.359681",
+            "webstore_last_updated": null,
+            "id": "fa0fa9bb-e453-4764-85d1-f4791bc5a2a5",
+            "size": null,
+            "state": "active",
+            "hash": "",
+            "description": "",
+            "format": "license-metadata",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": "",
+            "mimetype": "html",
+            "cache_url": "",
+            "name": "License Data",
+            "created": "2012-08-05T22:55:42.488952",
+            "url": "http://www.opendatacommons.org/odc-public-domain-dedication-and-licence/",
+            "url_error": "URL unobtainable",
+            "webstore_url": "enabled",
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "c8872b4e-f6a8-4c40-87b8-87ca8ec6cf86",
+            "resource_type": "metadata"
+        }
+    ],
+    "num_resources": 10,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2012-06-29T00:42:44.641711",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "family history",
+            "name": "family history",
+            "revision_timestamp": "2012-05-13T21:55:40.232925",
+            "state": "active",
+            "id": "89eae6d7-5b42-4a5e-a41b-a2db24b5b688"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-bio",
+            "name": "format-bio",
+            "revision_timestamp": "2012-06-29T00:42:44.641711",
+            "state": "active",
+            "id": "6a200c74-28a8-4839-9f00-e907359691c2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-dbpedia-owl",
+            "name": "format-dbpedia-owl",
+            "revision_timestamp": "2012-06-29T00:42:44.641711",
+            "state": "active",
+            "id": "0bd98d2e-db98-4605-8081-89c319ad066b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-foaf",
+            "name": "format-foaf",
+            "revision_timestamp": "2012-06-29T00:42:44.641711",
+            "state": "active",
+            "id": "bd737030-1ba6-4913-baaa-bfa2581618b5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2012-06-29T00:42:44.641711",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdfs",
+            "name": "format-rdfs",
+            "revision_timestamp": "2012-06-29T00:42:44.641711",
+            "state": "active",
+            "id": "781902f8-ba13-4330-bba3-54d0bbf24b58"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rel",
+            "name": "format-rel",
+            "revision_timestamp": "2012-06-29T00:42:44.641711",
+            "state": "active",
+            "id": "b31b2e6e-2f71-4696-a11a-f7462fcace9d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "genealogy",
+            "name": "genealogy",
+            "revision_timestamp": "2012-06-29T00:42:44.641711",
+            "state": "active",
+            "id": "1077a551-f16d-4616-b232-d4159f92e3d3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "geographic",
+            "name": "geographic",
+            "revision_timestamp": "2012-07-10T00:32:18.892165",
+            "state": "active",
+            "id": "dc08d94b-fbac-4bfc-92f0-94bee5fd546a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "license-metadata",
+            "name": "license-metadata",
+            "revision_timestamp": "2012-08-05T23:17:02.359681",
+            "state": "active",
+            "id": "8d7e5c73-261b-4137-a278-42f56a6ec4bb"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2012-06-22T00:53:39.757525",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-proprietary-vocab",
+            "name": "no-proprietary-vocab",
+            "revision_timestamp": "2012-08-05T23:17:02.359681",
+            "state": "active",
+            "id": "aef04cb8-a7aa-4419-8184-396b0ef6e680"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-provenance-metadata",
+            "name": "no-provenance-metadata",
+            "revision_timestamp": "2012-08-05T23:17:02.359681",
+            "state": "active",
+            "id": "585e9fca-2d67-4a07-b9d1-5495de054c7a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-vocab-mappings",
+            "name": "no-vocab-mappings",
+            "revision_timestamp": "2012-08-05T23:17:02.359681",
+            "state": "active",
+            "id": "e51273d8-dc60-4cf2-a68d-3cfd33b2c1fc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-producer",
+            "name": "published-by-producer",
+            "revision_timestamp": "2012-06-29T00:42:44.641711",
+            "state": "active",
+            "id": "fcdb5c0a-2b91-44cb-83e5-19fd0d81125c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "relationships",
+            "name": "relationships",
+            "revision_timestamp": "2012-06-29T00:42:44.641711",
+            "state": "active",
+            "id": "c7a5772e-bc70-4d09-906f-3b504cc13458"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "usergeneratedcontent",
+            "name": "usergeneratedcontent",
+            "revision_timestamp": "2012-07-10T00:32:18.892165",
+            "state": "active",
+            "id": "e9b2da79-5971-41f9-a314-36d368636b85"
+        }
+    ],
+    "tracking_summary": {
+        "total": 57,
+        "recent": 15
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 18,
+    "name": "my-family-lineage",
+    "isopen": true,
+    "url": "http://my-family-lineage.com/wiki/Main_Page",
+    "notes": "<h2>My Family Lineage</h2>\r\n<h3>Note: We have added Content Negotiation</h3>\r\n<p>The addition of content negotiation, allows for serving RDF to clients that request RDF and HTML for clients that request html pages.</p> \r\n<p><strong>\"My Family Lineage\"</strong> is a Genealogy Application using MediaWiki and the Semantic MediaWiki Bundle.  In addition, we use the Fuseki Triple Store which has a SPARQL query form available at: http://futurewavehosting.com:3030 \r\nwhere one would use the Control Panel and select the dataset my-family-lineage.  The website is community driven and through the import of GEDCOM files (Genealogical Data Communication) wiki pages are created, an accompanying RDF file is created and the data is added to the triple store. </p><br />\r\n<p> We use the latest GEDCOM standard version 5.5 which is used by various Genealogy software applications.  </p>\r\n\r\n<p>We have a void file available at: http://my-family-lineage.com/void.ttl \r\nwhich provides information about vocabularies used, licensing, example resources, and link sets.  </p>\r\n\r\n<p>We collect information about Places that correspond to events in an individual/person's life or in the life of a family.  It is here that there are the most triples linking to other data sets that are part of the current LOD Cloud.  Nearly 50,000 triples describe Places, of those over 7300 triples are links to external data sets, including dbpedia, geonames, freebase and yago.</p>\r\n\r\n<p>We have included a great deal of information from public genealogy (GEDCOM) files including the genealogy of famous people, e.g. royalty, US Presidents, Authors like Stephen King and more. </p>",
+    "title": "My Family Lineage",
+    "extras": [
+        {
+            "value": "2254",
+            "key": "links:dbpedia",
+            "__extras": {
+                "revision_id": "9053a65c-5eab-4920-a71e-6b4993362023",
+                "package_id": "6f7818fc-c29c-48e8-8552-64a91dac58ab"
+            }
+        },
+        {
+            "value": "2253",
+            "key": "links:freebase",
+            "__extras": {
+                "revision_id": "9053a65c-5eab-4920-a71e-6b4993362023",
+                "package_id": "6f7818fc-c29c-48e8-8552-64a91dac58ab"
+            }
+        },
+        {
+            "value": "377",
+            "key": "links:geonames",
+            "__extras": {
+                "package_id": "6f7818fc-c29c-48e8-8552-64a91dac58ab",
+                "revision_id": "9053a65c-5eab-4920-a71e-6b4993362023"
+            }
+        },
+        {
+            "value": "2048",
+            "key": "links:yago",
+            "__extras": {
+                "package_id": "6f7818fc-c29c-48e8-8552-64a91dac58ab",
+                "revision_id": "9053a65c-5eab-4920-a71e-6b4993362023"
+            }
+        },
+        {
+            "value": "http://my-family-lineage.com/wiki/",
+            "key": "namespace",
+            "__extras": {
+                "package_id": "6f7818fc-c29c-48e8-8552-64a91dac58ab",
+                "revision_id": "605150d2-47f5-4ec4-b1bd-de55585d3564"
+            }
+        },
+        {
+            "value": "3000000",
+            "key": "triples",
+            "__extras": {
+                "package_id": "6f7818fc-c29c-48e8-8552-64a91dac58ab",
+                "revision_id": "605150d2-47f5-4ec4-b1bd-de55585d3564"
+            }
+        }
+    ],
+    "license_url": "http://www.opendefinition.org/licenses/odc-by",
+    "organization": {
+        "description": "A group for packages related to history.",
+        "title": "History",
+        "created": "2011-01-10T17:09:26.120726",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-01-18T17:33:30.007784",
+        "is_organization": true,
+        "state": "active",
+        "image_url": null,
+        "revision_id": "8babf531-55d9-4fb5-9dc4-ca58c329adee",
+        "type": "organization",
+        "id": "ff622fed-7fcd-4917-b383-ff4fa895087e",
+        "name": "history"
+    },
+    "revision_id": "d85de16b-00a3-417e-b862-af3a5780811d",
+    "license_information": {
+        "domain_content": false,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Open Data Commons",
+        "status": "active"
+    }
+}

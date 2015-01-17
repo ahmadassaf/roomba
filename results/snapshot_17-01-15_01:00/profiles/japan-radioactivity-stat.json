@@ -1,0 +1,261 @@
+{
+    "license_title": "Creative Commons Attribution-NonCommercial 4.0",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-10T21:27:00.584428",
+    "id": "18044786-1a98-4934-b48d-248e22faacdd",
+    "metadata_created": "2011-04-18T15:49:43.049940",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T21:27:00.584428",
+    "author": "KANZAKI Masahide",
+    "author_email": "mkanzaki@gmail.com",
+    "state": "active",
+    "version": "2012-03-16",
+    "license_id": "CC-BY-NC-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "text/turtle",
+            "cache_url": "",
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "metadata about the dataset",
+            "format": "meta/void",
+            "url": "http://www.kanzaki.com/works/2011/stat/ra-void.ttl",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 15,
+                "recent": 5
+            },
+            "revision_timestamp": "2012-03-16T12:28:34.138426",
+            "webstore_url": "",
+            "resource_group_id": "38ab314a-7235-4da7-b02b-a522ec22d035",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "58a81f41-e005-4d16-819e-b3a90a4afed6",
+            "size": "1887",
+            "id": "0107fa67-503d-44a7-b210-df1c90145a6f",
+            "resource_type": "file",
+            "name": "VoID description",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Zip archive of RDF/Turtle for one year stat (1,648,890 triples)",
+            "format": "rdf/turtle",
+            "url": "http://www.kanzaki.com/works/2012/pub/radiostat-20110316-20120315.zip",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 8,
+                "recent": 6
+            },
+            "revision_timestamp": "2012-03-16T12:34:25.491066",
+            "webstore_url": "",
+            "resource_group_id": "38ab314a-7235-4da7-b02b-a522ec22d035",
+            "state": "active",
+            "last_modified": "2012-03-16T12:34:25.364805",
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "caeded84-fa21-4cb0-a6c2-b695cfda0b48",
+            "size": "3327616",
+            "id": "1071dcbd-0fb7-4176-873c-08673df6fedd",
+            "resource_type": "file",
+            "name": "Zip archive of RDF dump",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "country-japan",
+            "name": "country-japan",
+            "revision_timestamp": "2011-04-18T15:49:43.049940",
+            "state": "active",
+            "id": "1b0bae77-7b63-4240-be7c-7a359bfb1946"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-event",
+            "name": "format-event",
+            "revision_timestamp": "2011-04-18T15:52:55.431572",
+            "state": "active",
+            "id": "766ed801-2d88-4f40-9ee8-c552c889998b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-geo",
+            "name": "format-geo",
+            "revision_timestamp": "2011-04-18T15:52:55.431572",
+            "state": "active",
+            "id": "16f204d1-2004-4b26-97c9-93a8e42cc506"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2011-04-18T15:49:43.049940",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdfs",
+            "name": "format-rdfs",
+            "revision_timestamp": "2011-04-18T15:49:43.049940",
+            "state": "active",
+            "id": "781902f8-ba13-4330-bba3-54d0bbf24b58"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-scovo",
+            "name": "format-scovo",
+            "revision_timestamp": "2011-04-18T15:52:55.431572",
+            "state": "active",
+            "id": "c661f893-35a3-49cd-9161-ca18ff863917"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-time",
+            "name": "format-time",
+            "revision_timestamp": "2011-04-18T15:52:55.431572",
+            "state": "active",
+            "id": "89e12c4c-de55-4c8e-ad6d-26e36ea60265"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-vcard",
+            "name": "format-vcard",
+            "revision_timestamp": "2011-04-18T15:52:55.431572",
+            "state": "active",
+            "id": "15a4eeb8-5380-4f22-831f-ce6aad2bfe28"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "geographic",
+            "name": "geographic",
+            "revision_timestamp": "2011-09-19T08:43:08.961669",
+            "state": "active",
+            "id": "dc08d94b-fbac-4bfc-92f0-94bee5fd546a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "government",
+            "name": "government",
+            "revision_timestamp": "2011-07-18T12:53:25.420171",
+            "state": "active",
+            "id": "22fddbd6-8780-4ce0-826f-e41efdc36688"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2011-07-18T12:53:25.420171",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-proprietary-vocab",
+            "name": "no-proprietary-vocab",
+            "revision_timestamp": "2011-07-18T12:53:25.420171",
+            "state": "active",
+            "id": "aef04cb8-a7aa-4419-8184-396b0ef6e680"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2011-07-18T12:53:25.420171",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "radioactivity",
+            "name": "radioactivity",
+            "revision_timestamp": "2011-04-18T15:49:43.049940",
+            "state": "active",
+            "id": "369af9b2-63fe-4fd1-baaa-e318c74c9a20"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "statistics",
+            "name": "statistics",
+            "revision_timestamp": "2011-04-18T15:49:43.049940",
+            "state": "active",
+            "id": "bc8c6189-2861-4db1-9ea5-6cf2d546e40d"
+        }
+    ],
+    "tracking_summary": {
+        "total": 193,
+        "recent": 9
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 15,
+    "name": "japan-radioactivity-stat",
+    "isopen": false,
+    "url": "http://www.kanzaki.com/works/2011/stat/ra/",
+    "notes": "文部科学省は各都道府県等からの報告に基づき全国の環境放射能水準調査を作成しています。これをatmc.jpがテキスト化したデータの1年分（2011-03-16～2012-03-15）をRDF化したものです。福島県、宮城県の3月分データは欠落があります。\r\n\r\nThis is an experimantal RDF data of radioactivity statistics, observed at 47 prefectures hourly, from 2011-03-16 to 2012-03-15. Source data is text data at atmc.jp converted from the daily announcements by the Ministry of Education, which have been compiled based on reports from each prefecture. Some data from Fukushima and Miyagi in March missing",
+    "title": "National Radioactivity Stat as Linked Data",
+    "extras": [
+        {
+            "value": "36696",
+            "key": "links:geonames-semantic-web",
+            "__extras": {
+                "package_id": "18044786-1a98-4934-b48d-248e22faacdd",
+                "revision_id": "69d9a3bc-6894-4835-b7e0-720a5c3b92e4"
+            }
+        },
+        {
+            "value": "http://www.kanzaki.com/works/2011/stat/ra/",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "8d0b258b-04c9-4dc8-a825-8337dff77622",
+                "package_id": "18044786-1a98-4934-b48d-248e22faacdd"
+            }
+        },
+        {
+            "value": "1,648,890",
+            "key": "triples",
+            "__extras": {
+                "revision_id": "58a81f41-e005-4d16-819e-b3a90a4afed6",
+                "package_id": "18044786-1a98-4934-b48d-248e22faacdd"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "e9ce11d3-d02c-4d7e-8911-193800c7dbee",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "Creative Commons",
+        "od_conformance": "rejected",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

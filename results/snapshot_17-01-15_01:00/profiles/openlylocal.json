@@ -1,0 +1,320 @@
+{
+    "license_title": "Open Data Commons Open Database License 1.0",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-10T23:14:17.895231",
+    "id": "3637fc69-0a33-480c-8c30-8afdaa666b3e",
+    "metadata_created": "2009-09-21T09:47:49.333821",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T23:14:17.895231",
+    "author": "Chris Taggart http://countculture.wordpress.com/",
+    "author_email": "",
+    "state": "active",
+    "version": "",
+    "license_id": "ODbL-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "API documentation",
+            "format": "api",
+            "url": "http://openlylocal.com/info/api",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 17,
+                "recent": 5
+            },
+            "revision_timestamp": "2011-12-03T04:43:17.577117",
+            "webstore_url": null,
+            "resource_group_id": "1081b197-246b-a198-fda8-ae352ab48f89",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "9936f66c-dafa-4435-ad93-fa770cc76011",
+            "size": "12607",
+            "id": "28510310-eaac-4321-b85b-343d3f5d2e3c",
+            "resource_type": "api",
+            "name": "API",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Example (RDF/XML)",
+            "format": "example/rdf+xml",
+            "url": "http://openlylocal.com/councils/156.rdf",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 11,
+                "recent": 5
+            },
+            "revision_timestamp": "2011-12-03T04:43:17.577117",
+            "webstore_url": null,
+            "resource_group_id": "1081b197-246b-a198-fda8-ae352ab48f89",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "9936f66c-dafa-4435-ad93-fa770cc76011",
+            "size": "26387",
+            "id": "95e978b0-93fd-4932-a48e-7ef1d85af000",
+            "resource_type": "",
+            "name": "example.rdf",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/json",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "List of councils in JSON",
+            "format": "JSON",
+            "url": "http://openlylocal.com/councils.json",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 5,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-12-03T04:43:17.577117",
+            "webstore_url": null,
+            "resource_group_id": "1081b197-246b-a198-fda8-ae352ab48f89",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "9936f66c-dafa-4435-ad93-fa770cc76011",
+            "size": "236629",
+            "id": "6f9a91bb-b364-4380-80fc-e94b9978156e",
+            "resource_type": "file",
+            "name": "councils.json",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 3,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "access.api",
+            "name": "access.api",
+            "revision_timestamp": "2011-12-03T04:43:17.577117",
+            "state": "active",
+            "id": "73962819-3cf5-494b-9a3a-c4aa852fb3a1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "access.www",
+            "name": "access.www",
+            "revision_timestamp": "2011-12-03T04:43:17.577117",
+            "state": "active",
+            "id": "3d0ccb0c-0205-45e2-a6b6-7bf5dfea1c19"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "country.uk",
+            "name": "country.uk",
+            "revision_timestamp": "2011-12-03T04:43:17.577117",
+            "state": "active",
+            "id": "2d954478-c7ab-4725-8f07-46d2bc82e688"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2010-10-07T10:18:36.313971",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format.foaf",
+            "name": "format.foaf",
+            "revision_timestamp": "2011-12-03T04:43:17.577117",
+            "state": "active",
+            "id": "abc0798f-11af-4262-98dc-d71a018b2391"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format.geonames",
+            "name": "format.geonames",
+            "revision_timestamp": "2011-12-03T04:43:17.577117",
+            "state": "active",
+            "id": "de5a11f2-3289-456e-9b31-a403439b1a6d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "gov",
+            "name": "gov",
+            "revision_timestamp": "2009-09-21T09:47:49.333821",
+            "state": "active",
+            "id": "a58159dd-8186-41ad-b110-b825f5780d66"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "government",
+            "name": "government",
+            "revision_timestamp": "2010-09-19T13:46:39.053184",
+            "state": "active",
+            "id": "22fddbd6-8780-4ce0-826f-e41efdc36688"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "local-authorities",
+            "name": "local-authorities",
+            "revision_timestamp": "2009-09-21T09:47:49.333821",
+            "state": "active",
+            "id": "acf521cf-2279-47a3-97f9-614c6051fa5a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "local-government",
+            "name": "local-government",
+            "revision_timestamp": "2009-09-21T09:47:49.333821",
+            "state": "active",
+            "id": "f06b6f13-887e-479c-b7cd-0760762b3941"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2010-09-05T15:21:31.078268",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2010-10-07T10:18:36.313971",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-provenance-metadata",
+            "name": "no-provenance-metadata",
+            "revision_timestamp": "2010-10-07T10:18:36.313971",
+            "state": "active",
+            "id": "585e9fca-2d67-4a07-b9d1-5495de054c7a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-vocab-mappings",
+            "name": "no-vocab-mappings",
+            "revision_timestamp": "2010-10-07T10:18:36.313971",
+            "state": "active",
+            "id": "e51273d8-dc60-4cf2-a68d-3cfd33b2c1fc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2010-10-07T10:18:36.313971",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        }
+    ],
+    "tracking_summary": {
+        "total": 441,
+        "recent": 7
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 15,
+    "name": "openlylocal",
+    "isopen": true,
+    "url": "http://openlylocal.com/",
+    "notes": "The project provides a unified way of accessing UK Local Government information. It has information on (as per 2011-12-03):\r\n\r\n* 163 councils\r\n* 11,418 councillors\r\n* 6,728 committees\r\n* 77,830 committee meetings\r\n* 498 hyperlocal sites\r\n* 44,855 documents\r\n* Over 270,956 pieces of data\r\n* 2,368,794 financial transactions\r\n\r\nMost of the data is accessible as XML, JSON and RDF through a simple API (just add .json or .xml to the URL). There is also a Google Gadget, an app for Hyperlocal sites using Ning, and a javascript widget.\r\n\r\n### Openness\r\n\r\n  * Open. CC-BY-SA and ODbL. See [license info](http://openlylocal.com/info/licence_info) page.\r\n  * No bulk download though API access to most of the underlying data.",
+    "title": "Openly Local :: Making Local Government More Transparent",
+    "extras": [
+        {
+            "value": "400",
+            "key": "links:dbpedia",
+            "__extras": {
+                "package_id": "3637fc69-0a33-480c-8c30-8afdaa666b3e",
+                "revision_id": "76c38eab-4f67-4ea6-aab8-93e9b014fab6"
+            }
+        },
+        {
+            "value": "60000",
+            "key": "links:opencorporates",
+            "__extras": {
+                "revision_id": "5dc8e05f-432a-403b-bb82-597bfa7455c9",
+                "package_id": "3637fc69-0a33-480c-8c30-8afdaa666b3e"
+            }
+        },
+        {
+            "value": "13500",
+            "key": "links:ordnance-survey-linked-data",
+            "__extras": {
+                "package_id": "3637fc69-0a33-480c-8c30-8afdaa666b3e",
+                "revision_id": "b1705e55-06e2-4c68-a8ea-7db79d8bb4f2"
+            }
+        },
+        {
+            "value": "13500",
+            "key": "links:statistics-data-gov-uk",
+            "__extras": {
+                "revision_id": "76c38eab-4f67-4ea6-aab8-93e9b014fab6",
+                "package_id": "3637fc69-0a33-480c-8c30-8afdaa666b3e"
+            }
+        },
+        {
+            "value": "http://openlylocal.com/id/",
+            "key": "namespace",
+            "__extras": {
+                "package_id": "3637fc69-0a33-480c-8c30-8afdaa666b3e",
+                "revision_id": "b6122d3a-752f-4793-b628-ac0c3d75608a"
+            }
+        },
+        {
+            "value": "Openly Local",
+            "key": "shortname",
+            "__extras": {
+                "package_id": "3637fc69-0a33-480c-8c30-8afdaa666b3e",
+                "revision_id": "f4610477-7dce-455d-91b2-6079b8c1f396"
+            }
+        },
+        {
+            "value": "10000000",
+            "key": "triples",
+            "__extras": {
+                "revision_id": "76c38eab-4f67-4ea6-aab8-93e9b014fab6",
+                "package_id": "3637fc69-0a33-480c-8c30-8afdaa666b3e"
+            }
+        }
+    ],
+    "license_url": "http://www.opendefinition.org/licenses/odc-odbl",
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "40c4818e-bb70-40aa-8931-dee8d7f2896d",
+    "license_information": {
+        "domain_content": false,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "",
+        "status": "active"
+    }
+}

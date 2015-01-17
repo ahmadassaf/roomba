@@ -1,0 +1,354 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Ross Singer",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "rossfsinger@gmail.com",
+    "revision_timestamp": "2013-10-10T22:20:47.714758",
+    "id": "d9d8a9c5-622c-4085-80f3-308f597d05aa",
+    "metadata_created": "2010-09-09T20:30:09.149034",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T22:20:47.714758",
+    "author": "Ross Singer",
+    "author_email": "rossfsinger@gmail.com",
+    "state": "active",
+    "version": "1",
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "SPARQL endpoint",
+            "format": "api/sparql",
+            "url": "http://api.talis.com/stores/rsinger-dev4/services/sparql",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 23,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-01-26T09:56:47.698890",
+            "webstore_url": null,
+            "resource_group_id": "d9fc2579-947c-58fa-fa8f-5153081b400e",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "27298812-04f7-4551-8e11-bb302adb9735",
+            "size": null,
+            "id": "afe73bfe-1bda-4948-89cb-4ae4f677400c",
+            "resource_type": "",
+            "name": ""
+        },
+        {
+            "mimetype": "",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "HTML RDFa example",
+            "format": "example/rdfa",
+            "url": "http://purl.org/NET/lccn/76090902",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 26,
+                "recent": 6
+            },
+            "revision_timestamp": "2012-01-26T09:56:47.698890",
+            "webstore_url": null,
+            "resource_group_id": "d9fc2579-947c-58fa-fa8f-5153081b400e",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "27298812-04f7-4551-8e11-bb302adb9735",
+            "size": null,
+            "id": "5fbcef2e-7c9d-48cd-b1d5-0ab44f50d303",
+            "resource_type": "",
+            "name": ""
+        },
+        {
+            "mimetype": "",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "RDF/XML example",
+            "format": "example/rdf+xml",
+            "url": "http://purl.org/NET/lccn/93707283.rdf",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 31,
+                "recent": 3
+            },
+            "revision_timestamp": "2012-01-26T09:56:47.698890",
+            "webstore_url": null,
+            "resource_group_id": "d9fc2579-947c-58fa-fa8f-5153081b400e",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "27298812-04f7-4551-8e11-bb302adb9735",
+            "size": null,
+            "id": "a6a2ed5d-64a4-41cf-ab3c-d01497921db9",
+            "resource_type": "",
+            "name": ""
+        }
+    ],
+    "num_resources": 3,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "format-bibo",
+            "name": "format-bibo",
+            "revision_timestamp": "2010-09-09T20:30:09.149034",
+            "state": "active",
+            "id": "4bbb2986-6e54-43b6-9dba-b55b0e3bdd60"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-dc",
+            "name": "format-dc",
+            "revision_timestamp": "2010-09-09T20:30:09.149034",
+            "state": "active",
+            "id": "0b675a54-621f-4fdb-850a-ef5d0b1b1ca3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-foaf",
+            "name": "format-foaf",
+            "revision_timestamp": "2010-09-09T20:30:09.149034",
+            "state": "active",
+            "id": "bd737030-1ba6-4913-baaa-bfa2581618b5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-frbr",
+            "name": "format-frbr",
+            "revision_timestamp": "2010-09-09T20:30:09.149034",
+            "state": "active",
+            "id": "e943c735-fd64-4943-97b4-77e648341d3e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-mo",
+            "name": "format-mo",
+            "revision_timestamp": "2010-09-09T20:30:09.149034",
+            "state": "active",
+            "id": "4f55ff15-e40a-4f1e-af47-20220091fddf"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-owl",
+            "name": "format-owl",
+            "revision_timestamp": "2010-09-09T20:30:09.149034",
+            "state": "active",
+            "id": "b88f7bba-f82e-49b2-9672-4cca65e040de"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2010-09-09T20:30:09.149034",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdfs",
+            "name": "format-rdfs",
+            "revision_timestamp": "2010-09-09T20:30:09.149034",
+            "state": "active",
+            "id": "781902f8-ba13-4330-bba3-54d0bbf24b58"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-skos",
+            "name": "format-skos",
+            "revision_timestamp": "2010-09-09T20:30:09.149034",
+            "state": "active",
+            "id": "4d405572-6308-41ed-a021-1990e618a626"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-xhtml",
+            "name": "format-xhtml",
+            "revision_timestamp": "2011-07-20T21:05:50.468822",
+            "state": "active",
+            "id": "05609255-b76b-4056-a895-1fb3da7c734a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "library",
+            "name": "library",
+            "revision_timestamp": "2010-09-09T20:30:09.149034",
+            "state": "active",
+            "id": "7ec1ef56-6c27-4299-a3fa-578756ddc421"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lld",
+            "name": "lld",
+            "revision_timestamp": "2011-01-05T20:59:23.548205",
+            "state": "active",
+            "id": "c1dea2c0-3fb8-47b8-9b37-c076756e6420"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2010-09-09T20:30:09.149034",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2010-10-07T11:12:53.385170",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-proprietary-vocab",
+            "name": "no-proprietary-vocab",
+            "revision_timestamp": "2010-10-07T11:12:53.385170",
+            "state": "active",
+            "id": "aef04cb8-a7aa-4419-8184-396b0ef6e680"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-provenance-metadata",
+            "name": "no-provenance-metadata",
+            "revision_timestamp": "2010-10-07T11:12:53.385170",
+            "state": "active",
+            "id": "585e9fca-2d67-4a07-b9d1-5495de054c7a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-vocab-mappings",
+            "name": "no-vocab-mappings",
+            "revision_timestamp": "2010-10-07T11:12:53.385170",
+            "state": "active",
+            "id": "e51273d8-dc60-4cf2-a68d-3cfd33b2c1fc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "publications",
+            "name": "publications",
+            "revision_timestamp": "2010-10-07T11:12:53.385170",
+            "state": "active",
+            "id": "c93ebe8f-83a0-498c-8704-1de94db149e9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2010-10-07T11:12:53.385170",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        }
+    ],
+    "tracking_summary": {
+        "total": 303,
+        "recent": 6
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 19,
+    "name": "linkedlccn",
+    "isopen": true,
+    "url": "http://purl.org/NET/lccn/",
+    "notes": "A wrapper for the Library of Congress' LCCN Permalink service which models the MARCXML output as linked data in RDF.\r\n\r\n",
+    "title": "LinkedLCCN",
+    "extras": [
+        {
+            "value": "4468",
+            "key": "links:books-isbn",
+            "__extras": {
+                "revision_id": "f8432ca4-2086-44a7-904e-cea55eaa4b88",
+                "package_id": "d9d8a9c5-622c-4085-80f3-308f597d05aa"
+            }
+        },
+        {
+            "value": "10911",
+            "key": "links:dbpedia",
+            "__extras": {
+                "revision_id": "f8432ca4-2086-44a7-904e-cea55eaa4b88",
+                "package_id": "d9d8a9c5-622c-4085-80f3-308f597d05aa"
+            }
+        },
+        {
+            "value": "6909",
+            "key": "links:dbtune-musicbrainz",
+            "__extras": {
+                "revision_id": "f8432ca4-2086-44a7-904e-cea55eaa4b88",
+                "package_id": "d9d8a9c5-622c-4085-80f3-308f597d05aa"
+            }
+        },
+        {
+            "value": "883",
+            "key": "links:linkedmdb",
+            "__extras": {
+                "package_id": "d9d8a9c5-622c-4085-80f3-308f597d05aa",
+                "revision_id": "f8432ca4-2086-44a7-904e-cea55eaa4b88"
+            }
+        },
+        {
+            "value": "80275",
+            "key": "links:marc-codes",
+            "__extras": {
+                "package_id": "d9d8a9c5-622c-4085-80f3-308f597d05aa",
+                "revision_id": "79ebbb90-e184-497c-a7ae-d2a8c9843291"
+            }
+        },
+        {
+            "value": "15331",
+            "key": "links:openlibrary",
+            "__extras": {
+                "package_id": "d9d8a9c5-622c-4085-80f3-308f597d05aa",
+                "revision_id": "f8432ca4-2086-44a7-904e-cea55eaa4b88"
+            }
+        },
+        {
+            "value": "209422",
+            "key": "links:viaf",
+            "__extras": {
+                "revision_id": "f8432ca4-2086-44a7-904e-cea55eaa4b88",
+                "package_id": "d9d8a9c5-622c-4085-80f3-308f597d05aa"
+            }
+        },
+        {
+            "value": "http://purl.org/NET/lccn/",
+            "key": "namespace",
+            "__extras": {
+                "package_id": "d9d8a9c5-622c-4085-80f3-308f597d05aa",
+                "revision_id": "5be663c5-40fc-44c5-a09d-a2065f1a3f62"
+            }
+        },
+        {
+            "value": "1573663",
+            "key": "triples",
+            "__extras": {
+                "revision_id": "f8432ca4-2086-44a7-904e-cea55eaa4b88",
+                "package_id": "d9d8a9c5-622c-4085-80f3-308f597d05aa"
+            }
+        }
+    ],
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "c07a6ba3-2e3f-4afd-b713-6743d100d899"
+}

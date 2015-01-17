@@ -1,0 +1,369 @@
+{
+    "license_title": "Creative Commons Attribution Share-Alike 4.0",
+    "maintainer": "Linkedopendata.it",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-10T21:25:13.184321",
+    "id": "65ee0e45-2d1a-47b5-8759-1040d0686b89",
+    "metadata_created": "2011-06-16T09:19:36.910859",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T21:25:13.184321",
+    "author": "Linkedopendata.it",
+    "author_email": "",
+    "state": "active",
+    "version": "",
+    "license_id": "CC-BY-SA-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "RDF Dump",
+            "format": "application/rdf+xml",
+            "url": "http://dump.linkedopendata.it/istat/immigrazione",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 19,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-09-05T15:08:54.831305",
+            "webstore_url": null,
+            "resource_group_id": "5fffd40f-130c-4569-ab8d-5a7c4e7091af",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "20e13613-a3e3-4163-850c-9747ad30ce50",
+            "size": "670656759",
+            "id": "dffbb429-6e50-4f80-89db-9ad68f82bd3f",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": null,
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "SPARQL Endpoint",
+            "format": "api/sparql",
+            "url": "http://sparql.linkedopendata.it/istat",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 19,
+                "recent": 7
+            },
+            "revision_timestamp": "2011-06-16T09:34:04.029473",
+            "webstore_url": null,
+            "resource_group_id": "5fffd40f-130c-4569-ab8d-5a7c4e7091af",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "f005a96b-caa2-4563-b3c2-1311e244214a",
+            "size": null,
+            "id": "552f7b51-b114-4899-bc88-c916e628312a",
+            "resource_type": null,
+            "name": null
+        },
+        {
+            "mimetype": null,
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Example resource",
+            "format": "example/rdf+xml",
+            "url": "http://data.linkedopendata.it/istat/resource/Obs-DCIS_MATRIMONISTR-2586",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 17,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-07-17T18:16:39.264608",
+            "webstore_url": null,
+            "resource_group_id": "5fffd40f-130c-4569-ab8d-5a7c4e7091af",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "5baffcd7-9af6-449f-a9ae-c873689d1f0d",
+            "size": null,
+            "id": "30865236-ae8c-44c1-9751-70a3f4667446",
+            "resource_type": null,
+            "name": null
+        },
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "VOID Description",
+            "format": "meta/void",
+            "url": "http://void.linkedopendata.it/istat",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 3,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-06-16T09:19:36.910859",
+            "webstore_url": null,
+            "resource_group_id": "5fffd40f-130c-4569-ab8d-5a7c4e7091af",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 3,
+            "revision_id": "01e69d34-532a-496e-8037-fea3a9355a0e",
+            "size": "4934",
+            "id": "43f1ed6a-d938-4af1-9aeb-77638be8ef05",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 4,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "country-italy",
+            "name": "country-italy",
+            "revision_timestamp": "2011-06-16T09:21:37.780504",
+            "state": "active",
+            "id": "edd814f5-a806-4129-856d-26bd792bf6e7"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-cube",
+            "name": "data-cube",
+            "revision_timestamp": "2011-06-16T09:19:36.910859",
+            "state": "active",
+            "id": "e68afde6-3bae-45d0-9e95-d92508f3f0e1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2011-07-18T11:28:10.257096",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-foaf",
+            "name": "format-foaf",
+            "revision_timestamp": "2011-07-17T21:23:57.031076",
+            "state": "active",
+            "id": "bd737030-1ba6-4913-baaa-bfa2581618b5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-org",
+            "name": "format-org",
+            "revision_timestamp": "2011-07-17T21:23:57.031076",
+            "state": "active",
+            "id": "7905552a-f7fe-4910-a03d-9a4a3184c895"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-qb",
+            "name": "format-qb",
+            "revision_timestamp": "2011-07-17T21:23:57.031076",
+            "state": "active",
+            "id": "9a97a273-f91a-48a9-9787-2de478368827"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2011-06-16T09:19:36.910859",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-sdmx",
+            "name": "format-sdmx",
+            "revision_timestamp": "2011-07-17T21:23:57.031076",
+            "state": "active",
+            "id": "2b6dd6ef-0658-4532-bb78-c5fe0d23f79d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-skos",
+            "name": "format-skos",
+            "revision_timestamp": "2011-07-17T21:23:57.031076",
+            "state": "active",
+            "id": "4d405572-6308-41ed-a021-1990e618a626"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "government",
+            "name": "government",
+            "revision_timestamp": "2011-07-18T11:28:10.257096",
+            "state": "active",
+            "id": "22fddbd6-8780-4ce0-826f-e41efdc36688"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "immigration",
+            "name": "immigration",
+            "revision_timestamp": "2011-06-16T09:26:19.859616",
+            "state": "active",
+            "id": "f28b048d-03a4-4e2d-ac19-1989a1d358ae"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "istat",
+            "name": "istat",
+            "revision_timestamp": "2011-06-16T09:19:36.910859",
+            "state": "active",
+            "id": "9b95ada6-117d-432e-890e-6ed431090ba8"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "italy",
+            "name": "italy",
+            "revision_timestamp": "2011-06-16T09:19:36.910859",
+            "state": "active",
+            "id": "0f646471-50c0-419e-9481-491751b4514a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "license-metadata",
+            "name": "license-metadata",
+            "revision_timestamp": "2011-07-20T19:20:10.018148",
+            "state": "active",
+            "id": "8d7e5c73-261b-4137-a278-42f56a6ec4bb"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "linked-data",
+            "name": "linked-data",
+            "revision_timestamp": "2011-06-16T09:19:36.910859",
+            "state": "active",
+            "id": "da357fd4-540f-4bdd-a6cc-9dfa85e8c19a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "linkedopendata.it",
+            "name": "linkedopendata.it",
+            "revision_timestamp": "2011-06-16T09:19:36.910859",
+            "state": "active",
+            "id": "797d3d40-4541-4e79-b189-23d8dff17aa8"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2011-06-16T09:19:36.910859",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "provenance-metadata",
+            "name": "provenance-metadata",
+            "revision_timestamp": "2011-07-24T16:58:28.868919",
+            "state": "active",
+            "id": "24a0f0a3-36bc-4209-84e5-7d6b89d82dfa"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2011-07-18T11:28:10.257096",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "statistics",
+            "name": "statistics",
+            "revision_timestamp": "2011-06-16T09:19:36.910859",
+            "state": "active",
+            "id": "bc8c6189-2861-4db1-9ea5-6cf2d546e40d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "void-sparql-endpoint",
+            "name": "void-sparql-endpoint",
+            "revision_timestamp": "2011-07-24T11:56:02.148555",
+            "state": "active",
+            "id": "9d821331-6c26-4261-bd2b-12dab19d508e"
+        }
+    ],
+    "tracking_summary": {
+        "total": 237,
+        "recent": 4
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 21,
+    "name": "istat-immigration",
+    "isopen": true,
+    "url": "http://www.linkedopendata.it/datasets/istat-immigration",
+    "notes": "Statistical data about immigration in Italy and related topics.\r\nOriginal data comes from the National Statistical Institute of Italy (ISTAT, dati.istat.it) and has been put in RDF Data Cube format by Linked Open Data Italia association.",
+    "title": "ISTAT Immigration (LinkedOpenData.it)",
+    "extras": [
+        {
+            "value": "319",
+            "key": "links:dbpedia",
+            "__extras": {
+                "revision_id": "91a1631a-e327-4507-b64c-0e2b31dd6dad",
+                "package_id": "65ee0e45-2d1a-47b5-8759-1040d0686b89"
+            }
+        },
+        {
+            "value": "190",
+            "key": "links:geonames-semantic-web",
+            "__extras": {
+                "revision_id": "91a1631a-e327-4507-b64c-0e2b31dd6dad",
+                "package_id": "65ee0e45-2d1a-47b5-8759-1040d0686b89"
+            }
+        },
+        {
+            "value": "11",
+            "key": "links:reference-data-gov-uk",
+            "__extras": {
+                "revision_id": "91a1631a-e327-4507-b64c-0e2b31dd6dad",
+                "package_id": "65ee0e45-2d1a-47b5-8759-1040d0686b89"
+            }
+        },
+        {
+            "value": "3024396",
+            "key": "triples",
+            "__extras": {
+                "package_id": "65ee0e45-2d1a-47b5-8759-1040d0686b89",
+                "revision_id": "e8688f13-19b7-4e99-a020-66a4cbba4ca9"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "fa551fd2-4e82-4b52-93e5-431038553504",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

@@ -1,0 +1,577 @@
+{
+    "missing": [
+        "group",
+        "resources"
+    ],
+    "undefined": [],
+    "unreachableURLs": [],
+    "report": [
+        "group information is missing. Check organization information as they can be mixed sometimes",
+        "resources information (API endpoints, downloadable dumpds, etc.) is missing"
+    ],
+    "tag": {
+        "deref-vocab": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "format-rdf": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "lod": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "no-license-metadata": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "no-provenance-metadata": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "open_source": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "published-by-producer": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "software": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "source_code": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "usergeneratedcontent": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        }
+    },
+    "license": {
+        "license": {
+            "missing": [
+                "license_url"
+            ],
+            "undefined": [],
+            "unreachableURLs": [],
+            "report": [
+                "license_url field is missing",
+                "We could not normalize the license information as no valid mapping was found !"
+            ]
+        }
+    },
+    "resource": {
+        "RDF Schema (VERON)": {
+            "missing": [
+                "url-type",
+                "created"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "name",
+                "webstore_url",
+                "last_modified",
+                "resource_type"
+            ],
+            "unreachableURLs": [
+                "http://aseg.cs.concordia.ca/ontologies/2010/11/veron.rdf"
+            ],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "name field exists but there is no value defined",
+                "created field is missing",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined",
+                "resource_type field exists but there is no value defined",
+                "The url for this resource is not reachable !"
+            ],
+            "unreachableTypes": {
+                "null": "http://aseg.cs.concordia.ca/ontologies/2010/11/veron.rdf"
+            }
+        },
+        "RDF Schema (SOCON)": {
+            "missing": [
+                "url-type",
+                "created"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "name",
+                "webstore_url",
+                "last_modified",
+                "resource_type"
+            ],
+            "unreachableURLs": [
+                "http://aseg.cs.concordia.ca/ontologies/2010/11/socon.rdf"
+            ],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "name field exists but there is no value defined",
+                "created field is missing",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined",
+                "resource_type field exists but there is no value defined",
+                "The url for this resource is not reachable !"
+            ],
+            "unreachableTypes": {
+                "null": "http://aseg.cs.concordia.ca/ontologies/2010/11/socon.rdf"
+            }
+        },
+        "All triples of SECOLD Version 001 (Compressed)": {
+            "missing": [
+                "url-type",
+                "created"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "name",
+                "webstore_url",
+                "last_modified",
+                "resource_type"
+            ],
+            "unreachableURLs": [
+                "http://aseg.cs.concordia.ca/secold/download/static/secold_v_001.tar"
+            ],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "name field exists but there is no value defined",
+                "created field is missing",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined",
+                "resource_type field exists but there is no value defined",
+                "The url for this resource is not reachable !"
+            ],
+            "unreachableTypes": {
+                "null": "http://aseg.cs.concordia.ca/secold/download/static/secold_v_001.tar"
+            }
+        },
+        "RDF Schema (METON)": {
+            "missing": [
+                "url-type",
+                "created"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "name",
+                "webstore_url",
+                "last_modified",
+                "resource_type"
+            ],
+            "unreachableURLs": [
+                "http://aseg.cs.concordia.ca/ontologies/2010/11/meton.rdf"
+            ],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "name field exists but there is no value defined",
+                "created field is missing",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined",
+                "resource_type field exists but there is no value defined",
+                "The url for this resource is not reachable !"
+            ],
+            "unreachableTypes": {
+                "null": "http://aseg.cs.concordia.ca/ontologies/2010/11/meton.rdf"
+            }
+        },
+        "Link to an example data item (a Java type) within the data set (RDF/XML)": {
+            "missing": [
+                "url-type",
+                "created"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "name",
+                "webstore_url",
+                "last_modified",
+                "resource_type"
+            ],
+            "unreachableURLs": [
+                "http://aseg.cs.concordia.ca/secold/download/static/secold_001_samples/sample_fqn_java.util.Collection.rdf"
+            ],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "name field exists but there is no value defined",
+                "created field is missing",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined",
+                "resource_type field exists but there is no value defined",
+                "The url for this resource is not reachable !"
+            ],
+            "unreachableTypes": {
+                "null": "http://aseg.cs.concordia.ca/secold/download/static/secold_001_samples/sample_fqn_java.util.Collection.rdf"
+            }
+        },
+        "Link to an example data item (a software project) within the data set (RDF/XML)": {
+            "missing": [
+                "url-type",
+                "created"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "name",
+                "webstore_url",
+                "last_modified",
+                "resource_type"
+            ],
+            "unreachableURLs": [
+                "http://aseg.cs.concordia.ca/secold/download/static/secold_001_samples/sample_project_apache_lucene.rdf"
+            ],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "name field exists but there is no value defined",
+                "created field is missing",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined",
+                "resource_type field exists but there is no value defined",
+                "The url for this resource is not reachable !"
+            ],
+            "unreachableTypes": {
+                "null": "http://aseg.cs.concordia.ca/secold/download/static/secold_001_samples/sample_project_apache_lucene.rdf"
+            }
+        },
+        "Link to an example data item (a project snapshot) within the data set (RDF/XML)": {
+            "missing": [
+                "url-type",
+                "created"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "name",
+                "webstore_url",
+                "last_modified",
+                "resource_type"
+            ],
+            "unreachableURLs": [
+                "http://aseg.cs.concordia.ca/secold/download/static/secold_001_samples/sample_snapshot_of_lucene_project.rdf"
+            ],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "name field exists but there is no value defined",
+                "created field is missing",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined",
+                "resource_type field exists but there is no value defined",
+                "The url for this resource is not reachable !"
+            ],
+            "unreachableTypes": {
+                "null": "http://aseg.cs.concordia.ca/secold/download/static/secold_001_samples/sample_snapshot_of_lucene_project.rdf"
+            }
+        },
+        "Link to an example data item (a source code file) within the data set (RDF/XML)": {
+            "missing": [
+                "url-type",
+                "created"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "name",
+                "webstore_url",
+                "last_modified",
+                "resource_type"
+            ],
+            "unreachableURLs": [
+                "http://aseg.cs.concordia.ca/secold/download/static/secold_001_samples/sample_variation_of_a_java_class.rdf"
+            ],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "name field exists but there is no value defined",
+                "created field is missing",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined",
+                "resource_type field exists but there is no value defined",
+                "The url for this resource is not reachable !"
+            ],
+            "unreachableTypes": {
+                "null": "http://aseg.cs.concordia.ca/secold/download/static/secold_001_samples/sample_variation_of_a_java_class.rdf"
+            }
+        },
+        "Sparql Endpoint (Ajax-based GUI)": {
+            "missing": [
+                "url-type",
+                "created"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "format",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "name",
+                "webstore_url",
+                "last_modified",
+                "resource_type"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "format field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "name field exists but there is no value defined",
+                "created field is missing",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined",
+                "resource_type field exists but there is no value defined"
+            ]
+        },
+        "SECOLD download Page": {
+            "missing": [
+                "url-type",
+                "created"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "format",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "name",
+                "webstore_url",
+                "last_modified",
+                "resource_type"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "format field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "name field exists but there is no value defined",
+                "created field is missing",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined",
+                "resource_type field exists but there is no value defined"
+            ]
+        },
+        "Sparql Endpoint (No GUI)": {
+            "missing": [
+                "url-type",
+                "created"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "name",
+                "webstore_url",
+                "last_modified",
+                "resource_type"
+            ],
+            "unreachableURLs": [
+                "http://aseg.cs.concordia.ca/secold/sparqlendpoint"
+            ],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "name field exists but there is no value defined",
+                "created field is missing",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined",
+                "resource_type field exists but there is no value defined",
+                "The url for this resource is not reachable !"
+            ],
+            "unreachableTypes": {
+                "null": "http://aseg.cs.concordia.ca/secold/sparqlendpoint"
+            }
+        }
+    },
+    "counter": {
+        "group": 0,
+        "tag": 10,
+        "resource": 11
+    }
+}

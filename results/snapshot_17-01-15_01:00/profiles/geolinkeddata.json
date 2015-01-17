@@ -1,0 +1,296 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "GeoLinkedData Team",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "admin_linkeddata@delicias.dia.fi.upm.es",
+    "revision_timestamp": "2013-10-10T21:03:34.447464",
+    "id": "80c5f770-34ac-4fd8-8fa7-72a603b4800d",
+    "metadata_created": "2010-07-23T18:44:43.181416",
+    "owner_org": "746c2cd6-5c48-4e0a-9a5a-fda4f9f0a8bb",
+    "metadata_modified": "2013-10-10T21:03:34.447464",
+    "author": "Ontology Engineering Group, Facultad de Informática, Universidad Politécnica de Madrid.",
+    "author_email": "admin_linkeddata@delicias.dia.fi.upm.es",
+    "state": "active",
+    "version": "2010-08",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "SPARQL endpoint",
+            "format": "api/sparql",
+            "url": "http://geo.linkeddata.es/sparql",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 49,
+                "recent": 5
+            },
+            "revision_timestamp": "2011-11-13T20:05:01.903395",
+            "webstore_url": null,
+            "resource_group_id": "4cfcabe4-f15b-f31c-0548-82e035cf25d0",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "af003435-48b7-4521-bcb2-c543ed7ebdb8",
+            "size": "5155",
+            "id": "c2d634f0-5c3b-4f61-89eb-522d9ade2276",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Download",
+            "format": "application/x-ntriples",
+            "url": "http://geo.linkeddata.es/source/rdf/NOMGEO/NOMGEO_provincias.rdf",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 44,
+                "recent": 8
+            },
+            "revision_timestamp": "2011-11-13T20:05:01.903395",
+            "webstore_url": null,
+            "resource_group_id": "4cfcabe4-f15b-f31c-0548-82e035cf25d0",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "af003435-48b7-4521-bcb2-c543ed7ebdb8",
+            "size": "104521",
+            "id": "8ae3848f-6e58-4863-8d6b-328d30491a94",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "RDF Schema",
+            "format": "meta/rdf-schema",
+            "url": "http://geo.linkeddata.es/source/rdf/ontology/",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 33,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-11-13T20:05:01.903395",
+            "webstore_url": null,
+            "resource_group_id": "4cfcabe4-f15b-f31c-0548-82e035cf25d0",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "af003435-48b7-4521-bcb2-c543ed7ebdb8",
+            "size": null,
+            "id": "416b501d-4c5c-483f-83bb-518cdc9f52b2",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Link to an example data item within the dataset (RDF/XML)",
+            "format": "example/rdf+xml",
+            "url": "http://geo.linkeddata.es/resource/Provincia/Madrid",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 19,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-11-13T20:05:01.903395",
+            "webstore_url": null,
+            "resource_group_id": "4cfcabe4-f15b-f31c-0548-82e035cf25d0",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 3,
+            "revision_id": "af003435-48b7-4521-bcb2-c543ed7ebdb8",
+            "size": "78089",
+            "id": "eb783aa1-8d45-4126-aaa9-3bdd4d791db6",
+            "resource_type": "",
+            "name": "",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 4,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "country-spain",
+            "name": "country-spain",
+            "revision_timestamp": "2010-07-23T18:44:43.181416",
+            "state": "active",
+            "id": "b2415ddb-97a3-4480-a685-5ff85b367b0a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2010-10-06T22:46:27.880825",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-dc",
+            "name": "format-dc",
+            "revision_timestamp": "2011-07-20T21:12:21.441609",
+            "state": "active",
+            "id": "0b675a54-621f-4fdb-850a-ef5d0b1b1ca3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2010-07-23T18:44:43.181416",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "geodata",
+            "name": "geodata",
+            "revision_timestamp": "2010-07-23T18:44:43.181416",
+            "state": "active",
+            "id": "f0e0bbf6-8631-45f2-8484-cca996d863cb"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "geographic",
+            "name": "geographic",
+            "revision_timestamp": "2010-09-09T11:23:21.325575",
+            "state": "active",
+            "id": "dc08d94b-fbac-4bfc-92f0-94bee5fd546a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "government",
+            "name": "government",
+            "revision_timestamp": "2010-09-09T11:23:21.325575",
+            "state": "active",
+            "id": "22fddbd6-8780-4ce0-826f-e41efdc36688"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2010-07-23T18:44:43.181416",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-license-metadata",
+            "name": "no-license-metadata",
+            "revision_timestamp": "2010-10-06T22:46:27.880825",
+            "state": "active",
+            "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-provenance-metadata",
+            "name": "no-provenance-metadata",
+            "revision_timestamp": "2010-10-06T22:46:27.880825",
+            "state": "active",
+            "id": "585e9fca-2d67-4a07-b9d1-5495de054c7a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-vocab-mappings",
+            "name": "no-vocab-mappings",
+            "revision_timestamp": "2010-10-06T22:46:27.880825",
+            "state": "active",
+            "id": "e51273d8-dc60-4cf2-a68d-3cfd33b2c1fc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2010-10-07T07:12:32.519803",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "sparql",
+            "name": "sparql",
+            "revision_timestamp": "2010-07-23T18:44:43.181416",
+            "state": "active",
+            "id": "a86ffe1a-683e-4daf-afa3-0762a3a8e63f"
+        }
+    ],
+    "tracking_summary": {
+        "total": 1165,
+        "recent": 30
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 13,
+    "name": "geolinkeddata",
+    "isopen": false,
+    "url": "http://geo.linkeddata.es/",
+    "notes": "GeoLinkedData (.es) is an open initiative whose aim is to enrich the Web of Data with Spanish geospatial data. This initiative started off by publishing diverse information sources belonging to the National Geographic Institute of Spain. Such sources are made available as RDF (Resource Description Framework) knowledge bases according to the Linked Data principles. These data are interlinked with other knowledge bases belonging to the Linking Open Data Initiative.",
+    "title": "GeoLinkedData",
+    "extras": [
+        {
+            "value": "51",
+            "key": "links:dbpedia",
+            "__extras": {
+                "package_id": "80c5f770-34ac-4fd8-8fa7-72a603b4800d",
+                "revision_id": "8ebb75d0-460d-4bc2-9650-b4aff34a1e2a"
+            }
+        },
+        {
+            "value": "51",
+            "key": "links:geonames-semantic-web",
+            "__extras": {
+                "revision_id": "3e703424-1c93-4cd8-90cc-45f12dcb61b0",
+                "package_id": "80c5f770-34ac-4fd8-8fa7-72a603b4800d"
+            }
+        },
+        {
+            "value": "http://geo.linkeddata.es/resource/",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "ca259746-bcd8-4a54-b583-85936366e785",
+                "package_id": "80c5f770-34ac-4fd8-8fa7-72a603b4800d"
+            }
+        },
+        {
+            "value": "21564199",
+            "key": "triples",
+            "__extras": {
+                "package_id": "80c5f770-34ac-4fd8-8fa7-72a603b4800d",
+                "revision_id": "0d2f8bfe-b247-440a-95f1-6920f92b68fd"
+            }
+        }
+    ],
+    "organization": {
+        "description": "",
+        "title": "linked-building-data",
+        "created": "2013-07-04T11:39:43.778036",
+        "approval_status": "approved",
+        "revision_timestamp": "2013-07-04T16:39:43.718600",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "",
+        "revision_id": "d58bc7b5-c86d-4f97-98da-bf99c3b6740b",
+        "type": "organization",
+        "id": "746c2cd6-5c48-4e0a-9a5a-fda4f9f0a8bb",
+        "name": "linked-building-data"
+    },
+    "revision_id": "070895a8-536e-4179-a0f6-8970d22d994f"
+}

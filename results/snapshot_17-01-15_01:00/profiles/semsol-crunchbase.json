@@ -1,0 +1,162 @@
+{
+    "license_title": "",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-10T23:37:54.614785",
+    "id": "ddfd2c75-9060-41e0-bdcc-2bc230c85b49",
+    "metadata_created": "2010-08-29T15:03:04.604574",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T23:37:54.614785",
+    "author": "Benjamin Nowack",
+    "author_email": "bnowack@semsol.com",
+    "state": "active",
+    "version": "",
+    "license_id": "",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "SPARQL endpoint",
+            "format": "api/sparql",
+            "url": "http://cb.semsol.org/sparql",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 25,
+                "recent": 3
+            },
+            "revision_timestamp": "2010-08-29T15:03:04.604574",
+            "webstore_url": null,
+            "resource_group_id": "50eaf23b-ae24-7c3c-5c61-14b4e458d83a",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "54d4a6be-13fb-4baf-b01f-772696928acb",
+            "size": null,
+            "id": "eb85e204-56d7-444f-840a-1454bcbe3409",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Download (last month)",
+            "format": "application/rdf+xml",
+            "url": "http://cb.semsol.org/sparql?query=dump",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 29,
+                "recent": 3
+            },
+            "revision_timestamp": "2010-08-29T18:45:21.624184",
+            "webstore_url": null,
+            "resource_group_id": "50eaf23b-ae24-7c3c-5c61-14b4e458d83a",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "fd3a7750-43fc-450e-a945-bb45470df094",
+            "size": null,
+            "id": "d4bfbdb1-7d57-4e16-a476-212a274eff3b",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "crossdomain",
+            "name": "crossdomain",
+            "revision_timestamp": "2010-10-07T09:13:44.085529",
+            "state": "active",
+            "id": "833848ee-ef06-4283-bb26-164f6c3474b4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2010-08-29T15:03:04.604574",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2010-08-29T15:03:04.604574",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lodcloud.needsfixing",
+            "name": "lodcloud.needsfixing",
+            "revision_timestamp": "2011-07-12T22:24:20.582406",
+            "state": "active",
+            "id": "06286ab8-a762-494e-84de-53b8c4c7690b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2010-10-07T09:13:44.085529",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        }
+    ],
+    "tracking_summary": {
+        "total": 143,
+        "recent": 9
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "semsol-crunchbase",
+    "isopen": false,
+    "url": "http://cb.semsol.org",
+    "notes": "This datasource seems to be permanently down. A potential pointer might be this tweet from the maintainer: https://twitter.com/#!/bengee/status/90414011685941248:\r\n\r\n\"another dependency (before #job search) removed: semsol.com now redirects to bnowack.de\"",
+    "title": "Semantic CrunchBase",
+    "extras": [
+        {
+            "value": "250",
+            "key": "links:dbpedia",
+            "__extras": {
+                "revision_id": "f747972b-b255-4bd6-8f98-41dc484a98b1",
+                "package_id": "ddfd2c75-9060-41e0-bdcc-2bc230c85b49"
+            }
+        },
+        {
+            "value": "955676",
+            "key": "triples",
+            "__extras": {
+                "revision_id": "54d4a6be-13fb-4baf-b01f-772696928acb",
+                "package_id": "ddfd2c75-9060-41e0-bdcc-2bc230c85b49"
+            }
+        }
+    ],
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "53be7b03-6a05-46f1-90ba-975218ea942f"
+}

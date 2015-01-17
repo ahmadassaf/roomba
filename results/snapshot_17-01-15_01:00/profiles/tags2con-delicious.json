@@ -1,0 +1,396 @@
+{
+    "license_title": "Creative Commons Attribution-NonCommercial 4.0",
+    "maintainer": "Pierre Andrews",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "andrews@disi.unitn.it",
+    "revision_timestamp": "2013-10-10T23:48:02.395455",
+    "id": "d8468a0a-5322-4829-b900-ffe932ce1764",
+    "metadata_created": "2010-12-23T23:05:24.540813",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T23:48:02.395455",
+    "author": "Pierre Andrews, Ilya Zaihrayeu, Juan Pane",
+    "author_email": "andrews@disi.unitn.it; ilya@disi.unitn.it; pane@disi.unitn.it",
+    "state": "active",
+    "version": "1.1",
+    "license_id": "CC-BY-NC-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "dataset VOID description",
+            "format": "meta/void",
+            "url": "http://disi.unitn.it/~knowdive/dataset/delicious/tags2con_dataset.rdf",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 9,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-07-19T11:36:10.613975",
+            "webstore_url": null,
+            "resource_group_id": "c758d868-96db-6d70-3702-64d4bbe1cdc7",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "46006c5c-1a17-4174-ac71-5153f5c9dd29",
+            "size": "1102869",
+            "id": "688aa779-f285-440a-ae42-7d573e3a8f77",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "all tags in the dataset",
+            "format": "application/rdf+xml",
+            "url": "http://disi.unitn.it/~knowdive/dataset/delicious/all/tags",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 19,
+                "recent": 7
+            },
+            "revision_timestamp": "2011-07-19T11:36:10.613975",
+            "webstore_url": null,
+            "resource_group_id": "c758d868-96db-6d70-3702-64d4bbe1cdc7",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "46006c5c-1a17-4174-ac71-5153f5c9dd29",
+            "size": "283836",
+            "id": "fe0317ab-e737-46b5-b15c-dd5fa324851b",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "all bookmarks in the dataset",
+            "format": "application/rdf+xml",
+            "url": "http://disi.unitn.it/~knowdive/dataset/delicious/all/bookmarks",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 7,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-07-19T11:36:10.613975",
+            "webstore_url": null,
+            "resource_group_id": "c758d868-96db-6d70-3702-64d4bbe1cdc7",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "46006c5c-1a17-4174-ac71-5153f5c9dd29",
+            "size": "180405",
+            "id": "35949a8f-06b9-4cec-b4e5-b08a5fe4c7fc",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/n3",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "all users in the dataset",
+            "format": "application/rdf+xml",
+            "url": "http://disi.unitn.it/~knowdive/dataset/delicious/all/users",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 9,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-07-19T11:36:10.613975",
+            "webstore_url": null,
+            "resource_group_id": "c758d868-96db-6d70-3702-64d4bbe1cdc7",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 3,
+            "revision_id": "46006c5c-1a17-4174-ac71-5153f5c9dd29",
+            "size": "132111",
+            "id": "76229c4f-7e9c-4535-9991-809f6390cb56",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/rdf+xml",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "all concepts in the dataset",
+            "format": "application/rdf+xml",
+            "url": "http://disi.unitn.it/~knowdive/dataset/delicious/all/concepts",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 7,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-07-19T11:36:10.613975",
+            "webstore_url": null,
+            "resource_group_id": "c758d868-96db-6d70-3702-64d4bbe1cdc7",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 4,
+            "revision_id": "46006c5c-1a17-4174-ac71-5153f5c9dd29",
+            "size": "78577",
+            "id": "b6ed8fca-d396-43cb-8d95-f3e625d92972",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/n3",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Example tag",
+            "format": "example/rdf+xml",
+            "url": "http://disi.unitn.it/~knowdive/dataset/delicious/tag/youth_hostels/1691",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 9,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-07-19T11:36:10.613975",
+            "webstore_url": null,
+            "resource_group_id": "c758d868-96db-6d70-3702-64d4bbe1cdc7",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 5,
+            "revision_id": "46006c5c-1a17-4174-ac71-5153f5c9dd29",
+            "size": "1578",
+            "id": "e6d97f39-d82a-49b3-bc00-8ae284d55217",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "text/n3",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Proprietary vocabulary",
+            "format": "meta/rdf-schema",
+            "url": "http://disi.unitn.it/~knowdive/dataset/delicious/tags2con",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 5,
+                "recent": 5
+            },
+            "revision_timestamp": "2011-07-19T11:44:03.494569",
+            "webstore_url": null,
+            "resource_group_id": "c758d868-96db-6d70-3702-64d4bbe1cdc7",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 6,
+            "revision_id": "c0ae61a0-dc13-444c-9312-e7d5f8e3a809",
+            "size": "3718",
+            "id": "10121896-d3c6-492b-9b56-4d4efad6ab91",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 7,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "delicious",
+            "name": "delicious",
+            "revision_timestamp": "2010-12-23T23:05:24.540813",
+            "state": "active",
+            "id": "053b9b80-a949-4554-acdd-53a81cc78dfa"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2011-07-19T11:39:26.201320",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "folksonomy",
+            "name": "folksonomy",
+            "revision_timestamp": "2010-12-23T23:05:24.540813",
+            "state": "active",
+            "id": "da484f1a-7716-47de-8298-d81f86a73ac3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-foaf",
+            "name": "format-foaf",
+            "revision_timestamp": "2011-07-19T13:16:55.395972",
+            "state": "active",
+            "id": "bd737030-1ba6-4913-baaa-bfa2581618b5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "insemtives",
+            "name": "insemtives",
+            "revision_timestamp": "2010-12-23T23:05:24.540813",
+            "state": "active",
+            "id": "6ec1b222-208f-4eae-8ed1-a801748a90b5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "knowdive",
+            "name": "knowdive",
+            "revision_timestamp": "2010-12-23T23:05:24.540813",
+            "state": "active",
+            "id": "730abc71-678e-44ab-8093-50896f9e6833"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "license-metadata",
+            "name": "license-metadata",
+            "revision_timestamp": "2010-12-23T23:08:40.204840",
+            "state": "active",
+            "id": "8d7e5c73-261b-4137-a278-42f56a6ec4bb"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2010-12-23T23:05:24.540813",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "provenance-metadata",
+            "name": "provenance-metadata",
+            "revision_timestamp": "2010-12-23T23:08:40.204840",
+            "state": "active",
+            "id": "24a0f0a3-36bc-4209-84e5-7d6b89d82dfa"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2011-07-19T11:39:26.201320",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "semantic",
+            "name": "semantic",
+            "revision_timestamp": "2010-12-23T23:05:24.540813",
+            "state": "active",
+            "id": "dbe5f251-3d2f-4ca1-a00a-c58f88077281"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "socialweb",
+            "name": "socialweb",
+            "revision_timestamp": "2010-12-23T23:08:40.204840",
+            "state": "active",
+            "id": "a525dc54-eefd-49f1-8193-8cbfc954980b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "tagging",
+            "name": "tagging",
+            "revision_timestamp": "2010-12-23T23:05:24.540813",
+            "state": "active",
+            "id": "b85bfe6d-4d85-4d84-acc6-a7e16d65e1fc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "usergeneratedcontent",
+            "name": "usergeneratedcontent",
+            "revision_timestamp": "2010-12-23T23:08:40.204840",
+            "state": "active",
+            "id": "e9b2da79-5971-41f9-a314-36d368636b85"
+        }
+    ],
+    "tracking_summary": {
+        "total": 209,
+        "recent": 5
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 14,
+    "name": "tags2con-delicious",
+    "isopen": false,
+    "url": "http://disi.unitn.it/~knowdive/dataset/delicious/",
+    "notes": "The tags2con dataset has been manually created by a group of human annotators that linked del.icio.us tags to their real meaning.\r\n\r\nA subset of a delicious dump has been used to create the tags2con dataset, a set of 500 user-bookmarks pairs have been selected randomly and all the tags used by these pairs have been manually cleaned and disambiguated to WordNet synsets.\r\n\r\nMore user-bookmark are being currently annotated.",
+    "title": "tags2con delicious",
+    "extras": [
+        {
+            "value": "609",
+            "key": "links:vu-wordnet",
+            "__extras": {
+                "revision_id": "c0d40399-eb47-49b4-9947-8deb24542eff",
+                "package_id": "d8468a0a-5322-4829-b900-ffe932ce1764"
+            }
+        },
+        {
+            "value": "http://disi.unitn.it/~knowdive/dataset/delicious/",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "46006c5c-1a17-4174-ac71-5153f5c9dd29",
+                "package_id": "d8468a0a-5322-4829-b900-ffe932ce1764"
+            }
+        },
+        {
+            "value": "socialweb",
+            "key": "topic",
+            "__extras": {
+                "revision_id": "95390378-8aa4-4c04-9fd6-11e984993eae",
+                "package_id": "d8468a0a-5322-4829-b900-ffe932ce1764"
+            }
+        },
+        {
+            "value": "85908",
+            "key": "triples",
+            "__extras": {
+                "package_id": "d8468a0a-5322-4829-b900-ffe932ce1764",
+                "revision_id": "c0d40399-eb47-49b4-9947-8deb24542eff"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "3810ff83-f32e-4ecc-9f07-a77600d71efe",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "Creative Commons",
+        "od_conformance": "rejected",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

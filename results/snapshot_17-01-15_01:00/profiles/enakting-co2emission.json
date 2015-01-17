@@ -1,0 +1,203 @@
+{
+    "license_title": "Creative Commons Attribution 4.0",
+    "maintainer": "Tope Omitola",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "t.omitola@ecs.soton.ac.uk",
+    "revision_timestamp": "2013-10-10T20:49:05.851867",
+    "id": "44f52e97-d2c3-4fcd-a4e5-1661c5e000f3",
+    "metadata_created": "2010-09-11T17:45:44.324051",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T20:49:05.851867",
+    "author": "Tope Omitola",
+    "author_email": "t.omitola@ecs.soton.ac.uk",
+    "state": "active",
+    "version": "",
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": null,
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "voiD file",
+            "format": "meta/void",
+            "url": "http://co2emission.psi.enakting.org/id/void",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 14,
+                "recent": 6
+            },
+            "revision_timestamp": "2010-09-22T09:36:17.346048",
+            "webstore_url": null,
+            "resource_group_id": "53d9aa21-d087-6b6a-7986-bba0e5c2386a",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "c5354812-1ffe-44a0-89f3-d596879c5871",
+            "size": null,
+            "id": "7ec09e71-8f63-476c-a03b-a57aa03b6523",
+            "resource_type": null,
+            "name": null
+        },
+        {
+            "mimetype": null,
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Example (RDF/XML)",
+            "format": "example/rdf+xml",
+            "url": "http://co2emission.psi.enakting.org/def/NUTS4Area",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 21,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-07-20T16:23:48.216496",
+            "webstore_url": null,
+            "resource_group_id": "53d9aa21-d087-6b6a-7986-bba0e5c2386a",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "c219db6f-2130-4ab5-9012-163c012d6b3e",
+            "size": null,
+            "id": "5d0f4119-f9c0-4ea2-887e-67e531444c80",
+            "resource_type": null,
+            "name": null
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "deref-vocab",
+            "name": "deref-vocab",
+            "revision_timestamp": "2011-07-20T16:23:48.216496",
+            "state": "active",
+            "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-rdf",
+            "name": "format-rdf",
+            "revision_timestamp": "2010-09-11T17:45:44.324051",
+            "state": "active",
+            "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-xhtml",
+            "name": "format-xhtml",
+            "revision_timestamp": "2011-07-20T21:08:19.929008",
+            "state": "active",
+            "id": "05609255-b76b-4056-a895-1fb3da7c734a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "government",
+            "name": "government",
+            "revision_timestamp": "2010-10-07T07:16:17.731775",
+            "state": "active",
+            "id": "22fddbd6-8780-4ce0-826f-e41efdc36688"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2010-09-11T17:45:44.324051",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-third-party",
+            "name": "published-by-third-party",
+            "revision_timestamp": "2010-10-07T07:16:17.731775",
+            "state": "active",
+            "id": "61a91c2c-78df-4237-9195-faa353244514"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "statistics",
+            "name": "statistics",
+            "revision_timestamp": "2010-10-08T19:49:44.444393",
+            "state": "active",
+            "id": "bc8c6189-2861-4db1-9ea5-6cf2d546e40d"
+        }
+    ],
+    "tracking_summary": {
+        "total": 275,
+        "recent": 13
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 7,
+    "name": "enakting-co2emission",
+    "isopen": true,
+    "url": "http://co2emission.psi.enakting.org/",
+    "notes": "UK CO2 Emission data extracted from the spreadsheet 'Local and Regional CO2 Emissions Estimates for 2005-2007', produced by the UK's Department of Energy and Climate Change.",
+    "title": "EnAKTing CO2 Emission Dataset",
+    "extras": [
+        {
+            "value": "377",
+            "key": "links:ordnance-survey-linked-data",
+            "__extras": {
+                "package_id": "44f52e97-d2c3-4fcd-a4e5-1661c5e000f3",
+                "revision_id": "0d600d65-fbaf-49e3-ab34-5db5c1bd99f1"
+            }
+        },
+        {
+            "value": "http://co2emission.psi.enakting.org/id/",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "c6d40d2e-1ee7-4f8a-9e99-b1c9508c6069",
+                "package_id": "44f52e97-d2c3-4fcd-a4e5-1661c5e000f3"
+            }
+        },
+        {
+            "value": "CO2 (EnAKTing)",
+            "key": "shortname ",
+            "__extras": {
+                "revision_id": "0d600d65-fbaf-49e3-ab34-5db5c1bd99f1",
+                "package_id": "44f52e97-d2c3-4fcd-a4e5-1661c5e000f3"
+            }
+        },
+        {
+            "value": "2316868",
+            "key": "triples",
+            "__extras": {
+                "package_id": "44f52e97-d2c3-4fcd-a4e5-1661c5e000f3",
+                "revision_id": "ab1a4140-47df-4014-9536-b5cf3c26387a"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "9d84de9d-cec0-47b4-94aa-79789f1da36a",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

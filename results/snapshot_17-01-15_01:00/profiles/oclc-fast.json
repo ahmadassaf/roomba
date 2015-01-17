@@ -1,0 +1,270 @@
+{
+    "license_title": "Open Data Commons Attribution License 1.0",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-10-10T23:12:46.781265",
+    "id": "b43c58c0-0dbe-4ed5-b311-8ad953f49155",
+    "metadata_created": "2011-12-16T10:04:18.006649",
+    "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+    "metadata_modified": "2013-10-10T23:12:46.781265",
+    "author": "OCLC Research",
+    "author_email": "",
+    "state": "active",
+    "version": "",
+    "license_id": "ODC-BY-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "Example resource (RDF)",
+            "format": "example/rdf+xml",
+            "url": "http://id.worldcat.org/fast/1411628",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 7,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-12-16T14:30:56.836518",
+            "webstore_url": null,
+            "resource_group_id": "8b261796-08fa-4263-8f11-b6955a71cb3e",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "97b68e6b-f625-4f13-ab94-f49ad4b09661",
+            "size": null,
+            "id": "004097bd-23a5-4017-8bca-d64b8bc52663",
+            "resource_type": "file",
+            "name": ""
+        },
+        {
+            "mimetype": "application/xml",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "OpenSearch",
+            "format": "api/opensearch",
+            "url": "http://experimental.worldcat.org/fast/xsl/FastOpenSearch.xml",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 11,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-12-16T14:19:13.987712",
+            "webstore_url": null,
+            "resource_group_id": "8b261796-08fa-4263-8f11-b6955a71cb3e",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 1,
+            "revision_id": "ea9bb2cb-adbd-47ee-a2ee-e1ba5386b354",
+            "size": "1172",
+            "id": "79fe1218-ef9e-49b8-a5d7-7b355a2871ef",
+            "resource_type": "api",
+            "name": "",
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "",
+            "cache_url": null,
+            "mimetype_inner": "",
+            "hash": "",
+            "description": "VoID description",
+            "format": "meta/void",
+            "url": "http://fast.oclc.org/fast/void/0.1/",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 5,
+                "recent": 3
+            },
+            "revision_timestamp": "2011-12-16T14:19:13.987712",
+            "webstore_url": null,
+            "resource_group_id": "8b261796-08fa-4263-8f11-b6955a71cb3e",
+            "state": "active",
+            "last_modified": null,
+            "webstore_last_updated": null,
+            "position": 2,
+            "revision_id": "ea9bb2cb-adbd-47ee-a2ee-e1ba5386b354",
+            "size": null,
+            "id": "13dedb5e-00ef-4bf8-9a2f-2fb54ca3bb0a",
+            "resource_type": "file",
+            "name": ""
+        }
+    ],
+    "num_resources": 3,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "authorities",
+            "name": "authorities",
+            "revision_timestamp": "2013-08-20T09:11:40.701093",
+            "state": "active",
+            "id": "180f8b50-ac1d-4174-a555-7bcaefbd46dd"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-dc",
+            "name": "format-dc",
+            "revision_timestamp": "2011-12-16T13:58:18.240235",
+            "state": "active",
+            "id": "0b675a54-621f-4fdb-850a-ef5d0b1b1ca3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-foaf",
+            "name": "format-foaf",
+            "revision_timestamp": "2011-12-16T14:19:13.987712",
+            "state": "active",
+            "id": "bd737030-1ba6-4913-baaa-bfa2581618b5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-skos",
+            "name": "format-skos",
+            "revision_timestamp": "2011-12-16T13:58:18.240235",
+            "state": "active",
+            "id": "4d405572-6308-41ed-a021-1990e618a626"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "format-void",
+            "name": "format-void",
+            "revision_timestamp": "2011-12-16T13:58:18.240235",
+            "state": "active",
+            "id": "d3333071-1566-4279-a795-522765bca9cf"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "license-metadata",
+            "name": "license-metadata",
+            "revision_timestamp": "2011-12-16T14:27:38.226430",
+            "state": "active",
+            "id": "8d7e5c73-261b-4137-a278-42f56a6ec4bb"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lod",
+            "name": "lod",
+            "revision_timestamp": "2011-12-16T13:58:18.240235",
+            "state": "active",
+            "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lodcloud",
+            "name": "lodcloud",
+            "revision_timestamp": "2011-12-16T13:58:18.240235",
+            "state": "active",
+            "id": "d12e8428-2d7b-4259-9c40-3886efb22a78"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "no-proprietary-vocab",
+            "name": "no-proprietary-vocab",
+            "revision_timestamp": "2011-12-16T14:27:38.226430",
+            "state": "active",
+            "id": "aef04cb8-a7aa-4419-8184-396b0ef6e680"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "provenance-metadata",
+            "name": "provenance-metadata",
+            "revision_timestamp": "2011-12-16T14:27:38.226430",
+            "state": "active",
+            "id": "24a0f0a3-36bc-4209-84e5-7d6b89d82dfa"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "publications",
+            "name": "publications",
+            "revision_timestamp": "2011-12-16T14:27:38.226430",
+            "state": "active",
+            "id": "c93ebe8f-83a0-498c-8704-1de94db149e9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "published-by-producer",
+            "name": "published-by-producer",
+            "revision_timestamp": "2011-12-16T14:27:38.226430",
+            "state": "active",
+            "id": "fcdb5c0a-2b91-44cb-83e5-19fd0d81125c"
+        }
+    ],
+    "tracking_summary": {
+        "total": 95,
+        "recent": 9
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 12,
+    "name": "oclc-fast",
+    "isopen": true,
+    "url": "http://id.worldcat.org/fast/",
+    "notes": "FAST (Faceted Application of Subject Terminology) is an enumerative, faceted subject heading schema derived from the Library of Congress Subject Headings (LCSH). Its purpose is to be easier to understand, control, apply, and use than LCSH. Any valid set of LC subject headings can be converted to FAST headings.\r\n\r\nFAST contains 1.6M authority records.\r\n\r\nThe triple count (30M) is a rough estimate based on the number of authority records. The LCSH link count is based on the observation that many but not all of the authority records have LCSH links. The Geonames link count is based on [this account](http://www.oclc.org/nextspace/018/research.htm) that states 100k total geographic entities with 60% matched to Geonames.",
+    "title": "Faceted Application of Subject Terminology",
+    "extras": [
+        {
+            "value": "60000",
+            "key": "links:geonames",
+            "__extras": {
+                "package_id": "b43c58c0-0dbe-4ed5-b311-8ad953f49155",
+                "revision_id": "750205ca-d4d5-451b-803a-21e91e7dce38"
+            }
+        },
+        {
+            "value": "1600000",
+            "key": "links:lcsh",
+            "__extras": {
+                "revision_id": "750205ca-d4d5-451b-803a-21e91e7dce38",
+                "package_id": "b43c58c0-0dbe-4ed5-b311-8ad953f49155"
+            }
+        },
+        {
+            "value": "http://id.worldcat.org/fast/",
+            "key": "namespace",
+            "__extras": {
+                "revision_id": "4500a9e4-6dc6-4055-875f-11348f588b04",
+                "package_id": "b43c58c0-0dbe-4ed5-b311-8ad953f49155"
+            }
+        },
+        {
+            "value": "30000000",
+            "key": "triples",
+            "__extras": {
+                "package_id": "b43c58c0-0dbe-4ed5-b311-8ad953f49155",
+                "revision_id": "ea9bb2cb-adbd-47ee-a2ee-e1ba5386b354"
+            }
+        }
+    ],
+    "license_url": "http://www.opendefinition.org/licenses/odc-by",
+    "organization": {
+        "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+        "title": "Linking Open Data Cloud",
+        "created": "2010-04-26T21:06:05.978206",
+        "approval_status": "approved",
+        "revision_timestamp": "2012-08-02T12:16:59.588379",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+        "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+        "type": "organization",
+        "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "name": "lodcloud"
+    },
+    "revision_id": "3e9ea26b-bd53-4e64-8f10-52bf138c1ef4",
+    "license_information": {
+        "domain_content": false,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Open Data Commons",
+        "status": "active"
+    }
+}
