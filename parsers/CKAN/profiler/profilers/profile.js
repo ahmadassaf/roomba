@@ -64,8 +64,8 @@ function profile(parent) {
 	* @param {String} key: the counter section we need to assign to update
 	* @param {Integer} value: the numerical value we want to increase the counter by
 	*/
-	this.augmentCounter = function setProfile(key, value) {
-		this.counter[key] += value;
+	this.setCounter = function setProfile(key, value) {
+		this.counter[key] = value;
 	}
 
 	/**
@@ -94,7 +94,7 @@ function profile(parent) {
 	this.addObject = function addObject(key, object, position) {
 		if (position) {
 			if (_.has(this.template, position))
-				this.template[position][key] = object;
+				_.isArray(this.template[position]) ? this.template[position].push(object): this.template[position][key] = object;
 		} else this.template[key] = object;
 	}
 
@@ -129,7 +129,7 @@ function profile(parent) {
 	* @param {String} message: the message we want to add to the report
 	* @param {Function} callback: return the check value
 	*/
-	this.checkReferencability = function checkReferencability(util, url, message, callback) {
+	this.checkReferencability = function checkReferencability(util, url, message, callback, isResource, resourceType) {
 
 		var profile = this;
 
@@ -137,6 +137,10 @@ function profile(parent) {
 			if (error) {
 				profile.addEntry("report", message);
 				profile.addEntry("unreachableURLs", url);
+				if (isResource) {
+					profile.addObject("unreachableTypes", {});
+					profile.addObject(resourceType, url, "unreachableTypes");
+				}
 				callback(true);
 			} else callback(false, response.headers);
 		}, "HEAD");
@@ -209,26 +213,56 @@ function profile(parent) {
 
 			// the report contains objects, groups, resources, license info, etc.
 			_.each(report, function(section, sectionKey) {
-
 				/* if we havent added that object key i.e group to the target then we do by filling it with the keys of the reports
 				* being [missing, undefined, etc.] and the value for them is an empty array
 				*/
 
 		  	_.each(section, function(element, elementKey) {
 					if (_.has(target, key)) {
-					 if (_.has(target[key], elementKey)) {
-				  		// Now we want to uniquely merge this key into the existing one [we check if its an array to do union or an object to extend]
-				  		_.each(element, function(elementile) {
-				  			_.has(target[key][elementKey],elementile) ? target[key][elementKey][elementile]++ : target[key][elementKey][elementile] = 1;
-			  		});
-			  		} else if (!_.isEmpty(element)) {
-			  			target[key][elementKey] = _.object(_.zip(element,Array.apply(null, new Array(element.length)).map(Number.prototype.valueOf,1)));
-			  		}
+						if (elementKey == "unreachableTypes") {
+							if (!_.has(target[key], "unreachableTypes")) target[key]["unreachableTypes"] = {};
+							if (_.has(target[key].unreachableTypes, _.keys(element)[0]))
+								target[key]["unreachableTypes"][_.keys(element)[0]]++;
+							else {
+								target[key]["unreachableTypes"][_.keys(element)[0]] = 1;
+							}
+						} else {
+							if (_.has(target[key], elementKey)) {
+					  		// Now we want to uniquely merge this key into the existing one [we check if its an array to do union or an object to extend]
+					  		_.each(element, function(elementile) {
+					  			_.has(target[key][elementKey],elementile) ? target[key][elementKey][elementile]++ : target[key][elementKey][elementile] = 1;
+				  			});
+				  		} else if (!_.isEmpty(element)) {
+				  			target[key][elementKey] = _.object(_.zip(element,Array.apply(null, new Array(element.length)).map(Number.prototype.valueOf,1)));
+				  		}
+						}
 					} else target[key] = {}
 		  	});
 			});
 	  }
 	  return target;
+	}
+
+	/**
+	* Merges all the unreachable URLS details information
+	*
+	* @method mergeUnreachableTypes
+	* @param {Object} target: the object we need to copy our objects and their properties into
+	* @param {Array} reports: An Array of objects on which will be copied into the target
+	*/
+	this.mergeUnreachableTypes = function mergeUnreachableTypes(target, reports){
+		_.each(reports, function(report, key) {
+			// only do the merge if the unreachablTypes is found and defined
+			if ( key == "unreachableTypes") {
+				if (!_.has(target, "unreachableTypes")) target["unreachableTypes"] = {};
+				if (_.has(target.unreachableTypes, _.keys(report)[0]))
+					target["unreachableTypes"][_.keys(report)[0]]++;
+				else {
+					target["unreachableTypes"][_.keys(report)[0]] = 1;
+				}
+			}
+		});
+		return target;
 	}
 
 	/**************************** Printers and Display ****************************/
@@ -283,9 +317,9 @@ function profile(parent) {
 
 			// Create the statistics report about the report of each nsection
 			var counter = sectionKey == "License" ? total : profile.counter[sectionKey.toLowerCase()];
-			profile.printStatistics(_.omit(section, ["unreachableURLs", "report"]), sectionKey, counter);
+			profile.printStatistics(_.omit(section, ["unreachableURLs", "report", "unreachableTypes"]), sectionKey, counter, true);
 			// Create the connectivity issues report
-			profile.printConnectivityIssues(sectionKey, section.unreachableURLs);
+			profile.printConnectivityIssues(sectionKey, section.unreachableURLs, null, report.resource);
 
 		});
 	}
@@ -323,12 +357,13 @@ function profile(parent) {
 
 						profile.printReport(element.report);
 						// create the statistics now by aggregating the information
-						aggregateReport = profile.mergeReports(aggregateReport, element, ["report"]);
+						aggregateReport = profile.mergeReports(aggregateReport, element, ["report", "unreachableTypes"]);
+						aggregateReport = profile.mergeUnreachableTypes(aggregateReport, element);
 				});
 				// Create the statistics report about the report of each section
-				profile.printStatistics(_.omit(aggregateReport, "unreachableURLs"), sectionKey, _.size(section));
+				profile.printStatistics(_.omit(aggregateReport, ["unreachableURLs","unreachableTypes"]), sectionKey, _.size(section));
 				// Create the connectivity issues report
-				profile.printConnectivityIssues(sectionKey, aggregateReport.unreachableURLs);
+				profile.printConnectivityIssues(sectionKey, aggregateReport.unreachableURLs, null, aggregateReport);
 			}
 		});
 	}
@@ -341,7 +376,7 @@ function profile(parent) {
 	* @param {String} key: the key of the object used to show in the printed title
 	* * @param {Integer} total: the total number of elements in that report used to generate the statistics
 	*/
-	this.printStatistics = function printStatistics(statisticsReport, key, total){
+	this.printStatistics = function printStatistics(statisticsReport, key, total, isAggregate){
 		if (statisticsReport && _.size(statisticsReport)) {
 
 		// print the mini spearator for the statsitics section
@@ -353,8 +388,10 @@ function profile(parent) {
 				util.colorify(["yellow","blue"], [text,parseFloat((value / total) * 100).toFixed(2)+ "%"]);
 			});
 		});
-
 		}
+
+		if (isAggregate) util.colorify("magenta", "Total elements count: " + total);
+
 	}
 
 	/**
@@ -365,7 +402,9 @@ function profile(parent) {
 	* @param {Boolean} isArray: check if the passed issue is an array or not
 	*/
 
-	this.printConnectivityIssues = function printConnectivityIssues(sectionKey, issues, isArray) {
+	this.printConnectivityIssues = function printConnectivityIssues(sectionKey, issues, isArray, aggregateReport) {
+
+		var profile = this;
 		if (issues && _.size(issues) > 0 ) {
 			// create the report about connectivity issues surrounding unreachableURLs
 			this.createTitleHead("red", util.capitalize(sectionKey) + " Connectivity Issues");
@@ -373,6 +412,16 @@ function profile(parent) {
 			util.colorify("red", aggregateText);
 			_.each(issues, function(dummyValue, URL) {
 				isArray ?  console.log("   - " + dummyValue) : console.log("   - " + URL);
+			});
+		}
+
+		if (_.has(aggregateReport, unreachableTypes)) {
+
+			var unreachableTypes = aggregateReport.unreachableTypes;
+			// print the mini spearator for the statsitics section
+			profile.createTitleHead("cyan", "Un-Reachable URLs Types");
+			_.each(unreachableTypes, function(value, type){
+				console.log("There are: " + value + " unreachable URLs of type [" + type + "]");
 			});
 		}
 	}

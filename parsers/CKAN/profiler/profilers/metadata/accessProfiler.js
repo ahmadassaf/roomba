@@ -122,14 +122,15 @@ function accessProfiler(parent) {
 				// Add the section to profile group information in the profile
 				profileTemplate.addObject("resource", {});
 
-				accessProfiler.async.each(root.resources,function(resource, asyncCallback){
+				accessProfiler.async.eachSeries(root.resources,function(resource, asyncCallback){
 
 					// define the groupID that will be used to identify the report generation
 					var resourceID               = resource["name"] || resource["description"] || resource["id"];
+					var resourceType             = resource["resource_type"] || null;
 					var resourceReport           = new profile(accessProfiler);
 
 					// Add the number of resources to the profile for statistical use
-					profileTemplate.augmentCounter("resource", _.size(root.resources));
+					profileTemplate.setCounter("resource", _.size(root.resources));
 
 					// Loop through the meta keys and check if they are undefined or missing
 					resourceReport.insertKeys(resourceKeys, resource);
@@ -181,7 +182,7 @@ function accessProfiler(parent) {
 
 							if (!resourceReport.isEmpty()) profileTemplate.addObject(resourceID,resourceReport.getProfile(),"resource");
 							asyncCallback();
-						});
+						}, true, resourceType);
 					} else {
 						if (!resourceReport.isEmpty()) profileTemplate.addObject(resourceID,resourceReport.getProfile(),"resource");
 						asyncCallback();
