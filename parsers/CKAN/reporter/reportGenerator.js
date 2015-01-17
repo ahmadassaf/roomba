@@ -34,6 +34,8 @@ function reportGenerator(parent) {
 		reportGenerator.executeAction(list, action, function(error, report) {
 			if (!error) {
 				console.log(report);
+				if (action == "objectValueAggregator")
+					 _.each(report, function(section, key){ console.log(key + " with total count of: " + _.size(section)); });
 				reportGenerator.util.confirm("saveProfile", "Would you like to save this report", function(confirmation){
 					if (confirmation) {
 						// get the users manual input for the file name he wishes to save
@@ -92,7 +94,7 @@ function reportGenerator(parent) {
 									if (!error) arrayReport = _.union(arrayReport, _.flatten(report));
 								}); break;
 								case "objectValueAggregator" :
-								// Call the objectValueAggregator that will aggregate the licenses information
+								// Call the objectValueAggregator that will aggregate the information
 								reportGenerator.reportFactory.getObjectKeyValues(dataset, prompt, function(error, rawReport){
 									_.each(rawReport, function(value, key){
 										if (_.has(objectReport, key)) {
