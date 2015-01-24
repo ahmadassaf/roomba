@@ -58,7 +58,7 @@ A preview of the event-media dataset metadata
         "resources": [
             {
                 "mimetype": "",
-                "cache_url": ""
+                "cache_url": "",
                 "mimetype_inner": "",
                 "hash": "",
                 "description": "LODE ontology",
