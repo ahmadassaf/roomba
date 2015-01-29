@@ -5,6 +5,7 @@ var portalProfiler      = require('./portalProfiler');
 var metadataProfiler    = require('./profilers/metadata/metadataProfiler');
 var statisticalProfiler = require('./profilers/statistical/statisticalProfiler');
 var topicalProfiler     = require('./profilers/topical/topicalProfiler');
+var qualityProfiler     = require('./profilers/quality/qualityProfiler');
 
 var extend              = require('extend');
 
@@ -15,6 +16,7 @@ function profiler(parent) {
 	this.metadataProfiler    = new metadataProfiler(this);
 	this.statisticalProfiler = new statisticalProfiler(this);
 	this.topicalProfiler     = new topicalProfiler(this);
+	this.qualityProfiler     = new qualityProfiler(this);
 
 	this.datasetProfiler     = new datasetProfiler(this);
 	this.groupProfiler       = new groupProfiler(this);
@@ -32,7 +34,7 @@ function profiler(parent) {
 * @param {Function} callback: When successfull returns a false error with a success message -> callback(false, false, SuccessMessage)
 *                             When failed returns a true error with a fail message -> callback(true, false, ErrorMessage)
 */
-profiler.prototype.profileDataset = function profileDataset(parserInterfaceCallback) {
+profiler.prototype.profileDataset = function profileDataset(parserInterfaceCallback, includeQuality) {
 	this.datasetProfiler.profileDataset(parserInterfaceCallback);
 }
 
@@ -43,7 +45,7 @@ profiler.prototype.profileDataset = function profileDataset(parserInterfaceCallb
 * @param {Function} callback: When successfull returns a false error with a success message -> callback(false, false, SuccessMessage)
 *                             When failed returns a true error with a fail message -> callback(true, false, ErrorMessage)
 */
-profiler.prototype.profilePortal = function profilePortal(parserInterfaceCallback) {
+profiler.prototype.profilePortal = function profilePortal(parserInterfaceCallback, includeQuality) {
 	this.portalProfiler.profilePortal(parserInterfaceCallback);
 }
 
@@ -54,7 +56,7 @@ profiler.prototype.profilePortal = function profilePortal(parserInterfaceCallbac
 * @param {Function} callback: When successfull returns a false error with a success message -> callback(false, false, SuccessMessage)
 *                             When failed returns a true error with a fail message -> callback(true, false, ErrorMessage)
 */
-profiler.prototype.profileGroup = function profileGroup(parserInterfaceCallback) {
+profiler.prototype.profileGroup = function profileGroup(parserInterfaceCallback, includeQuality) {
 	this.groupProfiler.profileGroup(parserInterfaceCallback);
 }
 

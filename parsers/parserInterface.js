@@ -34,18 +34,18 @@ parser.prototype.executeAction = function(self, action, parserCallback) {
 
 	var actionList =  {
 
-		getAllDatasetsDetails: function ( callback) { self.crawler.getAllDatasetsDetails      ( callback); } ,
-		getAllGroupsDetails  : function ( callback) { self.crawler.getAllGroupsDetails        ( callback); } ,
-		getGroupdetails      : function ( callback) { self.crawler.getGroupDetails            ( callback); } ,
-		getDatasetDetails    : function ( callback) { self.crawler.getDatasetDetails          ( callback); } ,
-		portalReport         : function ( callback) { self.reporter.generatePortalReport      ( callback); } ,
-		groupReport          : function ( callback) { self.reporter.generateGroupReport       ( callback); } ,
-		profileDataset       : function ( callback) { self.profiler.profileDataset            ( callback); } ,
-		profileGroup         : function ( callback) { self.profiler.profileGroup              ( callback); } ,
-		profileAllDatasets   : function ( callback) { self.profiler.profilePortal             ( callback); } ,
-		enrichAllDatasets    : function ( callback) { self.enricher.enrichAllDatasets         ( callback); } ,
-		enrichGroupDatasets  : function ( callback) { self.enricher.enrichGroupDatasets       ( callback); } ,
-		enrichDataset        : function ( callback) { self.enricher.enrichDataset             ( callback); } ,
+		getAllDatasetsDetails : function ( callback) { self.crawler.getAllDatasetsDetails ( callback);       } ,
+		getAllGroupsDetails   : function ( callback) { self.crawler.getAllGroupsDetails   ( callback);       } ,
+		getGroupdetails       : function ( callback) { self.crawler.getGroupDetails       ( callback);       } ,
+		getDatasetDetails     : function ( callback) { self.crawler.getDatasetDetails     ( callback);       } ,
+		portalReport          : function ( callback) { self.reporter.generatePortalReport ( callback);       } ,
+		groupReport           : function ( callback) { self.reporter.generateGroupReport  ( callback);       } ,
+		profileDataset        : function ( callback) { self.profiler.profileDataset       ( callback);       } ,
+		profileGroup          : function ( callback) { self.profiler.profileGroup         ( callback);       } ,
+		profileAllDatasets    : function ( callback) { self.profiler.profilePortal        ( callback);       } ,
+		checkDatasetQuality   : function ( callback) { self.profiler.profileDataset       ( callback, true); } ,
+		checkGroupQuality     : function ( callback) { self.profiler.profileGroup         ( callback, true); } ,
+		checkPortalQuality    : function ( callback) { self.profiler.profilePortal        ( callback, true); } ,
 	}
 
 	// Check if the user selection doesn't match any of the main default function selections
