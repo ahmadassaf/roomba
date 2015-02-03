@@ -29,19 +29,20 @@ function datasetProfiler(parent) {
 				// add the counter to the profile to be saved
 				report.addObject("counter", report.getCounter());
 				// Check if the save prompt is valid to be displayed for saving report and enhanced profile
-				displaySavePrompt();
-				function displaySavePrompt() {
-					if (result.accessProfiler.isChanged) {
-						datasetProfiler.CKANUtil.savePrompt("Enriched Metadata Profile", "enrichedFolder", result.accessProfiler.enhancedProfile, function(error){
-							if (!error)
-								datasetProfiler.CKANUtil.promptSave(save, "profilesFolder", report.getProfile(), profilerCallback);
-						});
-					} else datasetProfiler.CKANUtil.promptSave(save, "profilesFolder", report.getProfile(), profilerCallback);
-				}
+				displaySavePrompt(result);
 		});
+
+		function displaySavePrompt(result) {
+			if (result.accessProfiler.isChanged) {
+				datasetProfiler.CKANUtil.savePrompt("Enriched Metadata Profile", "enrichedFolder", result.accessProfiler.enhancedProfile, function(error){
+					if (!error)
+						datasetProfiler.CKANUtil.promptSave(save, "profilesFolder", report.getProfile(), profilerCallback);
+				});
+			} else datasetProfiler.CKANUtil.promptSave(save, "profilesFolder", report.getProfile(), profilerCallback);
+		}
 	}
 
-	this.profileDataset = function profileDataset(profilerCallback) {
+	this.profileDataset = function profileDataset(profilerCallback, isQuality) {
 		// Create a prompt to ask for manual user entry of the dataset name
 		this.CKANUtil.getDataset("getDataset", "Please enter the dataset name you wish to profile(type 'exit' to return back to previous menu):", function(error, dataset){
 			if (!error) {

@@ -1,0 +1,186 @@
+{
+   "quality":[
+      {
+         "completeness":[
+            {
+               "ID":"QI.1",
+               "description":"Existence of supporting structured metadata",
+               "weight":1,
+               "score":1
+            },
+            {
+               "ID":"QI.2",
+               "description":"Supports multiple serializations",
+               "weight":1,
+               "score":1
+            },
+            {
+               "ID":"QI.3",
+               "description":"Has different queryable endpoints to access the data",
+               "weight":1,
+               "score":1
+            },
+            {
+               "ID":"QI.4",
+               "description":"Uses datasets description vocabularies",
+               "weight":1,
+               "score":1
+            },
+            {
+               "ID":"QI.5",
+               "description":"Existence of descriptions about the size and categorization",
+               "weight":1,
+               "score":1
+            },
+            {
+               "ID":"QI.6",
+               "description":"Existence of information about the kind and number of used vocabularies",
+               "weight":1,
+               "score":1
+            },
+            {
+               "ID":"QI.7",
+               "description":"Existence of dereferencable in-bound and out-bound links",
+               "weight":1,
+               "score":1
+            }
+         ]
+      },
+      {
+         "Availability":[
+            {
+               "ID":"QI.16",
+               "description":"Existence of an RDF dump that can be downloaded by users",
+               "weight":1,
+               "score":1
+            },
+            {
+               "ID":"QI.17",
+               "description":"Existence of queryable endpoints that respond to direct queries",
+               "weight":1,
+               "score":1
+            }
+         ]
+      },
+      {
+         "Licensing":[
+            {
+               "ID":"QI.18",
+               "description":"Existence of human and machine readable license information",
+               "weight":1,
+               "score":1
+            },
+            {
+               "ID":"QI.19",
+               "description":"Existence of dereferencable links to the full license information",
+               "weight":1,
+               "score":1
+            },
+            {
+               "ID":"QI.20",
+               "description":"Specifies permissions, copyrights and attributions",
+               "weight":1,
+               "score":1
+            }
+         ]
+      },
+      {
+         "Freshness":[
+            {
+               "ID":"QI.21",
+               "description":"Existence of timestamps that can keep track of its modifications",
+               "weight":1,
+               "score":1
+            }
+         ]
+      },
+      {
+         "Correctness":[
+            {
+               "ID":"QI.22",
+               "description":"Included the correct MIME type for the content",
+               "weight":1,
+               "score":1
+            },
+            {
+               "ID":"QI.23",
+               "description":"Absence of syntactic errors on the instance level",
+               "weight":1,
+               "score":1
+            },
+            {
+               "ID":"QI.24",
+               "description":"Absence of Syntactic errors on the links level",
+               "weight":1,
+               "score":1
+            },
+            {
+               "ID":"QI.25",
+               "description":"Use the HTTP URI scheme",
+               "weight":1,
+               "score":1
+            }
+         ]
+      },
+      {
+         "Comprehensibility":[
+            {
+               "ID":"QI.33",
+               "description":"Existence of at least one exemplary URI",
+               "weight":1,
+               "score":1
+            },
+            {
+               "ID":"QI.34",
+               "description":"Existence of at least one exemplary URI",
+               "weight":1,
+               "score":1
+            },
+            {
+               "ID":"QI.35",
+               "description":"Existence of at least one exemplary URI",
+               "weight":1,
+               "score":1
+            },
+            {
+               "ID":"QI.36",
+               "description":"Existence of at least one exemplary URI",
+               "weight":1,
+               "score":1
+            }
+         ]
+      },
+      {
+         "Provenance":[
+            {
+               "ID":"QI.40",
+               "description":"Existence of metadata that describes its authoritative information",
+               "weight":1,
+               "score":1
+            },
+            {
+               "ID":"QI.41",
+               "description":"Usage of provenance vocabulary",
+               "weight":1,
+               "score":1
+            }
+         ]
+      },
+      {
+         "Security":[
+            {
+               "ID":"QI.58",
+               "description":"Uses login credentials to restrict access",
+               "weight":1,
+               "score":1
+            },
+            {
+               "ID":"QI.59",
+               "description":"Uses SSL or SSH to provide access to the dataset",
+               "weight":1,
+               "score":1
+            }
+         ]
+      }
+   ]
+}

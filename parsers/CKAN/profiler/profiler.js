@@ -34,7 +34,7 @@ function profiler(parent) {
 * @param {Function} callback: When successfull returns a false error with a success message -> callback(false, false, SuccessMessage)
 *                             When failed returns a true error with a fail message -> callback(true, false, ErrorMessage)
 */
-profiler.prototype.profileDataset = function profileDataset(parserInterfaceCallback, includeQuality) {
+profiler.prototype.profileDataset = function profileDataset(parserInterfaceCallback, isQuality) {
 	this.datasetProfiler.profileDataset(parserInterfaceCallback);
 }
 
@@ -45,7 +45,7 @@ profiler.prototype.profileDataset = function profileDataset(parserInterfaceCallb
 * @param {Function} callback: When successfull returns a false error with a success message -> callback(false, false, SuccessMessage)
 *                             When failed returns a true error with a fail message -> callback(true, false, ErrorMessage)
 */
-profiler.prototype.profilePortal = function profilePortal(parserInterfaceCallback, includeQuality) {
+profiler.prototype.profilePortal = function profilePortal(parserInterfaceCallback, isQuality) {
 	this.portalProfiler.profilePortal(parserInterfaceCallback);
 }
 
@@ -56,7 +56,7 @@ profiler.prototype.profilePortal = function profilePortal(parserInterfaceCallbac
 * @param {Function} callback: When successfull returns a false error with a success message -> callback(false, false, SuccessMessage)
 *                             When failed returns a true error with a fail message -> callback(true, false, ErrorMessage)
 */
-profiler.prototype.profileGroup = function profileGroup(parserInterfaceCallback, includeQuality) {
+profiler.prototype.profileGroup = function profileGroup(parserInterfaceCallback, isQuality) {
 	this.groupProfiler.profileGroup(parserInterfaceCallback);
 }
 
