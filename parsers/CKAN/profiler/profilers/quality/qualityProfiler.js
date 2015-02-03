@@ -15,7 +15,10 @@ function qualityProfiler(parent) {
 
 		qualityProfiler.CKANUtil.cache.getCache("qualityModel", function(error, qualityModel){
 			if (!error) {
-				console.log(qualityModel);
+				if (dataset) {
+					// There is a valid dataset metadata file (Q1.1)
+					var root   = dataset.result ? dataset.result : dataset;
+				}
 				profilerCallback(false, profileTemplate.getProfile());
 			}
 		}, "/util/");
