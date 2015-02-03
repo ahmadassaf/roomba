@@ -9,27 +9,30 @@ function datasetProfiler(parent) {
 	var datasetProfiler = this;
 	var report          = new profile(this);
 
-	this.profile = function profile(dataset, save, profilerCallback) {
+	this.profile = function profile(dataset, save, isQuality, profilerCallback) {
 
 		datasetProfiler.async.parallel({
 
 			generalProfiler   : datasetProfiler.metadataProfiler.generalProfiler.start.bind(null,dataset),
 			ownershipProfiler : datasetProfiler.metadataProfiler.ownershipProfiler.start.bind(null,dataset),
 			provenanceProfiler: datasetProfiler.metadataProfiler.provenanceProfiler.start.bind(null,dataset),
-			accessProfiler    : datasetProfiler.metadataProfiler.accessProfiler.start.bind(null, dataset, false)
+			//accessProfiler    : datasetProfiler.metadataProfiler.accessProfiler.start.bind(null, dataset, false),
+			qualityProfiler   : datasetProfiler.qualityProfiler.start.bind(null, dataset)
 
 		}, function (err, result) {
 
 				// merge the profiling reports and prompt the user if he wants to save that report
-				report.mergeReportsUniquely([result.generalProfiler.getProfile(), result.ownershipProfiler, result.provenanceProfiler, result.accessProfiler.profile.getProfile()]);
+				//report.mergeReportsUniquely([result.generalProfiler.getProfile(), result.ownershipProfiler, result.provenanceProfiler, result.accessProfiler.profile.getProfile()]);
+				report.mergeReportsUniquely([result.generalProfiler.getProfile(), result.ownershipProfiler, result.provenanceProfiler]);
 				// merge the counter information retreived
-				report.aggregateCounter([result.generalProfiler.getCounter(), result.accessProfiler.profile.getCounter()]);
+				//report.aggregateCounter([result.generalProfiler.getCounter(), result.accessProfiler.profile.getCounter()]);
+				report.aggregateCounter([result.generalProfiler.getCounter()]);
 				// print the generated merged report
 				report.prettyPrint();
 				// add the counter to the profile to be saved
 				report.addObject("counter", report.getCounter());
 				// Check if the save prompt is valid to be displayed for saving report and enhanced profile
-				displaySavePrompt(result);
+				//displaySavePrompt(result);
 		});
 
 		function displaySavePrompt(result) {
@@ -47,7 +50,7 @@ function datasetProfiler(parent) {
 		this.CKANUtil.getDataset("getDataset", "Please enter the dataset name you wish to profile(type 'exit' to return back to previous menu):", function(error, dataset){
 			if (!error) {
 				// Call the different profiles and get the report out of each
-				datasetProfiler.profile(dataset, true, function(error){
+				datasetProfiler.profile(dataset, true, isQuality, function(error){
 					if (!error) {
 						profilerCallback(false, false, {type: "info", message: "profilingCompleted"});
 					}

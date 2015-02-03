@@ -18,7 +18,6 @@ function generalProfiler(parent) {
 		var profileTemplate = new profile(this);
 
 		var root            = dataset.result ? dataset.result : dataset;
-		var dataset_keys    = _.keys(root);
 
 		profileTemplate.insertKeys(metadtaKeys, root);
 		// Call the series of validation checks i want to run on the dataset
