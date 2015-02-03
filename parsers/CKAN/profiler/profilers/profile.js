@@ -11,6 +11,7 @@ function profile(parent) {
 	this.template        = {"missing" : [], "undefined" : [], "unreachableURLs": [], "report" : []};
 	this.aggregateReport = {"missing" : {}, "undefined" : {}, "unreachableURLs": {}, "report" : {}};
 	this.counter         = {"group" : 0, "tag" : 0, "resource" : 0};
+	this.qualityReport   = {};
 
 
 	/**************************** Setters and Getters ****************************/
@@ -66,6 +67,29 @@ function profile(parent) {
 	*/
 	this.setCounter = function setProfile(key, value) {
 		this.counter[key] = value;
+	}
+
+	/**
+	* Set the quality model with the one passed as a parameter
+	*
+	* @method setQualityReport
+	* @param {Object} qualityModel: the qualityModel we need to assign
+	*/
+	this.setQualityReport = function setQualityReport(qualityModel) {
+		this.qualityReport = qualityModel;
+	}
+
+
+	/**
+	* Set a quality indicator score
+	*
+	* @method setQualityIndicatorScore
+	* @param {String} qualityMeasure: the quality masure parent of the quality indicator
+	* @param {String} qualityIndicator: the quality indicator we need to assign a score to
+	* @param {Integer} score: the quality indicator score
+	*/
+	this.setQualityReport = function setQualityReport(qualityModel) {
+		this.qualityReport = qualityModel;
 	}
 
 	/**
