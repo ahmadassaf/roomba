@@ -1,16 +1,14 @@
-var profile = require('../profile');
-
 var extend  = require('extend');
 
-function completeness(parent, dataset) {
+function provenance(parent, dataset) {
 
 	extend(this, parent);
 
-	var _            = this.util._;
-	var completeness = this;
+	var _               = this.util._;
+	var provenance      = this;
 
 	this.start      = function start(profileTemplate, qualityCallback) {
-
+console.log(profileTemplate);
 		var fullMetadataKeys        = ["maintainer", "owner_org", "author", "organization", "maintainer_email", "author_email"];
 		var ownershipMetadtaKeys    = ["maintainer", "owner_org", "author", "maintainer_email", "author_email"];
 		var root                    = dataset.result ? dataset.result : dataset;
@@ -31,15 +29,15 @@ function completeness(parent, dataset) {
 				if (! profileTemplate.util.validator.isEmail(root.author_email))
 					ownershipQualityCounter++;
 			}
-			profileTemplate.setQualityIndicatorScore("completeness", "QI.2", (( fullMetadataKeys.length - ownershipQualityCounter) / fullMetadataKeys.length));
+			profileTemplate.setQualityIndicatorScore("provenance", "QI.40", (( fullMetadataKeys.length - ownershipQualityCounter) / fullMetadataKeys.length));
 
 			var provMetadtaKeys     = ["version", "revision_id", "metadata_created", "metadata_modified", "revision_timestamp", "revision_id"];
 			var provQualityCounter  = profileTemplate.insertKeys(provMetadtaKeys, root, true);
-			profileTemplate.setQualityIndicatorScore("completeness", "QI.3", ((provMetadtaKeys.length - provQualityCounter) / provMetadtaKeys.length));
+			profileTemplate.setQualityIndicatorScore("provenance", "QI.42", ((provMetadtaKeys.length - provQualityCounter) / provMetadtaKeys.length));
 
-			callback(null, profileTemplate);
+			qualityCallback(null, profileTemplate);
 		}
 	}
 }
 
-module.exports = completeness;
+module.exports = provenance;

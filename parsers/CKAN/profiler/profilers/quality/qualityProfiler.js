@@ -1,12 +1,12 @@
 var profile           = require('../profile');
 
-var completeness      = require('./completeness');
-// var availability      = require('./availability');
-// var licensing         = require('./licensing');
-// var freshness         = require('./freshness');
-// var correctness       = require('./correctness');
-// var comprehensibility = require('./comprehensibility');
-var provenance        = require('./provenance');
+var completeness      = require('./measures/completeness');
+var availability      = require('./measures/availability');
+var licensing         = require('./measures/licensing');
+var freshness         = require('./measures/freshness');
+var correctness       = require('./measures/correctness');
+var comprehensibility = require('./measures/comprehensibility');
+var provenance        = require('./measures/provenance');
 
 var extend            = require('extend');
 
@@ -29,8 +29,10 @@ function qualityProfiler(parent) {
 			var root   = dataset.result ? dataset.result : dataset;
 
 			qualityProfiler.async.waterfall([
+
 				qualityProfiler.async.apply(new completeness(qualityProfiler, dataset).start, profileTemplate),
 				new provenance(qualityProfiler, dataset).start
+
 			], function (err, profileTemplate) {
 				console.log(profileTemplate.getQualityProfile());
 				profilerCallback(false, profileTemplate);
