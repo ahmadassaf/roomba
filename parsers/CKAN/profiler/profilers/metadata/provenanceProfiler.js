@@ -16,8 +16,7 @@ function provenanceProfiler(parent) {
 
 		var root            = dataset.result ? dataset.result : dataset;
 
-		var qualityCounter  = profileTemplate.insertKeys(metadtaKeys, root, true);
-		profileTemplate.setQualityIndicatorScore("Provenance", "QI.42", ((metadtaKeys.length - qualityCounter) / metadtaKeys.length));
+		var qualityCounter  = profileTemplate.insertKeys(metadtaKeys, root);
 
 		profilerCallback(false, profileTemplate.getProfile());
 

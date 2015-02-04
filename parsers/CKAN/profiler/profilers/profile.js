@@ -102,7 +102,7 @@ function profile(parent) {
 	* @param {Integer} score: the quality indicator score
 	*/
 	this.setQualityIndicatorScore = function setQualityIndicatorScore(qualityMeasure, qualityIndicator, score) {
-		this.qualityProfile[qualityMeasure][qualityIndicator].score = score;
+		this.qualityProfile[qualityMeasure][qualityIndicator].score = score * this.qualityProfile[qualityMeasure][qualityIndicator].weight;
 	}
 
 	/**

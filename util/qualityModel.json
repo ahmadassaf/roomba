@@ -36,7 +36,7 @@
          "score": 0
       }
    },
-   "Availability": {
+   "availability": {
       "QI.16": {
          "description": "Existence of an RDF dump that can be downloaded by users",
          "weight": 1,
@@ -48,7 +48,7 @@
          "score": 0
       }
    },
-   "Licensing": {
+   "licensing": {
       "QI.18": {
          "description": "Existence of human and machine readable license information",
          "weight": 1,
@@ -65,14 +65,14 @@
          "score": 0
       }
    },
-   "Freshness": {
+   "freshness": {
       "QI.21": {
          "description": "Existence of timestamps that can keep track of its modifications",
          "weight": 1,
          "score": 0
       }
    },
-   "Correctness": {
+   "correctness": {
       "QI.22": {
          "description": "Included the correct MIME type for the content",
          "weight": 1,
@@ -94,7 +94,7 @@
          "score": 0
       }
    },
-   "Comprehensibility": {
+   "comprehensibility": {
       "QI.33": {
          "description": "Existence of at least one exemplary URI",
          "weight": 1,
@@ -116,7 +116,7 @@
          "score": 0
       }
    },
-   "Provenance": {
+   "provenance": {
       "QI.40": {
          "description": "Existence of metadata that describes its authoritative information",
          "weight": 1,
@@ -133,7 +133,7 @@
          "score": 0
       }
    },
-   "Security": {
+   "security": {
       "QI.43": {
          "description": "Uses login credentials to restrict access",
          "weight": 1,
