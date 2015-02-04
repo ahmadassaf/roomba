@@ -126,15 +126,20 @@
          "description": "Usage of provenance vocabulary",
          "weight": 1,
          "score": 0
+      },
+      "QI.42": {
+         "description": "Usage of provenance timestamps",
+         "weight": 1,
+         "score": 0
       }
    },
    "Security": {
-      "QI.58": {
+      "QI.43": {
          "description": "Uses login credentials to restrict access",
          "weight": 1,
          "score": 0
       },
-      "QI.59": {
+      "QI.44": {
          "description": "Uses SSL or SSH to provide access to the dataset",
          "weight": 1,
          "score": 0

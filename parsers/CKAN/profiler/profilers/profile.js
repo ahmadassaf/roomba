@@ -144,16 +144,23 @@ function profile(parent) {
 	* @param {Object} dataset: the dataset we want to examine
 	* @param {String} profile: the explaination of the entry added to the report
 	*/
-	this.insertKeys = function addEntry(metadtaKeys, dataset) {
+	this.insertKeys = function addEntry(metadtaKeys, dataset, includeQuality) {
 
-		var profile = this;
+		var profile        = this;
+		var qualityCounter = 0;
 
 		_.each(metadtaKeys, function(key, index) {
 			if (_.has(dataset, key)) {
-				if (_.isUndefined(dataset[key]) || _.isNull(dataset[key]) || ( _.isString(dataset[key]) && dataset[key].length == 0))
+				if (_.isUndefined(dataset[key]) || _.isNull(dataset[key]) || ( _.isString(dataset[key]) && dataset[key].length == 0)) {
 					profile.addEntry("undefined", key, key + " field exists but there is no value defined");
-			} else profile.addEntry("missing", key, key + " field is missing");
+					qualityCounter++;
+				}
+			} else {
+				profile.addEntry("missing", key, key + " field is missing");
+				qualityCounter++;
+			}
 		});
+		if (includeQuality) return qualityCounter;
 	}
 
 	/**
