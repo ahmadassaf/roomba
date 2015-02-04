@@ -13,19 +13,18 @@ function qualityProfiler(parent) {
 
 		var profileTemplate = new profile(this);
 
-		qualityProfiler.CKANUtil.cache.getCache("qualityModel", function(error, qualityModel){
-			if (!error) {
+		if (dataset) {
+			// There is a valid dataset metadata file (Q1.1)
+			profileTemplate.setQualityIndicatorScore("completeness", "QI.1", 1);
 
-				// Assign the fetched quality model with the dataset profile
-				profile.setQualityReport(qualityModel);
+			var root   = dataset.result ? dataset.result : dataset;
+		}
 
-				if (dataset) {
-					// There is a valid dataset metadata file (Q1.1)
-					var root   = dataset.result ? dataset.result : dataset;
-				}
-				profilerCallback(false, profileTemplate.getProfile());
-			}
-		}, "/util/");
+		function getCompletnessScore() {
+			// The serialization formats that should be associated with the resource format
+			var serializations = ["application/rdf+xml", "text/turtle", "application/x-ntriples", "application/x-nquads", "application/x-trig"];
+		}
+		profilerCallback(false, profileTemplate.getProfile());
 	}
 
 };

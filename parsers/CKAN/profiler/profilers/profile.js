@@ -1,3 +1,5 @@
+var qualityModel    = require('../../../../util/qualityModel.json')
+
 var _               = require("underscore");
 var extend          = require('extend');
 
@@ -11,7 +13,7 @@ function profile(parent) {
 	this.template        = {"missing" : [], "undefined" : [], "unreachableURLs": [], "report" : []};
 	this.aggregateReport = {"missing" : {}, "undefined" : {}, "unreachableURLs": {}, "report" : {}};
 	this.counter         = {"group" : 0, "tag" : 0, "resource" : 0};
-	this.qualityReport   = {};
+	this.qualityProfile  = qualityModel;
 
 
 	/**************************** Setters and Getters ****************************/
@@ -49,6 +51,17 @@ function profile(parent) {
 
 
 	/**
+	* Gets the current counter and return back
+	*
+	* @method getQualityProfile
+	* @return {Object} return the current quality profile
+	*/
+	this.getQualityProfile = function getQualityProfile() {
+		return this.qualityProfile;
+	}
+
+
+	/**
 	* Gets the current aggregate Report and return back
 	*
 	* @method getAggregateReport
@@ -76,7 +89,7 @@ function profile(parent) {
 	* @param {Object} qualityModel: the qualityModel we need to assign
 	*/
 	this.setQualityReport = function setQualityReport(qualityModel) {
-		this.qualityReport = qualityModel;
+		this.qualityProfile = qualityModel;
 	}
 
 
@@ -88,8 +101,8 @@ function profile(parent) {
 	* @param {String} qualityIndicator: the quality indicator we need to assign a score to
 	* @param {Integer} score: the quality indicator score
 	*/
-	this.setQualityReport = function setQualityReport(qualityModel) {
-		this.qualityReport = qualityModel;
+	this.setQualityIndicatorScore = function setQualityIndicatorScore(qualityMeasure, qualityIndicator, score) {
+		this.qualityProfile[qualityMeasure][qualityIndicator].score = score;
 	}
 
 	/**
