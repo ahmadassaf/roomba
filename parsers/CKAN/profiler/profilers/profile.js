@@ -102,7 +102,11 @@ function profile(parent) {
 	* @param {Integer} score: the quality indicator score
 	*/
 	this.setQualityIndicatorScore = function setQualityIndicatorScore(qualityMeasure, qualityIndicator, score) {
-		this.qualityProfile[qualityMeasure][qualityIndicator].score = score * this.qualityProfile[qualityMeasure][qualityIndicator].weight;
+		if (_.isArray(qualityIndicator)) {
+			_.each(qualityIndicator, function(indicator){
+				this.qualityProfile[qualityMeasure][indicator].score = score * this.qualityProfile[qualityMeasure][indicator].weight;
+			});
+		} else this.qualityProfile[qualityMeasure][qualityIndicator].score = score * this.qualityProfile[qualityMeasure][qualityIndicator].weight;
 	}
 
 	/**

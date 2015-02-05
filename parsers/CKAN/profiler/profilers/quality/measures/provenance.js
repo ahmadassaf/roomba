@@ -8,7 +8,7 @@ function provenance(parent, dataset) {
 	var provenance      = this;
 
 	this.start      = function start(profileTemplate, qualityCallback) {
-console.log(profileTemplate);
+
 		var fullMetadataKeys        = ["maintainer", "owner_org", "author", "organization", "maintainer_email", "author_email"];
 		var ownershipMetadtaKeys    = ["maintainer", "owner_org", "author", "maintainer_email", "author_email"];
 		var root                    = dataset.result ? dataset.result : dataset;
@@ -35,6 +35,7 @@ console.log(profileTemplate);
 			var provQualityCounter  = profileTemplate.insertKeys(provMetadtaKeys, root, true);
 			profileTemplate.setQualityIndicatorScore("provenance", "QI.42", ((provMetadtaKeys.length - provQualityCounter) / provMetadtaKeys.length));
 
+			// The quality checks have been completed
 			qualityCallback(null, profileTemplate);
 		}
 	}
