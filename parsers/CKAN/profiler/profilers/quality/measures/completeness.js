@@ -9,31 +9,42 @@ function completeness(parent, dataset) {
 
 	this.start      = function start(profileTemplate, qualityCallback) {
 
-		var resourceKeys = ["resource_group_id", "cache_last_updated", "revision_timestamp", "webstore_last_updated", "id", "size", "state", "hash", "description", "format", "mimetype_inner", "url-type", "mimetype", "cache_url", "name", "created", "url", "webstore_url", "last_modified", "position", "revision_id", "resource_type" ];
-		var countKeys    = ["num_tags", "num_resources"];
-		var root         = dataset.result ? dataset.result : dataset;
+		var resourceKeys   = ["resource_group_id", "cache_last_updated", "revision_timestamp", "webstore_last_updated", "id", "size", "state", "hash", "description", "format", "mimetype_inner", "url-type", "mimetype", "cache_url", "name", "created", "url", "webstore_url", "last_modified", "position", "revision_id", "resource_type" ];
+		var tagsKeys       = ["vocabulary_id", "display_name", "name", "revision_timestamp", "state", "id"];
+		var groupsKeys     = ["display_name", "description", "title", "image_display_url", "id", "name"];
+		var serializations = ["application/rdf+xml", "text/turtle", "application/x-ntriples", "application/x-nquads", "application/x-trig"];
+		var accessPoints   = ["file", "api"];
+
+		var root           = dataset.result ? dataset.result : dataset;
 
 		// Check if the groups object is defined and run the profiling process on its sub-components
 		if (root.resources && !_.isEmpty(root.resources)) {
 
-			var serializations   = ["application/rdf+xml", "text/turtle", "application/x-ntriples", "application/x-nquads", "application/x-trig"];
-			var accessPoints     = ["file", "api"];
 			var dataAccessPoints = [], dataSerializations = [];
-			var num_resources    = 0, unreachableURLs = 0, URLs = 0; inCorrectMIME = 0, inCorrectSize = 0, sizeInformation = 0, MIMEInformation = 0, tagsErrors = 0, groupsErrors = 0;
-			var containsVOID     = false, availableRDFDump = false, availableAPI = false;
+			var num_resources    = _.size(root.resources);
+			var unreachableURLs  = 0, URLs = 0; inCorrectMIME = 0, inCorrectSize = 0, sizeInformation = 0, MIMEInformation = 0, tagsErrors = 0, groupsErrors = 0;
+			var availableRDFDump = false, availableAPI = false;
 
 			// Do the async loop on the resources and do the necessary checks
 			completeness.async.eachSeries(root.resources,function(resource, asyncCallback){
 
-				// Add the number of resources to the profile for statistical use
-				num_resources    = _.size(root.resources);
-
+				/*  Check the resources format, this is needed to check complete serializations by comparing to the serialization array
+				 *  Any checks for format values should be also done here
+				 *  Note: this check doesn't require the resource to be de-referenceable (URL hit)
+				 */
 				if (_.has(resource, "format")) {
 					if (( _.isString(resource["format"]) && resource["format"].length !== 0)) {
 						dataSerializations.push(resource.format);
-						if (resource.format.indexOf("void") > -1 || resource.format.indexOf("dcat") > -1) containsVOID = true;
+						// Check if format contains void or dcat which are dataset descriptions vocabularies [format should be meta/void, meta/dcat]
+						if (resource.format.indexOf("void") > -1 || resource.format.indexOf("dcat") > -1)
+							profileTemplate.setQualityIndicatorScore("completeness", "QI.4", 1);
 					}
 				}
+
+				/*  Check the resources types, this is needed to check complete available data access points(API, dump)
+				 *  Possible resource_type values: file | file.upload | api | visualization | code | documentation
+				 *  Note: this check doesn't require the resource to be de-referenceable (URL hit)
+				 */
 				if (_.has(resource, "resource_type")) {
 					if (resource.resource_type.indexOf("file") > -1) dataAccessPoints.push("file");
 					if (resource.resource_type.indexOf("api") > -1) dataAccessPoints.push("api");
@@ -42,6 +53,7 @@ function completeness(parent, dataset) {
 				// Check if there is a url defined and start the connectivity checks and corrections
 				if (resource.url) {
 
+					// Count the number of URLs defined for the resources [every resource should have a URL defined]
 					URLs++;
 
 					completeness.util.checkAddress(resource.url, function(error, body, response) {
@@ -110,7 +122,6 @@ function completeness(parent, dataset) {
 					if (serializationsNumber < serializations.length) {
 						profileTemplate.setQualityIndicatorScore("completeness", "QI.2", (serializations.length - serializationsNumber) / serializations.length);
 					}
-					if (containsVOID) profileTemplate.setQualityIndicatorScore("completeness", "QI.4", 1);
 
 					profileTemplate.setQualityIndicatorScore("completeness", "QI.5", (num_resources - sizeInformation) / num_resources);
 					profileTemplate.setQualityIndicatorScore("completeness", "QI.6", (num_resources - MIMEInformation) / num_resources);
@@ -141,7 +152,7 @@ function completeness(parent, dataset) {
 					}
 
 					function checkTags(callback) {
-						var tagsKeys  = ["vocabulary_id", "display_name", "name", "revision_timestamp", "state", "id"];
+
 						var tagsError = 0, num_tags = 0;
 						// Check if the groups object is defined and run the profiling process on its sub-components
 						if (root.tags && !_.isEmpty(root.tags)) {
@@ -158,7 +169,7 @@ function completeness(parent, dataset) {
 						} else callback();
 					}
 					function checkGroup(callback) {
-						var groupsKeys = ["display_name", "description", "title", "image_display_url", "id", "name"];
+
 						var groupError = 0, num_groups = 0;
 						// Check if the groups object is defined and run the profiling process on its sub-components
 						if (root.groups && !_.isEmpty(root.groups)) {
