@@ -85,6 +85,7 @@ function completeness(parent, dataset) {
 					}, "HEAD");
 				} else {
 
+					unreachableURLs++;
 					if (!_.has(resource, "mimetype")) MIMEInformation++;
 					if (!_.has(resource, "size")) sizeInformation++;
 
@@ -108,16 +109,20 @@ function completeness(parent, dataset) {
 
 					if (_.has(root, "url")) {
 						if (!_.isUndefined(root["url"]) && !_.isNull(root["url"]) && ( _.isString(root["url"]) && !root["url"].length == 0)) {
+							URLs++;
 							completeness.util.checkAddress(root.url, function(error, body, response) {
 								if (!error) {
-									URLs++;
 									process();
-								} else process();
+								} else {
+									unreachableURLs++;
+									process();
+								}
 							});
 						}
 
 						function process() {
-							profileTemplate.setQualityIndicatorScore("completeness", "QI.9", (URLs) / ++num_resources);
+							console.log("URLs: " + URLs);console.log("unreachableURLs: " + unreachableURLs);
+							profileTemplate.setQualityIndicatorScore("completeness", "QI.9", (URLs - unreachableURLs) / URLs);
 							// Call the series of validation checks i want to run on the dataset
 							completeness.async.series([checkTags, checkGroup], function(err){
 								profileTemplate.setQualityIndicatorScore("completeness", "QI.7", (groupsErrors + tagsErrors) / 2);
