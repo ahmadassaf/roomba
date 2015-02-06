@@ -34,8 +34,19 @@ function profiler(parent) {
 * @param {Function} callback: When successfull returns a false error with a success message -> callback(false, false, SuccessMessage)
 *                             When failed returns a true error with a fail message -> callback(true, false, ErrorMessage)
 */
-profiler.prototype.profileDataset = function profileDataset(parserInterfaceCallback, isQuality) {
+profiler.prototype.profileDataset = function profileDataset(parserInterfaceCallback) {
 	this.datasetProfiler.profileDataset(parserInterfaceCallback);
+}
+
+/**
+* Profile a dataset list by fetching all the datasets JSON in that list
+*
+* @method profileDatasetQuality
+* @param {Function} callback: When successfull returns a false error with a success message -> callback(false, false, SuccessMessage)
+*                             When failed returns a true error with a fail message -> callback(true, false, ErrorMessage)
+*/
+profiler.prototype.profileDatasetQuality = function profileDatasetQuality(parserInterfaceCallback) {
+	this.datasetProfiler.profileDataset(true, parserInterfaceCallback);
 }
 
 /**

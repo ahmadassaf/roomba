@@ -16,18 +16,37 @@ function completeness(parent, dataset) {
 		// Check if the groups object is defined and run the profiling process on its sub-components
 		if (root.resources && !_.isEmpty(root.resources)) {
 
-			var serializations                       = ["application/rdf+xml", "text/turtle", "application/x-ntriples", "application/x-nquads", "application/x-trig"];
+			var serializations   = ["application/rdf+xml", "text/turtle", "application/x-ntriples", "application/x-nquads", "application/x-trig"];
+			var accessPoints     = ["file", "api"];
 			var dataAccessPoints = [], dataSerializations = [];
+			var num_resources    = 0;
+			var containsVOID     = false;
 
 			_.each(root.resources, function(resource, key) {
-				if (_.has(resource, "format") &&  ( _.isString(resource[key]) && resource[key].length !== 0)) dataSerializations.push(resource.format);
+				if (_.has(resource, "format")) {
+					if (( _.isString(resource["format"]) && resource["format"].length !== 0)) {
+						dataSerializations.push(resource.format);
+						if (resource.format.indexOf("void") > -1 || resource.format.indexOf("dcat") > -1) containsVOID = true;
+					}
+				}
 				if (_.has(resource, "resource_type")) {
 					if (resource.resource_type.indexOf("file") > -1) dataAccessPoints.push("file");
-					if (resource.format.indexOf("api") > -1) dataAccessPoints.push("api");
+					if (resource.resource_type.indexOf("api") > -1) dataAccessPoints.push("api");
 				}
+				num_resources++;
 			 });
 
-			console.log(dataAccessPoints);console.log(dataSerializations);
+			var accessPointsNumber   = _.unique(dataAccessPoints).length;
+			var serializationsNumber = _.intersection(serializations, _.unique(dataSerializations)).length;
+
+			if (accessPointsNumber < accessPoints.length) {
+					profileTemplate.setQualityIndicatorScore("completeness", "QI.3", (accessPoints.length - accessPointsNumber) / accessPoints.length);
+			}
+			if (serializationsNumber < serializations.length) {
+				profileTemplate.setQualityIndicatorScore("completeness", "QI.2", (serializations.length - serializationsNumber) / serializations.length);
+			}
+
+			if (containsVOID) profileTemplate.setQualityIndicatorScore("completeness", "QI.4", 1);
 
 			// accessProfiler.async.eachSeries(root.resources,function(resource, asyncCallback){
 
