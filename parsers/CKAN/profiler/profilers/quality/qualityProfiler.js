@@ -34,7 +34,6 @@ function qualityProfiler(parent) {
 				new provenance(qualityProfiler, dataset).start
 
 			], function (err, profileTemplate) {
-				console.log(profileTemplate.getQualityProfile());
 				profilerCallback(false, profileTemplate);
 			});
 		} else profilerCallback(false, profileTemplate.getProfile());

@@ -44,34 +44,14 @@ function datasetProfiler(parent) {
 
 	this.profileQuality = function profileQuality(dataset, save, profilerCallback) {
 
-		datasetProfiler.async.parallel({
-
-			qualityProfiler   : datasetProfiler.qualityProfiler.start.bind(null, dataset)
-
-		}, function (err, result) {
+		qualityProfiler   : datasetProfiler.qualityProfiler.start(dataset , function (err, qualityReport) {
 
 				// merge the profiling reports and prompt the user if he wants to save that report
-				//report.mergeReportsUniquely([result.generalProfiler.getProfile(), result.ownershipProfiler, result.provenanceProfiler, result.accessProfiler.profile.getProfile()]);
-				report.mergeReportsUniquely([result.generalProfiler.getProfile(), result.ownershipProfiler, result.provenanceProfiler]);
-				// merge the counter information retreived
-				//report.aggregateCounter([result.generalProfiler.getCounter(), result.accessProfiler.profile.getCounter()]);
-				report.aggregateCounter([result.generalProfiler.getCounter()]);
-				// print the generated merged report
-				report.prettyPrint();
-				// add the counter to the profile to be saved
-				report.addObject("counter", report.getCounter());
+				console.log(qualityReport.getQualityProfile());
 				// Check if the save prompt is valid to be displayed for saving report and enhanced profile
-				//displaySavePrompt(result);
+				datasetProfiler.CKANUtil.promptSave(save, "saveQuality", report.getProfile(), profilerCallback);
 		});
 
-		function displaySavePrompt(result) {
-			if (result.accessProfiler.isChanged) {
-				datasetProfiler.CKANUtil.savePrompt("Enriched Metadata Profile", "enrichedFolder", result.accessProfiler.enhancedProfile, function(error){
-					if (!error)
-						datasetProfiler.CKANUtil.promptSave(save, "profilesFolder", report.getProfile(), profilerCallback);
-				});
-			} else datasetProfiler.CKANUtil.promptSave(save, "profilesFolder", report.getProfile(), profilerCallback);
-		}
 	}
 
 	this.profileDataset = function profileDataset(isQuality, profilerCallback) {
