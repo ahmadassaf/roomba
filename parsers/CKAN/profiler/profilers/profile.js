@@ -143,12 +143,12 @@ function profile(parent) {
 	* Inserts entries to the profile i.e insert an entry for a missing field
 	* by parsing an array of keys against the dataset
 	*
-	* @method parseKeys
+	* @method insertKeys
 	* @param {Array} metadtaKeys: the keys array we want to check against
 	* @param {Object} dataset: the dataset we want to examine
 	* @param {String} profile: the explaination of the entry added to the report
 	*/
-	this.insertKeys = function addEntry(metadtaKeys, dataset, includeQuality) {
+	this.insertKeys = function insertKeys(metadtaKeys, dataset, includeQuality) {
 
 		var profile        = this;
 		var qualityCounter = 0;

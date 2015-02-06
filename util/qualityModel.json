@@ -11,7 +11,7 @@
          "score": 0
       },
       "QI.3": {
-         "description": "Has different queryable endpoints to access the data",
+         "description": "Has different data access points",
          "weight": 1,
          "score": 0
       },
@@ -21,17 +21,27 @@
          "score": 0
       },
       "QI.5": {
-         "description": "Existence of descriptions about the size and categorization",
+         "description": "Existence of descriptions about its size",
          "weight": 1,
          "score": 0
       },
       "QI.6": {
-         "description": "Existence of information about the kind and number of used vocabularies",
+         "description": "Existence of descriptions about its structure (MIME Type, Format)",
          "weight": 1,
          "score": 0
       },
       "QI.7": {
-         "description": "Existence of dereferencable in-bound and out-bound links",
+         "description": "Existence of descriptions about its organization and categorization",
+         "weight": 1,
+         "score": 0
+      },
+      "QI.8": {
+         "description": "Existence of information about the kind and number of used vocabularies",
+         "weight": 1,
+         "score": 0
+      },
+      "QI.9": {
+         "description": "Existence of dereferencable links for the dataset and its resources",
          "weight": 1,
          "score": 0
       }
