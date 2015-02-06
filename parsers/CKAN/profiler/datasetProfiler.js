@@ -42,31 +42,31 @@ function datasetProfiler(parent) {
 		}
 	}
 
-	this.profileQuality = function profileQuality(dataset, save, profilerCallback) {
+	this.profileQuality = function profileQuality(dataset, profilerCallback) {
 
 		qualityProfiler   : datasetProfiler.qualityProfiler.start(dataset , function (err, qualityReport) {
 
 				// merge the profiling reports and prompt the user if he wants to save that report
 				console.log(qualityReport.getQualityProfile());
 				// Check if the save prompt is valid to be displayed for saving report and enhanced profile
-				datasetProfiler.CKANUtil.promptSave(save, "saveQuality", report.getProfile(), profilerCallback);
+				datasetProfiler.CKANUtil.promptSave("true", "reportsFolder", qualityReport.getQualityProfile(), profilerCallback);
 		});
 
 	}
 
-	this.profileDataset = function profileDataset(isQuality, profilerCallback) {
+	this.profileDataset = function profileDataset(profilerCallback, isQuality) {
 		// Create a prompt to ask for manual user entry of the dataset name
 		this.CKANUtil.getDataset("getDataset", "Please enter the dataset name you wish to profile(type 'exit' to return back to previous menu):", function(error, dataset){
 			if (!error) {
 				if (isQuality) {
 					// Call the dataset Quality profiler and get the report out of each
 					datasetProfiler.profileQuality(dataset, function(error){
-						(!error) profilerCallback(false, false, {type: "info", message: "profilingCompleted"});
+						if (!error) profilerCallback(false, false, {type: "info", message: "profilingCompleted"});
 					});
 				} else {
 					// Call the different profiles and get the report out of each
 					datasetProfiler.profile(dataset, true, function(error){
-						(!error) profilerCallback(false, false, {type: "info", message: "profilingCompleted"});
+						if (!error) profilerCallback(false, false, {type: "info", message: "profilingCompleted"});
 					});
 				}
 

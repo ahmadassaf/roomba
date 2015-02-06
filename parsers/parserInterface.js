@@ -43,9 +43,9 @@ parser.prototype.executeAction = function(self, action, parserCallback) {
 		profileDataset        : function ( callback) { self.profiler.profileDataset       ( callback);       } ,
 		profileGroup          : function ( callback) { self.profiler.profileGroup         ( callback);       } ,
 		profileAllDatasets    : function ( callback) { self.profiler.profilePortal        ( callback);       } ,
-		checkDatasetQuality   : function ( callback) { self.profiler.profileDataset       ( callback, true); } ,
-		checkGroupQuality     : function ( callback) { self.profiler.profileGroup         ( callback, true); } ,
-		checkPortalQuality    : function ( callback) { self.profiler.profilePortal        ( callback, true); } ,
+		checkDatasetQuality   : function ( callback) { self.profiler.profileDatasetQuality( callback);       } ,
+		checkGroupQuality     : function ( callback) { self.profiler.profileGroupQuality  ( callback);       } ,
+		checkPortalQuality    : function ( callback) { self.profiler.profilePortalQuality ( callback);       } ,
 	}
 
 	// Check if the user selection doesn't match any of the main default function selections
