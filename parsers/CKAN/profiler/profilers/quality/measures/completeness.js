@@ -103,20 +103,29 @@ function completeness(parent, dataset) {
 					}
 					if (containsVOID) profileTemplate.setQualityIndicatorScore("completeness", "QI.4", 1);
 
-					if (_.has(root, "url")) {
-						if (!_.isUndefined(root["url"]) && !_.isNull(root["url"]) && ( _.isString(root["url"]) && !root["url"].length == 0)) URLs++;
-					}
-
 					profileTemplate.setQualityIndicatorScore("completeness", "QI.5", (num_resources - sizeInformation) / num_resources);
 					profileTemplate.setQualityIndicatorScore("completeness", "QI.6", (num_resources - MIMEInformation) / num_resources);
-					profileTemplate.setQualityIndicatorScore("completeness", "QI.9", (URLs) / ++num_resources);
 
-					// Call the series of validation checks i want to run on the dataset
-					completeness.async.series([checkTags, checkGroup], function(err){
-						profileTemplate.setQualityIndicatorScore("completeness", "QI.7", (groupsErrors + tagsErrors) / 2);
-						// Finish the processing and do the callback for the main function
-						qualityCallback(null, profileTemplate);
-					});
+					if (_.has(root, "url")) {
+						if (!_.isUndefined(root["url"]) && !_.isNull(root["url"]) && ( _.isString(root["url"]) && !root["url"].length == 0)) {
+							completeness.util.checkAddress(root.url, function(error, body, response) {
+								if (!error) {
+									URLs++;
+									process();
+								} else process();
+							});
+						}
+
+						function process() {
+							profileTemplate.setQualityIndicatorScore("completeness", "QI.9", (URLs) / ++num_resources);
+							// Call the series of validation checks i want to run on the dataset
+							completeness.async.series([checkTags, checkGroup], function(err){
+								profileTemplate.setQualityIndicatorScore("completeness", "QI.7", (groupsErrors + tagsErrors) / 2);
+								// Finish the processing and do the callback for the main function
+								qualityCallback(null, profileTemplate);
+							});
+						}
+					}
 
 					function checkTags(callback) {
 						var tagsKeys  = ["vocabulary_id", "display_name", "name", "revision_timestamp", "state", "id"];
