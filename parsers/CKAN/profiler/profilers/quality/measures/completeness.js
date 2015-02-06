@@ -20,7 +20,7 @@ function completeness(parent, dataset) {
 			var accessPoints     = ["file", "api"];
 			var dataAccessPoints = [], dataSerializations = [];
 			var num_resources    = 0, unreachableURLs = 0, URLs = 0; inCorrectMIME = 0, inCorrectSize = 0, sizeInformation = 0, MIMEInformation = 0, tagsErrors = 0, groupsErrors = 0;
-			var containsVOID     = false;
+			var containsVOID     = false, availableRDFDump = false, availableAPI = false;
 
 			// Do the async loop on the resources and do the necessary checks
 			completeness.async.eachSeries(root.resources,function(resource, asyncCallback){
@@ -59,6 +59,14 @@ function completeness(parent, dataset) {
 							} else MIMEInformation++;
 							asyncCallback();
 						} else {
+
+							if (_.has(resource, "description") && resource.description.toLowerCase().indexOf("dump") > -1) {
+								profileTemplate.setQualityIndicatorScore("availability", "QI.19", 1);
+							}
+
+							if (_.has(resource, "resource_type") && resource.resource_type.indexOf("api") > -1) {
+								profileTemplate.setQualityIndicatorScore("availability", "QI.20", 1);
+							}
 
 							if (_.has(resource, "size")) {
 								if (_.isUndefined(resource["size"]) || _.isNull(resource["size"]) || ( _.isString(resource["size"]) && resource["size"].length == 0)) {
