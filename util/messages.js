@@ -34,7 +34,7 @@ var messages =   {
 				"saveQuality"      : "Would you like to save automatically the Quality reports ?",
 				"cachedProfiles"   : "Would you like to overwrite cached profiles if found ?",
 				"choiceList": [
-				{ "value" : "checkDatasetQuality"   , "name" : "Check the Quality of specific dataset"}              ,
+				{ "value" : "checkDatasetQuality"   , "name" : "Check the Quality of specific dataset"}                ,
 				{ "value" : "getAllDatasetsDetails" , "name" : "Fetch All the datasets in this portal"}                ,
 				{ "value" : "getAllGroupsDetails"   , "name" : "Fetch All the datasets groups in this portal"}         ,
 				{ "value" : "getGroupdetails"       , "name" : "Fetch the details of a specific group"}                ,
@@ -47,7 +47,7 @@ var messages =   {
 				{ "value" : "profileGroup"          , "name" : "Profile a specific Group"}                             ,
 				{ "value" : "profileAllDatasets"    , "name" : "Profile All the datasets in this portal"}              ,
 				separator                           ,
-				{ "value" : "checkGroupQuality"     , "name" : "Check the Quality of specific Group"}                ,
+				{ "value" : "checkGroupQuality"     , "name" : "Check the Quality of specific Group"}                  ,
 				{ "value" : "checkPortalQuality"    , "name" : "Check the Quality of All the datasets in this portal"} ,
 				separator                           ,
 				{ "value" : "addressEntry"          , "name" : "Return to Address Entry"}                              ,
