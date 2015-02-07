@@ -45,6 +45,7 @@ function completeness(parent, dataset) {
 				/*  Check the resources types, this is needed to check complete available data access points(API, dump)
 				 *  Possible resource_type values: file | file.upload | api | visualization | code | documentation
 				 *  Note: this check doesn't require the resource to be de-referenceable (URL hit)
+				 *  We have to note that the access point should be defined in the resource_type. However, most of the resources have that defined in the format as api/*
 				 */
 
 				if (_.has(resource, "resource_type")) {
@@ -72,33 +73,28 @@ function completeness(parent, dataset) {
 
 						} else {
 
-							if (_.has(resource, "description") && resource.description.toLowerCase().indexOf("dump") > -1) {
+							/*
+							 * The URL has been dereferenced, Check the size and MIME field values
+							 * The check we need to do now is related to completeness and availability since the URL is available
+							 */
+
+							checkMetaField("size", resource, sizeInformation);
+							checkMetaField("mimetype", resource, MIMEInformation);
+
+							// check if there is a resource representing a data dump
+							if (_.has(resource, "description") && resource.description.toLowerCase().indexOf("dump") > -1)
 								profileTemplate.setQualityIndicatorScore("availability", "QI.19", 1);
-							}
-
-							if (_.has(resource, "resource_type") && resource.resource_type.indexOf("api") > -1) {
+							// Check if there is a resource representing an API
+							if (_.has(resource, "resource_type") && resource.resource_type.indexOf("api") > -1)
 								profileTemplate.setQualityIndicatorScore("availability", "QI.20", 1);
+
+							// Check if we can extract a size and MIME type from the HTTP Head and check if they match the defined values
+							if (response["content-length"]) {
+								if (resource.size !== response["content-length"] ) inCorrectSize++;
 							}
-
-							if (_.has(resource, "size")) {
-								if (_.isUndefined(resource["size"]) || _.isNull(resource["size"]) || ( _.isString(resource["size"]) && resource["size"].length == 0)) {
-									inCorrectSize++;
-									sizeInformation++;
-								} else if (response["content-length"]) {
-									var resource_size = response["content-length"];
-									if (resource.size !== resource_size ) inCorrectSize++;
-								}
-							} else sizeInformation++;
-
-							if (_.has(resource, "mimetype")) {
-								if (_.isUndefined(resource["mimetype"]) || _.isNull(resource["mimetype"]) || ( _.isString(resource["mimetype"]) && resource["mimetype"].length == 0)) {
-									inCorrectMIME++;
-									MIMEInformation++;
-								} else if (response["content-type"]) {
-									var resource_mimeType = response["content-type"].split(';')[0];
-									if (resource.mimetype !== resource_mimeType ) inCorrectMIME++;
-								}
-							} else MIMEInformation++;
+							if (response["content-type"]) {
+								if (resource.mimetype !== response["content-type"].split(';')[0] ) inCorrectMIME++;
+							}
 
 							asyncCallback();
 						}
