@@ -83,8 +83,13 @@
       }
    },
    "correctness": {
-      "QI.22": {
+      "QI.25": {
          "description": "Included the correct MIME type for the content",
+         "weight": 1,
+         "score": 0
+      },
+      "QI.26": {
+         "description": "Included the correct size for the content",
          "weight": 1,
          "score": 0
       },
@@ -95,11 +100,6 @@
       },
       "QI.24": {
          "description": "Absence of Syntactic errors on the links level",
-         "weight": 1,
-         "score": 0
-      },
-      "QI.25": {
-         "description": "Use the HTTP URI scheme",
          "weight": 1,
          "score": 0
       }

@@ -80,6 +80,9 @@ function completeness(parent, dataset) {
 							 * The check we need to do now is related to completeness and availability since the URL is available
 							 */
 
+							 console.log(response.headers["content-length"]);console.log(response["content-length"]);
+							 console.log(response.headers["content-type"]);console.log(response["content-type"]);
+
 							checkMetaField("size", resource, sizeInformation);
 							checkMetaField("mimetype", resource, MIMEInformation);
 
@@ -91,11 +94,11 @@ function completeness(parent, dataset) {
 								profileTemplate.setQualityIndicatorScore("availability", "QI.20", 1);
 
 							// Check if we can extract a size and MIME type from the HTTP Head and check if they match the defined values
-							if (response["content-length"]) {
-								if (resource.size !== response["content-length"] ) inCorrectSize++;
+							if (_.has(resource, "size") && response.headers["content-length"]) {
+								if (resource.size !== response.headers["content-length"] ) inCorrectSize++;
 							}
-							if (response["content-type"]) {
-								if (resource.mimetype !== response["content-type"].split(';')[0] ) inCorrectMIME++;
+							if (_.has(resource, "mimetype") && response.headers["content-type"]) {
+								if (resource.mimetype !== response.headers["content-type"].split(';')[0] ) inCorrectMIME++;
 							}
 
 							asyncCallback();
@@ -131,8 +134,12 @@ function completeness(parent, dataset) {
 						profileTemplate.setQualityIndicatorScore("completeness", "QI.2", (serializations.length - serializationsNumber) / serializations.length);
 					}
 
+					console.log("inCorrectMIME: " + inCorrectMIME);console.log("inCorrectSize: " + inCorrectSize);
 					profileTemplate.setQualityIndicatorScore("completeness", "QI.5", (num_resources - sizeInformation) / num_resources);
 					profileTemplate.setQualityIndicatorScore("completeness", "QI.6", (num_resources - MIMEInformation) / num_resources);
+					profileTemplate.setQualityIndicatorScore("correctness", "QI.25", ((num_resources - MIMEInformation) - inCorrectMIME) / num_resources);
+					profileTemplate.setQualityIndicatorScore("correctness", "QI.26", ((num_resources - sizeInformation) - inCorrectSize) / num_resources);
+
 
 					if (_.has(root, "url")) {
 						completeness.util.checkAddress(root.url, function(error, body, response) {
