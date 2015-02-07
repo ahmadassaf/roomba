@@ -32,6 +32,7 @@ function completeness(parent, dataset) {
 				 *  Any checks for format values should be also done here
 				 *  Note: this check doesn't require the resource to be de-referenceable (URL hit)
 				 */
+
 				if (_.has(resource, "format")) {
 					if (( _.isString(resource["format"]) && resource["format"].length !== 0)) {
 						dataSerializations.push(resource.format);
@@ -45,6 +46,7 @@ function completeness(parent, dataset) {
 				 *  Possible resource_type values: file | file.upload | api | visualization | code | documentation
 				 *  Note: this check doesn't require the resource to be de-referenceable (URL hit)
 				 */
+
 				if (_.has(resource, "resource_type")) {
 					if (resource.resource_type.indexOf("file") > -1) dataAccessPoints.push("file");
 					if (resource.resource_type.indexOf("api") > -1) dataAccessPoints.push("api");
@@ -56,20 +58,18 @@ function completeness(parent, dataset) {
 					// Count the number of URLs defined for the resources [every resource should have a URL defined]
 					URLs++;
 
+					// Check the accessibility of the URLs by making a HEAD HTTP request
 					completeness.util.checkAddress(resource.url, function(error, body, response) {
 						if (error) {
+
+							// The URL cannot be reached (for example: 404 error), so we increase the counter for unreachable URLs
 							unreachableURLs++;
-							if (_.has(resource, "size")) {
-								if (_.isUndefined(resource["size"]) || _.isNull(resource["size"]) || ( _.isString(resource["size"]) && resource["size"].length == 0)) {
-									sizeInformation++;
-								} else sizeInformation++;
-							}
-							if (_.has(resource, "mimetype")) {
-								if (_.isUndefined(resource["mimetype"]) || _.isNull(resource["mimetype"]) || ( _.isString(resource["mimetype"]) && resource["mimetype"].length == 0)) {
-									MIMEInformation++;
-								}
-							} else MIMEInformation++;
+
+							checkMetaField("size", resource, sizeInformation);
+							checkMetaField("mimetype", resource, MIMEInformation);
+							// Signal the async callback to switch to the next async.series
 							asyncCallback();
+
 						} else {
 
 							if (_.has(resource, "description") && resource.description.toLowerCase().indexOf("dump") > -1) {
@@ -105,10 +105,19 @@ function completeness(parent, dataset) {
 					}, "HEAD");
 				} else {
 
-					unreachableURLs++;
-					if (!_.has(resource, "mimetype")) MIMEInformation++;
-					if (!_.has(resource, "size")) sizeInformation++;
+					/*
+					 * The resource doesn't have a URL defined
+					 * Unreachable URLs holds the counter for URLs that do not exist or with connectivity issues
+					 * If a resource doesn't have a URL then we check if he has MIME or size information
+					 * If it contains MIME and size info, then they are also incorrect as they cannot be checked against a URL
+					 */
 
+					unreachableURLs++;
+
+					if (!_.has(resource, "mimetype")) { inCorrectMIME++; MIMEInformation++; }
+					if (!_.has(resource, "size")) { inCorrectSize++; sizeInformation++; }
+
+					// execute the Async callback and continue the async.series
 					asyncCallback();
 
 				}},function(err){
@@ -200,6 +209,17 @@ function completeness(parent, dataset) {
 		} else {
 		 	// The quality checks have been completed
 			qualityCallback(null, profileTemplate);
+		}
+
+		/* This function will check the existence of a field in a JSON section
+		 * The checks will update a value that is passed ot the function
+		 */
+		function checkMetaField(field, section, value) {
+			if (_.has(section, field)) {
+				if (_.isUndefined(section[field]) || _.isNull(section[field]) || ( _.isString(section[field]) && section[field].length == 0)) {
+					value++;
+				} else value++;
+			}
 		}
 	}
 }
