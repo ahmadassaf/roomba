@@ -22,7 +22,7 @@ function completeness(parent, dataset) {
 
 			var dataAccessPoints = [], dataSerializations = [];
 			var num_resources    = _.size(root.resources);
-			var unreachableURLs  = 0, URLs = 0; inCorrectMIME = 0, inCorrectSize = 0, sizeInformation = 0, MIMEInformation = 0, tagsErrors = 0, groupsErrors = 0;
+			var unreachableURLs  = 0, URLs = 0, inCorrectURLs = 0, inCorrectMIME = 0, inCorrectSize = 0, sizeInformation = 0, MIMEInformation = 0, tagsErrors = 0, groupsErrors = 0;
 			var availableRDFDump = false, availableAPI = false;
 
 			checkMetaField("url", root, URLs);
@@ -137,14 +137,15 @@ function completeness(parent, dataset) {
 					console.log("inCorrectMIME: " + inCorrectMIME);console.log("inCorrectSize: " + inCorrectSize);
 					profileTemplate.setQualityIndicatorScore("completeness", "QI.5", (num_resources - sizeInformation) / num_resources);
 					profileTemplate.setQualityIndicatorScore("completeness", "QI.6", (num_resources - MIMEInformation) / num_resources);
-					profileTemplate.setQualityIndicatorScore("correctness", "QI.25", ((num_resources - MIMEInformation) - inCorrectMIME) / num_resources);
-					profileTemplate.setQualityIndicatorScore("correctness", "QI.26", ((num_resources - sizeInformation) - inCorrectSize) / num_resources);
+					profileTemplate.setQualityIndicatorScore("correctness", "QI.26", ((num_resources - MIMEInformation) - inCorrectMIME) / num_resources);
+					profileTemplate.setQualityIndicatorScore("correctness", "QI.27", ((num_resources - sizeInformation) - inCorrectSize) / num_resources);
 
 
 					if (_.has(root, "url")) {
 						completeness.util.checkAddress(root.url, function(error, body, response) {
 							if (error) {
 								unreachableURLs++;
+								if (!validator.isURL(URL)) inCorrectURLs++;
 								process();
 							} else process();
 						});
@@ -152,7 +153,12 @@ function completeness(parent, dataset) {
 
 					// This function is executed to check the tags and categorization infomration aftet the dataset URL check
 					function process() {
-						profileTemplate.setQualityIndicatorScore("completeness", "QI.9", (URLs - unreachableURLs) / URLs);
+						// set the number of URLs defined
+						profileTemplate.setQualityIndicatorScore("completeness", "QI.9", (num_resources - URLs) / num_resources);
+						// Set the number of unreachable URLs in the completenss Score
+						profileTemplate.setQualityIndicatorScore("availability", "QI.21", (URLs - unreachableURLs) / URLs);
+						// Set the number of syntactically valid URLs in the completenss Score
+						profileTemplate.setQualityIndicatorScore("availability", "QI.21", (URLs - inCorrectURLs) / URLs);
 						// Call the series of validation checks i want to run on the dataset
 						completeness.async.series([checkTags, checkGroup], function(err){
 							profileTemplate.setQualityIndicatorScore("completeness", "QI.7", (groupsErrors + tagsErrors) / 2);
@@ -205,7 +211,6 @@ function completeness(parent, dataset) {
 							} else callback();
 						}
 					}
-
 				});
 
 		} else {
