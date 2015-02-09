@@ -13,6 +13,7 @@ function completeness(parent, dataset) {
 		var tagsKeys       = ["vocabulary_id", "display_name", "name", "revision_timestamp", "state", "id"];
 		var groupsKeys     = ["display_name", "description", "title", "image_display_url", "id", "name"];
 		var serializations = ["application/rdf+xml", "text/turtle", "application/x-ntriples", "application/x-nquads", "application/x-trig"];
+		var exemplaryURLS  = ["example/rdf+xml", "example/turtle", "example/ntriples", "example/x-quads", "example/rdfa", "example/x-trig"];
 		var accessPoints   = ["file", "api"];
 
 		var root           = dataset.result ? dataset.result : dataset;
@@ -23,7 +24,7 @@ function completeness(parent, dataset) {
 			var dataAccessPoints = [], dataSerializations = [];
 			var num_resources    = _.size(root.resources);
 			var unreachableURLs  = 0, URLs = 0, inCorrectURLs = 0, inCorrectMIME = 0, inCorrectSize = 0, sizeInformation = 0, MIMEInformation = 0, tagsErrors = 0, groupsErrors = 0;
-			var availableRDFDump = false, availableAPI = false;
+			var availableRDFDump = false, availableAPI = false. containsExemplaryURL = false;
 
 			checkMetaField("url", root, URLs);
 
@@ -38,6 +39,9 @@ function completeness(parent, dataset) {
 				if (_.has(resource, "format")) {
 					if (( _.isString(resource["format"]) && resource["format"].length !== 0)) {
 						dataSerializations.push(resource.format);
+						// Check if the format contains an exemplary URL
+						if (exemplaryURLS.indexOf(resource.format) > -1)
+							profileTemplate.setQualityIndicatorScore("comprehensibility", "QI.37", 1);
 						// Check if format contains void or dcat which are dataset descriptions vocabularies [format should be meta/void, meta/dcat]
 						if (resource.format.indexOf("void") > -1 || resource.format.indexOf("dcat") > -1)
 							profileTemplate.setQualityIndicatorScore("completeness", "QI.4", 1);
@@ -79,9 +83,6 @@ function completeness(parent, dataset) {
 							 * The URL has been dereferenced, Check the size and MIME field values
 							 * The check we need to do now is related to completeness and availability since the URL is available
 							 */
-
-							 console.log(response.headers["content-length"]);console.log(response["content-length"]);
-							 console.log(response.headers["content-type"]);console.log(response["content-type"]);
 
 							checkMetaField("size", resource, sizeInformation);
 							checkMetaField("mimetype", resource, MIMEInformation);
@@ -145,7 +146,7 @@ function completeness(parent, dataset) {
 						completeness.util.checkAddress(root.url, function(error, body, response) {
 							if (error) {
 								unreachableURLs++;
-								if (!validator.isURL(URL)) inCorrectURLs++;
+								if (!completeness.util.validator.isURL(root.url)) inCorrectURLs++;
 								process();
 							} else process();
 						});

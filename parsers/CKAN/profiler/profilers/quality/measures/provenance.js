@@ -31,7 +31,7 @@ function provenance(parent, dataset) {
 			}
 			profileTemplate.setQualityIndicatorScore("provenance", "QI.40", (( fullMetadataKeys.length - ownershipQualityCounter) / fullMetadataKeys.length));
 
-			var provMetadtaKeys     = ["version", "revision_id", "metadata_created", "metadata_modified", "revision_timestamp", "revision_id"];
+			var provMetadtaKeys     = ["version", "revision_id"];
 			var provQualityCounter  = profileTemplate.insertKeys(provMetadtaKeys, root, true);
 			profileTemplate.setQualityIndicatorScore("provenance", "QI.42", ((provMetadtaKeys.length - provQualityCounter) / provMetadtaKeys.length));
 

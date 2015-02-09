@@ -31,7 +31,8 @@ function qualityProfiler(parent) {
 			qualityProfiler.async.waterfall([
 
 				qualityProfiler.async.apply(new completeness(qualityProfiler, dataset).start, profileTemplate),
-				new provenance(qualityProfiler, dataset).start
+				new provenance(qualityProfiler, dataset).start,
+				new freshness(qualityProfiler, dataset).start
 
 			], function (err, profileTemplate) {
 				profilerCallback(false, profileTemplate);
