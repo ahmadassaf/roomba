@@ -24,6 +24,7 @@ function profiler(parent) {
 
 	this.cache.createCacheFolder(this.profilesFolder, null, false);
 	this.cache.createCacheFolder(this.enrichedFolder, null, false);
+	this.cache.createCacheFolder(this.qualityFolder , null, false);
 
 };
 

@@ -22,6 +22,7 @@ function CKAN(options, util, cache, url) {
 	this.profilesFolder = this.portalName  + '/profiles/';
 	this.reportsFolder  = this.portalName  + '/reports/';
 	this.enrichedFolder = this.portalName  + '/enriched/';
+	this.qualityFolder  = this.portalName  + '/quality/';
 	this.API_path       = "/api/action/";
 	this.API_endpoints  = {
 		"datasets_list"      : "package_list",

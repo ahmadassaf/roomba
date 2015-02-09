@@ -14,7 +14,7 @@ function licensing(parent, dataset) {
 		var root                        = dataset.result ? dataset.result : dataset;
 
 		// Check if the dataset has a defined license URL
-		if (_.has(root, "license_url")) {
+		if (_.has(root, "license_url") && root.license_url) {
 			licensing.util.checkAddress(root.license_url, function(error, body, response) {
 				if (!error){
 					isLicenseURLDereferenceable = true;

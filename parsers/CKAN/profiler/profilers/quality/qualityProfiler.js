@@ -28,7 +28,7 @@ function qualityProfiler(parent) {
 
 			var root   = dataset.result ? dataset.result : dataset;
 
-			qualityProfiler.async.waterfall([
+			this.async.waterfall([
 
 				qualityProfiler.async.apply(new completeness(qualityProfiler, dataset).start, profileTemplate),
 				new provenance(qualityProfiler, dataset).start,
@@ -37,9 +37,9 @@ function qualityProfiler(parent) {
 				new licensing(qualityProfiler, dataset).start
 
 			], function (err, profileTemplate) {
-				profilerCallback(false, profileTemplate);
+				profilerCallback(false, profileTemplate, new profile(this));
 			});
-		} else profilerCallback(false, profileTemplate.getProfile());
+		} else profilerCallback(false, profileTemplate, new profile(this));
 	}
 };
 
