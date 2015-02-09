@@ -44,7 +44,7 @@ function datasetProfiler(parent) {
 
 	this.profileQuality = function profileQuality(dataset, profilerCallback) {
 
-		qualityProfiler   : datasetProfiler.qualityProfiler.start(dataset , function (err, qualityReport) {
+		datasetProfiler.qualityProfiler.start(dataset , function (err, qualityReport) {
 				// merge the profiling reports and prompt the user if he wants to save that report
 				qualityReport.prettyPrintQualityReport(["security"]);
 				// Check if the save prompt is valid to be displayed for saving report and enhanced profile
