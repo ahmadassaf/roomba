@@ -245,7 +245,6 @@ function profile(parent) {
 
 		_.each(report, function(qualityMeasure, measureTitle){
 			_.each(qualityMeasure, function(qualityIndicator, indicatorTitle){
-				console.log("CUREENT SCORE: " + profile.qualityProfile[measureTitle][indicatorTitle].score + " ====== " + "SCORE TO ADD: " + qualityIndicator.score);
 				profile.qualityProfile[measureTitle][indicatorTitle].score = ((profile.qualityProfile[measureTitle][indicatorTitle].score + qualityIndicator.score));
 			});
 		});
@@ -371,7 +370,7 @@ function profile(parent) {
 		var excludeList  = excludeList || [];
 		var totalQuality = 0;
 		var report       = [];
-
+console.log(this.qualityProfile);
 		// Print the Title head for the quality report
 		profile.createTitleHead("white", "Dataset Quality Report");
 
@@ -381,7 +380,7 @@ function profile(parent) {
 			if (_.indexOf(excludeList, measureTitle) == -1) {
 				var measureTotal = 0;
 				_.each(qualityMeasure, function(qualityIndicator, indicatorTitle){
-					if (qualityIndicator.score < 1)
+					if (qualityIndicator.score < 1 || (size && qualityIndicator.score < size))
 						report.push(qualityIndicator.description);
 					measureTotal+= qualityIndicator.score;
 				});

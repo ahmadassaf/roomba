@@ -116,6 +116,7 @@ function groupProfiler(parent) {
 
 								var profilesFolder = isQuality ? groupProfiler.qualityFolder : groupProfiler.profilesFolder;
 								var enrichedFolder = groupProfiler.enrichedFolder;
+
 								// The only option we did not catch if both are false, then do nothing and just move forward
 								if (!saveProfile) callback();
 

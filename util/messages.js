@@ -48,7 +48,7 @@ var messages =   {
 				separator                           ,
 				{ "value" : "checkDatasetQuality"   , "name" : "Check the Quality of specific dataset"}                ,
 				{ "value" : "checkGroupQuality"     , "name" : "Check the Quality of specific Group"}                  ,
-				//{ "value" : "checkPortalQuality"    , "name" : "Check the Quality of All the datasets in this portal"} ,
+				{ "value" : "checkPortalQuality"    , "name" : "Check the Quality of All the datasets in this portal"} ,
 				separator                           ,
 				{ "value" : "addressEntry"          , "name" : "Return to Address Entry"}                              ,
 				{ "value" : "exit"                  , "name" : "Exit"}											                           ,

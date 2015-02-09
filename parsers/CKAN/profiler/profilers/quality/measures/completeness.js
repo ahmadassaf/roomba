@@ -36,7 +36,7 @@ function completeness(parent, dataset) {
 				 *  Note: this check doesn't require the resource to be de-referenceable (URL hit)
 				 */
 
-				if (_.has(resource, "format")) {
+				if (_.has(resource, "format") && resource.format) {
 					if (( _.isString(resource["format"]) && resource["format"].length !== 0)) {
 						dataSerializations.push(resource.format);
 						// Check if the format contains an exemplary URL
@@ -54,7 +54,7 @@ function completeness(parent, dataset) {
 				 *  We have to note that the access point should be defined in the resource_type. However, most of the resources have that defined in the format as api/*
 				 */
 
-				if (_.has(resource, "resource_type")) {
+				if (_.has(resource, "resource_type") && resource.resource_type) {
 					if (resource.resource_type.indexOf("file") > -1) dataAccessPoints.push("file");
 					if (resource.resource_type.indexOf("api") > -1) dataAccessPoints.push("api");
 				}
@@ -88,10 +88,10 @@ function completeness(parent, dataset) {
 							checkMetaField("mimetype", resource, MIMEInformation);
 
 							// check if there is a resource representing a data dump
-							if (_.has(resource, "description") && resource.description.toLowerCase().indexOf("dump") > -1)
+							if (_.has(resource, "description") && resource.description && resource.description.toLowerCase().indexOf("dump") > -1)
 								profileTemplate.setQualityIndicatorScore("availability", "QI.19", 1);
 							// Check if there is a resource representing an API
-							if (_.has(resource, "resource_type") && resource.resource_type.indexOf("api") > -1)
+							if (_.has(resource, "resource_type") && resource.resource_type && resource.resource_type.indexOf("api") > -1)
 								profileTemplate.setQualityIndicatorScore("availability", "QI.20", 1);
 
 							// Check if we can extract a size and MIME type from the HTTP Head and check if they match the defined values
