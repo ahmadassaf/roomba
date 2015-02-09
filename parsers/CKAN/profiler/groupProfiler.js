@@ -8,7 +8,6 @@ function groupProfiler(parent) {
 
 	var groupProfiler   = this;
 	var _               = this.util._;
-	var firstMerge      = false;
 
 	var aggregateReport = new profile(this);
 
@@ -55,13 +54,7 @@ function groupProfiler(parent) {
 				groupProfiler.cache.getCache( profilesFolder + item.name, function(error, file){
 					if (!error) {
 						if (isQuality) {
-							console.log(firstMerge);
-											if (!firstMerge) {
-												console.log("============ firstMerge================");
-												aggregateReport.setQualityReport(file);
-												firstMerge = true;
-													//console.log(aggregateReport.getQualityProfile());
-											} else aggregateReport.mergeQualityReports(file);
+								aggregateReport.mergeQualityReports(file);
 						} else {
 							// cache file has been found successfully, do the needed statistics and aggregations and go to next dataset
 							aggregateReport.aggregateCounter([file.counter]);
@@ -89,14 +82,7 @@ function groupProfiler(parent) {
 								if (isQuality) {
 									groupProfiler.qualityProfiler.start(dataset , function (err, qualityReport) {
 											// merge the profiling reports and prompt the user if he wants to save that report
-
-																						// merge the profiling reports and prompt the user if he wants to save that report
-											if (!firstMerge) {
-												console.log("============ firstMerge================");
-												aggregateReport.setQualityReport(qualityReport.getQualityProfile());
-												firstMerge = true;
-													//console.log(aggregateReport.getQualityProfile());
-											} else aggregateReport.mergeQualityReports(qualityReport.getQualityProfile());
+											aggregateReport.mergeQualityReports(qualityReport.getQualityProfile());
 											callback(null, false, false, qualityReport.getQualityProfile());
 									});
 								} else {

@@ -1,4 +1,4 @@
-var qualityModel    = require('../../../../util/qualityModel.json');
+var qualityModel    = require('../../../../util/qualityModel');
 
 var _               = require("underscore");
 var extend          = require('extend');
@@ -13,7 +13,7 @@ function profile(parent) {
 	this.template        = {"missing" : [], "undefined" : [], "unreachableURLs": [], "report" : []};
 	this.aggregateReport = {"missing" : {}, "undefined" : {}, "unreachableURLs": {}, "report" : {}};
 	this.counter         = {"group" : 0, "tag" : 0, "resource" : 0};
-	this.qualityProfile  = qualityModel;
+	this.qualityProfile  = new qualityModel();
 
 
 	/**************************** Setters and Getters ****************************/
