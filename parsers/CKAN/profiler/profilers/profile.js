@@ -1,3 +1,5 @@
+var qualityModel    = require('../../../../util/qualityModel.json')
+
 var _               = require("underscore");
 var extend          = require('extend');
 
@@ -11,6 +13,7 @@ function profile(parent) {
 	this.template        = {"missing" : [], "undefined" : [], "unreachableURLs": [], "report" : []};
 	this.aggregateReport = {"missing" : {}, "undefined" : {}, "unreachableURLs": {}, "report" : {}};
 	this.counter         = {"group" : 0, "tag" : 0, "resource" : 0};
+	this.qualityProfile  = qualityModel;
 
 
 	/**************************** Setters and Getters ****************************/
@@ -48,6 +51,17 @@ function profile(parent) {
 
 
 	/**
+	* Gets the current counter and return back
+	*
+	* @method getQualityProfile
+	* @return {Object} return the current quality profile
+	*/
+	this.getQualityProfile = function getQualityProfile() {
+		return this.qualityProfile;
+	}
+
+
+	/**
 	* Gets the current aggregate Report and return back
 	*
 	* @method getAggregateReport
@@ -66,6 +80,33 @@ function profile(parent) {
 	*/
 	this.setCounter = function setProfile(key, value) {
 		this.counter[key] = value;
+	}
+
+	/**
+	* Set the quality model with the one passed as a parameter
+	*
+	* @method setQualityReport
+	* @param {Object} qualityModel: the qualityModel we need to assign
+	*/
+	this.setQualityReport = function setQualityReport(qualityModel) {
+		this.qualityProfile = qualityModel;
+	}
+
+
+	/**
+	* Set a quality indicator score
+	*
+	* @method setQualityIndicatorScore
+	* @param {String} qualityMeasure: the quality masure parent of the quality indicator
+	* @param {String} qualityIndicator: the quality indicator we need to assign a score to
+	* @param {Integer} score: the quality indicator score
+	*/
+	this.setQualityIndicatorScore = function setQualityIndicatorScore(qualityMeasure, qualityIndicator, score) {
+		if (_.isArray(qualityIndicator)) {
+			_.each(qualityIndicator, function(indicator){
+				this.qualityProfile[qualityMeasure][indicator].score = score * this.qualityProfile[qualityMeasure][indicator].weight;
+			});
+		} else this.qualityProfile[qualityMeasure][qualityIndicator].score = score * this.qualityProfile[qualityMeasure][qualityIndicator].weight;
 	}
 
 	/**
@@ -102,21 +143,28 @@ function profile(parent) {
 	* Inserts entries to the profile i.e insert an entry for a missing field
 	* by parsing an array of keys against the dataset
 	*
-	* @method parseKeys
+	* @method insertKeys
 	* @param {Array} metadtaKeys: the keys array we want to check against
 	* @param {Object} dataset: the dataset we want to examine
 	* @param {String} profile: the explaination of the entry added to the report
 	*/
-	this.insertKeys = function addEntry(metadtaKeys, dataset) {
+	this.insertKeys = function insertKeys(metadtaKeys, dataset, includeQuality) {
 
-		var profile = this;
+		var profile        = this;
+		var qualityCounter = 0;
 
 		_.each(metadtaKeys, function(key, index) {
 			if (_.has(dataset, key)) {
-				if (_.isUndefined(dataset[key]) || _.isNull(dataset[key]) || ( _.isString(dataset[key]) && dataset[key].length == 0))
+				if (_.isUndefined(dataset[key]) || _.isNull(dataset[key]) || ( _.isString(dataset[key]) && dataset[key].length == 0)) {
 					profile.addEntry("undefined", key, key + " field exists but there is no value defined");
-			} else profile.addEntry("missing", key, key + " field is missing");
+					qualityCounter++;
+				}
+			} else {
+				profile.addEntry("missing", key, key + " field is missing");
+				qualityCounter++;
+			}
 		});
+		if (includeQuality) return qualityCounter;
 	}
 
 	/**
@@ -289,6 +337,41 @@ function profile(parent) {
 		_.each(report, function(number, message){
 			console.log("[" + number + "] " + message);
 		});
+	}
+
+	/**
+	* Prints the aggregation Quality report generated in a nice customized way, settings will be read from various setting files
+	* the function aggregates the various reports and produce several statistics
+	*
+	* @method prettyPrintQuality
+	*/
+	this.prettyPrintQualityReport = function prettyPrintQualityReport(excludeList) {
+
+		// Print the Title head for the quality report
+		this.createTitleHead("white", "Dataset Quality Report");
+
+		var excludeList  = excludeList || [];
+		var totalQuality = 0;
+
+		_.each(this.qualityProfile, function(qualityMeasure, measureTitle){
+
+			// make sure that we dont count quality measures from an exclude list
+			if (_.indexOf(excludeList, measureTitle) == -1) {
+				var measureTotal = 0;
+				_.each(qualityMeasure, function(qualityIndicator, indicatorTitle){
+					measureTotal+= qualityIndicator.score;
+				});
+
+				// Add the values that will correspond to the final quality score calculation
+				var measureAverage = measureTotal / _.size(qualityMeasure);
+				totalQuality       += measureAverage;
+
+				util.colorify(["yellow","red"], [measureTitle + " quality Score: ",parseFloat( measureAverage * 100).toFixed(2)+ "%"]);
+			}
+		});
+
+		// Print the total Quality score
+		util.colorify(["magenta","yellow"], ["\nDataset total quality Score: ",parseFloat((totalQuality / (_.size(this.qualityProfile) - excludeList.length))  * 100).toFixed(2)+ "%"]);
 	}
 
 	/**

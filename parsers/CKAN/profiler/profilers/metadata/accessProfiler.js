@@ -19,7 +19,6 @@ function accessProfiler(parent) {
 		var countKeys    = ["num_tags", "num_resources"];
 
 		var root         = dataset.result ? dataset.result : dataset;
-		var dataset_keys = _.keys(root);
 
 		// Call the series of validation checks i want to run on the dataset
 		accessProfiler.async.series([checkLicenses, resourceProfiling, checkCounts], function(err){
