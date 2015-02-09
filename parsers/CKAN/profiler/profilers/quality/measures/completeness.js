@@ -71,6 +71,7 @@ function completeness(parent, dataset) {
 
 							// The URL cannot be reached (for example: 404 error), so we increase the counter for unreachable URLs
 							unreachableURLs++;
+							if (!completeness.util.validator.isURL(resource.url)) inCorrectURLs++;
 
 							checkMetaField("size", resource, sizeInformation);
 							checkMetaField("mimetype", resource, MIMEInformation);
@@ -88,7 +89,7 @@ function completeness(parent, dataset) {
 							checkMetaField("mimetype", resource, MIMEInformation);
 
 							// check if there is a resource representing a data dump
-							if (_.has(resource, "description") && resource.description && resource.description.toLowerCase().indexOf("dump") > -1)
+							if ( (_.has(resource, "description") && resource.description) && resource.description.toLowerCase().indexOf("dump") > -1)
 								profileTemplate.setQualityIndicatorScore("availability", "QI.19", 1);
 							// Check if there is a resource representing an API
 							if (_.has(resource, "resource_type") && resource.resource_type && resource.resource_type.indexOf("api") > -1)
@@ -154,11 +155,11 @@ function completeness(parent, dataset) {
 					// This function is executed to check the tags and categorization infomration aftet the dataset URL check
 					function process() {
 						// set the number of URLs defined
-						profileTemplate.setQualityIndicatorScore("completeness", "QI.9", (num_resources - URLs) / num_resources);
+						profileTemplate.setQualityIndicatorScore("completeness", "QI.9", URLs / num_resources);
 						// Set the number of unreachable URLs in the completenss Score
 						profileTemplate.setQualityIndicatorScore("availability", "QI.21", (URLs - unreachableURLs) / URLs);
 						// Set the number of syntactically valid URLs in the completenss Score
-						profileTemplate.setQualityIndicatorScore("availability", "QI.21", (URLs - inCorrectURLs) / URLs);
+						profileTemplate.setQualityIndicatorScore("correctness", "QI.29", (URLs - inCorrectURLs) / URLs);
 						// Call the series of validation checks i want to run on the dataset
 						completeness.async.series([checkTags, checkGroup], function(err){
 							profileTemplate.setQualityIndicatorScore("completeness", "QI.7", (groupsErrors + tagsErrors) / 2);

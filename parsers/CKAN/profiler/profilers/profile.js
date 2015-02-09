@@ -89,7 +89,6 @@ function profile(parent) {
 	* @param {Object} qualityModel: the qualityModel we need to assign
 	*/
 	this.setQualityReport = function setQualityReport(qualityModel) {
-		console.log("SETTING QUALITY 8888888888888888888888");
 		this.qualityProfile = qualityModel;
 	}
 
@@ -370,7 +369,7 @@ function profile(parent) {
 		var excludeList  = excludeList || [];
 		var totalQuality = 0;
 		var report       = [];
-console.log(this.qualityProfile);
+
 		// Print the Title head for the quality report
 		profile.createTitleHead("white", "Dataset Quality Report");
 
