@@ -340,6 +340,41 @@ function profile(parent) {
 	}
 
 	/**
+	* Prints the aggregation Quality report generated in a nice customized way, settings will be read from various setting files
+	* the function aggregates the various reports and produce several statistics
+	*
+	* @method prettyPrintQuality
+	*/
+	this.prettyPrintQualityReport = function prettyPrintQualityReport(excludeList) {
+
+		// Print the Title head for the quality report
+		this.createTitleHead("white", "Dataset Quality Report");
+
+		var excludeList  = excludeList || [];
+		var totalQuality = 0;
+
+		_.each(this.qualityProfile, function(qualityMeasure, measureTitle){
+
+			// make sure that we dont count quality measures from an exclude list
+			if (_.indexOf(excludeList, measureTitle) == -1) {
+				var measureTotal = 0;
+				_.each(qualityMeasure, function(qualityIndicator, indicatorTitle){
+					measureTotal+= qualityIndicator.score;
+				});
+
+				// Add the values that will correspond to the final quality score calculation
+				var measureAverage = measureTotal / _.size(qualityMeasure);
+				totalQuality       += measureAverage;
+
+				util.colorify(["yellow","red"], [measureTitle + " quality Score: ",parseFloat( measureAverage * 100).toFixed(2)+ "%"]);
+			}
+		});
+
+		// Print the total Quality score
+		util.colorify(["magenta","yellow"], ["\nDataset total quality Score: ",parseFloat((totalQuality / (_.size(this.qualityProfile) - excludeList.length))  * 100).toFixed(2)+ "%"]);
+	}
+
+	/**
 	* Prints the aggregation report generated in a nice customized way, settings will be read from various setting files
 	* the function aggregates the various reports and produce several statistics
 	*
