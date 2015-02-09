@@ -8,6 +8,7 @@ function groupProfiler(parent) {
 
 	var groupProfiler   = this;
 	var _               = this.util._;
+	var firstMerge      = false;
 
 	var aggregateReport = new profile(this);
 
@@ -26,7 +27,8 @@ function groupProfiler(parent) {
 				if (!error)
 					groupProfiler.generateGroupProfiles(groupList.result.packages, saveProfile, cachedProfiles, function(error, aggregateReport){
 
-						isQuality ? aggregateReport.prettyPrintQualityReport(["security"]) : aggregateReport.prettyPrintAggregationReport(_.size(groupList.result.packages));
+						var groupsSize = _.size(groupList.result.packages);
+						isQuality ? aggregateReport.prettyPrintQualityReport(["security"], groupsSize) : aggregateReport.prettyPrintAggregationReport(groupsSize);
 
 						!error ? profilerCallback(false, false, {type: "info", message: "profilingCompleted"}) : profilerCallback(false, false, {type: "error", message: "profilingFailed"});
 					}, isQuality);
@@ -46,14 +48,25 @@ function groupProfiler(parent) {
 
 			var fileName = folderName + "/" +  item.name;
 			var url      = groupProfiler.url + groupProfiler.API_path + groupProfiler.API_endpoints.dataset_description + item.name;
+			var profilesFolder = isQuality ? groupProfiler.qualityFolder : groupProfiler.profilesFolder;
 
 			// The user does not want to overwrite existing files, so we need to check if the file already exists and skip it
 			if (!cachedProfiles) {
-				groupProfiler.cache.getCache(groupProfiler.profilesFolder + item.name, function(error, file){
+				groupProfiler.cache.getCache( profilesFolder + item.name, function(error, file){
 					if (!error) {
-						// cache file has been found successfully, do the needed statistics and aggregations and go to next dataset
-						aggregateReport.aggregateCounter([file.counter]);
-						aggregateReport.mergeReports(aggregateReport.getAggregateReport(), _.omit(file,"counter"));
+						if (isQuality) {
+							console.log(firstMerge);
+											if (!firstMerge) {
+												console.log("============ firstMerge================");
+												aggregateReport.setQualityReport(file);
+												firstMerge = true;
+													//console.log(aggregateReport.getQualityProfile());
+											} else aggregateReport.mergeQualityReports(file);
+						} else {
+							// cache file has been found successfully, do the needed statistics and aggregations and go to next dataset
+							aggregateReport.aggregateCounter([file.counter]);
+							aggregateReport.mergeReports(aggregateReport.getAggregateReport(), _.omit(file,"counter"));
+						}
 						next();
 					} else retreiveProfiles(fileName, url);
 				});
@@ -74,9 +87,16 @@ function groupProfiler(parent) {
 
 								// Check if the report we need to generate is quality report or not
 								if (isQuality) {
-									datasetProfiler.qualityProfiler.start(dataset , function (err, qualityReport) {
+									groupProfiler.qualityProfiler.start(dataset , function (err, qualityReport) {
 											// merge the profiling reports and prompt the user if he wants to save that report
-											aggregateReport.mergeQualityReports(qualityReport.getQualityProfile());
+
+																						// merge the profiling reports and prompt the user if he wants to save that report
+											if (!firstMerge) {
+												console.log("============ firstMerge================");
+												aggregateReport.setQualityReport(qualityReport.getQualityProfile());
+												firstMerge = true;
+													//console.log(aggregateReport.getQualityProfile());
+											} else aggregateReport.mergeQualityReports(qualityReport.getQualityProfile());
 											callback(null, false, false, qualityReport.getQualityProfile());
 									});
 								} else {
@@ -132,10 +152,7 @@ function groupProfiler(parent) {
 				asyncCallback();
 			}
 		},function(err){
-			if (isQuality)
-				startCallback(false, aggregateReport);
-			else
-				!_.isEmpty(aggregateReport) ? startCallback(false, aggregateReport) : startCallback(true,aggregateReport)
+			isQuality ? startCallback(false, aggregateReport): !_.isEmpty(aggregateReport) ? startCallback(false, aggregateReport) : startCallback(true,aggregateReport);
 		});
 	}
 }

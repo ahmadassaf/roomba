@@ -1,4 +1,4 @@
-var qualityModel    = require('../../../../util/qualityModel.json')
+var qualityModel    = require('../../../../util/qualityModel.json');
 
 var _               = require("underscore");
 var extend          = require('extend');
@@ -89,6 +89,7 @@ function profile(parent) {
 	* @param {Object} qualityModel: the qualityModel we need to assign
 	*/
 	this.setQualityReport = function setQualityReport(qualityModel) {
+		console.log("SETTING QUALITY 8888888888888888888888");
 		this.qualityProfile = qualityModel;
 	}
 
@@ -244,8 +245,8 @@ function profile(parent) {
 
 		_.each(report, function(qualityMeasure, measureTitle){
 			_.each(qualityMeasure, function(qualityIndicator, indicatorTitle){
-				var currentScore = profile.qualityProfile[qualityMeasure][qualityIndicator].score;
-				profile.qualityProfile[qualityMeasure][qualityIndicator].score = (currentScore + qualityIndicator.score) / 2;
+				console.log("CUREENT SCORE: " + profile.qualityProfile[measureTitle][indicatorTitle].score + " ====== " + "SCORE TO ADD: " + qualityIndicator.score);
+				profile.qualityProfile[measureTitle][indicatorTitle].score = ((profile.qualityProfile[measureTitle][indicatorTitle].score + qualityIndicator.score));
 			});
 		});
 	}
@@ -364,7 +365,7 @@ function profile(parent) {
 	*
 	* @method prettyPrintQuality
 	*/
-	this.prettyPrintQualityReport = function prettyPrintQualityReport(excludeList) {
+	this.prettyPrintQualityReport = function prettyPrintQualityReport(excludeList, size) {
 
 		var profile      = this;
 		var excludeList  = excludeList || [];
@@ -386,7 +387,7 @@ function profile(parent) {
 				});
 
 				// Add the values that will correspond to the final quality score calculation
-				var measureAverage = measureTotal / _.size(qualityMeasure);
+				var measureAverage = size ? ((measureTotal / _.size(qualityMeasure)) / size) : (measureTotal / _.size(qualityMeasure));
 				totalQuality       += measureAverage;
 
 				util.colorify(["yellow","red"], [measureTitle + " quality Score: ",parseFloat( measureAverage * 100).toFixed(2)+ "%"]);
