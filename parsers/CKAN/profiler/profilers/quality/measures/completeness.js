@@ -193,17 +193,11 @@ function completeness(parent, dataset) {
 									// Loop through the meta keys and check if they are undefined or missing
 									groupError+= profileTemplate.insertKeys(groupsKeys, group, true);
 									num_groups++;
+									asyncCallback();
 
-									completeness.util.checkAddress(url, function(error, body, response) {
-										if (!error) asyncCallback()
-										else {
-											groupError++;
-											asyncCallback();
-										}
-									}, "HEAD");
 								},function(err){
 
-									var totalGroupFields = groupsKeys.length * num_num_groupstags;
+									var totalGroupFields = groupsKeys.length * num_groups;
 									groupsErrors = ((totalGroupFields - groupError) / totalGroupFields);
 
 									callback();

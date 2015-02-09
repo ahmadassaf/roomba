@@ -39,7 +39,7 @@ function qualityProfiler(parent) {
 			], function (err, profileTemplate) {
 				profilerCallback(false, profileTemplate);
 			});
-		} else profilerCallback(false, profileTemplate.getProfile());
+		} else profilerCallback(false, profileTemplate);
 	}
 };
 

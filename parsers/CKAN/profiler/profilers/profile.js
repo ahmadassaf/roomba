@@ -232,6 +232,25 @@ function profile(parent) {
 	}
 
 	/**
+	* Unqieuly merges all the properties of objects into a target
+	*
+	* @method mergeQualityReports
+	* @param {Object} report: The Object we want to merge
+	* @return {Object} output the desired object with all the targets and their properties uniquely merged
+	*/
+	this.mergeQualityReports = function mergeQualityReports(report) {
+
+		var profile = this;
+
+		_.each(report, function(qualityMeasure, measureTitle){
+			_.each(qualityMeasure, function(qualityIndicator, indicatorTitle){
+				var currentScore = profile.qualityProfile[qualityMeasure][qualityIndicator].score;
+				profile.qualityProfile[qualityMeasure][qualityIndicator].score = (currentScore + qualityIndicator.score) / 2;
+			});
+		});
+	}
+
+	/**
 	* Merges all the properties of objects into a target
 	*
 	* @method mergeReports
