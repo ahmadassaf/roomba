@@ -1,4 +1,4 @@
-var qualityModel    = require('../../../../util/qualityModel.json')
+var qualityModel    = require('../../../../util/qualityModel');
 
 var _               = require("underscore");
 var extend          = require('extend');
@@ -13,7 +13,7 @@ function profile(parent) {
 	this.template        = {"missing" : [], "undefined" : [], "unreachableURLs": [], "report" : []};
 	this.aggregateReport = {"missing" : {}, "undefined" : {}, "unreachableURLs": {}, "report" : {}};
 	this.counter         = {"group" : 0, "tag" : 0, "resource" : 0};
-	this.qualityProfile  = qualityModel;
+	this.qualityProfile  = new qualityModel();
 
 
 	/**************************** Setters and Getters ****************************/
@@ -89,6 +89,7 @@ function profile(parent) {
 	* @param {Object} qualityModel: the qualityModel we need to assign
 	*/
 	this.setQualityReport = function setQualityReport(qualityModel) {
+		console.log("SETTING QUALITY 8888888888888888888888");
 		this.qualityProfile = qualityModel;
 	}
 
@@ -232,6 +233,24 @@ function profile(parent) {
 	}
 
 	/**
+	* Unqieuly merges all the properties of objects into a target
+	*
+	* @method mergeQualityReports
+	* @param {Object} report: The Object we want to merge
+	* @return {Object} output the desired object with all the targets and their properties uniquely merged
+	*/
+	this.mergeQualityReports = function mergeQualityReports(report) {
+
+		var profile = this;
+
+		_.each(report, function(qualityMeasure, measureTitle){
+			_.each(qualityMeasure, function(qualityIndicator, indicatorTitle){
+				profile.qualityProfile[measureTitle][indicatorTitle].score = ((profile.qualityProfile[measureTitle][indicatorTitle].score + qualityIndicator.score));
+			});
+		});
+	}
+
+	/**
 	* Merges all the properties of objects into a target
 	*
 	* @method mergeReports
@@ -345,13 +364,13 @@ function profile(parent) {
 	*
 	* @method prettyPrintQuality
 	*/
-	this.prettyPrintQualityReport = function prettyPrintQualityReport(excludeList) {
+	this.prettyPrintQualityReport = function prettyPrintQualityReport(excludeList, size) {
 
 		var profile      = this;
 		var excludeList  = excludeList || [];
 		var totalQuality = 0;
 		var report       = [];
-
+console.log(this.qualityProfile);
 		// Print the Title head for the quality report
 		profile.createTitleHead("white", "Dataset Quality Report");
 
@@ -361,13 +380,13 @@ function profile(parent) {
 			if (_.indexOf(excludeList, measureTitle) == -1) {
 				var measureTotal = 0;
 				_.each(qualityMeasure, function(qualityIndicator, indicatorTitle){
-					if (qualityIndicator.score < 1)
+					if (qualityIndicator.score < 1 || (size && qualityIndicator.score < size))
 						report.push(qualityIndicator.description);
 					measureTotal+= qualityIndicator.score;
 				});
 
 				// Add the values that will correspond to the final quality score calculation
-				var measureAverage = measureTotal / _.size(qualityMeasure);
+				var measureAverage = size ? ((measureTotal / _.size(qualityMeasure)) / size) : (measureTotal / _.size(qualityMeasure));
 				totalQuality       += measureAverage;
 
 				util.colorify(["yellow","red"], [measureTitle + " quality Score: ",parseFloat( measureAverage * 100).toFixed(2)+ "%"]);

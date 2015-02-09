@@ -1,4 +1,5 @@
-{
+function qualityModel() {
+   return {
    "completeness": {
       "QI.1": {
          "description": "Existence of supporting structured metadata",
@@ -161,3 +162,6 @@
       }
    }
 }
+}
+
+module.exports = qualityModel;
