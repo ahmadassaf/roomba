@@ -48,7 +48,7 @@ function datasetProfiler(parent) {
 				// merge the profiling reports and prompt the user if he wants to save that report
 				qualityReport.prettyPrintQualityReport(["security"]);
 				// Check if the save prompt is valid to be displayed for saving report and enhanced profile
-				datasetProfiler.CKANUtil.promptSave("true", "reportsFolder", qualityReport.getQualityProfile(), profilerCallback);
+				datasetProfiler.CKANUtil.promptSave("true", "qualityFolder", qualityReport.getQualityProfile(), profilerCallback);
 		});
 
 	}
