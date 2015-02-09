@@ -135,7 +135,6 @@ function completeness(parent, dataset) {
 						profileTemplate.setQualityIndicatorScore("completeness", "QI.2", (serializations.length - serializationsNumber) / serializations.length);
 					}
 
-					console.log("inCorrectMIME: " + inCorrectMIME);console.log("inCorrectSize: " + inCorrectSize);
 					profileTemplate.setQualityIndicatorScore("completeness", "QI.5", (num_resources - sizeInformation) / num_resources);
 					profileTemplate.setQualityIndicatorScore("completeness", "QI.6", (num_resources - MIMEInformation) / num_resources);
 					profileTemplate.setQualityIndicatorScore("correctness", "QI.26", ((num_resources - MIMEInformation) - inCorrectMIME) / num_resources);
