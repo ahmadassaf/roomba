@@ -379,7 +379,7 @@ function profile(parent) {
 			if (_.indexOf(excludeList, measureTitle) == -1) {
 				var measureTotal = 0;
 				_.each(qualityMeasure, function(qualityIndicator, indicatorTitle){
-					if (qualityIndicator.score < 1 || (size && qualityIndicator.score < size))
+					if (qualityIndicator.score > 0 || (size && qualityIndicator.score < size))
 						qualityIndicators.push({"description" : qualityIndicator.description, "score" : qualityIndicator.score});
 					measureTotal+= qualityIndicator.score;
 				});
