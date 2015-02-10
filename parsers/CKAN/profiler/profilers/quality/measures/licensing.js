@@ -17,7 +17,7 @@ function licensing(parent, dataset) {
 		if (_.has(root, "license_url") && root.license_url) {
 			licensing.util.checkAddress(root.license_url, function(error, body, response) {
 				if (!error){
-					profileTemplate.setQualityIndicatorScore("licensing", "QI.22", 1);
+					profileTemplate.setQualityIndicatorScore("licensing", "QI.22", 0);
 				}
 				process();
 			}, "HEAD");

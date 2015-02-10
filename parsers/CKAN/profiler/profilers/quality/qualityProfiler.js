@@ -24,7 +24,7 @@ function qualityProfiler(parent) {
 		if (dataset) {
 
 			// There is a valid dataset metadata file (Q1.1)
-			profileTemplate.setQualityIndicatorScore("completeness", "QI.1", 1);
+			profileTemplate.setQualityIndicatorScore("completeness", "QI.1", 0);
 
 			var root   = dataset.result ? dataset.result : dataset;
 

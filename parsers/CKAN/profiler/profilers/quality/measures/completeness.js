@@ -40,7 +40,7 @@ function completeness(parent, dataset) {
 			 *
 			 */
 
-			checkMetaField("url", root, URLs);
+			if (_.has(root, "url") && root["url"]) URLs++
 
 			// Do the async loop on the resources and do the necessary checks
 			completeness.async.eachSeries(root.resources,function(resource, asyncCallback){
@@ -55,10 +55,10 @@ function completeness(parent, dataset) {
 						dataSerializations.push(resource.format);
 						// Check if the format contains an exemplary URL
 						if (exemplaryURLS.indexOf(resource.format) > -1)
-							profileTemplate.setQualityIndicatorScore("comprehensibility", "QI.37", 1);
+							profileTemplate.setQualityIndicatorScore("comprehensibility", "QI.37", 0);
 						// Check if format contains void or dcat which are dataset descriptions vocabularies [format should be meta/void, meta/dcat]
 						if (resource.format.indexOf("void") > -1 || resource.format.indexOf("dcat") > -1)
-							profileTemplate.setQualityIndicatorScore("completeness", "QI.4", 1);
+							profileTemplate.setQualityIndicatorScore("completeness", "QI.4", 0);
 					}
 				}
 
@@ -87,8 +87,8 @@ function completeness(parent, dataset) {
 							unreachableURLs++;
 							if (!completeness.util.validator.isURL(resource.url)) inCorrectURLs++;
 
-							checkMetaField("size", resource, sizeInformation);
-							checkMetaField("mimetype", resource, MIMEInformation);
+							if (_.has(resource, "size") && resource["size"]) sizeInformation++;
+							if (_.has(resource, "mimetype") && resource["mimetype"]) MIMEInformation++
 							// Signal the async callback to switch to the next async.series
 							asyncCallback();
 
@@ -99,15 +99,15 @@ function completeness(parent, dataset) {
 							 * The check we need to do now is related to completeness and availability since the URL is available
 							 */
 
-							checkMetaField("size", resource, sizeInformation);
-							checkMetaField("mimetype", resource, MIMEInformation);
+							if (_.has(resource, "size") && resource["size"]) sizeInformation++;
+							if (_.has(resource, "mimetype") && resource["mimetype"]) MIMEInformation++
 
 							// check if there is a resource representing a data dump
 							if ( (_.has(resource, "description") && resource.description) && resource.description.toLowerCase().indexOf("dump") > -1)
-								profileTemplate.setQualityIndicatorScore("availability", "QI.18", 1);
+								profileTemplate.setQualityIndicatorScore("availability", "QI.18", 0);
 							// Check if there is a resource representing an API
 							if (_.has(resource, "resource_type") && resource.resource_type && resource.resource_type.indexOf("api") > -1)
-								profileTemplate.setQualityIndicatorScore("availability", "QI.19", 1);
+								profileTemplate.setQualityIndicatorScore("availability", "QI.19", 0);
 
 							// Check if we can extract a size and MIME type from the HTTP Head and check if they match the defined values
 							if (_.has(resource, "size") && response.headers["content-length"]) {
@@ -144,16 +144,15 @@ function completeness(parent, dataset) {
 					var serializationsNumber = _.intersection(serializations, _.unique(dataSerializations)).length;
 
 					if (accessPointsNumber < accessPoints.length) {
-						profileTemplate.setQualityIndicatorScore("completeness", "QI.3", (accessPoints.length - accessPointsNumber) / accessPoints.length);
+						profileTemplate.setQualityIndicatorScore("completeness", "QI.3", accessPointsNumber / accessPoints.length);
 					}
 					if (serializationsNumber < serializations.length) {
-						profileTemplate.setQualityIndicatorScore("completeness", "QI.2", (serializations.length - serializationsNumber) / serializations.length);
+						profileTemplate.setQualityIndicatorScore("completeness", "QI.2", serializationsNumber / serializations.length);
 					}
-
 					profileTemplate.setQualityIndicatorScore("completeness", "QI.5", (num_resources - sizeInformation) / num_resources);
 					profileTemplate.setQualityIndicatorScore("completeness", "QI.6", (num_resources - MIMEInformation) / num_resources);
-					profileTemplate.setQualityIndicatorScore("correctness", "QI.25", ((num_resources - MIMEInformation) - inCorrectMIME) / num_resources);
-					profileTemplate.setQualityIndicatorScore("correctness", "QI.26", ((num_resources - sizeInformation) - inCorrectSize) / num_resources);
+					profileTemplate.setQualityIndicatorScore("correctness", "QI.25", inCorrectMIME / num_resources);
+					profileTemplate.setQualityIndicatorScore("correctness", "QI.26", inCorrectSize / num_resources);
 
 
 					if (_.has(root, "url")) {
@@ -169,11 +168,11 @@ function completeness(parent, dataset) {
 					// This function is executed to check the tags and categorization infomration aftet the dataset URL check
 					function process() {
 						// set the number of URLs defined
-						profileTemplate.setQualityIndicatorScore("completeness", "QI.9", URLs / num_resources);
+						profileTemplate.setQualityIndicatorScore("completeness", "QI.9", (num_resources - URLs) / num_resources);
 						// Set the number of unreachable URLs in the completenss Score
-						profileTemplate.setQualityIndicatorScore("availability", "QI.20", (URLs - unreachableURLs) / URLs);
+						profileTemplate.setQualityIndicatorScore("availability", "QI.20", unreachableURLs / URLs);
 						// Set the number of syntactically valid URLs in the completenss Score
-						profileTemplate.setQualityIndicatorScore("correctness", "QI.28", (URLs - inCorrectURLs) / URLs);
+						profileTemplate.setQualityIndicatorScore("correctness", "QI.28", inCorrectURLs / URLs);
 						// Call the series of validation checks i want to run on the dataset
 						completeness.async.series([checkTags, checkGroup], function(err){
 							profileTemplate.setQualityIndicatorScore("completeness", "QI.7", (groupsErrors + tagsErrors) / 2);
@@ -194,7 +193,7 @@ function completeness(parent, dataset) {
 								});
 
 								var totalTagFields = tagsKeys.length * num_tags;
-								tagsErrors = ((totalTagFields - tagsError) / totalTagFields);
+								tagsErrors = (tagsError / totalTagFields);
 								callback();
 							} else callback();
 						}
@@ -213,7 +212,7 @@ function completeness(parent, dataset) {
 								},function(err){
 
 									var totalGroupFields = groupsKeys.length * num_groups;
-									groupsErrors = ((totalGroupFields - groupError) / totalGroupFields);
+									groupsErrors = (groupError / totalGroupFields);
 
 									callback();
 								});
@@ -225,17 +224,6 @@ function completeness(parent, dataset) {
 		} else {
 		 	// The quality checks have been completed
 			qualityCallback(null, profileTemplate);
-		}
-
-		/* This function will check the existence of a field in a JSON section
-		 * The checks will update a value that is passed ot the function
-		 */
-		function checkMetaField(field, section, value) {
-			if (_.has(section, field)) {
-				if (_.isUndefined(section[field]) || _.isNull(section[field]) || ( _.isString(section[field]) && section[field].length == 0)) {
-					value++;
-				} else value++;
-			}
 		}
 	}
 }
