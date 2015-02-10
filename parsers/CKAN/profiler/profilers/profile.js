@@ -365,10 +365,10 @@ function profile(parent) {
 	*/
 	this.prettyPrintQualityReport = function prettyPrintQualityReport(excludeList, size) {
 
-		var profile      = this;
-		var excludeList  = excludeList || [];
-		var totalQuality = 0;
-		var report       = [];
+		var profile           = this;
+		var excludeList       = excludeList || [];
+		var totalQuality      = 0;
+		var qualityIndicators = [];
 
 		// Print the Title head for the quality report
 		profile.createTitleHead("white", "Dataset Quality Report");
@@ -380,7 +380,7 @@ function profile(parent) {
 				var measureTotal = 0;
 				_.each(qualityMeasure, function(qualityIndicator, indicatorTitle){
 					if (qualityIndicator.score < 1 || (size && qualityIndicator.score < size))
-						report.push(qualityIndicator.description);
+						qualityIndicators.push({"description" : qualityIndicator.description, "score" : qualityIndicator.score});
 					measureTotal+= qualityIndicator.score;
 				});
 
@@ -397,7 +397,14 @@ function profile(parent) {
 
 		// print the mini spearator for the statsitics section
 		profile.createTitleHead("cyan", "Data Quality Problems");
-		profile.printReport(report);
+		printQualityIndicators(qualityIndicators);
+
+		function printQualityIndicators(qualityIndicators) {
+			_.each(qualityIndicators, function(indicator){
+				var score = size ? indicator.score / size : indicator.score;
+				util.colorify(["green","red"], ["Quality Indicator: " + indicator.description + " : " ,parseFloat( score * 100).toFixed(2)+ "%"]);
+			});
+		}
 	}
 
 	/**
