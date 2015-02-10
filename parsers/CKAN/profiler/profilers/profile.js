@@ -393,7 +393,7 @@ function profile(parent) {
 		});
 
 		// Print the total Quality score
-		util.colorify(["magenta","red"], ["\nDataset total quality Score: ",parseFloat((totalQuality / (_.size(this.qualityProfile) - excludeList.length))  * 100).toFixed(2)+ "%"]);
+		util.colorify(["magenta","red"], ["\Average total quality Score: ",parseFloat((totalQuality / (_.size(this.qualityProfile) - excludeList.length))  * 100).toFixed(2)+ "%"]);
 
 		// print the mini spearator for the statsitics section
 		profile.createTitleHead("cyan", "Data Quality Problems");
