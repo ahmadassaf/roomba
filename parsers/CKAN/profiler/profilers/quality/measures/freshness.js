@@ -41,10 +41,10 @@ function freshness(parent, dataset) {
 		var totalResourcesFields = resourceMetaKeys.length * num_resources;
 		var totalTagFields       = tagMetaKeys.length * num_tags;
 
-		var totalResourcesErrors = ((totalResourcesFields - resourcesError) / totalResourcesFields) || 0;
-		var totalTagsErrors      = ((totalTagFields - tagsError) / totalTagFields) || 0;
+		var totalResourcesErrors = (resourcesError / totalResourcesFields) || 0;
+		var totalTagsErrors      = (tagsError / totalTagFields) || 0;
 
-		profileTemplate.setQualityIndicatorScore("freshness", "QI.24", (freshnessQualityCounter + totalResourcesErrors + totalTagsErrors) / 3);
+		profileTemplate.setQualityIndicatorScore("freshness", "QI.24", ((freshnessQualityCounter / fullMetadataKeys.length) + totalResourcesErrors + totalTagsErrors) / 3);
 
 		// The quality checks have been completed
 		qualityCallback(null, profileTemplate);
