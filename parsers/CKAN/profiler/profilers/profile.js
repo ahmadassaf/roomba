@@ -388,12 +388,12 @@ function profile(parent) {
 				var measureAverage = size ? ((measureTotal / _.size(qualityMeasure)) / size) : (measureTotal / _.size(qualityMeasure));
 				totalQuality       += measureAverage;
 
-				util.colorify(["yellow","red"], [measureTitle + " quality Score: ",parseFloat( measureAverage * 100).toFixed(2)+ "%"]);
+				util.colorify(["yellow","red"], [measureTitle + " quality Score: ",parseFloat( 100 - (measureAverage * 100)).toFixed(2)+ "%"]);
 			}
 		});
 
 		// Print the total Quality score
-		util.colorify(["magenta","red"], ["\Average total quality Score: ",parseFloat((totalQuality / (_.size(this.qualityProfile) - excludeList.length))  * 100).toFixed(2)+ "%"]);
+		util.colorify(["magenta","red"], ["\Average total quality Score: ",parseFloat(100 - ((totalQuality / (_.size(this.qualityProfile) - excludeList.length))  * 100)).toFixed(2)+ "%"]);
 
 		// print the mini spearator for the statsitics section
 		profile.createTitleHead("cyan", "Quality Indicators Average Error %");

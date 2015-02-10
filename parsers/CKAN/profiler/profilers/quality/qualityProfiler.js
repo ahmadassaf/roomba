@@ -30,6 +30,7 @@ function qualityProfiler(parent) {
 
 			/* TO DO: Check the performance of parallel vs. Waterfall for the calculations
 			 * There has been some miscalculation in the numbers between both, revise and measure performance gain
+			 */
 			this.async.parallel({
 				completeness      : new completeness      ( qualityProfiler, dataset).start.bind(null, profileTemplate),
 				provenance        : new provenance        ( qualityProfiler, dataset).start.bind(null, profileTemplate),
@@ -39,19 +40,20 @@ function qualityProfiler(parent) {
 			}, function (err) {
 				profilerCallback(false, profileTemplate, new profile(this));
 			});
-			*/
 
-			this.async.waterfall([
 
-				qualityProfiler.async.apply(new completeness(qualityProfiler, dataset).start, profileTemplate),
-				new provenance(qualityProfiler, dataset).start,
-				new freshness(qualityProfiler, dataset).start,
-				new comprehensibility(qualityProfiler, dataset).start,
-				new licensing(qualityProfiler, dataset).start
+			// this.async.waterfall([
 
-			], function (err, profileTemplate) {
-				profilerCallback(false, profileTemplate, new profile(this));
-			});
+			// 	qualityProfiler.async.apply(new completeness(qualityProfiler, dataset).start, profileTemplate),
+			// 	new provenance(qualityProfiler, dataset).start,
+			// 	new freshness(qualityProfiler, dataset).start,
+			// 	new comprehensibility(qualityProfiler, dataset).start,
+			// 	new licensing(qualityProfiler, dataset).start
+
+			// ], function (err, profileTemplate) {
+			// 	profilerCallback(false, profileTemplate, new profile(this));
+			// });
+
 		} else profilerCallback(false, profileTemplate, new profile(this));
 	}
 };
