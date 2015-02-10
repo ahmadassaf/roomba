@@ -52,11 +52,11 @@ function comprehensibility(parent, dataset) {
 		var totalTagFields       = tagMetaKeys.length * num_tags;
 		var totalGroupsFields    = groupMetaKeys.length * num_groups;
 
-		var totalResourcesErrors = ((totalResourcesFields - resourcesError) / totalResourcesFields) || 0;
-		var totalTagsErrors      = ((totalTagFields - tagsError) / totalTagFields) || 0 ;
-		var totalGroupsError     = ((totalGroupsFields - groupsError) / totalGroupsFields) || 0;
+		var totalResourcesErrors = (resourcesError / totalResourcesFields) || 0;
+		var totalTagsErrors      = (tagsError / totalTagFields) || 0 ;
+		var totalGroupsError     = (groupsError / totalGroupsFields) || 0;
 
-		profileTemplate.setQualityIndicatorScore("comprehensibility", "QI.39", (comprehnsbilityQualityCounter + totalGroupsError + totalResourcesErrors + totalTagsErrors) / 4);
+		profileTemplate.setQualityIndicatorScore("comprehensibility", "QI.39", ( (comprehnsbilityQualityCounter / fullMetadataKeys.length) + totalGroupsError + totalResourcesErrors + totalTagsErrors) / 4);
 
 		// The quality checks have been completed
 		qualityCallback(null, profileTemplate);
