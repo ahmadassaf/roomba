@@ -13,6 +13,9 @@ function licensing(parent, dataset) {
 		var isLicenseURLDereferenceable = false, licenseErrors = 0;
 		var root                        = dataset.result ? dataset.result : dataset;
 
+		if (_.has(root, "license_information") && root.license_information)
+			profileTemplate.setQualityIndicatorScore("licensing", "QI.23", 0);
+
 		// Check if the dataset has a defined license URL
 		if (_.has(root, "license_url") && root.license_url) {
 			licensing.util.checkAddress(root.license_url, function(error, body, response) {
