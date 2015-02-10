@@ -396,13 +396,13 @@ function profile(parent) {
 		util.colorify(["magenta","red"], ["\Average total quality Score: ",parseFloat((totalQuality / (_.size(this.qualityProfile) - excludeList.length))  * 100).toFixed(2)+ "%"]);
 
 		// print the mini spearator for the statsitics section
-		profile.createTitleHead("cyan", "Data Quality Problems");
+		profile.createTitleHead("cyan", "Quality Indicators Average Error %");
 		printQualityIndicators(qualityIndicators);
 
 		function printQualityIndicators(qualityIndicators) {
 			_.each(qualityIndicators, function(indicator){
 				var score = size ? indicator.score / size : indicator.score;
-				util.colorify(["green","red"], ["Quality Indicator: " + indicator.description + " : " ,parseFloat( score * 100).toFixed(2)+ "%"]);
+				util.colorify(["green","red"], ["Quality Indicator : " + indicator.description + " : " ,parseFloat( score * 100).toFixed(2)+ "%"]);
 			});
 		}
 	}

@@ -9,15 +9,12 @@ function provenance(parent, dataset) {
 
 	this.start      = function start(profileTemplate, qualityCallback) {
 
-		var fullMetadataKeys        = ["maintainer", "owner_org", "author", "organization", "maintainer_email", "author_email"];
-		var ownershipMetadtaKeys    = ["maintainer", "owner_org", "author", "maintainer_email", "author_email"];
+		var ownershipMetadtaKeys    = ["maintainer", "owner_org", "author", "organization", "maintainer_email", "author_email"];
 		var ownershipDetails        = false;
 
 		var root                    = dataset.result ? dataset.result : dataset;
 
 		var ownershipQualityCounter = profileTemplate.insertKeys(ownershipMetadtaKeys, root, true);
-
-		if (!_.has(root, "organization") || !root.organization) ownershipQualityCounter++;
 
 		checkEmailAddresses(qualityCallback);
 
@@ -33,11 +30,12 @@ function provenance(parent, dataset) {
 					ownershipQualityCounter++;
 				else ownershipDetails = true;
 			}
-			profileTemplate.setQualityIndicatorScore("provenance", "QI.44", (( fullMetadataKeys.length - ownershipQualityCounter) / fullMetadataKeys.length));
+
+			profileTemplate.setQualityIndicatorScore("provenance", "QI.44", (ownershipQualityCounter / ownershipMetadtaKeys.length));
 
 			var provMetadtaKeys     = ["version", "revision_id"];
 			var provQualityCounter  = profileTemplate.insertKeys(provMetadtaKeys, root, true);
-			profileTemplate.setQualityIndicatorScore("provenance", "QI.46", ((provMetadtaKeys.length - provQualityCounter) / provMetadtaKeys.length));
+			profileTemplate.setQualityIndicatorScore("provenance", "QI.46", (provQualityCounter / provMetadtaKeys.length));
 
 			if (ownershipDetails)
 				profileTemplate.setQualityIndicatorScore("comprehensibility", "QI.40", 1);
