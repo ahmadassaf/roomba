@@ -28,6 +28,19 @@ function qualityProfiler(parent) {
 
 			var root   = dataset.result ? dataset.result : dataset;
 
+			/* TO DO: Check the performance of parallel vs. Waterfall for the calculations
+			 * There has been some miscalculation in the numbers between both, revise and measure performance gain
+			this.async.parallel({
+				completeness      : new completeness      ( qualityProfiler, dataset).start.bind(null, profileTemplate),
+				provenance        : new provenance        ( qualityProfiler, dataset).start.bind(null, profileTemplate),
+				freshness         : new freshness         ( qualityProfiler, dataset).start.bind(null, profileTemplate),
+				comprehensibility : new comprehensibility ( qualityProfiler, dataset).start.bind(null, profileTemplate),
+				licensing         : new licensing         ( qualityProfiler, dataset).start.bind(null, profileTemplate)
+			}, function (err) {
+				profilerCallback(false, profileTemplate, new profile(this));
+			});
+			*/
+
 			this.async.waterfall([
 
 				qualityProfiler.async.apply(new completeness(qualityProfiler, dataset).start, profileTemplate),

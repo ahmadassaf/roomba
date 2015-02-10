@@ -100,7 +100,7 @@ function qualityModel() {
          "description": "Existence of at least one exemplary RDF file",
          "weight": 1,
          "score": 0
-      }
+      },
       "QI.39": {
          "description": "Existence of general information (title, URL, description) for the dataset",
          "weight": 1,
