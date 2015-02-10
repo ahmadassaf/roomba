@@ -24,9 +24,9 @@ function licensing(parent, dataset) {
 		} else process();
 
 		function process() {
-			profileTemplate.setQualityIndicatorScore("licensing", "QI.22", (licenseKeys.length - profileTemplate.insertKeys(licenseKeys, root, true)) / 2);
+			profileTemplate.setQualityIndicatorScore("licensing", "QI.21", (licenseKeys.length - profileTemplate.insertKeys(licenseKeys, root, true)) / 2);
 			if (isLicenseURLDereferenceable)
-				profileTemplate.setQualityIndicatorScore("licensing", "QI.23", 1);
+				profileTemplate.setQualityIndicatorScore("licensing", "QI.22", 1);
 
 				// The quality checks have been completed
 				qualityCallback(null, profileTemplate);

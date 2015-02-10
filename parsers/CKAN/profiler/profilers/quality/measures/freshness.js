@@ -44,7 +44,7 @@ function freshness(parent, dataset) {
 		var totalResourcesErrors = ((totalResourcesFields - resourcesError) / totalResourcesFields) || 0;
 		var totalTagsErrors      = ((totalTagFields - tagsError) / totalTagFields) || 0;
 
-		profileTemplate.setQualityIndicatorScore("freshness", "QI.25", (freshnessQualityCounter + totalResourcesErrors + totalTagsErrors) / 3);
+		profileTemplate.setQualityIndicatorScore("freshness", "QI.24", (freshnessQualityCounter + totalResourcesErrors + totalTagsErrors) / 3);
 
 		// The quality checks have been completed
 		qualityCallback(null, profileTemplate);

@@ -24,7 +24,7 @@ function completeness(parent, dataset) {
 			var dataAccessPoints = [], dataSerializations = [];
 			var num_resources    = _.size(root.resources);
 			var unreachableURLs  = 0, URLs = 0, inCorrectURLs = 0, inCorrectMIME = 0, inCorrectSize = 0, sizeInformation = 0, MIMEInformation = 0, tagsErrors = 0, groupsErrors = 0;
-			var availableRDFDump = false, availableAPI = false. containsExemplaryURL = false;
+			var availableAPI = false. containsExemplaryURL = false;
 
 			checkMetaField("url", root, URLs);
 
@@ -90,10 +90,10 @@ function completeness(parent, dataset) {
 
 							// check if there is a resource representing a data dump
 							if ( (_.has(resource, "description") && resource.description) && resource.description.toLowerCase().indexOf("dump") > -1)
-								profileTemplate.setQualityIndicatorScore("availability", "QI.19", 1);
+								profileTemplate.setQualityIndicatorScore("availability", "QI.18", 1);
 							// Check if there is a resource representing an API
 							if (_.has(resource, "resource_type") && resource.resource_type && resource.resource_type.indexOf("api") > -1)
-								profileTemplate.setQualityIndicatorScore("availability", "QI.20", 1);
+								profileTemplate.setQualityIndicatorScore("availability", "QI.19", 1);
 
 							// Check if we can extract a size and MIME type from the HTTP Head and check if they match the defined values
 							if (_.has(resource, "size") && response.headers["content-length"]) {
@@ -138,8 +138,8 @@ function completeness(parent, dataset) {
 
 					profileTemplate.setQualityIndicatorScore("completeness", "QI.5", (num_resources - sizeInformation) / num_resources);
 					profileTemplate.setQualityIndicatorScore("completeness", "QI.6", (num_resources - MIMEInformation) / num_resources);
-					profileTemplate.setQualityIndicatorScore("correctness", "QI.26", ((num_resources - MIMEInformation) - inCorrectMIME) / num_resources);
-					profileTemplate.setQualityIndicatorScore("correctness", "QI.27", ((num_resources - sizeInformation) - inCorrectSize) / num_resources);
+					profileTemplate.setQualityIndicatorScore("correctness", "QI.25", ((num_resources - MIMEInformation) - inCorrectMIME) / num_resources);
+					profileTemplate.setQualityIndicatorScore("correctness", "QI.26", ((num_resources - sizeInformation) - inCorrectSize) / num_resources);
 
 
 					if (_.has(root, "url")) {
@@ -157,9 +157,9 @@ function completeness(parent, dataset) {
 						// set the number of URLs defined
 						profileTemplate.setQualityIndicatorScore("completeness", "QI.9", URLs / num_resources);
 						// Set the number of unreachable URLs in the completenss Score
-						profileTemplate.setQualityIndicatorScore("availability", "QI.21", (URLs - unreachableURLs) / URLs);
+						profileTemplate.setQualityIndicatorScore("availability", "QI.20", (URLs - unreachableURLs) / URLs);
 						// Set the number of syntactically valid URLs in the completenss Score
-						profileTemplate.setQualityIndicatorScore("correctness", "QI.29", (URLs - inCorrectURLs) / URLs);
+						profileTemplate.setQualityIndicatorScore("correctness", "QI.28", (URLs - inCorrectURLs) / URLs);
 						// Call the series of validation checks i want to run on the dataset
 						completeness.async.series([checkTags, checkGroup], function(err){
 							profileTemplate.setQualityIndicatorScore("completeness", "QI.7", (groupsErrors + tagsErrors) / 2);

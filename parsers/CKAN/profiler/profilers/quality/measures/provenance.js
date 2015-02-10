@@ -33,11 +33,11 @@ function provenance(parent, dataset) {
 					ownershipQualityCounter++;
 				else ownershipDetails = true;
 			}
-			profileTemplate.setQualityIndicatorScore("provenance", "QI.40", (( fullMetadataKeys.length - ownershipQualityCounter) / fullMetadataKeys.length));
+			profileTemplate.setQualityIndicatorScore("provenance", "QI.44", (( fullMetadataKeys.length - ownershipQualityCounter) / fullMetadataKeys.length));
 
 			var provMetadtaKeys     = ["version", "revision_id"];
 			var provQualityCounter  = profileTemplate.insertKeys(provMetadtaKeys, root, true);
-			profileTemplate.setQualityIndicatorScore("provenance", "QI.42", ((provMetadtaKeys.length - provQualityCounter) / provMetadtaKeys.length));
+			profileTemplate.setQualityIndicatorScore("provenance", "QI.46", ((provMetadtaKeys.length - provQualityCounter) / provMetadtaKeys.length));
 
 			if (ownershipDetails)
 				profileTemplate.setQualityIndicatorScore("comprehensibility", "QI.40", 1);
