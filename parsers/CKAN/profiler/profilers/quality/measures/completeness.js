@@ -24,7 +24,21 @@ function completeness(parent, dataset) {
 			var dataAccessPoints = [], dataSerializations = [];
 			var num_resources    = _.size(root.resources);
 			var unreachableURLs  = 0, URLs = 0, inCorrectURLs = 0, inCorrectMIME = 0, inCorrectSize = 0, sizeInformation = 0, MIMEInformation = 0, tagsErrors = 0, groupsErrors = 0;
-			var availableAPI = false. containsExemplaryURL = false;
+			var availableAPI     = false, containsExemplaryURL = false;
+
+			/* Variable Explanations
+			 *
+			 * unreachableURLs: URLs that couldnt be reached via a HTTP HEAD request
+			 * URLs: number of URLs defined in the dataset
+			 * inCorrectURLs: number of URLs that do not correspond to the HTTP URI scheme
+			 * MIMEInformation: number of mimetype field instances for the resources
+			 * inCorrectMIME: incorrect mimetype value compared to the content-type value extracted from the HTTP HEAD request
+			 * sizeInformation: number of size field instances for the resources
+			 * incorrectSize: incorrect size value compared to the content-length value extracted from the HTTP HEAD request
+			 * tagsErrors: errors in the general metadata for tags
+			 * groupsErrors: errors in the general metadata for groups
+			 *
+			 */
 
 			checkMetaField("url", root, URLs);
 
