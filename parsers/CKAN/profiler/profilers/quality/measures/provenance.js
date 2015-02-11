@@ -38,7 +38,7 @@ function provenance(parent, dataset) {
 			profileTemplate.setQualityIndicatorScore("provenance", "QI.46", (provQualityCounter / provMetadtaKeys.length));
 
 			if (ownershipDetails)
-				profileTemplate.setQualityIndicatorScore("comprehensibility", "QI.40", 0);
+				profileTemplate.setQualityIndicatorScore("comprehensibility", "QI.40", 1);
 
 			// The quality checks have been completed
 			qualityCallback(null, profileTemplate);

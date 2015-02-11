@@ -139,7 +139,7 @@ util.prototype.downloadWithProgress = function downloadWithProgress(cache, fileN
 		if (!error) callback(false, file);
 		else {
 			// Initialize the request variable and the holders for data and progress bar
-			var download = request(url), bar, data = "";
+			var download = request({url: url, maxRedirects: 5}), bar, data = "";
 			// The file is downloaded as "chuncks" that will be grouped together
 			download.on('data', function(chunk) {
 				bar = bar || new progressBar('Downloading... [:bar] :percent :etas', {
@@ -185,7 +185,7 @@ util.prototype.download = function download(cache, fileName, url, callback){
 	cache.getCache(fileName, function(error, file) {
 		if (!error) callback(false, file);
 		else {
-			request(url, function(error, response, data){
+			request({url: url, maxRedirects: 5}, function(error, response, data){
 				if (!error && response.statusCode == 200) {
 					cache.setCache(fileName, data , function(error, success){
 						callback(false, JSON.parse(data));

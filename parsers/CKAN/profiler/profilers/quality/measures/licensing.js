@@ -14,13 +14,13 @@ function licensing(parent, dataset) {
 		var root                        = dataset.result ? dataset.result : dataset;
 
 		if (_.has(root, "license_information") && root.license_information)
-			profileTemplate.setQualityIndicatorScore("licensing", "QI.23", 0);
+			profileTemplate.setQualityIndicatorScore("licensing", "QI.23", 1);
 
 		// Check if the dataset has a defined license URL
 		if (_.has(root, "license_url") && root.license_url) {
 			licensing.util.checkAddress(root.license_url, function(error, body, response) {
 				if (!error){
-					profileTemplate.setQualityIndicatorScore("licensing", "QI.22", 0);
+					profileTemplate.setQualityIndicatorScore("licensing", "QI.22", 1);
 				}
 				process();
 			}, "HEAD");

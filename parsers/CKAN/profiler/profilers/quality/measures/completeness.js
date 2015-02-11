@@ -55,10 +55,10 @@ function completeness(parent, dataset) {
 						dataSerializations.push(resource.format);
 						// Check if the format contains an exemplary URL
 						if (exemplaryURLS.indexOf(resource.format) > -1)
-							profileTemplate.setQualityIndicatorScore("comprehensibility", "QI.37", 0);
+							profileTemplate.setQualityIndicatorScore("comprehensibility", "QI.37", 1);
 						// Check if format contains void or dcat which are dataset descriptions vocabularies [format should be meta/void, meta/dcat]
 						if (resource.format.indexOf("void") > -1 || resource.format.indexOf("dcat") > -1)
-							profileTemplate.setQualityIndicatorScore("completeness", "QI.4", 0);
+							profileTemplate.setQualityIndicatorScore("completeness", "QI.4", 1);
 					}
 				}
 
@@ -104,10 +104,10 @@ function completeness(parent, dataset) {
 
 							// check if there is a resource representing a data dump
 							if ( (_.has(resource, "description") && resource.description) && resource.description.toLowerCase().indexOf("dump") > -1)
-								profileTemplate.setQualityIndicatorScore("availability", "QI.18", 0);
+								profileTemplate.setQualityIndicatorScore("availability", "QI.18", 1);
 							// Check if there is a resource representing an API
 							if (_.has(resource, "resource_type") && resource.resource_type && resource.resource_type.indexOf("api") > -1)
-								profileTemplate.setQualityIndicatorScore("availability", "QI.19", 0);
+								profileTemplate.setQualityIndicatorScore("availability", "QI.19", 1);
 
 							// Check if we can extract a size and MIME type from the HTTP Head and check if they match the defined values
 							if (_.has(resource, "size") && response.headers["content-length"]) {
@@ -167,8 +167,10 @@ function completeness(parent, dataset) {
 
 					// This function is executed to check the tags and categorization infomration aftet the dataset URL check
 					function process() {
+						// The total number of URLs should be the total number of URIs in resources + the dataset URI
+						var totalResources = num_resources + 1;
 						// set the number of URLs defined
-						profileTemplate.setQualityIndicatorScore("completeness", "QI.9", (num_resources - URLs) / num_resources);
+						profileTemplate.setQualityIndicatorScore("completeness", "QI.9", (totalResources - URLs) / totalResources);
 						// Set the number of unreachable URLs in the completenss Score
 						profileTemplate.setQualityIndicatorScore("availability", "QI.20", unreachableURLs / URLs);
 						// Set the number of syntactically valid URLs in the completenss Score
