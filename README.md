@@ -152,3 +152,35 @@ The generated profile contains the information spotted in the profile as well as
 
 ![profile](http://g.recordit.co/aFvscpqfcv.gif)
 
+## Roomba Quality (Objective Linked Data Quality Assessment)
+
+The standardization of Semantic Web technologies and specifications has resulted in a staggering volume of data being published. The Linked Open Data (LOD) is a gold mine for organizations trying to leverage external data sources in order to produce more informed business decisions. However, the heterogeneous nature of data sources reflects directly on the data quality as these sources often contain inconsistent as well as misinterpreted and incomplete information. Traditional data quality is a thoroughly researched field with several benchmarks and frameworks to grasp its dimensions. Ensuring data quality in Linked Open Data is much more complex. It consists of structured information supported by models, ontologies and vocabularies and contains queryable endpoints and links. In this paper, we first propose an objective assessment framework for Linked Data quality. In a [previous work](https://hal.archives-ouvertes.fr/file/index/docid/823586/filename/Data_Quality_Principles_in_the_Semantic_Web_-_Camera_Ready_Version.pdf), we identified potential quality issues of Linked Data and listed quality principles for all stages of data management. We have built upon this work but focus only on the objective quality indicators based on metrics that can be automatically measured. We surveyed the landscape of Linked Data quality tools to discover that they only cover a subset of the proposed quality indicators. As a result, we present an extensible quality measurement tool that helps on one hand data owners to rate the quality of their datasets and get some hints on possible improvements, and on the other hand data consumers to choose their data sources from a ranked set.
+
+The **objective measures** we have identified are: completeness, availability, licensing, freshness, correctness, comprehensibility, provenance
+
+The **objective quality indicators** we assess are:
+
+ - Supports multiple serializations                                           
+ - Has different data access points                                           
+ - Uses datasets description vocabularies                                     
+ - Existence of descriptions about its size                                   
+ - Existence of descriptions about its structure (MIME Type, Format)          
+ - Existence of descriptions about its organization and categorization        
+ - Existence of dereferencable links for the dataset and its resources        
+ - Existence of an RDF dump that can be downloaded by users                   
+ - Existence of queryable endpoints that respond to direct queries            
+ - Existence of valid dereferencable URLs (respond to HTTP request)           
+ - Existence of human and machine readable license information                
+ - Existence of dereferencable links to the full license information          
+ - Existence of timestamps that can keep track of its modifications           
+ - Includes the correct MIME type for the content                             
+ - Includes the correct size for the content                                  
+ - Absence of Syntactic errors on the links level                             
+ - Use the HTTP URI Scheme
+ - Existence of at least one exemplary RDF file                               
+ - Existence of general information (title, URL, description) for the dataset 
+ - Existence of mailing list, message board or point of contact               
+ - Existence of metadata that describes its authoritative information         
+ - Usage of Versioning 
+
+![qualityReport](http://g.recordit.co/ZkII2EY5S4.gif)
