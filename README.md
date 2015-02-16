@@ -156,7 +156,11 @@ The generated profile contains the information spotted in the profile as well as
 
 The standardization of Semantic Web technologies and specifications has resulted in a staggering volume of data being published. The Linked Open Data (LOD) is a gold mine for organizations trying to leverage external data sources in order to produce more informed business decisions. However, the heterogeneous nature of data sources reflects directly on the data quality as these sources often contain inconsistent as well as misinterpreted and incomplete information. Traditional data quality is a thoroughly researched field with several benchmarks and frameworks to grasp its dimensions. Ensuring data quality in Linked Open Data is much more complex. It consists of structured information supported by models, ontologies and vocabularies and contains queryable endpoints and links. In this paper, we first propose an objective assessment framework for Linked Data quality. In a [previous work](https://hal.archives-ouvertes.fr/file/index/docid/823586/filename/Data_Quality_Principles_in_the_Semantic_Web_-_Camera_Ready_Version.pdf), we identified potential quality issues of Linked Data and listed quality principles for all stages of data management. We have built upon this work but focus only on the objective quality indicators based on metrics that can be automatically measured. We surveyed the landscape of Linked Data quality tools to discover that they only cover a subset of the proposed quality indicators. As a result, we present an extensible quality measurement tool that helps on one hand data owners to rate the quality of their datasets and get some hints on possible improvements, and on the other hand data consumers to choose their data sources from a ranked set.
 
+### Quality Measures
+
 The **objective measures** we have identified are: completeness, availability, licensing, freshness, correctness, comprehensibility, provenance
+
+### Quality Indicators
 
 The **objective quality indicators** we assess are:
 
