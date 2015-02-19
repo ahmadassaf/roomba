@@ -1,0 +1,691 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:29:46.129968",
+    "id": "aa7987d0-ba18-4358-a976-d03229580760",
+    "metadata_created": "2014-11-04T22:29:46.129968",
+    "owner_org": null,
+    "metadata_modified": "2014-11-05T02:31:03.537121",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "094143bd-53b4-4be7-bb5c-29da760e64ba",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-05T02:31:03.537121",
+            "webstore_last_updated": null,
+            "id": "07f57d0b-c4c0-4f03-b358-62fea3d3b69e",
+            "size": "42591",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "b1facefd97e630a0fea569b98974a7a120015472",
+            "description": "Online link to the 'Opd Per Capita Attendance 2002' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:51:40.493704",
+            "url": "http://maps.data.ug/layers/geonode:opd_per_capita_attendance_2002",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T02:31:03.394149",
+            "position": 0,
+            "revision_id": "49193d2b-f24b-47cb-b1ff-8de79fd5fba6",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "094143bd-53b4-4be7-bb5c-29da760e64ba",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:46.129968",
+            "webstore_last_updated": null,
+            "id": "f565f274-af02-499c-8194-5f2ce122a38d",
+            "size": "120721",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Opd Per Capita Attendance 2002 (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "opd_per_capita_attendance_2002.zip",
+            "created": "2014-03-12T14:51:40.493735",
+            "url": "http://maps.data.ug/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Aopd_per_capita_attendance_2002&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "71eedad3-cad2-431b-b332-9e4a3cb5f341",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "094143bd-53b4-4be7-bb5c-29da760e64ba",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:46.129968",
+            "webstore_last_updated": null,
+            "id": "4f1216d8-e239-432c-aea2-c835cc5f68d5",
+            "size": "258583",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Opd Per Capita Attendance 2002 (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "opd_per_capita_attendance_2002.gml",
+            "created": "2014-03-12T14:51:40.493739",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Aopd_per_capita_attendance_2002&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "71eedad3-cad2-431b-b332-9e4a3cb5f341",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "094143bd-53b4-4be7-bb5c-29da760e64ba",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:46.129968",
+            "webstore_last_updated": null,
+            "id": "94feb88e-0c7c-4bce-a552-8cf67b4da3e0",
+            "size": "378701",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Opd Per Capita Attendance 2002 (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "opd_per_capita_attendance_2002.gml",
+            "created": "2014-03-12T14:51:40.493743",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Aopd_per_capita_attendance_2002&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "71eedad3-cad2-431b-b332-9e4a3cb5f341",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "094143bd-53b4-4be7-bb5c-29da760e64ba",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:46.129968",
+            "webstore_last_updated": null,
+            "id": "d7083242-be29-44de-8bdb-476f634fc207",
+            "size": "344170",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Opd Per Capita Attendance 2002 (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "opd_per_capita_attendance_2002.csv",
+            "created": "2014-03-12T14:51:40.493746",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Aopd_per_capita_attendance_2002&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 4,
+            "revision_id": "71eedad3-cad2-431b-b332-9e4a3cb5f341",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "094143bd-53b4-4be7-bb5c-29da760e64ba",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:46.129968",
+            "webstore_last_updated": null,
+            "id": "ffcb4607-5ae0-443a-a34c-20e4ac15c217",
+            "size": "354304",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Opd Per Capita Attendance 2002 (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "opd_per_capita_attendance_2002.excel",
+            "created": "2014-03-12T14:51:40.493750",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Aopd_per_capita_attendance_2002&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 5,
+            "revision_id": "71eedad3-cad2-431b-b332-9e4a3cb5f341",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "094143bd-53b4-4be7-bb5c-29da760e64ba",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:46.129968",
+            "webstore_last_updated": null,
+            "id": "df1b99de-9c46-427a-a6d4-1c4d1244f1c3",
+            "size": "366008",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Opd Per Capita Attendance 2002 (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "opd_per_capita_attendance_2002.json",
+            "created": "2014-03-12T14:51:40.493754",
+            "url": "http://maps.data.ug/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Aopd_per_capita_attendance_2002&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 6,
+            "revision_id": "71eedad3-cad2-431b-b332-9e4a3cb5f341",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "094143bd-53b4-4be7-bb5c-29da760e64ba",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:46.129968",
+            "webstore_last_updated": null,
+            "id": "09f02d6b-8d7d-4cf7-ae3e-32b4c5603b17",
+            "size": "456896",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Opd Per Capita Attendance 2002 (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "opd_per_capita_attendance_2002.kml",
+            "created": "2014-03-12T14:51:40.493757",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Aopd_per_capita_attendance_2002&mode=download",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 7,
+            "revision_id": "71eedad3-cad2-431b-b332-9e4a3cb5f341",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "094143bd-53b4-4be7-bb5c-29da760e64ba",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:46.129968",
+            "webstore_last_updated": null,
+            "id": "af77e460-2e33-4320-87bf-5460cd1091b9",
+            "size": "1887",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Opd Per Capita Attendance 2002 (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "opd_per_capita_attendance_2002.kml",
+            "created": "2014-03-12T14:51:40.493761",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Aopd_per_capita_attendance_2002&mode=refresh",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 8,
+            "revision_id": "71eedad3-cad2-431b-b332-9e4a3cb5f341",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "094143bd-53b4-4be7-bb5c-29da760e64ba",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:46.129968",
+            "webstore_last_updated": null,
+            "id": "224ce388-7c26-447e-ab55-8b8137373c91",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Opd Per Capita Attendance 2002 (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "opd_per_capita_attendance_2002.tiles",
+            "created": "2014-03-12T14:51:40.493764",
+            "url": "http://maps.data.ug/geoserver/gwc/service/gmaps?layers=geonode:opd_per_capita_attendance_2002&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "71eedad3-cad2-431b-b332-9e4a3cb5f341",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "094143bd-53b4-4be7-bb5c-29da760e64ba",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:46.129968",
+            "webstore_last_updated": null,
+            "id": "586978e2-70d4-480d-886c-61da308b0161",
+            "size": "33656",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Opd Per Capita Attendance 2002 (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "opd_per_capita_attendance_2002.jpg",
+            "created": "2014-03-12T14:51:40.493767",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Aopd_per_capita_attendance_2002&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 10,
+            "revision_id": "71eedad3-cad2-431b-b332-9e4a3cb5f341",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "094143bd-53b4-4be7-bb5c-29da760e64ba",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:46.129968",
+            "webstore_last_updated": null,
+            "id": "24789afb-2166-431e-9a5b-d0f3094c2930",
+            "size": "33928",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Opd Per Capita Attendance 2002 (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "opd_per_capita_attendance_2002.pdf",
+            "created": "2014-03-12T14:51:40.493771",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Aopd_per_capita_attendance_2002&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 11,
+            "revision_id": "71eedad3-cad2-431b-b332-9e4a3cb5f341",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "094143bd-53b4-4be7-bb5c-29da760e64ba",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:46.129968",
+            "webstore_last_updated": null,
+            "id": "46b61e5f-2f6c-433b-8172-486b8bda5307",
+            "size": "52347",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Opd Per Capita Attendance 2002 (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "opd_per_capita_attendance_2002.png",
+            "created": "2014-03-12T14:51:40.493774",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Aopd_per_capita_attendance_2002&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:56:58.358565",
+            "position": 12,
+            "revision_id": "71eedad3-cad2-431b-b332-9e4a3cb5f341",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:29:46.129968",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:29:46.129968",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:29:46.129968",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:29:46.129968",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:29:46.129968",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:29:46.129968",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "patient",
+            "name": "patient",
+            "revision_timestamp": "2014-11-04T22:29:46.129968",
+            "state": "active",
+            "id": "07f2c919-f731-426e-bda0-5f0dece39d4f"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:29:46.129968",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "visits",
+            "name": "visits",
+            "revision_timestamp": "2014-11-04T22:29:46.129968",
+            "state": "active",
+            "id": "3325a708-6ff5-4199-9a34-3bf47b4718aa"
+        }
+    ],
+    "tracking_summary": {
+        "total": 3,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 9,
+    "name": "opd-per-capita-attendance-2002",
+    "isopen": false,
+    "url": null,
+    "notes": "Opd Per Capita Attendance 2002",
+    "title": "Opd Per Capita Attendance 2002",
+    "extras": [
+        {
+            "value": "[]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "71eedad3-cad2-431b-b332-9e4a3cb5f341",
+                "package_id": "aa7987d0-ba18-4358-a976-d03229580760"
+            }
+        },
+        {
+            "value": "35.0017411394",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "71eedad3-cad2-431b-b332-9e4a3cb5f341",
+                "package_id": "aa7987d0-ba18-4358-a976-d03229580760"
+            }
+        },
+        {
+            "value": "4.2310114174",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "aa7987d0-ba18-4358-a976-d03229580760",
+                "revision_id": "71eedad3-cad2-431b-b332-9e4a3cb5f341"
+            }
+        },
+        {
+            "value": "-1.4817440179",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "71eedad3-cad2-431b-b332-9e4a3cb5f341",
+                "package_id": "aa7987d0-ba18-4358-a976-d03229580760"
+            }
+        },
+        {
+            "value": "29.5741674481",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "71eedad3-cad2-431b-b332-9e4a3cb5f341",
+                "package_id": "aa7987d0-ba18-4358-a976-d03229580760"
+            }
+        },
+        {
+            "value": "",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "aa7987d0-ba18-4358-a976-d03229580760",
+                "revision_id": "71eedad3-cad2-431b-b332-9e4a3cb5f341"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "aa7987d0-ba18-4358-a976-d03229580760",
+                "revision_id": "71eedad3-cad2-431b-b332-9e4a3cb5f341"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-02-20T04:00:22Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "aa7987d0-ba18-4358-a976-d03229580760",
+                "revision_id": "71eedad3-cad2-431b-b332-9e4a3cb5f341"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "aa7987d0-ba18-4358-a976-d03229580760",
+                "revision_id": "71eedad3-cad2-431b-b332-9e4a3cb5f341"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Opd Per Capita Attendance 2002'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "aa7987d0-ba18-4358-a976-d03229580760",
+                "revision_id": "71eedad3-cad2-431b-b332-9e4a3cb5f341"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "aa7987d0-ba18-4358-a976-d03229580760",
+                "revision_id": "71eedad3-cad2-431b-b332-9e4a3cb5f341"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "71eedad3-cad2-431b-b332-9e4a3cb5f341",
+                "package_id": "aa7987d0-ba18-4358-a976-d03229580760"
+            }
+        },
+        {
+            "value": "d0209404-9a15-11e3-8923-11b11f8ea6d0",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "71eedad3-cad2-431b-b332-9e4a3cb5f341",
+                "package_id": "aa7987d0-ba18-4358-a976-d03229580760"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "71eedad3-cad2-431b-b332-9e4a3cb5f341",
+                "package_id": "aa7987d0-ba18-4358-a976-d03229580760"
+            }
+        },
+        {
+            "value": "2014-02-20T04:00:22Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "aa7987d0-ba18-4358-a976-d03229580760",
+                "revision_id": "71eedad3-cad2-431b-b332-9e4a3cb5f341"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "71eedad3-cad2-431b-b332-9e4a3cb5f341",
+                "package_id": "aa7987d0-ba18-4358-a976-d03229580760"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "aa7987d0-ba18-4358-a976-d03229580760",
+                "revision_id": "71eedad3-cad2-431b-b332-9e4a3cb5f341"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "aa7987d0-ba18-4358-a976-d03229580760",
+                "revision_id": "71eedad3-cad2-431b-b332-9e4a3cb5f341"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "aa7987d0-ba18-4358-a976-d03229580760",
+                "revision_id": "71eedad3-cad2-431b-b332-9e4a3cb5f341"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.5741674481, -1.4817440179], [35.0017411394, -1.4817440179], [35.0017411394, 4.2310114174], [29.5741674481, 4.2310114174], [29.5741674481, -1.4817440179]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "71eedad3-cad2-431b-b332-9e4a3cb5f341",
+                "package_id": "aa7987d0-ba18-4358-a976-d03229580760"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "aa7987d0-ba18-4358-a976-d03229580760",
+                "revision_id": "71eedad3-cad2-431b-b332-9e4a3cb5f341"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "71eedad3-cad2-431b-b332-9e4a3cb5f341",
+                "package_id": "aa7987d0-ba18-4358-a976-d03229580760"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "71eedad3-cad2-431b-b332-9e4a3cb5f341",
+                "package_id": "aa7987d0-ba18-4358-a976-d03229580760"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "71eedad3-cad2-431b-b332-9e4a3cb5f341"
+}

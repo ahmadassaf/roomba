@@ -1,0 +1,607 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:29:53.228497",
+    "id": "ac86e47e-c3a3-43c9-9dca-27c4d0558f52",
+    "metadata_created": "2014-11-04T22:29:53.228497",
+    "owner_org": null,
+    "metadata_modified": "2014-11-04T22:29:53.228497",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "c85fe7d6-d11d-404f-9cc4-a8be20717356",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:53.228497",
+            "webstore_last_updated": null,
+            "id": "0dd5692b-cd0e-41ca-a7f3-50398d626ea9",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Giz Activities Rural Electrification Component 2013 (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "giz_activities_rural_electrification_component_2013.tiles",
+            "created": "2014-03-12T14:51:50.941842",
+            "url": "http://geoclean.mountbatten.net/geoserver/gwc/service/gmaps?layers=geonode:giz_activities_rural_electrification_component_2013&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "d1fe8247-937e-4563-9836-b65f436857f7",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "c85fe7d6-d11d-404f-9cc4-a8be20717356",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:53.228497",
+            "webstore_last_updated": null,
+            "id": "ecb5509b-0a03-43ff-8003-1a5bd209c197",
+            "size": "477",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Giz Activities Rural Electrification Component 2013 (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "giz_activities_rural_electrification_component_2013.kml",
+            "created": "2014-03-12T14:51:50.941848",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms/kml?layers=geonode%3Agiz_activities_rural_electrification_component_2013&mode=refresh",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "d1fe8247-937e-4563-9836-b65f436857f7",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c85fe7d6-d11d-404f-9cc4-a8be20717356",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:53.228497",
+            "webstore_last_updated": null,
+            "id": "7dfd4726-6ac4-42a0-9bf8-b36718604012",
+            "size": "477",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Giz Activities Rural Electrification Component 2013 (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "giz_activities_rural_electrification_component_2013.kml",
+            "created": "2014-03-12T14:51:50.941855",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms/kml?layers=geonode%3Agiz_activities_rural_electrification_component_2013&mode=download",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "d1fe8247-937e-4563-9836-b65f436857f7",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c85fe7d6-d11d-404f-9cc4-a8be20717356",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:53.228497",
+            "webstore_last_updated": null,
+            "id": "a22060d0-8477-4e14-8ae4-a3fb2aa25ec1",
+            "size": "469",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Giz Activities Rural Electrification Component 2013 (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "giz_activities_rural_electrification_component_2013.json",
+            "created": "2014-03-12T14:51:50.941862",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Agiz_activities_rural_electrification_component_2013&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "d1fe8247-937e-4563-9836-b65f436857f7",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c85fe7d6-d11d-404f-9cc4-a8be20717356",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:53.228497",
+            "webstore_last_updated": null,
+            "id": "a97a3ca6-3eae-4123-8b7a-8e21c73f63e6",
+            "size": "469",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Giz Activities Rural Electrification Component 2013 (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "giz_activities_rural_electrification_component_2013.excel",
+            "created": "2014-03-12T14:51:50.941870",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Agiz_activities_rural_electrification_component_2013&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:57:31.774134",
+            "position": 4,
+            "revision_id": "d1fe8247-937e-4563-9836-b65f436857f7",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c85fe7d6-d11d-404f-9cc4-a8be20717356",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:53.228497",
+            "webstore_last_updated": null,
+            "id": "e94a432b-9667-4b94-b38c-dffe2363979a",
+            "size": "469",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Giz Activities Rural Electrification Component 2013 (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "giz_activities_rural_electrification_component_2013.csv",
+            "created": "2014-03-12T14:51:50.941877",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Agiz_activities_rural_electrification_component_2013&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:57:33.708949",
+            "position": 5,
+            "revision_id": "d1fe8247-937e-4563-9836-b65f436857f7",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c85fe7d6-d11d-404f-9cc4-a8be20717356",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:53.228497",
+            "webstore_last_updated": null,
+            "id": "cc658b90-e645-4bf9-a83c-dbcbf292f79f",
+            "size": "469",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "949eff514831f2ec9ac75759efabb492b4a1fd21",
+            "description": "Giz Activities Rural Electrification Component 2013 (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "giz_activities_rural_electrification_component_2013.gml",
+            "created": "2014-03-12T14:51:50.941883",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Agiz_activities_rural_electrification_component_2013&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:57:35.068235",
+            "position": 6,
+            "revision_id": "d1fe8247-937e-4563-9836-b65f436857f7",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c85fe7d6-d11d-404f-9cc4-a8be20717356",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:53.228497",
+            "webstore_last_updated": null,
+            "id": "d184664c-f288-43e8-a347-8b8d6da1e8c7",
+            "size": "469",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Giz Activities Rural Electrification Component 2013 (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "giz_activities_rural_electrification_component_2013.gml",
+            "created": "2014-03-12T14:51:50.941890",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Agiz_activities_rural_electrification_component_2013&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 7,
+            "revision_id": "d1fe8247-937e-4563-9836-b65f436857f7",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c85fe7d6-d11d-404f-9cc4-a8be20717356",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:53.228497",
+            "webstore_last_updated": null,
+            "id": "73a1e079-333d-464c-8bfc-691d6e752600",
+            "size": "469",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Giz Activities Rural Electrification Component 2013 (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "giz_activities_rural_electrification_component_2013.zip",
+            "created": "2014-03-12T14:51:50.941897",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Agiz_activities_rural_electrification_component_2013&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 8,
+            "revision_id": "d1fe8247-937e-4563-9836-b65f436857f7",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c85fe7d6-d11d-404f-9cc4-a8be20717356",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:53.228497",
+            "webstore_last_updated": null,
+            "id": "f3328474-7d63-480c-9903-db895611d9fc",
+            "size": "477",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Giz Activities Rural Electrification Component 2013 (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "giz_activities_rural_electrification_component_2013.pdf",
+            "created": "2014-03-12T14:51:50.941911",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms?layers=geonode%3Agiz_activities_rural_electrification_component_2013&width=557&bbox=29.6911240023736%2C-1.25783400944976%2C34.7186570036019%2C3.70255897725143&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "d1fe8247-937e-4563-9836-b65f436857f7",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c85fe7d6-d11d-404f-9cc4-a8be20717356",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:53.228497",
+            "webstore_last_updated": null,
+            "id": "380c2cde-5331-40da-a76d-868b60f054da",
+            "size": "477",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "bdc33ace72075cda708ecf471ead473d3874aa3e",
+            "description": "Giz Activities Rural Electrification Component 2013 (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "giz_activities_rural_electrification_component_2013.jpg",
+            "created": "2014-03-12T14:51:50.941915",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms?layers=geonode%3Agiz_activities_rural_electrification_component_2013&width=557&bbox=29.6911240023736%2C-1.25783400944976%2C34.7186570036019%2C3.70255897725143&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:57:32.992884",
+            "position": 10,
+            "revision_id": "d1fe8247-937e-4563-9836-b65f436857f7",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 11,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:29:53.228497",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:29:53.228497",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:29:53.228497",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:29:53.228497",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:29:53.228497",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:29:53.228497",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 1,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "giz-activities-rural-electrification-component-2013",
+    "isopen": false,
+    "url": null,
+    "notes": "No abstract provided",
+    "title": "Giz Activities Rural Electrification Component 2013",
+    "extras": [
+        {
+            "value": "[\"None\"]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "d1fe8247-937e-4563-9836-b65f436857f7",
+                "package_id": "ac86e47e-c3a3-43c9-9dca-27c4d0558f52"
+            }
+        },
+        {
+            "value": "34.7186570036",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "d1fe8247-937e-4563-9836-b65f436857f7",
+                "package_id": "ac86e47e-c3a3-43c9-9dca-27c4d0558f52"
+            }
+        },
+        {
+            "value": "3.7025589773",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "ac86e47e-c3a3-43c9-9dca-27c4d0558f52",
+                "revision_id": "d1fe8247-937e-4563-9836-b65f436857f7"
+            }
+        },
+        {
+            "value": "-1.2578340094",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "d1fe8247-937e-4563-9836-b65f436857f7",
+                "package_id": "ac86e47e-c3a3-43c9-9dca-27c4d0558f52"
+            }
+        },
+        {
+            "value": "29.6911240024",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "d1fe8247-937e-4563-9836-b65f436857f7",
+                "package_id": "ac86e47e-c3a3-43c9-9dca-27c4d0558f52"
+            }
+        },
+        {
+            "value": "martin.kretschmer@giz.de",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "ac86e47e-c3a3-43c9-9dca-27c4d0558f52",
+                "revision_id": "d1fe8247-937e-4563-9836-b65f436857f7"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "ac86e47e-c3a3-43c9-9dca-27c4d0558f52",
+                "revision_id": "d1fe8247-937e-4563-9836-b65f436857f7"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-02-18T10:32:26Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "ac86e47e-c3a3-43c9-9dca-27c4d0558f52",
+                "revision_id": "d1fe8247-937e-4563-9836-b65f436857f7"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "ac86e47e-c3a3-43c9-9dca-27c4d0558f52",
+                "revision_id": "d1fe8247-937e-4563-9836-b65f436857f7"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Giz Activities Rural Electrification Component 2013'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "ac86e47e-c3a3-43c9-9dca-27c4d0558f52",
+                "revision_id": "d1fe8247-937e-4563-9836-b65f436857f7"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "ac86e47e-c3a3-43c9-9dca-27c4d0558f52",
+                "revision_id": "d1fe8247-937e-4563-9836-b65f436857f7"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "d1fe8247-937e-4563-9836-b65f436857f7",
+                "package_id": "ac86e47e-c3a3-43c9-9dca-27c4d0558f52"
+            }
+        },
+        {
+            "value": "e9818f60-98b8-11e3-bdd0-ede6a93d9f04",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "d1fe8247-937e-4563-9836-b65f436857f7",
+                "package_id": "ac86e47e-c3a3-43c9-9dca-27c4d0558f52"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "d1fe8247-937e-4563-9836-b65f436857f7",
+                "package_id": "ac86e47e-c3a3-43c9-9dca-27c4d0558f52"
+            }
+        },
+        {
+            "value": "2014-02-18T10:32:26Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "ac86e47e-c3a3-43c9-9dca-27c4d0558f52",
+                "revision_id": "d1fe8247-937e-4563-9836-b65f436857f7"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "d1fe8247-937e-4563-9836-b65f436857f7",
+                "package_id": "ac86e47e-c3a3-43c9-9dca-27c4d0558f52"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "ac86e47e-c3a3-43c9-9dca-27c4d0558f52",
+                "revision_id": "d1fe8247-937e-4563-9836-b65f436857f7"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "ac86e47e-c3a3-43c9-9dca-27c4d0558f52",
+                "revision_id": "d1fe8247-937e-4563-9836-b65f436857f7"
+            }
+        },
+        {
+            "value": "[{\"name\": \"GIZ\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "ac86e47e-c3a3-43c9-9dca-27c4d0558f52",
+                "revision_id": "d1fe8247-937e-4563-9836-b65f436857f7"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.6911240024, -1.2578340094], [34.7186570036, -1.2578340094], [34.7186570036, 3.7025589773], [29.6911240024, 3.7025589773], [29.6911240024, -1.2578340094]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "d1fe8247-937e-4563-9836-b65f436857f7",
+                "package_id": "ac86e47e-c3a3-43c9-9dca-27c4d0558f52"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "ac86e47e-c3a3-43c9-9dca-27c4d0558f52",
+                "revision_id": "d1fe8247-937e-4563-9836-b65f436857f7"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "d1fe8247-937e-4563-9836-b65f436857f7",
+                "package_id": "ac86e47e-c3a3-43c9-9dca-27c4d0558f52"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "d1fe8247-937e-4563-9836-b65f436857f7",
+                "package_id": "ac86e47e-c3a3-43c9-9dca-27c4d0558f52"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "d1fe8247-937e-4563-9836-b65f436857f7"
+}

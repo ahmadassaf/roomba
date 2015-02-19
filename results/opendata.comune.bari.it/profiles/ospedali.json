@@ -1,0 +1,127 @@
+{
+    "license_title": "CC0 1.0",
+    "maintainer": "Ufficio Tutela Ambiente",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "rip.igieneeambiente@comune.bari.it",
+    "revision_timestamp": "2014-12-17T11:43:05.595365",
+    "id": "bd79e539-76ee-4d72-a6c5-5c0be7dfd61c",
+    "metadata_created": "2014-11-12T17:00:30.538627",
+    "metadata_modified": "2014-12-17T11:43:05.595916",
+    "author": "Ripartizione Tutela Ambiente, Sanità e Igiene",
+    "author_email": "rip.igieneeambiente@comune.bari.it",
+    "state": "active",
+    "version": "",
+    "creator_user_id": "1a9bb171-088a-40d4-8c09-3eb097bb7860",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "27bece3a-2abe-422d-8447-2e3c9a7b94be",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-12T17:00:31.146541",
+            "webstore_last_updated": null,
+            "datastore_active": false,
+            "id": "94335cbd-5bb2-4bec-b4d6-10b49c417fe6",
+            "size": "6627",
+            "state": "active",
+            "hash": "md5:6ad5acc964fef116da785d56367c2c0a",
+            "description": "",
+            "format": "ZIP",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "last_modified": "2013-02-22T15:27:24.608117",
+            "url_type": "upload",
+            "mimetype": "application/zip",
+            "cache_url": "",
+            "name": "2013-02-22T142713/ESA_Ospedali.zip",
+            "created": "2013-02-22T15:27:23.497311",
+            "url": "http://opendata.comune.bari.it/dataset/bd79e539-76ee-4d72-a6c5-5c0be7dfd61c/resource/94335cbd-5bb2-4bec-b4d6-10b49c417fe6/download/20130222t142713esaospedali.zip",
+            "webstore_url": "/storage/f/2013-02-22T142713/ESA_Ospedali.zip",
+            "mimetype_inner": "",
+            "position": 0,
+            "revision_id": "1e91aac7-360a-4211-87c3-3184960a3038",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "ospedali",
+            "name": "ospedali",
+            "revision_timestamp": "2014-11-12T17:00:30.538627",
+            "state": "active",
+            "id": "258f454b-b18a-487b-a3ed-839a345e0132"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "display_name": "Dati Geografici",
+            "description": "Dati Geografici del Comune di Bari",
+            "image_display_url": "",
+            "title": "Dati Geografici",
+            "id": "33ce3844-87cd-418d-a237-31b4939342a7",
+            "name": "dati-geografici"
+        }
+    ],
+    "license_id": "CC0-1.0",
+    "relationships_as_subject": [],
+    "num_tags": 1,
+    "organization": {
+        "description": "",
+        "created": "2014-11-26T17:08:49.091500",
+        "title": "Comune di Bari",
+        "name": "comune-di-bari",
+        "revision_timestamp": "2014-11-26T16:08:49.054306",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "",
+        "revision_id": "dd9136cf-62f3-4182-b0a6-3287c82accaa",
+        "type": "organization",
+        "id": "a5fb4b95-9a9e-49de-a9cd-e93ac2bf587f",
+        "approval_status": "approved"
+    },
+    "name": "ospedali",
+    "isopen": true,
+    "url": "",
+    "notes": "Mappa degli Ospedali del Comune di Bari",
+    "owner_org": "a5fb4b95-9a9e-49de-a9cd-e93ac2bf587f",
+    "extras": [
+        {
+            "key": "Data di creazione",
+            "value": "\"Febbraio 2013\""
+        },
+        {
+            "key": "Data ultima modifica del dato",
+            "value": "\"2006\""
+        },
+        {
+            "key": "Data ultima modifica del metadato",
+            "value": "\"2006\""
+        },
+        {
+            "key": "Tipo di dato",
+            "value": "\"shape file\""
+        }
+    ],
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "title": "Ospedali",
+    "revision_id": "fb8955cd-018d-4075-93c7-6c543d8c346d",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": true,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

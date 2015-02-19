@@ -1,0 +1,114 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Laban",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:55:39.468160",
+    "id": "ed5ac28d-45ea-4024-abfb-2f3a43694cc8",
+    "metadata_created": "2012-09-11T13:55:39.468160",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:03:31.059819",
+    "author": "Laban",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "ac52dcc4-47fe-4c0a-9b3e-a6001495fdfe",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:03:31.059819",
+            "webstore_last_updated": "2013-10-10T12:03:30.989579",
+            "id": "3ec79641-473a-4d47-8d4d-792f35e5cc97",
+            "size": "595907",
+            "state": "active",
+            "hash": "59214907d147dc3f754bf256c080b99acfadbd62",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Consolidated Fund 2009-10.csv",
+            "created": "2012-09-11T13:55:39.504950",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155824/p869-w7ap.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T10:43:05.427751",
+            "position": 0,
+            "revision_id": "a5573673-8b8c-493f-9cd0-c4359ef62e06",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:55:39.468160",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:55:39.468160",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "public finance",
+            "name": "public finance",
+            "revision_timestamp": "2012-09-11T13:55:39.468160",
+            "state": "active",
+            "id": "15c507a7-58b5-4614-9e3c-dcab3c19da95"
+        }
+    ],
+    "tracking_summary": {
+        "total": 67,
+        "recent": 5
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-p869-w7ap",
+    "isopen": true,
+    "url": null,
+    "notes": null,
+    "title": "Consolidated Fund 2009-10",
+    "extras": [
+        {
+            "value": "Public Finance",
+            "key": "category",
+            "__extras": {
+                "revision_id": "abd5e261-efc9-4397-9d00-892cd3f00491",
+                "package_id": "ed5ac28d-45ea-4024-abfb-2f3a43694cc8"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "abd5e261-efc9-4397-9d00-892cd3f00491",
+                "package_id": "ed5ac28d-45ea-4024-abfb-2f3a43694cc8"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "abd5e261-efc9-4397-9d00-892cd3f00491"
+}

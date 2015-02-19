@@ -1,0 +1,114 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Laban",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T14:01:40.358142",
+    "id": "1aa2439d-4d23-4d94-9500-c4b13a01f0de",
+    "metadata_created": "2012-09-11T14:01:40.358142",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T11:56:52.316141",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "5fc03c22-0869-4eef-856d-bbc8b6541a2d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T11:56:52.316141",
+            "webstore_last_updated": "2013-10-10T11:56:52.241047",
+            "id": "9538acaa-2166-4755-8370-e31fa9fc4ef1",
+            "size": "7238",
+            "state": "active",
+            "hash": "ca716319b4223861753b23965678b2f2176f176c",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Kaya kulingana na aina ya paa la makazi makuu na Kaunti.csv",
+            "created": "2012-09-11T14:01:40.390769",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T160425/y3qv-q2bs.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:28:40.401882",
+            "position": 0,
+            "revision_id": "6c77a7da-d042-42e7-a9d7-3e2356306f7d",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T14:01:40.358142",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T14:01:40.358142",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 64,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "kodi-y3qv-q2bs",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "2009 Census: Households by main type of roofing material for the main dwelling unit, Swahili Version by County",
+    "title": "Kaya kulingana na aina ya paa la makazi makuu na Kaunti",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "496be3bf-dc9d-4478-ba8d-f2fc167a7c61",
+                "package_id": "1aa2439d-4d23-4d94-9500-c4b13a01f0de"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "496be3bf-dc9d-4478-ba8d-f2fc167a7c61",
+                "package_id": "1aa2439d-4d23-4d94-9500-c4b13a01f0de"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "496be3bf-dc9d-4478-ba8d-f2fc167a7c61",
+                "package_id": "1aa2439d-4d23-4d94-9500-c4b13a01f0de"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "496be3bf-dc9d-4478-ba8d-f2fc167a7c61"
+}

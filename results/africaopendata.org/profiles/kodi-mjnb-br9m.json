@@ -1,0 +1,114 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:58:02.891041",
+    "id": "4e97767e-1cd9-47e6-a458-b26d5ed852a4",
+    "metadata_created": "2012-09-11T13:58:02.891041",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:02:48.294601",
+    "author": "Samuel Kipruto",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "66f4fd6a-a97c-4f9a-b266-fa66bde5daeb",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:02:48.294601",
+            "webstore_last_updated": "2013-10-10T12:02:48.224710",
+            "id": "833b3a34-b959-49af-9547-bd99bf56ed4d",
+            "size": "1226",
+            "state": "active",
+            "hash": "5b09eb6401aea8a436113f97fe69991301817794",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "2003 Breakdown of the Economy, GDP by Industry.csv",
+            "created": "2012-09-11T13:58:02.941364",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T160047/mjnb-br9m.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:39:23.988829",
+            "position": 0,
+            "revision_id": "5e860a49-9fc4-44e9-be65-1db9f2d1bc2e",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "groos domestic product",
+            "name": "groos domestic product",
+            "revision_timestamp": "2012-09-11T13:58:02.891041",
+            "state": "active",
+            "id": "6267ef4f-9236-4535-b93f-eebf2286823e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:58:02.891041",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:58:02.891041",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 61,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-mjnb-br9m",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Statistical Abstract  Table 33",
+    "title": "2003 Breakdown of the Economy, GDP by Industry",
+    "extras": [
+        {
+            "value": "Kenya National Bureau of Statistics",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "0dd82297-5282-4e48-8b1b-db33cbf16896",
+                "package_id": "4e97767e-1cd9-47e6-a458-b26d5ed852a4"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "0dd82297-5282-4e48-8b1b-db33cbf16896",
+                "package_id": "4e97767e-1cd9-47e6-a458-b26d5ed852a4"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "0dd82297-5282-4e48-8b1b-db33cbf16896"
+}

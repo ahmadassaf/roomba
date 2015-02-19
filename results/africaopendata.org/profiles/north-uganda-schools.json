@@ -1,0 +1,145 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-09-23T16:54:19.308047",
+    "id": "a56c40ee-71f7-4145-a3fe-ba27b05c9494",
+    "metadata_created": "2012-09-23T16:51:10.496347",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T11:56:48.283356",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "e496330c-e431-4268-a335-b6ac003ac0c7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-14T09:42:57.092159",
+            "webstore_last_updated": null,
+            "id": "8bfd7aec-ac97-4e12-95c9-21230923a832",
+            "size": "772082",
+            "state": "active",
+            "hash": "a295c3f95a37499ee60e9e2db564fedd01d5efdb",
+            "description": "",
+            "format": "dbf",
+            "tracking_summary": {
+                "total": 7,
+                "recent": 2
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/plain",
+            "cache_url": null,
+            "name": "Uganda_North-Uganda_Schools_Jan2011.dbf",
+            "created": "2012-09-23T16:53:31.308717",
+            "url": "http://africaopendata.org/storage/f/2012-09-23T16%3A51%3A22.893Z/uganda-north-uganda-schools-jan2011.dbf",
+            "webstore_url": null,
+            "last_modified": "2013-03-14T09:42:57.015869",
+            "position": 0,
+            "revision_id": "78865e4f-434c-447a-a66b-a355bd0c82f2",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e496330c-e431-4268-a335-b6ac003ac0c7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-14T09:42:57.689209",
+            "webstore_last_updated": null,
+            "id": "cb2096ce-8d4f-41da-9e3b-751d2ca29e2f",
+            "size": "36584",
+            "state": "active",
+            "hash": "",
+            "description": "",
+            "format": "shp",
+            "tracking_summary": {
+                "total": 4,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/x-qgis",
+            "cache_url": null,
+            "name": "Uganda_North-Uganda_Schools_Jan2011.shp",
+            "created": "2012-09-23T16:54:04.115883",
+            "url": "http://africaopendata.org/storage/f/2012-09-23T16%3A53%3A42.473Z/uganda-north-uganda-schools-jan2011.shp",
+            "webstore_url": null,
+            "last_modified": "2013-03-14T09:42:57.532355",
+            "position": 1,
+            "revision_id": "3a66ef1e-66c7-4a1d-b721-d50e1ce7286f",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e496330c-e431-4268-a335-b6ac003ac0c7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T11:56:48.283356",
+            "webstore_last_updated": "2013-10-10T11:56:48.117800",
+            "id": "e9b337dd-0cf3-44b0-b848-1147385deab6",
+            "size": "394752",
+            "state": "active",
+            "hash": "a4e3de9e2e9a2c1b926d19df41fd50259042479c",
+            "description": "",
+            "format": "XLS",
+            "tracking_summary": {
+                "total": 4,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/vnd.ms-excel",
+            "cache_url": null,
+            "name": "Uganda_Roads_Feb2009.xls",
+            "created": "2012-09-23T16:58:38.601265",
+            "url": "http://africaopendata.org/storage/f/2012-09-23T16%3A56%3A20.819Z/uganda-roads-feb2009.xls",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:42:58.848762",
+            "position": 2,
+            "revision_id": "20b8119e-dc50-4242-a0e4-bbcc62aad7c3",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 3,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "education",
+            "name": "education",
+            "revision_timestamp": "2012-09-23T16:51:10.496347",
+            "state": "active",
+            "id": "4bc98291-13cc-4baf-b090-52376fa3a429"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2012-09-23T16:51:10.496347",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 101,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "north-uganda-schools",
+    "isopen": false,
+    "url": null,
+    "notes": "Education Facility Centres in Northern Uganda - based on GPS coordinates of the centers collected (in 2009, 2010, and 2011) by UNOCHA",
+    "title": "North Uganda Schools",
+    "extras": [],
+    "organization": null,
+    "revision_id": "e99a96ed-d5ba-4494-9b8d-439a863a2237"
+}

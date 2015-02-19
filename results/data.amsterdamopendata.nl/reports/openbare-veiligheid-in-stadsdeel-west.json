@@ -1,0 +1,311 @@
+{
+    "missing": [
+        "organization"
+    ],
+    "undefined": [
+        "url",
+        "owner_org",
+        "version"
+    ],
+    "unreachableURLs": [],
+    "report": [
+        "url field exists but there is no value defined",
+        "owner_org field exists but there is no value defined",
+        "organization information is missing",
+        "version field exists but there is no value defined"
+    ],
+    "tag": {
+        "DNA-sprays": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "alcoholverbodgebieden": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "cameratoezicht": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "meldpunten": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "overlast": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "overlastlocaties": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "politiebureaus": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "veiligheidsscans": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "wintertoezicht": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        }
+    },
+    "group": {
+        "Openbare orde & veiligheid": {
+            "missing": [
+                "display_name",
+                "image_display_url"
+            ],
+            "undefined": [
+                "description"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "display_name field is missing",
+                "description field exists but there is no value defined",
+                "image_display_url field is missing"
+            ]
+        }
+    },
+    "license": {
+        "license": {
+            "missing": [],
+            "undefined": [],
+            "unreachableURLs": [],
+            "report": [
+                "License information has been normalized !"
+            ]
+        }
+    },
+    "resource": {
+        "http://www.kaartvanwest.nl/opendata_feed/subgroep/overlastlocaties/format/csv": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "mimetype_inner",
+                "cache_url",
+                "webstore_url"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined"
+            ]
+        },
+        "http://www.kaartvanwest.nl/opendata_feed/subgroep/alcoholverbodgebieden/format/csv": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "mimetype_inner",
+                "cache_url",
+                "webstore_url"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined"
+            ]
+        },
+        "http://www.kaartvanwest.nl/opendata_feed/subgroep/cameratoezicht/format/csv": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "mimetype_inner",
+                "cache_url",
+                "webstore_url"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined"
+            ]
+        },
+        "http://www.kaartvanwest.nl/opendata_feed/subgroep/dna_spray_gebieden/format/csv": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "mimetype_inner",
+                "cache_url",
+                "webstore_url"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined"
+            ]
+        },
+        "http://www.kaartvanwest.nl/opendata_feed/subgroep/veiligheidsscans/format/csv": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "mimetype_inner",
+                "cache_url",
+                "webstore_url"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined"
+            ]
+        },
+        "http://www.kaartvanwest.nl/opendata_feed/subgroep/wintertoezicht_winkelstraten/format/csv": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "mimetype_inner",
+                "cache_url",
+                "webstore_url"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined"
+            ]
+        },
+        "http://www.kaartvanwest.nl/opendata_feed/subgroep/politiebureaus/format/csv": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "mimetype_inner",
+                "cache_url",
+                "webstore_url"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined"
+            ]
+        },
+        "http://www.kaartvanwest.nl/opendata_feed/subgroep/meldpunten_zorg_overlast/format/csv": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "mimetype_inner",
+                "cache_url",
+                "webstore_url"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined"
+            ]
+        }
+    },
+    "counter": {
+        "group": 1,
+        "tag": 9,
+        "resource": 8
+    }
+}

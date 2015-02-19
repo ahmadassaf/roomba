@@ -1,0 +1,235 @@
+{
+    "license_title": "Creative Commons Attribution 4.0",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2013-05-15T14:46:22.989506",
+    "id": "13f7fd36-2e54-414f-aa1b-1b70e09c0e42",
+    "metadata_created": "2013-05-15T14:46:22.989506",
+    "owner_org": null,
+    "metadata_modified": "2013-05-15T14:46:22.989506",
+    "author": "Stadsdeel West",
+    "author_email": "info@west.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "4d64d33e-e950-46c3-a910-7af7a03e480b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-05-15T14:46:22.989506",
+            "webstore_last_updated": null,
+            "id": "3c4a75f5-fd62-4831-b4eb-85b99a81d0b9",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "GeoRSS",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "http://www.kaartvanwest.nl/opendata_feed/subgroep/buurten/format/georss",
+            "created": "2013-05-15T16:46:23.040620",
+            "url": "http://www.kaartvanwest.nl/opendata_feed/subgroep/buurten/format/georss",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "4370ffd7-1297-444b-815a-7a12e40e8f49",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "4d64d33e-e950-46c3-a910-7af7a03e480b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-05-15T14:46:22.989506",
+            "webstore_last_updated": null,
+            "id": "dd949f84-62e5-485f-b560-e523983d5907",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "CSV",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "http://www.kaartvanwest.nl/opendata_feed/subgroep/buurten/format/csv",
+            "created": "2013-05-15T16:46:23.040641",
+            "url": "http://www.kaartvanwest.nl/opendata_feed/subgroep/buurten/format/csv",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "4370ffd7-1297-444b-815a-7a12e40e8f49",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Leven",
+            "name": "Leven",
+            "revision_timestamp": "2013-05-15T14:46:22.989506",
+            "state": "active",
+            "id": "39daf2a8-bb1f-4272-8dd0-2a8b5a65c7e6"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "gebieden\n",
+            "name": "gebieden\n",
+            "revision_timestamp": "2013-05-15T14:46:22.989506",
+            "state": "active",
+            "id": "6a359fc1-27f4-4890-98e1-0564e7da6838"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "leef",
+            "name": "leef",
+            "revision_timestamp": "2013-05-15T14:46:22.989506",
+            "state": "active",
+            "id": "cba36c28-c384-4a80-966a-69c3f103f96c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "leefgebieden",
+            "name": "leefgebieden",
+            "revision_timestamp": "2013-05-15T14:46:22.989506",
+            "state": "active",
+            "id": "430bab4a-ab2c-4c15-840c-227f65fdcd19"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "leefomgevingen",
+            "name": "leefomgevingen",
+            "revision_timestamp": "2013-05-15T14:46:22.989506",
+            "state": "active",
+            "id": "983be120-f3f6-4bca-a5f0-290108b1b7ea"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "omgeving",
+            "name": "omgeving",
+            "revision_timestamp": "2013-05-15T14:46:22.989506",
+            "state": "active",
+            "id": "8bd6b4c0-99aa-4a0e-98c0-8bbb17bbb901"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "omgevingen",
+            "name": "omgevingen",
+            "revision_timestamp": "2013-05-15T14:46:22.989506",
+            "state": "active",
+            "id": "16f59a4c-1d5a-4562-b590-9f1ec0b7a4ad"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Geografie",
+            "description": "",
+            "name": "geografie",
+            "id": "12518db9-824a-44d5-b568-6369f401aef3"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 7,
+    "name": "buurtgrenzen-stadsdeel-west",
+    "isopen": true,
+    "url": null,
+    "notes": "Buurten in 2010 van gesteld door de oude stadsdelen in het Radenberaad.\n",
+    "title": "Buurtgrenzen Stadsdeel West",
+    "extras": [
+        {
+            "value": "info@west.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "13f7fd36-2e54-414f-aa1b-1b70e09c0e42",
+                "revision_id": "4370ffd7-1297-444b-815a-7a12e40e8f49"
+            }
+        },
+        {
+            "value": "Stadsdeel West",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "4370ffd7-1297-444b-815a-7a12e40e8f49",
+                "package_id": "13f7fd36-2e54-414f-aa1b-1b70e09c0e42"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "4370ffd7-1297-444b-815a-7a12e40e8f49",
+                "package_id": "13f7fd36-2e54-414f-aa1b-1b70e09c0e42"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "4370ffd7-1297-444b-815a-7a12e40e8f49",
+                "package_id": "13f7fd36-2e54-414f-aa1b-1b70e09c0e42"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "13f7fd36-2e54-414f-aa1b-1b70e09c0e42",
+                "revision_id": "4370ffd7-1297-444b-815a-7a12e40e8f49"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "13f7fd36-2e54-414f-aa1b-1b70e09c0e42",
+                "revision_id": "4370ffd7-1297-444b-815a-7a12e40e8f49"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "4370ffd7-1297-444b-815a-7a12e40e8f49",
+                "package_id": "13f7fd36-2e54-414f-aa1b-1b70e09c0e42"
+            }
+        },
+        {
+            "value": "http://www.west.amsterdam.nl",
+            "key": "website",
+            "__extras": {
+                "package_id": "13f7fd36-2e54-414f-aa1b-1b70e09c0e42",
+                "revision_id": "4370ffd7-1297-444b-815a-7a12e40e8f49"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "organization": null,
+    "revision_id": "4370ffd7-1297-444b-815a-7a12e40e8f49",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

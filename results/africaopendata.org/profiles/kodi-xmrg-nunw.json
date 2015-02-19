@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:53:38.331365",
+    "id": "d2029b24-4750-4b19-9ab3-1efcc5b78ae7",
+    "metadata_created": "2012-09-11T13:53:38.331365",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:04:43.124960",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "92f1ebdf-d7b8-427a-80d0-ac8c5a540403",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:04:43.124960",
+            "webstore_last_updated": "2013-10-10T12:04:42.998123",
+            "id": "08a962bb-6c27-41b2-9f71-bcb9684bccc9",
+            "size": "5974",
+            "state": "active",
+            "hash": "a54f8c385beded273cfe218f0e650f29eb417d39",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "2009 Census Volume II Table 3: Population, 3 years and above Attending School by Sex, and Highest Level of Education Reached County estimates.csv",
+            "created": "2012-09-11T13:53:38.370486",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155623/xmrg-nunw.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:50:03.436461",
+            "position": 0,
+            "revision_id": "d29c3a82-5428-49f0-830f-f4ad7d56c37f",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "county education census",
+            "name": "county education census",
+            "revision_timestamp": "2012-09-11T13:53:38.331365",
+            "state": "active",
+            "id": "3d05789a-9a82-43e6-a3e3-b451e97e1110"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:53:38.331365",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:53:38.331365",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 49,
+        "recent": 7
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-xmrg-nunw",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "2009 Census Volume II Table 3: Population, 3 years and above Attending School by Sex, and Highest Level of Education Reached County estimates",
+    "title": "2009 Census Volume II Table 3: Population, 3 years and above Attending School by Sex, and Highest Level of Education Reached County estimates",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "40c9d7c9-f931-4420-b131-93009ea17f68",
+                "package_id": "d2029b24-4750-4b19-9ab3-1efcc5b78ae7"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "40c9d7c9-f931-4420-b131-93009ea17f68",
+                "package_id": "d2029b24-4750-4b19-9ab3-1efcc5b78ae7"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "40c9d7c9-f931-4420-b131-93009ea17f68",
+                "package_id": "d2029b24-4750-4b19-9ab3-1efcc5b78ae7"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "40c9d7c9-f931-4420-b131-93009ea17f68"
+}

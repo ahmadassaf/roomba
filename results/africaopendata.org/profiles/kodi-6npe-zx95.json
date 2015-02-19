@@ -1,0 +1,130 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Laban",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T11:51:52.087689",
+    "id": "2d177c35-ad45-4d24-ae17-965a74dab425",
+    "metadata_created": "2012-09-10T11:51:52.087689",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:20:18.417241",
+    "author": "Laban",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "d5ac8f96-01ea-4efa-99c2-8ae1757facf3",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:20:18.417241",
+            "webstore_last_updated": "2013-10-10T12:20:18.342775",
+            "id": "55612f03-8ea3-429e-ba22-4c2a4497d5b5",
+            "size": "9950165",
+            "state": "active",
+            "hash": "c246337e9c861d60dd1c2b86790201be56fa98fa",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Constituency Development Fund (2003-2010).csv",
+            "created": "2012-09-11T13:27:24.524529",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T153007/6npe-zx95.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:32:53.491778",
+            "position": 0,
+            "revision_id": "cfcd5d52-781e-4813-b9b9-c33d4fff3f20",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "cdf",
+            "name": "cdf",
+            "revision_timestamp": "2012-09-10T11:51:52.087689",
+            "state": "active",
+            "id": "e4f787d6-ec60-483a-b3b3-f941cf48c3b4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T11:51:52.087689",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T11:51:52.087689",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "public finance",
+            "name": "public finance",
+            "revision_timestamp": "2012-09-10T11:51:52.087689",
+            "state": "active",
+            "id": "15c507a7-58b5-4614-9e3c-dcab3c19da95"
+        }
+    ],
+    "tracking_summary": {
+        "total": 76,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "kodi-6npe-zx95",
+    "isopen": true,
+    "url": null,
+    "notes": "CDF spending form the years 2003 to 2010",
+    "title": "Constituency Development Fund (2003-2010)",
+    "extras": [
+        {
+            "value": "CDF",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "1e2629be-8bae-48e2-9234-f79853405ebc",
+                "package_id": "2d177c35-ad45-4d24-ae17-965a74dab425"
+            }
+        },
+        {
+            "value": "Public Finance",
+            "key": "category",
+            "__extras": {
+                "revision_id": "1e2629be-8bae-48e2-9234-f79853405ebc",
+                "package_id": "2d177c35-ad45-4d24-ae17-965a74dab425"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "1e2629be-8bae-48e2-9234-f79853405ebc",
+                "package_id": "2d177c35-ad45-4d24-ae17-965a74dab425"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "1e2629be-8bae-48e2-9234-f79853405ebc"
+}

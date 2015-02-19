@@ -1,0 +1,464 @@
+{
+    "missing": [
+        "organization"
+    ],
+    "undefined": [
+        "url",
+        "owner_org",
+        "version"
+    ],
+    "unreachableURLs": [],
+    "report": [
+        "url field exists but there is no value defined",
+        "owner_org field exists but there is no value defined",
+        "organization information is missing",
+        "version field exists but there is no value defined"
+    ],
+    "tag": {
+        "gladheid": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "ijzel": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "strooien": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "strooiroutes": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "winter": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        }
+    },
+    "group": {
+        "Verkeer & Infrastructuur": {
+            "missing": [
+                "display_name",
+                "image_display_url"
+            ],
+            "undefined": [
+                "description"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "display_name field is missing",
+                "description field exists but there is no value defined",
+                "image_display_url field is missing"
+            ]
+        }
+    },
+    "license": {
+        "license": {
+            "missing": [
+                "license_url"
+            ],
+            "undefined": [],
+            "unreachableURLs": [],
+            "report": [
+                "license_url field is missing",
+                "We could not normalize the license information as no valid mapping was found !"
+            ]
+        }
+    },
+    "resource": {
+        "http://www.amsterdamopendata.nl/files/ivv/strooiroutes/centrum.kml": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "webstore_url"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined"
+            ]
+        },
+        "http://www.amsterdamopendata.nl/files/ivv/strooiroutes/hoofdnet.kml": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "webstore_url",
+                "last_modified"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined"
+            ]
+        },
+        "http://www.amsterdamopendata.nl/files/ivv/strooiroutes/nieuw_west.kml": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "webstore_url",
+                "last_modified"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined"
+            ]
+        },
+        "http://www.amsterdamopendata.nl/files/ivv/strooiroutes/noord-hoofdnet.kml": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "webstore_url",
+                "last_modified"
+            ],
+            "unreachableURLs": [
+                "http://www.amsterdamopendata.nl/files/ivv/strooiroutes/noord-hoofdnet.kml"
+            ],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined",
+                "The url for this resource is not reachable !"
+            ],
+            "unreachableTypes": {
+                "file": "http://www.amsterdamopendata.nl/files/ivv/strooiroutes/noord-hoofdnet.kml"
+            }
+        },
+        "http://www.amsterdamopendata.nl/files/ivv/strooiroutes/oost.kml": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "webstore_url",
+                "last_modified"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined"
+            ]
+        },
+        "http://www.amsterdamopendata.nl/files/ivv/strooiroutes/trambaan.kml": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "webstore_url",
+                "last_modified"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined"
+            ]
+        },
+        "http://www.amsterdamopendata.nl/files/ivv/strooiroutes/west.kml": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "webstore_url",
+                "last_modified"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined"
+            ]
+        },
+        "http://www.amsterdamopendata.nl/files/ivv/strooiroutes/westpoort.kml": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "webstore_url",
+                "last_modified"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined"
+            ]
+        },
+        "http://www.amsterdamopendata.nl/files/ivv/strooiroutes/zuid.kml": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "webstore_url",
+                "last_modified"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined"
+            ]
+        },
+        "http://www.amsterdamopendata.nl/files/ivv/strooiroutes/zuidoost-hoofdnet.kml": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "webstore_url",
+                "last_modified"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined"
+            ]
+        },
+        "http://www.amsterdamopendata.nl/files/ivv/strooiroutes/zuidoost-secundair.kml": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "webstore_url",
+                "last_modified"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined"
+            ]
+        },
+        "http://api.citysdk.waag.org/nodes?layer=divv.salt_spreading&geom": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "webstore_url",
+                "last_modified"
+            ],
+            "unreachableURLs": [
+                "http://api.citysdk.waag.org/nodes?layer=divv.salt_spreading&geom"
+            ],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined",
+                "The url for this resource is not reachable !"
+            ],
+            "unreachableTypes": {
+                "api": "http://api.citysdk.waag.org/nodes?layer=divv.salt_spreading&geom"
+            }
+        }
+    },
+    "counter": {
+        "group": 1,
+        "tag": 5,
+        "resource": 12
+    }
+}

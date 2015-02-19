@@ -1,0 +1,312 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2014-08-28T08:23:20.845725",
+    "id": "50658a6f-c893-4d5d-9322-3663e814d132",
+    "metadata_created": "2013-05-15T14:00:59.892972",
+    "owner_org": null,
+    "metadata_modified": "2014-08-28T08:23:20.845725",
+    "author": "Kadaster",
+    "author_email": "bag@kadaster.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "8389e4ae-0a86-43d5-9678-8efdd7fd76db",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-08-28T08:23:20.845725",
+            "webstore_last_updated": null,
+            "id": "b37f3547-be9a-4029-afff-29316b59b44b",
+            "size": "18889",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Instructie voor verkrijgen data",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "http://www.kadaster.nl/bag",
+            "created": "2014-08-28T10:23:20.883530",
+            "url": "http://www.kadaster.nl/bag",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "f9bcec35-c99c-44af-9749-c287c2a1196b",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "8389e4ae-0a86-43d5-9678-8efdd7fd76db",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-08-28T08:23:20.845725",
+            "webstore_last_updated": null,
+            "id": "800038f9-9e31-40a9-8934-04f54d020999",
+            "size": "14111",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "API via CitySDK (voorbeeldlink)",
+            "format": "url",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://citysdk.waag.org/map#nodes?layer=bag.panden&lat=52.3729305&lon=4.8939521&per_page=100",
+            "created": "2014-08-28T10:23:20.883550",
+            "url": "http://citysdk.waag.org/map#nodes?layer=bag.panden&lat=52.3729305&lon=4.8939521&per_page=100",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "f9bcec35-c99c-44af-9749-c287c2a1196b",
+            "resource_type": "api",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "8389e4ae-0a86-43d5-9678-8efdd7fd76db",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-08-28T08:23:20.845725",
+            "webstore_last_updated": null,
+            "id": "3f4451e6-30ab-45c8-ac36-e545acb31d4f",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "BAG Ligplaatsen (via CitySDK)",
+            "format": "url",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "http://api.citysdk.waag.org/nodes?layer=bag.ligplaatsen&geom",
+            "created": "2014-08-28T10:23:20.883555",
+            "url": "http://api.citysdk.waag.org/nodes?layer=bag.ligplaatsen&geom",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "f9bcec35-c99c-44af-9749-c287c2a1196b",
+            "resource_type": "api"
+        },
+        {
+            "resource_group_id": "8389e4ae-0a86-43d5-9678-8efdd7fd76db",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-08-28T08:23:20.845725",
+            "webstore_last_updated": null,
+            "id": "640b06bf-fc15-4561-b4a0-25a3f39b0b51",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "BAG Panden (via CitySDK)",
+            "format": "url",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "http://api.citysdk.waag.org/nodes?layer=bag.panden&geom",
+            "created": "2014-08-28T10:23:20.883560",
+            "url": "http://api.citysdk.waag.org/nodes?layer=bag.panden&geom",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "f9bcec35-c99c-44af-9749-c287c2a1196b",
+            "resource_type": "api"
+        },
+        {
+            "resource_group_id": "8389e4ae-0a86-43d5-9678-8efdd7fd76db",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-08-28T08:23:20.845725",
+            "webstore_last_updated": null,
+            "id": "638fca12-7fed-408b-b0f1-2031cbd8da03",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Bag VBO (via CitySDK)",
+            "format": "url",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "http://api.citysdk.waag.org/nodes?layer=bag.vbo&geom",
+            "created": "2014-08-28T10:23:20.883565",
+            "url": "http://api.citysdk.waag.org/nodes?layer=bag.vbo&geom",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 4,
+            "revision_id": "f9bcec35-c99c-44af-9749-c287c2a1196b",
+            "resource_type": "api"
+        },
+        {
+            "resource_group_id": "8389e4ae-0a86-43d5-9678-8efdd7fd76db",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-08-28T08:23:20.845725",
+            "webstore_last_updated": null,
+            "id": "23e82484-9be8-4052-8f52-045d81303d2f",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "BAG Standplaatsen (via CitySDK)",
+            "format": "url",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "http://api.citysdk.waag.org/nodes?layer=bag.standplaatsen&geom",
+            "created": "2014-08-28T10:23:20.883569",
+            "url": "http://api.citysdk.waag.org/nodes?layer=bag.standplaatsen&geom",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 5,
+            "revision_id": "f9bcec35-c99c-44af-9749-c287c2a1196b",
+            "resource_type": "api"
+        }
+    ],
+    "num_resources": 6,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "BAG",
+            "name": "BAG",
+            "revision_timestamp": "2013-05-15T14:00:59.892972",
+            "state": "active",
+            "id": "da4689bf-c00d-4d15-a50d-c8879395837e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "adressen",
+            "name": "adressen",
+            "revision_timestamp": "2013-05-15T14:00:59.892972",
+            "state": "active",
+            "id": "29dfecbf-be68-4631-913e-398632069f09"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "gebouwen",
+            "name": "gebouwen",
+            "revision_timestamp": "2013-05-15T14:00:59.892972",
+            "state": "active",
+            "id": "2153d60d-eb7c-4590-a078-6c2c25cfc5c5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "register",
+            "name": "register",
+            "revision_timestamp": "2014-03-13T16:13:45.389082",
+            "state": "active",
+            "id": "356a2a8e-83c3-4e4a-ab25-fa028a39f7b0"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Geografie",
+            "description": "",
+            "name": "geografie",
+            "id": "12518db9-824a-44d5-b568-6369f401aef3"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "basisregistratie-adressen-en-gebouwen",
+    "isopen": false,
+    "url": null,
+    "notes": "LET OP: Gratis voor publieke partijen, voor private partijen worden nog leveringskosten in rekening gebracht.De BAG (Basisregistraties adressen en gebouwen) is onderdeel van het overheidsstelsel van basisregistraties. Gemeenten zijn bronhouders van de BAG. Zij zijn verantwoordelijk voor het opnemen van de gegevens in de BAG en voor de kwaliteit ervan. Alle gemeenten stellen gegevens over adressen en gebouwen centraal beschikbaar via de Landelijke Voorziening (BAGLV). Het Kadaster beheert de BAGLV en stelt de gegevens beschikbaar aan de diverse afnemers.\n\nDaarnaast is deze data ook via de CitySDK beschikbaar als API",
+    "title": "Basisregistratie Adressen en Gebouwen",
+    "extras": [
+        {
+            "value": "bag@kadaster.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "50658a6f-c893-4d5d-9322-3663e814d132",
+                "revision_id": "05acd815-7dbd-4c9b-8873-88275dad839b"
+            }
+        },
+        {
+            "value": "Kadaster",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "05acd815-7dbd-4c9b-8873-88275dad839b",
+                "package_id": "50658a6f-c893-4d5d-9322-3663e814d132"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "05acd815-7dbd-4c9b-8873-88275dad839b",
+                "package_id": "50658a6f-c893-4d5d-9322-3663e814d132"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "05acd815-7dbd-4c9b-8873-88275dad839b",
+                "package_id": "50658a6f-c893-4d5d-9322-3663e814d132"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "50658a6f-c893-4d5d-9322-3663e814d132",
+                "revision_id": "05acd815-7dbd-4c9b-8873-88275dad839b"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "50658a6f-c893-4d5d-9322-3663e814d132",
+                "revision_id": "05acd815-7dbd-4c9b-8873-88275dad839b"
+            }
+        },
+        {
+            "value": "Dagelijks",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "05acd815-7dbd-4c9b-8873-88275dad839b",
+                "package_id": "50658a6f-c893-4d5d-9322-3663e814d132"
+            }
+        },
+        {
+            "value": "http://www.kadaster.nl",
+            "key": "website",
+            "__extras": {
+                "revision_id": "05acd815-7dbd-4c9b-8873-88275dad839b",
+                "package_id": "50658a6f-c893-4d5d-9322-3663e814d132"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "f9bcec35-c99c-44af-9749-c287c2a1196b"
+}

@@ -1,0 +1,146 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Kenya Open Data Bot",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T12:53:37.167183",
+    "id": "fc7672fd-448a-45fd-bcc9-5ba02b8b1532",
+    "metadata_created": "2012-09-10T12:53:37.167183",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:13:04.505452",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "0488b375-b4fc-4690-b24e-5d3e00b91d8d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:13:04.505452",
+            "webstore_last_updated": "2013-10-10T12:13:04.413134",
+            "id": "a13a05e4-46c5-4ff4-92c1-ee41bb29f3f5",
+            "size": "185",
+            "state": "active",
+            "hash": "c91644dbd9dd2f27d8c447e6acbb0b782341e00d",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Local Authority Expenditures by Year: Taita Taveta.csv",
+            "created": "2012-09-11T13:38:50.477594",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T154135/r72v-rp43.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T10:47:31.205598",
+            "position": 0,
+            "revision_id": "9d4471e2-1199-4e73-a87a-f54ba1ab3d14",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "cdf",
+            "name": "cdf",
+            "revision_timestamp": "2012-09-10T12:53:37.167183",
+            "state": "active",
+            "id": "e4f787d6-ec60-483a-b3b3-f941cf48c3b4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "county",
+            "name": "county",
+            "revision_timestamp": "2012-09-10T12:53:37.167183",
+            "state": "active",
+            "id": "858f3acf-2c66-4fd9-9dc2-32e4f12121a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "expenditures",
+            "name": "expenditures",
+            "revision_timestamp": "2012-09-10T12:53:37.167183",
+            "state": "active",
+            "id": "44c63fed-5be4-49aa-b2a5-1e7baf93d961"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T12:53:37.167183",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T12:53:37.167183",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "local authorities",
+            "name": "local authorities",
+            "revision_timestamp": "2012-09-10T12:53:37.167183",
+            "state": "active",
+            "id": "ece507fe-ec49-44f8-848e-39df75ac1866"
+        }
+    ],
+    "tracking_summary": {
+        "total": 65,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "kodi-r72v-rp43",
+    "isopen": true,
+    "url": null,
+    "notes": "Local Authority and Constituency Development Fund Expenditures, County estimates, Kenya Shillings",
+    "title": "Local Authority Expenditures by Year: Taita Taveta",
+    "extras": [
+        {
+            "value": "Ministry of Local Government",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "0f78a93c-19ad-4e12-8081-b1c50b94d6b3",
+                "package_id": "fc7672fd-448a-45fd-bcc9-5ba02b8b1532"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "0f78a93c-19ad-4e12-8081-b1c50b94d6b3",
+                "package_id": "fc7672fd-448a-45fd-bcc9-5ba02b8b1532"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "0f78a93c-19ad-4e12-8081-b1c50b94d6b3",
+                "package_id": "fc7672fd-448a-45fd-bcc9-5ba02b8b1532"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "0f78a93c-19ad-4e12-8081-b1c50b94d6b3"
+}

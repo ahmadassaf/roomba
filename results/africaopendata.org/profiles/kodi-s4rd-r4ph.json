@@ -1,0 +1,130 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T11:53:58.721695",
+    "id": "16c8d0e9-bd7c-4ea5-a116-6d8464d6cfb3",
+    "metadata_created": "2012-09-10T11:53:58.721695",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:18:42.503574",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "f796461d-e225-4c7b-80c6-de6a4e281ffb",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:18:42.503574",
+            "webstore_last_updated": null,
+            "id": "c4ecf785-fb09-45ee-b2e1-2b3a271611fa",
+            "size": "102043535",
+            "state": "active",
+            "hash": "",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Public Expenditures 2002/3 to 2008/9.csv",
+            "created": "2012-09-11T13:29:37.542565",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T153159/s4rd-r4ph.csv",
+            "webstore_url": null,
+            "last_modified": "2013-10-10T12:18:42.421846",
+            "position": 0,
+            "revision_id": "270435ea-a065-4d34-b5a6-9e58feeab2d3",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "finance",
+            "name": "finance",
+            "revision_timestamp": "2012-09-10T11:53:58.721695",
+            "state": "active",
+            "id": "03e21f21-04d8-4e9f-aa27-cd50d0b59c7c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T11:53:58.721695",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T11:53:58.721695",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "public expenditure",
+            "name": "public expenditure",
+            "revision_timestamp": "2012-09-10T11:53:58.721695",
+            "state": "active",
+            "id": "d92d65a3-60b9-4c1a-84f4-f2950eac9044"
+        }
+    ],
+    "tracking_summary": {
+        "total": 63,
+        "recent": 5
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "kodi-s4rd-r4ph",
+    "isopen": true,
+    "url": null,
+    "notes": "KENAO Audited Accounts 2002/3-2008/9; Local Authority Transfer Fund reports 2002/3 to 2008/9 and CDF allocations 2003/4 to 2009/10",
+    "title": "Public Expenditures 2002/3 to 2008/9",
+    "extras": [
+        {
+            "value": "KENAO, CDF, Ministry of Local Government",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "6e11d384-5a9e-4c24-a5cb-43c603fec6a5",
+                "package_id": "16c8d0e9-bd7c-4ea5-a116-6d8464d6cfb3"
+            }
+        },
+        {
+            "value": "Public Finance",
+            "key": "category",
+            "__extras": {
+                "revision_id": "6e11d384-5a9e-4c24-a5cb-43c603fec6a5",
+                "package_id": "16c8d0e9-bd7c-4ea5-a116-6d8464d6cfb3"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "6e11d384-5a9e-4c24-a5cb-43c603fec6a5",
+                "package_id": "16c8d0e9-bd7c-4ea5-a116-6d8464d6cfb3"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "6e11d384-5a9e-4c24-a5cb-43c603fec6a5"
+}

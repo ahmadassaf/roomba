@@ -1,0 +1,166 @@
+{
+    "license_title": "CC0 1.0",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2013-05-15T11:41:01.010986",
+    "id": "150d6d03-39b3-4573-a6a5-cd23795cf2fe",
+    "metadata_created": "2013-05-15T11:41:01.010986",
+    "owner_org": null,
+    "metadata_modified": "2013-05-15T11:41:01.010986",
+    "author": "Provincie Noord-Holland",
+    "author_email": "post@noord-holland.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "CC0-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "32d3b20c-093d-4a9d-b833-96b61160fe72",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-05-15T11:41:01.010986",
+            "webstore_last_updated": null,
+            "id": "d5e09873-7589-4ca9-831f-a08d57cc33ae",
+            "size": "1047823",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Shapefiles",
+            "format": "ZIP",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "http://www.appsfornoordholland.nl/wp-content/uploads/2011/07/geregistreerde-verkeersongevallen-20052009.zip",
+            "created": "2013-05-15T13:41:01.046961",
+            "url": "http://www.appsfornoordholland.nl/wp-content/uploads/2011/07/geregistreerde-verkeersongevallen-20052009.zip",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "656f8265-b76e-4fae-a235-f97388b1ecb9",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "provincie",
+            "name": "provincie",
+            "revision_timestamp": "2013-05-15T11:41:01.010986",
+            "state": "active",
+            "id": "58c67009-2821-4b8a-9868-7a9000f3c260"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "verkeersongevallen\n",
+            "name": "verkeersongevallen\n",
+            "revision_timestamp": "2013-05-15T11:41:01.010986",
+            "state": "active",
+            "id": "45637681-f5c2-462e-bdb3-7bff1fc3b385"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Openbare orde & veiligheid",
+            "description": "",
+            "name": "openbare-orde-veiligheid",
+            "id": "ef0eaa3d-22c8-4d8a-a62e-78a2d0296857"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "verkeersongevallen",
+    "isopen": true,
+    "url": null,
+    "notes": "Geregistreerde verkeersongevallen in de provincie Noord-Holland van 2005 t/m 2009.\n",
+    "title": "Verkeersongevallen",
+    "extras": [
+        {
+            "value": "post@noord-holland.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "150d6d03-39b3-4573-a6a5-cd23795cf2fe",
+                "revision_id": "656f8265-b76e-4fae-a235-f97388b1ecb9"
+            }
+        },
+        {
+            "value": "Provincie Noord-Holland",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "656f8265-b76e-4fae-a235-f97388b1ecb9",
+                "package_id": "150d6d03-39b3-4573-a6a5-cd23795cf2fe"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "656f8265-b76e-4fae-a235-f97388b1ecb9",
+                "package_id": "150d6d03-39b3-4573-a6a5-cd23795cf2fe"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "656f8265-b76e-4fae-a235-f97388b1ecb9",
+                "package_id": "150d6d03-39b3-4573-a6a5-cd23795cf2fe"
+            }
+        },
+        {
+            "value": "01/01/2005",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "150d6d03-39b3-4573-a6a5-cd23795cf2fe",
+                "revision_id": "656f8265-b76e-4fae-a235-f97388b1ecb9"
+            }
+        },
+        {
+            "value": "31/12/2009",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "150d6d03-39b3-4573-a6a5-cd23795cf2fe",
+                "revision_id": "656f8265-b76e-4fae-a235-f97388b1ecb9"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "656f8265-b76e-4fae-a235-f97388b1ecb9",
+                "package_id": "150d6d03-39b3-4573-a6a5-cd23795cf2fe"
+            }
+        },
+        {
+            "value": "http://www.noord-holland.nl",
+            "key": "website",
+            "__extras": {
+                "package_id": "150d6d03-39b3-4573-a6a5-cd23795cf2fe",
+                "revision_id": "656f8265-b76e-4fae-a235-f97388b1ecb9"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "organization": null,
+    "revision_id": "656f8265-b76e-4fae-a235-f97388b1ecb9",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": true,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

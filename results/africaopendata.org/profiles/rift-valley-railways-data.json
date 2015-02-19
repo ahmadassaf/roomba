@@ -1,0 +1,96 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-12-11T10:48:34.239678",
+    "id": "10235eb5-c201-454f-aa28-dc6949d42b3e",
+    "metadata_created": "2013-12-11T10:45:15.997597",
+    "owner_org": null,
+    "metadata_modified": "2013-12-11T10:51:41.470554",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "e7219c70-277b-41e5-9d80-2339a6ca84e3",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-12-11T10:51:41.470554",
+            "webstore_last_updated": null,
+            "id": "723ce2ff-4bcd-4648-bb08-8b1816a7bb67",
+            "size": null,
+            "state": "active",
+            "hash": "",
+            "description": "Data on Rift Valley railways",
+            "format": "JSON",
+            "tracking_summary": {
+                "total": 10,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "GTFS-Data",
+            "created": "2013-12-11T10:46:41.593939",
+            "url": "http://www.gtfs-data-exchange.com/api/agency?agency=rift-valley-railways",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "e5c2e7b4-5246-45fb-b17e-9432e2c83c4e",
+            "resource_type": "api"
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2013-12-11T10:45:15.997597",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "railway",
+            "name": "railway",
+            "revision_timestamp": "2013-12-11T10:45:15.997597",
+            "state": "active",
+            "id": "8051d50e-37c2-4e81-8e03-e2abdfef56f7"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "rift valley",
+            "name": "rift valley",
+            "revision_timestamp": "2013-12-11T10:45:15.997597",
+            "state": "active",
+            "id": "6bad7eca-bc78-4e8c-88b1-2946830172fb"
+        }
+    ],
+    "tracking_summary": {
+        "total": 180,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "rift-valley-railways-data",
+    "isopen": false,
+    "url": null,
+    "notes": "This GTFS data for Rift Valley Railways Kenya has been developed by the Nairobi Mobility Team through a collaboration between University of Nairobi School of Computing & Informatics, Columbia University CSUD, MIT Civic Data Design Lab and Groupshot, and has been supported by The Rockefeller Foundation.\r\n\r\nFind about more here: http://www.gtfs-data-exchange.com/agency/rift-valley-railways/",
+    "title": "Rift Valley Railways data",
+    "extras": [],
+    "organization": null,
+    "revision_id": "2be5b474-8583-4b6e-819d-227f6ae28bac"
+}

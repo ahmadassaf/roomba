@@ -1,0 +1,133 @@
+{
+    "missing": [
+        "organization"
+    ],
+    "undefined": [
+        "url",
+        "owner_org"
+    ],
+    "unreachableURLs": [],
+    "report": [
+        "url field exists but there is no value defined",
+        "owner_org field exists but there is no value defined",
+        "organization information is missing"
+    ],
+    "tag": {
+        "ontwikkeling\n": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "ordening": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "plannen": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "ruimtelijk": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "ruimtelijke": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        }
+    },
+    "group": {
+        "Stedelijke ontwikkeling": {
+            "missing": [
+                "display_name",
+                "image_display_url"
+            ],
+            "undefined": [
+                "description"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "display_name field is missing",
+                "description field exists but there is no value defined",
+                "image_display_url field is missing"
+            ]
+        }
+    },
+    "license": {
+        "license": {
+            "missing": [
+                "license_url"
+            ],
+            "undefined": [],
+            "unreachableURLs": [],
+            "report": [
+                "license_url field is missing",
+                "We could not normalize the license information as no valid mapping was found !"
+            ]
+        }
+    },
+    "resource": {
+        "http://maps.amsterdam.nl/open_geodata/": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "webstore_url",
+                "last_modified"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined"
+            ]
+        }
+    },
+    "counter": {
+        "group": 1,
+        "tag": 5,
+        "resource": 1
+    }
+}

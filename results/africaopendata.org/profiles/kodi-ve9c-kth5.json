@@ -1,0 +1,138 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Kenya Open Data Bot",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T12:00:41.234320",
+    "id": "29112c49-8a58-4764-b7e5-b8b16027889e",
+    "metadata_created": "2012-09-10T12:00:41.234320",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:16:14.937455",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "210ff2ca-292b-489b-a147-9d6c545d3861",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:16:14.937455",
+            "webstore_last_updated": "2013-10-10T12:16:14.867518",
+            "id": "ce939096-7e14-46a0-957d-dfff544cfca8",
+            "size": "171",
+            "state": "active",
+            "hash": "5934061fae0f23382cc5cca170141ce0de673d8d",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "County Urbanization: Kilifi.csv",
+            "created": "2012-09-11T13:32:35.023886",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T153516/ve9c-kth5.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-13T22:34:43.018628",
+            "position": 0,
+            "revision_id": "2600bffa-a9d8-4ac9-87de-dd8a4284a6f0",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "county",
+            "name": "county",
+            "revision_timestamp": "2012-09-10T12:00:41.234320",
+            "state": "active",
+            "id": "858f3acf-2c66-4fd9-9dc2-32e4f12121a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T12:00:41.234320",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T12:00:41.234320",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population",
+            "name": "population",
+            "revision_timestamp": "2012-09-10T12:00:41.234320",
+            "state": "active",
+            "id": "c5e39de5-556e-4bcb-883b-5b9ec2481ae9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "urbanisation",
+            "name": "urbanisation",
+            "revision_timestamp": "2012-09-10T12:00:41.234320",
+            "state": "active",
+            "id": "0a352ac2-4503-4c03-8962-ef4f605e793e"
+        }
+    ],
+    "tracking_summary": {
+        "total": 66,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "kodi-ve9c-kth5",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Census population by rural, urban, County estimates",
+    "title": "County Urbanization: Kilifi",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "b58e908a-996c-4974-86f5-060ef4d53592",
+                "package_id": "29112c49-8a58-4764-b7e5-b8b16027889e"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "b58e908a-996c-4974-86f5-060ef4d53592",
+                "package_id": "29112c49-8a58-4764-b7e5-b8b16027889e"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "b58e908a-996c-4974-86f5-060ef4d53592",
+                "package_id": "29112c49-8a58-4764-b7e5-b8b16027889e"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "b58e908a-996c-4974-86f5-060ef4d53592"
+}

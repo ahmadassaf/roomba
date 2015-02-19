@@ -1,0 +1,138 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "geekmate",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-09T17:11:45.092704",
+    "id": "e337d5bb-1477-4323-8c71-c1ae74b90817",
+    "metadata_created": "2012-09-09T17:11:45.092704",
+    "owner_org": null,
+    "metadata_modified": "2013-03-14T10:42:12.129760",
+    "author": "geekmate",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "66b9eda3-e672-40b3-8690-7ddce23983dd",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-14T10:42:12.129760",
+            "webstore_last_updated": null,
+            "id": "d915c80d-5cd4-46f7-9e7a-c5102b785d2e",
+            "size": "108",
+            "state": "active",
+            "hash": "c88b54bd40e5d45da38d3c55c5873c4e984bba9f",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 3,
+                "recent": 3
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Kenya County Fact Sheets Dec 2011.csv",
+            "created": "2012-09-11T13:25:21.767112",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T152806/zn6m-25cf.csv",
+            "webstore_url": null,
+            "last_modified": "2013-03-14T10:42:12.035488",
+            "position": 0,
+            "revision_id": "6f1d5350-53a4-49ef-8632-883a8917550e",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "county",
+            "name": "county",
+            "revision_timestamp": "2012-09-09T17:11:45.092704",
+            "state": "active",
+            "id": "858f3acf-2c66-4fd9-9dc2-32e4f12121a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "fact",
+            "name": "fact",
+            "revision_timestamp": "2012-09-09T17:11:45.092704",
+            "state": "active",
+            "id": "80a527d5-0af3-49a5-82bd-6c64bdf438b2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-09T17:11:45.092704",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-09T17:11:45.092704",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "sheets",
+            "name": "sheets",
+            "revision_timestamp": "2012-09-09T17:11:45.092704",
+            "state": "active",
+            "id": "179e4f5c-2cd4-40ee-a3df-36a67caae489"
+        }
+    ],
+    "tracking_summary": {
+        "total": 90,
+        "recent": 5
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "kodi-zn6m-25cf",
+    "isopen": true,
+    "url": "http://www.crakenya.org",
+    "notes": null,
+    "title": "Kenya County Fact Sheets Dec 2011",
+    "extras": [
+        {
+            "value": "Commission on Revenue Allocation (CRA)",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "733ee071-0409-4926-a1ba-458e3bd2cc75",
+                "package_id": "e337d5bb-1477-4323-8c71-c1ae74b90817"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "733ee071-0409-4926-a1ba-458e3bd2cc75",
+                "package_id": "e337d5bb-1477-4323-8c71-c1ae74b90817"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "733ee071-0409-4926-a1ba-458e3bd2cc75",
+                "package_id": "e337d5bb-1477-4323-8c71-c1ae74b90817"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "733ee071-0409-4926-a1ba-458e3bd2cc75"
+}

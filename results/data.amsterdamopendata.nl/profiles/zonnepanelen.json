@@ -1,0 +1,171 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2014-05-12T16:47:01.677532",
+    "id": "e99236ac-0fc2-49c7-ba5c-d63a8c5c81c1",
+    "metadata_created": "2014-05-12T16:47:01.677532",
+    "owner_org": null,
+    "metadata_modified": "2014-05-12T16:47:01.677532",
+    "author": "Dienst Ruimtelijke Ordening (DRO)",
+    "author_email": "info@dro.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "711e2dcd-d4d8-4fee-abe7-a5c2f27ab8d1",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-05-12T16:47:01.677532",
+            "webstore_last_updated": null,
+            "id": "aabeea7e-d7cd-4e3f-bb69-d5343a5d3adc",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "KML, downloaden via maps.amsterdam.nl",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://maps.amsterdam.nl/open_geodata/",
+            "created": "2014-05-12T18:47:01.737322",
+            "url": "http://maps.amsterdam.nl/open_geodata/",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "1b6ba085-82be-4a87-9da6-2c7c3c350ae4",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "potentie",
+            "name": "potentie",
+            "revision_timestamp": "2014-05-12T16:47:01.677532",
+            "state": "active",
+            "id": "54e7c102-adb6-4b73-8347-abafdc188bd9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "zonatlas",
+            "name": "zonatlas",
+            "revision_timestamp": "2014-05-12T16:47:01.677532",
+            "state": "active",
+            "id": "e7961fb1-235b-4919-b184-2eabbed71dd0"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "zonne-energie",
+            "name": "zonne-energie",
+            "revision_timestamp": "2014-05-12T16:47:01.677532",
+            "state": "active",
+            "id": "9d019991-23f4-4127-843b-2e0e0d201199"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "zonnepanelen",
+            "name": "zonnepanelen",
+            "revision_timestamp": "2014-05-12T16:47:01.677532",
+            "state": "active",
+            "id": "47a30948-b902-45bb-a442-eda09843f82c"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Energie",
+            "description": "",
+            "name": "energie",
+            "id": "14dc43ca-3c44-4ecb-8580-bb02b51ec950"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "zonnepanelen",
+    "isopen": true,
+    "url": null,
+    "notes": "In dit bestand zijn de bestaande zonnepanelen in Amsterdam weergegeven. \n\nDaarnaast is ook de potentie van zonne-energie opgenomen. Dit bestand is gemaakt met behulp van de Zonatlas. Door het combineren van weerdata, de invallende zonnestraling, de hellingshoek van de daken en de schaduwsituatie is een zeer nauwkeurige indicatie van de geschiktheid van de daken voor zonne-energieopwekking te geven. De kaart is een bewerking van de Zonatlas-kaart en geeft de potentie per m2 grondoppervlak van de bebouwing weer.",
+    "title": "Zonnepanelen",
+    "extras": [
+        {
+            "value": "l.hakvoort@dro.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "e99236ac-0fc2-49c7-ba5c-d63a8c5c81c1",
+                "revision_id": "1b6ba085-82be-4a87-9da6-2c7c3c350ae4"
+            }
+        },
+        {
+            "value": "Laura Hakvoort",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "1b6ba085-82be-4a87-9da6-2c7c3c350ae4",
+                "package_id": "e99236ac-0fc2-49c7-ba5c-d63a8c5c81c1"
+            }
+        },
+        {
+            "value": "01/04/2014",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "1b6ba085-82be-4a87-9da6-2c7c3c350ae4",
+                "package_id": "e99236ac-0fc2-49c7-ba5c-d63a8c5c81c1"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "1b6ba085-82be-4a87-9da6-2c7c3c350ae4",
+                "package_id": "e99236ac-0fc2-49c7-ba5c-d63a8c5c81c1"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "e99236ac-0fc2-49c7-ba5c-d63a8c5c81c1",
+                "revision_id": "1b6ba085-82be-4a87-9da6-2c7c3c350ae4"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "e99236ac-0fc2-49c7-ba5c-d63a8c5c81c1",
+                "revision_id": "1b6ba085-82be-4a87-9da6-2c7c3c350ae4"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "1b6ba085-82be-4a87-9da6-2c7c3c350ae4",
+                "package_id": "e99236ac-0fc2-49c7-ba5c-d63a8c5c81c1"
+            }
+        },
+        {
+            "value": "http://maps.amsterdam.nl/energie_zonwind/",
+            "key": "website",
+            "__extras": {
+                "package_id": "e99236ac-0fc2-49c7-ba5c-d63a8c5c81c1",
+                "revision_id": "1b6ba085-82be-4a87-9da6-2c7c3c350ae4"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "1b6ba085-82be-4a87-9da6-2c7c3c350ae4"
+}

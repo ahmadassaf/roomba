@@ -1,0 +1,114 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Laban",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T14:00:38.069677",
+    "id": "77472b5b-287c-4558-a773-84d64e71e54c",
+    "metadata_created": "2012-09-11T14:00:38.069677",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T11:57:20.131231",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "719c08f6-6703-4711-a7a9-6be26842782f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T11:57:20.131231",
+            "webstore_last_updated": "2013-10-10T11:57:20.067523",
+            "id": "2a50c652-78a4-4279-8286-07006ff360b4",
+            "size": "107312",
+            "state": "active",
+            "hash": "7081d6e3ee12a0851abfb6cbb9b004578be8bcba",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Kaya kulingana na chanzo kuu cha maji na Wilaya.csv",
+            "created": "2012-09-11T14:00:38.101154",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T160323/idm8-tn4e.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:58:37.555838",
+            "position": 0,
+            "revision_id": "ca9f53c0-952d-41ac-afa7-d00e743029bd",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T14:00:38.069677",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T14:00:38.069677",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 54,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "kodi-idm8-tn4e",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "2009 Census: Households by main source of Water and District, Swahili Version",
+    "title": "Kaya kulingana na chanzo kuu cha maji na Wilaya",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "0b14c5e4-6c38-4ba4-8bee-f0b579a03ba1",
+                "package_id": "77472b5b-287c-4558-a773-84d64e71e54c"
+            }
+        },
+        {
+            "value": "Water",
+            "key": "category",
+            "__extras": {
+                "revision_id": "0b14c5e4-6c38-4ba4-8bee-f0b579a03ba1",
+                "package_id": "77472b5b-287c-4558-a773-84d64e71e54c"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "0b14c5e4-6c38-4ba4-8bee-f0b579a03ba1",
+                "package_id": "77472b5b-287c-4558-a773-84d64e71e54c"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "0b14c5e4-6c38-4ba4-8bee-f0b579a03ba1"
+}

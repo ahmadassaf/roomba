@@ -1,0 +1,667 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:34:19.392970",
+    "id": "ee1b9e49-c6db-4e2d-8463-73aa5da2e0bd",
+    "metadata_created": "2014-11-04T22:34:19.392970",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:52:18.023141",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "d6c30173-ee49-49f8-998f-e2ea25bb0866",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:52:18.023141",
+            "webstore_last_updated": null,
+            "id": "9e3401d9-bdff-443a-8aa4-da40999fde13",
+            "size": "20",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "3521e9cf12587dbebaa4fdc5e050a06f7333fb2e",
+            "description": "Online link to the 'Converted Wetlands 2001' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:52:44.361099",
+            "url": "http://maps.data.ug/layers/geonode:converted_wetlands_2001",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T15:10:22.766621",
+            "position": 0,
+            "revision_id": "0cb648c1-838e-4e12-9e99-fdbaf27c8a4a",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "d6c30173-ee49-49f8-998f-e2ea25bb0866",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:34:19.392970",
+            "webstore_last_updated": null,
+            "id": "a39bdf9d-6e78-411b-9ea4-0848ebe6ead3",
+            "size": "27024",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Converted Wetlands 2001 (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "converted_wetlands_2001.jpg",
+            "created": "2014-03-12T14:52:44.361131",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Aconverted_wetlands_2001&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "2898de09-9b5e-4e59-9b77-d4cb8a61bcf4",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "d6c30173-ee49-49f8-998f-e2ea25bb0866",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:34:19.392970",
+            "webstore_last_updated": null,
+            "id": "bee2d4d8-5810-464e-b41d-45a6986705a8",
+            "size": "26062",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Converted Wetlands 2001 (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "converted_wetlands_2001.pdf",
+            "created": "2014-03-12T14:52:44.361140",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Aconverted_wetlands_2001&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "2898de09-9b5e-4e59-9b77-d4cb8a61bcf4",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "d6c30173-ee49-49f8-998f-e2ea25bb0866",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:34:19.392970",
+            "webstore_last_updated": null,
+            "id": "49166f7d-4ab2-40f5-9866-80722cb5c2fc",
+            "size": "40705",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Converted Wetlands 2001 (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "converted_wetlands_2001.png",
+            "created": "2014-03-12T14:52:44.361148",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Aconverted_wetlands_2001&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "2898de09-9b5e-4e59-9b77-d4cb8a61bcf4",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "d6c30173-ee49-49f8-998f-e2ea25bb0866",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:34:19.392970",
+            "webstore_last_updated": null,
+            "id": "457c8f5b-4983-4585-9001-2ec2fc1d782b",
+            "size": "102149",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Converted Wetlands 2001 (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "converted_wetlands_2001.zip",
+            "created": "2014-03-12T14:52:44.361155",
+            "url": "http://maps.data.ug/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Aconverted_wetlands_2001&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 4,
+            "revision_id": "2898de09-9b5e-4e59-9b77-d4cb8a61bcf4",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "d6c30173-ee49-49f8-998f-e2ea25bb0866",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:34:19.392970",
+            "webstore_last_updated": null,
+            "id": "391be923-4192-499f-b934-b52726c87238",
+            "size": "219504",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Converted Wetlands 2001 (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "converted_wetlands_2001.gml",
+            "created": "2014-03-12T14:52:44.361163",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Aconverted_wetlands_2001&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 5,
+            "revision_id": "2898de09-9b5e-4e59-9b77-d4cb8a61bcf4",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "d6c30173-ee49-49f8-998f-e2ea25bb0866",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:34:19.392970",
+            "webstore_last_updated": null,
+            "id": "ca045579-a184-463e-a6e6-e0ed054c3eca",
+            "size": "514",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Converted Wetlands 2001 (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "converted_wetlands_2001.gml",
+            "created": "2014-03-12T14:52:44.361170",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Aconverted_wetlands_2001&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 6,
+            "revision_id": "2898de09-9b5e-4e59-9b77-d4cb8a61bcf4",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "d6c30173-ee49-49f8-998f-e2ea25bb0866",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:34:19.392970",
+            "webstore_last_updated": null,
+            "id": "c34463fd-a911-4a6d-bd86-692c91e5d9e2",
+            "size": "296598",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Converted Wetlands 2001 (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "converted_wetlands_2001.csv",
+            "created": "2014-03-12T14:52:44.361178",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Aconverted_wetlands_2001&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 7,
+            "revision_id": "2898de09-9b5e-4e59-9b77-d4cb8a61bcf4",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "d6c30173-ee49-49f8-998f-e2ea25bb0866",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:34:19.392970",
+            "webstore_last_updated": null,
+            "id": "f7f96629-1c7d-47f4-a3f5-b2310b7bd084",
+            "size": "306688",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Converted Wetlands 2001 (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "converted_wetlands_2001.excel",
+            "created": "2014-03-12T14:52:44.361185",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Aconverted_wetlands_2001&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 8,
+            "revision_id": "2898de09-9b5e-4e59-9b77-d4cb8a61bcf4",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "d6c30173-ee49-49f8-998f-e2ea25bb0866",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:34:19.392970",
+            "webstore_last_updated": null,
+            "id": "93b97862-479a-45f2-b93d-a6f00fc191b3",
+            "size": "314669",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Converted Wetlands 2001 (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "converted_wetlands_2001.json",
+            "created": "2014-03-12T14:52:44.361193",
+            "url": "http://maps.data.ug/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Aconverted_wetlands_2001&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "2898de09-9b5e-4e59-9b77-d4cb8a61bcf4",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "d6c30173-ee49-49f8-998f-e2ea25bb0866",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:34:19.392970",
+            "webstore_last_updated": null,
+            "id": "cf872433-625f-492b-a3fe-d7d2feded73a",
+            "size": "332137",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Converted Wetlands 2001 (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "converted_wetlands_2001.kml",
+            "created": "2014-03-12T14:52:44.361200",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Aconverted_wetlands_2001&mode=download",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 10,
+            "revision_id": "2898de09-9b5e-4e59-9b77-d4cb8a61bcf4",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "d6c30173-ee49-49f8-998f-e2ea25bb0866",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:34:19.392970",
+            "webstore_last_updated": null,
+            "id": "7728c7a2-bde1-486b-89f2-7ce7b0d5d88b",
+            "size": "1866",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Converted Wetlands 2001 (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "converted_wetlands_2001.kml",
+            "created": "2014-03-12T14:52:44.361215",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Aconverted_wetlands_2001&mode=refresh",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 11,
+            "revision_id": "2898de09-9b5e-4e59-9b77-d4cb8a61bcf4",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "d6c30173-ee49-49f8-998f-e2ea25bb0866",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:34:19.392970",
+            "webstore_last_updated": null,
+            "id": "b5730e22-9c1a-4345-b496-59a715a5c7b3",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Converted Wetlands 2001 (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "converted_wetlands_2001.tiles",
+            "created": "2014-03-12T14:52:44.361223",
+            "url": "http://maps.data.ug/geoserver/gwc/service/gmaps?layers=geonode:converted_wetlands_2001&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 12,
+            "revision_id": "2898de09-9b5e-4e59-9b77-d4cb8a61bcf4",
+            "resource_type": null
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:34:19.392970",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:34:19.392970",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:34:19.392970",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:34:19.392970",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:34:19.392970",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:34:19.392970",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 2,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "converted-wetlands-2001",
+    "isopen": false,
+    "url": null,
+    "notes": "No abstract provided",
+    "title": "Converted Wetlands 2001",
+    "extras": [
+        {
+            "value": "[\"None\"]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "2898de09-9b5e-4e59-9b77-d4cb8a61bcf4",
+                "package_id": "ee1b9e49-c6db-4e2d-8463-73aa5da2e0bd"
+            }
+        },
+        {
+            "value": "35.0017411394",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "2898de09-9b5e-4e59-9b77-d4cb8a61bcf4",
+                "package_id": "ee1b9e49-c6db-4e2d-8463-73aa5da2e0bd"
+            }
+        },
+        {
+            "value": "4.2310114174",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "ee1b9e49-c6db-4e2d-8463-73aa5da2e0bd",
+                "revision_id": "2898de09-9b5e-4e59-9b77-d4cb8a61bcf4"
+            }
+        },
+        {
+            "value": "-1.4817440179",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "2898de09-9b5e-4e59-9b77-d4cb8a61bcf4",
+                "package_id": "ee1b9e49-c6db-4e2d-8463-73aa5da2e0bd"
+            }
+        },
+        {
+            "value": "29.5741674481",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "2898de09-9b5e-4e59-9b77-d4cb8a61bcf4",
+                "package_id": "ee1b9e49-c6db-4e2d-8463-73aa5da2e0bd"
+            }
+        },
+        {
+            "value": "katy@mountbatten.net",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "ee1b9e49-c6db-4e2d-8463-73aa5da2e0bd",
+                "revision_id": "2898de09-9b5e-4e59-9b77-d4cb8a61bcf4"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "ee1b9e49-c6db-4e2d-8463-73aa5da2e0bd",
+                "revision_id": "2898de09-9b5e-4e59-9b77-d4cb8a61bcf4"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-02-25T05:51:31Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "ee1b9e49-c6db-4e2d-8463-73aa5da2e0bd",
+                "revision_id": "2898de09-9b5e-4e59-9b77-d4cb8a61bcf4"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "ee1b9e49-c6db-4e2d-8463-73aa5da2e0bd",
+                "revision_id": "2898de09-9b5e-4e59-9b77-d4cb8a61bcf4"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Converted Wetlands 2001'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "ee1b9e49-c6db-4e2d-8463-73aa5da2e0bd",
+                "revision_id": "2898de09-9b5e-4e59-9b77-d4cb8a61bcf4"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "ee1b9e49-c6db-4e2d-8463-73aa5da2e0bd",
+                "revision_id": "2898de09-9b5e-4e59-9b77-d4cb8a61bcf4"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "2898de09-9b5e-4e59-9b77-d4cb8a61bcf4",
+                "package_id": "ee1b9e49-c6db-4e2d-8463-73aa5da2e0bd"
+            }
+        },
+        {
+            "value": "2ad65a04-9e13-11e3-9770-ab849cd0de74",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "2898de09-9b5e-4e59-9b77-d4cb8a61bcf4",
+                "package_id": "ee1b9e49-c6db-4e2d-8463-73aa5da2e0bd"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "2898de09-9b5e-4e59-9b77-d4cb8a61bcf4",
+                "package_id": "ee1b9e49-c6db-4e2d-8463-73aa5da2e0bd"
+            }
+        },
+        {
+            "value": "2014-02-25T05:51:31Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "ee1b9e49-c6db-4e2d-8463-73aa5da2e0bd",
+                "revision_id": "2898de09-9b5e-4e59-9b77-d4cb8a61bcf4"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "2898de09-9b5e-4e59-9b77-d4cb8a61bcf4",
+                "package_id": "ee1b9e49-c6db-4e2d-8463-73aa5da2e0bd"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "ee1b9e49-c6db-4e2d-8463-73aa5da2e0bd",
+                "revision_id": "2898de09-9b5e-4e59-9b77-d4cb8a61bcf4"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "ee1b9e49-c6db-4e2d-8463-73aa5da2e0bd",
+                "revision_id": "2898de09-9b5e-4e59-9b77-d4cb8a61bcf4"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "ee1b9e49-c6db-4e2d-8463-73aa5da2e0bd",
+                "revision_id": "2898de09-9b5e-4e59-9b77-d4cb8a61bcf4"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.5741674481, -1.4817440179], [35.0017411394, -1.4817440179], [35.0017411394, 4.2310114174], [29.5741674481, 4.2310114174], [29.5741674481, -1.4817440179]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "2898de09-9b5e-4e59-9b77-d4cb8a61bcf4",
+                "package_id": "ee1b9e49-c6db-4e2d-8463-73aa5da2e0bd"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "ee1b9e49-c6db-4e2d-8463-73aa5da2e0bd",
+                "revision_id": "2898de09-9b5e-4e59-9b77-d4cb8a61bcf4"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "2898de09-9b5e-4e59-9b77-d4cb8a61bcf4",
+                "package_id": "ee1b9e49-c6db-4e2d-8463-73aa5da2e0bd"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "2898de09-9b5e-4e59-9b77-d4cb8a61bcf4",
+                "package_id": "ee1b9e49-c6db-4e2d-8463-73aa5da2e0bd"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "2898de09-9b5e-4e59-9b77-d4cb8a61bcf4"
+}

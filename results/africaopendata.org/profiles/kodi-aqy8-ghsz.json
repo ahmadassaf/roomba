@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:46:58.421635",
+    "id": "cf65f6eb-3d4e-4c4e-8b32-f75c0cbda9a9",
+    "metadata_created": "2012-09-11T13:46:58.421635",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:11:12.454707",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "0ffb6964-6140-42e5-b392-ef986ca96c32",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:11:12.454707",
+            "webstore_last_updated": "2013-10-10T12:11:12.382396",
+            "id": "76c3b901-aaf2-4978-a182-17ea384b79ab",
+            "size": "4253",
+            "state": "active",
+            "hash": "90f9bedb3cbaa2090e5f2e62092b5281288b1fee",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Total Budgeted Expenditures, 2010/11 and 2011/12.csv",
+            "created": "2012-09-11T13:46:58.462090",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T154943/aqy8-ghsz.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-13T23:28:26.961748",
+            "position": 0,
+            "revision_id": "996f11ab-884e-467f-8440-7d4effa0c3f3",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:46:58.421635",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:46:58.421635",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "public finance",
+            "name": "public finance",
+            "revision_timestamp": "2012-09-11T13:46:58.421635",
+            "state": "active",
+            "id": "15c507a7-58b5-4614-9e3c-dcab3c19da95"
+        }
+    ],
+    "tracking_summary": {
+        "total": 63,
+        "recent": 5
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-aqy8-ghsz",
+    "isopen": true,
+    "url": "http://www.kenyalaw.org/klr/fileadmin/pdfdownloads/bills/2011/APPROPRIATIONBILL2011.doc",
+    "notes": "2010 and 2011 gross budget estimates Ksh",
+    "title": "Total Budgeted Expenditures, 2010/11 and 2011/12",
+    "extras": [
+        {
+            "value": "Kenya Law",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "07353b5d-298e-4840-b0b4-dae5974b4db7",
+                "package_id": "cf65f6eb-3d4e-4c4e-8b32-f75c0cbda9a9"
+            }
+        },
+        {
+            "value": "Public Finance",
+            "key": "category",
+            "__extras": {
+                "revision_id": "07353b5d-298e-4840-b0b4-dae5974b4db7",
+                "package_id": "cf65f6eb-3d4e-4c4e-8b32-f75c0cbda9a9"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "07353b5d-298e-4840-b0b4-dae5974b4db7",
+                "package_id": "cf65f6eb-3d4e-4c4e-8b32-f75c0cbda9a9"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "07353b5d-298e-4840-b0b4-dae5974b4db7"
+}

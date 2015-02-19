@@ -1,0 +1,171 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2013-05-16T12:07:33.415957",
+    "id": "b9a5370f-17d2-42f0-a7f5-08a3ee679567",
+    "metadata_created": "2013-05-16T12:07:33.415957",
+    "owner_org": null,
+    "metadata_modified": "2013-05-16T12:07:33.415957",
+    "author": "Ruimtelijke Ordening (DRO)",
+    "author_email": "info@dro.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "9bd8f147-533f-4e3f-a52b-c55afc3cb07d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-05-16T12:07:33.415957",
+            "webstore_last_updated": null,
+            "id": "db55c7c3-bfaa-47db-a058-8fb436a6aee1",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Toelichting voor download (Shapefiles)",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://maps.amsterdam.nl/open_geodata/",
+            "created": "2013-05-16T14:07:33.450166",
+            "url": "http://maps.amsterdam.nl/open_geodata/",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "63b88ce7-db88-4f96-a301-41053f1a2049",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "bodemkwaliteit",
+            "name": "bodemkwaliteit",
+            "revision_timestamp": "2013-05-16T12:07:33.415957",
+            "state": "active",
+            "id": "01fc78b5-730c-49fe-bba5-a9dff8a98d74"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "grond",
+            "name": "grond",
+            "revision_timestamp": "2013-05-16T12:07:33.415957",
+            "state": "active",
+            "id": "bc25cb60-b3c5-4d25-8df3-46fc48b1bc65"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "ordening\n",
+            "name": "ordening\n",
+            "revision_timestamp": "2013-05-16T12:07:33.415957",
+            "state": "active",
+            "id": "9cf12d4a-b681-4778-8b74-a3618184200b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "ruimtelijke",
+            "name": "ruimtelijke",
+            "revision_timestamp": "2013-05-16T12:07:33.415957",
+            "state": "active",
+            "id": "b5daf57f-08ab-4369-8e51-753d92967310"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Milieu & Water",
+            "description": "",
+            "name": "milieu-water",
+            "id": "0a8beb10-5eff-4ac4-8e01-8f210e3c2d97"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "bodemkwaliteit",
+    "isopen": false,
+    "url": null,
+    "notes": "\"De Bodemkwaliteitskaart geeft informatie over de diffuse bodemkwaliteit in zones.\nBinnen een zone is de gemiddelde kwaliteit min of meer gelijk, terwijl er tussen zones duidelijke verschillen in kwaliteit kunnen zijn.\nDe kaarten worden in Amsterdam gebruikt voor het bepalen van de mogelijkheden van hergebruik voor vrijkomende grond of gekeurde grond.\nZe zijn bedoeld voor iedereen die van plan is grond toe te passen in Amsterdam (stadsdelen, aannemers, adviesbureau's, etc.). \"\n",
+    "title": "Bodemkwaliteit",
+    "extras": [
+        {
+            "value": "info@dro.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "b9a5370f-17d2-42f0-a7f5-08a3ee679567",
+                "revision_id": "63b88ce7-db88-4f96-a301-41053f1a2049"
+            }
+        },
+        {
+            "value": "Ruimtelijke Ordening (DRO)",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "63b88ce7-db88-4f96-a301-41053f1a2049",
+                "package_id": "b9a5370f-17d2-42f0-a7f5-08a3ee679567"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "63b88ce7-db88-4f96-a301-41053f1a2049",
+                "package_id": "b9a5370f-17d2-42f0-a7f5-08a3ee679567"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "63b88ce7-db88-4f96-a301-41053f1a2049",
+                "package_id": "b9a5370f-17d2-42f0-a7f5-08a3ee679567"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "b9a5370f-17d2-42f0-a7f5-08a3ee679567",
+                "revision_id": "63b88ce7-db88-4f96-a301-41053f1a2049"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "b9a5370f-17d2-42f0-a7f5-08a3ee679567",
+                "revision_id": "63b88ce7-db88-4f96-a301-41053f1a2049"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "63b88ce7-db88-4f96-a301-41053f1a2049",
+                "package_id": "b9a5370f-17d2-42f0-a7f5-08a3ee679567"
+            }
+        },
+        {
+            "value": "http://maps.amsterdam.nl",
+            "key": "website",
+            "__extras": {
+                "package_id": "b9a5370f-17d2-42f0-a7f5-08a3ee679567",
+                "revision_id": "63b88ce7-db88-4f96-a301-41053f1a2049"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "63b88ce7-db88-4f96-a301-41053f1a2049"
+}

@@ -1,0 +1,130 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T14:01:46.184684",
+    "id": "a724d670-0afa-4028-b13e-0bb9a7350a5f",
+    "metadata_created": "2012-09-11T14:01:46.184684",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T11:56:50.517090",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "509822f9-c637-493b-89a5-035fb9f144c4",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T11:56:50.517090",
+            "webstore_last_updated": "2013-10-10T11:56:50.336859",
+            "id": "e6d13f35-1125-4a0d-b630-1cc20eedff83",
+            "size": "7474",
+            "state": "active",
+            "hash": "e76c24d06a20ebe3435cc2428fb54a90e3284336",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Vol II Jedwali 6:Kaya kulingana na aina ya kuta za makaazi makuu - 2009.csv",
+            "created": "2012-09-11T14:01:46.230924",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T160431/8uuh-cvfz.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:43:04.384816",
+            "position": 0,
+            "revision_id": "537f8517-8880-43d6-94a6-2cc1e1368ceb",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "census",
+            "name": "census",
+            "revision_timestamp": "2012-09-11T14:01:46.184684",
+            "state": "active",
+            "id": "ddb0e0e8-a185-4354-a375-3ad64ee35988"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "county",
+            "name": "county",
+            "revision_timestamp": "2012-09-11T14:01:46.184684",
+            "state": "active",
+            "id": "858f3acf-2c66-4fd9-9dc2-32e4f12121a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T14:01:46.184684",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T14:01:46.184684",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 64,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "kodi-8uuh-cvfz",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "2009 Census: Households by main type of wall material for the main dwelling unit, Swahili Version by County",
+    "title": "Vol II Jedwali 6:Kaya kulingana na aina ya kuta za makaazi makuu - 2009",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "39a0330f-4962-42e7-9a97-bd119235481f",
+                "package_id": "a724d670-0afa-4028-b13e-0bb9a7350a5f"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "39a0330f-4962-42e7-9a97-bd119235481f",
+                "package_id": "a724d670-0afa-4028-b13e-0bb9a7350a5f"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "39a0330f-4962-42e7-9a97-bd119235481f",
+                "package_id": "a724d670-0afa-4028-b13e-0bb9a7350a5f"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "39a0330f-4962-42e7-9a97-bd119235481f"
+}

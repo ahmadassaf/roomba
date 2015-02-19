@@ -1,0 +1,97 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-06-12T13:18:45.685738",
+    "id": "0c463a6e-3ed3-4b9f-abf1-9f4ed606bf47",
+    "metadata_created": "2013-06-12T13:17:11.789669",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:45:29.953227",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "b4c96033-ca2a-4d6b-84d6-2956a61fbd7b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:45:29.953227",
+            "webstore_last_updated": "2013-10-10T10:45:29.880890",
+            "id": "15aa75cc-2804-406d-9e22-5d62aa4f2dc4",
+            "size": "61478",
+            "state": "active",
+            "hash": "adf5347a54c3aef3c6439c22d9085670aa8f78f3",
+            "description": "Exchange Rates for Malawi 1948 - 2009",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "UNdata_Export_20130612_091751506[1].csv",
+            "created": "2013-06-12T13:18:34.612543",
+            "url": "http://africaopendata.org/storage/f/2013-06-12T13%3A18%3A33.540Z/undata-export-20130612-091751506-1.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-10-10T10:45:26.816799",
+            "position": 0,
+            "revision_id": "a5f4a598-74c6-48a2-af39-3d80e0259afd",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Exchange Rates",
+            "name": "Exchange Rates",
+            "revision_timestamp": "2013-06-12T13:17:11.789669",
+            "state": "active",
+            "id": "7c25eaca-c27e-4fcf-9d95-8dee2bf94415"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "ecnomy",
+            "name": "ecnomy",
+            "revision_timestamp": "2013-06-12T13:17:11.789669",
+            "state": "active",
+            "id": "4ff5fdaa-e9b9-4133-b355-205c8647f956"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "malawi",
+            "name": "malawi",
+            "revision_timestamp": "2013-06-12T13:17:11.789669",
+            "state": "active",
+            "id": "ad1d9bf2-beed-43ab-b1c3-f78edce06470"
+        }
+    ],
+    "tracking_summary": {
+        "total": 76,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Malawi",
+            "description": "Datasets from the Republic of Malawi",
+            "name": "malawi",
+            "id": "e599803f-e43a-43c4-af6c-40b55a56f2ad"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "malawi-exchange-rate-1948-2009",
+    "isopen": false,
+    "url": null,
+    "notes": "Exchange Rates 1948 - 2009",
+    "title": "Malawi Exchange Rate 1948 - 2009",
+    "extras": [],
+    "organization": null,
+    "revision_id": "67de4826-7be9-459b-8685-03fcdb499190"
+}

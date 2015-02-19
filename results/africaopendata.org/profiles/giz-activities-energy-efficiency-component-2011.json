@@ -1,0 +1,487 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:35:05.304042",
+    "id": "fa60a85f-264e-43d2-8595-63b8412c9843",
+    "metadata_created": "2014-11-04T22:35:05.304042",
+    "owner_org": null,
+    "metadata_modified": "2014-11-04T22:35:05.304042",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "edcacfc8-5e9d-4af3-a3e1-c9d701ffe53d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:35:05.304042",
+            "webstore_last_updated": null,
+            "id": "6284e469-8fe9-46f2-a3be-cf7dbaecf511",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Giz Activities Energy Efficiency Component 2011 (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "giz_activities_energy_efficiency_component_2011.tiles",
+            "created": "2014-03-12T14:51:48.870886",
+            "url": "http://geoclean.mountbatten.net/geoserver/gwc/service/gmaps?layers=geonode:giz_activities_energy_efficiency_component_2011&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "0af18108-7bc8-4aeb-9998-640ac5860d1a",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "edcacfc8-5e9d-4af3-a3e1-c9d701ffe53d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:35:05.304042",
+            "webstore_last_updated": null,
+            "id": "735bfc29-117d-4cae-8c6f-c21e255871f0",
+            "size": "465",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Giz Activities Energy Efficiency Component 2011 (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "giz_activities_energy_efficiency_component_2011.excel",
+            "created": "2014-03-12T14:51:48.870902",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Agiz_activities_energy_efficiency_component_2011&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:57:25.089452",
+            "position": 1,
+            "revision_id": "0af18108-7bc8-4aeb-9998-640ac5860d1a",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "edcacfc8-5e9d-4af3-a3e1-c9d701ffe53d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:35:05.304042",
+            "webstore_last_updated": null,
+            "id": "ab34d12c-f3ff-46f2-8b31-c02ccaa7b593",
+            "size": "465",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Giz Activities Energy Efficiency Component 2011 (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "giz_activities_energy_efficiency_component_2011.csv",
+            "created": "2014-03-12T14:51:48.870906",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Agiz_activities_energy_efficiency_component_2011&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:57:27.525210",
+            "position": 2,
+            "revision_id": "0af18108-7bc8-4aeb-9998-640ac5860d1a",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "edcacfc8-5e9d-4af3-a3e1-c9d701ffe53d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:35:05.304042",
+            "webstore_last_updated": null,
+            "id": "09c42ad6-5513-4e8c-a02f-dbaaa3ea3d05",
+            "size": "465",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "23ddc5887e22565f4f5152da3e1974d8a665d6c5",
+            "description": "Giz Activities Energy Efficiency Component 2011 (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "giz_activities_energy_efficiency_component_2011.gml",
+            "created": "2014-03-12T14:51:48.870913",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Agiz_activities_energy_efficiency_component_2011&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:57:24.437317",
+            "position": 3,
+            "revision_id": "0af18108-7bc8-4aeb-9998-640ac5860d1a",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "edcacfc8-5e9d-4af3-a3e1-c9d701ffe53d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:35:05.304042",
+            "webstore_last_updated": null,
+            "id": "6e7b3261-b2c3-42a2-8888-c5b8ab138981",
+            "size": "465",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Giz Activities Energy Efficiency Component 2011 (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "giz_activities_energy_efficiency_component_2011.zip",
+            "created": "2014-03-12T14:51:48.870916",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Agiz_activities_energy_efficiency_component_2011&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:57:27.206929",
+            "position": 4,
+            "revision_id": "0af18108-7bc8-4aeb-9998-640ac5860d1a",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "edcacfc8-5e9d-4af3-a3e1-c9d701ffe53d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:35:05.304042",
+            "webstore_last_updated": null,
+            "id": "49c95bf0-4b93-456c-8e0e-582c90204d29",
+            "size": "473",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Giz Activities Energy Efficiency Component 2011 (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "giz_activities_energy_efficiency_component_2011.pdf",
+            "created": "2014-03-12T14:51:48.870923",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms?layers=geonode%3Agiz_activities_energy_efficiency_component_2011&width=809&bbox=30.0804187470179%2C-0.610851068714711%2C34.3311020532479%2C2.27828793766193&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 5,
+            "revision_id": "0af18108-7bc8-4aeb-9998-640ac5860d1a",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "edcacfc8-5e9d-4af3-a3e1-c9d701ffe53d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:35:05.304042",
+            "webstore_last_updated": null,
+            "id": "2a27554a-5c47-4201-83ce-61fa44171659",
+            "size": "473",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Giz Activities Energy Efficiency Component 2011 (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "giz_activities_energy_efficiency_component_2011.jpg",
+            "created": "2014-03-12T14:51:48.870926",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms?layers=geonode%3Agiz_activities_energy_efficiency_component_2011&width=809&bbox=30.0804187470179%2C-0.610851068714711%2C34.3311020532479%2C2.27828793766193&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 6,
+            "revision_id": "0af18108-7bc8-4aeb-9998-640ac5860d1a",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 7,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:35:05.304042",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:35:05.304042",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:35:05.304042",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:35:05.304042",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:35:05.304042",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:35:05.304042",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 8,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "giz-activities-energy-efficiency-component-2011",
+    "isopen": false,
+    "url": null,
+    "notes": "No abstract provided",
+    "title": "Giz Activities Energy Efficiency Component 2011",
+    "extras": [
+        {
+            "value": "[\"None\"]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "0af18108-7bc8-4aeb-9998-640ac5860d1a",
+                "package_id": "fa60a85f-264e-43d2-8595-63b8412c9843"
+            }
+        },
+        {
+            "value": "34.3311020532",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "0af18108-7bc8-4aeb-9998-640ac5860d1a",
+                "package_id": "fa60a85f-264e-43d2-8595-63b8412c9843"
+            }
+        },
+        {
+            "value": "2.2782879377",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "revision_id": "0af18108-7bc8-4aeb-9998-640ac5860d1a",
+                "package_id": "fa60a85f-264e-43d2-8595-63b8412c9843"
+            }
+        },
+        {
+            "value": "-0.6108510687",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "package_id": "fa60a85f-264e-43d2-8595-63b8412c9843",
+                "revision_id": "0af18108-7bc8-4aeb-9998-640ac5860d1a"
+            }
+        },
+        {
+            "value": "30.0804187470",
+            "key": "bbox-west-long",
+            "__extras": {
+                "package_id": "fa60a85f-264e-43d2-8595-63b8412c9843",
+                "revision_id": "0af18108-7bc8-4aeb-9998-640ac5860d1a"
+            }
+        },
+        {
+            "value": "martin.kretschmer@giz.de",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "fa60a85f-264e-43d2-8595-63b8412c9843",
+                "revision_id": "0af18108-7bc8-4aeb-9998-640ac5860d1a"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "revision_id": "0af18108-7bc8-4aeb-9998-640ac5860d1a",
+                "package_id": "fa60a85f-264e-43d2-8595-63b8412c9843"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-02-18T10:32:24Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "fa60a85f-264e-43d2-8595-63b8412c9843",
+                "revision_id": "0af18108-7bc8-4aeb-9998-640ac5860d1a"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "revision_id": "0af18108-7bc8-4aeb-9998-640ac5860d1a",
+                "package_id": "fa60a85f-264e-43d2-8595-63b8412c9843"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Giz Activities Energy Efficiency Component 2011'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "fa60a85f-264e-43d2-8595-63b8412c9843",
+                "revision_id": "0af18108-7bc8-4aeb-9998-640ac5860d1a"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "fa60a85f-264e-43d2-8595-63b8412c9843",
+                "revision_id": "0af18108-7bc8-4aeb-9998-640ac5860d1a"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "0af18108-7bc8-4aeb-9998-640ac5860d1a",
+                "package_id": "fa60a85f-264e-43d2-8595-63b8412c9843"
+            }
+        },
+        {
+            "value": "e746d57a-98b8-11e3-bdd0-ede6a93d9f04",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "0af18108-7bc8-4aeb-9998-640ac5860d1a",
+                "package_id": "fa60a85f-264e-43d2-8595-63b8412c9843"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "package_id": "fa60a85f-264e-43d2-8595-63b8412c9843",
+                "revision_id": "0af18108-7bc8-4aeb-9998-640ac5860d1a"
+            }
+        },
+        {
+            "value": "2014-02-18T10:32:24Z",
+            "key": "metadata-date",
+            "__extras": {
+                "revision_id": "0af18108-7bc8-4aeb-9998-640ac5860d1a",
+                "package_id": "fa60a85f-264e-43d2-8595-63b8412c9843"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "0af18108-7bc8-4aeb-9998-640ac5860d1a",
+                "package_id": "fa60a85f-264e-43d2-8595-63b8412c9843"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "fa60a85f-264e-43d2-8595-63b8412c9843",
+                "revision_id": "0af18108-7bc8-4aeb-9998-640ac5860d1a"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "revision_id": "0af18108-7bc8-4aeb-9998-640ac5860d1a",
+                "package_id": "fa60a85f-264e-43d2-8595-63b8412c9843"
+            }
+        },
+        {
+            "value": "[{\"name\": \"GIZ\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "revision_id": "0af18108-7bc8-4aeb-9998-640ac5860d1a",
+                "package_id": "fa60a85f-264e-43d2-8595-63b8412c9843"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[30.080418747, -0.6108510687], [34.3311020532, -0.6108510687], [34.3311020532, 2.2782879377], [30.080418747, 2.2782879377], [30.080418747, -0.6108510687]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "0af18108-7bc8-4aeb-9998-640ac5860d1a",
+                "package_id": "fa60a85f-264e-43d2-8595-63b8412c9843"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "fa60a85f-264e-43d2-8595-63b8412c9843",
+                "revision_id": "0af18108-7bc8-4aeb-9998-640ac5860d1a"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "0af18108-7bc8-4aeb-9998-640ac5860d1a",
+                "package_id": "fa60a85f-264e-43d2-8595-63b8412c9843"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "package_id": "fa60a85f-264e-43d2-8595-63b8412c9843",
+                "revision_id": "0af18108-7bc8-4aeb-9998-640ac5860d1a"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "0af18108-7bc8-4aeb-9998-640ac5860d1a"
+}

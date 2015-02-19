@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:47:17.875300",
+    "id": "a279c36d-42f8-4403-bd98-dffd3b982116",
+    "metadata_created": "2012-09-11T13:47:17.875300",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:11:06.905077",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "b073510c-03c6-4564-86f2-3b47fcd23002",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:11:06.905077",
+            "webstore_last_updated": "2013-10-10T12:11:06.737601",
+            "id": "6cbb981a-0286-4731-98a1-7ad06ccadf09",
+            "size": "2616",
+            "state": "active",
+            "hash": "b1d24415f6e9bb24a3f86ce3dcbbdf07ad803e8a",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Proportion of Parcels Operated by Owners with Title Deed by county - 2005/6.csv",
+            "created": "2012-09-11T13:47:17.913180",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155002/5im7-udpm.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:13:31.520509",
+            "position": 0,
+            "revision_id": "0e326341-372b-494a-8ee6-77bfd536f540",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "county economy kihbs",
+            "name": "county economy kihbs",
+            "revision_timestamp": "2012-09-11T13:47:17.875300",
+            "state": "active",
+            "id": "23626cb4-d78a-4a67-a4a7-7305bf3cd3df"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:47:17.875300",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:47:17.875300",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 62,
+        "recent": 6
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-5im7-udpm",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "2005/6 KIHBS Table 9.4: Proportion of Parcels Operated by Owners with Title Deed County Estimates",
+    "title": "Proportion of Parcels Operated by Owners with Title Deed by county - 2005/6",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "bd4d45cb-16a1-458a-947e-ca5205f2adf1",
+                "package_id": "a279c36d-42f8-4403-bd98-dffd3b982116"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "bd4d45cb-16a1-458a-947e-ca5205f2adf1",
+                "package_id": "a279c36d-42f8-4403-bd98-dffd3b982116"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "bd4d45cb-16a1-458a-947e-ca5205f2adf1",
+                "package_id": "a279c36d-42f8-4403-bd98-dffd3b982116"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "bd4d45cb-16a1-458a-947e-ca5205f2adf1"
+}

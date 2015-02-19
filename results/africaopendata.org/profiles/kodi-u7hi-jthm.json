@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:56:30.507001",
+    "id": "f3f4f5fa-bfba-44a5-8b8f-dda81c58126f",
+    "metadata_created": "2012-09-11T13:56:30.507001",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:03:07.250157",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "2d2c17f6-ba82-4fad-be2e-02916f765b91",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:03:07.250157",
+            "webstore_last_updated": "2013-10-10T12:03:07.179119",
+            "id": "a53c0bfb-c1c1-41e7-89cc-11a807371459",
+            "size": "6827",
+            "state": "active",
+            "hash": "1d1cc80a0d28bc31efa8907a864e746f60b86bbb",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "2009 Census Volume II Table 5: Households by main type of Roofing Material for the main dwelling unit county estimates.csv",
+            "created": "2012-09-11T13:56:30.545015",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155915/u7hi-jthm.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T10:43:20.998909",
+            "position": 0,
+            "revision_id": "1f3289d6-8b83-42cf-86b9-5128123bdaf8",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "county housing census",
+            "name": "county housing census",
+            "revision_timestamp": "2012-09-11T13:56:30.507001",
+            "state": "active",
+            "id": "df1c83d9-f36c-42c8-bdbc-a3f8c93dd594"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:56:30.507001",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:56:30.507001",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 58,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-u7hi-jthm",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "2009 Census Volume II Table 5 Households by main type of Roofing Material for the main dwelling unit county estimates",
+    "title": "2009 Census Volume II Table 5: Households by main type of Roofing Material for the main dwelling unit county estimates",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "42972299-6c02-41fa-928f-848bac919eed",
+                "package_id": "f3f4f5fa-bfba-44a5-8b8f-dda81c58126f"
+            }
+        },
+        {
+            "value": "Poverty",
+            "key": "category",
+            "__extras": {
+                "revision_id": "42972299-6c02-41fa-928f-848bac919eed",
+                "package_id": "f3f4f5fa-bfba-44a5-8b8f-dda81c58126f"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "42972299-6c02-41fa-928f-848bac919eed",
+                "package_id": "f3f4f5fa-bfba-44a5-8b8f-dda81c58126f"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "42972299-6c02-41fa-928f-848bac919eed"
+}

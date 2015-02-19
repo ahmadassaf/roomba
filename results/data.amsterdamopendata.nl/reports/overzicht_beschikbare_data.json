@@ -1,0 +1,292 @@
+{
+    "missing": [
+        "organization"
+    ],
+    "undefined": [
+        "url",
+        "owner_org",
+        "version"
+    ],
+    "unreachableURLs": [],
+    "report": [
+        "url field exists but there is no value defined",
+        "owner_org field exists but there is no value defined",
+        "organization information is missing",
+        "version field exists but there is no value defined"
+    ],
+    "tag": {
+        "API": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "catalogus": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "csv": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "data": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "excel": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "meta": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "metadata": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "open": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "overzicht": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        }
+    },
+    "group": {
+        "Dienstverlening": {
+            "missing": [
+                "display_name",
+                "image_display_url"
+            ],
+            "undefined": [
+                "description"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "display_name field is missing",
+                "description field exists but there is no value defined",
+                "image_display_url field is missing"
+            ]
+        }
+    },
+    "license": {
+        "license": {
+            "missing": [],
+            "undefined": [],
+            "unreachableURLs": [],
+            "report": [
+                "License information has been normalized !"
+            ]
+        }
+    },
+    "resource": {
+        "http://www.amsterdamopendata.nl/files/data-onderwerpen.csv": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "webstore_url"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined"
+            ]
+        },
+        "http://www.amsterdamopendata.nl/files/data-datasets.csv": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "webstore_url",
+                "last_modified"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined"
+            ]
+        },
+        "http://docs.ckan.org/en/latest/": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "webstore_url",
+                "last_modified"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined"
+            ]
+        },
+        "http://data.amsterdamopendata.nl/api/3/action/package_list": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "webstore_url",
+                "last_modified"
+            ],
+            "unreachableURLs": [
+                "http://data.amsterdamopendata.nl/api/3/action/package_list"
+            ],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined",
+                "The url for this resource is not reachable !"
+            ],
+            "unreachableTypes": {
+                "api": "http://data.amsterdamopendata.nl/api/3/action/package_list"
+            }
+        },
+        "http://data.amsterdamopendata.nl/api/search/dataset?all_fields=1&offset=0&limit=1000": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "webstore_url",
+                "last_modified"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined"
+            ]
+        }
+    },
+    "counter": {
+        "group": 1,
+        "tag": 9,
+        "resource": 5
+    }
+}

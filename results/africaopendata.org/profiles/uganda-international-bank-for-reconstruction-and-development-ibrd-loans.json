@@ -1,0 +1,97 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-11-07T09:35:35.098908",
+    "id": "34b82744-1cef-4f5f-ab81-c54a4c2156b7",
+    "metadata_created": "2012-11-07T09:34:25.557939",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:55:56.351402",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "a41b3fd9-aaca-41b4-8e06-ccc7886cf349",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:55:56.351402",
+            "webstore_last_updated": "2013-10-10T10:55:56.287686",
+            "id": "0e1bf5f0-39b9-46cc-a675-bd4ee91b110d",
+            "size": "213092",
+            "state": "active",
+            "hash": "68e5e5d4dcdfd13a3436cca328304ff791f0fb7d",
+            "description": "The International Bank for Reconstruction and Development (IBRD) loans are public and publicly guaranteed debt extended by the World Bank Group. IBRD loans are made to, or guaranteed by, countries that are members of IBRD. IBRD may also make loans to IFC. IBRD lends at market rates. Data are in U.S. dollars calculated using historical rates. This dataset contains the latest available snapshot of the Statement of Loans. The World Bank complies with all sanctions applicable to World Bank transactions.",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "IBRD_Loans_Uganda.csv",
+            "created": "2012-11-07T09:35:30.463661",
+            "url": "http://africaopendata.org/storage/f/2012-11-07T09%3A35%3A23.667Z/ibrd-loans-uganda.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:34:52.222906",
+            "position": 0,
+            "revision_id": "e3841422-bde8-44f1-82d6-0c831c4c143e",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "finance",
+            "name": "finance",
+            "revision_timestamp": "2012-11-07T09:34:25.557939",
+            "state": "active",
+            "id": "03e21f21-04d8-4e9f-aa27-cd50d0b59c7c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "loans",
+            "name": "loans",
+            "revision_timestamp": "2012-11-07T09:34:25.557939",
+            "state": "active",
+            "id": "ab029346-93af-48b5-b680-6fedfc8b0fb3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2012-11-07T09:34:25.557939",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 70,
+        "recent": 8
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "uganda-international-bank-for-reconstruction-and-development-ibrd-loans",
+    "isopen": true,
+    "url": null,
+    "notes": "The International Bank for Reconstruction and Development (IBRD) loans are public and publicly guaranteed debt extended by the World Bank Group. IBRD loans are made to, or guaranteed by, countries that are members of IBRD. IBRD may also make loans to IFC. IBRD lends at market rates. Data are in U.S. dollars calculated using historical rates. This dataset contains the latest available snapshot of the Statement of Loans. The World Bank complies with all sanctions applicable to World Bank transactions.",
+    "title": "Uganda - International Bank for Reconstruction and Development (IBRD) loans",
+    "extras": [],
+    "organization": null,
+    "revision_id": "99a272ae-ac8f-413c-b62c-ee77fc241ed6"
+}

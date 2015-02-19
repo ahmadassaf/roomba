@@ -1,0 +1,195 @@
+{
+    "license_title": "CC0 1.0",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2014-03-13T16:38:07.361886",
+    "id": "cca438ba-b03f-4e54-a4e2-0768707b6e38",
+    "metadata_created": "2013-05-15T10:01:21.187854",
+    "owner_org": null,
+    "metadata_modified": "2014-03-13T16:38:07.361886",
+    "author": "Rijksdienst voor Cultureel Erfgoed",
+    "author_email": "info@cultureelerfgoed.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "CC0-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "d43bba44-912b-4d2d-832b-ab515dd9dd19",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-03-13T16:38:07.361886",
+            "webstore_last_updated": null,
+            "id": "530ec8d9-39ac-4dbb-8c90-1e988c9baf72",
+            "size": "20093",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "MSAcces",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://www.cultureelerfgoed.nl/download_extract_ODB",
+            "created": "2014-03-13T17:38:07.571043",
+            "url": "http://www.cultureelerfgoed.nl/download_extract_ODB",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "58bd0aa3-de86-4416-8551-a8d944a46dd8",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "d43bba44-912b-4d2d-832b-ab515dd9dd19",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-03-13T16:38:07.361886",
+            "webstore_last_updated": null,
+            "id": "54fdb74e-b1e7-4f7d-8a0e-1d1420274175",
+            "size": "10852",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "API",
+            "format": "url",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://api.rijksmonumenten.info/",
+            "created": "2014-03-13T17:38:07.571069",
+            "url": "http://api.rijksmonumenten.info/",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "58bd0aa3-de86-4416-8551-a8d944a46dd8",
+            "resource_type": "api",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "monumenten",
+            "name": "monumenten",
+            "revision_timestamp": "2013-05-15T10:01:21.187854",
+            "state": "active",
+            "id": "c32a52fb-be90-4df7-a476-8d4723c3ffc4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "rijksmonumenten",
+            "name": "rijksmonumenten",
+            "revision_timestamp": "2014-03-13T16:38:07.361886",
+            "state": "active",
+            "id": "c907e6f6-4e6f-4f41-ba14-7ec1b1ef399c"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Toerisme & cultuur",
+            "description": "",
+            "name": "toerisme-cultuur",
+            "id": "ea426321-bf88-499e-be18-d11d20001350"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "rijksmonumentenregister",
+    "isopen": true,
+    "url": null,
+    "notes": "Het Monumentenregister bevat gegevens van alle monumenten in Nederland die door het Rijk zijn aangewezen als beschermd monument. Deze rijksmonumenten zijn van nationale betekenis. De data word maandelijks bijgewerkt.",
+    "title": "Rijksmonumentenregister",
+    "extras": [
+        {
+            "value": "info@cultureelerfgoed.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "cca438ba-b03f-4e54-a4e2-0768707b6e38",
+                "revision_id": "f591f873-4603-4124-8615-ec12a99d0584"
+            }
+        },
+        {
+            "value": "Rijksdienst voor Cultureel Erfgoed",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "f591f873-4603-4124-8615-ec12a99d0584",
+                "package_id": "cca438ba-b03f-4e54-a4e2-0768707b6e38"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "f591f873-4603-4124-8615-ec12a99d0584",
+                "package_id": "cca438ba-b03f-4e54-a4e2-0768707b6e38"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "f591f873-4603-4124-8615-ec12a99d0584",
+                "package_id": "cca438ba-b03f-4e54-a4e2-0768707b6e38"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "cca438ba-b03f-4e54-a4e2-0768707b6e38",
+                "revision_id": "f591f873-4603-4124-8615-ec12a99d0584"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "cca438ba-b03f-4e54-a4e2-0768707b6e38",
+                "revision_id": "f591f873-4603-4124-8615-ec12a99d0584"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "f591f873-4603-4124-8615-ec12a99d0584",
+                "package_id": "cca438ba-b03f-4e54-a4e2-0768707b6e38"
+            }
+        },
+        {
+            "value": "http://www.cultureelerfgoed.nl",
+            "key": "website",
+            "__extras": {
+                "package_id": "cca438ba-b03f-4e54-a4e2-0768707b6e38",
+                "revision_id": "f591f873-4603-4124-8615-ec12a99d0584"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "organization": null,
+    "revision_id": "58bd0aa3-de86-4416-8551-a8d944a46dd8",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": true,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

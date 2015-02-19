@@ -1,0 +1,114 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Chris Metcalf",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:58:08.004865",
+    "id": "afa74d6d-5cc6-4b40-b7c9-57a23ba670e5",
+    "metadata_created": "2012-09-11T13:58:08.004865",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:02:46.900262",
+    "author": "Chris Metcalf",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "500fd726-d934-485c-b758-53af83710760",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:02:46.900262",
+            "webstore_last_updated": "2013-10-10T12:02:46.740562",
+            "id": "787bc058-5f31-4d96-ad49-53ec1ee87dcf",
+            "size": "1097",
+            "state": "active",
+            "hash": "7897c50277fce753c77485ae3e8656fb5a43ea00",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Visualization of Illness Rates vs Spending and Bed Net Usage.csv",
+            "created": "2012-09-11T13:58:08.036606",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T160053/zg7b-wt6w.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:43:28.118770",
+            "position": 0,
+            "revision_id": "24a00c6d-c391-4c07-b49b-15717ff2b547",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:58:08.004865",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:58:08.004865",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 59,
+        "recent": 3
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "kodi-zg7b-wt6w",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": null,
+    "title": "Visualization of Illness Rates vs Spending and Bed Net Usage",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "01d6ff62-33e6-4800-b6e5-9c7782460c49",
+                "package_id": "afa74d6d-5cc6-4b40-b7c9-57a23ba670e5"
+            }
+        },
+        {
+            "value": "Health",
+            "key": "category",
+            "__extras": {
+                "revision_id": "01d6ff62-33e6-4800-b6e5-9c7782460c49",
+                "package_id": "afa74d6d-5cc6-4b40-b7c9-57a23ba670e5"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "01d6ff62-33e6-4800-b6e5-9c7782460c49",
+                "package_id": "afa74d6d-5cc6-4b40-b7c9-57a23ba670e5"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "01d6ff62-33e6-4800-b6e5-9c7782460c49"
+}

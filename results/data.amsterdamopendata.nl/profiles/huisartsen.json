@@ -1,0 +1,162 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2013-09-25T07:50:19.109159",
+    "id": "0634bf96-3992-4d84-94b4-2501f568a59c",
+    "metadata_created": "2013-09-25T07:50:19.109159",
+    "owner_org": null,
+    "metadata_modified": "2014-10-23T08:15:36.685658",
+    "author": "GGD Amsterdam",
+    "author_email": "info@ggd.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "982d3f27-637b-4f64-90a3-41a1bba580a6",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-10-23T08:15:36.685658",
+            "webstore_last_updated": null,
+            "id": "47f4f12e-106a-40df-9e4b-fa465588e709",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Downloaden via Open Datakaart",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "http://www.opendatakaart.nl/catalogus/datasets/datasets_dataset/t/huisartsen",
+            "created": "2014-10-23T10:15:36.715678",
+            "url": "http://www.opendatakaart.nl/catalogus/datasets/datasets_dataset/t/huisartsen",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "7ac8264a-5d0f-4c3b-ac1c-eb80f18d7ecd",
+            "resource_type": "file"
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "huisarts",
+            "name": "huisarts",
+            "revision_timestamp": "2013-09-25T07:50:19.109159",
+            "state": "active",
+            "id": "15140ec3-b61a-4445-adf1-1b0b9d6d7a06"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "huisartspraktijk",
+            "name": "huisartspraktijk",
+            "revision_timestamp": "2013-09-25T07:50:19.109159",
+            "state": "active",
+            "id": "00662764-633d-47e7-9c9e-d667fe63a1cb"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "praktijk",
+            "name": "praktijk",
+            "revision_timestamp": "2013-09-25T07:50:19.109159",
+            "state": "active",
+            "id": "b2058acc-475e-416c-b1b4-28bb903b7d57"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Zorg & welzijn",
+            "description": "",
+            "name": "zorg-welzijn",
+            "id": "03f76fe0-7556-4f88-9c23-0b318e1c69ed"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "huisartsen",
+    "isopen": false,
+    "url": null,
+    "notes": "Overzicht van alle huisartsen en huisartsenpraktijken in Amsterdam",
+    "title": "Huisartsen",
+    "extras": [
+        {
+            "value": "info@ggd.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "0634bf96-3992-4d84-94b4-2501f568a59c",
+                "revision_id": "05c37295-2503-40b8-9723-721f17df11c0"
+            }
+        },
+        {
+            "value": "GGD Amsterdam",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "05c37295-2503-40b8-9723-721f17df11c0",
+                "package_id": "0634bf96-3992-4d84-94b4-2501f568a59c"
+            }
+        },
+        {
+            "value": "01/08/2013",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "05c37295-2503-40b8-9723-721f17df11c0",
+                "package_id": "0634bf96-3992-4d84-94b4-2501f568a59c"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "05c37295-2503-40b8-9723-721f17df11c0",
+                "package_id": "0634bf96-3992-4d84-94b4-2501f568a59c"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "0634bf96-3992-4d84-94b4-2501f568a59c",
+                "revision_id": "05c37295-2503-40b8-9723-721f17df11c0"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "0634bf96-3992-4d84-94b4-2501f568a59c",
+                "revision_id": "05c37295-2503-40b8-9723-721f17df11c0"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "05c37295-2503-40b8-9723-721f17df11c0",
+                "package_id": "0634bf96-3992-4d84-94b4-2501f568a59c"
+            }
+        },
+        {
+            "value": "http://www.ggd.amsterdam.nl",
+            "key": "website",
+            "__extras": {
+                "package_id": "0634bf96-3992-4d84-94b4-2501f568a59c",
+                "revision_id": "05c37295-2503-40b8-9723-721f17df11c0"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "05c37295-2503-40b8-9723-721f17df11c0"
+}

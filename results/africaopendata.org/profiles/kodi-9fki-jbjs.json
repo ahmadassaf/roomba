@@ -1,0 +1,114 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Samuel Kipruto",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T14:01:26.788067",
+    "id": "833ee442-f32b-4b89-8b63-200c9b869f2d",
+    "metadata_created": "2012-09-11T14:01:26.788067",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T11:56:59.916647",
+    "author": "Samuel Kipruto",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "caf0ef9b-be8b-4dd6-95e0-d99515c3dc95",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T11:56:59.916647",
+            "webstore_last_updated": "2013-10-10T11:56:59.824837",
+            "id": "92d71aba-8f3f-4abe-961c-83432d53a22c",
+            "size": "1648",
+            "state": "active",
+            "hash": "ceebed1fd7bcd824b77a3e3f937392a8e0cf9a84",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Gross Fixed Capital Formation in Current Prices ( Kshs. Million) By Purpose 2006-2009.csv",
+            "created": "2012-09-11T14:01:26.820023",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T160411/9fki-jbjs.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-13T22:59:25.540817",
+            "position": 0,
+            "revision_id": "fccdf031-ab4c-438f-ac67-46427d47ae89",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T14:01:26.788067",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T14:01:26.788067",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 69,
+        "recent": 5
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "kodi-9fki-jbjs",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Kenya National Bureau of Statistics_Gross Fixed Capital Formation in Current Prices ( Kshs. Million) By Purpose_Statistical Abstract   2006-2009",
+    "title": "Gross Fixed Capital Formation in Current Prices ( Kshs. Million) By Purpose 2006-2009",
+    "extras": [
+        {
+            "value": "Kenya National Bureau of Statistics",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "582f0b12-fec0-4210-876c-f67c3210afc7",
+                "package_id": "833ee442-f32b-4b89-8b63-200c9b869f2d"
+            }
+        },
+        {
+            "value": "    National Accounts And Inflation",
+            "key": "category",
+            "__extras": {
+                "revision_id": "582f0b12-fec0-4210-876c-f67c3210afc7",
+                "package_id": "833ee442-f32b-4b89-8b63-200c9b869f2d"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "582f0b12-fec0-4210-876c-f67c3210afc7",
+                "package_id": "833ee442-f32b-4b89-8b63-200c9b869f2d"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "582f0b12-fec0-4210-876c-f67c3210afc7"
+}

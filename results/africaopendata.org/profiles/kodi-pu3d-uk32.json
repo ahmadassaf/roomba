@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:56:17.644657",
+    "id": "d45e6818-f6f2-4d1e-b37d-b76cea6e19bc",
+    "metadata_created": "2012-09-11T13:56:17.644657",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:03:10.126959",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "3f9a35bf-008d-4f12-9f92-d384c8ddff06",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:03:10.126959",
+            "webstore_last_updated": "2013-10-10T12:03:10.059391",
+            "id": "ffc4b0da-3f80-402f-be1b-6c5ee98f6b3e",
+            "size": "2294",
+            "state": "active",
+            "hash": "f331ca21f15523deea80244c7f3cc7db901d2996",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Proportion of Population who Slept under a bed net County Estimates - 2005/6.csv",
+            "created": "2012-09-11T13:56:17.682781",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155902/pu3d-uk32.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:50:29.629237",
+            "position": 0,
+            "revision_id": "66207cc1-05b8-4865-b4ff-15b4e4db82a3",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "county health",
+            "name": "county health",
+            "revision_timestamp": "2012-09-11T13:56:17.644657",
+            "state": "active",
+            "id": "15b14e9f-d157-4cbb-8aac-9240e5922144"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:56:17.644657",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:56:17.644657",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 62,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-pu3d-uk32",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "2005/6 KIHBS Table 5.5 Proportion of Population who Slept under a bed net County Estimates",
+    "title": "Proportion of Population who Slept under a bed net County Estimates - 2005/6",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "71ba0406-4dfc-4ea2-ac1e-c08aad5b6dd5",
+                "package_id": "d45e6818-f6f2-4d1e-b37d-b76cea6e19bc"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "71ba0406-4dfc-4ea2-ac1e-c08aad5b6dd5",
+                "package_id": "d45e6818-f6f2-4d1e-b37d-b76cea6e19bc"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "71ba0406-4dfc-4ea2-ac1e-c08aad5b6dd5",
+                "package_id": "d45e6818-f6f2-4d1e-b37d-b76cea6e19bc"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "71ba0406-4dfc-4ea2-ac1e-c08aad5b6dd5"
+}

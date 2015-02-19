@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Kenya Visualization Bot",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-09T16:35:26.979580",
+    "id": "56d15d89-af60-4dd3-9144-06d13a7649bd",
+    "metadata_created": "2012-09-09T16:35:26.979580",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:23:12.026637",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "a793d39f-169a-496d-8e3d-eef31e69e0d5",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:23:12.026637",
+            "webstore_last_updated": "2013-10-10T12:23:11.955317",
+            "id": "2d5c891b-50fc-486c-acf7-f8ba1b24561c",
+            "size": "1557",
+            "state": "active",
+            "hash": "30e2b76a264b0bd76b3f5fbc4b0466be26fea00b",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 5,
+                "recent": 2
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Poverty Rate, by District.csv",
+            "created": "2012-09-11T13:24:50.821734",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T152731/i5bp-z9aq.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:41:36.131074",
+            "position": 0,
+            "revision_id": "e6144e53-9e85-4f1a-8870-4d4a204246d0",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-09T16:35:26.979580",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-09T16:35:26.979580",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "poverty",
+            "name": "poverty",
+            "revision_timestamp": "2012-09-09T16:35:26.979580",
+            "state": "active",
+            "id": "490c0df0-0458-4e36-8ad1-2fa9d0684d97"
+        }
+    ],
+    "tracking_summary": {
+        "total": 138,
+        "recent": 4
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-i5bp-z9aq",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Poverty Rate by District",
+    "title": "Poverty Rate, by District",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "66afc1fb-a85a-439c-9aba-7d15e8d184b0",
+                "package_id": "56d15d89-af60-4dd3-9144-06d13a7649bd"
+            }
+        },
+        {
+            "value": "Poverty",
+            "key": "category",
+            "__extras": {
+                "revision_id": "66afc1fb-a85a-439c-9aba-7d15e8d184b0",
+                "package_id": "56d15d89-af60-4dd3-9144-06d13a7649bd"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "66afc1fb-a85a-439c-9aba-7d15e8d184b0",
+                "package_id": "56d15d89-af60-4dd3-9144-06d13a7649bd"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "66afc1fb-a85a-439c-9aba-7d15e8d184b0"
+}

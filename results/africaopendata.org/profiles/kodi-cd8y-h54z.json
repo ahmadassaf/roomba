@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Kaburo",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:47:14.858654",
+    "id": "5c12e906-ccf1-4950-8738-a0555aa2ad8f",
+    "metadata_created": "2012-09-11T13:47:14.858654",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:11:07.948857",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "5df8c001-48ae-4980-a3ec-1068869b1ea8",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:11:07.948857",
+            "webstore_last_updated": "2013-10-10T12:11:07.880237",
+            "id": "dd301a71-cc68-4218-bca9-9de8f62f8919",
+            "size": "10456",
+            "state": "active",
+            "hash": "4f82fc8c4a7fd74fe98abac6de6287c0c8e5580b",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Visitors To Parks And Game Reserves By Park And Year, 1996-2009.csv",
+            "created": "2012-09-11T13:47:14.895431",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T154959/cd8y-h54z.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:42:32.377118",
+            "position": 0,
+            "revision_id": "1d3cc508-58e9-44fd-9ba9-364ae45f5484",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:47:14.858654",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:47:14.858654",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "tourism",
+            "name": "tourism",
+            "revision_timestamp": "2012-09-11T13:47:14.858654",
+            "state": "active",
+            "id": "804b9cb1-bfb8-40ec-9981-f03323d6d118"
+        }
+    ],
+    "tracking_summary": {
+        "total": 69,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-cd8y-h54z",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Kenya National Bureau of Statistics,\r\nStatistical Abstract 1996 - 2009\r\nVisitors to Parks and Game Reserves By Park and Year (Numbers)",
+    "title": "Visitors To Parks And Game Reserves By Park And Year, 1996-2009",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "8587afbe-df86-4251-9ce1-d0d757efe077",
+                "package_id": "5c12e906-ccf1-4950-8738-a0555aa2ad8f"
+            }
+        },
+        {
+            "value": "    Environment And Natural Resources",
+            "key": "category",
+            "__extras": {
+                "revision_id": "8587afbe-df86-4251-9ce1-d0d757efe077",
+                "package_id": "5c12e906-ccf1-4950-8738-a0555aa2ad8f"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "8587afbe-df86-4251-9ce1-d0d757efe077",
+                "package_id": "5c12e906-ccf1-4950-8738-a0555aa2ad8f"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "8587afbe-df86-4251-9ce1-d0d757efe077"
+}

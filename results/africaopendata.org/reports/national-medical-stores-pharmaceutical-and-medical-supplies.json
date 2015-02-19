@@ -1,0 +1,194 @@
+{
+    "missing": [
+        "organization"
+    ],
+    "undefined": [
+        "owner_org",
+        "author_email",
+        "version"
+    ],
+    "unreachableURLs": [],
+    "report": [
+        "owner_org field exists but there is no value defined",
+        "author_email field exists but there is no value defined",
+        "organization information is missing",
+        "version field exists but there is no value defined"
+    ],
+    "tag": {
+        "Health": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "Health Policy And Administrative Management": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "africa": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "data-ug": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "east-africa": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "eastern-africa": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "open-data": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "uganda": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        }
+    },
+    "group": {
+        "Uganda": {
+            "missing": [
+                "display_name",
+                "image_display_url"
+            ],
+            "undefined": [],
+            "unreachableURLs": [],
+            "report": [
+                "display_name field is missing",
+                "image_display_url field is missing"
+            ]
+        }
+    },
+    "license": {
+        "license": {
+            "missing": [
+                "license_url"
+            ],
+            "undefined": [],
+            "unreachableURLs": [],
+            "report": [
+                "license_url field is missing",
+                "We could not normalize the license information as no valid mapping was found !"
+            ]
+        }
+    },
+    "resource": {
+        "National Medical Stores Pharmaceutical and Medical Supplies": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "description",
+                "mimetype_inner",
+                "cache_url",
+                "resource_type"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "description field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "cache_url field exists but there is no value defined",
+                "resource_type field exists but there is no value defined",
+                "The mimeType for resource is not defined correctly"
+            ]
+        },
+        "Pharmaceutical and Medical Supplies Key Unit Costs of Services Provided and Services Funded (Shs '000)PharmacePharmaceutical and Medical Supplies Key Unit Costs of Services Provided and Services Funded (Shs '000)utical and Medical Supplies Key Unit Costs of Services Provided and Services Funded (Shs '000)": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "description",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "webstore_url",
+                "last_modified",
+                "resource_type"
+            ],
+            "unreachableURLs": [
+                "http://catalog.data.ug/dataset/8f306cab-e69d-41e8-92a9-fe98f84f590b/resource/b8ecaace-d6f2-446a-ac2e-3827bb918d96/download/pharmaceuticalandmedicalsupplieskeyunitcostsofservicesprovidedandservicesfundedshs000."
+            ],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "description field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined",
+                "resource_type field exists but there is no value defined",
+                "The url for this resource is not reachable !"
+            ],
+            "unreachableTypes": {
+                "null": "http://catalog.data.ug/dataset/8f306cab-e69d-41e8-92a9-fe98f84f590b/resource/b8ecaace-d6f2-446a-ac2e-3827bb918d96/download/pharmaceuticalandmedicalsupplieskeyunitcostsofservicesprovidedandservicesfundedshs000."
+            }
+        }
+    },
+    "counter": {
+        "group": 1,
+        "tag": 8,
+        "resource": 2
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "license_title": "Open Data Commons Attribution License 1.0",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-11-04T17:16:33.164166",
+    "id": "ab26899e-5cbb-425c-9a1e-33905026491f",
+    "metadata_created": "2012-11-04T17:16:12.356437",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:58:22.530672",
+    "author": "World Bank (finance.worldbank.org)",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "ODC-BY-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "d812d226-c79d-4c7d-83b0-4d3da238fe32",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:58:22.530672",
+            "webstore_last_updated": "2013-10-10T10:58:22.465048",
+            "id": "5bef4a6b-aa5d-4da5-a9a2-e0e2ef94a007",
+            "size": "15521",
+            "state": "active",
+            "hash": "8311a45779ee44eb85fe62b8fd1b308121782639",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Major_Contract_Awards_FY2010-12_-_Africa_Region-Chad.csv",
+            "created": "2012-11-04T17:16:24.433328",
+            "url": "http://africaopendata.org/storage/f/2012-11-04T17%3A16%3A18.838Z/major-contract-awards-fy2010-12-africa-region-chad.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-13T23:15:45.819890",
+            "position": 0,
+            "revision_id": "532c2ae8-da26-4f00-93e4-9c396370c40a",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Chad",
+            "name": "Chad",
+            "revision_timestamp": "2012-11-04T17:16:12.356437",
+            "state": "active",
+            "id": "775672d9-ca25-486d-ad87-6321fec270a0"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Contracts",
+            "name": "Contracts",
+            "revision_timestamp": "2012-11-04T17:16:12.356437",
+            "state": "active",
+            "id": "c60bfb8e-35f5-487b-b481-b489447b7cef"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "World Bank",
+            "name": "World Bank",
+            "revision_timestamp": "2012-11-04T17:16:12.356437",
+            "state": "active",
+            "id": "ae91265e-0b5c-45a0-a96f-02cf356ec937"
+        }
+    ],
+    "tracking_summary": {
+        "total": 64,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Chad",
+            "description": "Datasets from the Republic of Chad",
+            "name": "chad",
+            "id": "5ecac934-92c1-4255-93be-309e8c17c116"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "world-bank-contract-award-2010-2012-chad",
+    "isopen": true,
+    "url": null,
+    "notes": "This set of contract awards includes data on commitments against contracts that were reviewed by the Bank before they were awarded (prior-reviewed Bank-funded contracts) under IDA/IBRD investment projects and related Trust Funds. This dataset does not list all contracts awarded by the Bank, and should be viewed only as a guide to determine the distribution of major contract commitments among the Bank's member countries. \"Supplier Country\" represents place of supplier registration, which may or not be the supplier's actual country of origin. Information does not include awards to subcontractors nor account for cofinancing. The Procurement Policy and Services Group does not guarantee the data included in this publication and accepts no responsibility whatsoever for any consequences of its use. The World Bank complies with all sanctions applicable to World Bank transactions.\r\n",
+    "title": "World Bank Contract Award 2010-2012 - Chad",
+    "extras": [],
+    "license_url": "http://www.opendefinition.org/licenses/odc-by",
+    "organization": null,
+    "revision_id": "b89da3c1-e5cd-4d5e-b4c6-fca5ad7d7ed7",
+    "license_information": {
+        "domain_content": false,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Open Data Commons",
+        "status": "active"
+    }
+}

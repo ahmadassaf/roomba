@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:49:44.355985",
+    "id": "12c09517-2fba-4e9b-b7b0-3c9f10fa05d1",
+    "metadata_created": "2012-09-11T13:49:44.355985",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:08:46.600865",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "545499b5-d91d-4238-9b52-26451d859f9c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:08:46.600865",
+            "webstore_last_updated": "2013-10-10T12:08:46.530996",
+            "id": "4d0d82c0-d6ec-4a77-bbf9-9b30fd1e149c",
+            "size": "4022",
+            "state": "active",
+            "hash": "f6c8d6d6c547dcfbc82dbc786a059dd1e51e60ee",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Immunisation rates of children (12-23 months) by district - 2005/6.csv",
+            "created": "2012-09-11T13:49:44.394990",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155229/98pi-n8t4.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:26:34.949689",
+            "position": 0,
+            "revision_id": "01095489-f871-4a33-a5ef-ccba6bb4cf3e",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "health immunizatin rates children kihbs",
+            "name": "health immunizatin rates children kihbs",
+            "revision_timestamp": "2012-09-11T13:49:44.355985",
+            "state": "active",
+            "id": "a5823ac3-13c1-438b-bd3d-027dae1f1e89"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:49:44.355985",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:49:44.355985",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 46,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-98pi-n8t4",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "KIHBS  Table 5.9:  Immunisation rates of children (12-23 months) by district",
+    "title": "Immunisation rates of children (12-23 months) by district - 2005/6",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "912fdb65-2fd2-4572-bce5-d7ffba6e568c",
+                "package_id": "12c09517-2fba-4e9b-b7b0-3c9f10fa05d1"
+            }
+        },
+        {
+            "value": "Health Sector",
+            "key": "category",
+            "__extras": {
+                "revision_id": "912fdb65-2fd2-4572-bce5-d7ffba6e568c",
+                "package_id": "12c09517-2fba-4e9b-b7b0-3c9f10fa05d1"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "912fdb65-2fd2-4572-bce5-d7ffba6e568c",
+                "package_id": "12c09517-2fba-4e9b-b7b0-3c9f10fa05d1"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "912fdb65-2fd2-4572-bce5-d7ffba6e568c"
+}

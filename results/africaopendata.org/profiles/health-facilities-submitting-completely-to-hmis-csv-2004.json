@@ -1,0 +1,691 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:26:18.339093",
+    "id": "598d0831-91e9-45b1-814f-413bd6787a5e",
+    "metadata_created": "2014-11-04T22:26:18.339093",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:48:44.754089",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "eb6580bb-45e3-4fe9-ad28-7cf7ebcef8d4",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:48:44.754089",
+            "webstore_last_updated": null,
+            "id": "0cd47bd6-d639-436c-bebd-85df798687b2",
+            "size": "20",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "2a693c8549d42c2f1a8995a430a767273fad21b3",
+            "description": "Online link to the 'Health Facilities Submitting Completely To Hmis.Csv 2004' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:52:53.299981",
+            "url": "http://maps.data.ug/layers/geonode:health_facilities_submitting_completely_to_hmiscsv_2004",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T15:32:56.633762",
+            "position": 0,
+            "revision_id": "be91d560-5865-4d87-af8e-628cf2afea74",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "eb6580bb-45e3-4fe9-ad28-7cf7ebcef8d4",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:02:14.987673",
+            "webstore_last_updated": null,
+            "id": "8ef0ba64-d74b-48de-863a-12392996a96c",
+            "size": "121207",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Health Facilities Submitting Completely To Hmis.Csv 2004 (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "health_facilities_submitting_completely_to_hmiscsv_2004.zip",
+            "created": "2014-03-12T14:52:53.300005",
+            "url": "http://maps.data.ug/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Ahealth_facilities_submitting_completely_to_hmiscsv_2004&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:02:14.849709",
+            "position": 1,
+            "revision_id": "baeec4e9-065b-449e-abd9-6b678e111d8e",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "eb6580bb-45e3-4fe9-ad28-7cf7ebcef8d4",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:02:13.887521",
+            "webstore_last_updated": null,
+            "id": "32011342-9cd4-4538-abf3-04aa4028ddbc",
+            "size": "326222",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Health Facilities Submitting Completely To Hmis.Csv 2004 (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "health_facilities_submitting_completely_to_hmiscsv_2004.gml",
+            "created": "2014-03-12T14:52:53.300013",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Ahealth_facilities_submitting_completely_to_hmiscsv_2004&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:02:13.746980",
+            "position": 2,
+            "revision_id": "084017bb-77f0-46d8-b400-d672ae9edf5c",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "eb6580bb-45e3-4fe9-ad28-7cf7ebcef8d4",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:02:17.537735",
+            "webstore_last_updated": null,
+            "id": "2046c904-2066-4aed-8a57-3f6743a963c5",
+            "size": "446340",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Health Facilities Submitting Completely To Hmis.Csv 2004 (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "health_facilities_submitting_completely_to_hmiscsv_2004.gml",
+            "created": "2014-03-12T14:52:53.300020",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Ahealth_facilities_submitting_completely_to_hmiscsv_2004&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:02:17.398315",
+            "position": 3,
+            "revision_id": "785f7c85-dd1e-43b1-997e-cee50f2b85d3",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "eb6580bb-45e3-4fe9-ad28-7cf7ebcef8d4",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:48:44.754089",
+            "webstore_last_updated": "2014-11-04T23:02:07.020027",
+            "id": "d3f8c88a-e0b3-4e85-91c6-878f8ef46306",
+            "size": "371055",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Health Facilities Submitting Completely To Hmis.Csv 2004 (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "health_facilities_submitting_completely_to_hmiscsv_2004.csv",
+            "created": "2014-03-12T14:52:53.300026",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Ahealth_facilities_submitting_completely_to_hmiscsv_2004&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": "active",
+            "last_modified": "2014-11-04T23:02:05.763956",
+            "position": 4,
+            "revision_id": "be91d560-5865-4d87-af8e-628cf2afea74",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "eb6580bb-45e3-4fe9-ad28-7cf7ebcef8d4",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:02:13.188549",
+            "webstore_last_updated": null,
+            "id": "f07c3585-6eeb-4a82-b1a3-8c6c8a918adc",
+            "size": "371200",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Health Facilities Submitting Completely To Hmis.Csv 2004 (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "health_facilities_submitting_completely_to_hmiscsv_2004.excel",
+            "created": "2014-03-12T14:52:53.300033",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Ahealth_facilities_submitting_completely_to_hmiscsv_2004&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:02:12.972462",
+            "position": 5,
+            "revision_id": "28f41815-738e-46f6-be1a-90fc50e65e39",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "eb6580bb-45e3-4fe9-ad28-7cf7ebcef8d4",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:02:09.143823",
+            "webstore_last_updated": null,
+            "id": "9f1331ef-9db7-4eaf-81fb-bd035bbadcc7",
+            "size": "405286",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Health Facilities Submitting Completely To Hmis.Csv 2004 (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "health_facilities_submitting_completely_to_hmiscsv_2004.json",
+            "created": "2014-03-12T14:52:53.300040",
+            "url": "http://maps.data.ug/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Ahealth_facilities_submitting_completely_to_hmiscsv_2004&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:02:09.006453",
+            "position": 6,
+            "revision_id": "90ab8507-0ee4-49fc-bb15-c3d4d3579d81",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "eb6580bb-45e3-4fe9-ad28-7cf7ebcef8d4",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:02:10.138782",
+            "webstore_last_updated": null,
+            "id": "9aa63af7-aab4-44dd-bd61-7a034a5bc856",
+            "size": "738943",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Health Facilities Submitting Completely To Hmis.Csv 2004 (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "health_facilities_submitting_completely_to_hmiscsv_2004.kml",
+            "created": "2014-03-12T14:52:53.300046",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Ahealth_facilities_submitting_completely_to_hmiscsv_2004&mode=download",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:02:09.991063",
+            "position": 7,
+            "revision_id": "61d2d319-0909-4fc6-9bbc-bdefdde08387",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "eb6580bb-45e3-4fe9-ad28-7cf7ebcef8d4",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:02:11.453547",
+            "webstore_last_updated": null,
+            "id": "a87c7a20-a86f-49b7-8313-1775fc98b68c",
+            "size": "1962",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Health Facilities Submitting Completely To Hmis.Csv 2004 (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "health_facilities_submitting_completely_to_hmiscsv_2004.kml",
+            "created": "2014-03-12T14:52:53.300053",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Ahealth_facilities_submitting_completely_to_hmiscsv_2004&mode=refresh",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:02:11.266414",
+            "position": 8,
+            "revision_id": "1f505423-228b-47a2-b7b2-a40e0004add5",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "eb6580bb-45e3-4fe9-ad28-7cf7ebcef8d4",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:26:18.339093",
+            "webstore_last_updated": null,
+            "id": "7ace7c01-1e39-4d47-a456-dcf0c95cf5ef",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Health Facilities Submitting Completely To Hmis.Csv 2004 (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "health_facilities_submitting_completely_to_hmiscsv_2004.tiles",
+            "created": "2014-03-12T14:52:53.300059",
+            "url": "http://maps.data.ug/geoserver/gwc/service/gmaps?layers=geonode:health_facilities_submitting_completely_to_hmiscsv_2004&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "ac5e618d-ae01-44cd-b379-622d2c398d31",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "eb6580bb-45e3-4fe9-ad28-7cf7ebcef8d4",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:02:08.540837",
+            "webstore_last_updated": null,
+            "id": "81810e33-47c4-472e-acf2-2818124912e1",
+            "size": "33876",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Health Facilities Submitting Completely To Hmis.Csv 2004 (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "health_facilities_submitting_completely_to_hmiscsv_2004.jpg",
+            "created": "2014-03-12T14:52:53.300066",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Ahealth_facilities_submitting_completely_to_hmiscsv_2004&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:02:08.387441",
+            "position": 10,
+            "revision_id": "7b45a990-cb1c-4466-8a81-0f416349c425",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "eb6580bb-45e3-4fe9-ad28-7cf7ebcef8d4",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:02:07.873814",
+            "webstore_last_updated": null,
+            "id": "67f519d6-deeb-404a-9992-1a6736531f65",
+            "size": "40946",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Health Facilities Submitting Completely To Hmis.Csv 2004 (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "health_facilities_submitting_completely_to_hmiscsv_2004.pdf",
+            "created": "2014-03-12T14:52:53.300073",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Ahealth_facilities_submitting_completely_to_hmiscsv_2004&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:02:07.733988",
+            "position": 11,
+            "revision_id": "a76927d0-a759-4ec8-96ae-80812571138c",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "eb6580bb-45e3-4fe9-ad28-7cf7ebcef8d4",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:02:04.909107",
+            "webstore_last_updated": null,
+            "id": "5464fef6-814b-4624-a122-d696c3a1673e",
+            "size": "55879",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Health Facilities Submitting Completely To Hmis.Csv 2004 (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "health_facilities_submitting_completely_to_hmiscsv_2004.png",
+            "created": "2014-03-12T14:52:53.300079",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Ahealth_facilities_submitting_completely_to_hmiscsv_2004&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:02:04.723682",
+            "position": 12,
+            "revision_id": "515df291-8b05-4fbb-a7a3-91698e4425bf",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:26:18.339093",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:26:18.339093",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:26:18.339093",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:26:18.339093",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:26:18.339093",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "facilities",
+            "name": "facilities",
+            "revision_timestamp": "2014-11-04T22:26:18.339093",
+            "state": "active",
+            "id": "bc64149a-bd4c-4d71-9439-9e0f8353d6be"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "health facilities",
+            "name": "health facilities",
+            "revision_timestamp": "2014-11-04T22:26:18.339093",
+            "state": "active",
+            "id": "9beae195-17b1-4d89-b7cb-e990bc94b1f2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:26:18.339093",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:26:18.339093",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 18,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 9,
+    "name": "health-facilities-submitting-completely-to-hmis-csv-2004",
+    "isopen": false,
+    "url": null,
+    "notes": "Health Facilities Submitting Completely To Hmis 2004 per district",
+    "title": "Health Facilities Submitting Completely To Hmis.Csv 2004",
+    "extras": [
+        {
+            "value": "[]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "ac5e618d-ae01-44cd-b379-622d2c398d31",
+                "package_id": "598d0831-91e9-45b1-814f-413bd6787a5e"
+            }
+        },
+        {
+            "value": "35.0017411394",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "ac5e618d-ae01-44cd-b379-622d2c398d31",
+                "package_id": "598d0831-91e9-45b1-814f-413bd6787a5e"
+            }
+        },
+        {
+            "value": "4.2310114174",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "598d0831-91e9-45b1-814f-413bd6787a5e",
+                "revision_id": "ac5e618d-ae01-44cd-b379-622d2c398d31"
+            }
+        },
+        {
+            "value": "-1.4817440179",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "ac5e618d-ae01-44cd-b379-622d2c398d31",
+                "package_id": "598d0831-91e9-45b1-814f-413bd6787a5e"
+            }
+        },
+        {
+            "value": "29.5741674481",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "ac5e618d-ae01-44cd-b379-622d2c398d31",
+                "package_id": "598d0831-91e9-45b1-814f-413bd6787a5e"
+            }
+        },
+        {
+            "value": "",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "598d0831-91e9-45b1-814f-413bd6787a5e",
+                "revision_id": "ac5e618d-ae01-44cd-b379-622d2c398d31"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "598d0831-91e9-45b1-814f-413bd6787a5e",
+                "revision_id": "ac5e618d-ae01-44cd-b379-622d2c398d31"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-02-20T03:59:34Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "598d0831-91e9-45b1-814f-413bd6787a5e",
+                "revision_id": "ac5e618d-ae01-44cd-b379-622d2c398d31"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "598d0831-91e9-45b1-814f-413bd6787a5e",
+                "revision_id": "ac5e618d-ae01-44cd-b379-622d2c398d31"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Health Facilities Submitting Completely To Hmis.Csv 2004'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "598d0831-91e9-45b1-814f-413bd6787a5e",
+                "revision_id": "ac5e618d-ae01-44cd-b379-622d2c398d31"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "598d0831-91e9-45b1-814f-413bd6787a5e",
+                "revision_id": "ac5e618d-ae01-44cd-b379-622d2c398d31"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "ac5e618d-ae01-44cd-b379-622d2c398d31",
+                "package_id": "598d0831-91e9-45b1-814f-413bd6787a5e"
+            }
+        },
+        {
+            "value": "b343f6aa-9a15-11e3-8923-11b11f8ea6d0",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "ac5e618d-ae01-44cd-b379-622d2c398d31",
+                "package_id": "598d0831-91e9-45b1-814f-413bd6787a5e"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "ac5e618d-ae01-44cd-b379-622d2c398d31",
+                "package_id": "598d0831-91e9-45b1-814f-413bd6787a5e"
+            }
+        },
+        {
+            "value": "2014-02-20T03:59:34Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "598d0831-91e9-45b1-814f-413bd6787a5e",
+                "revision_id": "ac5e618d-ae01-44cd-b379-622d2c398d31"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "ac5e618d-ae01-44cd-b379-622d2c398d31",
+                "package_id": "598d0831-91e9-45b1-814f-413bd6787a5e"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "598d0831-91e9-45b1-814f-413bd6787a5e",
+                "revision_id": "ac5e618d-ae01-44cd-b379-622d2c398d31"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "598d0831-91e9-45b1-814f-413bd6787a5e",
+                "revision_id": "ac5e618d-ae01-44cd-b379-622d2c398d31"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "598d0831-91e9-45b1-814f-413bd6787a5e",
+                "revision_id": "ac5e618d-ae01-44cd-b379-622d2c398d31"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.5741674481, -1.4817440179], [35.0017411394, -1.4817440179], [35.0017411394, 4.2310114174], [29.5741674481, 4.2310114174], [29.5741674481, -1.4817440179]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "ac5e618d-ae01-44cd-b379-622d2c398d31",
+                "package_id": "598d0831-91e9-45b1-814f-413bd6787a5e"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "598d0831-91e9-45b1-814f-413bd6787a5e",
+                "revision_id": "ac5e618d-ae01-44cd-b379-622d2c398d31"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "ac5e618d-ae01-44cd-b379-622d2c398d31",
+                "package_id": "598d0831-91e9-45b1-814f-413bd6787a5e"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "ac5e618d-ae01-44cd-b379-622d2c398d31",
+                "package_id": "598d0831-91e9-45b1-814f-413bd6787a5e"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "ac5e618d-ae01-44cd-b379-622d2c398d31"
+}

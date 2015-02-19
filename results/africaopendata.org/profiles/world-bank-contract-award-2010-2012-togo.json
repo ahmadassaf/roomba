@@ -1,0 +1,108 @@
+{
+    "license_title": "Open Data Commons Attribution License 1.0",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-11-04T17:31:16.088381",
+    "id": "6151e7db-b977-44e9-96ba-4fd83f7d8ab0",
+    "metadata_created": "2012-11-04T17:30:55.835984",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:58:16.803655",
+    "author": "World Bank (finance.worldbank.org)",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "ODC-BY-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "997a0e39-12e9-457f-9f12-6a7311828744",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:58:16.803655",
+            "webstore_last_updated": "2013-10-10T10:58:16.739039",
+            "id": "2853be5d-0996-4836-b099-5d7e78ffaa5f",
+            "size": "42261",
+            "state": "active",
+            "hash": "d6cef20772f35caceba113109adb908ea2e4587a",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Major_Contract_Awards_FY2010-12_-_Africa_Region-Togo.csv",
+            "created": "2012-11-04T17:31:06.459013",
+            "url": "http://africaopendata.org/storage/f/2012-11-04T17%3A31%3A01.640Z/major-contract-awards-fy2010-12-africa-region-togo.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:43:30.034197",
+            "position": 0,
+            "revision_id": "7bc73369-e9d3-4b42-b1a5-92ccada7af53",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Contracts",
+            "name": "Contracts",
+            "revision_timestamp": "2012-11-04T17:30:55.835984",
+            "state": "active",
+            "id": "c60bfb8e-35f5-487b-b481-b489447b7cef"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Togo",
+            "name": "Togo",
+            "revision_timestamp": "2012-11-04T17:30:55.835984",
+            "state": "active",
+            "id": "e08ebb96-64ec-456f-afec-1fc296c0ff72"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "World Bank",
+            "name": "World Bank",
+            "revision_timestamp": "2012-11-04T17:30:55.835984",
+            "state": "active",
+            "id": "ae91265e-0b5c-45a0-a96f-02cf356ec937"
+        }
+    ],
+    "tracking_summary": {
+        "total": 56,
+        "recent": 5
+    },
+    "groups": [
+        {
+            "title": "Togo",
+            "description": "Datasets from the Republic of Togo",
+            "name": "togo",
+            "id": "f226dc66-cc9b-4386-a8ca-eb062e86d89b"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "world-bank-contract-award-2010-2012-togo",
+    "isopen": true,
+    "url": null,
+    "notes": "This set of contract awards includes data on commitments against contracts that were reviewed by the Bank before they were awarded (prior-reviewed Bank-funded contracts) under IDA/IBRD investment projects and related Trust Funds. This dataset does not list all contracts awarded by the Bank, and should be viewed only as a guide to determine the distribution of major contract commitments among the Bank's member countries. \"Supplier Country\" represents place of supplier registration, which may or not be the supplier's actual country of origin. Information does not include awards to subcontractors nor account for cofinancing. The Procurement Policy and Services Group does not guarantee the data included in this publication and accepts no responsibility whatsoever for any consequences of its use. The World Bank complies with all sanctions applicable to World Bank transactions.\r\n",
+    "title": "World Bank Contract Award 2010-2012 - Togo",
+    "extras": [],
+    "license_url": "http://www.opendefinition.org/licenses/odc-by",
+    "organization": null,
+    "revision_id": "25cc0edb-1db2-40e2-b470-b48a46716de7",
+    "license_information": {
+        "domain_content": false,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Open Data Commons",
+        "status": "active"
+    }
+}

@@ -1,0 +1,607 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:24:58.119864",
+    "id": "2bc44aeb-a9a0-4f8a-a117-b8074a0c4bef",
+    "metadata_created": "2014-11-04T22:24:58.119864",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:48:06.779435",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "703d294e-85e0-426f-9af9-141514ecb25d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:54:58.177642",
+            "webstore_last_updated": null,
+            "id": "4aba78da-1e3d-4c63-9115-975c6bdfd2e6",
+            "size": "35798",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Deliveries Taking Place In A Health Facility 2003 (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "deliveries_taking_place_in_a_health_facility_2003.jpg",
+            "created": "2014-03-12T14:51:43.817182",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Adeliveries_taking_place_in_a_health_facility_2003&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:54:58.030948",
+            "position": 0,
+            "revision_id": "fda30b9e-8a0c-4c7b-8600-609ec5bc832c",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "703d294e-85e0-426f-9af9-141514ecb25d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:54:56.786767",
+            "webstore_last_updated": null,
+            "id": "afbb1083-802c-46d4-97f3-c7c66cd2772a",
+            "size": "56420",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Deliveries Taking Place In A Health Facility 2003 (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "deliveries_taking_place_in_a_health_facility_2003.png",
+            "created": "2014-03-12T14:51:43.817190",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Adeliveries_taking_place_in_a_health_facility_2003&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:54:56.603954",
+            "position": 1,
+            "revision_id": "7f005465-4ae6-4219-a768-42cc596e3074",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "703d294e-85e0-426f-9af9-141514ecb25d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:48:06.779435",
+            "webstore_last_updated": null,
+            "id": "0f4b88e6-2120-4f70-adf2-4c0994adb75e",
+            "size": "120976",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Deliveries Taking Place In A Health Facility 2003 (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "deliveries_taking_place_in_a_health_facility_2003.zip",
+            "created": "2014-03-12T14:51:43.817194",
+            "url": "http://maps.data.ug/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Adeliveries_taking_place_in_a_health_facility_2003&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:54:54.742039",
+            "position": 2,
+            "revision_id": "4c4d3cb2-8c2a-4f9f-8745-87ea7201a749",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "703d294e-85e0-426f-9af9-141514ecb25d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:54:59.376435",
+            "webstore_last_updated": null,
+            "id": "3bf8a21d-5eec-4bba-be28-922182131560",
+            "size": "266772",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Deliveries Taking Place In A Health Facility 2003 (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "deliveries_taking_place_in_a_health_facility_2003.gml",
+            "created": "2014-03-12T14:51:43.817197",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Adeliveries_taking_place_in_a_health_facility_2003&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:54:59.241998",
+            "position": 3,
+            "revision_id": "19b4f2b6-104d-47db-b58c-578044214d70",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "703d294e-85e0-426f-9af9-141514ecb25d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:54:55.785473",
+            "webstore_last_updated": null,
+            "id": "0bcdb57b-7400-452b-8bfd-048d3264b853",
+            "size": "386890",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Deliveries Taking Place In A Health Facility 2003 (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "deliveries_taking_place_in_a_health_facility_2003.gml",
+            "created": "2014-03-12T14:51:43.817201",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Adeliveries_taking_place_in_a_health_facility_2003&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:54:55.618094",
+            "position": 4,
+            "revision_id": "656921a5-e96f-45dc-a02f-9bc45d9c389a",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "703d294e-85e0-426f-9af9-141514ecb25d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:54:54.173607",
+            "webstore_last_updated": "2014-11-04T22:54:54.039662",
+            "id": "a88bc04e-c490-48f9-9ccb-3deb03a59cc9",
+            "size": "348044",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "80ba1de6e691e2c2a031f2c084ca8021f22ec090",
+            "description": "Deliveries Taking Place In A Health Facility 2003 (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "deliveries_taking_place_in_a_health_facility_2003.csv",
+            "created": "2014-03-12T14:51:43.817204",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Adeliveries_taking_place_in_a_health_facility_2003&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": "active",
+            "last_modified": "2014-03-12T14:57:07.415985",
+            "position": 5,
+            "revision_id": "46296421-0cc1-4a0d-9a85-99ec1ece2570",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "703d294e-85e0-426f-9af9-141514ecb25d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:24:58.119864",
+            "webstore_last_updated": null,
+            "id": "53c7b873-7450-4124-b16d-5f0f2b41796a",
+            "size": "355840",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Deliveries Taking Place In A Health Facility 2003 (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "deliveries_taking_place_in_a_health_facility_2003.excel",
+            "created": "2014-03-12T14:51:43.817208",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Adeliveries_taking_place_in_a_health_facility_2003&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:57:08.276676",
+            "position": 6,
+            "revision_id": "398ab80e-6534-4584-97a3-587b5745fe8a",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "703d294e-85e0-426f-9af9-141514ecb25d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:24:58.119864",
+            "webstore_last_updated": null,
+            "id": "bf1cbf64-f904-4482-932c-669e14345548",
+            "size": "369742",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Deliveries Taking Place In A Health Facility 2003 (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "deliveries_taking_place_in_a_health_facility_2003.json",
+            "created": "2014-03-12T14:51:43.817211",
+            "url": "http://maps.data.ug/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Adeliveries_taking_place_in_a_health_facility_2003&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:57:09.399844",
+            "position": 7,
+            "revision_id": "398ab80e-6534-4584-97a3-587b5745fe8a",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "703d294e-85e0-426f-9af9-141514ecb25d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:54:52.116613",
+            "webstore_last_updated": null,
+            "id": "70ed0402-220d-4879-8b3f-8097083357ec",
+            "size": "564077",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Deliveries Taking Place In A Health Facility 2003 (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "deliveries_taking_place_in_a_health_facility_2003.kml",
+            "created": "2014-03-12T14:51:43.817215",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Adeliveries_taking_place_in_a_health_facility_2003&mode=download",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:54:51.979013",
+            "position": 8,
+            "revision_id": "df2da621-0e89-4284-b96a-9d46ac7fc087",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "703d294e-85e0-426f-9af9-141514ecb25d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:55:00.196045",
+            "webstore_last_updated": null,
+            "id": "1825ee3c-7912-4942-9ed0-37e2e7dab3d5",
+            "size": "1944",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Deliveries Taking Place In A Health Facility 2003 (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "deliveries_taking_place_in_a_health_facility_2003.kml",
+            "created": "2014-03-12T14:51:43.817218",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Adeliveries_taking_place_in_a_health_facility_2003&mode=refresh",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:54:59.977790",
+            "position": 9,
+            "revision_id": "fac1fa17-9854-49cb-b24b-d1d4fb7481c5",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "703d294e-85e0-426f-9af9-141514ecb25d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:24:58.119864",
+            "webstore_last_updated": null,
+            "id": "39fdbc54-699b-461d-aa55-f143a3fecc34",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Deliveries Taking Place In A Health Facility 2003 (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "deliveries_taking_place_in_a_health_facility_2003.tiles",
+            "created": "2014-03-12T14:51:43.817222",
+            "url": "http://maps.data.ug/geoserver/gwc/service/gmaps?layers=geonode:deliveries_taking_place_in_a_health_facility_2003&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 10,
+            "revision_id": "398ab80e-6534-4584-97a3-587b5745fe8a",
+            "resource_type": null
+        }
+    ],
+    "num_resources": 11,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:24:58.119864",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:24:58.119864",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:24:58.119864",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:24:58.119864",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:24:58.119864",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:24:58.119864",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 2,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "deliveries-taking-place-in-a-health-facility-2003",
+    "isopen": false,
+    "url": null,
+    "notes": "No abstract provided",
+    "title": "Deliveries Taking Place In A Health Facility 2003",
+    "extras": [
+        {
+            "value": "[\"None\"]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "398ab80e-6534-4584-97a3-587b5745fe8a",
+                "package_id": "2bc44aeb-a9a0-4f8a-a117-b8074a0c4bef"
+            }
+        },
+        {
+            "value": "35.0017411394",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "398ab80e-6534-4584-97a3-587b5745fe8a",
+                "package_id": "2bc44aeb-a9a0-4f8a-a117-b8074a0c4bef"
+            }
+        },
+        {
+            "value": "4.2310114174",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "2bc44aeb-a9a0-4f8a-a117-b8074a0c4bef",
+                "revision_id": "398ab80e-6534-4584-97a3-587b5745fe8a"
+            }
+        },
+        {
+            "value": "-1.4817440179",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "398ab80e-6534-4584-97a3-587b5745fe8a",
+                "package_id": "2bc44aeb-a9a0-4f8a-a117-b8074a0c4bef"
+            }
+        },
+        {
+            "value": "29.5741674481",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "398ab80e-6534-4584-97a3-587b5745fe8a",
+                "package_id": "2bc44aeb-a9a0-4f8a-a117-b8074a0c4bef"
+            }
+        },
+        {
+            "value": "katy@mountbatten.net",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "2bc44aeb-a9a0-4f8a-a117-b8074a0c4bef",
+                "revision_id": "398ab80e-6534-4584-97a3-587b5745fe8a"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "2bc44aeb-a9a0-4f8a-a117-b8074a0c4bef",
+                "revision_id": "398ab80e-6534-4584-97a3-587b5745fe8a"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-02-25T05:51:40Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "2bc44aeb-a9a0-4f8a-a117-b8074a0c4bef",
+                "revision_id": "398ab80e-6534-4584-97a3-587b5745fe8a"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "2bc44aeb-a9a0-4f8a-a117-b8074a0c4bef",
+                "revision_id": "398ab80e-6534-4584-97a3-587b5745fe8a"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Deliveries Taking Place In A Health Facility 2003'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "2bc44aeb-a9a0-4f8a-a117-b8074a0c4bef",
+                "revision_id": "398ab80e-6534-4584-97a3-587b5745fe8a"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "2bc44aeb-a9a0-4f8a-a117-b8074a0c4bef",
+                "revision_id": "398ab80e-6534-4584-97a3-587b5745fe8a"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "398ab80e-6534-4584-97a3-587b5745fe8a",
+                "package_id": "2bc44aeb-a9a0-4f8a-a117-b8074a0c4bef"
+            }
+        },
+        {
+            "value": "3083c662-9e13-11e3-9770-ab849cd0de74",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "398ab80e-6534-4584-97a3-587b5745fe8a",
+                "package_id": "2bc44aeb-a9a0-4f8a-a117-b8074a0c4bef"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "398ab80e-6534-4584-97a3-587b5745fe8a",
+                "package_id": "2bc44aeb-a9a0-4f8a-a117-b8074a0c4bef"
+            }
+        },
+        {
+            "value": "2014-02-25T05:51:40Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "2bc44aeb-a9a0-4f8a-a117-b8074a0c4bef",
+                "revision_id": "398ab80e-6534-4584-97a3-587b5745fe8a"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "398ab80e-6534-4584-97a3-587b5745fe8a",
+                "package_id": "2bc44aeb-a9a0-4f8a-a117-b8074a0c4bef"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "2bc44aeb-a9a0-4f8a-a117-b8074a0c4bef",
+                "revision_id": "398ab80e-6534-4584-97a3-587b5745fe8a"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "2bc44aeb-a9a0-4f8a-a117-b8074a0c4bef",
+                "revision_id": "398ab80e-6534-4584-97a3-587b5745fe8a"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "2bc44aeb-a9a0-4f8a-a117-b8074a0c4bef",
+                "revision_id": "398ab80e-6534-4584-97a3-587b5745fe8a"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.5741674481, -1.4817440179], [35.0017411394, -1.4817440179], [35.0017411394, 4.2310114174], [29.5741674481, 4.2310114174], [29.5741674481, -1.4817440179]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "398ab80e-6534-4584-97a3-587b5745fe8a",
+                "package_id": "2bc44aeb-a9a0-4f8a-a117-b8074a0c4bef"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "2bc44aeb-a9a0-4f8a-a117-b8074a0c4bef",
+                "revision_id": "398ab80e-6534-4584-97a3-587b5745fe8a"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "398ab80e-6534-4584-97a3-587b5745fe8a",
+                "package_id": "2bc44aeb-a9a0-4f8a-a117-b8074a0c4bef"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "398ab80e-6534-4584-97a3-587b5745fe8a",
+                "package_id": "2bc44aeb-a9a0-4f8a-a117-b8074a0c4bef"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "398ab80e-6534-4584-97a3-587b5745fe8a"
+}

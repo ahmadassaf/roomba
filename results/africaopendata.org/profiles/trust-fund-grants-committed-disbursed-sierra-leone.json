@@ -1,0 +1,108 @@
+{
+    "license_title": "Open Data Commons Attribution License 1.0",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-11-04T18:49:45.109824",
+    "id": "b16ae9d3-a3df-4830-b5f1-459b73bd86c4",
+    "metadata_created": "2012-11-04T18:49:26.999201",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:57:28.628207",
+    "author": "World Bank (finance.worldbank.org)",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "ODC-BY-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "20fc70ea-fdfd-4ea8-9266-2095eb2fbba6",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:57:28.628207",
+            "webstore_last_updated": "2013-10-10T10:57:28.504950",
+            "id": "f7f9824d-8304-4e62-837c-c8170836c896",
+            "size": "24355",
+            "state": "active",
+            "hash": "ba44aa695b441dee30a9ac0d04c02d78c611678c",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "RETF_-_Africa_as_Beneficiary-SierraLeone.csv",
+            "created": "2012-11-04T18:49:35.805536",
+            "url": "http://africaopendata.org/storage/f/2012-11-04T18%3A49%3A30.715Z/retf-africa-as-beneficiary-sierraleone.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-13T23:19:46.248151",
+            "position": 0,
+            "revision_id": "8ea750a7-d504-4332-b325-049ac19fc97c",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Sierra Leone",
+            "name": "Sierra Leone",
+            "revision_timestamp": "2012-11-04T18:49:26.999201",
+            "state": "active",
+            "id": "483aaeda-5a92-4868-ad90-0cf9294ebe08"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Trust Funds",
+            "name": "Trust Funds",
+            "revision_timestamp": "2012-11-04T18:49:26.999201",
+            "state": "active",
+            "id": "f284b6a5-a6fb-4bf2-ab20-7d376e25c5d6"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "World Bank",
+            "name": "World Bank",
+            "revision_timestamp": "2012-11-04T18:49:26.999201",
+            "state": "active",
+            "id": "ae91265e-0b5c-45a0-a96f-02cf356ec937"
+        }
+    ],
+    "tracking_summary": {
+        "total": 65,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Sierra Leone",
+            "description": "Datasets from the Republic of Sierra Leone",
+            "name": "sierra-leone",
+            "id": "211d3e8e-720d-43fc-a94e-47c8ef02b6f7"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "trust-fund-grants-committed-disbursed-sierra-leone",
+    "isopen": true,
+    "url": null,
+    "notes": "A Recipient-executed Grant is a Trust Fund Grant that is provided to a third party under a grant agreement, and for which the Bank plays an operational role - i.e., the Bank normally appraises and supervises activities financed by these funds. This dataset provides data on the amount of grant funds committed in the course of a fiscal year and payments made out of a Trust Fund account to eligible recipients, in accordance with the legal agreements. In fulfilling its responsibilities, the World Bank as Trustee complies with all sanctions applicable to World Bank transactions. Data is provided at the individual Trust Fund level. All definitions should be regarded at present as provisional and not final, and are subject to revision at any time.",
+    "title": "Trust Fund Grants Committed & Disbursed - Sierra Leone",
+    "extras": [],
+    "license_url": "http://www.opendefinition.org/licenses/odc-by",
+    "organization": null,
+    "revision_id": "2d0daaac-ced9-49cb-888c-be9333f713ca",
+    "license_information": {
+        "domain_content": false,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Open Data Commons",
+        "status": "active"
+    }
+}

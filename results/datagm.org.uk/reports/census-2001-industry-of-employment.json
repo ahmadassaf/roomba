@@ -1,0 +1,104 @@
+{
+    "missing": [
+        "group",
+        "organization"
+    ],
+    "undefined": [
+        "maintainer",
+        "maintainer_email",
+        "owner_org",
+        "author_email",
+        "version"
+    ],
+    "unreachableURLs": [],
+    "report": [
+        "group information is missing. Check organization information as they can be mixed sometimes",
+        "maintainer field exists but there is no value defined",
+        "maintainer_email field exists but there is no value defined",
+        "owner_org field exists but there is no value defined",
+        "author_email field exists but there is no value defined",
+        "organization information is missing",
+        "version field exists but there is no value defined"
+    ],
+    "tag": {
+        "census": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "employment": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "industry": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        }
+    },
+    "license": {
+        "license": {
+            "missing": [
+                "license_url"
+            ],
+            "undefined": [],
+            "unreachableURLs": [],
+            "report": [
+                "license_url field is missing",
+                "License information has been normalized !"
+            ]
+        }
+    },
+    "resource": {
+        "55474a1d-569d-4e08-af13-cd44a39c67ca": {
+            "missing": [
+                "url-type",
+                "created"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "description",
+                "mimetype_inner",
+                "cache_url",
+                "name",
+                "webstore_url",
+                "resource_type"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "description field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "cache_url field exists but there is no value defined",
+                "name field exists but there is no value defined",
+                "created field is missing",
+                "webstore_url field exists but there is no value defined",
+                "resource_type field exists but there is no value defined"
+            ]
+        }
+    },
+    "counter": {
+        "group": 0,
+        "tag": 3,
+        "resource": 1
+    }
+}

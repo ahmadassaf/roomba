@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T12:54:10.728126",
+    "id": "9aa5c0a1-e63f-40f1-b554-10b52d0e3d8c",
+    "metadata_created": "2012-09-10T12:54:10.728126",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:12:19.667842",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "79455e54-46ba-46e0-be08-a855c180ca33",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:12:19.667842",
+            "webstore_last_updated": "2013-10-10T12:12:19.594990",
+            "id": "52cd87b3-65b1-403f-b87f-7df814b6e430",
+            "size": "5753",
+            "state": "active",
+            "hash": "7e3da7fbdb980cb23485b1fe91eab487cea73987",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Gross Attendance Ratio by Sex and Region 2005/6.csv",
+            "created": "2012-09-11T13:39:20.084074",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T154205/7er3-nzh7.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:09:33.597602",
+            "position": 0,
+            "revision_id": "f0cc767b-04bd-41c2-bcf7-6c021c4b2c02",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "education",
+            "name": "education",
+            "revision_timestamp": "2012-09-10T12:54:10.728126",
+            "state": "active",
+            "id": "4bc98291-13cc-4baf-b090-52376fa3a429"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T12:54:10.728126",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T12:54:10.728126",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 87,
+        "recent": 12
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-7er3-nzh7",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "KIHBS Table 4.4:   School Gross Attendance Ratio (GAR) by Sex and Region",
+    "title": "Gross Attendance Ratio by Sex and Region 2005/6",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "f0939506-4283-441a-946d-72559b538a28",
+                "package_id": "9aa5c0a1-e63f-40f1-b554-10b52d0e3d8c"
+            }
+        },
+        {
+            "value": "Education",
+            "key": "category",
+            "__extras": {
+                "revision_id": "f0939506-4283-441a-946d-72559b538a28",
+                "package_id": "9aa5c0a1-e63f-40f1-b554-10b52d0e3d8c"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "f0939506-4283-441a-946d-72559b538a28",
+                "package_id": "9aa5c0a1-e63f-40f1-b554-10b52d0e3d8c"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "f0939506-4283-441a-946d-72559b538a28"
+}

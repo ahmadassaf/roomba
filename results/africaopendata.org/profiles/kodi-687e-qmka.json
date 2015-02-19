@@ -1,0 +1,138 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Chris Metcalf",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:55:55.668049",
+    "id": "c3d6fe13-a4b8-4692-b403-9abfbf8235a1",
+    "metadata_created": "2012-09-11T13:55:55.668049",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:03:18.336035",
+    "author": "Chris Metcalf",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "a66c11e2-705c-43a1-b867-a6c49204d670",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:03:18.336035",
+            "webstore_last_updated": "2013-10-10T12:03:18.145908",
+            "id": "b0f341d1-341a-4a9c-be60-bc971b77f298",
+            "size": "255",
+            "state": "active",
+            "hash": "4132ef7f85f81d16ebf963266e67baa87d9edfdb",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "West Pokot Pop Pyramid Age Groups - 2009.csv",
+            "created": "2012-09-11T13:55:55.719591",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155840/687e-qmka.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-13T23:25:49.190295",
+            "position": 0,
+            "revision_id": "3a6880ba-34da-4c7e-a9f6-9ec46e74f682",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "age",
+            "name": "age",
+            "revision_timestamp": "2012-09-11T13:55:55.668049",
+            "state": "active",
+            "id": "82fdf441-2784-412d-a6f2-27aa05d7f6df"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:55:55.668049",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:55:55.668049",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population",
+            "name": "population",
+            "revision_timestamp": "2012-09-11T13:55:55.668049",
+            "state": "active",
+            "id": "c5e39de5-556e-4bcb-883b-5b9ec2481ae9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "west pokot",
+            "name": "west pokot",
+            "revision_timestamp": "2012-09-11T13:55:55.668049",
+            "state": "active",
+            "id": "2b96831c-f48b-4399-a6cf-1a4e61001540"
+        }
+    ],
+    "tracking_summary": {
+        "total": 79,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "kodi-687e-qmka",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": null,
+    "title": "West Pokot Pop Pyramid Age Groups - 2009",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "df43fe23-41fe-4246-912d-af2aab621e3c",
+                "package_id": "c3d6fe13-a4b8-4692-b403-9abfbf8235a1"
+            }
+        },
+        {
+            "value": "Population",
+            "key": "category",
+            "__extras": {
+                "revision_id": "df43fe23-41fe-4246-912d-af2aab621e3c",
+                "package_id": "c3d6fe13-a4b8-4692-b403-9abfbf8235a1"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "df43fe23-41fe-4246-912d-af2aab621e3c",
+                "package_id": "c3d6fe13-a4b8-4692-b403-9abfbf8235a1"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "df43fe23-41fe-4246-912d-af2aab621e3c"
+}

@@ -1,0 +1,675 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:26:55.398980",
+    "id": "6a64a2ec-0e31-4025-ba08-0327cc39b759",
+    "metadata_created": "2014-11-04T22:26:55.398980",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:49:01.724293",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "09cd5159-20f6-414b-aeec-6c722a7bb356",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:26:55.398980",
+            "webstore_last_updated": null,
+            "id": "77caf359-2200-488a-acf4-20628c579d57",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Online link to the 'Landcover' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:52:41.268705",
+            "url": "http://maps.data.ug/layers/geonode:landcover",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "652a4001-3da6-4512-8bc5-98861ba7d71e",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "09cd5159-20f6-414b-aeec-6c722a7bb356",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:01.724293",
+            "webstore_last_updated": null,
+            "id": "c87a8fc0-5716-4e9c-b099-c3eb9c26e0d3",
+            "size": "74706",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Landcover (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "landcover.jpg",
+            "created": "2014-03-12T14:52:41.268729",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms?layers=geonode%3Alandcover&width=525&bbox=29.564125122969912%2C-1.480272120780564%2C35.027317087101466%2C4.234526049951185&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:05:31.573236",
+            "position": 1,
+            "revision_id": "e1f1ea64-69b0-4b73-9fed-1202e3d839a8",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "09cd5159-20f6-414b-aeec-6c722a7bb356",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:26:55.398980",
+            "webstore_last_updated": null,
+            "id": "fdf78de7-e458-42d2-bafe-4dea86654560",
+            "size": "4344849",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Landcover (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "landcover.pdf",
+            "created": "2014-03-12T14:52:41.268734",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms?layers=geonode%3Alandcover&width=525&bbox=29.564125122969912%2C-1.480272120780564%2C35.027317087101466%2C4.234526049951185&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "652a4001-3da6-4512-8bc5-98861ba7d71e",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "09cd5159-20f6-414b-aeec-6c722a7bb356",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:26:55.398980",
+            "webstore_last_updated": null,
+            "id": "2e0051f4-f7d6-418a-a1f0-bc2533c4d4c4",
+            "size": "284943",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Landcover (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "landcover.png",
+            "created": "2014-03-12T14:52:41.268737",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms?layers=geonode%3Alandcover&width=525&bbox=29.564125122969912%2C-1.480272120780564%2C35.027317087101466%2C4.234526049951185&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "652a4001-3da6-4512-8bc5-98861ba7d71e",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "09cd5159-20f6-414b-aeec-6c722a7bb356",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:26:55.398980",
+            "webstore_last_updated": null,
+            "id": "93bbc5d9-010e-460d-87bf-807786d23b60",
+            "size": "108771351",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Landcover (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "landcover.zip",
+            "created": "2014-03-12T14:52:41.268741",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Alandcover&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 4,
+            "revision_id": "652a4001-3da6-4512-8bc5-98861ba7d71e",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "09cd5159-20f6-414b-aeec-6c722a7bb356",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:26:55.398980",
+            "webstore_last_updated": null,
+            "id": "ea1f7a59-9ed2-4cbf-9b59-24ef408f2a5d",
+            "size": "412680883",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Landcover (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "landcover.gml",
+            "created": "2014-03-12T14:52:41.268745",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Alandcover&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 5,
+            "revision_id": "652a4001-3da6-4512-8bc5-98861ba7d71e",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "09cd5159-20f6-414b-aeec-6c722a7bb356",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:26:55.398980",
+            "webstore_last_updated": null,
+            "id": "3448ee48-0766-4e5b-ba53-b4ef44c08495",
+            "size": "503126387",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Landcover (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "landcover.gml",
+            "created": "2014-03-12T14:52:41.268748",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Alandcover&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 6,
+            "revision_id": "652a4001-3da6-4512-8bc5-98861ba7d71e",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "09cd5159-20f6-414b-aeec-6c722a7bb356",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:26:55.398980",
+            "webstore_last_updated": null,
+            "id": "1749947b-5c24-49a2-8301-03c403c125df",
+            "size": "481626769",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Landcover (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "landcover.csv",
+            "created": "2014-03-12T14:52:41.268752",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Alandcover&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 7,
+            "revision_id": "652a4001-3da6-4512-8bc5-98861ba7d71e",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "09cd5159-20f6-414b-aeec-6c722a7bb356",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:05:29.244778",
+            "webstore_last_updated": null,
+            "id": "d4c3f31b-41ec-4e96-af98-e533d40b26e7",
+            "size": "400",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Landcover (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "landcover.excel",
+            "created": "2014-03-12T14:52:41.268755",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Alandcover&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:05:29.103923",
+            "position": 8,
+            "revision_id": "bce01670-7a95-4b07-950f-cb15e42a208a",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "09cd5159-20f6-414b-aeec-6c722a7bb356",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:26:55.398980",
+            "webstore_last_updated": null,
+            "id": "5704371a-f706-4962-928d-23a08af49a67",
+            "size": "514250532",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Landcover (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "landcover.json",
+            "created": "2014-03-12T14:52:41.268759",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Alandcover&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "652a4001-3da6-4512-8bc5-98861ba7d71e",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "09cd5159-20f6-414b-aeec-6c722a7bb356",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:26:55.398980",
+            "webstore_last_updated": null,
+            "id": "bfa6c0ff-9d00-48f1-b14d-c1ccc22d7572",
+            "size": "661347033",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Landcover (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "landcover.kml",
+            "created": "2014-03-12T14:52:41.268762",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms/kml?layers=geonode%3Alandcover&mode=download",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 10,
+            "revision_id": "652a4001-3da6-4512-8bc5-98861ba7d71e",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "09cd5159-20f6-414b-aeec-6c722a7bb356",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:05:27.947030",
+            "webstore_last_updated": null,
+            "id": "fb41fc84-3706-4aa6-bbb1-4622de827b16",
+            "size": "1828",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Landcover (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "landcover.kml",
+            "created": "2014-03-12T14:52:41.268766",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms/kml?layers=geonode%3Alandcover&mode=refresh",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:05:27.800514",
+            "position": 11,
+            "revision_id": "95791ee1-0ed8-4b84-a2e3-e66e1f6351b2",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "09cd5159-20f6-414b-aeec-6c722a7bb356",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:26:55.398980",
+            "webstore_last_updated": null,
+            "id": "00525092-321a-4f19-8456-4c4562a523dc",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Landcover (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "landcover.tiles",
+            "created": "2014-03-12T14:52:41.268769",
+            "url": "http://geoclean.mountbatten.net/geoserver/gwc/service/gmaps?layers=geonode:landcover&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 12,
+            "revision_id": "652a4001-3da6-4512-8bc5-98861ba7d71e",
+            "resource_type": null
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "CLEAN",
+            "name": "CLEAN",
+            "revision_timestamp": "2014-11-04T22:26:55.398980",
+            "state": "active",
+            "id": "3acc157d-6cb7-4e71-8564-28ccf51ed93b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:26:55.398980",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:26:55.398980",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:26:55.398980",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:26:55.398980",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:26:55.398980",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:26:55.398980",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 4,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 7,
+    "name": "landcover",
+    "isopen": false,
+    "url": null,
+    "notes": "No abstract provided",
+    "title": "Landcover",
+    "extras": [
+        {
+            "value": "[\"None\"]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "652a4001-3da6-4512-8bc5-98861ba7d71e",
+                "package_id": "6a64a2ec-0e31-4025-ba08-0327cc39b759"
+            }
+        },
+        {
+            "value": "35.0273170871",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "652a4001-3da6-4512-8bc5-98861ba7d71e",
+                "package_id": "6a64a2ec-0e31-4025-ba08-0327cc39b759"
+            }
+        },
+        {
+            "value": "4.2345260500",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "6a64a2ec-0e31-4025-ba08-0327cc39b759",
+                "revision_id": "652a4001-3da6-4512-8bc5-98861ba7d71e"
+            }
+        },
+        {
+            "value": "-1.4802721208",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "652a4001-3da6-4512-8bc5-98861ba7d71e",
+                "package_id": "6a64a2ec-0e31-4025-ba08-0327cc39b759"
+            }
+        },
+        {
+            "value": "29.5641251230",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "652a4001-3da6-4512-8bc5-98861ba7d71e",
+                "package_id": "6a64a2ec-0e31-4025-ba08-0327cc39b759"
+            }
+        },
+        {
+            "value": "katy@mountbatten.net",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "6a64a2ec-0e31-4025-ba08-0327cc39b759",
+                "revision_id": "652a4001-3da6-4512-8bc5-98861ba7d71e"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "6a64a2ec-0e31-4025-ba08-0327cc39b759",
+                "revision_id": "652a4001-3da6-4512-8bc5-98861ba7d71e"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-02-19T03:15:35Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "6a64a2ec-0e31-4025-ba08-0327cc39b759",
+                "revision_id": "652a4001-3da6-4512-8bc5-98861ba7d71e"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "6a64a2ec-0e31-4025-ba08-0327cc39b759",
+                "revision_id": "652a4001-3da6-4512-8bc5-98861ba7d71e"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Landcover'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "6a64a2ec-0e31-4025-ba08-0327cc39b759",
+                "revision_id": "652a4001-3da6-4512-8bc5-98861ba7d71e"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "6a64a2ec-0e31-4025-ba08-0327cc39b759",
+                "revision_id": "652a4001-3da6-4512-8bc5-98861ba7d71e"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "652a4001-3da6-4512-8bc5-98861ba7d71e",
+                "package_id": "6a64a2ec-0e31-4025-ba08-0327cc39b759"
+            }
+        },
+        {
+            "value": "64083bfc-9946-11e3-a848-65994865a09c",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "652a4001-3da6-4512-8bc5-98861ba7d71e",
+                "package_id": "6a64a2ec-0e31-4025-ba08-0327cc39b759"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "652a4001-3da6-4512-8bc5-98861ba7d71e",
+                "package_id": "6a64a2ec-0e31-4025-ba08-0327cc39b759"
+            }
+        },
+        {
+            "value": "2014-02-19T03:15:35Z",
+            "key": "metadata-date",
+            "__extras": {
+                "revision_id": "652a4001-3da6-4512-8bc5-98861ba7d71e",
+                "package_id": "6a64a2ec-0e31-4025-ba08-0327cc39b759"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "652a4001-3da6-4512-8bc5-98861ba7d71e",
+                "package_id": "6a64a2ec-0e31-4025-ba08-0327cc39b759"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "revision_id": "652a4001-3da6-4512-8bc5-98861ba7d71e",
+                "package_id": "6a64a2ec-0e31-4025-ba08-0327cc39b759"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "6a64a2ec-0e31-4025-ba08-0327cc39b759",
+                "revision_id": "652a4001-3da6-4512-8bc5-98861ba7d71e"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "revision_id": "652a4001-3da6-4512-8bc5-98861ba7d71e",
+                "package_id": "6a64a2ec-0e31-4025-ba08-0327cc39b759"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.564125123, -1.4802721208], [35.0273170871, -1.4802721208], [35.0273170871, 4.23452605], [29.564125123, 4.23452605], [29.564125123, -1.4802721208]]]}",
+            "key": "spatial",
+            "__extras": {
+                "package_id": "6a64a2ec-0e31-4025-ba08-0327cc39b759",
+                "revision_id": "652a4001-3da6-4512-8bc5-98861ba7d71e"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "6a64a2ec-0e31-4025-ba08-0327cc39b759",
+                "revision_id": "652a4001-3da6-4512-8bc5-98861ba7d71e"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "package_id": "6a64a2ec-0e31-4025-ba08-0327cc39b759",
+                "revision_id": "652a4001-3da6-4512-8bc5-98861ba7d71e"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "652a4001-3da6-4512-8bc5-98861ba7d71e",
+                "package_id": "6a64a2ec-0e31-4025-ba08-0327cc39b759"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "652a4001-3da6-4512-8bc5-98861ba7d71e"
+}

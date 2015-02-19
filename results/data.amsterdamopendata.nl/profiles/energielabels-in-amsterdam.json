@@ -1,0 +1,207 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2014-08-28T08:20:24.336168",
+    "id": "1ba85a5b-c6ca-4d7d-b60f-b6c1fa47bc36",
+    "metadata_created": "2013-05-15T12:41:31.840639",
+    "owner_org": null,
+    "metadata_modified": "2014-08-28T08:20:24.336168",
+    "author": "Agentschap NL en Amsterdam Dienst Ruimtelijke Ordening (DRO)",
+    "author_email": "info@dro.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "a0a59b05-d324-49db-bbc6-7e61426b2477",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-08-28T08:20:24.336168",
+            "webstore_last_updated": null,
+            "id": "b4a4d578-841f-44ad-9b28-d400b5b41a7d",
+            "size": "22970881",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Energielabels (CSV)",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "selectie gemeentes Amsterdam 4-1-2012.csv",
+            "created": "2014-08-28T10:20:24.372123",
+            "url": "http://www.amsterdamopendata.nl/documents/10180/24933/selectie gemeentes Amsterdam 4-1-2012.csv",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "aeb966e7-bcc9-4b1d-a6aa-eceb4a834b0f",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "a0a59b05-d324-49db-bbc6-7e61426b2477",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-08-28T08:20:24.336168",
+            "webstore_last_updated": null,
+            "id": "1d7662f8-3e07-49f7-9b31-ee95132ca02f",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Energielabels (via CitySDK)",
+            "format": "url",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "http://api.citysdk.waag.org/nodes?layer=2cm.energie_labels_amsterdam&geom",
+            "created": "2014-08-28T10:20:24.372143",
+            "url": "http://api.citysdk.waag.org/nodes?layer=2cm.energie_labels_amsterdam&geom",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "aeb966e7-bcc9-4b1d-a6aa-eceb4a834b0f",
+            "resource_type": "api"
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "elektriciteit",
+            "name": "elektriciteit",
+            "revision_timestamp": "2013-05-15T12:41:31.840639",
+            "state": "active",
+            "id": "19b76915-5c52-418c-8a73-fdda1de51234"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "energielabels",
+            "name": "energielabels",
+            "revision_timestamp": "2013-05-15T12:41:31.840639",
+            "state": "active",
+            "id": "a6414773-1c30-4256-81f3-e903e13d67f4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "energieverbruik",
+            "name": "energieverbruik",
+            "revision_timestamp": "2013-05-15T12:41:31.840639",
+            "state": "active",
+            "id": "64c2c967-3ac9-4108-9d75-24f1338b8d32"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "gas",
+            "name": "gas",
+            "revision_timestamp": "2013-05-15T12:41:31.840639",
+            "state": "active",
+            "id": "e741f339-fce5-4340-89e6-daa3ce47a01b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "warmte",
+            "name": "warmte",
+            "revision_timestamp": "2013-06-11T14:10:08.690521",
+            "state": "active",
+            "id": "d5cb23ea-5767-4924-8bbd-b60523dccf3f"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Energie",
+            "description": "",
+            "name": "energie",
+            "id": "14dc43ca-3c44-4ecb-8580-bb02b51ec950"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "energielabels-in-amsterdam",
+    "isopen": false,
+    "url": null,
+    "notes": "Energielabels in Amsterdam  Ruwe data van afgegeven energielabels van gebouwen in Amsterdam. Per energielabel is de beschikbare informatie: gebouwinformatie; dit betreft de postcode, het huisnummer, eventuele huisnummertoevoeging en een vrij veld dat gebruikt kan worden voor extra gebouw identificatie met verder het woningtype of hoofdgebruiksfunctie; het certificaatnummer, de datum van opname en registratie door de adviseur, de labelwaarde (energie-index) en de labelklasse, bron van de opname; het berekende gebouwgebonden energieverbruik in MJ, en indien beschikbaar m3 gas, kWh elektrisch, MJ warmte en het aantal m2 van het gebouw.Deze data is ook beschikbaar via CitySDK",
+    "title": "Energielabels in Amsterdam",
+    "extras": [
+        {
+            "value": "info@dro.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "1ba85a5b-c6ca-4d7d-b60f-b6c1fa47bc36",
+                "revision_id": "1f4fb841-d174-4a61-8d05-ff9639e12c60"
+            }
+        },
+        {
+            "value": "Agentschap NL en Amsterdam Dienst Ruimtelijke Ordening (DRO)",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "1f4fb841-d174-4a61-8d05-ff9639e12c60",
+                "package_id": "1ba85a5b-c6ca-4d7d-b60f-b6c1fa47bc36"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "1f4fb841-d174-4a61-8d05-ff9639e12c60",
+                "package_id": "1ba85a5b-c6ca-4d7d-b60f-b6c1fa47bc36"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "1f4fb841-d174-4a61-8d05-ff9639e12c60",
+                "package_id": "1ba85a5b-c6ca-4d7d-b60f-b6c1fa47bc36"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "1ba85a5b-c6ca-4d7d-b60f-b6c1fa47bc36",
+                "revision_id": "1f4fb841-d174-4a61-8d05-ff9639e12c60"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "1ba85a5b-c6ca-4d7d-b60f-b6c1fa47bc36",
+                "revision_id": "1f4fb841-d174-4a61-8d05-ff9639e12c60"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "1f4fb841-d174-4a61-8d05-ff9639e12c60",
+                "package_id": "1ba85a5b-c6ca-4d7d-b60f-b6c1fa47bc36"
+            }
+        },
+        {
+            "value": "",
+            "key": "website",
+            "__extras": {
+                "package_id": "1ba85a5b-c6ca-4d7d-b60f-b6c1fa47bc36",
+                "revision_id": "1f4fb841-d174-4a61-8d05-ff9639e12c60"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "aeb966e7-bcc9-4b1d-a6aa-eceb4a834b0f"
+}

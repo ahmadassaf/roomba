@@ -1,0 +1,156 @@
+{
+    "license_title": "Creative Commons Attribution 4.0",
+    "maintainer": "Open Data Team",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "opendata@edostate.gov.ng",
+    "revision_timestamp": "2014-11-06T16:31:55.702380",
+    "id": "7ff8cf46-9e4b-4fe5-a021-f9fa9d46ac2d",
+    "metadata_created": "2014-11-06T16:31:55.702380",
+    "owner_org": null,
+    "metadata_modified": "2014-12-18T16:46:22.965044",
+    "author": "ministry of Health",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "8930360c-c671-40a3-a4fb-1b87e19840d1",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-18T16:46:22.965044",
+            "webstore_last_updated": "2014-07-08T13:48:00.402303",
+            "id": "6241ce56-58c2-468c-973d-980cd5e19e9d",
+            "size": "14867968",
+            "state": "active",
+            "hash": "{\"content\": \"93930b5298aabb1602f23c5e847075e569a53d78\", \"header\": \"4a9876e8481f63590964e6616fb26dc43a370d7a\"}",
+            "description": "This dataset contains monthly Routine notification form for Edo state disease surveillance, disaggregated by LGA for the year 2012.",
+            "format": "XLS",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/vnd.ms-excel",
+            "cache_url": null,
+            "name": "Edo State Disease Surveillance Survey 2012.xls",
+            "created": "2013-07-29T13:39:25.703041",
+            "url": "http://data.edostate.gov.ng/storage/f/2013-07-29T13%3A17%3A39.117Z/edo-state-disease-surveillance-survey-2012.xls",
+            "webstore_url": "active",
+            "last_modified": "2014-07-08T13:47:28.231806",
+            "position": 0,
+            "revision_id": "3d7df599-3a7e-4a6b-b615-997c2456abb3",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Disease surveillance",
+            "name": "Disease surveillance",
+            "revision_timestamp": "2014-11-06T16:31:55.702380",
+            "state": "active",
+            "id": "70253c94-4aef-45ee-be6e-81752342b6b1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Routine",
+            "name": "Routine",
+            "revision_timestamp": "2014-11-06T16:31:55.702380",
+            "state": "active",
+            "id": "9b9f867a-f84d-4ece-943f-f1fb20a2ac9a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Routine notification form",
+            "name": "Routine notification form",
+            "revision_timestamp": "2014-11-06T16:31:55.702380",
+            "state": "active",
+            "id": "c9a3a163-31e8-4f88-ad38-8af2e5058c8c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-06T16:31:55.702380",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "edo state",
+            "name": "edo state",
+            "revision_timestamp": "2014-11-06T16:31:55.702380",
+            "state": "active",
+            "id": "b7ac55fa-8449-416f-be17-e59c4c154e51"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "nigeria",
+            "name": "nigeria",
+            "revision_timestamp": "2014-11-06T16:31:55.702380",
+            "state": "active",
+            "id": "d5e39c15-faf7-4e35-96a0-cb88ec7becb1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open data",
+            "name": "open data",
+            "revision_timestamp": "2014-11-06T16:31:55.702380",
+            "state": "active",
+            "id": "5977073f-ae9b-420d-b468-636bfcf752de"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "west africa",
+            "name": "west africa",
+            "revision_timestamp": "2014-11-06T16:31:55.702380",
+            "state": "active",
+            "id": "82a06d2c-708d-44e5-b6c4-0aef079cbf6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "western africa",
+            "name": "western africa",
+            "revision_timestamp": "2014-11-06T16:31:55.702380",
+            "state": "active",
+            "id": "0297e4dc-f3f3-4b3a-bf41-50dd715a453a"
+        }
+    ],
+    "tracking_summary": {
+        "total": 4,
+        "recent": 3
+    },
+    "groups": [
+        {
+            "title": "Nigeria",
+            "description": "Datasets from the Republic of Nigeria",
+            "name": "nigeria",
+            "id": "6e482307-7e70-4db4-a3f2-91db4e2b90bc"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 9,
+    "name": "edo-state-disease-surveillance-survey-2012",
+    "isopen": true,
+    "url": null,
+    "notes": "This dataset contains monthly Routine notification form for Edo state disease surveillance, disaggregated by LGA for the year 2012.",
+    "title": "Edo state disease surveillance survey 2012",
+    "extras": [],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "organization": null,
+    "revision_id": "ff986c52-e7b9-46ce-894d-59202a1a8db0",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

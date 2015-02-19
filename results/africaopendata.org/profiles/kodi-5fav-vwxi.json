@@ -1,0 +1,138 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:50:44.970649",
+    "id": "de7f2fa1-be86-4739-93b7-68166665e4a5",
+    "metadata_created": "2012-09-11T13:50:44.970649",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:08:04.560762",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "f0195697-735b-43fe-8d75-84f667857546",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:08:04.560762",
+            "webstore_last_updated": "2013-10-10T12:08:04.492963",
+            "id": "beb63c3f-6ac8-4ce6-bb2d-2e624a39fa5e",
+            "size": "6519",
+            "state": "active",
+            "hash": "1f4846515d5df8461f814508e0de97a0bb3ce065",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Households by main mode of human waste disposal.csv",
+            "created": "2012-09-11T13:50:45.025244",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155330/5fav-vwxi.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T10:42:02.230499",
+            "position": 0,
+            "revision_id": "06480432-47af-4752-a797-f5db4f66915c",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "census",
+            "name": "census",
+            "revision_timestamp": "2012-09-11T13:50:44.970649",
+            "state": "active",
+            "id": "ddb0e0e8-a185-4354-a375-3ad64ee35988"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "households",
+            "name": "households",
+            "revision_timestamp": "2012-09-11T13:50:44.970649",
+            "state": "active",
+            "id": "9297b3a1-bbba-4d65-a4da-558a097804d0"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:50:44.970649",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:50:44.970649",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "sanitation",
+            "name": "sanitation",
+            "revision_timestamp": "2012-09-11T13:50:44.970649",
+            "state": "active",
+            "id": "4b46d055-703f-484c-b50a-3b3ab2b414e2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 69,
+        "recent": 3
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "kodi-5fav-vwxi",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Census Vol II Table 9: Households by main mode of Human Waste Disposal, County estimates",
+    "title": "Households by main mode of human waste disposal",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "d7087148-aa10-40d5-91b7-678a38269ca5",
+                "package_id": "de7f2fa1-be86-4739-93b7-68166665e4a5"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "d7087148-aa10-40d5-91b7-678a38269ca5",
+                "package_id": "de7f2fa1-be86-4739-93b7-68166665e4a5"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "d7087148-aa10-40d5-91b7-678a38269ca5",
+                "package_id": "de7f2fa1-be86-4739-93b7-68166665e4a5"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "d7087148-aa10-40d5-91b7-678a38269ca5"
+}

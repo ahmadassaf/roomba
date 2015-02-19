@@ -1,0 +1,138 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Kenya Open Data Bot",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T12:02:18.351177",
+    "id": "e10ae513-2ce2-42e2-891b-3db5865bdceb",
+    "metadata_created": "2012-09-10T12:02:18.351177",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:15:58.979881",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "84803b0a-6c10-4bdf-a2af-d6acff35621f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:15:58.979881",
+            "webstore_last_updated": "2013-10-10T12:15:58.907441",
+            "id": "db7e921b-e83a-4aee-ba7b-a37e6e855e7d",
+            "size": "173",
+            "state": "active",
+            "hash": "31877faf5a598fffe369ad726e53ce541e5ff1c4",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "County Urbanization: Murang'a.csv",
+            "created": "2012-09-11T13:33:55.873617",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T153640/9qgm-exbm.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T10:42:06.411473",
+            "position": 0,
+            "revision_id": "a62001fb-33c5-4357-b916-1822a7ac5771",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "county",
+            "name": "county",
+            "revision_timestamp": "2012-09-10T12:02:18.351177",
+            "state": "active",
+            "id": "858f3acf-2c66-4fd9-9dc2-32e4f12121a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T12:02:18.351177",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T12:02:18.351177",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population",
+            "name": "population",
+            "revision_timestamp": "2012-09-10T12:02:18.351177",
+            "state": "active",
+            "id": "c5e39de5-556e-4bcb-883b-5b9ec2481ae9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "urbanisation",
+            "name": "urbanisation",
+            "revision_timestamp": "2012-09-10T12:02:18.351177",
+            "state": "active",
+            "id": "0a352ac2-4503-4c03-8962-ef4f605e793e"
+        }
+    ],
+    "tracking_summary": {
+        "total": 55,
+        "recent": 4
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "kodi-9qgm-exbm",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Census population by rural, urban, County estimates",
+    "title": "County Urbanization: Murang'a",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "a8138067-9801-4d98-a05e-2ca8744c5509",
+                "package_id": "e10ae513-2ce2-42e2-891b-3db5865bdceb"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "a8138067-9801-4d98-a05e-2ca8744c5509",
+                "package_id": "e10ae513-2ce2-42e2-891b-3db5865bdceb"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "a8138067-9801-4d98-a05e-2ca8744c5509",
+                "package_id": "e10ae513-2ce2-42e2-891b-3db5865bdceb"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "a8138067-9801-4d98-a05e-2ca8744c5509"
+}

@@ -1,0 +1,138 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:48:20.357949",
+    "id": "83c79633-9bba-4ae4-9d8b-129ef010eae1",
+    "metadata_created": "2012-09-11T13:48:20.357949",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:10:44.108673",
+    "author": "Chris Metcalf",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "7583232b-b252-47fd-96b0-50bfb12be8c9",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:10:44.108673",
+            "webstore_last_updated": "2013-10-10T12:10:44.038830",
+            "id": "9a562e51-d9c6-466c-8b72-34ba4131d60a",
+            "size": "6443245",
+            "state": "active",
+            "hash": "3ba6d1b8ce25294309b367d13853675259b28e69",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 4,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Primary and Secondary Schools Map.csv",
+            "created": "2012-09-11T13:48:20.411257",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155059/vk7q-wbys.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-13T23:00:00.969739",
+            "position": 0,
+            "revision_id": "000582fc-7c0a-419f-9f4d-9085823f1182",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "education",
+            "name": "education",
+            "revision_timestamp": "2012-09-11T13:48:20.357949",
+            "state": "active",
+            "id": "4bc98291-13cc-4baf-b090-52376fa3a429"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:48:20.357949",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:48:20.357949",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "primary schools",
+            "name": "primary schools",
+            "revision_timestamp": "2012-09-11T13:48:20.357949",
+            "state": "active",
+            "id": "90a5a1bf-d17b-4b46-88ff-7b8395964da6"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "schools",
+            "name": "schools",
+            "revision_timestamp": "2012-09-11T13:48:20.357949",
+            "state": "active",
+            "id": "79daea23-54f2-4724-94ee-be15d5dc4957"
+        }
+    ],
+    "tracking_summary": {
+        "total": 63,
+        "recent": 4
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "kodi-vk7q-wbys",
+    "isopen": true,
+    "url": "http://www.education.go.ke",
+    "notes": "School mapping datasets, Ministry of Education. Color of location circle indicates total enrollment numbers (blue large school, black small school) and the size of the location circle indicates pupil teacher ratios. E.g. Black large circle is a small school with a high pupil teacher ratio.",
+    "title": "Primary and Secondary Schools Map",
+    "extras": [
+        {
+            "value": "Ministry of Education",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "418c6e57-3e1b-439b-b038-52f064d42b66",
+                "package_id": "83c79633-9bba-4ae4-9d8b-129ef010eae1"
+            }
+        },
+        {
+            "value": "Education",
+            "key": "category",
+            "__extras": {
+                "revision_id": "418c6e57-3e1b-439b-b038-52f064d42b66",
+                "package_id": "83c79633-9bba-4ae4-9d8b-129ef010eae1"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "418c6e57-3e1b-439b-b038-52f064d42b66",
+                "package_id": "83c79633-9bba-4ae4-9d8b-129ef010eae1"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "418c6e57-3e1b-439b-b038-52f064d42b66"
+}

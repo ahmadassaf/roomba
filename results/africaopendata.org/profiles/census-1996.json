@@ -1,0 +1,125 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-11-19T11:43:11.779776",
+    "id": "7fbae332-6cbd-4012-8958-975fcc5a47d2",
+    "metadata_created": "2013-11-19T11:42:01.244895",
+    "owner_org": null,
+    "metadata_modified": "2014-01-25T18:33:19.353006",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "5253dc2a-e0f6-4b1d-b10b-729335e15501",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-01-25T18:32:53.304646",
+            "webstore_last_updated": null,
+            "id": "c8753317-d7cd-433b-bd9e-c244dbb2475c",
+            "size": "72160",
+            "state": "active",
+            "hash": "",
+            "description": "",
+            "format": "xlsx",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "cache_url": null,
+            "name": "SA-local-municipalities.xlsx",
+            "created": "2013-11-19T11:42:27.604299",
+            "url": "http://africaopendata.org/storage/f/2013-11-19T11%3A40%3A44.485Z/sa-local-municipalities.xlsx",
+            "webstore_url": null,
+            "last_modified": "2014-01-25T18:32:53.210359",
+            "position": 0,
+            "revision_id": "db3dc088-50bb-42a6-8488-4e527701f08a",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "5253dc2a-e0f6-4b1d-b10b-729335e15501",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-01-25T18:33:19.353006",
+            "webstore_last_updated": null,
+            "id": "1267d121-28d0-4d9d-9916-9e86382a9527",
+            "size": "48903",
+            "state": "active",
+            "hash": "",
+            "description": "",
+            "format": "xlsx",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "cache_url": null,
+            "name": "SA-Main-water-supply.xlsx",
+            "created": "2013-11-19T11:42:47.909245",
+            "url": "http://africaopendata.org/storage/f/2013-11-19T11%3A41%3A08.218Z/sa-main-water-supply.xlsx",
+            "webstore_url": null,
+            "last_modified": "2014-01-25T18:33:19.219967",
+            "position": 1,
+            "revision_id": "ff0449d9-c102-4b33-b983-44a36aadd516",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "1996",
+            "name": "1996",
+            "revision_timestamp": "2013-11-19T11:42:01.244895",
+            "state": "active",
+            "id": "080b072c-2695-47e1-ab07-c1c26c3c8886"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "census",
+            "name": "census",
+            "revision_timestamp": "2013-11-19T11:42:01.244895",
+            "state": "active",
+            "id": "ddb0e0e8-a185-4354-a375-3ad64ee35988"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "south africa",
+            "name": "south africa",
+            "revision_timestamp": "2013-11-19T11:42:01.244895",
+            "state": "active",
+            "id": "bd037a16-d2e3-4945-89eb-3ae7f142f7fb"
+        }
+    ],
+    "tracking_summary": {
+        "total": 151,
+        "recent": 3
+    },
+    "groups": [
+        {
+            "title": "South Africa",
+            "description": "Datasets from South Africa",
+            "name": "south-africa",
+            "id": "fc691a3f-cfce-46d6-93a0-77bdccfec89d"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "census-1996",
+    "isopen": false,
+    "url": null,
+    "notes": "Summary statistics for the 1996 Census at the subplace level.",
+    "title": "Census 1996",
+    "extras": [],
+    "organization": null,
+    "revision_id": "8db35f6b-3944-4121-9cf5-3f9d6bfde091"
+}

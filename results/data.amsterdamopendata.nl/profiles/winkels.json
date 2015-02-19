@@ -1,0 +1,192 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2014-02-25T11:50:43.598507",
+    "id": "2a1677dd-2089-4288-9694-b2bbf9a2bad6",
+    "metadata_created": "2013-05-16T10:01:54.701393",
+    "owner_org": null,
+    "metadata_modified": "2015-01-23T02:58:41.723905",
+    "author": "Amsterdam Marketing",
+    "author_email": "info@iamsterdam.com",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "1b440f24-23f6-406b-9cb9-726b5853b177",
+            "cache_last_updated": null,
+            "revision_timestamp": "2015-01-23T02:58:41.723905",
+            "webstore_last_updated": null,
+            "id": "82057d4f-33b8-45e9-9677-b2f433341eb3",
+            "size": "756510",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Winkels (CSV)",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "http://www.amsterdamopendata.nl/files/Shoppen.csv",
+            "created": "2014-06-10T09:31:59.501776",
+            "url": "http://www.amsterdamopendata.nl/files/Shoppen.csv",
+            "webstore_url": null,
+            "last_modified": "2015-01-23T02:49:44",
+            "position": 0,
+            "revision_id": "367cf313-c923-4726-9b1f-799eff070d08",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "1b440f24-23f6-406b-9cb9-726b5853b177",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-06-10T07:31:59.465884",
+            "webstore_last_updated": null,
+            "id": "bce63923-a3a6-4157-aed1-a810cd036da0",
+            "size": "1350323",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Winkels (JSON)",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "http://www.amsterdamopendata.nl/files/Shoppen.json",
+            "created": "2014-06-10T09:31:59.501806",
+            "url": "http://www.amsterdamopendata.nl/files/Shoppen.json",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "7c2a22d8-5a56-4dd4-9d2d-5dc411677951",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "shoppen",
+            "name": "shoppen",
+            "revision_timestamp": "2013-05-16T10:01:54.701393",
+            "state": "active",
+            "id": "f47910a0-7344-45db-be32-968535888bf8"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "toerisme\n",
+            "name": "toerisme\n",
+            "revision_timestamp": "2013-05-16T10:01:54.701393",
+            "state": "active",
+            "id": "4794e138-fff0-44db-8c4d-d7d9b2e5ab12"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "winkels",
+            "name": "winkels",
+            "revision_timestamp": "2013-05-16T10:01:54.701393",
+            "state": "active",
+            "id": "1b708e67-d0f0-4be7-a4c9-77cb9e33ebde"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Toerisme & cultuur",
+            "description": "",
+            "name": "toerisme-cultuur",
+            "id": "ea426321-bf88-499e-be18-d11d20001350"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "winkels",
+    "isopen": false,
+    "url": null,
+    "notes": "Alle winkels in Amsterdam en omgeving zoals deze door het Amsterdam Marketing worden beheerd. Dit bestand wordt dagelijks vernieuwd, titels en toelichtingen in Nederlands en Engels.",
+    "title": "Winkels",
+    "extras": [
+        {
+            "value": "info@iamsterdam.com",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "2a1677dd-2089-4288-9694-b2bbf9a2bad6",
+                "revision_id": "81ef47a5-18c8-4518-917a-e8ba2dddea25"
+            }
+        },
+        {
+            "value": "Amsterdam Marketing",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "81ef47a5-18c8-4518-917a-e8ba2dddea25",
+                "package_id": "2a1677dd-2089-4288-9694-b2bbf9a2bad6"
+            }
+        },
+        {
+            "value": "23/01/2015",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "367cf313-c923-4726-9b1f-799eff070d08",
+                "package_id": "2a1677dd-2089-4288-9694-b2bbf9a2bad6"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "81ef47a5-18c8-4518-917a-e8ba2dddea25",
+                "package_id": "2a1677dd-2089-4288-9694-b2bbf9a2bad6"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "2a1677dd-2089-4288-9694-b2bbf9a2bad6",
+                "revision_id": "81ef47a5-18c8-4518-917a-e8ba2dddea25"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "2a1677dd-2089-4288-9694-b2bbf9a2bad6",
+                "revision_id": "81ef47a5-18c8-4518-917a-e8ba2dddea25"
+            }
+        },
+        {
+            "value": "Dagelijks",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "81ef47a5-18c8-4518-917a-e8ba2dddea25",
+                "package_id": "2a1677dd-2089-4288-9694-b2bbf9a2bad6"
+            }
+        },
+        {
+            "value": "http://www.iamsterdam.com",
+            "key": "website",
+            "__extras": {
+                "package_id": "2a1677dd-2089-4288-9694-b2bbf9a2bad6",
+                "revision_id": "81ef47a5-18c8-4518-917a-e8ba2dddea25"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "57d9c95f-2526-4a34-886f-322aafbbb4aa"
+}

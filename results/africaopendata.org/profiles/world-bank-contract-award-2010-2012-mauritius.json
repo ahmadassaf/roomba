@@ -1,0 +1,108 @@
+{
+    "license_title": "Open Data Commons Attribution License 1.0",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-11-04T17:57:54.744865",
+    "id": "1cdfb3ec-be61-46bd-8ec2-b290985a25f5",
+    "metadata_created": "2012-11-04T17:57:36.543589",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:57:56.395914",
+    "author": "World Bank (finance.worldbank.org)",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "ODC-BY-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "5b1551ae-43da-4e7d-99a2-908c253e525c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:57:56.395914",
+            "webstore_last_updated": "2013-10-10T10:57:56.263906",
+            "id": "658fda64-78c7-4bee-8686-a290e041ae19",
+            "size": "6777",
+            "state": "active",
+            "hash": "fddb119082ff4af03d0ef332ce78d32da927c4ba",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Major_Contract_Awards_FY2010-12_-_Africa_Region-Mauritius.csv",
+            "created": "2012-11-04T17:57:45.418671",
+            "url": "http://africaopendata.org/storage/f/2012-11-04T17%3A57%3A40.806Z/major-contract-awards-fy2010-12-africa-region-mauritius.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:29:11.444106",
+            "position": 0,
+            "revision_id": "686c25a9-43ac-407c-80eb-fd56471e31ce",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Contracts",
+            "name": "Contracts",
+            "revision_timestamp": "2012-11-04T17:57:36.543589",
+            "state": "active",
+            "id": "c60bfb8e-35f5-487b-b481-b489447b7cef"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Mauritius",
+            "name": "Mauritius",
+            "revision_timestamp": "2012-11-04T17:57:36.543589",
+            "state": "active",
+            "id": "4077f6c5-0753-4f4e-a89e-2ba54fb63c08"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "World Bank",
+            "name": "World Bank",
+            "revision_timestamp": "2012-11-04T17:57:36.543589",
+            "state": "active",
+            "id": "ae91265e-0b5c-45a0-a96f-02cf356ec937"
+        }
+    ],
+    "tracking_summary": {
+        "total": 45,
+        "recent": 11
+    },
+    "groups": [
+        {
+            "title": "Mauritius",
+            "description": "Datasets on the Republic of Mauritius",
+            "name": "mauritius",
+            "id": "0223a118-8dec-47b3-940c-f4adedb1ee40"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "world-bank-contract-award-2010-2012-mauritius",
+    "isopen": true,
+    "url": null,
+    "notes": "This set of contract awards includes data on commitments against contracts that were reviewed by the Bank before they were awarded (prior-reviewed Bank-funded contracts) under IDA/IBRD investment projects and related Trust Funds. This dataset does not list all contracts awarded by the Bank, and should be viewed only as a guide to determine the distribution of major contract commitments among the Bank's member countries. \"Supplier Country\" represents place of supplier registration, which may or not be the supplier's actual country of origin. Information does not include awards to subcontractors nor account for cofinancing. The Procurement Policy and Services Group does not guarantee the data included in this publication and accepts no responsibility whatsoever for any consequences of its use. The World Bank complies with all sanctions applicable to World Bank transactions.\r\n",
+    "title": "World Bank Contract Award 2010-2012 - Mauritius",
+    "extras": [],
+    "license_url": "http://www.opendefinition.org/licenses/odc-by",
+    "organization": null,
+    "revision_id": "6156c3b5-01a4-49fd-a2ab-3d257e180601",
+    "license_information": {
+        "domain_content": false,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Open Data Commons",
+        "status": "active"
+    }
+}

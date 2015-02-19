@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Kenya Visualization Bot",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T12:52:29.151941",
+    "id": "d10ed48b-c096-4c1c-9971-57ea1631e40f",
+    "metadata_created": "2012-09-10T12:52:29.151941",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:13:12.402088",
+    "author": "Chris Metcalf",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "07d6608c-c640-494d-b039-2a70f34a3af1",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:13:12.402088",
+            "webstore_last_updated": "2013-10-10T12:13:12.332978",
+            "id": "b248931f-beca-4f30-8b7f-ce72b198f7cd",
+            "size": "246",
+            "state": "active",
+            "hash": "68e2e5d2e7cb5641001d764070a9288212b6be91",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Isiolo Age Pyramid.csv",
+            "created": "2012-09-11T13:38:11.177255",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T154056/3q9j-i6aj.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:49:50.821045",
+            "position": 0,
+            "revision_id": "03229399-6c4f-4e53-87c7-6e2d5e46a6ff",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T12:52:29.151941",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T12:52:29.151941",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population",
+            "name": "population",
+            "revision_timestamp": "2012-09-10T12:52:29.151941",
+            "state": "active",
+            "id": "c5e39de5-556e-4bcb-883b-5b9ec2481ae9"
+        }
+    ],
+    "tracking_summary": {
+        "total": 43,
+        "recent": 6
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-3q9j-i6aj",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Male and female population by age group.",
+    "title": "Isiolo Age Pyramid",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "08788c9d-af31-40a1-b5bf-cdaccca95290",
+                "package_id": "d10ed48b-c096-4c1c-9971-57ea1631e40f"
+            }
+        },
+        {
+            "value": "Population",
+            "key": "category",
+            "__extras": {
+                "revision_id": "08788c9d-af31-40a1-b5bf-cdaccca95290",
+                "package_id": "d10ed48b-c096-4c1c-9971-57ea1631e40f"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "08788c9d-af31-40a1-b5bf-cdaccca95290",
+                "package_id": "d10ed48b-c096-4c1c-9971-57ea1631e40f"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "08788c9d-af31-40a1-b5bf-cdaccca95290"
+}

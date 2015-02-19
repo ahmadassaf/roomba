@@ -1,0 +1,667 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:26:33.172909",
+    "id": "5f61398f-3390-4393-8c8a-f3111c5e65ff",
+    "metadata_created": "2014-11-04T22:26:33.172909",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:48:52.892614",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "e90c8592-cdf0-4339-b264-9ffe6fff254e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:03:35.230048",
+            "webstore_last_updated": null,
+            "id": "fcb7a918-83fd-4c2d-9433-39690db16757",
+            "size": "62504",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "d2003098d818c133727ed52c7ac599f3f25edf3c",
+            "description": "Online link to the 'Gross Enrolment Rate In Primary Education 2004' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:52:06.960697",
+            "url": "http://maps.data.ug/layers/geonode:gross_enrolment_rate_in_primary_education_2004",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:03:35.088676",
+            "position": 0,
+            "revision_id": "7481cef0-4c4c-4ac6-8431-b8a7d45ab821",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e90c8592-cdf0-4339-b264-9ffe6fff254e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:26:33.172909",
+            "webstore_last_updated": null,
+            "id": "8f26a069-9ce7-4597-b3fb-ededa4ec7447",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Gross Enrolment Rate In Primary Education 2004 (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "gross_enrolment_rate_in_primary_education_2004.tiles",
+            "created": "2014-03-12T14:52:06.960721",
+            "url": "http://maps.data.ug/geoserver/gwc/service/gmaps?layers=geonode:gross_enrolment_rate_in_primary_education_2004&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "c57d0553-b49c-4b71-b3da-9ddd4a1322d5",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "e90c8592-cdf0-4339-b264-9ffe6fff254e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:03:26.553453",
+            "webstore_last_updated": null,
+            "id": "861a586c-81df-4fe1-8755-9ffe8ee764b0",
+            "size": "1935",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Gross Enrolment Rate In Primary Education 2004 (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "gross_enrolment_rate_in_primary_education_2004.kml",
+            "created": "2014-03-12T14:52:06.960729",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Agross_enrolment_rate_in_primary_education_2004&mode=refresh",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:03:26.302505",
+            "position": 2,
+            "revision_id": "8d6009eb-451a-46c3-99d1-02bd3466f673",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e90c8592-cdf0-4339-b264-9ffe6fff254e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:03:22.994775",
+            "webstore_last_updated": null,
+            "id": "b153e48d-c3c0-4cdf-8551-0ea3058e010e",
+            "size": "584248",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Gross Enrolment Rate In Primary Education 2004 (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "gross_enrolment_rate_in_primary_education_2004.kml",
+            "created": "2014-03-12T14:52:06.960736",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Agross_enrolment_rate_in_primary_education_2004&mode=download",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:03:22.855592",
+            "position": 3,
+            "revision_id": "084d1c5a-9c8f-443c-86cb-9ddf686be5ee",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e90c8592-cdf0-4339-b264-9ffe6fff254e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:03:30.716989",
+            "webstore_last_updated": null,
+            "id": "0ab058dc-ed7c-4b94-9673-2847e1f39bbd",
+            "size": "372790",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Gross Enrolment Rate In Primary Education 2004 (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "gross_enrolment_rate_in_primary_education_2004.json",
+            "created": "2014-03-12T14:52:06.960743",
+            "url": "http://maps.data.ug/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Agross_enrolment_rate_in_primary_education_2004&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:03:30.443983",
+            "position": 4,
+            "revision_id": "e675238b-92eb-4d00-81e8-3bc6df18d989",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e90c8592-cdf0-4339-b264-9ffe6fff254e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:03:29.930277",
+            "webstore_last_updated": null,
+            "id": "255920e1-e0de-4977-beb9-50ffaadc4a64",
+            "size": "357888",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Gross Enrolment Rate In Primary Education 2004 (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "gross_enrolment_rate_in_primary_education_2004.excel",
+            "created": "2014-03-12T14:52:06.960750",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Agross_enrolment_rate_in_primary_education_2004&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:03:29.790276",
+            "position": 5,
+            "revision_id": "f6c06794-d2d1-4c43-ad8f-6ca2a8871253",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e90c8592-cdf0-4339-b264-9ffe6fff254e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:48:52.892614",
+            "webstore_last_updated": "2014-11-04T23:03:18.546482",
+            "id": "4d06718e-52e4-4b9c-a875-ad8fa6099be7",
+            "size": "349713",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Gross Enrolment Rate In Primary Education 2004 (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "gross_enrolment_rate_in_primary_education_2004.csv",
+            "created": "2014-03-12T14:52:06.960756",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Agross_enrolment_rate_in_primary_education_2004&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": "active",
+            "last_modified": "2014-11-04T23:03:21.135602",
+            "position": 6,
+            "revision_id": "5ad3f826-99d2-43d3-988d-b96aba062f0d",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e90c8592-cdf0-4339-b264-9ffe6fff254e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:03:31.597043",
+            "webstore_last_updated": null,
+            "id": "c70b899d-61dc-493d-846d-363dd427439f",
+            "size": "392557",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Gross Enrolment Rate In Primary Education 2004 (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "gross_enrolment_rate_in_primary_education_2004.gml",
+            "created": "2014-03-12T14:52:06.960763",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Agross_enrolment_rate_in_primary_education_2004&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:03:31.434766",
+            "position": 7,
+            "revision_id": "0edafda7-ee42-4d5b-9a31-6b3659f8d390",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e90c8592-cdf0-4339-b264-9ffe6fff254e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:03:24.665818",
+            "webstore_last_updated": null,
+            "id": "b2543765-e260-4ee2-adaf-d1e76fdba1b4",
+            "size": "272439",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Gross Enrolment Rate In Primary Education 2004 (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "gross_enrolment_rate_in_primary_education_2004.gml",
+            "created": "2014-03-12T14:52:06.960770",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Agross_enrolment_rate_in_primary_education_2004&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:03:24.531115",
+            "position": 8,
+            "revision_id": "d2ee508f-29ea-41a4-a00e-f6c1354f9a92",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e90c8592-cdf0-4339-b264-9ffe6fff254e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:03:19.349143",
+            "webstore_last_updated": null,
+            "id": "ecbee5b6-3639-409f-adac-6649bb53f324",
+            "size": "120069",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Gross Enrolment Rate In Primary Education 2004 (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "gross_enrolment_rate_in_primary_education_2004.zip",
+            "created": "2014-03-12T14:52:06.960777",
+            "url": "http://maps.data.ug/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Agross_enrolment_rate_in_primary_education_2004&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:03:19.208399",
+            "position": 9,
+            "revision_id": "13153470-bb44-4a2d-9c2a-3e95797a4e32",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e90c8592-cdf0-4339-b264-9ffe6fff254e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:03:28.667926",
+            "webstore_last_updated": null,
+            "id": "a73ac84d-83d4-42ce-9c83-02617fd35fa1",
+            "size": "56820",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Gross Enrolment Rate In Primary Education 2004 (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "gross_enrolment_rate_in_primary_education_2004.png",
+            "created": "2014-03-12T14:52:06.960783",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Agross_enrolment_rate_in_primary_education_2004&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:03:28.490480",
+            "position": 10,
+            "revision_id": "777b8b4a-8401-4a68-a0ac-e8ab0f2fd9b6",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e90c8592-cdf0-4339-b264-9ffe6fff254e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:03:32.573406",
+            "webstore_last_updated": null,
+            "id": "c76d4e72-6f19-4438-bb05-5116dd41b081",
+            "size": "41084",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Gross Enrolment Rate In Primary Education 2004 (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "gross_enrolment_rate_in_primary_education_2004.pdf",
+            "created": "2014-03-12T14:52:06.960790",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Agross_enrolment_rate_in_primary_education_2004&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:03:32.426740",
+            "position": 11,
+            "revision_id": "09b590d9-b0a9-4ed7-9d8c-c2954d8ee37e",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e90c8592-cdf0-4339-b264-9ffe6fff254e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:26:33.172909",
+            "webstore_last_updated": null,
+            "id": "b8ff1277-14d4-4011-864f-96145999269d",
+            "size": "34089",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Gross Enrolment Rate In Primary Education 2004 (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "gross_enrolment_rate_in_primary_education_2004.jpg",
+            "created": "2014-03-12T14:52:06.960797",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Agross_enrolment_rate_in_primary_education_2004&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:58:34.338077",
+            "position": 12,
+            "revision_id": "c57d0553-b49c-4b71-b3da-9ddd4a1322d5",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:26:33.172909",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:26:33.172909",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:26:33.172909",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:26:33.172909",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:26:33.172909",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:26:33.172909",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 4,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "gross-enrolment-rate-in-primary-education-2004",
+    "isopen": false,
+    "url": null,
+    "notes": "No abstract provided",
+    "title": "Gross Enrolment Rate In Primary Education 2004",
+    "extras": [
+        {
+            "value": "[\"None\"]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "c57d0553-b49c-4b71-b3da-9ddd4a1322d5",
+                "package_id": "5f61398f-3390-4393-8c8a-f3111c5e65ff"
+            }
+        },
+        {
+            "value": "35.0017411394285",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "c57d0553-b49c-4b71-b3da-9ddd4a1322d5",
+                "package_id": "5f61398f-3390-4393-8c8a-f3111c5e65ff"
+            }
+        },
+        {
+            "value": "4.23101141736341",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "5f61398f-3390-4393-8c8a-f3111c5e65ff",
+                "revision_id": "c57d0553-b49c-4b71-b3da-9ddd4a1322d5"
+            }
+        },
+        {
+            "value": "-1.48174401785639",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "c57d0553-b49c-4b71-b3da-9ddd4a1322d5",
+                "package_id": "5f61398f-3390-4393-8c8a-f3111c5e65ff"
+            }
+        },
+        {
+            "value": "29.5741674480582",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "c57d0553-b49c-4b71-b3da-9ddd4a1322d5",
+                "package_id": "5f61398f-3390-4393-8c8a-f3111c5e65ff"
+            }
+        },
+        {
+            "value": "katy@mountbatten.net",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "5f61398f-3390-4393-8c8a-f3111c5e65ff",
+                "revision_id": "c57d0553-b49c-4b71-b3da-9ddd4a1322d5"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "5f61398f-3390-4393-8c8a-f3111c5e65ff",
+                "revision_id": "c57d0553-b49c-4b71-b3da-9ddd4a1322d5"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-02-25T05:51:10Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "5f61398f-3390-4393-8c8a-f3111c5e65ff",
+                "revision_id": "c57d0553-b49c-4b71-b3da-9ddd4a1322d5"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "5f61398f-3390-4393-8c8a-f3111c5e65ff",
+                "revision_id": "c57d0553-b49c-4b71-b3da-9ddd4a1322d5"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Gross Enrolment Rate In Primary Education 2004'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "5f61398f-3390-4393-8c8a-f3111c5e65ff",
+                "revision_id": "c57d0553-b49c-4b71-b3da-9ddd4a1322d5"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "5f61398f-3390-4393-8c8a-f3111c5e65ff",
+                "revision_id": "c57d0553-b49c-4b71-b3da-9ddd4a1322d5"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "c57d0553-b49c-4b71-b3da-9ddd4a1322d5",
+                "package_id": "5f61398f-3390-4393-8c8a-f3111c5e65ff"
+            }
+        },
+        {
+            "value": "1e95603c-9e13-11e3-9770-ab849cd0de74",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "c57d0553-b49c-4b71-b3da-9ddd4a1322d5",
+                "package_id": "5f61398f-3390-4393-8c8a-f3111c5e65ff"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "c57d0553-b49c-4b71-b3da-9ddd4a1322d5",
+                "package_id": "5f61398f-3390-4393-8c8a-f3111c5e65ff"
+            }
+        },
+        {
+            "value": "2014-02-25T05:51:10Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "5f61398f-3390-4393-8c8a-f3111c5e65ff",
+                "revision_id": "c57d0553-b49c-4b71-b3da-9ddd4a1322d5"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "c57d0553-b49c-4b71-b3da-9ddd4a1322d5",
+                "package_id": "5f61398f-3390-4393-8c8a-f3111c5e65ff"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "5f61398f-3390-4393-8c8a-f3111c5e65ff",
+                "revision_id": "c57d0553-b49c-4b71-b3da-9ddd4a1322d5"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "5f61398f-3390-4393-8c8a-f3111c5e65ff",
+                "revision_id": "c57d0553-b49c-4b71-b3da-9ddd4a1322d5"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "5f61398f-3390-4393-8c8a-f3111c5e65ff",
+                "revision_id": "c57d0553-b49c-4b71-b3da-9ddd4a1322d5"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.5741674481, -1.48174401786], [35.0017411394, -1.48174401786], [35.0017411394, 4.23101141736], [29.5741674481, 4.23101141736], [29.5741674481, -1.48174401786]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "c57d0553-b49c-4b71-b3da-9ddd4a1322d5",
+                "package_id": "5f61398f-3390-4393-8c8a-f3111c5e65ff"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "5f61398f-3390-4393-8c8a-f3111c5e65ff",
+                "revision_id": "c57d0553-b49c-4b71-b3da-9ddd4a1322d5"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "c57d0553-b49c-4b71-b3da-9ddd4a1322d5",
+                "package_id": "5f61398f-3390-4393-8c8a-f3111c5e65ff"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "c57d0553-b49c-4b71-b3da-9ddd4a1322d5",
+                "package_id": "5f61398f-3390-4393-8c8a-f3111c5e65ff"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "c57d0553-b49c-4b71-b3da-9ddd4a1322d5"
+}

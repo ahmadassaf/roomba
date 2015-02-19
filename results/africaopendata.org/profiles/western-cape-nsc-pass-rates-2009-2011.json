@@ -1,0 +1,130 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-09-04T16:10:47.743970",
+    "id": "741119da-ef73-4827-b16d-980ef25affed",
+    "metadata_created": "2012-09-04T16:10:47.743970",
+    "owner_org": null,
+    "metadata_modified": "2014-01-25T18:56:42.412394",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "a823d079-2720-4187-83a5-e0633ae1a5ca",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-01-25T18:56:42.412394",
+            "webstore_last_updated": "2014-01-25T18:56:41.469895",
+            "id": "e3a08fb9-a53e-4e9b-8064-47739b126b4f",
+            "size": "42705",
+            "state": "active",
+            "hash": "e258a8aa99febf887cee89afedcec59c7d52f303",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 6,
+                "recent": 1
+            },
+            "mimetype_inner": "",
+            "mimetype": "text/csv",
+            "cache_url": "",
+            "name": "western-cape-NSC-results.csv",
+            "created": "2012-07-18T16:41:15.634510",
+            "url": "http://africaopendata.org/storage/f/2013-11-19T12%3A19%3A29.416Z/western-cape-nsc-results.csv",
+            "webstore_url": "",
+            "last_modified": "2014-01-25T18:56:42.241900",
+            "position": 0,
+            "revision_id": "cca7a26d-b28b-4458-9a0a-157bb7e79b4b",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "code4democracy",
+            "name": "code4democracy",
+            "revision_timestamp": "2012-09-04T16:10:47.743970",
+            "state": "active",
+            "id": "51d5a81a-0464-41a3-be13-8d6c304f24e7"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "education",
+            "name": "education",
+            "revision_timestamp": "2012-09-04T16:10:47.743970",
+            "state": "active",
+            "id": "4bc98291-13cc-4baf-b090-52376fa3a429"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "nsc",
+            "name": "nsc",
+            "revision_timestamp": "2012-09-04T16:10:47.743970",
+            "state": "active",
+            "id": "60989ae9-49e7-4cd4-9a7f-455e414e9c1d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "southafrica",
+            "name": "southafrica",
+            "revision_timestamp": "2012-09-04T16:10:47.743970",
+            "state": "active",
+            "id": "16620248-4ab3-4ae8-a8e9-49ed7920fd32"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "western-cape",
+            "name": "western-cape",
+            "revision_timestamp": "2012-09-04T16:10:47.743970",
+            "state": "active",
+            "id": "6baa5eb9-07f5-46aa-9996-57c469a8bc75"
+        }
+    ],
+    "tracking_summary": {
+        "total": 130,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "South Africa",
+            "description": "Datasets from South Africa",
+            "name": "south-africa",
+            "id": "fc691a3f-cfce-46d6-93a0-77bdccfec89d"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "western-cape-nsc-pass-rates-2009-2011",
+    "isopen": false,
+    "url": "",
+    "notes": "National Senior Certificate pass rates by school in the Western Cape for 2009, 2010 and 2011. This file was compiled manually from an html conversion of the pdf available at http://www.education.gov.za/LinkClick.aspx?fileticket=mRjfgaj9ThM%3d&tabid=358&mid=1325 - so should be checked for errors. It does not include results for IEB schools.",
+    "title": "Western Cape School NSC (Matric) Pass Rates 2009-2011",
+    "extras": [
+        {
+            "value": "Coding for Democracy",
+            "key": "Source",
+            "__extras": {
+                "revision_id": "53456f42-e225-400b-ae5a-281a5b8bb2aa",
+                "package_id": "741119da-ef73-4827-b16d-980ef25affed"
+            }
+        },
+        {
+            "value": "http://197.221.34.5/dataset/741119da-ef73-4827-b16d-980ef25affed",
+            "key": "harvest_url",
+            "__extras": {
+                "revision_id": "53456f42-e225-400b-ae5a-281a5b8bb2aa",
+                "package_id": "741119da-ef73-4827-b16d-980ef25affed"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "53456f42-e225-400b-ae5a-281a5b8bb2aa"
+}

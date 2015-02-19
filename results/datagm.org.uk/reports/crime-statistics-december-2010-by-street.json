@@ -1,0 +1,112 @@
+{
+    "missing": [
+        "group"
+    ],
+    "undefined": [
+        "notes",
+        "maintainer",
+        "maintainer_email",
+        "author",
+        "author_email",
+        "organization_description",
+        "organization_image_url"
+    ],
+    "unreachableURLs": [],
+    "report": [
+        "notes field exists but there is no value defined",
+        "group information is missing. Check organization information as they can be mixed sometimes",
+        "maintainer field exists but there is no value defined",
+        "maintainer_email field exists but there is no value defined",
+        "author field exists but there is no value defined",
+        "author_email field exists but there is no value defined",
+        "organization_description field exists but there is no value defined",
+        "organization_image_url field exists but there is no value defined"
+    ],
+    "tag": {
+        "crime": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "police": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        }
+    },
+    "license": {
+        "license": {
+            "missing": [],
+            "undefined": [],
+            "unreachableURLs": [],
+            "report": [
+                "We could not normalize the license information as no valid mapping was found !"
+            ]
+        }
+    },
+    "resource": {
+        "0c873974-b45d-41c3-ab83-a6091b791528": {
+            "missing": [
+                "url-type",
+                "created"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "description",
+                "mimetype_inner",
+                "cache_url",
+                "name",
+                "resource_type"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "description field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "cache_url field exists but there is no value defined",
+                "name field exists but there is no value defined",
+                "created field is missing",
+                "resource_type field exists but there is no value defined"
+            ]
+        },
+        "Original ZIP file from www.police.uk/data": {
+            "missing": [
+                "url-type",
+                "created"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "mimetype_inner",
+                "cache_url",
+                "name",
+                "resource_type"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "cache_url field exists but there is no value defined",
+                "name field exists but there is no value defined",
+                "created field is missing",
+                "resource_type field exists but there is no value defined"
+            ]
+        }
+    },
+    "counter": {
+        "group": 0,
+        "tag": 2,
+        "resource": 2
+    }
+}

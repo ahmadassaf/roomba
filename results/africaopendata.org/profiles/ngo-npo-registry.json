@@ -1,0 +1,153 @@
+{
+    "license_title": "Creative Commons Attribution 4.0",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-09-09T09:48:57.336858",
+    "id": "cbd874a2-cede-40dd-a73b-d309de55b1e7",
+    "metadata_created": "2012-09-04T16:10:52.725567",
+    "owner_org": null,
+    "metadata_modified": "2014-01-25T18:45:01.538689",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": "",
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "36edef4b-7806-4a36-910e-a947e1e293ec",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-11-19T12:13:07.242837",
+            "webstore_last_updated": null,
+            "id": "4a671298-da93-4e09-81e2-9b57cce96a1e",
+            "size": "11098624",
+            "state": "active",
+            "hash": "54d75d16c7bc80841fe742fc88b3993fd79799e7",
+            "description": "NGO registry ",
+            "format": "XLS",
+            "tracking_summary": {
+                "total": 9,
+                "recent": 1
+            },
+            "mimetype_inner": "",
+            "mimetype": "application/vnd.ms-excel",
+            "cache_url": null,
+            "name": "npo.xls",
+            "created": "2012-08-04T04:49:56.175569",
+            "url": "http://africaopendata.org/storage/f/2013-11-19T12%3A11%3A09.411Z/npo.xls",
+            "webstore_url": null,
+            "last_modified": "2013-10-10T12:24:46.635676",
+            "position": 0,
+            "revision_id": "7ef77f4f-b47c-4bc4-ab4e-f138b847385f",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "36edef4b-7806-4a36-910e-a947e1e293ec",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-01-25T18:45:01.538689",
+            "webstore_last_updated": null,
+            "id": "f870c390-29eb-42ca-8acf-b5640e8dcb11",
+            "size": "8579958",
+            "state": "active",
+            "hash": "4e9e69d980f01c2c7e4e5328030cd109e440f421",
+            "description": "",
+            "format": "xlsx",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 1
+            },
+            "mimetype_inner": "",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "cache_url": null,
+            "name": "Registered-NPOs-in-Gauteng.xlsx",
+            "created": "2012-08-04T08:02:44.734894",
+            "url": "http://africaopendata.org/storage/f/2013-11-19T12%3A11%3A51.564Z/registered-npos-in-gauteng.xlsx",
+            "webstore_url": null,
+            "last_modified": "2014-01-25T18:45:01.410526",
+            "position": 1,
+            "revision_id": "f426cebf-9b95-46e5-b554-f565b82539ae",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "NGO",
+            "name": "NGO",
+            "revision_timestamp": "2012-09-09T09:48:57.336858",
+            "state": "active",
+            "id": "d1bc63f6-7fdf-44f8-9c2c-d000a7c4a551"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "NPO",
+            "name": "NPO",
+            "revision_timestamp": "2012-09-09T09:48:57.336858",
+            "state": "active",
+            "id": "f74fcf5f-2f82-4a7d-9c92-69e839d67484"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "southafrica",
+            "name": "southafrica",
+            "revision_timestamp": "2012-09-04T16:10:52.725567",
+            "state": "active",
+            "id": "16620248-4ab3-4ae8-a8e9-49ed7920fd32"
+        }
+    ],
+    "tracking_summary": {
+        "total": 169,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "South Africa",
+            "description": "Datasets from South Africa",
+            "name": "south-africa",
+            "id": "fc691a3f-cfce-46d6-93a0-77bdccfec89d"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "ngo-npo-registry",
+    "isopen": true,
+    "url": "",
+    "notes": "NGO/NPO Registry",
+    "title": "NGO/NPO Registry",
+    "extras": [
+        {
+            "value": "Coding for Democracy",
+            "key": "Source",
+            "__extras": {
+                "revision_id": "dee21a46-5320-4fba-9288-b5b30dbc6d74",
+                "package_id": "cbd874a2-cede-40dd-a73b-d309de55b1e7"
+            }
+        },
+        {
+            "value": "http://197.221.34.5/dataset/cbd874a2-cede-40dd-a73b-d309de55b1e7",
+            "key": "harvest_url",
+            "__extras": {
+                "revision_id": "dee21a46-5320-4fba-9288-b5b30dbc6d74",
+                "package_id": "cbd874a2-cede-40dd-a73b-d309de55b1e7"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "organization": null,
+    "revision_id": "9320b7b8-99e3-470a-89e2-139acd22ce31",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jane Rose",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "jane.rose.lutaya@ubos.org",
+    "revision_timestamp": "2014-11-04T22:26:27.923918",
+    "id": "5e6b292a-121a-46a1-bad5-c1f2b24379a8",
+    "metadata_created": "2014-11-04T22:26:27.923918",
+    "owner_org": null,
+    "metadata_modified": "2014-11-04T23:02:45.078601",
+    "author": "UBOS",
+    "author_email": "",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "cf4c9761-2f25-4777-827e-9e3331e624d9",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:02:45.078601",
+            "webstore_last_updated": "2014-11-04T23:02:44.924449",
+            "id": "77109ae4-cf46-4019-abe2-7cc4b7a292b7",
+            "size": "15290",
+            "state": "active",
+            "hash": "e98b42dc961db07c95f9263819a43fd6d0f05329",
+            "description": "Land cover in sq km per district (information available about: broad leaved plantations, conifer, bushland, tropical high forest, grasland, woodland, plantation and small scale subsistance farmland)",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "land-cover-2003-per-district",
+            "created": "2014-03-11T16:31:40.430037",
+            "url": "http://catalog.data.ug/dataset/5e6b292a-121a-46a1-bad5-c1f2b24379a8/resource/77109ae4-cf46-4019-abe2-7cc4b7a292b7/download/landcover.csv2003.csv",
+            "webstore_url": "active",
+            "last_modified": "2014-03-11T16:32:39.836611",
+            "position": 0,
+            "revision_id": "3c45cfa4-647a-470f-b1a8-a1302e200256",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:26:27.923918",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:26:27.923918",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:26:27.923918",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:26:27.923918",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "land cover",
+            "name": "land cover",
+            "revision_timestamp": "2014-11-04T22:26:27.923918",
+            "state": "active",
+            "id": "262b8008-51e5-4a88-b64d-a1fea06509fc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:26:27.923918",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:26:27.923918",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 4,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 7,
+    "name": "land-cover-2003-per-district",
+    "isopen": false,
+    "url": "",
+    "notes": "Land cover in sq km per district (information available about: broad leaved plantations, conifer, bushland, tropical high forest, grasland, woodland, plantation and small scale subsistance farmland)",
+    "title": "Land cover 2003 per district",
+    "extras": [],
+    "organization": null,
+    "revision_id": "8cfbad33-35e2-47c0-b42d-2681e1e5280f"
+}

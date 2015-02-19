@@ -1,0 +1,189 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2014-03-15T07:27:55.535882",
+    "id": "eb933d48-4439-4699-ab9a-261fe8ddbcc3",
+    "metadata_created": "2014-03-15T05:29:34.003390",
+    "owner_org": null,
+    "metadata_modified": "2014-03-15T14:09:32.695530",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "db4a7ff2-a845-4e6d-8351-74dcdb792b26",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-03-15T07:04:02.571642",
+            "webstore_last_updated": null,
+            "id": "56d45c1f-5491-4d64-a2fe-139896931352",
+            "size": "93864127",
+            "state": "active",
+            "hash": "",
+            "description": "A Postgis dump of the 2014 Voting Districts",
+            "format": "pgsql",
+            "tracking_summary": {
+                "total": 14,
+                "recent": 2
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/plain",
+            "cache_url": null,
+            "name": "vd_2014.sql.gz",
+            "created": "2014-03-15T07:03:41.533523",
+            "url": "http://africaopendata.org/storage/f/2014-03-15T05%3A30%3A02.098Z/vd-2014-sql.gz",
+            "webstore_url": null,
+            "last_modified": "2014-03-15T07:03:52.063912",
+            "position": 0,
+            "revision_id": "56278fd6-0588-4292-b1da-e0f84f22776f",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "db4a7ff2-a845-4e6d-8351-74dcdb792b26",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-03-15T07:11:57.973293",
+            "webstore_last_updated": null,
+            "id": "5e5cc82a-ce0b-4493-b3fd-91da9c0a2402",
+            "size": "18899991",
+            "state": "active",
+            "hash": "d072ca0627fdecad1d5d44ac3ae5d68bcec89416",
+            "description": "A postgis dump of the 2014 police districts",
+            "format": "gz",
+            "tracking_summary": {
+                "total": 7,
+                "recent": 2
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/plain",
+            "cache_url": null,
+            "name": "police_2014.sql.gz",
+            "created": "2014-03-15T07:11:56.371527",
+            "url": "http://africaopendata.org/storage/f/2014-03-15T07%3A03%3A56.490Z/police-2014-sql.gz",
+            "webstore_url": null,
+            "last_modified": "2014-03-15T07:11:57.897976",
+            "position": 1,
+            "revision_id": "bc3a23d5-edfd-4f73-92bc-b17969398ba1",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "db4a7ff2-a845-4e6d-8351-74dcdb792b26",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-03-15T07:27:44.996119",
+            "webstore_last_updated": null,
+            "id": "5ce42a52-79df-421b-b68e-f63aae669c85",
+            "size": "29186887",
+            "state": "active",
+            "hash": "",
+            "description": "Postgis dump of 2006 wards",
+            "format": "gz",
+            "tracking_summary": {
+                "total": 10,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/plain",
+            "cache_url": null,
+            "name": "wards_2006.sql.gz",
+            "created": "2014-03-15T07:27:41.555214",
+            "url": "http://africaopendata.org/storage/f/2014-03-15T07%3A12%3A05.872Z/wards-2006-sql.gz",
+            "webstore_url": null,
+            "last_modified": "2014-03-15T07:27:44.914669",
+            "position": 2,
+            "revision_id": "8d7caf42-f172-40b4-bf16-f3242b1202c2",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "db4a7ff2-a845-4e6d-8351-74dcdb792b26",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-03-15T14:09:32.695530",
+            "webstore_last_updated": null,
+            "id": "49861436-9e61-4d5d-8f54-79787d3f1a5b",
+            "size": "835084",
+            "state": "active",
+            "hash": "40eb242eb501fce70fe460a7f4b2b008301781d7",
+            "description": "2014 Voting Stations spatial data in sql",
+            "format": "gz",
+            "tracking_summary": {
+                "total": 7,
+                "recent": 2
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/plain",
+            "cache_url": null,
+            "name": "sa_voting_stations.sql.gz",
+            "created": "2014-03-15T14:09:31.775795",
+            "url": "http://africaopendata.org/storage/f/2014-03-15T14%3A07%3A33.919Z/sa-voting-stations-sql.gz",
+            "webstore_url": null,
+            "last_modified": "2014-03-15T14:09:32.387804",
+            "position": 3,
+            "revision_id": "322b9483-9552-4d2b-aa22-e149af39e96a",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 4,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "census",
+            "name": "census",
+            "revision_timestamp": "2014-03-15T05:29:34.003390",
+            "state": "active",
+            "id": "ddb0e0e8-a185-4354-a375-3ad64ee35988"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "police",
+            "name": "police",
+            "revision_timestamp": "2014-03-15T05:29:34.003390",
+            "state": "active",
+            "id": "29737371-786e-4877-a17f-a4797a2755b8"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "shapefiles",
+            "name": "shapefiles",
+            "revision_timestamp": "2014-03-15T05:29:34.003390",
+            "state": "active",
+            "id": "dcead0d0-6915-4f9e-bdd9-b718662858e2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "spatial",
+            "name": "spatial",
+            "revision_timestamp": "2014-03-15T05:29:34.003390",
+            "state": "active",
+            "id": "646dff34-f708-4c53-b8b1-b1730b348e3a"
+        }
+    ],
+    "tracking_summary": {
+        "total": 507,
+        "recent": 16
+    },
+    "groups": [
+        {
+            "title": "South Africa",
+            "description": "Datasets from South Africa",
+            "name": "south-africa",
+            "id": "fc691a3f-cfce-46d6-93a0-77bdccfec89d"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "various-south-african-spatial-datasets",
+    "isopen": false,
+    "url": null,
+    "notes": "include political and administrative boundaries",
+    "title": "Various South African Spatial Datasets",
+    "extras": [],
+    "organization": null,
+    "revision_id": "3c68552c-9ecf-483b-a461-f69211954f09"
+}

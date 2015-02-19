@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:49:07.718028",
+    "id": "f01d54e8-125a-4cb2-807b-66e7c6a82c38",
+    "metadata_created": "2012-09-11T13:49:07.718028",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:08:58.343551",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "46e29dec-9a53-4327-a3a4-0127a8c3cc65",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:08:58.343551",
+            "webstore_last_updated": "2013-10-10T12:08:58.276170",
+            "id": "ddb9baa9-6614-4193-94fc-e83e8f047641",
+            "size": "2791",
+            "state": "active",
+            "hash": "48d7fe46413e0bbbd06c74dbc62ba35f15e9317e",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Proportion of Population who Slept under a bed net by District -2005/6.csv",
+            "created": "2012-09-11T13:49:07.758614",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155152/afsc-e325.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T10:43:14.724287",
+            "position": 0,
+            "revision_id": "34bf5e65-5ce3-4c0b-abdf-4c9d41dd7779",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "health bednet",
+            "name": "health bednet",
+            "revision_timestamp": "2012-09-11T13:49:07.718028",
+            "state": "active",
+            "id": "dbaa0541-044b-4f40-85d7-b6703e659c07"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:49:07.718028",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:49:07.718028",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 57,
+        "recent": 7
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-afsc-e325",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "KIHBS Table 5.5 Proportion of Population who Slept under a bed net by District",
+    "title": "Proportion of Population who Slept under a bed net by District -2005/6",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "748592de-539a-41f9-8763-f3dc906fd2ea",
+                "package_id": "f01d54e8-125a-4cb2-807b-66e7c6a82c38"
+            }
+        },
+        {
+            "value": "Health Sector",
+            "key": "category",
+            "__extras": {
+                "revision_id": "748592de-539a-41f9-8763-f3dc906fd2ea",
+                "package_id": "f01d54e8-125a-4cb2-807b-66e7c6a82c38"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "748592de-539a-41f9-8763-f3dc906fd2ea",
+                "package_id": "f01d54e8-125a-4cb2-807b-66e7c6a82c38"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "748592de-539a-41f9-8763-f3dc906fd2ea"
+}

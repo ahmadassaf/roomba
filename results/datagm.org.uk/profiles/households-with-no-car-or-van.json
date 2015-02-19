@@ -1,0 +1,109 @@
+{
+    "license_title": "UK Crown Copyright with data.gov.uk rights",
+    "maintainer": "info@ons.gov.uk",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2011-02-11T14:43:11.231747",
+    "id": "1512170f-0bdb-4530-823d-cc0807c0f6a8",
+    "metadata_created": "2011-02-11T14:43:11.231747",
+    "owner_org": null,
+    "metadata_modified": "2013-12-08T06:29:30.220174",
+    "author": "Office for National Statistics",
+    "author_email": "info@ons.gov.uk",
+    "state": "active",
+    "version": "0.1",
+    "license_id": "ukcrown-withrights",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "application/octet-stream",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "{\"content\": \"cf12cb96010a11d1aeb6592f37758d47add673b3\", \"header\": \"eeb1dd285a937853bd3447c68db80dd529a2893c\"}",
+            "description": "",
+            "format": "CSV",
+            "url": "http://store.datagm.org.uk/sets/misc/HouseholdsWithCarOrVan.csv",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 4,
+                "recent": 3
+            },
+            "revision_timestamp": "2013-12-08T06:29:30.220174",
+            "webstore_url": null,
+            "resource_group_id": "3d846e82-31f5-a7d1-6bb2-1f6e4634564a",
+            "state": "active",
+            "last_modified": "2013-12-08T06:29:30.201214",
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "13fc795a-0a65-484f-b539-1e7415cf4310",
+            "size": "42001",
+            "id": "315e6b8b-cf9c-444a-8843-51b362812077",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "household",
+            "name": "household",
+            "revision_timestamp": "2011-02-11T14:43:11.231747",
+            "state": "active",
+            "id": "f9b4f5fc-ca17-46cd-aa28-8eee4470d78b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "transport",
+            "name": "transport",
+            "revision_timestamp": "2011-02-11T14:43:11.231747",
+            "state": "active",
+            "id": "69073282-dcd2-47df-8492-86919f03881d"
+        }
+    ],
+    "tracking_summary": {
+        "total": 50,
+        "recent": 1
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "households-with-no-car-or-van",
+    "isopen": false,
+    "url": "http://www.neighbourhood.statistics.gov.uk/dissemination/",
+    "notes": null,
+    "title": "Households with no car or van",
+    "extras": [
+        {
+            "value": "",
+            "key": "temporal_coverage-from",
+            "__extras": {
+                "revision_id": "a97efcb9-9f06-4ffc-b58e-92e73c2190bf",
+                "package_id": "1512170f-0bdb-4530-823d-cc0807c0f6a8"
+            }
+        },
+        {
+            "value": "",
+            "key": "temporal_coverage-to",
+            "__extras": {
+                "package_id": "1512170f-0bdb-4530-823d-cc0807c0f6a8",
+                "revision_id": "a97efcb9-9f06-4ffc-b58e-92e73c2190bf"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "b60caee1-8dc2-4c8c-a8b9-3602349f82c2",
+    "license_url": "",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": false,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "",
+        "status": "active"
+    }
+}

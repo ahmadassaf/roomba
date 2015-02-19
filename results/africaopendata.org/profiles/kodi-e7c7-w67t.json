@@ -1,0 +1,138 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T12:04:39.339418",
+    "id": "394775f8-6c09-498d-a035-071d471a5034",
+    "metadata_created": "2012-09-10T12:04:39.339418",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:13:34.004191",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "6af53243-0fa2-4590-a6e9-d25a23b6646f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:13:34.004191",
+            "webstore_last_updated": "2013-10-10T12:13:33.933305",
+            "id": "eafe9ba1-e946-45c0-90b7-acfccff9a550",
+            "size": "22511",
+            "state": "active",
+            "hash": "7e7c74c644e9d8139c28adb58356f822b91804fb",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 4,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "2009 Census Vol 1 Table 3  Rural and Urban Population.csv",
+            "created": "2012-09-11T13:36:21.130990",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T153905/e7c7-w67t.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:35:26.322406",
+            "position": 0,
+            "revision_id": "192c8d85-e91c-48c9-b512-fa86be716564",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "census",
+            "name": "census",
+            "revision_timestamp": "2012-09-10T12:04:39.339418",
+            "state": "active",
+            "id": "ddb0e0e8-a185-4354-a375-3ad64ee35988"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T12:04:39.339418",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T12:04:39.339418",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population",
+            "name": "population",
+            "revision_timestamp": "2012-09-10T12:04:39.339418",
+            "state": "active",
+            "id": "c5e39de5-556e-4bcb-883b-5b9ec2481ae9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "urban",
+            "name": "urban",
+            "revision_timestamp": "2012-09-10T12:04:39.339418",
+            "state": "active",
+            "id": "c6b49a27-b039-4d8a-b962-c848d62c6f6e"
+        }
+    ],
+    "tracking_summary": {
+        "total": 68,
+        "recent": 4
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "kodi-e7c7-w67t",
+    "isopen": true,
+    "url": null,
+    "notes": "2009 Census data on male and female populations by core-urban, peri-urban and rural locations.",
+    "title": "2009 Census Vol 1 Table 3  Rural and Urban Population",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "ebbda338-da22-431a-8f1a-55ee492618c7",
+                "package_id": "394775f8-6c09-498d-a035-071d471a5034"
+            }
+        },
+        {
+            "value": "Population",
+            "key": "category",
+            "__extras": {
+                "revision_id": "ebbda338-da22-431a-8f1a-55ee492618c7",
+                "package_id": "394775f8-6c09-498d-a035-071d471a5034"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "ebbda338-da22-431a-8f1a-55ee492618c7",
+                "package_id": "394775f8-6c09-498d-a035-071d471a5034"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "ebbda338-da22-431a-8f1a-55ee492618c7"
+}

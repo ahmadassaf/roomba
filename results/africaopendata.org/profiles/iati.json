@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-09-04T16:10:42.225820",
+    "id": "5be5624b-8491-4f86-a381-2473ca895a46",
+    "metadata_created": "2012-09-04T16:10:42.225820",
+    "owner_org": null,
+    "metadata_modified": "2013-03-14T08:42:31.952758",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": "",
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "93857737-8f48-4012-b918-bcf61d489277",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-14T08:42:31.952758",
+            "webstore_last_updated": null,
+            "id": "3d5ff3ff-904a-48d4-ae5a-6232255ebda6",
+            "size": "66200",
+            "state": "active",
+            "hash": "101ffa6c17276add78669d99125e6f6d90d0509f",
+            "description": "Meta data on files that cover aid directly allocated to South Africa. Some data on aid to South Africa might also be found in regional files. ",
+            "format": "XML",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 1
+            },
+            "mimetype_inner": "",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "All South Africa files",
+            "created": "2012-08-01T12:34:35.101144",
+            "url": "http://iatiregistry.org/dataset?country=ZA",
+            "webstore_url": null,
+            "last_modified": "2013-03-14T08:42:31.880830",
+            "position": 0,
+            "revision_id": "41e598e3-e97a-478f-bca1-c71a9b0396f9",
+            "resource_type": "api",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "governance",
+            "name": "governance",
+            "revision_timestamp": "2012-09-09T09:40:29.711146",
+            "state": "active",
+            "id": "eaf5ffa9-3d16-47b5-b203-b61882dd0edb"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "international aid",
+            "name": "international aid",
+            "revision_timestamp": "2012-09-09T09:40:29.711146",
+            "state": "active",
+            "id": "bb2613f6-699e-424d-8cfb-c5981bde526b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "southafrica",
+            "name": "southafrica",
+            "revision_timestamp": "2012-09-04T16:10:42.225820",
+            "state": "active",
+            "id": "16620248-4ab3-4ae8-a8e9-49ed7920fd32"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "transparency",
+            "name": "transparency",
+            "revision_timestamp": "2012-09-09T09:40:29.711146",
+            "state": "active",
+            "id": "d532f6f1-29c8-412b-8fa4-c68b1d81de73"
+        }
+    ],
+    "tracking_summary": {
+        "total": 123,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "South Africa",
+            "description": "Datasets from South Africa",
+            "name": "south-africa",
+            "id": "fc691a3f-cfce-46d6-93a0-77bdccfec89d"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "iati",
+    "isopen": true,
+    "url": "",
+    "notes": "Data on incoming aid to South Africa from a number of different donors published using the [International Aid Transparency Initiative standard](http://www.iatistandard.org).\r\n\r\nA range of tools and open source code for working with IATI data can be found at http://wiki.iatistandard.org\r\n\r\nIATI data covers over 50% of official development assistance, and an increasing number of projects by non-governmental organisations / charities.\r\n\r\nYou can use the data to find details of projects and aid activities, and in many cases detailed aid transactions and geocoded project details. ",
+    "title": "International Aid Transparency Initiative",
+    "extras": [
+        {
+            "value": "Coding for Democracy",
+            "key": "Source",
+            "__extras": {
+                "revision_id": "90209a03-b85a-467d-8a69-2f439776acda",
+                "package_id": "5be5624b-8491-4f86-a381-2473ca895a46"
+            }
+        },
+        {
+            "value": "http://197.221.34.5/dataset/5be5624b-8491-4f86-a381-2473ca895a46",
+            "key": "harvest_url",
+            "__extras": {
+                "revision_id": "90209a03-b85a-467d-8a69-2f439776acda",
+                "package_id": "5be5624b-8491-4f86-a381-2473ca895a46"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "90209a03-b85a-467d-8a69-2f439776acda"
+}

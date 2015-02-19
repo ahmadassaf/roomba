@@ -1,0 +1,162 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T12:53:56.168253",
+    "id": "d8ae9623-b232-460d-b3c7-bb09496b6ec7",
+    "metadata_created": "2012-09-10T12:53:56.168253",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:13:00.346240",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "a51ce8ae-711d-4f67-a21d-fcdee54abc45",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:13:00.346240",
+            "webstore_last_updated": "2013-10-10T12:13:00.264483",
+            "id": "80841017-5888-442f-8ae2-d20b5dac4aa2",
+            "size": "1211947",
+            "state": "active",
+            "hash": "891eaab0fa0cbec247a5de2776991e323fcf31f2",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Rural Urban Population By Age, Sex, and by District - 2009.csv",
+            "created": "2012-09-11T13:39:09.508958",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T154153/qyg8-66is.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-13T23:33:01.451368",
+            "position": 0,
+            "revision_id": "6744dd9a-8e1f-4694-81c2-56b907a58314",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "age",
+            "name": "age",
+            "revision_timestamp": "2012-09-10T12:53:56.168253",
+            "state": "active",
+            "id": "82fdf441-2784-412d-a6f2-27aa05d7f6df"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "census",
+            "name": "census",
+            "revision_timestamp": "2012-09-10T12:53:56.168253",
+            "state": "active",
+            "id": "ddb0e0e8-a185-4354-a375-3ad64ee35988"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "district",
+            "name": "district",
+            "revision_timestamp": "2012-09-10T12:53:56.168253",
+            "state": "active",
+            "id": "7cd19d3c-2632-4bf1-96f2-7991759d4b88"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "gender",
+            "name": "gender",
+            "revision_timestamp": "2012-09-10T12:53:56.168253",
+            "state": "active",
+            "id": "3908e970-2242-42ae-94d3-a4445ca1c826"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T12:53:56.168253",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T12:53:56.168253",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "rural",
+            "name": "rural",
+            "revision_timestamp": "2012-09-10T12:53:56.168253",
+            "state": "active",
+            "id": "fe68fc5f-6455-45a3-b949-b2bc2c305269"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "urban",
+            "name": "urban",
+            "revision_timestamp": "2012-09-10T12:53:56.168253",
+            "state": "active",
+            "id": "c6b49a27-b039-4d8a-b962-c848d62c6f6e"
+        }
+    ],
+    "tracking_summary": {
+        "total": 93,
+        "recent": 6
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 8,
+    "name": "kodi-qyg8-66is",
+    "isopen": true,
+    "url": null,
+    "notes": "2009 Census Volume 1 Table 1 C",
+    "title": "Rural Urban Population By Age, Sex, and by District - 2009",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "package_id": "d8ae9623-b232-460d-b3c7-bb09496b6ec7",
+                "revision_id": "a97eb2a0-3bf5-4e0f-bfed-47be2ea358f4"
+            }
+        },
+        {
+            "value": "Population",
+            "key": "category",
+            "__extras": {
+                "revision_id": "a97eb2a0-3bf5-4e0f-bfed-47be2ea358f4",
+                "package_id": "d8ae9623-b232-460d-b3c7-bb09496b6ec7"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "a97eb2a0-3bf5-4e0f-bfed-47be2ea358f4",
+                "package_id": "d8ae9623-b232-460d-b3c7-bb09496b6ec7"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "a97eb2a0-3bf5-4e0f-bfed-47be2ea358f4"
+}

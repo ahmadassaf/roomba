@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:40:09.640752",
+    "id": "823cd8d0-7696-44b5-a7ce-4310ecc5f107",
+    "metadata_created": "2012-09-11T13:40:09.640752",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:12:05.931871",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "5d37ce16-b0a1-4c2c-af29-ae6f7f52526b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:12:05.931871",
+            "webstore_last_updated": "2013-10-10T12:12:05.863827",
+            "id": "1753aee1-bc27-4966-af1d-43402effe9ce",
+            "size": "4153",
+            "state": "active",
+            "hash": "d3a287a8f9bc6b1ec27c595b067f83a58e050d87",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Vol 1b Table 1 A County Population- 2009.csv",
+            "created": "2012-09-11T13:40:09.692256",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T154254/fmzk-bq5p.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-13T22:58:23.921363",
+            "position": 0,
+            "revision_id": "2b84abc9-f2f3-4012-bbc0-37d7da408eb9",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "census county population desnity",
+            "name": "census county population desnity",
+            "revision_timestamp": "2012-09-11T13:40:09.640752",
+            "state": "active",
+            "id": "bc4b665e-e491-4dfc-adee-24374a04520a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:40:09.640752",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:40:09.640752",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 33,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-fmzk-bq5p",
+    "isopen": true,
+    "url": null,
+    "notes": "2009 Census Volume 1 b Table 1 A County Population and Density",
+    "title": "Vol 1b Table 1 A County Population- 2009",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "6b614fb1-4b00-4ee1-8e20-bf4a0e3d36c6",
+                "package_id": "823cd8d0-7696-44b5-a7ce-4310ecc5f107"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "6b614fb1-4b00-4ee1-8e20-bf4a0e3d36c6",
+                "package_id": "823cd8d0-7696-44b5-a7ce-4310ecc5f107"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "6b614fb1-4b00-4ee1-8e20-bf4a0e3d36c6",
+                "package_id": "823cd8d0-7696-44b5-a7ce-4310ecc5f107"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "6b614fb1-4b00-4ee1-8e20-bf4a0e3d36c6"
+}

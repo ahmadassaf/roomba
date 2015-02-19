@@ -1,0 +1,146 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Chris Metcalf",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T11:50:46.229753",
+    "id": "2f0a1c9f-a6cb-433b-9055-b18347ce5c85",
+    "metadata_created": "2012-09-10T11:50:46.229753",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:20:49.771564",
+    "author": "Chris Metcalf",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "e6f0f3ae-271a-4957-aea6-fbcd3826a6c6",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:20:49.771564",
+            "webstore_last_updated": "2013-10-10T12:20:49.701245",
+            "id": "b7c74916-6839-46c3-97af-f5e0daae3958",
+            "size": "1206",
+            "state": "active",
+            "hash": "f071e84b5f69e8ff0131047d5e3cf316752a7330",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 3,
+                "recent": 2
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Health Spending Per Capita, By County.csv",
+            "created": "2012-09-11T13:25:56.350558",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T152841/ymzx-tfh4.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:32:56.334989",
+            "position": 0,
+            "revision_id": "ca03a865-0b64-4e3a-a2c4-dccdf8046a26",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "bed nets",
+            "name": "bed nets",
+            "revision_timestamp": "2012-09-10T11:50:46.229753",
+            "state": "active",
+            "id": "4ce59ff9-fad5-4c7a-8e5e-7f54f1426ea4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "county",
+            "name": "county",
+            "revision_timestamp": "2012-09-10T11:50:46.229753",
+            "state": "active",
+            "id": "858f3acf-2c66-4fd9-9dc2-32e4f12121a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "health",
+            "name": "health",
+            "revision_timestamp": "2012-09-10T11:50:46.229753",
+            "state": "active",
+            "id": "956a3c07-125e-44e4-b843-c5011fadcc7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T11:50:46.229753",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T11:50:46.229753",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "malaria",
+            "name": "malaria",
+            "revision_timestamp": "2012-09-10T11:50:46.229753",
+            "state": "active",
+            "id": "3cfa1eb2-5009-4456-8b64-9605b16c9e34"
+        }
+    ],
+    "tracking_summary": {
+        "total": 100,
+        "recent": 3
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "kodi-ymzx-tfh4",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": null,
+    "title": "Health Spending Per Capita, By County",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "b4446096-94a0-4093-a34c-dcbcd9fc3986",
+                "package_id": "2f0a1c9f-a6cb-433b-9055-b18347ce5c85"
+            }
+        },
+        {
+            "value": "Health Sector",
+            "key": "category",
+            "__extras": {
+                "revision_id": "b4446096-94a0-4093-a34c-dcbcd9fc3986",
+                "package_id": "2f0a1c9f-a6cb-433b-9055-b18347ce5c85"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "b4446096-94a0-4093-a34c-dcbcd9fc3986",
+                "package_id": "2f0a1c9f-a6cb-433b-9055-b18347ce5c85"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "b4446096-94a0-4093-a34c-dcbcd9fc3986"
+}

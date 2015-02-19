@@ -1,0 +1,683 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:30:31.082114",
+    "id": "ba4b4ee2-764c-4dc3-8237-e08cdcfc2521",
+    "metadata_created": "2014-11-04T22:30:31.082114",
+    "owner_org": null,
+    "metadata_modified": "2014-11-05T03:26:30.806780",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "500fcc17-96d7-4fda-9b82-005072398bc7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-05T03:26:30.806780",
+            "webstore_last_updated": null,
+            "id": "570c711f-96da-48f9-a504-96cc5fa2ffce",
+            "size": "109002",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "ebf5b55fbade6bc760938f6daed42b5375da289e",
+            "description": "Online link to the 'Counties_UBOS_2006_164' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:51:28.566498",
+            "url": "http://maps.data.ug/layers/geonode:counties_ubos_2006_164",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T03:26:30.648418",
+            "position": 0,
+            "revision_id": "20f16a80-ae99-4e86-b9ab-1b87e96268ee",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "500fcc17-96d7-4fda-9b82-005072398bc7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:30:31.082114",
+            "webstore_last_updated": null,
+            "id": "676cecdb-7933-442b-9287-8da6b7ed6ece",
+            "size": "54579",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Counties_UBOS_2006_164 (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "counties_ubos_2006_164.jpg",
+            "created": "2014-03-12T14:51:28.566519",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Acounties_ubos_2006_164&width=522&bbox=29.5741674480979%2C-1.48186111896105%2C35.0017411394421%2C4.23101141746065&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "472be372-87e0-4d8b-8e21-fe650509c654",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "500fcc17-96d7-4fda-9b82-005072398bc7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:30:31.082114",
+            "webstore_last_updated": null,
+            "id": "5ca8fff6-c3cb-45f5-b339-d0b7e412e808",
+            "size": "140349",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Counties_UBOS_2006_164 (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "counties_ubos_2006_164.pdf",
+            "created": "2014-03-12T14:51:28.566524",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Acounties_ubos_2006_164&width=522&bbox=29.5741674480979%2C-1.48186111896105%2C35.0017411394421%2C4.23101141746065&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "472be372-87e0-4d8b-8e21-fe650509c654",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "500fcc17-96d7-4fda-9b82-005072398bc7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:30:31.082114",
+            "webstore_last_updated": null,
+            "id": "a0927211-75d9-4840-bf50-900fb32bfc41",
+            "size": "72710",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Counties_UBOS_2006_164 (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "counties_ubos_2006_164.png",
+            "created": "2014-03-12T14:51:28.566527",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Acounties_ubos_2006_164&width=522&bbox=29.5741674480979%2C-1.48186111896105%2C35.0017411394421%2C4.23101141746065&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:54:23.274717",
+            "position": 3,
+            "revision_id": "472be372-87e0-4d8b-8e21-fe650509c654",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "500fcc17-96d7-4fda-9b82-005072398bc7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:30:31.082114",
+            "webstore_last_updated": null,
+            "id": "5337e366-e162-4ab3-87d1-f1c94640e946",
+            "size": "5118352",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Counties_UBOS_2006_164 (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "counties_ubos_2006_164.zip",
+            "created": "2014-03-12T14:51:28.566531",
+            "url": "http://maps.data.ug/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Acounties_ubos_2006_164&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 4,
+            "revision_id": "472be372-87e0-4d8b-8e21-fe650509c654",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "500fcc17-96d7-4fda-9b82-005072398bc7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:30:31.082114",
+            "webstore_last_updated": null,
+            "id": "c1582e8f-4d6d-484a-9f4e-60583e448d37",
+            "size": "9250330",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Counties_UBOS_2006_164 (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "counties_ubos_2006_164.gml",
+            "created": "2014-03-12T14:51:28.566534",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Acounties_ubos_2006_164&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 5,
+            "revision_id": "472be372-87e0-4d8b-8e21-fe650509c654",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "500fcc17-96d7-4fda-9b82-005072398bc7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:30:31.082114",
+            "webstore_last_updated": null,
+            "id": "82acbd9b-6b03-4878-a28e-5707aa91bf77",
+            "size": "14922445",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Counties_UBOS_2006_164 (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "counties_ubos_2006_164.gml",
+            "created": "2014-03-12T14:51:28.566538",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Acounties_ubos_2006_164&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 6,
+            "revision_id": "472be372-87e0-4d8b-8e21-fe650509c654",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "500fcc17-96d7-4fda-9b82-005072398bc7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:30:31.082114",
+            "webstore_last_updated": null,
+            "id": "8a88c4e1-360a-4d4d-a65c-19b4c1e5e505",
+            "size": "15195051",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Counties_UBOS_2006_164 (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "counties_ubos_2006_164.csv",
+            "created": "2014-03-12T14:51:28.566541",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Acounties_ubos_2006_164&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 7,
+            "revision_id": "472be372-87e0-4d8b-8e21-fe650509c654",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "500fcc17-96d7-4fda-9b82-005072398bc7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:30:31.082114",
+            "webstore_last_updated": null,
+            "id": "e5e73d40-8ed1-45ef-a01d-0f2ecfff501d",
+            "size": "5157888",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Counties_UBOS_2006_164 (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "counties_ubos_2006_164.excel",
+            "created": "2014-03-12T14:51:28.566545",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Acounties_ubos_2006_164&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 8,
+            "revision_id": "472be372-87e0-4d8b-8e21-fe650509c654",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "500fcc17-96d7-4fda-9b82-005072398bc7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:30:31.082114",
+            "webstore_last_updated": null,
+            "id": "608307d6-6369-438a-a0b4-01af8880251a",
+            "size": "15628052",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Counties_UBOS_2006_164 (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "counties_ubos_2006_164.json",
+            "created": "2014-03-12T14:51:28.566549",
+            "url": "http://maps.data.ug/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Acounties_ubos_2006_164&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "472be372-87e0-4d8b-8e21-fe650509c654",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "500fcc17-96d7-4fda-9b82-005072398bc7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:30:31.082114",
+            "webstore_last_updated": null,
+            "id": "b724b638-13b8-41a6-9705-2bbe9f8e57ae",
+            "size": "15415516",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Counties_UBOS_2006_164 (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "counties_ubos_2006_164.kml",
+            "created": "2014-03-12T14:51:28.566552",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Acounties_ubos_2006_164&mode=download",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 10,
+            "revision_id": "472be372-87e0-4d8b-8e21-fe650509c654",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "500fcc17-96d7-4fda-9b82-005072398bc7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:30:31.082114",
+            "webstore_last_updated": null,
+            "id": "29e1258e-8fb6-4c20-900b-b3c210f94aa9",
+            "size": "664",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Counties_UBOS_2006_164 (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "counties_ubos_2006_164.kml",
+            "created": "2014-03-12T14:51:28.566556",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Acounties_ubos_2006_164&mode=refresh",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 11,
+            "revision_id": "472be372-87e0-4d8b-8e21-fe650509c654",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "500fcc17-96d7-4fda-9b82-005072398bc7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:30:31.082114",
+            "webstore_last_updated": null,
+            "id": "64ceac3c-472f-4c11-9dd5-1c740934b889",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Counties_UBOS_2006_164 (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "counties_ubos_2006_164.tiles",
+            "created": "2014-03-12T14:51:28.566559",
+            "url": "http://maps.data.ug/geoserver/gwc/service/gmaps?layers=geonode:counties_ubos_2006_164&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 12,
+            "revision_id": "472be372-87e0-4d8b-8e21-fe650509c654",
+            "resource_type": null
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:30:31.082114",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:30:31.082114",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "counties",
+            "name": "counties",
+            "revision_timestamp": "2014-11-04T22:30:31.082114",
+            "state": "active",
+            "id": "0cc847f9-ea13-44d7-bcb1-5a8723822e5b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:30:31.082114",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:30:31.082114",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:30:31.082114",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:30:31.082114",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:30:31.082114",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 12,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 8,
+    "name": "counties-ubos-2006-164",
+    "isopen": false,
+    "url": null,
+    "notes": "County boundaries in 2006",
+    "title": "Counties_UBOS_2006_164",
+    "extras": [
+        {
+            "value": "[]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "472be372-87e0-4d8b-8e21-fe650509c654",
+                "package_id": "ba4b4ee2-764c-4dc3-8237-e08cdcfc2521"
+            }
+        },
+        {
+            "value": "35.0017411394",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "472be372-87e0-4d8b-8e21-fe650509c654",
+                "package_id": "ba4b4ee2-764c-4dc3-8237-e08cdcfc2521"
+            }
+        },
+        {
+            "value": "4.2310114175",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "ba4b4ee2-764c-4dc3-8237-e08cdcfc2521",
+                "revision_id": "472be372-87e0-4d8b-8e21-fe650509c654"
+            }
+        },
+        {
+            "value": "-1.4818611190",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "472be372-87e0-4d8b-8e21-fe650509c654",
+                "package_id": "ba4b4ee2-764c-4dc3-8237-e08cdcfc2521"
+            }
+        },
+        {
+            "value": "29.5741674481",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "472be372-87e0-4d8b-8e21-fe650509c654",
+                "package_id": "ba4b4ee2-764c-4dc3-8237-e08cdcfc2521"
+            }
+        },
+        {
+            "value": "",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "ba4b4ee2-764c-4dc3-8237-e08cdcfc2521",
+                "revision_id": "472be372-87e0-4d8b-8e21-fe650509c654"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "ba4b4ee2-764c-4dc3-8237-e08cdcfc2521",
+                "revision_id": "472be372-87e0-4d8b-8e21-fe650509c654"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2012-01-11T00:00:00Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "ba4b4ee2-764c-4dc3-8237-e08cdcfc2521",
+                "revision_id": "472be372-87e0-4d8b-8e21-fe650509c654"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "ba4b4ee2-764c-4dc3-8237-e08cdcfc2521",
+                "revision_id": "472be372-87e0-4d8b-8e21-fe650509c654"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Counties_UBOS_2006_164'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "ba4b4ee2-764c-4dc3-8237-e08cdcfc2521",
+                "revision_id": "472be372-87e0-4d8b-8e21-fe650509c654"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "ba4b4ee2-764c-4dc3-8237-e08cdcfc2521",
+                "revision_id": "472be372-87e0-4d8b-8e21-fe650509c654"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "472be372-87e0-4d8b-8e21-fe650509c654",
+                "package_id": "ba4b4ee2-764c-4dc3-8237-e08cdcfc2521"
+            }
+        },
+        {
+            "value": "a0b0108c-a9ba-11e3-b8d5-d7100fec7aa5",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "472be372-87e0-4d8b-8e21-fe650509c654",
+                "package_id": "ba4b4ee2-764c-4dc3-8237-e08cdcfc2521"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "472be372-87e0-4d8b-8e21-fe650509c654",
+                "package_id": "ba4b4ee2-764c-4dc3-8237-e08cdcfc2521"
+            }
+        },
+        {
+            "value": "2012-01-11T00:00:00Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "ba4b4ee2-764c-4dc3-8237-e08cdcfc2521",
+                "revision_id": "472be372-87e0-4d8b-8e21-fe650509c654"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "472be372-87e0-4d8b-8e21-fe650509c654",
+                "package_id": "ba4b4ee2-764c-4dc3-8237-e08cdcfc2521"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "ba4b4ee2-764c-4dc3-8237-e08cdcfc2521",
+                "revision_id": "472be372-87e0-4d8b-8e21-fe650509c654"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "ba4b4ee2-764c-4dc3-8237-e08cdcfc2521",
+                "revision_id": "472be372-87e0-4d8b-8e21-fe650509c654"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "ba4b4ee2-764c-4dc3-8237-e08cdcfc2521",
+                "revision_id": "472be372-87e0-4d8b-8e21-fe650509c654"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.5741674481, -1.481861119], [35.0017411394, -1.481861119], [35.0017411394, 4.2310114175], [29.5741674481, 4.2310114175], [29.5741674481, -1.481861119]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "472be372-87e0-4d8b-8e21-fe650509c654",
+                "package_id": "ba4b4ee2-764c-4dc3-8237-e08cdcfc2521"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "ba4b4ee2-764c-4dc3-8237-e08cdcfc2521",
+                "revision_id": "472be372-87e0-4d8b-8e21-fe650509c654"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "472be372-87e0-4d8b-8e21-fe650509c654",
+                "package_id": "ba4b4ee2-764c-4dc3-8237-e08cdcfc2521"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "472be372-87e0-4d8b-8e21-fe650509c654",
+                "package_id": "ba4b4ee2-764c-4dc3-8237-e08cdcfc2521"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "472be372-87e0-4d8b-8e21-fe650509c654"
+}

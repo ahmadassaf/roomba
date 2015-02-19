@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:58:32.325777",
+    "id": "70efeadf-3c7b-441e-87b0-17000a71ad78",
+    "metadata_created": "2012-09-11T13:58:32.325777",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:02:40.926927",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "c62d1da0-758e-4404-85e9-7837f9500554",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:02:40.926927",
+            "webstore_last_updated": "2013-10-10T12:02:40.859055",
+            "id": "4e3b7028-d541-42ac-8b3f-149ed12ddc8c",
+            "size": "2569",
+            "state": "active",
+            "hash": "877e8dc78ccce861260bcccfa90b993336a52126",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Proportion of Children (0 -59 Months) who Slept under a Bed Net County Estimates - 2005/6.csv",
+            "created": "2012-09-11T13:58:32.363580",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T160117/7ege-h99p.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:56:55.727810",
+            "position": 0,
+            "revision_id": "956b00a1-7f66-4342-a455-01b8fe1f86a8",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "county health",
+            "name": "county health",
+            "revision_timestamp": "2012-09-11T13:58:32.325777",
+            "state": "active",
+            "id": "15b14e9f-d157-4cbb-8aac-9240e5922144"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:58:32.325777",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:58:32.325777",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 43,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-7ege-h99p",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "2005/6 KIHBS Table 5.6: Proportion of Children (0 -59 Months) who Slept under a Bed Net County Estimates",
+    "title": "Proportion of Children (0 -59 Months) who Slept under a Bed Net County Estimates - 2005/6",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "e4e8c993-872d-4847-b27e-2a6fdd0ebda4",
+                "package_id": "70efeadf-3c7b-441e-87b0-17000a71ad78"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "e4e8c993-872d-4847-b27e-2a6fdd0ebda4",
+                "package_id": "70efeadf-3c7b-441e-87b0-17000a71ad78"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "e4e8c993-872d-4847-b27e-2a6fdd0ebda4",
+                "package_id": "70efeadf-3c7b-441e-87b0-17000a71ad78"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "e4e8c993-872d-4847-b27e-2a6fdd0ebda4"
+}

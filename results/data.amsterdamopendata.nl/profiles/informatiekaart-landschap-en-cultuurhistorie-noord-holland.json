@@ -1,0 +1,189 @@
+{
+    "license_title": "CC0 1.0",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2013-05-24T07:44:53.912966",
+    "id": "7c3607a8-6499-4250-b3fb-3f031c188842",
+    "metadata_created": "2013-05-15T10:17:21.987674",
+    "owner_org": null,
+    "metadata_modified": "2013-05-24T07:44:53.912966",
+    "author": "Provincie Noord-Holland",
+    "author_email": "chw@noord-holland.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "CC0-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "9404203b-d59f-41c5-b9c2-c359c5b91a24",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-05-24T07:44:53.912966",
+            "webstore_last_updated": null,
+            "id": "5e5f80bc-f477-44c8-a146-d2ce62441a4e",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "API (Rest + SOAP)",
+            "format": "url",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "http://gis.noord-holland.nl/ArcGIS/rest/services/CHI/MapServer",
+            "created": "2013-05-24T09:44:53.962458",
+            "url": "http://gis.noord-holland.nl/ArcGIS/rest/services/CHI/MapServer",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "bd519a56-37f6-46c9-ab3d-fc67afda4bd8",
+            "resource_type": "api"
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "archeologie",
+            "name": "archeologie",
+            "revision_timestamp": "2013-05-15T10:17:21.987674",
+            "state": "active",
+            "id": "741ca9af-4ff7-4b64-b2d6-3b648ed8b962"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "cultuur",
+            "name": "cultuur",
+            "revision_timestamp": "2013-05-15T10:17:21.987674",
+            "state": "active",
+            "id": "a1c58d9f-bcbd-42f4-88d7-62c137926a14"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "dijken\n",
+            "name": "dijken\n",
+            "revision_timestamp": "2013-05-15T10:17:21.987674",
+            "state": "active",
+            "id": "109f54ad-3532-4f1c-8891-cd652fb459e6"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "landschap",
+            "name": "landschap",
+            "revision_timestamp": "2013-05-15T10:17:21.987674",
+            "state": "active",
+            "id": "7a94a826-9c06-427c-a405-ed74bc9624d5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "molens",
+            "name": "molens",
+            "revision_timestamp": "2013-05-15T10:17:21.987674",
+            "state": "active",
+            "id": "57345a27-1b0b-49e1-97a4-8f5ccb772d45"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Toerisme & cultuur",
+            "description": "",
+            "name": "toerisme-cultuur",
+            "id": "ea426321-bf88-499e-be18-d11d20001350"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "informatiekaart-landschap-en-cultuurhistorie-noord-holland",
+    "isopen": true,
+    "url": null,
+    "notes": "De Informatiekaart Landschap en Cultuurhistorie geeft informatie over landschapstypen, aardkundige waarden, cultuurhistorische objecten, archeologische verwachtingen en structuurdragers als molens, militaire structuren en historische dijken.",
+    "title": "Informatiekaart Landschap en Cultuurhistorie Noord-Holland",
+    "extras": [
+        {
+            "value": "chw@noord-holland.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "7c3607a8-6499-4250-b3fb-3f031c188842",
+                "revision_id": "9fc6001e-b836-430d-8c50-e586ddc6c17f"
+            }
+        },
+        {
+            "value": "Provincie Noord-Holland",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "9fc6001e-b836-430d-8c50-e586ddc6c17f",
+                "package_id": "7c3607a8-6499-4250-b3fb-3f031c188842"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "9fc6001e-b836-430d-8c50-e586ddc6c17f",
+                "package_id": "7c3607a8-6499-4250-b3fb-3f031c188842"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "9fc6001e-b836-430d-8c50-e586ddc6c17f",
+                "package_id": "7c3607a8-6499-4250-b3fb-3f031c188842"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "7c3607a8-6499-4250-b3fb-3f031c188842",
+                "revision_id": "9fc6001e-b836-430d-8c50-e586ddc6c17f"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "7c3607a8-6499-4250-b3fb-3f031c188842",
+                "revision_id": "9fc6001e-b836-430d-8c50-e586ddc6c17f"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "9fc6001e-b836-430d-8c50-e586ddc6c17f",
+                "package_id": "7c3607a8-6499-4250-b3fb-3f031c188842"
+            }
+        },
+        {
+            "value": "http://www.noord-holland.nl",
+            "key": "website",
+            "__extras": {
+                "package_id": "7c3607a8-6499-4250-b3fb-3f031c188842",
+                "revision_id": "9fc6001e-b836-430d-8c50-e586ddc6c17f"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "organization": null,
+    "revision_id": "bd519a56-37f6-46c9-ab3d-fc67afda4bd8",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": true,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

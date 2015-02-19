@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T11:51:57.196287",
+    "id": "dcba633c-5657-4489-90e8-b940cbea89db",
+    "metadata_created": "2012-09-10T11:51:57.196287",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:18:45.025574",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "ef5a0f68-ef2d-4545-81a3-f1204e4e82cc",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:18:45.025574",
+            "webstore_last_updated": "2013-10-10T12:18:44.951856",
+            "id": "3cbf24db-0d7e-452e-92c4-65a0f8e76fe1",
+            "size": "606",
+            "state": "active",
+            "hash": "2bbf1173ef86f431960b7f4dfd1ad6200e2d448c",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "IMF World Economic Outlook 2011 Kenya GDP Per Capita Projections.csv",
+            "created": "2012-09-11T13:27:30.110994",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T153015/m57k-5r2b.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T10:41:58.944031",
+            "position": 0,
+            "revision_id": "d7ccc369-f9bc-44f4-ae5c-a1d057f25b8f",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "gdp",
+            "name": "gdp",
+            "revision_timestamp": "2012-09-10T11:51:57.196287",
+            "state": "active",
+            "id": "cbb01a93-4bb5-4ab2-a836-a80ecfe5a699"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T11:51:57.196287",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T11:51:57.196287",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 71,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-m57k-5r2b",
+    "isopen": true,
+    "url": null,
+    "notes": "IMF World Economic Outlook 2011 projections for per capita GDP in constant and current prices, Ksh and US dollars",
+    "title": "IMF World Economic Outlook 2011 Kenya GDP Per Capita Projections",
+    "extras": [
+        {
+            "value": "IMF World Economic Outlook",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "210a864d-737d-4e69-8158-aa59dad68335",
+                "package_id": "dcba633c-5657-4489-90e8-b940cbea89db"
+            }
+        },
+        {
+            "value": "Financial Sector",
+            "key": "category",
+            "__extras": {
+                "revision_id": "210a864d-737d-4e69-8158-aa59dad68335",
+                "package_id": "dcba633c-5657-4489-90e8-b940cbea89db"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "210a864d-737d-4e69-8158-aa59dad68335",
+                "package_id": "dcba633c-5657-4489-90e8-b940cbea89db"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "210a864d-737d-4e69-8158-aa59dad68335"
+}

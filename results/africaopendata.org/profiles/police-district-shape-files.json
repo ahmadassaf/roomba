@@ -1,0 +1,109 @@
+{
+    "license_title": "Other (Non-Commercial)",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2014-03-10T13:13:43.379607",
+    "id": "efa726de-891c-4a44-a516-f7532c78fccb",
+    "metadata_created": "2014-03-10T13:08:14.589932",
+    "owner_org": null,
+    "metadata_modified": "2014-03-10T13:14:13.515275",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "other-nc",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "c4c0298d-941b-43a2-a5b0-4631d309c27f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-03-10T13:14:13.515275",
+            "webstore_last_updated": null,
+            "id": "c3cd0afb-ea08-4f5a-821f-e0a092016e7e",
+            "size": "15008663",
+            "state": "active",
+            "hash": "fd4f187c3c13b67dfbfa0244db20e60cc3f06d51",
+            "description": "Police boundaries shapefile",
+            "format": "ZIP",
+            "tracking_summary": {
+                "total": 16,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "Police district shapefiles",
+            "created": "2014-03-10T13:12:26.226360",
+            "url": "http://africaopendata.org/storage/f/2014-03-10T13%3A09%3A40.530Z/station-boundaries.zip",
+            "webstore_url": null,
+            "last_modified": "2014-03-10T13:12:28.135366",
+            "position": 0,
+            "revision_id": "b545367d-6e91-4b8f-8a40-317a3a325337",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c4c0298d-941b-43a2-a5b0-4631d309c27f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-03-10T13:13:32.809969",
+            "webstore_last_updated": null,
+            "id": "188532ed-fbf0-4d91-b55e-f96ae75f7127",
+            "size": "39798",
+            "state": "active",
+            "hash": "f60f6301de23cba94fb222b227eb576369e6eadb",
+            "description": "",
+            "format": "shapefile",
+            "tracking_summary": {
+                "total": 8,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "Police station shapefiles",
+            "created": "2014-03-10T13:13:31.695678",
+            "url": "http://africaopendata.org/storage/f/2014-03-10T13%3A13%3A12.127Z/station-points.zip",
+            "webstore_url": null,
+            "last_modified": "2014-03-10T13:13:32.686028",
+            "position": 1,
+            "revision_id": "cdab8ce2-1409-48b2-b2b7-b1db9482460e",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "police",
+            "name": "police",
+            "revision_timestamp": "2014-03-10T13:08:14.589932",
+            "state": "active",
+            "id": "29737371-786e-4877-a17f-a4797a2755b8"
+        }
+    ],
+    "tracking_summary": {
+        "total": 188,
+        "recent": 5
+    },
+    "groups": [
+        {
+            "title": "South Africa",
+            "description": "Datasets from South Africa",
+            "name": "south-africa",
+            "id": "fc691a3f-cfce-46d6-93a0-77bdccfec89d"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 1,
+    "name": "police-district-shape-files",
+    "isopen": false,
+    "url": null,
+    "notes": "",
+    "title": "Police District Shape Files",
+    "extras": [],
+    "organization": null,
+    "revision_id": "362f2e1b-68f5-4806-9564-02f3354f677e"
+}

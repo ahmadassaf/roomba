@@ -1,0 +1,179 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2013-05-24T07:41:23.670529",
+    "id": "0cda0441-66aa-4b44-936d-63f9e62ca62f",
+    "metadata_created": "2013-05-15T13:57:50.574499",
+    "owner_org": null,
+    "metadata_modified": "2013-05-24T07:41:23.670529",
+    "author": "Ruimtelijke Ordening (DRO)",
+    "author_email": "info@dro.amsterdam.nl",
+    "state": "active",
+    "version": "Verouderde data",
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "a1351a3f-42af-48c1-93fc-338c6951c36a",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-05-24T07:41:23.670529",
+            "webstore_last_updated": null,
+            "id": "4d30a648-7b00-4540-97a3-9e4b517fa419",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Instructie voor downloaden",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://maps.amsterdam.nl/open_geodata/",
+            "created": "2013-05-24T09:41:23.720700",
+            "url": "http://maps.amsterdam.nl/open_geodata/",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "4a24abbf-dc23-4dbb-8e54-4e0f5d1611cf",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "ontwikkeling\n",
+            "name": "ontwikkeling\n",
+            "revision_timestamp": "2013-05-15T13:57:50.574499",
+            "state": "active",
+            "id": "245cfc80-8ec8-4c9b-b411-1efc89bfb29e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "ordening",
+            "name": "ordening",
+            "revision_timestamp": "2013-05-15T13:57:50.574499",
+            "state": "active",
+            "id": "f3ca0a34-9dc6-4210-bdd3-691ba0692af0"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "plannen",
+            "name": "plannen",
+            "revision_timestamp": "2013-05-15T13:57:50.574499",
+            "state": "active",
+            "id": "53fdc307-b0c4-43df-8a64-e6940675b6df"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "ruimtelijk",
+            "name": "ruimtelijk",
+            "revision_timestamp": "2013-05-15T13:57:50.574499",
+            "state": "active",
+            "id": "6f7d78b6-0f02-44b6-875f-3410c14143ad"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "ruimtelijke",
+            "name": "ruimtelijke",
+            "revision_timestamp": "2013-05-15T13:57:50.574499",
+            "state": "active",
+            "id": "b5daf57f-08ab-4369-8e51-753d92967310"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Stedelijke ontwikkeling",
+            "description": "",
+            "name": "stedelijke-ontwikkeling",
+            "id": "0364e650-9355-4ad7-aa0a-8d87d809544e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "ruintelijke-plannen",
+    "isopen": true,
+    "url": null,
+    "notes": "De Monitor Ruimtelijke Plannen is de opvolger van het Programma Ruimtelijke Investeringen (PRI). De monitor wordt uitgevoerd door de Dienst Ruimtelijke Ordening van de gemeente Amsterdam in opdracht van het gemeentebestuur en het dagelijks bestuur van de Stadsregio Amsterdam.   De monitor bestrijkt het gehele gebied van de Metropoolregio Amsterdam en geeft een overzicht van alle ruimtelijke ontwikkelingen. Het levert daarmee informatie aan de inliggende overheden en derden voor uit te voeren analyses, koersbepaling en prioritering.   Voor de gegevensverzameling voor de monitoring wordt gebruik gemaakt van data van derden (RIGO, Stadsregio, gemeenten). De peildatum van de diverse bronnen kan hierdoor verschillen. De monitor wordt periodiek geactualiseerd. Actualiteit: Begin 2010 (Door bouwstop inmiddels achterhaald)",
+    "title": "Ruimtelijke plannen",
+    "extras": [
+        {
+            "value": "info@dro.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "0cda0441-66aa-4b44-936d-63f9e62ca62f",
+                "revision_id": "e8d0dca2-52d8-4919-a97c-99232b5926de"
+            }
+        },
+        {
+            "value": "Ruimtelijke Ordening (DRO)",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "e8d0dca2-52d8-4919-a97c-99232b5926de",
+                "package_id": "0cda0441-66aa-4b44-936d-63f9e62ca62f"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "e8d0dca2-52d8-4919-a97c-99232b5926de",
+                "package_id": "0cda0441-66aa-4b44-936d-63f9e62ca62f"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "e8d0dca2-52d8-4919-a97c-99232b5926de",
+                "package_id": "0cda0441-66aa-4b44-936d-63f9e62ca62f"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "0cda0441-66aa-4b44-936d-63f9e62ca62f",
+                "revision_id": "e8d0dca2-52d8-4919-a97c-99232b5926de"
+            }
+        },
+        {
+            "value": "01/01/2010",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "0cda0441-66aa-4b44-936d-63f9e62ca62f",
+                "revision_id": "e8d0dca2-52d8-4919-a97c-99232b5926de"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "e8d0dca2-52d8-4919-a97c-99232b5926de",
+                "package_id": "0cda0441-66aa-4b44-936d-63f9e62ca62f"
+            }
+        },
+        {
+            "value": "http://maps.amsterdam.nl",
+            "key": "website",
+            "__extras": {
+                "package_id": "0cda0441-66aa-4b44-936d-63f9e62ca62f",
+                "revision_id": "e8d0dca2-52d8-4919-a97c-99232b5926de"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "4a24abbf-dc23-4dbb-8e54-4e0f5d1611cf"
+}

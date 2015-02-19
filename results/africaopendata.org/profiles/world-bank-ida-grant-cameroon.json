@@ -1,0 +1,97 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-02-04T13:22:11.180324",
+    "id": "22fbdd1c-dd94-4cc5-82f0-317a29d38981",
+    "metadata_created": "2013-02-04T13:21:41.168693",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:53:39.449932",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "389326a7-0006-4dfa-b41b-40dc34ad6ae9",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:53:39.449932",
+            "webstore_last_updated": "2013-10-10T10:53:39.384219",
+            "id": "41d88667-6197-42d7-a78e-d5ff156391b0",
+            "size": "1043181",
+            "state": "active",
+            "hash": "4cf3ba890cb9577f63d6eb039f549b716a005988",
+            "description": "The International Development Association (IDA) credits are public and publicly guaranteed debt extended by the World Bank Group. IDA provides development credits, grants and guarantees to its recipient member countries to help meet their development needs. Credits from IDA are at concessional rates. Data are in U.S. dollars calculated using historical rates. This dataset contains the latest available snapshot of the IDA Statement of Credits and Grants. The World Bank complies with all sanctions applicable to World Bank transactions.",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "IDA_Credits_and_Grants_Cameroon.csv",
+            "created": "2013-02-04T13:22:05.068103",
+            "url": "http://africaopendata.org/storage/f/2013-02-04T13%3A21%3A30.013Z/ida-credits-and-grants-cameroon.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:30:42.385526",
+            "position": 0,
+            "revision_id": "19db95eb-6345-4dfd-8485-abf0b4c2ebbd",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Cameroon",
+            "name": "Cameroon",
+            "revision_timestamp": "2013-02-04T13:21:41.168693",
+            "state": "active",
+            "id": "7ddfdc3f-668d-4fbb-b17f-505b8aac5724"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Grant",
+            "name": "Grant",
+            "revision_timestamp": "2013-02-04T13:21:41.168693",
+            "state": "active",
+            "id": "61a5d14f-cd43-44ef-8c7c-c6a531e2f4a3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "world bank",
+            "name": "world bank",
+            "revision_timestamp": "2013-02-04T13:21:41.168693",
+            "state": "active",
+            "id": "4f5679da-0fdb-433e-9af7-3371fe1cf205"
+        }
+    ],
+    "tracking_summary": {
+        "total": 76,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Cameroon",
+            "description": "Datasets form the Republic of Cameroon",
+            "name": "cameroon",
+            "id": "3ef7ff0f-a1af-4f38-a628-314520d8d650"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "world-bank-ida-grant-cameroon",
+    "isopen": false,
+    "url": null,
+    "notes": "The International Development Association (IDA) credits are public and publicly guaranteed debt extended by the World Bank Group. IDA provides development credits, grants and guarantees to its recipient member countries to help meet their development needs. Credits from IDA are at concessional rates. Data are in U.S. dollars calculated using historical rates. This dataset contains the latest available snapshot of the IDA Statement of Credits and Grants. The World Bank complies with all sanctions applicable to World Bank transactions.",
+    "title": "World Bank IDA Grant Cameroon",
+    "extras": [],
+    "organization": null,
+    "revision_id": "70403b11-9da6-480f-a5c7-8ee0793a55f5"
+}

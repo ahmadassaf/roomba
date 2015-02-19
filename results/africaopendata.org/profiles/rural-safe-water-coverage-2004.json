@@ -1,0 +1,579 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:35:02.764821",
+    "id": "f9b6c797-5b19-4aeb-9676-43d50364d56b",
+    "metadata_created": "2014-11-04T22:35:02.764821",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:52:34.283783",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "8c6bb3db-0d8d-4c6c-aefd-ebe6d8ae309f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:52:34.283783",
+            "webstore_last_updated": null,
+            "id": "86dd8de5-beef-427a-a32f-667bf97a2383",
+            "size": "42644",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "351a1416355f76b8e09863d6065d405d9327fd74",
+            "description": "Online link to the 'Rural Safe Water Coverage 2004' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:52:20.342117",
+            "url": "http://maps.data.ug/layers/geonode:rural_safe_water_coverage_2004",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:59:46.553271",
+            "position": 0,
+            "revision_id": "e36b2b25-4a7f-4683-993b-386c844e9ef7",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "8c6bb3db-0d8d-4c6c-aefd-ebe6d8ae309f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:35:02.764821",
+            "webstore_last_updated": null,
+            "id": "dae5035c-9354-4f1b-9ef7-f135d5d66108",
+            "size": "380145",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Rural Safe Water Coverage 2004 (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "rural_safe_water_coverage_2004.gml",
+            "created": "2014-03-12T14:52:20.342151",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Arural_safe_water_coverage_2004&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "b29aca38-ad30-4b28-ae06-459f63eea8c2",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "8c6bb3db-0d8d-4c6c-aefd-ebe6d8ae309f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:35:02.764821",
+            "webstore_last_updated": null,
+            "id": "6e8fb9ec-ea2e-44c0-99eb-f3c1bff5e31b",
+            "size": "343662",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Rural Safe Water Coverage 2004 (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "rural_safe_water_coverage_2004.csv",
+            "created": "2014-03-12T14:52:20.342155",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Arural_safe_water_coverage_2004&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "b29aca38-ad30-4b28-ae06-459f63eea8c2",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "8c6bb3db-0d8d-4c6c-aefd-ebe6d8ae309f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:35:02.764821",
+            "webstore_last_updated": null,
+            "id": "849ffe12-58be-4a35-8364-8c0c00c93791",
+            "size": "354816",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Rural Safe Water Coverage 2004 (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "rural_safe_water_coverage_2004.excel",
+            "created": "2014-03-12T14:52:20.342158",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Arural_safe_water_coverage_2004&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "b29aca38-ad30-4b28-ae06-459f63eea8c2",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "8c6bb3db-0d8d-4c6c-aefd-ebe6d8ae309f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:35:02.764821",
+            "webstore_last_updated": null,
+            "id": "51c400ef-98f8-4c29-8f2b-41a37576c093",
+            "size": "365374",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Rural Safe Water Coverage 2004 (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "rural_safe_water_coverage_2004.json",
+            "created": "2014-03-12T14:52:20.342162",
+            "url": "http://maps.data.ug/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Arural_safe_water_coverage_2004&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:59:46.547639",
+            "position": 4,
+            "revision_id": "b29aca38-ad30-4b28-ae06-459f63eea8c2",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "8c6bb3db-0d8d-4c6c-aefd-ebe6d8ae309f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:35:02.764821",
+            "webstore_last_updated": null,
+            "id": "46b10f7b-d5a8-40ff-8e41-7ded47de7827",
+            "size": "552202",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Rural Safe Water Coverage 2004 (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "rural_safe_water_coverage_2004.kml",
+            "created": "2014-03-12T14:52:20.342166",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Arural_safe_water_coverage_2004&mode=download",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 5,
+            "revision_id": "b29aca38-ad30-4b28-ae06-459f63eea8c2",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "8c6bb3db-0d8d-4c6c-aefd-ebe6d8ae309f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:35:02.764821",
+            "webstore_last_updated": null,
+            "id": "d956b78d-dd40-455a-9194-7f391f6133c9",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Rural Safe Water Coverage 2004 (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "rural_safe_water_coverage_2004.tiles",
+            "created": "2014-03-12T14:52:20.342173",
+            "url": "http://maps.data.ug/geoserver/gwc/service/gmaps?layers=geonode:rural_safe_water_coverage_2004&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 6,
+            "revision_id": "b29aca38-ad30-4b28-ae06-459f63eea8c2",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "8c6bb3db-0d8d-4c6c-aefd-ebe6d8ae309f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:35:02.764821",
+            "webstore_last_updated": null,
+            "id": "5ca9a133-2b89-4047-8311-b5ad78b27e20",
+            "size": "40837",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Rural Safe Water Coverage 2004 (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "rural_safe_water_coverage_2004.pdf",
+            "created": "2014-03-12T14:52:20.342179",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Arural_safe_water_coverage_2004&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:59:47.360133",
+            "position": 7,
+            "revision_id": "b29aca38-ad30-4b28-ae06-459f63eea8c2",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "8c6bb3db-0d8d-4c6c-aefd-ebe6d8ae309f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:35:02.764821",
+            "webstore_last_updated": null,
+            "id": "e8d80ac0-59c2-4f96-91f9-7ceba4cac491",
+            "size": "56960",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Rural Safe Water Coverage 2004 (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "rural_safe_water_coverage_2004.png",
+            "created": "2014-03-12T14:52:20.342183",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Arural_safe_water_coverage_2004&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:59:46.600115",
+            "position": 8,
+            "revision_id": "b29aca38-ad30-4b28-ae06-459f63eea8c2",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 9,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:35:02.764821",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:35:02.764821",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:35:02.764821",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:35:02.764821",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:35:02.764821",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "health",
+            "name": "health",
+            "revision_timestamp": "2014-11-04T22:35:02.764821",
+            "state": "active",
+            "id": "956a3c07-125e-44e4-b843-c5011fadcc7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:35:02.764821",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "review",
+            "name": "review",
+            "revision_timestamp": "2014-11-04T22:35:02.764821",
+            "state": "active",
+            "id": "de7b1f8f-d249-40b9-955e-f0af31354055"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "sanitation",
+            "name": "sanitation",
+            "revision_timestamp": "2014-11-04T22:35:02.764821",
+            "state": "active",
+            "id": "4b46d055-703f-484c-b50a-3b3ab2b414e2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:35:02.764821",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 9,
+        "recent": 6
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 10,
+    "name": "rural-safe-water-coverage-2004",
+    "isopen": false,
+    "url": null,
+    "notes": "Rural safe water coverage 2004",
+    "title": "Rural Safe Water Coverage 2004",
+    "extras": [
+        {
+            "value": "[]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "b29aca38-ad30-4b28-ae06-459f63eea8c2",
+                "package_id": "f9b6c797-5b19-4aeb-9676-43d50364d56b"
+            }
+        },
+        {
+            "value": "35.0017411394",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "b29aca38-ad30-4b28-ae06-459f63eea8c2",
+                "package_id": "f9b6c797-5b19-4aeb-9676-43d50364d56b"
+            }
+        },
+        {
+            "value": "4.2310114174",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "revision_id": "b29aca38-ad30-4b28-ae06-459f63eea8c2",
+                "package_id": "f9b6c797-5b19-4aeb-9676-43d50364d56b"
+            }
+        },
+        {
+            "value": "-1.4817440179",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "package_id": "f9b6c797-5b19-4aeb-9676-43d50364d56b",
+                "revision_id": "b29aca38-ad30-4b28-ae06-459f63eea8c2"
+            }
+        },
+        {
+            "value": "29.5741674481",
+            "key": "bbox-west-long",
+            "__extras": {
+                "package_id": "f9b6c797-5b19-4aeb-9676-43d50364d56b",
+                "revision_id": "b29aca38-ad30-4b28-ae06-459f63eea8c2"
+            }
+        },
+        {
+            "value": "",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "f9b6c797-5b19-4aeb-9676-43d50364d56b",
+                "revision_id": "b29aca38-ad30-4b28-ae06-459f63eea8c2"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "revision_id": "b29aca38-ad30-4b28-ae06-459f63eea8c2",
+                "package_id": "f9b6c797-5b19-4aeb-9676-43d50364d56b"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-02-20T04:01:46Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "f9b6c797-5b19-4aeb-9676-43d50364d56b",
+                "revision_id": "b29aca38-ad30-4b28-ae06-459f63eea8c2"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "revision_id": "b29aca38-ad30-4b28-ae06-459f63eea8c2",
+                "package_id": "f9b6c797-5b19-4aeb-9676-43d50364d56b"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Rural Safe Water Coverage 2004'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "f9b6c797-5b19-4aeb-9676-43d50364d56b",
+                "revision_id": "b29aca38-ad30-4b28-ae06-459f63eea8c2"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "f9b6c797-5b19-4aeb-9676-43d50364d56b",
+                "revision_id": "b29aca38-ad30-4b28-ae06-459f63eea8c2"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "b29aca38-ad30-4b28-ae06-459f63eea8c2",
+                "package_id": "f9b6c797-5b19-4aeb-9676-43d50364d56b"
+            }
+        },
+        {
+            "value": "01ce5f72-9a16-11e3-8923-11b11f8ea6d0",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "b29aca38-ad30-4b28-ae06-459f63eea8c2",
+                "package_id": "f9b6c797-5b19-4aeb-9676-43d50364d56b"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "package_id": "f9b6c797-5b19-4aeb-9676-43d50364d56b",
+                "revision_id": "b29aca38-ad30-4b28-ae06-459f63eea8c2"
+            }
+        },
+        {
+            "value": "2014-02-20T04:01:46Z",
+            "key": "metadata-date",
+            "__extras": {
+                "revision_id": "b29aca38-ad30-4b28-ae06-459f63eea8c2",
+                "package_id": "f9b6c797-5b19-4aeb-9676-43d50364d56b"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "b29aca38-ad30-4b28-ae06-459f63eea8c2",
+                "package_id": "f9b6c797-5b19-4aeb-9676-43d50364d56b"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "f9b6c797-5b19-4aeb-9676-43d50364d56b",
+                "revision_id": "b29aca38-ad30-4b28-ae06-459f63eea8c2"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "revision_id": "b29aca38-ad30-4b28-ae06-459f63eea8c2",
+                "package_id": "f9b6c797-5b19-4aeb-9676-43d50364d56b"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "revision_id": "b29aca38-ad30-4b28-ae06-459f63eea8c2",
+                "package_id": "f9b6c797-5b19-4aeb-9676-43d50364d56b"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.5741674481, -1.4817440179], [35.0017411394, -1.4817440179], [35.0017411394, 4.2310114174], [29.5741674481, 4.2310114174], [29.5741674481, -1.4817440179]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "b29aca38-ad30-4b28-ae06-459f63eea8c2",
+                "package_id": "f9b6c797-5b19-4aeb-9676-43d50364d56b"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "f9b6c797-5b19-4aeb-9676-43d50364d56b",
+                "revision_id": "b29aca38-ad30-4b28-ae06-459f63eea8c2"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "b29aca38-ad30-4b28-ae06-459f63eea8c2",
+                "package_id": "f9b6c797-5b19-4aeb-9676-43d50364d56b"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "package_id": "f9b6c797-5b19-4aeb-9676-43d50364d56b",
+                "revision_id": "b29aca38-ad30-4b28-ae06-459f63eea8c2"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "b29aca38-ad30-4b28-ae06-459f63eea8c2"
+}

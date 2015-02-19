@@ -1,0 +1,108 @@
+{
+    "license_title": "Open Data Commons Attribution License 1.0",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-11-04T18:45:17.489822",
+    "id": "64f4f6c3-a103-45fc-b378-67e9e550eca8",
+    "metadata_created": "2012-11-04T18:45:00.928281",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:57:31.976115",
+    "author": "World Bank (finance.worldbank.org)",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "ODC-BY-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "3b17c578-b1ad-4786-85e9-26c80260320a",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:57:31.976115",
+            "webstore_last_updated": "2013-10-10T10:57:31.912094",
+            "id": "1bd0e3a1-931a-4596-88a5-2050361aa69a",
+            "size": "24929",
+            "state": "active",
+            "hash": "e27ab89a8e066f445b83c1a848f99269ba7d2fbb",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "RETF_-_Africa_as_Beneficiary-Ghana.csv",
+            "created": "2012-11-04T18:45:10.339816",
+            "url": "http://africaopendata.org/storage/f/2012-11-04T18%3A45%3A05.099Z/retf-africa-as-beneficiary-ghana.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:47:47.415953",
+            "position": 0,
+            "revision_id": "53cb4d75-7ff0-459e-ba90-29f5f16b4ce8",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Ghana",
+            "name": "Ghana",
+            "revision_timestamp": "2012-11-04T18:45:00.928281",
+            "state": "active",
+            "id": "3eb2f13c-9e39-4f97-877b-2f74d93ad269"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Trust Funds",
+            "name": "Trust Funds",
+            "revision_timestamp": "2012-11-04T18:45:00.928281",
+            "state": "active",
+            "id": "f284b6a5-a6fb-4bf2-ab20-7d376e25c5d6"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "World Bank",
+            "name": "World Bank",
+            "revision_timestamp": "2012-11-04T18:45:00.928281",
+            "state": "active",
+            "id": "ae91265e-0b5c-45a0-a96f-02cf356ec937"
+        }
+    ],
+    "tracking_summary": {
+        "total": 88,
+        "recent": 9
+    },
+    "groups": [
+        {
+            "title": "Ghana",
+            "description": "Data Sets For the Republic of Ghana",
+            "name": "ghana",
+            "id": "ad652170-f141-4e2a-a917-3e7bb5d42133"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "trust-fund-grants-committed-disbursed-ghana",
+    "isopen": true,
+    "url": null,
+    "notes": "A Recipient-executed Grant is a Trust Fund Grant that is provided to a third party under a grant agreement, and for which the Bank plays an operational role - i.e., the Bank normally appraises and supervises activities financed by these funds. This dataset provides data on the amount of grant funds committed in the course of a fiscal year and payments made out of a Trust Fund account to eligible recipients, in accordance with the legal agreements. In fulfilling its responsibilities, the World Bank as Trustee complies with all sanctions applicable to World Bank transactions. Data is provided at the individual Trust Fund level. All definitions should be regarded at present as provisional and not final, and are subject to revision at any time.",
+    "title": "Trust Fund Grants Committed & Disbursed - Ghana",
+    "extras": [],
+    "license_url": "http://www.opendefinition.org/licenses/odc-by",
+    "organization": null,
+    "revision_id": "106d0ab7-0f04-4444-ab91-2170ea979db4",
+    "license_information": {
+        "domain_content": false,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Open Data Commons",
+        "status": "active"
+    }
+}

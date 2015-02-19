@@ -1,0 +1,138 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Chris Metcalf",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T12:53:43.566381",
+    "id": "2fca6c14-a338-4b6f-b3b7-4ba4d4547491",
+    "metadata_created": "2012-09-10T12:53:43.566381",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:13:03.243133",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "5dab7519-1ce3-413e-9cd2-f77c07178b27",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:13:03.243133",
+            "webstore_last_updated": "2013-10-10T12:13:03.174128",
+            "id": "3c4ba3fc-11c7-48b0-972e-f96ab68f2a37",
+            "size": "1606",
+            "state": "active",
+            "hash": "ba8c68786c93325bcb11accade485f7ef46940b5",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Incidence of Respiratory Illnesses vs Use of Fuel Wood.csv",
+            "created": "2012-09-11T13:38:55.448283",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T154140/8bk9-8y8f.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:33:05.565496",
+            "position": 0,
+            "revision_id": "e63afe15-3cf7-486f-933d-33726ffadbca",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "energy",
+            "name": "energy",
+            "revision_timestamp": "2012-09-10T12:53:43.566381",
+            "state": "active",
+            "id": "442f266c-6f64-47c8-a2a9-8e135cba2940"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "fuel wood",
+            "name": "fuel wood",
+            "revision_timestamp": "2012-09-10T12:53:43.566381",
+            "state": "active",
+            "id": "933f8824-1ad1-4ed5-b277-d3b1fe4737a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "health",
+            "name": "health",
+            "revision_timestamp": "2012-09-10T12:53:43.566381",
+            "state": "active",
+            "id": "956a3c07-125e-44e4-b843-c5011fadcc7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T12:53:43.566381",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T12:53:43.566381",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 61,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "kodi-8bk9-8y8f",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": null,
+    "title": "Incidence of Respiratory Illnesses vs Use of Fuel Wood",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "a26ca313-a9ce-4bfd-8ea6-78c8078b4c21",
+                "package_id": "2fca6c14-a338-4b6f-b3b7-4ba4d4547491"
+            }
+        },
+        {
+            "value": "Energy",
+            "key": "category",
+            "__extras": {
+                "revision_id": "a26ca313-a9ce-4bfd-8ea6-78c8078b4c21",
+                "package_id": "2fca6c14-a338-4b6f-b3b7-4ba4d4547491"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "a26ca313-a9ce-4bfd-8ea6-78c8078b4c21",
+                "package_id": "2fca6c14-a338-4b6f-b3b7-4ba4d4547491"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "a26ca313-a9ce-4bfd-8ea6-78c8078b4c21"
+}

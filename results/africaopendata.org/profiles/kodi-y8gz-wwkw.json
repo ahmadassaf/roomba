@@ -1,0 +1,146 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Kenya Open Data Bot",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-09T17:11:53.768417",
+    "id": "4eac738b-7cc5-4806-b097-73c75302a1dd",
+    "metadata_created": "2012-09-09T17:11:53.768417",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:21:11.441803",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "ae7e0e21-9583-4871-aeb6-8526d7a8d1cf",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:21:11.441803",
+            "webstore_last_updated": "2013-10-10T12:21:11.342899",
+            "id": "5974a76f-5b11-4a85-9adb-d9e1f249226b",
+            "size": "191",
+            "state": "active",
+            "hash": "88a9cbabaac849a5a3969aef7c4e5197832d8880",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Local Authority Expenditures by Year: Nairobi.csv",
+            "created": "2012-09-11T13:25:30.185449",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T152815/y8gz-wwkw.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:39:24.501412",
+            "position": 0,
+            "revision_id": "b0846804-cf1a-4dd6-85da-099eaa7adf4b",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "cdf",
+            "name": "cdf",
+            "revision_timestamp": "2012-09-09T17:11:53.768417",
+            "state": "active",
+            "id": "e4f787d6-ec60-483a-b3b3-f941cf48c3b4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "county",
+            "name": "county",
+            "revision_timestamp": "2012-09-09T17:11:53.768417",
+            "state": "active",
+            "id": "858f3acf-2c66-4fd9-9dc2-32e4f12121a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "expenditures",
+            "name": "expenditures",
+            "revision_timestamp": "2012-09-09T17:11:53.768417",
+            "state": "active",
+            "id": "44c63fed-5be4-49aa-b2a5-1e7baf93d961"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-09T17:11:53.768417",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-09T17:11:53.768417",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "local authorities",
+            "name": "local authorities",
+            "revision_timestamp": "2012-09-09T17:11:53.768417",
+            "state": "active",
+            "id": "ece507fe-ec49-44f8-848e-39df75ac1866"
+        }
+    ],
+    "tracking_summary": {
+        "total": 61,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "kodi-y8gz-wwkw",
+    "isopen": true,
+    "url": null,
+    "notes": "Local Authority and Constituency Development Fund Expenditures, County estimates, Kenya Shillings",
+    "title": "Local Authority Expenditures by Year: Nairobi",
+    "extras": [
+        {
+            "value": "Ministry of Local Government",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "aabcb480-4940-4efa-9fa1-0d15ee2b238b",
+                "package_id": "4eac738b-7cc5-4806-b097-73c75302a1dd"
+            }
+        },
+        {
+            "value": "Public Finance",
+            "key": "category",
+            "__extras": {
+                "revision_id": "aabcb480-4940-4efa-9fa1-0d15ee2b238b",
+                "package_id": "4eac738b-7cc5-4806-b097-73c75302a1dd"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "aabcb480-4940-4efa-9fa1-0d15ee2b238b",
+                "package_id": "4eac738b-7cc5-4806-b097-73c75302a1dd"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "aabcb480-4940-4efa-9fa1-0d15ee2b238b"
+}

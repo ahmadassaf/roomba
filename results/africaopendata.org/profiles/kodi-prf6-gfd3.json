@@ -1,0 +1,130 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Chris Metcalf",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:51:59.070633",
+    "id": "4f149ba0-acea-440a-8128-8d7f4b9adb7c",
+    "metadata_created": "2012-09-11T13:51:59.070633",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:07:44.436832",
+    "author": "Chris Metcalf",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "39376a12-94af-47f4-92a4-d1c33cd6bbac",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:07:44.436832",
+            "webstore_last_updated": "2013-10-10T12:07:44.370257",
+            "id": "f1b1d2c7-fb96-4fc0-a452-01fe9c2bd5c8",
+            "size": "267",
+            "state": "active",
+            "hash": "4ce094a6ce33ce56a4862c6d631e3b3eb9ba6437",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Makueni Pop Pyramid Age Groups - 2009.csv",
+            "created": "2012-09-11T13:51:59.114661",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155444/prf6-gfd3.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:39:25.350560",
+            "position": 0,
+            "revision_id": "d1d06b07-86ed-42f9-b4f3-c9c7d36c18b1",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "county",
+            "name": "county",
+            "revision_timestamp": "2012-09-11T13:51:59.070633",
+            "state": "active",
+            "id": "858f3acf-2c66-4fd9-9dc2-32e4f12121a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:51:59.070633",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:51:59.070633",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population",
+            "name": "population",
+            "revision_timestamp": "2012-09-11T13:51:59.070633",
+            "state": "active",
+            "id": "c5e39de5-556e-4bcb-883b-5b9ec2481ae9"
+        }
+    ],
+    "tracking_summary": {
+        "total": 35,
+        "recent": 4
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "kodi-prf6-gfd3",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": null,
+    "title": "Makueni Pop Pyramid Age Groups - 2009",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "e4c9e115-6550-491a-b1e7-5f06cc7cca5a",
+                "package_id": "4f149ba0-acea-440a-8128-8d7f4b9adb7c"
+            }
+        },
+        {
+            "value": "Population",
+            "key": "category",
+            "__extras": {
+                "revision_id": "e4c9e115-6550-491a-b1e7-5f06cc7cca5a",
+                "package_id": "4f149ba0-acea-440a-8128-8d7f4b9adb7c"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "e4c9e115-6550-491a-b1e7-5f06cc7cca5a",
+                "package_id": "4f149ba0-acea-440a-8128-8d7f4b9adb7c"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "e4c9e115-6550-491a-b1e7-5f06cc7cca5a"
+}

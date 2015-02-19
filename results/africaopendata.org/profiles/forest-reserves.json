@@ -1,0 +1,699 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:31:38.548638",
+    "id": "dcae1861-4832-4f96-8fd9-7e4278bb4e0f",
+    "metadata_created": "2014-11-04T22:31:38.548638",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:51:09.331740",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "1fa9cf93-84c2-4e0c-b537-b11a5d3fac7b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-05T04:45:54.454547",
+            "webstore_last_updated": null,
+            "id": "5d5bedaf-8aa1-4c26-a91a-f93d84da7c33",
+            "size": "11132",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "8b1fe55dda3808454dd79dfbfddb0ed693546a94",
+            "description": "Online link to the 'Forest reserves' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:38:18.629008",
+            "url": "http://maps.nemaug.org/layers/geonode:forestreserves",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T04:45:54.309638",
+            "position": 0,
+            "revision_id": "d379c9cd-17a4-4898-a05e-ea31dec6b925",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "1fa9cf93-84c2-4e0c-b537-b11a5d3fac7b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:51:09.331740",
+            "webstore_last_updated": null,
+            "id": "1fe2ae2b-51e2-4c05-8990-2f077956ce80",
+            "size": "432",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Forest reserves (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "forestreserves.zip",
+            "created": "2014-03-12T14:38:18.629034",
+            "url": "http://maps.nemaug.org/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Aforestreserves&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T04:45:42.195396",
+            "position": 1,
+            "revision_id": "28c1be1b-7e6f-4ca9-beb6-4afdacc5fab2",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "1fa9cf93-84c2-4e0c-b537-b11a5d3fac7b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:51:09.331740",
+            "webstore_last_updated": null,
+            "id": "4c9eb76a-38f7-4271-bab9-0d1b7cc0b1cf",
+            "size": "432",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Forest reserves (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "forestreserves.gml",
+            "created": "2014-03-12T14:38:18.629042",
+            "url": "http://maps.nemaug.org/geoserver/wfs?typename=geonode%3Aforestreserves&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T04:45:40.371603",
+            "position": 2,
+            "revision_id": "28c1be1b-7e6f-4ca9-beb6-4afdacc5fab2",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "1fa9cf93-84c2-4e0c-b537-b11a5d3fac7b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:51:09.331740",
+            "webstore_last_updated": null,
+            "id": "36bf2731-cc70-484d-a05d-a95f8e35d6c7",
+            "size": "432",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Forest reserves (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "forestreserves.gml",
+            "created": "2014-03-12T14:38:18.629049",
+            "url": "http://maps.nemaug.org/geoserver/wfs?typename=geonode%3Aforestreserves&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T04:45:44.012398",
+            "position": 3,
+            "revision_id": "28c1be1b-7e6f-4ca9-beb6-4afdacc5fab2",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "1fa9cf93-84c2-4e0c-b537-b11a5d3fac7b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:51:09.331740",
+            "webstore_last_updated": null,
+            "id": "ffa2aeaf-2c8f-4634-905f-b2c87147c844",
+            "size": "432",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Forest reserves (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "forestreserves.csv",
+            "created": "2014-03-12T14:38:18.629055",
+            "url": "http://maps.nemaug.org/geoserver/wfs?typename=geonode%3Aforestreserves&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T04:45:57.628412",
+            "position": 4,
+            "revision_id": "28c1be1b-7e6f-4ca9-beb6-4afdacc5fab2",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "1fa9cf93-84c2-4e0c-b537-b11a5d3fac7b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:51:09.331740",
+            "webstore_last_updated": null,
+            "id": "b3df2bbf-e178-4f76-9493-0342d5299825",
+            "size": "432",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Forest reserves (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "forestreserves.excel",
+            "created": "2014-03-12T14:38:18.629062",
+            "url": "http://maps.nemaug.org/geoserver/wfs?typename=geonode%3Aforestreserves&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T04:45:49.938128",
+            "position": 5,
+            "revision_id": "28c1be1b-7e6f-4ca9-beb6-4afdacc5fab2",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "1fa9cf93-84c2-4e0c-b537-b11a5d3fac7b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:51:09.331740",
+            "webstore_last_updated": null,
+            "id": "5b09b52e-904e-4ac6-916f-6669ba3d7ec5",
+            "size": "432",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Forest reserves (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "forestreserves.json",
+            "created": "2014-03-12T14:38:18.629068",
+            "url": "http://maps.nemaug.org/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Aforestreserves&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T04:45:38.464526",
+            "position": 6,
+            "revision_id": "28c1be1b-7e6f-4ca9-beb6-4afdacc5fab2",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "1fa9cf93-84c2-4e0c-b537-b11a5d3fac7b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:51:09.331740",
+            "webstore_last_updated": null,
+            "id": "b56debd8-27dd-41d1-9c46-2938f4b1ca97",
+            "size": "446",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Forest reserves (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "forestreserves.kml",
+            "created": "2014-03-12T14:38:18.629074",
+            "url": "http://maps.nemaug.org/geoserver/wms/kml?layers=geonode%3Aforestreserves&mode=download",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T04:45:47.827828",
+            "position": 7,
+            "revision_id": "28c1be1b-7e6f-4ca9-beb6-4afdacc5fab2",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "1fa9cf93-84c2-4e0c-b537-b11a5d3fac7b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:51:09.331740",
+            "webstore_last_updated": null,
+            "id": "942f554f-7a0c-4c22-a368-4c508aa49578",
+            "size": "446",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Forest reserves (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "forestreserves.kml",
+            "created": "2014-03-12T14:38:18.629080",
+            "url": "http://maps.nemaug.org/geoserver/wms/kml?layers=geonode%3Aforestreserves&mode=refresh",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T04:45:45.993225",
+            "position": 8,
+            "revision_id": "28c1be1b-7e6f-4ca9-beb6-4afdacc5fab2",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "1fa9cf93-84c2-4e0c-b537-b11a5d3fac7b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:38.548638",
+            "webstore_last_updated": null,
+            "id": "52bf9ff9-12cc-438f-8ce3-1b8f8877f93d",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Forest reserves (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "forestreserves.tiles",
+            "created": "2014-03-12T14:38:18.629087",
+            "url": "http://maps.nemaug.org/geoserver/gwc/service/gmaps?layers=geonode:forestreserves&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "1dceb740-28c4-49d6-af84-c8887deb0a03",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "1fa9cf93-84c2-4e0c-b537-b11a5d3fac7b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:51:09.331740",
+            "webstore_last_updated": null,
+            "id": "919a90d9-a63e-44b0-b7f0-d42d90867eb1",
+            "size": "446",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Forest reserves (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "forestreserves.jpg",
+            "created": "2014-03-12T14:38:18.629094",
+            "url": "http://maps.nemaug.org/geoserver/wms?layers=geonode%3Aforestreserves&width=514&bbox=29.686733024288255%2C-1.358515529385947%2C34.91567821620945%2C4.23184723799453&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T04:45:56.299473",
+            "position": 10,
+            "revision_id": "28c1be1b-7e6f-4ca9-beb6-4afdacc5fab2",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "1fa9cf93-84c2-4e0c-b537-b11a5d3fac7b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:51:09.331740",
+            "webstore_last_updated": null,
+            "id": "1c7f37a8-00b8-4485-b310-3eac36af8f8b",
+            "size": "446",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Forest reserves (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "forestreserves.pdf",
+            "created": "2014-03-12T14:38:18.629100",
+            "url": "http://maps.nemaug.org/geoserver/wms?layers=geonode%3Aforestreserves&width=514&bbox=29.686733024288255%2C-1.358515529385947%2C34.91567821620945%2C4.23184723799453&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:38:27.004933",
+            "position": 11,
+            "revision_id": "28c1be1b-7e6f-4ca9-beb6-4afdacc5fab2",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "1fa9cf93-84c2-4e0c-b537-b11a5d3fac7b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:51:09.331740",
+            "webstore_last_updated": null,
+            "id": "a6612592-8292-4348-9e24-e1f7e84ff3cf",
+            "size": "446",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Forest reserves (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "forestreserves.png",
+            "created": "2014-03-12T14:38:18.629107",
+            "url": "http://maps.nemaug.org/geoserver/wms?layers=geonode%3Aforestreserves&width=514&bbox=29.686733024288255%2C-1.358515529385947%2C34.91567821620945%2C4.23184723799453&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T04:46:00.759979",
+            "position": 12,
+            "revision_id": "28c1be1b-7e6f-4ca9-beb6-4afdacc5fab2",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Biological",
+            "name": "Biological",
+            "revision_timestamp": "2014-11-04T22:31:38.548638",
+            "state": "active",
+            "id": "601adee3-53fc-466d-97cb-b670199dc66b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Conservation",
+            "name": "Conservation",
+            "revision_timestamp": "2014-11-04T22:31:38.548638",
+            "state": "active",
+            "id": "1202ff18-986c-4e13-9330-56e59ffead1d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Physical",
+            "name": "Physical",
+            "revision_timestamp": "2014-11-04T22:31:38.548638",
+            "state": "active",
+            "id": "22708169-ba07-4e7c-a53f-f676ce36b428"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:31:38.548638",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:31:38.548638",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:31:38.548638",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:31:38.548638",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:31:38.548638",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:31:38.548638",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:31:38.548638",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 4,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 10,
+    "name": "forest-reserves",
+    "isopen": false,
+    "url": null,
+    "notes": "Gazetted forest area, size and type.",
+    "title": "Forest reserves",
+    "extras": [
+        {
+            "value": "[\"Non provided\"]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "1dceb740-28c4-49d6-af84-c8887deb0a03",
+                "package_id": "dcae1861-4832-4f96-8fd9-7e4278bb4e0f"
+            }
+        },
+        {
+            "value": "34.9156782162",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "1dceb740-28c4-49d6-af84-c8887deb0a03",
+                "package_id": "dcae1861-4832-4f96-8fd9-7e4278bb4e0f"
+            }
+        },
+        {
+            "value": "4.2318472380",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "dcae1861-4832-4f96-8fd9-7e4278bb4e0f",
+                "revision_id": "1dceb740-28c4-49d6-af84-c8887deb0a03"
+            }
+        },
+        {
+            "value": "-1.3585155294",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "1dceb740-28c4-49d6-af84-c8887deb0a03",
+                "package_id": "dcae1861-4832-4f96-8fd9-7e4278bb4e0f"
+            }
+        },
+        {
+            "value": "29.6867330243",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "1dceb740-28c4-49d6-af84-c8887deb0a03",
+                "package_id": "dcae1861-4832-4f96-8fd9-7e4278bb4e0f"
+            }
+        },
+        {
+            "value": "ketty@mountbatten.net",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "dcae1861-4832-4f96-8fd9-7e4278bb4e0f",
+                "revision_id": "1dceb740-28c4-49d6-af84-c8887deb0a03"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "dcae1861-4832-4f96-8fd9-7e4278bb4e0f",
+                "revision_id": "1dceb740-28c4-49d6-af84-c8887deb0a03"
+            }
+        },
+        {
+            "value": "[{\"type\": \"creation\", \"value\": \"2014-02-18T07:08:09Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "dcae1861-4832-4f96-8fd9-7e4278bb4e0f",
+                "revision_id": "1dceb740-28c4-49d6-af84-c8887deb0a03"
+            }
+        },
+        {
+            "value": "unknown",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "dcae1861-4832-4f96-8fd9-7e4278bb4e0f",
+                "revision_id": "1dceb740-28c4-49d6-af84-c8887deb0a03"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Forest reserves'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "dcae1861-4832-4f96-8fd9-7e4278bb4e0f",
+                "revision_id": "1dceb740-28c4-49d6-af84-c8887deb0a03"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "dcae1861-4832-4f96-8fd9-7e4278bb4e0f",
+                "revision_id": "1dceb740-28c4-49d6-af84-c8887deb0a03"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "1dceb740-28c4-49d6-af84-c8887deb0a03",
+                "package_id": "dcae1861-4832-4f96-8fd9-7e4278bb4e0f"
+            }
+        },
+        {
+            "value": "b6cd5506-989d-11e3-bc1f-22000a1cecb5",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "1dceb740-28c4-49d6-af84-c8887deb0a03",
+                "package_id": "dcae1861-4832-4f96-8fd9-7e4278bb4e0f"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "1dceb740-28c4-49d6-af84-c8887deb0a03",
+                "package_id": "dcae1861-4832-4f96-8fd9-7e4278bb4e0f"
+            }
+        },
+        {
+            "value": "2014-02-18T07:08:09Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "dcae1861-4832-4f96-8fd9-7e4278bb4e0f",
+                "revision_id": "1dceb740-28c4-49d6-af84-c8887deb0a03"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "1dceb740-28c4-49d6-af84-c8887deb0a03",
+                "package_id": "dcae1861-4832-4f96-8fd9-7e4278bb4e0f"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "dcae1861-4832-4f96-8fd9-7e4278bb4e0f",
+                "revision_id": "1dceb740-28c4-49d6-af84-c8887deb0a03"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "dcae1861-4832-4f96-8fd9-7e4278bb4e0f",
+                "revision_id": "1dceb740-28c4-49d6-af84-c8887deb0a03"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "dcae1861-4832-4f96-8fd9-7e4278bb4e0f",
+                "revision_id": "1dceb740-28c4-49d6-af84-c8887deb0a03"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.6867330243, -1.3585155294], [34.9156782162, -1.3585155294], [34.9156782162, 4.231847238], [29.6867330243, 4.231847238], [29.6867330243, -1.3585155294]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "1dceb740-28c4-49d6-af84-c8887deb0a03",
+                "package_id": "dcae1861-4832-4f96-8fd9-7e4278bb4e0f"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "dcae1861-4832-4f96-8fd9-7e4278bb4e0f",
+                "revision_id": "1dceb740-28c4-49d6-af84-c8887deb0a03"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "1dceb740-28c4-49d6-af84-c8887deb0a03",
+                "package_id": "dcae1861-4832-4f96-8fd9-7e4278bb4e0f"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "1dceb740-28c4-49d6-af84-c8887deb0a03",
+                "package_id": "dcae1861-4832-4f96-8fd9-7e4278bb4e0f"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "1dceb740-28c4-49d6-af84-c8887deb0a03"
+}

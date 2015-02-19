@@ -1,0 +1,248 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2014-01-08T08:35:43.468569",
+    "id": "39ebe6b7-bf2f-43a4-8e1a-3dec27a48fa7",
+    "metadata_created": "2014-01-08T08:35:43.468569",
+    "owner_org": null,
+    "metadata_modified": "2014-01-08T08:35:43.468569",
+    "author": "GGD Amsterdam",
+    "author_email": "gezondheidinbeeld@ggd.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "06538ce4-ff6c-44d3-a5c0-8c34d70d295d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-01-08T08:35:43.468569",
+            "webstore_last_updated": null,
+            "id": "e62a3e37-d327-4808-b415-50a06dea2324",
+            "size": "0",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Jeugd",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://www.ggdgezondheidinbeeld.nl/jeugd",
+            "created": "2014-01-08T09:35:44.691586",
+            "url": "http://www.ggdgezondheidinbeeld.nl/jeugd",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "da37e67b-693e-4d8c-85fc-058f3cff5149",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "06538ce4-ff6c-44d3-a5c0-8c34d70d295d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-01-08T08:35:43.468569",
+            "webstore_last_updated": null,
+            "id": "8357a87f-7d37-4d60-a93b-3b83d958809d",
+            "size": "0",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Volwassenen",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://www.ggdgezondheidinbeeld.nl/volwassenen",
+            "created": "2014-01-08T09:35:44.691615",
+            "url": "http://www.ggdgezondheidinbeeld.nl/volwassenen",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "da37e67b-693e-4d8c-85fc-058f3cff5149",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "GGD",
+            "name": "GGD",
+            "revision_timestamp": "2014-01-08T08:35:43.468569",
+            "state": "active",
+            "id": "569396cd-f275-4923-aedd-6a7f65ed6f23"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "gezondheid",
+            "name": "gezondheid",
+            "revision_timestamp": "2014-01-08T08:35:43.468569",
+            "state": "active",
+            "id": "37974c8e-c7bf-4efc-b1ac-c5554d561a17"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "jeugd",
+            "name": "jeugd",
+            "revision_timestamp": "2014-01-08T08:35:43.468569",
+            "state": "active",
+            "id": "47f5ee8d-32c1-4c7b-bad8-7281c29016d9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "leefomgeving",
+            "name": "leefomgeving",
+            "revision_timestamp": "2014-01-08T08:35:43.468569",
+            "state": "active",
+            "id": "b6422ac2-90f9-4c9f-b209-44d3ea5db70d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "leefstijl",
+            "name": "leefstijl",
+            "revision_timestamp": "2014-01-08T08:35:43.468569",
+            "state": "active",
+            "id": "ca5d82e0-93d9-4425-bb23-d87fbf16653a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lichamelijk",
+            "name": "lichamelijk",
+            "revision_timestamp": "2014-01-08T08:35:43.468569",
+            "state": "active",
+            "id": "979dba38-5754-4fa0-aee7-7f36e60caef9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "psychosociaal",
+            "name": "psychosociaal",
+            "revision_timestamp": "2014-01-08T08:35:43.468569",
+            "state": "active",
+            "id": "1bed85b1-faca-47b6-ae4a-f6e1621c1d55"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "sociaal-emotioneel",
+            "name": "sociaal-emotioneel",
+            "revision_timestamp": "2014-01-08T08:35:43.468569",
+            "state": "active",
+            "id": "e53ce22a-47aa-4cea-b8c0-e8e9140749b3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "volwassenen",
+            "name": "volwassenen",
+            "revision_timestamp": "2014-01-08T08:35:43.468569",
+            "state": "active",
+            "id": "b1af5a58-1108-4b89-88b7-253af600e640"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "zorggebruik",
+            "name": "zorggebruik",
+            "revision_timestamp": "2014-01-08T08:35:43.468569",
+            "state": "active",
+            "id": "b0293fa7-ff23-4bd7-a880-c65cb948311e"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Zorg & welzijn",
+            "description": "",
+            "name": "zorg-welzijn",
+            "id": "03f76fe0-7556-4f88-9c23-0b318e1c69ed"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 10,
+    "name": "ggd_gezondheid_in_beeld",
+    "isopen": false,
+    "url": null,
+    "notes": "Gezondheid in Beeld is een makkelijk toegankelijke en interactieve website die inzicht geeft in de gezondheid, het welzijn, de leefstijl en de leefomgeving van de Amsterdammers. \n\nBij iedere weergave is via het tabblad 'Tabel' de data ook te downloaden als CSV-bestand.",
+    "title": "GGD Gezondheid in Beeld",
+    "extras": [
+        {
+            "value": "gezondheidinbeeld@ggd.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "39ebe6b7-bf2f-43a4-8e1a-3dec27a48fa7",
+                "revision_id": "da37e67b-693e-4d8c-85fc-058f3cff5149"
+            }
+        },
+        {
+            "value": "Gezondheid in Beeld",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "da37e67b-693e-4d8c-85fc-058f3cff5149",
+                "package_id": "39ebe6b7-bf2f-43a4-8e1a-3dec27a48fa7"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "da37e67b-693e-4d8c-85fc-058f3cff5149",
+                "package_id": "39ebe6b7-bf2f-43a4-8e1a-3dec27a48fa7"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "da37e67b-693e-4d8c-85fc-058f3cff5149",
+                "package_id": "39ebe6b7-bf2f-43a4-8e1a-3dec27a48fa7"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "39ebe6b7-bf2f-43a4-8e1a-3dec27a48fa7",
+                "revision_id": "da37e67b-693e-4d8c-85fc-058f3cff5149"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "39ebe6b7-bf2f-43a4-8e1a-3dec27a48fa7",
+                "revision_id": "da37e67b-693e-4d8c-85fc-058f3cff5149"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "da37e67b-693e-4d8c-85fc-058f3cff5149",
+                "package_id": "39ebe6b7-bf2f-43a4-8e1a-3dec27a48fa7"
+            }
+        },
+        {
+            "value": "http://www.ggdgezondheidinbeeld.nl/",
+            "key": "website",
+            "__extras": {
+                "package_id": "39ebe6b7-bf2f-43a4-8e1a-3dec27a48fa7",
+                "revision_id": "da37e67b-693e-4d8c-85fc-058f3cff5149"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "da37e67b-693e-4d8c-85fc-058f3cff5149"
+}

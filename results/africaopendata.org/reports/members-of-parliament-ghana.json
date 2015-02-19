@@ -1,0 +1,147 @@
+{
+    "missing": [
+        "organization"
+    ],
+    "undefined": [
+        "url",
+        "owner_org",
+        "author",
+        "author_email",
+        "version"
+    ],
+    "unreachableURLs": [],
+    "report": [
+        "url field exists but there is no value defined",
+        "owner_org field exists but there is no value defined",
+        "author field exists but there is no value defined",
+        "author_email field exists but there is no value defined",
+        "organization information is missing",
+        "version field exists but there is no value defined"
+    ],
+    "tag": {
+        "ghana": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "members of parliament": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "parliament": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        }
+    },
+    "group": {
+        "Ghana": {
+            "missing": [
+                "display_name",
+                "image_display_url"
+            ],
+            "undefined": [],
+            "unreachableURLs": [],
+            "report": [
+                "display_name field is missing",
+                "image_display_url field is missing"
+            ]
+        }
+    },
+    "license": {
+        "license": {
+            "missing": [
+                "license_url"
+            ],
+            "undefined": [],
+            "unreachableURLs": [],
+            "report": [
+                "license_url field is missing",
+                "We could not normalize the license information as no valid mapping was found !"
+            ]
+        }
+    },
+    "resource": {
+        "Members of Parliament Gnana": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "description",
+                "mimetype_inner",
+                "cache_url"
+            ],
+            "unreachableURLs": [
+                "https://api.scraperwiki.com/api/1.0/datastore/sqlite?format=csv&name=mps_ghana&query=select+*+from+%60swdata%60&apikey="
+            ],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "description field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "cache_url field exists but there is no value defined",
+                "The url for this resource is not reachable !",
+                "mimetype value defined where the resource is not reachable",
+                "size value defined where the resource is not reachable"
+            ],
+            "unreachableTypes": {
+                "file": "https://api.scraperwiki.com/api/1.0/datastore/sqlite?format=csv&name=mps_ghana&query=select+*+from+%60swdata%60&apikey="
+            }
+        },
+        "Members of Parliament - API": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "description",
+                "format",
+                "mimetype_inner",
+                "cache_url",
+                "webstore_url"
+            ],
+            "unreachableURLs": [
+                "https://scraperwiki.com/docs/api?name=mps_ghana#sqlite"
+            ],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "description field exists but there is no value defined",
+                "format field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined",
+                "The url for this resource is not reachable !",
+                "mimetype value defined where the resource is not reachable",
+                "size value defined where the resource is not reachable"
+            ],
+            "unreachableTypes": {
+                "api": "https://scraperwiki.com/docs/api?name=mps_ghana#sqlite"
+            }
+        }
+    },
+    "counter": {
+        "group": 1,
+        "tag": 3,
+        "resource": 2
+    }
+}

@@ -1,0 +1,162 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2014-08-28T14:37:13.041251",
+    "id": "59e74197-b9c8-48be-a9f3-0a0e65f6b04e",
+    "metadata_created": "2014-08-28T14:37:13.041251",
+    "owner_org": null,
+    "metadata_modified": "2014-08-28T14:37:13.041251",
+    "author": "Dienst Ruimtelijke Ordening",
+    "author_email": "info@dro.amsterdam.nl",
+    "state": "active",
+    "version": null,
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "a0615237-a33d-4a46-959c-45c98911f851",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-08-28T14:37:13.041251",
+            "webstore_last_updated": null,
+            "id": "fcedec22-d65e-4749-b0c6-a33e287a3ded",
+            "size": null,
+            "state": "active",
+            "hash": "",
+            "description": "Downloaden via maps.amsterdam.nl",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://maps.amsterdam.nl/open_geodata/",
+            "created": "2014-08-28T16:37:13.110459",
+            "url": "http://maps.amsterdam.nl/open_geodata/",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "81bf25e5-89fe-4255-94c1-143af0c3b56a",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "amsterdam",
+            "name": "amsterdam",
+            "revision_timestamp": "2014-08-28T14:37:13.041251",
+            "state": "active",
+            "id": "6773b92f-3cf7-4156-bb5f-a54b900f1537"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "gebouwen",
+            "name": "gebouwen",
+            "revision_timestamp": "2014-08-28T14:37:13.041251",
+            "state": "active",
+            "id": "2153d60d-eb7c-4590-a078-6c2c25cfc5c5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "nieuw",
+            "name": "nieuw",
+            "revision_timestamp": "2014-08-28T14:37:13.041251",
+            "state": "active",
+            "id": "5b9633d7-ca91-4402-a820-643f7828516b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "nieuwbouw",
+            "name": "nieuwbouw",
+            "revision_timestamp": "2014-08-28T14:37:13.041251",
+            "state": "active",
+            "id": "ac9cdf94-a248-4a43-b172-fc14525c7236"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Stedelijke ontwikkeling",
+            "description": "",
+            "name": "stedelijke-ontwikkeling",
+            "id": "0364e650-9355-4ad7-aa0a-8d87d809544e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "nieuwegebouwen",
+    "isopen": true,
+    "url": null,
+    "notes": "Gebouwen in Amsterdam met een bouwjaar van 2000 of later",
+    "title": "Nieuwe gebouwen sinds 2000",
+    "extras": [
+        {
+            "value": "k.b.de.haan@amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "59e74197-b9c8-48be-a9f3-0a0e65f6b04e",
+                "revision_id": "81bf25e5-89fe-4255-94c1-143af0c3b56a"
+            }
+        },
+        {
+            "value": "Klaas-Bindert de Haan",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "81bf25e5-89fe-4255-94c1-143af0c3b56a",
+                "package_id": "59e74197-b9c8-48be-a9f3-0a0e65f6b04e"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "81bf25e5-89fe-4255-94c1-143af0c3b56a",
+                "package_id": "59e74197-b9c8-48be-a9f3-0a0e65f6b04e"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "81bf25e5-89fe-4255-94c1-143af0c3b56a",
+                "package_id": "59e74197-b9c8-48be-a9f3-0a0e65f6b04e"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "59e74197-b9c8-48be-a9f3-0a0e65f6b04e",
+                "revision_id": "81bf25e5-89fe-4255-94c1-143af0c3b56a"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "59e74197-b9c8-48be-a9f3-0a0e65f6b04e",
+                "revision_id": "81bf25e5-89fe-4255-94c1-143af0c3b56a"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "81bf25e5-89fe-4255-94c1-143af0c3b56a",
+                "package_id": "59e74197-b9c8-48be-a9f3-0a0e65f6b04e"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "81bf25e5-89fe-4255-94c1-143af0c3b56a"
+}

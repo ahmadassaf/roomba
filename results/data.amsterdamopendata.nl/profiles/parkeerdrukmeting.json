@@ -1,0 +1,203 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Beheerder IVV",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "info@ivv.amsterdam.nl",
+    "revision_timestamp": "2014-04-09T12:30:25.388397",
+    "id": "3b8f1666-a033-41dc-8ff2-fb699967b5a9",
+    "metadata_created": "2014-04-09T12:29:04.915697",
+    "owner_org": null,
+    "metadata_modified": "2014-04-09T12:30:25.388397",
+    "author": "Dienst IVV",
+    "author_email": "info@ivv.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "90aee41c-d783-4eb8-b062-c83e84113a91",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-04-09T12:30:25.388397",
+            "webstore_last_updated": null,
+            "id": "f1e9535b-3194-4f91-ae93-0e81741420b9",
+            "size": "1518496",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Rapport, data en geografie",
+            "format": "ZIP",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "Parkeerplan-barometer.zip",
+            "created": "2014-04-09T14:30:25.466668",
+            "url": "http://www.amsterdamopendata.nl/documents/10180/31677/Parkeerplan-barometer.zip",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "59658b55-93bd-43ec-85c8-e8346ddbe1e2",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "barometer",
+            "name": "barometer",
+            "revision_timestamp": "2014-04-09T12:29:04.915697",
+            "state": "active",
+            "id": "2b82a0fb-8087-40b9-a9d1-c116d8ed9aa0"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "bezetting",
+            "name": "bezetting",
+            "revision_timestamp": "2014-04-09T12:29:04.915697",
+            "state": "active",
+            "id": "ab9ae004-b014-43e4-b064-b241aae871b3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "drukte",
+            "name": "drukte",
+            "revision_timestamp": "2014-04-09T12:29:04.915697",
+            "state": "active",
+            "id": "7f9f6e9a-aa14-4099-9425-9377670256ae"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "parkeerdruk",
+            "name": "parkeerdruk",
+            "revision_timestamp": "2014-04-09T12:29:04.915697",
+            "state": "active",
+            "id": "3511e097-d5f1-426f-96f0-44d4305a28cc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "parkeerplan",
+            "name": "parkeerplan",
+            "revision_timestamp": "2014-04-09T12:29:04.915697",
+            "state": "active",
+            "id": "553172f9-d9ca-4e64-ab36-87c12e20ff37"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "parkeervergunning",
+            "name": "parkeervergunning",
+            "revision_timestamp": "2014-04-09T12:29:04.915697",
+            "state": "active",
+            "id": "5658a04e-cbb4-4d3b-a8a5-57ec2f763252"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "parkeren",
+            "name": "parkeren",
+            "revision_timestamp": "2014-04-09T12:29:04.915697",
+            "state": "active",
+            "id": "d26079eb-6ae8-45d4-a518-9ff38f2dd225"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "wachtlijst",
+            "name": "wachtlijst",
+            "revision_timestamp": "2014-04-09T12:29:04.915697",
+            "state": "active",
+            "id": "336ba0de-f029-4ad9-83d0-183b44ad0f93"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Verkeer & Infrastructuur",
+            "description": "",
+            "name": "verkeer-infrastructuur",
+            "id": "12502584-9d7d-4bdc-bf5f-df2b0d85f4f6"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 8,
+    "name": "parkeerdrukmeting",
+    "isopen": false,
+    "url": null,
+    "notes": "Rapport, bijbehorende data en geografie over de parkeerdruk en lengte van wachtlijst per buurt in de parkeervergunningsgebieden in Amsterdam.",
+    "title": "Parkeerdruk",
+    "extras": [
+        {
+            "value": "info@ivv.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "3b8f1666-a033-41dc-8ff2-fb699967b5a9",
+                "revision_id": "601f7963-4fc0-419c-be42-7b08000db1ef"
+            }
+        },
+        {
+            "value": "Dienst IVV",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "601f7963-4fc0-419c-be42-7b08000db1ef",
+                "package_id": "3b8f1666-a033-41dc-8ff2-fb699967b5a9"
+            }
+        },
+        {
+            "value": "01/11/2013",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "601f7963-4fc0-419c-be42-7b08000db1ef",
+                "package_id": "3b8f1666-a033-41dc-8ff2-fb699967b5a9"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "601f7963-4fc0-419c-be42-7b08000db1ef",
+                "package_id": "3b8f1666-a033-41dc-8ff2-fb699967b5a9"
+            }
+        },
+        {
+            "value": "01/01/2013",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "3b8f1666-a033-41dc-8ff2-fb699967b5a9",
+                "revision_id": "601f7963-4fc0-419c-be42-7b08000db1ef"
+            }
+        },
+        {
+            "value": "01/01/2013",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "3b8f1666-a033-41dc-8ff2-fb699967b5a9",
+                "revision_id": "601f7963-4fc0-419c-be42-7b08000db1ef"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "601f7963-4fc0-419c-be42-7b08000db1ef",
+                "package_id": "3b8f1666-a033-41dc-8ff2-fb699967b5a9"
+            }
+        },
+        {
+            "value": "http://www.amsterdam.nl/opendatadivv",
+            "key": "website",
+            "__extras": {
+                "package_id": "3b8f1666-a033-41dc-8ff2-fb699967b5a9",
+                "revision_id": "601f7963-4fc0-419c-be42-7b08000db1ef"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "59658b55-93bd-43ec-85c8-e8346ddbe1e2"
+}

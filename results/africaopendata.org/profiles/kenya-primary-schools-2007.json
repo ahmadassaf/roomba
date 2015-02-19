@@ -1,0 +1,153 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-09-09T10:33:23.203891",
+    "id": "c297c26b-127d-46e6-aee0-0c389a891f1c",
+    "metadata_created": "2012-09-09T10:19:54.328853",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:24:44.823805",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "2b6879f0-5934-4f74-9c38-9d8ee4ccc008",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:24:42.717897",
+            "webstore_last_updated": "2013-10-10T12:24:42.646588",
+            "id": "e46584a0-eb7a-4a3a-a3f0-fccc4a5e4fcd",
+            "size": "6443245",
+            "state": "active",
+            "hash": "1504399ac3767507853112b680b77925fac092e7",
+            "description": "This is the list of GIS coded primary schools that was completed in 2007",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 3,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Kenya_Primary_Schools__2007.csv",
+            "created": "2012-09-09T10:31:31.434908",
+            "url": "http://africaopendata.org//storage/f/2012-09-09T10%3A20%3A29.131Z/kenya-primary-schools-2007.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:46:08.404840",
+            "position": 0,
+            "revision_id": "a64bd8e8-5026-4ad7-a36d-559415efacbb",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "2b6879f0-5934-4f74-9c38-9d8ee4ccc008",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:24:43.425454",
+            "webstore_last_updated": "2013-10-10T12:24:43.355925",
+            "id": "4add502e-9e08-45ad-8da2-555ed714b92c",
+            "size": "10240",
+            "state": "active",
+            "hash": "dc684a68e12b57c5acd0834fea98000338336170",
+            "description": "Kenya Primary Schools 2007",
+            "format": "XLS",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/vnd.ms-excel",
+            "cache_url": null,
+            "name": "Poverty_Rate__by_District.xls",
+            "created": "2012-09-09T10:32:06.071510",
+            "url": "http://africaopendata.org//storage/f/2012-09-09T10%3A32%3A01.676Z/poverty-rate-by-district.xls",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:46:09.284665",
+            "position": 1,
+            "revision_id": "c9881c2c-46ac-42d2-bfea-aeee27df668f",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "2b6879f0-5934-4f74-9c38-9d8ee4ccc008",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:24:44.823805",
+            "webstore_last_updated": "2013-10-10T12:24:44.749951",
+            "id": "3e54029b-371b-4395-8407-f8adc1cb4ccd",
+            "size": "5717",
+            "state": "active",
+            "hash": "69f1bc15e76c499e1d03a89b428e001cb9ea1302",
+            "description": "Kenya Primary Schools 2007",
+            "format": "xlsx",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "cache_url": null,
+            "name": "Poverty_Rate__by_District.xlsx",
+            "created": "2012-09-09T10:33:04.671865",
+            "url": "http://africaopendata.org//storage/f/2012-09-09T10%3A32%3A33.702Z/poverty-rate-by-district.xlsx",
+            "webstore_url": "active",
+            "last_modified": "2013-10-10T12:24:43.903989",
+            "position": 2,
+            "revision_id": "471b2d69-12f9-4493-ab3a-eccaae74242a",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 3,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Education",
+            "name": "Education",
+            "revision_timestamp": "2012-09-09T10:19:54.328853",
+            "state": "active",
+            "id": "9606d357-b5d7-469e-8656-26e83f99eb62"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Kenya",
+            "name": "Kenya",
+            "revision_timestamp": "2012-09-09T10:19:54.328853",
+            "state": "active",
+            "id": "d9277cd4-65d5-4e27-8e16-af4062a191de"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Primary Schools",
+            "name": "Primary Schools",
+            "revision_timestamp": "2012-09-09T10:19:54.328853",
+            "state": "active",
+            "id": "366ac00f-84e5-43a7-abc6-d3fdf5c31fbb"
+        }
+    ],
+    "tracking_summary": {
+        "total": 143,
+        "recent": 3
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kenya-primary-schools-2007",
+    "isopen": true,
+    "url": null,
+    "notes": "This is the list of GIS coded primary schools that was completed in 2007",
+    "title": "Kenya Primary Schools 2007",
+    "extras": [],
+    "organization": null,
+    "revision_id": "af542c0b-c1af-451f-8472-2b692aea877d"
+}

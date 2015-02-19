@@ -1,0 +1,223 @@
+{
+    "license_title": "CC0 1.0",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2014-04-03T10:17:29.338594",
+    "id": "3f4db081-ed36-4953-a85c-add5834cab9d",
+    "metadata_created": "2013-05-15T11:42:37.427583",
+    "owner_org": null,
+    "metadata_modified": "2014-04-03T11:00:44.177073",
+    "author": "Dienst Milieu en Bouwtoezicht",
+    "author_email": "DMB@amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "CC0-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "6f69adf0-f8b0-4c4e-a2af-cd051deab78e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-04-03T11:00:44.177073",
+            "webstore_last_updated": null,
+            "id": "f8c5969f-24ad-4482-ab50-cc375e5792fe",
+            "size": "1306",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "2011 (CSV)",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "open_data_-_vuurwerk_verkoop_punten_2011.csv",
+            "created": "2014-04-03T13:00:44.219546",
+            "url": "http://www.amsterdamopendata.nl/documents/10180/31434/open_data_-_vuurwerk_verkoop_punten_2011.csv",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "a1d9ca01-dae0-46fa-82d1-39dea215c77d",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "6f69adf0-f8b0-4c4e-a2af-cd051deab78e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-04-03T11:00:44.177073",
+            "webstore_last_updated": null,
+            "id": "d84277d1-ac35-4f1f-8d94-07c35cf3d6d6",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "2012 (Kaart +PDF)",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "http://bit.ly/1sbLdjW",
+            "created": "2014-04-03T13:00:44.219590",
+            "url": "http://bit.ly/1sbLdjW",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "a1d9ca01-dae0-46fa-82d1-39dea215c77d",
+            "resource_type": "file"
+        },
+        {
+            "resource_group_id": "6f69adf0-f8b0-4c4e-a2af-cd051deab78e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-04-03T11:00:44.177073",
+            "webstore_last_updated": null,
+            "id": "166f12cb-e85c-49f8-9142-082bb9def91d",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "2013 (PDF)",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://www.amsterdam.nl/toerisme-vrije-tijd/evenementen/oud-nieuw-amsterdam/vuurwerk-feestvieren/",
+            "created": "2014-04-03T13:00:44.219607",
+            "url": "http://www.amsterdam.nl/toerisme-vrije-tijd/evenementen/oud-nieuw-amsterdam/vuurwerk-feestvieren/",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "a1d9ca01-dae0-46fa-82d1-39dea215c77d",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 3,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "vuurwerk",
+            "name": "vuurwerk",
+            "revision_timestamp": "2013-05-15T11:42:37.427583",
+            "state": "active",
+            "id": "c1565394-efb4-4b20-9ca6-690158b581b8"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "vuurwerkwinkels",
+            "name": "vuurwerkwinkels",
+            "revision_timestamp": "2014-04-03T10:17:29.338594",
+            "state": "active",
+            "id": "e5ae81ec-0bf7-4328-9b6a-95fcca7ac2d6"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Openbare orde & veiligheid",
+            "description": "",
+            "name": "openbare-orde-veiligheid",
+            "id": "ef0eaa3d-22c8-4d8a-a62e-78a2d0296857"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "vuurwerkverkoop-winkels-2011",
+    "isopen": true,
+    "url": null,
+    "notes": "Overzicht van vuurwerkverkoopwinkels, afhankelijk van het jaar beeschikbaar op kaart, in PDF en/of CSV",
+    "title": "Vuurwerkverkoop winkels 2011-2013",
+    "extras": [
+        {
+            "value": "DMB@amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "3f4db081-ed36-4953-a85c-add5834cab9d",
+                "revision_id": "a3f211a0-88cb-4162-aaef-826bf213fc3a"
+            }
+        },
+        {
+            "value": "Dienst Milieu en Bouwtoezicht",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "a3f211a0-88cb-4162-aaef-826bf213fc3a",
+                "package_id": "3f4db081-ed36-4953-a85c-add5834cab9d"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "a3f211a0-88cb-4162-aaef-826bf213fc3a",
+                "package_id": "3f4db081-ed36-4953-a85c-add5834cab9d"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "a3f211a0-88cb-4162-aaef-826bf213fc3a",
+                "package_id": "3f4db081-ed36-4953-a85c-add5834cab9d"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "3f4db081-ed36-4953-a85c-add5834cab9d",
+                "revision_id": "a3f211a0-88cb-4162-aaef-826bf213fc3a"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "3f4db081-ed36-4953-a85c-add5834cab9d",
+                "revision_id": "a3f211a0-88cb-4162-aaef-826bf213fc3a"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "a3f211a0-88cb-4162-aaef-826bf213fc3a",
+                "package_id": "3f4db081-ed36-4953-a85c-add5834cab9d"
+            }
+        },
+        {
+            "value": "",
+            "key": "website",
+            "__extras": {
+                "package_id": "3f4db081-ed36-4953-a85c-add5834cab9d",
+                "revision_id": "a3f211a0-88cb-4162-aaef-826bf213fc3a"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "organization": null,
+    "revision_id": "ab0770d8-1a77-4930-a66f-f11bfcbed3ec",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": true,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

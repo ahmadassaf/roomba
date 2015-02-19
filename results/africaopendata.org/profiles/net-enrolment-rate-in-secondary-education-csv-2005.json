@@ -1,0 +1,699 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:33:50.509131",
+    "id": "e5df1ba5-2c39-41e8-99be-c9a1426b50e3",
+    "metadata_created": "2014-11-04T22:33:50.509131",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:52:07.662269",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "b1076fea-1bf8-4fb9-b64b-602cc8ecd72c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:52:07.662269",
+            "webstore_last_updated": null,
+            "id": "be1172e1-d5d6-4ea0-98e7-78689fe6539e",
+            "size": "43692",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "a94c5c2f6a6f53aa5b6cfe7095b6f4551e52196e",
+            "description": "Online link to the 'Net Enrolment Rate In Secondary Education.Csv 2005' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:51:13.444383",
+            "url": "http://maps.data.ug/layers/geonode:net_enrolment_rate_in_secondary_educationcsv_2005",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:53:20.652253",
+            "position": 0,
+            "revision_id": "d2abfef5-170b-4492-97b2-56a5f5745026",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "b1076fea-1bf8-4fb9-b64b-602cc8ecd72c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:33:50.509131",
+            "webstore_last_updated": null,
+            "id": "23b49c94-825b-4b4b-a6a8-03eb6daf88cb",
+            "size": "56884",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Net Enrolment Rate In Secondary Education.Csv 2005 (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "net_enrolment_rate_in_secondary_educationcsv_2005.png",
+            "created": "2014-03-12T14:51:13.444408",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Anet_enrolment_rate_in_secondary_educationcsv_2005&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "3af65cff-152b-485e-b4f6-fec328c944a8",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "b1076fea-1bf8-4fb9-b64b-602cc8ecd72c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:33:50.509131",
+            "webstore_last_updated": null,
+            "id": "f5e2e3a3-08c0-4d1a-8aff-1c06a8490de3",
+            "size": "41052",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Net Enrolment Rate In Secondary Education.Csv 2005 (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "net_enrolment_rate_in_secondary_educationcsv_2005.pdf",
+            "created": "2014-03-12T14:51:13.444415",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Anet_enrolment_rate_in_secondary_educationcsv_2005&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "3af65cff-152b-485e-b4f6-fec328c944a8",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "b1076fea-1bf8-4fb9-b64b-602cc8ecd72c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:33:50.509131",
+            "webstore_last_updated": null,
+            "id": "114c70bf-c064-4009-aedd-07cad61354b0",
+            "size": "35459",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Net Enrolment Rate In Secondary Education.Csv 2005 (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "net_enrolment_rate_in_secondary_educationcsv_2005.jpg",
+            "created": "2014-03-12T14:51:13.444422",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Anet_enrolment_rate_in_secondary_educationcsv_2005&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "3af65cff-152b-485e-b4f6-fec328c944a8",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "b1076fea-1bf8-4fb9-b64b-602cc8ecd72c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:33:50.509131",
+            "webstore_last_updated": null,
+            "id": "91051547-dbf5-47db-b406-91d1c663b721",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Net Enrolment Rate In Secondary Education.Csv 2005 (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "net_enrolment_rate_in_secondary_educationcsv_2005.tiles",
+            "created": "2014-03-12T14:51:13.444428",
+            "url": "http://maps.data.ug/geoserver/gwc/service/gmaps?layers=geonode:net_enrolment_rate_in_secondary_educationcsv_2005&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 4,
+            "revision_id": "3af65cff-152b-485e-b4f6-fec328c944a8",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "b1076fea-1bf8-4fb9-b64b-602cc8ecd72c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:33:50.509131",
+            "webstore_last_updated": null,
+            "id": "57393a19-55c5-4701-8180-4584ee161fc1",
+            "size": "1944",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Net Enrolment Rate In Secondary Education.Csv 2005 (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "net_enrolment_rate_in_secondary_educationcsv_2005.kml",
+            "created": "2014-03-12T14:51:13.444434",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Anet_enrolment_rate_in_secondary_educationcsv_2005&mode=refresh",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 5,
+            "revision_id": "3af65cff-152b-485e-b4f6-fec328c944a8",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "b1076fea-1bf8-4fb9-b64b-602cc8ecd72c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:33:50.509131",
+            "webstore_last_updated": null,
+            "id": "e31178c8-8320-42b3-b859-8626c1aa64e3",
+            "size": "565337",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Net Enrolment Rate In Secondary Education.Csv 2005 (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "net_enrolment_rate_in_secondary_educationcsv_2005.kml",
+            "created": "2014-03-12T14:51:13.444441",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Anet_enrolment_rate_in_secondary_educationcsv_2005&mode=download",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 6,
+            "revision_id": "3af65cff-152b-485e-b4f6-fec328c944a8",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "b1076fea-1bf8-4fb9-b64b-602cc8ecd72c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:33:50.509131",
+            "webstore_last_updated": null,
+            "id": "88f8d05a-bc55-4dbd-b261-e5282b4c3c82",
+            "size": "372430",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Net Enrolment Rate In Secondary Education.Csv 2005 (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "net_enrolment_rate_in_secondary_educationcsv_2005.json",
+            "created": "2014-03-12T14:51:13.444447",
+            "url": "http://maps.data.ug/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Anet_enrolment_rate_in_secondary_educationcsv_2005&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 7,
+            "revision_id": "3af65cff-152b-485e-b4f6-fec328c944a8",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "b1076fea-1bf8-4fb9-b64b-602cc8ecd72c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:33:50.509131",
+            "webstore_last_updated": null,
+            "id": "b6ab7670-35e0-4685-95b8-0fd6064aebae",
+            "size": "357888",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Net Enrolment Rate In Secondary Education.Csv 2005 (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "net_enrolment_rate_in_secondary_educationcsv_2005.excel",
+            "created": "2014-03-12T14:51:13.444453",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Anet_enrolment_rate_in_secondary_educationcsv_2005&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 8,
+            "revision_id": "3af65cff-152b-485e-b4f6-fec328c944a8",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "b1076fea-1bf8-4fb9-b64b-602cc8ecd72c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:33:50.509131",
+            "webstore_last_updated": null,
+            "id": "8c045a4d-5df8-4ee3-a31a-47b920b2a12a",
+            "size": "349074",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Net Enrolment Rate In Secondary Education.Csv 2005 (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "net_enrolment_rate_in_secondary_educationcsv_2005.csv",
+            "created": "2014-03-12T14:51:13.444460",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Anet_enrolment_rate_in_secondary_educationcsv_2005&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "3af65cff-152b-485e-b4f6-fec328c944a8",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "b1076fea-1bf8-4fb9-b64b-602cc8ecd72c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:33:50.509131",
+            "webstore_last_updated": null,
+            "id": "f94894f0-e7dd-45ad-b695-af4fc14f0396",
+            "size": "390166",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Net Enrolment Rate In Secondary Education.Csv 2005 (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "net_enrolment_rate_in_secondary_educationcsv_2005.gml",
+            "created": "2014-03-12T14:51:13.444466",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Anet_enrolment_rate_in_secondary_educationcsv_2005&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 10,
+            "revision_id": "3af65cff-152b-485e-b4f6-fec328c944a8",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "b1076fea-1bf8-4fb9-b64b-602cc8ecd72c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:33:50.509131",
+            "webstore_last_updated": null,
+            "id": "d3904544-f89c-469e-ae13-97cef5192612",
+            "size": "270048",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Net Enrolment Rate In Secondary Education.Csv 2005 (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "net_enrolment_rate_in_secondary_educationcsv_2005.gml",
+            "created": "2014-03-12T14:51:13.444473",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Anet_enrolment_rate_in_secondary_educationcsv_2005&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 11,
+            "revision_id": "3af65cff-152b-485e-b4f6-fec328c944a8",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "b1076fea-1bf8-4fb9-b64b-602cc8ecd72c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:33:50.509131",
+            "webstore_last_updated": null,
+            "id": "ec4c0148-0752-46fe-8519-66188ba54f1d",
+            "size": "119627",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Net Enrolment Rate In Secondary Education.Csv 2005 (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "net_enrolment_rate_in_secondary_educationcsv_2005.zip",
+            "created": "2014-03-12T14:51:13.444479",
+            "url": "http://maps.data.ug/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Anet_enrolment_rate_in_secondary_educationcsv_2005&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 12,
+            "revision_id": "3af65cff-152b-485e-b4f6-fec328c944a8",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:33:50.509131",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:33:50.509131",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:33:50.509131",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:33:50.509131",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:33:50.509131",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "education",
+            "name": "education",
+            "revision_timestamp": "2014-11-04T22:33:50.509131",
+            "state": "active",
+            "id": "4bc98291-13cc-4baf-b090-52376fa3a429"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "enrollment",
+            "name": "enrollment",
+            "revision_timestamp": "2014-11-04T22:33:50.509131",
+            "state": "active",
+            "id": "cbda5785-9712-4b80-902f-0f22eb21040b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:33:50.509131",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "secondary",
+            "name": "secondary",
+            "revision_timestamp": "2014-11-04T22:33:50.509131",
+            "state": "active",
+            "id": "3319fd5e-5d9c-4a26-a54f-3a50f32ac1d1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:33:50.509131",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 7,
+        "recent": 5
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 10,
+    "name": "net-enrolment-rate-in-secondary-education-csv-2005",
+    "isopen": false,
+    "url": null,
+    "notes": "Net Enrolment Rate In Secondary Education 2005 per district",
+    "title": "Net Enrolment Rate In Secondary Education.Csv 2005",
+    "extras": [
+        {
+            "value": "[]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "3af65cff-152b-485e-b4f6-fec328c944a8",
+                "package_id": "e5df1ba5-2c39-41e8-99be-c9a1426b50e3"
+            }
+        },
+        {
+            "value": "35.0017411394",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "3af65cff-152b-485e-b4f6-fec328c944a8",
+                "package_id": "e5df1ba5-2c39-41e8-99be-c9a1426b50e3"
+            }
+        },
+        {
+            "value": "4.2310114174",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "e5df1ba5-2c39-41e8-99be-c9a1426b50e3",
+                "revision_id": "3af65cff-152b-485e-b4f6-fec328c944a8"
+            }
+        },
+        {
+            "value": "-1.4817440179",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "3af65cff-152b-485e-b4f6-fec328c944a8",
+                "package_id": "e5df1ba5-2c39-41e8-99be-c9a1426b50e3"
+            }
+        },
+        {
+            "value": "29.5741674481",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "3af65cff-152b-485e-b4f6-fec328c944a8",
+                "package_id": "e5df1ba5-2c39-41e8-99be-c9a1426b50e3"
+            }
+        },
+        {
+            "value": "",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "e5df1ba5-2c39-41e8-99be-c9a1426b50e3",
+                "revision_id": "3af65cff-152b-485e-b4f6-fec328c944a8"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "e5df1ba5-2c39-41e8-99be-c9a1426b50e3",
+                "revision_id": "3af65cff-152b-485e-b4f6-fec328c944a8"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-02-20T04:00:03Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "e5df1ba5-2c39-41e8-99be-c9a1426b50e3",
+                "revision_id": "3af65cff-152b-485e-b4f6-fec328c944a8"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "e5df1ba5-2c39-41e8-99be-c9a1426b50e3",
+                "revision_id": "3af65cff-152b-485e-b4f6-fec328c944a8"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Net Enrolment Rate In Secondary Education.Csv 2005'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "e5df1ba5-2c39-41e8-99be-c9a1426b50e3",
+                "revision_id": "3af65cff-152b-485e-b4f6-fec328c944a8"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "e5df1ba5-2c39-41e8-99be-c9a1426b50e3",
+                "revision_id": "3af65cff-152b-485e-b4f6-fec328c944a8"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "3af65cff-152b-485e-b4f6-fec328c944a8",
+                "package_id": "e5df1ba5-2c39-41e8-99be-c9a1426b50e3"
+            }
+        },
+        {
+            "value": "c4a96c2c-9a15-11e3-8923-11b11f8ea6d0",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "3af65cff-152b-485e-b4f6-fec328c944a8",
+                "package_id": "e5df1ba5-2c39-41e8-99be-c9a1426b50e3"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "3af65cff-152b-485e-b4f6-fec328c944a8",
+                "package_id": "e5df1ba5-2c39-41e8-99be-c9a1426b50e3"
+            }
+        },
+        {
+            "value": "2014-02-20T04:00:03Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "e5df1ba5-2c39-41e8-99be-c9a1426b50e3",
+                "revision_id": "3af65cff-152b-485e-b4f6-fec328c944a8"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "3af65cff-152b-485e-b4f6-fec328c944a8",
+                "package_id": "e5df1ba5-2c39-41e8-99be-c9a1426b50e3"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "e5df1ba5-2c39-41e8-99be-c9a1426b50e3",
+                "revision_id": "3af65cff-152b-485e-b4f6-fec328c944a8"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "e5df1ba5-2c39-41e8-99be-c9a1426b50e3",
+                "revision_id": "3af65cff-152b-485e-b4f6-fec328c944a8"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "e5df1ba5-2c39-41e8-99be-c9a1426b50e3",
+                "revision_id": "3af65cff-152b-485e-b4f6-fec328c944a8"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.5741674481, -1.4817440179], [35.0017411394, -1.4817440179], [35.0017411394, 4.2310114174], [29.5741674481, 4.2310114174], [29.5741674481, -1.4817440179]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "3af65cff-152b-485e-b4f6-fec328c944a8",
+                "package_id": "e5df1ba5-2c39-41e8-99be-c9a1426b50e3"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "e5df1ba5-2c39-41e8-99be-c9a1426b50e3",
+                "revision_id": "3af65cff-152b-485e-b4f6-fec328c944a8"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "3af65cff-152b-485e-b4f6-fec328c944a8",
+                "package_id": "e5df1ba5-2c39-41e8-99be-c9a1426b50e3"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "3af65cff-152b-485e-b4f6-fec328c944a8",
+                "package_id": "e5df1ba5-2c39-41e8-99be-c9a1426b50e3"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "3af65cff-152b-485e-b4f6-fec328c944a8"
+}

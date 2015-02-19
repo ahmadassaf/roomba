@@ -1,0 +1,117 @@
+{
+    "license_title": "UK Crown Copyright with data.gov.uk rights",
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2011-07-05T10:46:10.801265",
+    "id": "0b89d351-ab23-42f8-97eb-441c2072f77d",
+    "metadata_created": "2011-06-30T14:01:26.005830",
+    "owner_org": null,
+    "metadata_modified": "2013-12-08T06:28:47.295660",
+    "author": "Office for National Statistics",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "ukcrown-withrights",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "application/octet-stream",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "{\"content\": \"e760bfbcbe16435cac49b2fb5b84b39fd6eee68c\", \"header\": \"ed811ad2c9719454e3a648e6de91e0644f2d7d6b\"}",
+            "description": "This dataset covers the deaths and births in Trafford as a whole for 2006. It includes the sex of the newborn, marital status of the parents at the time of birth and infant mortality rates.",
+            "format": "CSV",
+            "url": "http://store.datagm.org.uk/sets/misc/VS1BirthsandMortalityTrafford2006.csv",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "revision_timestamp": "2013-12-08T06:28:47.295660",
+            "webstore_url": null,
+            "resource_group_id": "4558dc91-640e-452f-b67e-9736da9f56ef",
+            "state": "active",
+            "last_modified": "2013-12-08T06:28:47.277699",
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "b1732b64-643a-428d-af66-23d7518cdfe0",
+            "size": "2897",
+            "id": "6fc5546a-e0fa-4877-87c6-4d1fddfbf5c9",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "births",
+            "name": "births",
+            "revision_timestamp": "2011-06-30T14:01:26.005830",
+            "state": "active",
+            "id": "b24f9aaa-49ff-44b5-aead-9fde45da6c95"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "mortality",
+            "name": "mortality",
+            "revision_timestamp": "2011-06-30T14:01:26.005830",
+            "state": "active",
+            "id": "ee034441-41e4-4508-9bc0-b97031ab76e7"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population",
+            "name": "population",
+            "revision_timestamp": "2011-06-30T14:01:26.005830",
+            "state": "active",
+            "id": "b00012ac-2247-447c-ac9f-02287b9c155f"
+        }
+    ],
+    "tracking_summary": {
+        "total": 2,
+        "recent": 1
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "vs1births-and-mortality-trafford-2006",
+    "isopen": false,
+    "url": "http://store.datagm.org.uk/sets/misc/VS1BirthsandMortalityTrafford2006.csv",
+    "notes": null,
+    "title": "Births and Mortality Trafford 2006 ",
+    "extras": [
+        {
+            "value": "2006",
+            "key": "temporal_coverage-from",
+            "__extras": {
+                "package_id": "0b89d351-ab23-42f8-97eb-441c2072f77d",
+                "revision_id": "1097def6-b22d-4bc5-8bee-07e5cef0dc48"
+            }
+        },
+        {
+            "value": "2006",
+            "key": "temporal_coverage-to",
+            "__extras": {
+                "package_id": "0b89d351-ab23-42f8-97eb-441c2072f77d",
+                "revision_id": "1097def6-b22d-4bc5-8bee-07e5cef0dc48"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "b2ef12fa-f372-4032-88e0-a311472307a0",
+    "license_url": "",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": false,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "",
+        "status": "active"
+    }
+}

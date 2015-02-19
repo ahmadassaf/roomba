@@ -1,0 +1,148 @@
+{
+    "license_title": "Creative Commons Attribution 4.0",
+    "maintainer": "Open data Team",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "opendata@edostate.gov.ng",
+    "revision_timestamp": "2014-11-06T16:32:35.671867",
+    "id": "b49c9b69-6f5c-457a-880f-76dedbcdda5b",
+    "metadata_created": "2014-11-06T16:32:35.671867",
+    "owner_org": null,
+    "metadata_modified": "2014-12-18T16:46:49.889776",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "bc5dccf8-034a-4287-b9ae-80d8903b8843",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-18T16:46:49.889776",
+            "webstore_last_updated": "2014-11-06T16:36:13.468314",
+            "id": "003a4013-6bc1-49b0-be3a-457fdb465874",
+            "size": "60300",
+            "state": "active",
+            "hash": "{\"content\": \"6905e2e3e89b10739f963d52cf562e5400fbebdc\", \"header\": \"563e2aaaad5a28aeaab033079c849ce48b0ea2ff\"}",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "List of NGOs .csv",
+            "created": "2013-07-22T16:20:06.566745",
+            "url": "http://edo.staging.ckanhosted.com/storage/f/2013-07-22T16%3A18%3A42.030Z/list-of-ngos.csv",
+            "webstore_url": "active",
+            "last_modified": "2014-07-08T14:06:40.627603",
+            "position": 0,
+            "revision_id": "94999d83-2b99-412a-9bea-2eca2d43e0f7",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Civil Society",
+            "name": "Civil Society",
+            "revision_timestamp": "2014-11-06T16:32:35.671867",
+            "state": "active",
+            "id": "eb8188c8-aa50-498f-a1a3-0cc09320be8c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "NGOS",
+            "name": "NGOS",
+            "revision_timestamp": "2014-11-06T16:32:35.671867",
+            "state": "active",
+            "id": "b41c8562-5fe7-442e-9f3d-49eaab4f7f0c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-06T16:32:35.671867",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "edo state",
+            "name": "edo state",
+            "revision_timestamp": "2014-11-06T16:32:35.671867",
+            "state": "active",
+            "id": "b7ac55fa-8449-416f-be17-e59c4c154e51"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "nigeria",
+            "name": "nigeria",
+            "revision_timestamp": "2014-11-06T16:32:35.671867",
+            "state": "active",
+            "id": "d5e39c15-faf7-4e35-96a0-cb88ec7becb1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open data",
+            "name": "open data",
+            "revision_timestamp": "2014-11-06T16:32:35.671867",
+            "state": "active",
+            "id": "5977073f-ae9b-420d-b468-636bfcf752de"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "west africa",
+            "name": "west africa",
+            "revision_timestamp": "2014-11-06T16:32:35.671867",
+            "state": "active",
+            "id": "82a06d2c-708d-44e5-b6c4-0aef079cbf6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "western africa",
+            "name": "western africa",
+            "revision_timestamp": "2014-11-06T16:32:35.671867",
+            "state": "active",
+            "id": "0297e4dc-f3f3-4b3a-bf41-50dd715a453a"
+        }
+    ],
+    "tracking_summary": {
+        "total": 1,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Nigeria",
+            "description": "Datasets from the Republic of Nigeria",
+            "name": "nigeria",
+            "id": "6e482307-7e70-4db4-a3f2-91db4e2b90bc"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 8,
+    "name": "list-of-registered-ngos-csos",
+    "isopen": true,
+    "url": null,
+    "notes": "Names and addresses of registered NGOs/CSOs in Edo State. Sources of data: Ministry of Women Affairs and Conference of Non-Governmental Organisations (CONGOs)  \r\n",
+    "title": "List of Registered NGOs/CSOs",
+    "extras": [],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "organization": null,
+    "revision_id": "8717978c-b77e-4bfa-b628-3d3bdd461fb4",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

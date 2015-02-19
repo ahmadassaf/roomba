@@ -1,0 +1,653 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:28:48.690483",
+    "id": "98e7849c-1112-47e7-815c-d2ade4e7e26f",
+    "metadata_created": "2014-11-04T22:28:48.690483",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:49:57.513044",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "bd5e4b5d-5a8a-4dcc-bc48-c2c1e587d5ac",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:57.513044",
+            "webstore_last_updated": null,
+            "id": "33dff69b-b375-4c86-9280-a610d69fc83d",
+            "size": "44136",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "971d4ed371e226e89870dd475a0af1bec07a2d44",
+            "description": "Online link to the 'Kaabong Facilities 2009' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:50:55.961264",
+            "url": "http://maps.data.ug/layers/geonode:kaabong_facilities_2009",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:51:30.802732",
+            "position": 0,
+            "revision_id": "e7a006f5-af66-4a2c-9ba5-b8e3c1fcf717",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "bd5e4b5d-5a8a-4dcc-bc48-c2c1e587d5ac",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:48.690483",
+            "webstore_last_updated": null,
+            "id": "37c587c5-7f76-4e83-bcb7-98a234c57cea",
+            "size": "48835",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Kaabong Facilities 2009 (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "kaabong_facilities_2009.jpg",
+            "created": "2014-03-12T14:50:55.961288",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms?layers=geonode%3Akaabong_facilities_2009&width=895&bbox=577182.0%2C573292.0%2C636895.0%2C609951.0&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "54bcf561-4ff3-4bc7-96de-c481c6e4a341",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "bd5e4b5d-5a8a-4dcc-bc48-c2c1e587d5ac",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:48.690483",
+            "webstore_last_updated": null,
+            "id": "2e31fe34-777e-4723-bb6f-cb0c5be8f963",
+            "size": "2512",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Kaabong Facilities 2009 (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "kaabong_facilities_2009.pdf",
+            "created": "2014-03-12T14:50:55.961292",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms?layers=geonode%3Akaabong_facilities_2009&width=895&bbox=577182.0%2C573292.0%2C636895.0%2C609951.0&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "54bcf561-4ff3-4bc7-96de-c481c6e4a341",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "bd5e4b5d-5a8a-4dcc-bc48-c2c1e587d5ac",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:48.690483",
+            "webstore_last_updated": null,
+            "id": "439e6d0f-612b-4b35-b9d4-754bcd8a71bc",
+            "size": "40324",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Kaabong Facilities 2009 (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "kaabong_facilities_2009.png",
+            "created": "2014-03-12T14:50:55.961296",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms?layers=geonode%3Akaabong_facilities_2009&width=895&bbox=577182.0%2C573292.0%2C636895.0%2C609951.0&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "54bcf561-4ff3-4bc7-96de-c481c6e4a341",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "bd5e4b5d-5a8a-4dcc-bc48-c2c1e587d5ac",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:48.690483",
+            "webstore_last_updated": null,
+            "id": "a107bd5a-169f-48b6-80cf-5d080d7e9236",
+            "size": "2665",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "5d4255b92887e86a1b62559edc2a69a3020a9f36",
+            "description": "Kaabong Facilities 2009 (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "kaabong_facilities_2009.zip",
+            "created": "2014-03-12T14:50:55.961300",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Akaabong_facilities_2009&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:51:29.891259",
+            "position": 4,
+            "revision_id": "54bcf561-4ff3-4bc7-96de-c481c6e4a341",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "bd5e4b5d-5a8a-4dcc-bc48-c2c1e587d5ac",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:48.690483",
+            "webstore_last_updated": null,
+            "id": "007ef0d2-28f3-41af-92e5-3a7aa55ebbe9",
+            "size": "19152",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Kaabong Facilities 2009 (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "kaabong_facilities_2009.gml",
+            "created": "2014-03-12T14:50:55.961304",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Akaabong_facilities_2009&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 5,
+            "revision_id": "54bcf561-4ff3-4bc7-96de-c481c6e4a341",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "bd5e4b5d-5a8a-4dcc-bc48-c2c1e587d5ac",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:48.690483",
+            "webstore_last_updated": null,
+            "id": "f1d95ce6-af33-4298-86e3-3b5f7ebedb1e",
+            "size": "17160",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Kaabong Facilities 2009 (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "kaabong_facilities_2009.gml",
+            "created": "2014-03-12T14:50:55.961307",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Akaabong_facilities_2009&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 6,
+            "revision_id": "54bcf561-4ff3-4bc7-96de-c481c6e4a341",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "bd5e4b5d-5a8a-4dcc-bc48-c2c1e587d5ac",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:48.690483",
+            "webstore_last_updated": null,
+            "id": "cafbb55a-dc2c-4e09-9d03-8611b06a5cc3",
+            "size": "3649",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "f81a5f44c58414f6d7b1b358422e233243804f64",
+            "description": "Kaabong Facilities 2009 (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "kaabong_facilities_2009.csv",
+            "created": "2014-03-12T14:50:55.961311",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Akaabong_facilities_2009&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:51:31.902759",
+            "position": 7,
+            "revision_id": "54bcf561-4ff3-4bc7-96de-c481c6e4a341",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "bd5e4b5d-5a8a-4dcc-bc48-c2c1e587d5ac",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:48.690483",
+            "webstore_last_updated": null,
+            "id": "a725f7d1-262e-4e28-bd48-e5d783af0a7d",
+            "size": "10240",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Kaabong Facilities 2009 (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "kaabong_facilities_2009.excel",
+            "created": "2014-03-12T14:50:55.961315",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Akaabong_facilities_2009&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 8,
+            "revision_id": "54bcf561-4ff3-4bc7-96de-c481c6e4a341",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "bd5e4b5d-5a8a-4dcc-bc48-c2c1e587d5ac",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:48.690483",
+            "webstore_last_updated": null,
+            "id": "50afb418-d5db-479f-9e1b-726ce295a8f1",
+            "size": "8669",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Kaabong Facilities 2009 (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "kaabong_facilities_2009.json",
+            "created": "2014-03-12T14:50:55.961318",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Akaabong_facilities_2009&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "54bcf561-4ff3-4bc7-96de-c481c6e4a341",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "bd5e4b5d-5a8a-4dcc-bc48-c2c1e587d5ac",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:48.690483",
+            "webstore_last_updated": null,
+            "id": "6855f7ed-f726-49c3-82be-3e292c37c3a5",
+            "size": "74161",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Kaabong Facilities 2009 (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "kaabong_facilities_2009.kml",
+            "created": "2014-03-12T14:50:55.961322",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms/kml?layers=geonode%3Akaabong_facilities_2009&mode=download",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 10,
+            "revision_id": "54bcf561-4ff3-4bc7-96de-c481c6e4a341",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "bd5e4b5d-5a8a-4dcc-bc48-c2c1e587d5ac",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:48.690483",
+            "webstore_last_updated": null,
+            "id": "ac4dae47-6ace-45c5-a776-ecac551bcb03",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Kaabong Facilities 2009 (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "kaabong_facilities_2009.tiles",
+            "created": "2014-03-12T14:50:55.961329",
+            "url": "http://geoclean.mountbatten.net/geoserver/gwc/service/gmaps?layers=geonode:kaabong_facilities_2009&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 11,
+            "revision_id": "54bcf561-4ff3-4bc7-96de-c481c6e4a341",
+            "resource_type": null
+        }
+    ],
+    "num_resources": 12,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:28:48.690483",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "clear",
+            "name": "clear",
+            "revision_timestamp": "2014-11-04T22:28:48.690483",
+            "state": "active",
+            "id": "ef8a9a56-ff26-4cab-8dab-86419b1dc7b0"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:28:48.690483",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:28:48.690483",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:28:48.690483",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "next",
+            "name": "next",
+            "revision_timestamp": "2014-11-04T22:28:48.690483",
+            "state": "active",
+            "id": "2aa71ee9-9dee-44e0-9cd1-c07a73bda979"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:28:48.690483",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:28:48.690483",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 8,
+    "name": "kaabong-facilities-2009",
+    "isopen": false,
+    "url": null,
+    "notes": "No abstract provided",
+    "title": "Kaabong Facilities 2009",
+    "extras": [
+        {
+            "value": "[\"None\"]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "54bcf561-4ff3-4bc7-96de-c481c6e4a341",
+                "package_id": "98e7849c-1112-47e7-815c-d2ade4e7e26f"
+            }
+        },
+        {
+            "value": "636895.0000000000",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "54bcf561-4ff3-4bc7-96de-c481c6e4a341",
+                "package_id": "98e7849c-1112-47e7-815c-d2ade4e7e26f"
+            }
+        },
+        {
+            "value": "609951.0000000000",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "98e7849c-1112-47e7-815c-d2ade4e7e26f",
+                "revision_id": "54bcf561-4ff3-4bc7-96de-c481c6e4a341"
+            }
+        },
+        {
+            "value": "573292.0000000000",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "54bcf561-4ff3-4bc7-96de-c481c6e4a341",
+                "package_id": "98e7849c-1112-47e7-815c-d2ade4e7e26f"
+            }
+        },
+        {
+            "value": "577182.0000000000",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "54bcf561-4ff3-4bc7-96de-c481c6e4a341",
+                "package_id": "98e7849c-1112-47e7-815c-d2ade4e7e26f"
+            }
+        },
+        {
+            "value": "katy@mountbatten.net",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "98e7849c-1112-47e7-815c-d2ade4e7e26f",
+                "revision_id": "54bcf561-4ff3-4bc7-96de-c481c6e4a341"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "98e7849c-1112-47e7-815c-d2ade4e7e26f",
+                "revision_id": "54bcf561-4ff3-4bc7-96de-c481c6e4a341"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-02-19T10:57:57Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "98e7849c-1112-47e7-815c-d2ade4e7e26f",
+                "revision_id": "54bcf561-4ff3-4bc7-96de-c481c6e4a341"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "98e7849c-1112-47e7-815c-d2ade4e7e26f",
+                "revision_id": "54bcf561-4ff3-4bc7-96de-c481c6e4a341"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Kaabong Facilities 2009'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "98e7849c-1112-47e7-815c-d2ade4e7e26f",
+                "revision_id": "54bcf561-4ff3-4bc7-96de-c481c6e4a341"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "98e7849c-1112-47e7-815c-d2ade4e7e26f",
+                "revision_id": "54bcf561-4ff3-4bc7-96de-c481c6e4a341"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "54bcf561-4ff3-4bc7-96de-c481c6e4a341",
+                "package_id": "98e7849c-1112-47e7-815c-d2ade4e7e26f"
+            }
+        },
+        {
+            "value": "fba97238-9986-11e3-85a7-3de289a2861b",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "54bcf561-4ff3-4bc7-96de-c481c6e4a341",
+                "package_id": "98e7849c-1112-47e7-815c-d2ade4e7e26f"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "54bcf561-4ff3-4bc7-96de-c481c6e4a341",
+                "package_id": "98e7849c-1112-47e7-815c-d2ade4e7e26f"
+            }
+        },
+        {
+            "value": "2014-02-19T10:57:57Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "98e7849c-1112-47e7-815c-d2ade4e7e26f",
+                "revision_id": "54bcf561-4ff3-4bc7-96de-c481c6e4a341"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "54bcf561-4ff3-4bc7-96de-c481c6e4a341",
+                "package_id": "98e7849c-1112-47e7-815c-d2ade4e7e26f"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "98e7849c-1112-47e7-815c-d2ade4e7e26f",
+                "revision_id": "54bcf561-4ff3-4bc7-96de-c481c6e4a341"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "98e7849c-1112-47e7-815c-d2ade4e7e26f",
+                "revision_id": "54bcf561-4ff3-4bc7-96de-c481c6e4a341"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "98e7849c-1112-47e7-815c-d2ade4e7e26f",
+                "revision_id": "54bcf561-4ff3-4bc7-96de-c481c6e4a341"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[577182.0, 573292.0], [636895.0, 573292.0], [636895.0, 609951.0], [577182.0, 609951.0], [577182.0, 573292.0]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "54bcf561-4ff3-4bc7-96de-c481c6e4a341",
+                "package_id": "98e7849c-1112-47e7-815c-d2ade4e7e26f"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "98e7849c-1112-47e7-815c-d2ade4e7e26f",
+                "revision_id": "54bcf561-4ff3-4bc7-96de-c481c6e4a341"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "54bcf561-4ff3-4bc7-96de-c481c6e4a341",
+                "package_id": "98e7849c-1112-47e7-815c-d2ade4e7e26f"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "54bcf561-4ff3-4bc7-96de-c481c6e4a341",
+                "package_id": "98e7849c-1112-47e7-815c-d2ade4e7e26f"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "54bcf561-4ff3-4bc7-96de-c481c6e4a341"
+}

@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Kenya Visualization Bot",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T12:00:26.249454",
+    "id": "23304a73-8617-4109-afe7-30ae89764444",
+    "metadata_created": "2012-09-10T12:00:26.249454",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:16:19.222082",
+    "author": "Chris Metcalf",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "333bc714-b88a-4685-900d-1cf25535f7eb",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:16:19.222082",
+            "webstore_last_updated": "2013-10-10T12:16:19.131709",
+            "id": "a1065b63-6fa2-4a97-81d0-4c96d95c76b5",
+            "size": "261",
+            "state": "active",
+            "hash": "62ebcb329a9b4eead486853ab558ff65deeed457",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Garissa Age Pyramid.csv",
+            "created": "2012-09-11T13:32:09.638507",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T153454/k5ff-4qh4.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:30:43.687191",
+            "position": 0,
+            "revision_id": "58d610af-e71f-43f6-beaf-9f4cbac2fc7d",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T12:00:26.249454",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T12:00:26.249454",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population",
+            "name": "population",
+            "revision_timestamp": "2012-09-10T12:00:26.249454",
+            "state": "active",
+            "id": "c5e39de5-556e-4bcb-883b-5b9ec2481ae9"
+        }
+    ],
+    "tracking_summary": {
+        "total": 54,
+        "recent": 6
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-k5ff-4qh4",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Male and female populations by age group.",
+    "title": "Garissa Age Pyramid",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "2afb078a-6e20-4ab5-b8ad-3e3bbe4bb56f",
+                "package_id": "23304a73-8617-4109-afe7-30ae89764444"
+            }
+        },
+        {
+            "value": "Population",
+            "key": "category",
+            "__extras": {
+                "revision_id": "2afb078a-6e20-4ab5-b8ad-3e3bbe4bb56f",
+                "package_id": "23304a73-8617-4109-afe7-30ae89764444"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "2afb078a-6e20-4ab5-b8ad-3e3bbe4bb56f",
+                "package_id": "23304a73-8617-4109-afe7-30ae89764444"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "2afb078a-6e20-4ab5-b8ad-3e3bbe4bb56f"
+}

@@ -1,0 +1,114 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-03-21T14:20:29.020638",
+    "id": "656c778a-f437-4c3c-a8d4-80335c7b166a",
+    "metadata_created": "2013-03-21T14:17:38.183220",
+    "owner_org": null,
+    "metadata_modified": "2013-03-21T14:21:01.240968",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "f6ee8722-3c47-461c-95cd-7cb074155e97",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-21T14:20:14.519807",
+            "webstore_last_updated": null,
+            "id": "bb333d51-e9e3-41b5-abe4-984f7460f2b2",
+            "size": "3544022",
+            "state": "active",
+            "hash": "39353e6ee7e375a65d6fb639f38c4dc715f4510f",
+            "description": "",
+            "format": "ZIP",
+            "tracking_summary": {
+                "total": 11,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "Municipal Elections - 2011",
+            "created": "2013-03-21T14:20:06.229490",
+            "url": "http://africaopendata.org/storage/f/2013-03-21T14%3A17%3A52.447Z/2011-lge.zip",
+            "webstore_url": null,
+            "last_modified": "2013-03-21T14:20:13.677457",
+            "position": 0,
+            "revision_id": "e67d5663-a484-4d8c-baa3-5f4f9a9976d8",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "2011",
+            "name": "2011",
+            "revision_timestamp": "2013-03-21T14:17:38.183220",
+            "state": "active",
+            "id": "6f48ee51-d103-4f92-8dc3-a30a0fb6acc4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "elections",
+            "name": "elections",
+            "revision_timestamp": "2013-03-21T14:17:38.183220",
+            "state": "active",
+            "id": "5eb7fdbe-4b0d-4833-a29d-0267948441d4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "municipal elections",
+            "name": "municipal elections",
+            "revision_timestamp": "2013-03-21T14:17:38.183220",
+            "state": "active",
+            "id": "8d4a4e38-b5c9-469c-8798-efa026e55c7f"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "voting",
+            "name": "voting",
+            "revision_timestamp": "2013-03-21T14:17:38.183220",
+            "state": "active",
+            "id": "980c0980-2289-475a-a29a-c78cdfbcaf0c"
+        }
+    ],
+    "tracking_summary": {
+        "total": 120,
+        "recent": 6
+    },
+    "groups": [
+        {
+            "title": "South Africa",
+            "description": "Datasets from South Africa",
+            "name": "south-africa",
+            "id": "fc691a3f-cfce-46d6-93a0-77bdccfec89d"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "local-government-elections-2011",
+    "isopen": false,
+    "url": null,
+    "notes": "Breakdown by voting district, political party and vote type",
+    "title": "Local Government Elections - 2011",
+    "extras": [
+        {
+            "value": "http://http://www.elections.org.za/",
+            "key": "source",
+            "__extras": {
+                "revision_id": "b06590f8-e715-48cc-a9f4-c7bea3b59cca",
+                "package_id": "656c778a-f437-4c3c-a8d4-80335c7b166a"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "aa8b4f8b-e79a-4a98-bcf0-9ea8af16afcf"
+}

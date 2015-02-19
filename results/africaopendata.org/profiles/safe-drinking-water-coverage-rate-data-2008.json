@@ -1,0 +1,691 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:29:15.251610",
+    "id": "a348618e-d6c7-4907-b2cf-2ad03daf2d88",
+    "metadata_created": "2014-11-04T22:29:15.251610",
+    "owner_org": null,
+    "metadata_modified": "2014-11-05T01:48:46.272266",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "caee0eb3-4b3f-479c-9d65-5ea3f997ee71",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-05T01:48:46.272266",
+            "webstore_last_updated": null,
+            "id": "7fcdceee-7a61-49af-879e-3a4e627b13cd",
+            "size": "45604",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "5080ab2293c0ca6c96a4a4da449c9ba1c8b25aa6",
+            "description": "Online link to the 'Safe Drinking Water Coverage Rate Data 2008' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:50:48.170033",
+            "url": "http://maps.data.ug/layers/geonode:safe_water_coverage_wri_2008_1",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T01:48:46.123875",
+            "position": 0,
+            "revision_id": "12dd0b41-35e3-4b09-9cf8-78546f846c52",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "caee0eb3-4b3f-479c-9d65-5ea3f997ee71",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:15.251610",
+            "webstore_last_updated": null,
+            "id": "71e40417-828b-4a5d-96e2-33887a3f861d",
+            "size": "46777",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Safe Drinking Water Coverage Rate Data 2008 (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "safe_water_coverage_wri_2008_1.jpg",
+            "created": "2014-03-12T14:50:48.170050",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Asafe_water_coverage_wri_2008_1&width=522&bbox=29.5734049777465%2C-1.48139427250923%2C35.0010886627197%2C4.23097983860334&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:50:49.886309",
+            "position": 1,
+            "revision_id": "ea027c13-790c-4fd3-9f08-14884083bb9b",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "caee0eb3-4b3f-479c-9d65-5ea3f997ee71",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:15.251610",
+            "webstore_last_updated": null,
+            "id": "8471eaa5-a822-4471-b1a8-a018b1725064",
+            "size": "286372",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Safe Drinking Water Coverage Rate Data 2008 (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "safe_water_coverage_wri_2008_1.pdf",
+            "created": "2014-03-12T14:50:48.170055",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Asafe_water_coverage_wri_2008_1&width=522&bbox=29.5734049777465%2C-1.48139427250923%2C35.0010886627197%2C4.23097983860334&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "ea027c13-790c-4fd3-9f08-14884083bb9b",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "caee0eb3-4b3f-479c-9d65-5ea3f997ee71",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:15.251610",
+            "webstore_last_updated": null,
+            "id": "bbcaff25-1744-4bc2-84e7-765729245de0",
+            "size": "110212",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Safe Drinking Water Coverage Rate Data 2008 (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "safe_water_coverage_wri_2008_1.png",
+            "created": "2014-03-12T14:50:48.170058",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Asafe_water_coverage_wri_2008_1&width=522&bbox=29.5734049777465%2C-1.48139427250923%2C35.0010886627197%2C4.23097983860334&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "ea027c13-790c-4fd3-9f08-14884083bb9b",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "caee0eb3-4b3f-479c-9d65-5ea3f997ee71",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:15.251610",
+            "webstore_last_updated": null,
+            "id": "7b0f5009-1dfc-483b-ab9d-4ecc37189e66",
+            "size": "8086962",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Safe Drinking Water Coverage Rate Data 2008 (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "safe_water_coverage_wri_2008_1.zip",
+            "created": "2014-03-12T14:50:48.170062",
+            "url": "http://maps.data.ug/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Asafe_water_coverage_wri_2008_1&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 4,
+            "revision_id": "ea027c13-790c-4fd3-9f08-14884083bb9b",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "caee0eb3-4b3f-479c-9d65-5ea3f997ee71",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:15.251610",
+            "webstore_last_updated": null,
+            "id": "1bdb349f-da33-4fc5-9c52-e494b568d914",
+            "size": "16265022",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Safe Drinking Water Coverage Rate Data 2008 (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "safe_water_coverage_wri_2008_1.gml",
+            "created": "2014-03-12T14:50:48.170065",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Asafe_water_coverage_wri_2008_1&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 5,
+            "revision_id": "ea027c13-790c-4fd3-9f08-14884083bb9b",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "caee0eb3-4b3f-479c-9d65-5ea3f997ee71",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:15.251610",
+            "webstore_last_updated": null,
+            "id": "064e2a81-4ee1-459b-83ea-489b68d90bab",
+            "size": "25673887",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Safe Drinking Water Coverage Rate Data 2008 (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "safe_water_coverage_wri_2008_1.gml",
+            "created": "2014-03-12T14:50:48.170068",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Asafe_water_coverage_wri_2008_1&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 6,
+            "revision_id": "ea027c13-790c-4fd3-9f08-14884083bb9b",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "caee0eb3-4b3f-479c-9d65-5ea3f997ee71",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:15.251610",
+            "webstore_last_updated": null,
+            "id": "06338093-f60b-4adb-992e-cd9072e95afb",
+            "size": "25472445",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Safe Drinking Water Coverage Rate Data 2008 (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "safe_water_coverage_wri_2008_1.csv",
+            "created": "2014-03-12T14:50:48.170072",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Asafe_water_coverage_wri_2008_1&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 7,
+            "revision_id": "ea027c13-790c-4fd3-9f08-14884083bb9b",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "caee0eb3-4b3f-479c-9d65-5ea3f997ee71",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:15.251610",
+            "webstore_last_updated": null,
+            "id": "b70bed06-4586-419f-9372-05d78ab313d4",
+            "size": "21223424",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Safe Drinking Water Coverage Rate Data 2008 (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "safe_water_coverage_wri_2008_1.excel",
+            "created": "2014-03-12T14:50:48.170075",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Asafe_water_coverage_wri_2008_1&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 8,
+            "revision_id": "ea027c13-790c-4fd3-9f08-14884083bb9b",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "caee0eb3-4b3f-479c-9d65-5ea3f997ee71",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:15.251610",
+            "webstore_last_updated": null,
+            "id": "23f6aa59-f215-42b9-a957-ffdcb5621805",
+            "size": "26383949",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Safe Drinking Water Coverage Rate Data 2008 (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "safe_water_coverage_wri_2008_1.json",
+            "created": "2014-03-12T14:50:48.170078",
+            "url": "http://maps.data.ug/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Asafe_water_coverage_wri_2008_1&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "ea027c13-790c-4fd3-9f08-14884083bb9b",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "caee0eb3-4b3f-479c-9d65-5ea3f997ee71",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:15.251610",
+            "webstore_last_updated": null,
+            "id": "8303363a-63de-4bef-99f8-6e7a3efc64fd",
+            "size": "27618929",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Safe Drinking Water Coverage Rate Data 2008 (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "safe_water_coverage_wri_2008_1.kml",
+            "created": "2014-03-12T14:50:48.170082",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Asafe_water_coverage_wri_2008_1&mode=download",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 10,
+            "revision_id": "ea027c13-790c-4fd3-9f08-14884083bb9b",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "caee0eb3-4b3f-479c-9d65-5ea3f997ee71",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:15.251610",
+            "webstore_last_updated": null,
+            "id": "08a3b0d8-121f-4279-8d60-acf3b1ca08f4",
+            "size": "664",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Safe Drinking Water Coverage Rate Data 2008 (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "safe_water_coverage_wri_2008_1.kml",
+            "created": "2014-03-12T14:50:48.170085",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Asafe_water_coverage_wri_2008_1&mode=refresh",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 11,
+            "revision_id": "ea027c13-790c-4fd3-9f08-14884083bb9b",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "caee0eb3-4b3f-479c-9d65-5ea3f997ee71",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:15.251610",
+            "webstore_last_updated": null,
+            "id": "9bf55bf6-7b38-4ac1-823b-71dd6ecf4c3b",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Safe Drinking Water Coverage Rate Data 2008 (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "safe_water_coverage_wri_2008_1.tiles",
+            "created": "2014-03-12T14:50:48.170088",
+            "url": "http://maps.data.ug/geoserver/gwc/service/gmaps?layers=geonode:safe_water_coverage_wri_2008_1&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 12,
+            "revision_id": "ea027c13-790c-4fd3-9f08-14884083bb9b",
+            "resource_type": null
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:29:15.251610",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:29:15.251610",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:29:15.251610",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:29:15.251610",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:29:15.251610",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "health",
+            "name": "health",
+            "revision_timestamp": "2014-11-04T22:29:15.251610",
+            "state": "active",
+            "id": "956a3c07-125e-44e4-b843-c5011fadcc7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:29:15.251610",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:29:15.251610",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "water",
+            "name": "water",
+            "revision_timestamp": "2014-11-04T22:29:15.251610",
+            "state": "active",
+            "id": "2aacf13f-3547-4e59-b59f-6a495ea26504"
+        }
+    ],
+    "tracking_summary": {
+        "total": 9,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 9,
+    "name": "safe-drinking-water-coverage-rate-data-2008",
+    "isopen": false,
+    "url": null,
+    "notes": "Rural safe water coverage as defined by the Directorate of Water Development, Ministry of Water and Environment, Uganda.",
+    "title": "Safe Drinking Water Coverage Rate Data 2008",
+    "extras": [
+        {
+            "value": "[\"Dataset is not for use in litigation. While efforts have been made to ensure that these data are accurate and reliable within the state of the art, WRI cannot assume liability for any damages, or misrepresentations, caused by any inaccuracies in the data, or as a result of the data to be used on a particular system. WRI makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\"]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "ea027c13-790c-4fd3-9f08-14884083bb9b",
+                "package_id": "a348618e-d6c7-4907-b2cf-2ad03daf2d88"
+            }
+        },
+        {
+            "value": "35.0010886627",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "ea027c13-790c-4fd3-9f08-14884083bb9b",
+                "package_id": "a348618e-d6c7-4907-b2cf-2ad03daf2d88"
+            }
+        },
+        {
+            "value": "4.2309798386",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "a348618e-d6c7-4907-b2cf-2ad03daf2d88",
+                "revision_id": "ea027c13-790c-4fd3-9f08-14884083bb9b"
+            }
+        },
+        {
+            "value": "-1.4813942725",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "ea027c13-790c-4fd3-9f08-14884083bb9b",
+                "package_id": "a348618e-d6c7-4907-b2cf-2ad03daf2d88"
+            }
+        },
+        {
+            "value": "29.5734049777",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "ea027c13-790c-4fd3-9f08-14884083bb9b",
+                "package_id": "a348618e-d6c7-4907-b2cf-2ad03daf2d88"
+            }
+        },
+        {
+            "value": "",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "a348618e-d6c7-4907-b2cf-2ad03daf2d88",
+                "revision_id": "ea027c13-790c-4fd3-9f08-14884083bb9b"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "a348618e-d6c7-4907-b2cf-2ad03daf2d88",
+                "revision_id": "ea027c13-790c-4fd3-9f08-14884083bb9b"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2010-08-02T00:00:00Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "a348618e-d6c7-4907-b2cf-2ad03daf2d88",
+                "revision_id": "ea027c13-790c-4fd3-9f08-14884083bb9b"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "a348618e-d6c7-4907-b2cf-2ad03daf2d88",
+                "revision_id": "ea027c13-790c-4fd3-9f08-14884083bb9b"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Safe Drinking Water Coverage Rate Data 2008'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "a348618e-d6c7-4907-b2cf-2ad03daf2d88",
+                "revision_id": "ea027c13-790c-4fd3-9f08-14884083bb9b"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "a348618e-d6c7-4907-b2cf-2ad03daf2d88",
+                "revision_id": "ea027c13-790c-4fd3-9f08-14884083bb9b"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "ea027c13-790c-4fd3-9f08-14884083bb9b",
+                "package_id": "a348618e-d6c7-4907-b2cf-2ad03daf2d88"
+            }
+        },
+        {
+            "value": "dc74ed5e-a9ba-11e3-b8d5-d7100fec7aa5",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "ea027c13-790c-4fd3-9f08-14884083bb9b",
+                "package_id": "a348618e-d6c7-4907-b2cf-2ad03daf2d88"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "ea027c13-790c-4fd3-9f08-14884083bb9b",
+                "package_id": "a348618e-d6c7-4907-b2cf-2ad03daf2d88"
+            }
+        },
+        {
+            "value": "2010-08-02T00:00:00Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "a348618e-d6c7-4907-b2cf-2ad03daf2d88",
+                "revision_id": "ea027c13-790c-4fd3-9f08-14884083bb9b"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "ea027c13-790c-4fd3-9f08-14884083bb9b",
+                "package_id": "a348618e-d6c7-4907-b2cf-2ad03daf2d88"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "a348618e-d6c7-4907-b2cf-2ad03daf2d88",
+                "revision_id": "ea027c13-790c-4fd3-9f08-14884083bb9b"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "a348618e-d6c7-4907-b2cf-2ad03daf2d88",
+                "revision_id": "ea027c13-790c-4fd3-9f08-14884083bb9b"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "a348618e-d6c7-4907-b2cf-2ad03daf2d88",
+                "revision_id": "ea027c13-790c-4fd3-9f08-14884083bb9b"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.5734049777, -1.4813942725], [35.0010886627, -1.4813942725], [35.0010886627, 4.2309798386], [29.5734049777, 4.2309798386], [29.5734049777, -1.4813942725]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "ea027c13-790c-4fd3-9f08-14884083bb9b",
+                "package_id": "a348618e-d6c7-4907-b2cf-2ad03daf2d88"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "a348618e-d6c7-4907-b2cf-2ad03daf2d88",
+                "revision_id": "ea027c13-790c-4fd3-9f08-14884083bb9b"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "ea027c13-790c-4fd3-9f08-14884083bb9b",
+                "package_id": "a348618e-d6c7-4907-b2cf-2ad03daf2d88"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "ea027c13-790c-4fd3-9f08-14884083bb9b",
+                "package_id": "a348618e-d6c7-4907-b2cf-2ad03daf2d88"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "ea027c13-790c-4fd3-9f08-14884083bb9b"
+}

@@ -1,0 +1,139 @@
+{
+    "license_title": "Open Data Commons Public Domain Dedication and Licence (PDDL)",
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2013-03-28T09:24:16.413569",
+    "id": "0bb387be-e818-4d73-9df0-1445207e6122",
+    "metadata_created": "2011-02-08T15:09:41.675437",
+    "owner_org": "1d119d2c-c943-4d89-9dcf-40f874277f68",
+    "metadata_modified": "2013-12-08T06:22:37.843704",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": "1.0",
+    "license_id": "odc-pddl",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "application/octet-stream",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "{\"content\": \"5f363d81178b4318da472136f55af5f9305d1803\", \"header\": \"c7afe2442ba5adfa6f78cde2d9adbfa401b5b139\"}",
+            "description": "",
+            "format": "CSV",
+            "url": "http://store.datagm.org.uk/sets/police/2010-12-greater-manchester-street.csv",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 2,
+                "recent": 1
+            },
+            "revision_timestamp": "2013-12-08T06:22:08.231607",
+            "webstore_url": "active",
+            "resource_group_id": "2eb90c74-e16b-6af3-9e94-73fdb24af819",
+            "state": "active",
+            "last_modified": "2013-12-08T06:21:39.186298",
+            "webstore_last_updated": "2013-12-08T06:22:08.213795",
+            "position": 0,
+            "revision_id": "f6391310-d632-4bd3-b0b2-45fe7cd13e61",
+            "size": "3153758",
+            "id": "0c873974-b45d-41c3-ab83-a6091b791528",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        },
+        {
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "{\"content\": \"50d04f806ecd0a3a9397ef365eab1f4d75357042\", \"header\": \"ae0a2dfc991c12cbfa1f0b10f50fe1503b99cef0\"}",
+            "description": "Original ZIP file from www.police.uk/data",
+            "format": "ZIP",
+            "url": "http://crimemapper2.s3.amazonaws.com/frontend/crime-data/2010-12/2010-12-greater-manchester-street.zip",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "revision_timestamp": "2013-12-08T06:22:37.843704",
+            "webstore_url": "active",
+            "resource_group_id": "2eb90c74-e16b-6af3-9e94-73fdb24af819",
+            "state": "active",
+            "last_modified": "2013-12-08T06:22:09.827190",
+            "webstore_last_updated": "2013-12-08T06:22:37.825486",
+            "position": 1,
+            "revision_id": "51461416-07d5-4e67-aa2c-b6e5b4c18eff",
+            "size": "278210",
+            "id": "04b283c5-6cd2-4ff7-b249-354ef18d5615",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "crime",
+            "name": "crime",
+            "revision_timestamp": "2011-02-08T15:09:41.675437",
+            "state": "active",
+            "id": "e729a839-5af5-4993-8b9d-0b28a29c7c11"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "police",
+            "name": "police",
+            "revision_timestamp": "2011-02-08T15:09:41.675437",
+            "state": "active",
+            "id": "d35486f7-9c06-4adc-8483-b1248a5b5070"
+        }
+    ],
+    "tracking_summary": {
+        "total": 4,
+        "recent": 1
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "crime-statistics-december-2010-by-street",
+    "isopen": true,
+    "url": "http://www.police.uk/data",
+    "notes": null,
+    "title": "Crime Statistics December 2010 (By Street)",
+    "extras": [
+        {
+            "value": "2010-12-01",
+            "key": "temporal_coverage-from",
+            "__extras": {
+                "package_id": "0bb387be-e818-4d73-9df0-1445207e6122",
+                "revision_id": "d292aefd-67e1-420b-b933-2970e7cee179"
+            }
+        },
+        {
+            "value": "2010-12-31",
+            "key": "temporal_coverage-to",
+            "__extras": {
+                "revision_id": "d292aefd-67e1-420b-b933-2970e7cee179",
+                "package_id": "0bb387be-e818-4d73-9df0-1445207e6122"
+            }
+        }
+    ],
+    "license_url": "http://www.opendefinition.org/licenses/odc-pddl",
+    "organization": {
+        "description": "",
+        "created": "2013-03-28T04:18:11.750143",
+        "title": "Greater Manchester Police",
+        "name": "police",
+        "revision_timestamp": "2013-03-28T09:18:11.706568",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "",
+        "revision_id": "27d4a255-6ab3-4f0a-bcc4-7a929da400bb",
+        "type": "organization",
+        "id": "1d119d2c-c943-4d89-9dcf-40f874277f68",
+        "approval_status": "approved"
+    },
+    "revision_id": "1ae439e9-bd63-4f48-9326-db9815e7eaf0"
+}

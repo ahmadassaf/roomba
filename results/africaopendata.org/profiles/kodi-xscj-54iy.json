@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Kenya Visualization Bot",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T12:01:17.234727",
+    "id": "3b08ce8c-e72f-4cbf-b995-b342c2fc05a6",
+    "metadata_created": "2012-09-10T12:01:17.234727",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:16:07.387359",
+    "author": "Chris Metcalf",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "40db4029-b1a3-42f1-b06f-19c733b4720f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:16:07.387359",
+            "webstore_last_updated": "2013-10-10T12:16:07.310311",
+            "id": "d3bb184c-5bd8-437e-abe8-3bb2dfed71e0",
+            "size": "269",
+            "state": "active",
+            "hash": "da708fcb558eb4154828ae67c7ac2d540e0e90eb",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Kisil Age Pyramid.csv",
+            "created": "2012-09-11T13:33:21.684957",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T153606/xscj-54iy.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:36:14.346452",
+            "position": 0,
+            "revision_id": "ac5d794f-4dc8-421f-8070-c2e03acb6598",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T12:01:17.234727",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T12:01:17.234727",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population",
+            "name": "population",
+            "revision_timestamp": "2012-09-10T12:01:17.234727",
+            "state": "active",
+            "id": "c5e39de5-556e-4bcb-883b-5b9ec2481ae9"
+        }
+    ],
+    "tracking_summary": {
+        "total": 43,
+        "recent": 7
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-xscj-54iy",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Male and female populations by age group.",
+    "title": "Kisil Age Pyramid",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "19fd844f-f079-446c-b9d8-c309240327a5",
+                "package_id": "3b08ce8c-e72f-4cbf-b995-b342c2fc05a6"
+            }
+        },
+        {
+            "value": "Population",
+            "key": "category",
+            "__extras": {
+                "revision_id": "19fd844f-f079-446c-b9d8-c309240327a5",
+                "package_id": "3b08ce8c-e72f-4cbf-b995-b342c2fc05a6"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "19fd844f-f079-446c-b9d8-c309240327a5",
+                "package_id": "3b08ce8c-e72f-4cbf-b995-b342c2fc05a6"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "19fd844f-f079-446c-b9d8-c309240327a5"
+}

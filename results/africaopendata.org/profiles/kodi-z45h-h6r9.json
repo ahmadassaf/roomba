@@ -1,0 +1,130 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Laban",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:46:45.369157",
+    "id": "e215a267-8133-4973-bab2-1d6f4ab201c1",
+    "metadata_created": "2012-09-11T13:46:45.369157",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:11:19.418197",
+    "author": "Laban",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "b9ed490a-de43-4fc6-925c-d56e291951a4",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:11:19.418197",
+            "webstore_last_updated": "2013-10-10T12:11:19.345137",
+            "id": "57295ff4-8d5c-4c39-a502-af93222842c5",
+            "size": "28208",
+            "state": "active",
+            "hash": "45735534ce90b96425318a64c050c7d903496908",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Census 2009 Vol 1 A Table 1 Constituency Density.csv",
+            "created": "2012-09-11T13:46:45.417000",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T154930/z45h-h6r9.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T10:42:10.924221",
+            "position": 0,
+            "revision_id": "88bceaab-9d26-4149-be96-50ef240b4901",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "county",
+            "name": "county",
+            "revision_timestamp": "2012-09-11T13:46:45.369157",
+            "state": "active",
+            "id": "858f3acf-2c66-4fd9-9dc2-32e4f12121a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:46:45.369157",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:46:45.369157",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population",
+            "name": "population",
+            "revision_timestamp": "2012-09-11T13:46:45.369157",
+            "state": "active",
+            "id": "c5e39de5-556e-4bcb-883b-5b9ec2481ae9"
+        }
+    ],
+    "tracking_summary": {
+        "total": 56,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "kodi-z45h-h6r9",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Constituency Density based on Census 2009 Vol 1 A Table 1",
+    "title": "Census 2009 Vol 1 A Table 1 Constituency Density",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "483bdb6c-9af4-4521-8fad-eee9d9cd787e",
+                "package_id": "e215a267-8133-4973-bab2-1d6f4ab201c1"
+            }
+        },
+        {
+            "value": "Population",
+            "key": "category",
+            "__extras": {
+                "revision_id": "483bdb6c-9af4-4521-8fad-eee9d9cd787e",
+                "package_id": "e215a267-8133-4973-bab2-1d6f4ab201c1"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "483bdb6c-9af4-4521-8fad-eee9d9cd787e",
+                "package_id": "e215a267-8133-4973-bab2-1d6f4ab201c1"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "483bdb6c-9af4-4521-8fad-eee9d9cd787e"
+}

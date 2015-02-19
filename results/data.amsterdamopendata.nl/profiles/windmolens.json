@@ -1,0 +1,179 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2014-05-12T16:42:47.012651",
+    "id": "bdfb1457-2036-4126-8331-64ba2fbf72ca",
+    "metadata_created": "2014-05-12T16:42:47.012651",
+    "owner_org": null,
+    "metadata_modified": "2014-05-12T16:42:47.012651",
+    "author": "Dienst Ruimtelijke Ordening (DRO)",
+    "author_email": "info@dro.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "382dfcf0-24f3-4d5a-a105-491b9bca9b70",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-05-12T16:42:47.012651",
+            "webstore_last_updated": null,
+            "id": "fdf98a79-a79b-44ed-9575-ad7ef35eede4",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "KML, downloaden via maps.amsterdam.nl",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://maps.amsterdam.nl/open_geodata/",
+            "created": "2014-05-12T18:42:47.055821",
+            "url": "http://maps.amsterdam.nl/open_geodata/",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "cbb179a3-d217-433f-b6b9-08cf6eef84e9",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "potentie",
+            "name": "potentie",
+            "revision_timestamp": "2014-05-12T16:42:47.012651",
+            "state": "active",
+            "id": "54e7c102-adb6-4b73-8347-abafdc188bd9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "wind",
+            "name": "wind",
+            "revision_timestamp": "2014-05-12T16:42:47.012651",
+            "state": "active",
+            "id": "7697b685-749c-4d05-a711-4e131c176aa0"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "windenergie",
+            "name": "windenergie",
+            "revision_timestamp": "2014-05-12T16:42:47.012651",
+            "state": "active",
+            "id": "14360c62-2dfa-4e96-b200-480f525690c3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "windmolens",
+            "name": "windmolens",
+            "revision_timestamp": "2014-05-12T16:42:47.012651",
+            "state": "active",
+            "id": "55181712-a65a-4c6b-ad0b-38a04bda411f"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "windvisie",
+            "name": "windvisie",
+            "revision_timestamp": "2014-05-12T16:42:47.012651",
+            "state": "active",
+            "id": "10bbecf8-01b7-4e6e-813c-0caeaee13c38"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Energie",
+            "description": "",
+            "name": "energie",
+            "id": "14dc43ca-3c44-4ecb-8580-bb02b51ec950"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "windmolens",
+    "isopen": true,
+    "url": null,
+    "notes": "In dit bestand zijn de bestaande windmolens weergegeven en de gebieden die in de Windvisie van de Gemeente Amsterdam zijn aangewezen als geschikte gebieden voor windmolens. ",
+    "title": "Windmolens",
+    "extras": [
+        {
+            "value": "l.hakvoort@dro.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "bdfb1457-2036-4126-8331-64ba2fbf72ca",
+                "revision_id": "cbb179a3-d217-433f-b6b9-08cf6eef84e9"
+            }
+        },
+        {
+            "value": "Laura Hakvoort",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "cbb179a3-d217-433f-b6b9-08cf6eef84e9",
+                "package_id": "bdfb1457-2036-4126-8331-64ba2fbf72ca"
+            }
+        },
+        {
+            "value": "01/04/2014",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "cbb179a3-d217-433f-b6b9-08cf6eef84e9",
+                "package_id": "bdfb1457-2036-4126-8331-64ba2fbf72ca"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "cbb179a3-d217-433f-b6b9-08cf6eef84e9",
+                "package_id": "bdfb1457-2036-4126-8331-64ba2fbf72ca"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "bdfb1457-2036-4126-8331-64ba2fbf72ca",
+                "revision_id": "cbb179a3-d217-433f-b6b9-08cf6eef84e9"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "bdfb1457-2036-4126-8331-64ba2fbf72ca",
+                "revision_id": "cbb179a3-d217-433f-b6b9-08cf6eef84e9"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "cbb179a3-d217-433f-b6b9-08cf6eef84e9",
+                "package_id": "bdfb1457-2036-4126-8331-64ba2fbf72ca"
+            }
+        },
+        {
+            "value": "http://maps.amsterdam.nl/energie_zonwind/",
+            "key": "website",
+            "__extras": {
+                "package_id": "bdfb1457-2036-4126-8331-64ba2fbf72ca",
+                "revision_id": "cbb179a3-d217-433f-b6b9-08cf6eef84e9"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "cbb179a3-d217-433f-b6b9-08cf6eef84e9"
+}

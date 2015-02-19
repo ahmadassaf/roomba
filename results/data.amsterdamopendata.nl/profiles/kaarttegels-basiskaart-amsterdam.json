@@ -1,0 +1,187 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2013-05-16T09:19:19.669541",
+    "id": "b5ab945a-4024-422a-ab23-a4d7362febb7",
+    "metadata_created": "2013-05-16T09:19:19.669541",
+    "owner_org": null,
+    "metadata_modified": "2014-04-17T10:31:36.021914",
+    "author": "Dienst Basisinformatie",
+    "author_email": "info@dbi.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "f33b0505-3a05-4445-b467-bdda80479f7d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-04-17T10:31:36.021914",
+            "webstore_last_updated": null,
+            "id": "77aba148-e7a2-4ce7-bf7f-a76a19a4eb1e",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Toelichting gebruik webservice",
+            "format": "url",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://www.amsterdam.nl/gemeente/organisatie-diensten/dbi/stelselpedia/producten-stelsel/webservices/",
+            "created": "2014-04-17T12:31:36.081646",
+            "url": "http://www.amsterdam.nl/gemeente/organisatie-diensten/dbi/stelselpedia/producten-stelsel/webservices/",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "c6032ab6-b6f3-4d69-9e75-487f7962bb68",
+            "resource_type": "api",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "basiskaart",
+            "name": "basiskaart",
+            "revision_timestamp": "2013-05-16T09:19:19.669541",
+            "state": "active",
+            "id": "bc8c826b-f1a9-4779-b8cd-e960853b679c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "geografie",
+            "name": "geografie",
+            "revision_timestamp": "2013-05-16T09:19:19.669541",
+            "state": "active",
+            "id": "af0997c7-57df-413f-9e14-7f6ab945f6ad"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kaarttegels",
+            "name": "kaarttegels",
+            "revision_timestamp": "2013-05-16T09:19:19.669541",
+            "state": "active",
+            "id": "684482a9-7099-4e6e-9612-276009c11b80"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "maps",
+            "name": "maps",
+            "revision_timestamp": "2013-05-16T09:19:19.669541",
+            "state": "active",
+            "id": "20d68d3d-3ae7-4248-984f-44a4342bb1cd"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "tegels",
+            "name": "tegels",
+            "revision_timestamp": "2013-05-16T09:19:19.669541",
+            "state": "active",
+            "id": "0169fcb6-ac03-49a3-a226-873cc60b644a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "tiles",
+            "name": "tiles",
+            "revision_timestamp": "2013-05-16T09:19:19.669541",
+            "state": "active",
+            "id": "e3f9c4e9-15a0-40cb-bf0b-378381fd2bab"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Geografie",
+            "description": "",
+            "name": "geografie",
+            "id": "12518db9-824a-44d5-b568-6369f401aef3"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "kaarttegels-basiskaart-amsterdam",
+    "isopen": false,
+    "url": null,
+    "notes": "Kaarttegels van de Basiskaart van Amsterdam, die als tegels voor kaarttoepassingen, zoals bijv. Google Maps, gebruikt kunnen worden.",
+    "title": "Kaarttegels Basiskaart Amsterdam",
+    "extras": [
+        {
+            "value": "d.dejonge@dbi.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "b5ab945a-4024-422a-ab23-a4d7362febb7",
+                "revision_id": "1742e990-ad48-42a0-91fa-c8213da46704"
+            }
+        },
+        {
+            "value": "David de Jonge",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "1742e990-ad48-42a0-91fa-c8213da46704",
+                "package_id": "b5ab945a-4024-422a-ab23-a4d7362febb7"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "1742e990-ad48-42a0-91fa-c8213da46704",
+                "package_id": "b5ab945a-4024-422a-ab23-a4d7362febb7"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "1742e990-ad48-42a0-91fa-c8213da46704",
+                "package_id": "b5ab945a-4024-422a-ab23-a4d7362febb7"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "b5ab945a-4024-422a-ab23-a4d7362febb7",
+                "revision_id": "1742e990-ad48-42a0-91fa-c8213da46704"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "b5ab945a-4024-422a-ab23-a4d7362febb7",
+                "revision_id": "1742e990-ad48-42a0-91fa-c8213da46704"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "1742e990-ad48-42a0-91fa-c8213da46704",
+                "package_id": "b5ab945a-4024-422a-ab23-a4d7362febb7"
+            }
+        },
+        {
+            "value": "http://basisinformatie-amsterdam.nl/doku.php",
+            "key": "website",
+            "__extras": {
+                "package_id": "b5ab945a-4024-422a-ab23-a4d7362febb7",
+                "revision_id": "1742e990-ad48-42a0-91fa-c8213da46704"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "1742e990-ad48-42a0-91fa-c8213da46704"
+}

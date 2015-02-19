@@ -1,0 +1,108 @@
+{
+    "license_title": "Open Data Commons Attribution License 1.0",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-11-04T18:10:42.047645",
+    "id": "d276e54c-ad59-4060-a4e6-336f3b8ebb53",
+    "metadata_created": "2012-11-04T18:10:25.326667",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:57:51.599783",
+    "author": "World Bank (finance.worldbank.org)",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "ODC-BY-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "73322a69-3859-4834-984f-4a6a99439e84",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:57:51.599783",
+            "webstore_last_updated": "2013-10-10T10:57:51.536893",
+            "id": "2d375cbd-cee1-4b8b-842b-e92eabe40e87",
+            "size": "38041",
+            "state": "active",
+            "hash": "8aaceba9216af26678409a05680e85491fba02c4",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "RETF_-_Africa_as_Beneficiary-Sudan.csv",
+            "created": "2012-11-04T18:10:35.442995",
+            "url": "http://africaopendata.org/storage/f/2012-11-04T18%3A10%3A30.128Z/retf-africa-as-beneficiary-sudan.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:50:26.214848",
+            "position": 0,
+            "revision_id": "0d581d83-a1c6-4284-82ef-18655bb1f6bf",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Sudan",
+            "name": "Sudan",
+            "revision_timestamp": "2012-11-04T18:10:25.326667",
+            "state": "active",
+            "id": "20fc85bf-89e2-4421-9571-d52c68e04c5e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Trust Funds",
+            "name": "Trust Funds",
+            "revision_timestamp": "2012-11-04T18:10:25.326667",
+            "state": "active",
+            "id": "f284b6a5-a6fb-4bf2-ab20-7d376e25c5d6"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "World Bank",
+            "name": "World Bank",
+            "revision_timestamp": "2012-11-04T18:10:25.326667",
+            "state": "active",
+            "id": "ae91265e-0b5c-45a0-a96f-02cf356ec937"
+        }
+    ],
+    "tracking_summary": {
+        "total": 48,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Sudan",
+            "description": "Datasets from the Republic of Sudan",
+            "name": "sudan",
+            "id": "6ff55511-54e9-4678-86a9-29cc08495ec1"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "trust-fund-grants-committed-disbursed-sudan",
+    "isopen": true,
+    "url": null,
+    "notes": "A Recipient-executed Grant is a Trust Fund Grant that is provided to a third party under a grant agreement, and for which the Bank plays an operational role - i.e., the Bank normally appraises and supervises activities financed by these funds. This dataset provides data on the amount of grant funds committed in the course of a fiscal year and payments made out of a Trust Fund account to eligible recipients, in accordance with the legal agreements. In fulfilling its responsibilities, the World Bank as Trustee complies with all sanctions applicable to World Bank transactions. Data is provided at the individual Trust Fund level. All definitions should be regarded at present as provisional and not final, and are subject to revision at any time.",
+    "title": "Trust Fund Grants Committed & Disbursed - Sudan",
+    "extras": [],
+    "license_url": "http://www.opendefinition.org/licenses/odc-by",
+    "organization": null,
+    "revision_id": "0b5d1a26-0bf1-4ff4-ae8b-e616f7648e33",
+    "license_information": {
+        "domain_content": false,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Open Data Commons",
+        "status": "active"
+    }
+}

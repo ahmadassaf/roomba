@@ -1,0 +1,114 @@
+{
+    "license_title": null,
+    "maintainer": "Laban",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:40:33.053038",
+    "id": "bc4099d8-ba0b-4876-a277-e8b95061cf61",
+    "metadata_created": "2012-09-11T13:40:33.053038",
+    "owner_org": null,
+    "metadata_modified": "2013-03-13T23:22:10.101484",
+    "author": "Laban",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "97a09f67-b3d5-4eb5-9b4f-74f504f65ce9",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-13T23:22:10.101484",
+            "webstore_last_updated": null,
+            "id": "042c6bcc-8db2-4c10-b875-32e65c0e896a",
+            "size": "108",
+            "state": "active",
+            "hash": "c88b54bd40e5d45da38d3c55c5873c4e984bba9f",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "1989 and 1999 census.csv",
+            "created": "2012-09-11T13:40:33.091742",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T154318/87cz-4ip8.csv",
+            "webstore_url": null,
+            "last_modified": "2013-03-13T23:22:08.537704",
+            "position": 0,
+            "revision_id": "cb141c2a-c066-47ba-b7ed-5179b48ef42e",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:40:33.053038",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:40:33.053038",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 64,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "kodi-87cz-4ip8",
+    "isopen": false,
+    "url": null,
+    "notes": "Census data for the years1989 and 1999",
+    "title": "1989 and 1999 census",
+    "extras": [
+        {
+            "value": "IPUMS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "c673fd12-36b1-407f-a173-efaa92c9526c",
+                "package_id": "bc4099d8-ba0b-4876-a277-e8b95061cf61"
+            }
+        },
+        {
+            "value": "Population",
+            "key": "category",
+            "__extras": {
+                "revision_id": "c673fd12-36b1-407f-a173-efaa92c9526c",
+                "package_id": "bc4099d8-ba0b-4876-a277-e8b95061cf61"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "c673fd12-36b1-407f-a173-efaa92c9526c",
+                "package_id": "bc4099d8-ba0b-4876-a277-e8b95061cf61"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "c673fd12-36b1-407f-a173-efaa92c9526c"
+}

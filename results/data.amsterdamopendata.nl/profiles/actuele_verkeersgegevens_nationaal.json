@@ -1,0 +1,353 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2014-08-28T08:41:33.268492",
+    "id": "f0672be5-5416-46e1-b4a4-e71add4a920b",
+    "metadata_created": "2014-08-28T08:40:09.027395",
+    "owner_org": null,
+    "metadata_modified": "2014-08-28T08:41:33.268492",
+    "author": "Nationale Databank Wegverkeergegevens",
+    "author_email": "info@ndw.nu",
+    "state": "active",
+    "version": "",
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "32814aba-a857-48e4-9e2e-046755e81e7f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-08-28T08:41:33.268492",
+            "webstore_last_updated": null,
+            "id": "035c5aed-45fc-44ab-8c94-c1a77861f0f5",
+            "size": "3274",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Open Data NDW (FTP)",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://83.247.110.3/ndwOpenAVG/Voorwaarden.aspx",
+            "created": "2014-08-28T10:41:33.324395",
+            "url": "http://83.247.110.3/ndwOpenAVG/Voorwaarden.aspx",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "2f5c5cad-1247-4d94-bed9-9419b4f11fd6",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "32814aba-a857-48e4-9e2e-046755e81e7f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-08-28T08:41:33.268492",
+            "webstore_last_updated": null,
+            "id": "e3319883-adb9-4f91-ab8c-776e3de2cd97",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Toelichting (actuele verkeersgegevens)",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://www.ndw.nu/pagina/nl/4/databank/31/actuele_verkeersgegevens/",
+            "created": "2014-08-28T10:41:33.324413",
+            "url": "http://www.ndw.nu/pagina/nl/4/databank/31/actuele_verkeersgegevens/",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "2f5c5cad-1247-4d94-bed9-9419b4f11fd6",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "32814aba-a857-48e4-9e2e-046755e81e7f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-08-28T08:41:33.268492",
+            "webstore_last_updated": null,
+            "id": "7935bbdb-b14c-44e2-b68e-5191299a6dd5",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Toelichting (statusgegevens)",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://www.ndw.nu/pagina/nl/4/databank/64/statusgegevens/",
+            "created": "2014-08-28T10:41:33.324419",
+            "url": "http://www.ndw.nu/pagina/nl/4/databank/64/statusgegevens/",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "2f5c5cad-1247-4d94-bed9-9419b4f11fd6",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "32814aba-a857-48e4-9e2e-046755e81e7f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-08-28T08:41:33.268492",
+            "webstore_last_updated": null,
+            "id": "f9c97594-009e-4110-baaa-59d00726b9f7",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "",
+            "format": "url",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "http://api.citysdk.waag.org/nodes?layer=ndw.situations&geom",
+            "created": "2014-08-28T10:41:33.324423",
+            "url": "http://api.citysdk.waag.org/nodes?layer=ndw.situations&geom",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "2f5c5cad-1247-4d94-bed9-9419b4f11fd6",
+            "resource_type": "api"
+        },
+        {
+            "resource_group_id": "32814aba-a857-48e4-9e2e-046755e81e7f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-08-28T08:41:33.268492",
+            "webstore_last_updated": null,
+            "id": "a231cb73-be83-4621-bc55-4001af44a720",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Traveltime (via CitySDK)",
+            "format": "url",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "http://api.citysdk.waag.org/nodes?layer=ndw.traveltime&geom",
+            "created": "2014-08-28T10:41:33.324428",
+            "url": "http://api.citysdk.waag.org/nodes?layer=ndw.traveltime&geom",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 4,
+            "revision_id": "2f5c5cad-1247-4d94-bed9-9419b4f11fd6",
+            "resource_type": "api"
+        },
+        {
+            "resource_group_id": "32814aba-a857-48e4-9e2e-046755e81e7f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-08-28T08:41:33.268492",
+            "webstore_last_updated": null,
+            "id": "b8b9cd75-3d8b-471e-909a-482016cc8a9c",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Trafficspeed (via CitySDK)",
+            "format": "url",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "http://api.citysdk.waag.org/nodes?layer=ndw.trafficspeed&geom",
+            "created": "2014-08-28T10:41:33.324433",
+            "url": "http://api.citysdk.waag.org/nodes?layer=ndw.trafficspeed&geom",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 5,
+            "revision_id": "2f5c5cad-1247-4d94-bed9-9419b4f11fd6",
+            "resource_type": "api"
+        }
+    ],
+    "num_resources": 6,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "files",
+            "name": "files",
+            "revision_timestamp": "2014-08-28T08:40:09.027395",
+            "state": "active",
+            "id": "2c38a203-b18d-4589-8ecb-508764981d5b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "intensiteit",
+            "name": "intensiteit",
+            "revision_timestamp": "2014-08-28T08:40:09.027395",
+            "state": "active",
+            "id": "5e84425a-cb6f-491b-9117-8e8207c23a90"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "provinciale",
+            "name": "provinciale",
+            "revision_timestamp": "2014-08-28T08:40:09.027395",
+            "state": "active",
+            "id": "8f217e3c-749a-40f5-b6bc-36196ab1c464"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "reistijd",
+            "name": "reistijd",
+            "revision_timestamp": "2014-08-28T08:40:09.027395",
+            "state": "active",
+            "id": "b4bc9994-d6ee-481f-a790-e8ac79915983"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "snelheid",
+            "name": "snelheid",
+            "revision_timestamp": "2014-08-28T08:40:09.027395",
+            "state": "active",
+            "id": "fab984f1-26ae-4fe1-85cb-5338304ff78a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "snelweg",
+            "name": "snelweg",
+            "revision_timestamp": "2014-08-28T08:40:09.027395",
+            "state": "active",
+            "id": "2431b9e8-a8ce-4e2e-ade6-3beb41a00224"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "wegen",
+            "name": "wegen",
+            "revision_timestamp": "2014-08-28T08:40:09.027395",
+            "state": "active",
+            "id": "293888de-8a7a-4d09-a9f9-ee88801e720c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "wegverkeer",
+            "name": "wegverkeer",
+            "revision_timestamp": "2014-08-28T08:40:09.027395",
+            "state": "active",
+            "id": "7cac2e3f-d151-4ec2-a66a-019cb4fba989"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "wegwerkzaamheden",
+            "name": "wegwerkzaamheden",
+            "revision_timestamp": "2014-08-28T08:40:09.027395",
+            "state": "active",
+            "id": "940e09a2-b30b-4e35-945c-dd2c49395b15"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Verkeer & Infrastructuur",
+            "description": "",
+            "name": "verkeer-infrastructuur",
+            "id": "12502584-9d7d-4bdc-bf5f-df2b0d85f4f6"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 9,
+    "name": "actuele_verkeersgegevens_nationaal",
+    "isopen": true,
+    "url": null,
+    "notes": "De NDW-databank biedt inzicht in de actuele verkeerssituatie op snelwegen, provinciale wegen en doorgaande stedelijke wegen van de deelnemende overheden.De data over actuele verkeersgegevens (intensiteit, snelheid, reistijden, voertuigcategorieën) en statusgegevens (files, wergwerkzaamheden, etc.) zijn beschikbaar in DATEXII via FTP en via CitySDK",
+    "title": "Actuele verkeersgegevens (Nationaal)",
+    "extras": [
+        {
+            "value": "info@ndw.nu",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "f0672be5-5416-46e1-b4a4-e71add4a920b",
+                "revision_id": "7bbc32a8-29cc-48a7-92a5-f7143d213250"
+            }
+        },
+        {
+            "value": "Nationale Databank Wegverkeergegevens",
+            "key": "contact_name",
+            "__extras": {
+                "package_id": "f0672be5-5416-46e1-b4a4-e71add4a920b",
+                "revision_id": "7bbc32a8-29cc-48a7-92a5-f7143d213250"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "7bbc32a8-29cc-48a7-92a5-f7143d213250",
+                "package_id": "f0672be5-5416-46e1-b4a4-e71add4a920b"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "7bbc32a8-29cc-48a7-92a5-f7143d213250",
+                "package_id": "f0672be5-5416-46e1-b4a4-e71add4a920b"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "f0672be5-5416-46e1-b4a4-e71add4a920b",
+                "revision_id": "7bbc32a8-29cc-48a7-92a5-f7143d213250"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "f0672be5-5416-46e1-b4a4-e71add4a920b",
+                "revision_id": "7bbc32a8-29cc-48a7-92a5-f7143d213250"
+            }
+        },
+        {
+            "value": "Real-time",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "7bbc32a8-29cc-48a7-92a5-f7143d213250",
+                "package_id": "f0672be5-5416-46e1-b4a4-e71add4a920b"
+            }
+        },
+        {
+            "value": "http://www.ndw.nu",
+            "key": "website",
+            "__extras": {
+                "revision_id": "7bbc32a8-29cc-48a7-92a5-f7143d213250",
+                "package_id": "f0672be5-5416-46e1-b4a4-e71add4a920b"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "2f5c5cad-1247-4d94-bed9-9419b4f11fd6"
+}

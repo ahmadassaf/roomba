@@ -1,0 +1,130 @@
+{
+    "license_title": "UK Crown Copyright with data.gov.uk rights",
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2013-03-28T09:23:32.137537",
+    "id": "04b1e53d-26d3-4935-90e8-d49f503f7233",
+    "metadata_created": "2011-07-04T13:51:07.331791",
+    "owner_org": "f43f185f-3c59-4ced-ac96-bae6aa554e20",
+    "metadata_modified": "2013-12-08T06:25:19.860876",
+    "author": "ONS",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "ukcrown-withrights",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "application/octet-stream",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "{\"content\": \"7ba345b50e5bc99a6e22ba0aec834c0b15228007\", \"header\": \"a216b9629ecebfe640006367bf3d45b1cf8c75de\"}",
+            "description": "",
+            "format": "CSV",
+            "url": "http://store.datagm.org.uk/sets/census/CensusNSSeCHouseholdReferencePerson.csv",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "revision_timestamp": "2013-12-08T06:25:19.860876",
+            "webstore_url": null,
+            "resource_group_id": "45580f4f-41ff-433c-81e2-0dadd202f1e7",
+            "state": "active",
+            "last_modified": "2013-12-08T06:25:19.842269",
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "4d506342-9b11-4c60-8c54-2a3083e8dcae",
+            "size": "493477",
+            "id": "9d39e185-baf8-411a-8814-f826119af5ee",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "census",
+            "name": "census",
+            "revision_timestamp": "2011-07-04T13:51:07.331791",
+            "state": "active",
+            "id": "f63ab9ff-ea1c-4332-8308-6d04c32d99ce"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "households",
+            "name": "households",
+            "revision_timestamp": "2011-07-04T13:51:07.331791",
+            "state": "active",
+            "id": "b93a21ee-a151-47da-88ca-2d90837c667d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "occupation",
+            "name": "occupation",
+            "revision_timestamp": "2011-07-04T13:51:07.331791",
+            "state": "active",
+            "id": "4f407d37-651c-48ab-aafb-830ed09df963"
+        }
+    ],
+    "tracking_summary": {
+        "total": 2,
+        "recent": 1
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "census-2001-residents-household-nssec-reference-person",
+    "isopen": false,
+    "url": "http://www.statistics.gov.uk/default.asp",
+    "notes": "Number of residents per household according to the \r\nNational Statistics Socio-economic Classification (NS SEC) of the Household Reference Person.\r\n\r\n\r\nThe NS-SEC is a flexible and structured, occupationally based classification.\r\n\r\n",
+    "title": "Census 2001 Residents Household NSSeC Reference Person ",
+    "extras": [
+        {
+            "value": "2001",
+            "key": "temporal_coverage-from",
+            "__extras": {
+                "package_id": "04b1e53d-26d3-4935-90e8-d49f503f7233",
+                "revision_id": "c3e34fc0-7a69-49cb-9713-83418895f590"
+            }
+        },
+        {
+            "value": "2001",
+            "key": "temporal_coverage-to",
+            "__extras": {
+                "package_id": "04b1e53d-26d3-4935-90e8-d49f503f7233",
+                "revision_id": "c3e34fc0-7a69-49cb-9713-83418895f590"
+            }
+        }
+    ],
+    "organization": {
+        "description": "",
+        "created": "2013-03-28T04:17:34.358882",
+        "title": "Association of Greater Manchester Authorities",
+        "name": "association-of-greater-manchester-authorities",
+        "revision_timestamp": "2013-12-05T15:02:37.169037",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://www.agma.gov.uk/cms_media/images/agma_small_logo.gif",
+        "revision_id": "05d96cc7-dcb8-45ec-b9e7-375afa1a88a3",
+        "type": "organization",
+        "id": "f43f185f-3c59-4ced-ac96-bae6aa554e20",
+        "approval_status": "approved"
+    },
+    "revision_id": "890c705f-6d2f-4767-9901-69758547a409",
+    "license_url": "",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": false,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "",
+        "status": "active"
+    }
+}

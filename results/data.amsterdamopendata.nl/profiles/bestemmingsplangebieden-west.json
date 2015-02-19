@@ -1,0 +1,240 @@
+{
+    "license_title": "Creative Commons Attribution 4.0",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2013-05-16T07:26:54.628724",
+    "id": "f7857277-7b27-499c-81f4-bf69977c2660",
+    "metadata_created": "2013-05-16T07:26:54.628724",
+    "owner_org": null,
+    "metadata_modified": "2013-05-16T07:26:54.628724",
+    "author": "Stadsdeel West",
+    "author_email": "info@west.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "63965d12-d339-449c-a98e-8e2c7f967e2d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-05-16T07:26:54.628724",
+            "webstore_last_updated": null,
+            "id": "f5efcf62-140c-4552-bf83-0ad6772d5169",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "WFS",
+            "format": "url",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/vnd.ogc.se_xml",
+            "cache_url": null,
+            "name": "http://afnemers.ruimtelijkeplannen.nl/unregafnemers/services?REQUEST=GetFeature&SERVICE=WFS&VERSION=1.0.0&TYPENAME=app:Bestemmingsplangebied&FILTER=%3CFilter%3E%3CPropertyIsEqualTo%3E%3CPropertyName%3Eoverheidscode%3C/PropertyName%3E%3CLiteral%3E0363%3C/Literal%3E%3C/PropertyIsEqu",
+            "created": "2013-05-16T09:26:54.671473",
+            "url": "http://afnemers.ruimtelijkeplannen.nl/unregafnemers/services?REQUEST=GetFeature&SERVICE=WFS&VERSION=1.0.0&TYPENAME=app:Bestemmingsplangebied&FILTER=%3CFilter%3E%3CPropertyIsEqualTo%3E%3CPropertyName%3Eoverheidscode%3C/PropertyName%3E%3CLiteral%3E0363%3C/Literal%3E%3C/PropertyIsEqu",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "504a996d-d606-4961-8f58-8cfc556ff5a3",
+            "resource_type": "api",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "63965d12-d339-449c-a98e-8e2c7f967e2d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-05-16T07:26:54.628724",
+            "webstore_last_updated": null,
+            "id": "f5ea2bbb-b1fc-410c-b78c-4ae96c6f9e46",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "CSV",
+            "format": "url",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "http://www.kaartvanwest.nl/opendata_feed/subgroep/bestemmingsplannen/format/csv",
+            "created": "2013-05-16T09:26:54.671500",
+            "url": "http://www.kaartvanwest.nl/opendata_feed/subgroep/bestemmingsplannen/format/csv",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "504a996d-d606-4961-8f58-8cfc556ff5a3",
+            "resource_type": "api",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "63965d12-d339-449c-a98e-8e2c7f967e2d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-05-16T07:26:54.628724",
+            "webstore_last_updated": null,
+            "id": "9542e333-a5f5-4c3d-90f1-ee847cae1f2e",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "GeoRSS",
+            "format": "url",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "http://www.kaartvanwest.nl/opendata_feed/subgroep/bestemmingsplannen/format/georss",
+            "created": "2013-05-16T09:26:54.671505",
+            "url": "http://www.kaartvanwest.nl/opendata_feed/subgroep/bestemmingsplannen/format/georss",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "504a996d-d606-4961-8f58-8cfc556ff5a3",
+            "resource_type": "api",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 3,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "West",
+            "name": "West",
+            "revision_timestamp": "2013-05-16T07:26:54.628724",
+            "state": "active",
+            "id": "3a907e9f-1760-4cba-b826-3f0bbf169300"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "bestemmingsplan",
+            "name": "bestemmingsplan",
+            "revision_timestamp": "2013-05-16T07:26:54.628724",
+            "state": "active",
+            "id": "193002b1-a757-4391-a5ac-f73b15f8a7cb"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "bestemmingsplannen",
+            "name": "bestemmingsplannen",
+            "revision_timestamp": "2013-05-16T07:26:54.628724",
+            "state": "active",
+            "id": "5f6e858e-416f-4203-a225-82239bb7f096"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "stadsdeel",
+            "name": "stadsdeel",
+            "revision_timestamp": "2013-05-16T07:26:54.628724",
+            "state": "active",
+            "id": "c9a431fd-3acd-46b0-80ba-5bb1c810f233"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Stedelijke ontwikkeling",
+            "description": "",
+            "name": "stedelijke-ontwikkeling",
+            "id": "0364e650-9355-4ad7-aa0a-8d87d809544e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "bestemmingsplangebieden-west",
+    "isopen": true,
+    "url": null,
+    "notes": "WFS selectie bestemmingsplannen van Stadsdeel West. Voor de plangebieden gebruik app:plangebied_PCP in de filter.",
+    "title": "Bestemmingsplangebieden West",
+    "extras": [
+        {
+            "value": "info@west.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "f7857277-7b27-499c-81f4-bf69977c2660",
+                "revision_id": "504a996d-d606-4961-8f58-8cfc556ff5a3"
+            }
+        },
+        {
+            "value": "Stadsdeel West",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "504a996d-d606-4961-8f58-8cfc556ff5a3",
+                "package_id": "f7857277-7b27-499c-81f4-bf69977c2660"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "504a996d-d606-4961-8f58-8cfc556ff5a3",
+                "package_id": "f7857277-7b27-499c-81f4-bf69977c2660"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "504a996d-d606-4961-8f58-8cfc556ff5a3",
+                "package_id": "f7857277-7b27-499c-81f4-bf69977c2660"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "f7857277-7b27-499c-81f4-bf69977c2660",
+                "revision_id": "504a996d-d606-4961-8f58-8cfc556ff5a3"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "f7857277-7b27-499c-81f4-bf69977c2660",
+                "revision_id": "504a996d-d606-4961-8f58-8cfc556ff5a3"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "504a996d-d606-4961-8f58-8cfc556ff5a3",
+                "package_id": "f7857277-7b27-499c-81f4-bf69977c2660"
+            }
+        },
+        {
+            "value": "http://www.kaartvanwest.nl",
+            "key": "website",
+            "__extras": {
+                "package_id": "f7857277-7b27-499c-81f4-bf69977c2660",
+                "revision_id": "504a996d-d606-4961-8f58-8cfc556ff5a3"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "organization": null,
+    "revision_id": "504a996d-d606-4961-8f58-8cfc556ff5a3",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

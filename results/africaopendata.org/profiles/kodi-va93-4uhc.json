@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Chris Metcalf",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:51:50.628740",
+    "id": "0330640d-f8f3-4e33-b9b5-93fb61b1026e",
+    "metadata_created": "2012-09-11T13:51:50.628740",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:07:46.366562",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "02f63ef6-0143-4e1f-8c29-63532f7efe64",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:07:46.366562",
+            "webstore_last_updated": "2013-10-10T12:07:46.270889",
+            "id": "6b4f4d17-3aad-419b-b74b-dee18f811643",
+            "size": "1317",
+            "state": "active",
+            "hash": "758aa8775c76a4df703ccd8a8d40ad0d58d3d577",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "National-Level Column Chart.csv",
+            "created": "2012-09-11T13:51:50.671342",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155435/va93-4uhc.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:24:28.739034",
+            "position": 0,
+            "revision_id": "4a429eea-ca75-471c-aaa7-9362318844e9",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:51:50.628740",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:51:50.628740",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population housheold kihbs county 2005",
+            "name": "population housheold kihbs county 2005",
+            "revision_timestamp": "2012-09-11T13:51:50.628740",
+            "state": "active",
+            "id": "110912b1-e898-4353-9d21-3d68fcd741c4"
+        }
+    ],
+    "tracking_summary": {
+        "total": 51,
+        "recent": 5
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-va93-4uhc",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "KIHBS Part 3 county estimates of population and households.",
+    "title": "National-Level Column Chart",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "b1176d18-1e5f-4f88-8bcd-36ec1e9e9884",
+                "package_id": "0330640d-f8f3-4e33-b9b5-93fb61b1026e"
+            }
+        },
+        {
+            "value": "Population",
+            "key": "category",
+            "__extras": {
+                "revision_id": "b1176d18-1e5f-4f88-8bcd-36ec1e9e9884",
+                "package_id": "0330640d-f8f3-4e33-b9b5-93fb61b1026e"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "b1176d18-1e5f-4f88-8bcd-36ec1e9e9884",
+                "package_id": "0330640d-f8f3-4e33-b9b5-93fb61b1026e"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "b1176d18-1e5f-4f88-8bcd-36ec1e9e9884"
+}

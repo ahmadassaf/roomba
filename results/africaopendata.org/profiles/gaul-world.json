@@ -1,0 +1,615 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:26:57.622404",
+    "id": "6cb8859d-2faf-4561-bf52-0be06ebd9cee",
+    "metadata_created": "2014-11-04T22:26:57.622404",
+    "owner_org": null,
+    "metadata_modified": "2014-11-04T23:12:17.808542",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "95e2d0b7-a07a-4748-91e8-3e2b0229ce89",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:12:17.808542",
+            "webstore_last_updated": null,
+            "id": "0b2377e9-dfb6-4789-bb82-f6696dd71a38",
+            "size": "41199",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "99997b62b51d965fd18d3f5980de957ca74cbc5b",
+            "description": "Online link to the 'Gaul World' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:50:58.064301",
+            "url": "http://maps.data.ug/layers/geonode:gaul_world",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:12:17.582281",
+            "position": 0,
+            "revision_id": "c67b5d47-eb0f-4b09-9130-d54ac3def343",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "95e2d0b7-a07a-4748-91e8-3e2b0229ce89",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:26:57.622404",
+            "webstore_last_updated": null,
+            "id": "23e6b009-bfe3-455b-bd48-028a077d22fe",
+            "size": "33918",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Gaul World (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "gaul_world.jpg",
+            "created": "2014-03-12T14:50:58.064325",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms?layers=geonode%3Agaul_world&width=973&bbox=-197.77320954907162%2C-114.83741509941188%2C197.77320954907162%2C108.56483209159936&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "937db64b-563b-46bd-bf32-0a913f6167c8",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "95e2d0b7-a07a-4748-91e8-3e2b0229ce89",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:26:57.622404",
+            "webstore_last_updated": null,
+            "id": "e3ae431f-cac9-431c-a3ea-6359092e5398",
+            "size": "145946",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Gaul World (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "gaul_world.pdf",
+            "created": "2014-03-12T14:50:58.064330",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms?layers=geonode%3Agaul_world&width=973&bbox=-197.77320954907162%2C-114.83741509941188%2C197.77320954907162%2C108.56483209159936&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "937db64b-563b-46bd-bf32-0a913f6167c8",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "95e2d0b7-a07a-4748-91e8-3e2b0229ce89",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:26:57.622404",
+            "webstore_last_updated": null,
+            "id": "1a536cc8-d569-4894-ad1b-d99d6ed3a495",
+            "size": "80386",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Gaul World (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "gaul_world.png",
+            "created": "2014-03-12T14:50:58.064333",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms?layers=geonode%3Agaul_world&width=973&bbox=-197.77320954907162%2C-114.83741509941188%2C197.77320954907162%2C108.56483209159936&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "937db64b-563b-46bd-bf32-0a913f6167c8",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "95e2d0b7-a07a-4748-91e8-3e2b0229ce89",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:26:57.622404",
+            "webstore_last_updated": null,
+            "id": "438066ed-2e42-4cec-bf80-30514406cc41",
+            "size": "3210481",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Gaul World (ArcGrid Format)",
+            "format": "wcs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/plain",
+            "cache_url": null,
+            "name": "gaul_world.ArcGrid",
+            "created": "2014-03-12T14:50:58.064337",
+            "url": "http://geoclean.mountbatten.net:80/geoserver/wcs?crs=EPSG%3A4326&service=WCS&format=ArcGrid&request=GetCoverage&height=550&width=973&version=1.0.0&BBox=-197.77320954907162%2C-114.83741509941188%2C197.77320954907162%2C108.56483209159936&Coverage=geonode%3Agaul_world",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 4,
+            "revision_id": "937db64b-563b-46bd-bf32-0a913f6167c8",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "95e2d0b7-a07a-4748-91e8-3e2b0229ce89",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:26:57.622404",
+            "webstore_last_updated": null,
+            "id": "49981b76-7b35-47c5-827a-5e0d481b9010",
+            "size": "2141544",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Gaul World (GeoTIFF Format)",
+            "format": "wcs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/tiff",
+            "cache_url": null,
+            "name": "gaul_world.GeoTIFF",
+            "created": "2014-03-12T14:50:58.064341",
+            "url": "http://geoclean.mountbatten.net:80/geoserver/wcs?crs=EPSG%3A4326&service=WCS&format=GeoTIFF&request=GetCoverage&height=550&width=973&version=1.0.0&BBox=-197.77320954907162%2C-114.83741509941188%2C197.77320954907162%2C108.56483209159936&Coverage=geonode%3Agaul_world",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 5,
+            "revision_id": "937db64b-563b-46bd-bf32-0a913f6167c8",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "95e2d0b7-a07a-4748-91e8-3e2b0229ce89",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:26:57.622404",
+            "webstore_last_updated": null,
+            "id": "13c7a708-be90-41b7-9dc3-0798303728b8",
+            "size": "200",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Gaul World (Gtopo30 Format)",
+            "format": "wcs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.ogc.se_xml",
+            "cache_url": null,
+            "name": "gaul_world.Gtopo30",
+            "created": "2014-03-12T14:50:58.064344",
+            "url": "http://geoclean.mountbatten.net:80/geoserver/wcs?crs=EPSG%3A4326&service=WCS&format=Gtopo30&request=GetCoverage&height=550&width=973&version=1.0.0&BBox=-197.77320954907162%2C-114.83741509941188%2C197.77320954907162%2C108.56483209159936&Coverage=geonode%3Agaul_world",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 6,
+            "revision_id": "937db64b-563b-46bd-bf32-0a913f6167c8",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "95e2d0b7-a07a-4748-91e8-3e2b0229ce89",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:26:57.622404",
+            "webstore_last_updated": null,
+            "id": "6ef063f0-1c26-477a-abbc-3d1cac7d2fa7",
+            "size": "204",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Gaul World (ImageMosaic Format)",
+            "format": "wcs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.ogc.se_xml",
+            "cache_url": null,
+            "name": "gaul_world.ImageMosaic",
+            "created": "2014-03-12T14:50:58.064348",
+            "url": "http://geoclean.mountbatten.net:80/geoserver/wcs?crs=EPSG%3A4326&service=WCS&format=ImageMosaic&request=GetCoverage&height=550&width=973&version=1.0.0&BBox=-197.77320954907162%2C-114.83741509941188%2C197.77320954907162%2C108.56483209159936&Coverage=geonode%3Agaul_world",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:51:46.218662",
+            "position": 7,
+            "revision_id": "937db64b-563b-46bd-bf32-0a913f6167c8",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "95e2d0b7-a07a-4748-91e8-3e2b0229ce89",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:26:57.622404",
+            "webstore_last_updated": null,
+            "id": "79ad98f3-1ed4-4ee3-8dd9-be5d13d89071",
+            "size": "1843",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Gaul World (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "gaul_world.kml",
+            "created": "2014-03-12T14:50:58.064352",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms/kml?layers=geonode%3Agaul_world&mode=download",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 8,
+            "revision_id": "937db64b-563b-46bd-bf32-0a913f6167c8",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "95e2d0b7-a07a-4748-91e8-3e2b0229ce89",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:26:57.622404",
+            "webstore_last_updated": null,
+            "id": "9423eda2-7341-4573-a72b-0a709657c084",
+            "size": "1841",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Gaul World (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "gaul_world.kml",
+            "created": "2014-03-12T14:50:58.064355",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms/kml?layers=geonode%3Agaul_world&mode=refresh",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "937db64b-563b-46bd-bf32-0a913f6167c8",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "95e2d0b7-a07a-4748-91e8-3e2b0229ce89",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:26:57.622404",
+            "webstore_last_updated": null,
+            "id": "f8bfea07-1aad-4198-b192-59468c2dd3e1",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Gaul World (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "gaul_world.tiles",
+            "created": "2014-03-12T14:50:58.064359",
+            "url": "http://geoclean.mountbatten.net/geoserver/gwc/service/gmaps?layers=geonode:gaul_world&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 10,
+            "revision_id": "937db64b-563b-46bd-bf32-0a913f6167c8",
+            "resource_type": null
+        }
+    ],
+    "num_resources": 11,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:26:57.622404",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "clean",
+            "name": "clean",
+            "revision_timestamp": "2014-11-04T22:26:57.622404",
+            "state": "active",
+            "id": "79e19168-6492-4507-9c70-9d9dc35a33bd"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:26:57.622404",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:26:57.622404",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:26:57.622404",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:26:57.622404",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:26:57.622404",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 5,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 7,
+    "name": "gaul-world",
+    "isopen": false,
+    "url": null,
+    "notes": "No abstract provided",
+    "title": "Gaul World",
+    "extras": [
+        {
+            "value": "[\"None\"]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "937db64b-563b-46bd-bf32-0a913f6167c8",
+                "package_id": "6cb8859d-2faf-4561-bf52-0be06ebd9cee"
+            }
+        },
+        {
+            "value": "197.7732095491",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "937db64b-563b-46bd-bf32-0a913f6167c8",
+                "package_id": "6cb8859d-2faf-4561-bf52-0be06ebd9cee"
+            }
+        },
+        {
+            "value": "108.5648320916",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "6cb8859d-2faf-4561-bf52-0be06ebd9cee",
+                "revision_id": "937db64b-563b-46bd-bf32-0a913f6167c8"
+            }
+        },
+        {
+            "value": "-114.8374150994",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "937db64b-563b-46bd-bf32-0a913f6167c8",
+                "package_id": "6cb8859d-2faf-4561-bf52-0be06ebd9cee"
+            }
+        },
+        {
+            "value": "-197.7732095491",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "937db64b-563b-46bd-bf32-0a913f6167c8",
+                "package_id": "6cb8859d-2faf-4561-bf52-0be06ebd9cee"
+            }
+        },
+        {
+            "value": "katy@mountbatten.net",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "6cb8859d-2faf-4561-bf52-0be06ebd9cee",
+                "revision_id": "937db64b-563b-46bd-bf32-0a913f6167c8"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "6cb8859d-2faf-4561-bf52-0be06ebd9cee",
+                "revision_id": "937db64b-563b-46bd-bf32-0a913f6167c8"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-02-20T02:12:57Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "6cb8859d-2faf-4561-bf52-0be06ebd9cee",
+                "revision_id": "937db64b-563b-46bd-bf32-0a913f6167c8"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "6cb8859d-2faf-4561-bf52-0be06ebd9cee",
+                "revision_id": "937db64b-563b-46bd-bf32-0a913f6167c8"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Gaul World'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "6cb8859d-2faf-4561-bf52-0be06ebd9cee",
+                "revision_id": "937db64b-563b-46bd-bf32-0a913f6167c8"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "6cb8859d-2faf-4561-bf52-0be06ebd9cee",
+                "revision_id": "937db64b-563b-46bd-bf32-0a913f6167c8"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "937db64b-563b-46bd-bf32-0a913f6167c8",
+                "package_id": "6cb8859d-2faf-4561-bf52-0be06ebd9cee"
+            }
+        },
+        {
+            "value": "ce463d50-9a06-11e3-8f58-ff6c6255e77b",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "937db64b-563b-46bd-bf32-0a913f6167c8",
+                "package_id": "6cb8859d-2faf-4561-bf52-0be06ebd9cee"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "937db64b-563b-46bd-bf32-0a913f6167c8",
+                "package_id": "6cb8859d-2faf-4561-bf52-0be06ebd9cee"
+            }
+        },
+        {
+            "value": "2014-02-20T02:12:57Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "6cb8859d-2faf-4561-bf52-0be06ebd9cee",
+                "revision_id": "937db64b-563b-46bd-bf32-0a913f6167c8"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "937db64b-563b-46bd-bf32-0a913f6167c8",
+                "package_id": "6cb8859d-2faf-4561-bf52-0be06ebd9cee"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "6cb8859d-2faf-4561-bf52-0be06ebd9cee",
+                "revision_id": "937db64b-563b-46bd-bf32-0a913f6167c8"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "6cb8859d-2faf-4561-bf52-0be06ebd9cee",
+                "revision_id": "937db64b-563b-46bd-bf32-0a913f6167c8"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "6cb8859d-2faf-4561-bf52-0be06ebd9cee",
+                "revision_id": "937db64b-563b-46bd-bf32-0a913f6167c8"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-197.773209549, -114.837415099], [197.773209549, -114.837415099], [197.773209549, 108.564832092], [-197.773209549, 108.564832092], [-197.773209549, -114.837415099]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "937db64b-563b-46bd-bf32-0a913f6167c8",
+                "package_id": "6cb8859d-2faf-4561-bf52-0be06ebd9cee"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "6cb8859d-2faf-4561-bf52-0be06ebd9cee",
+                "revision_id": "937db64b-563b-46bd-bf32-0a913f6167c8"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "937db64b-563b-46bd-bf32-0a913f6167c8",
+                "package_id": "6cb8859d-2faf-4561-bf52-0be06ebd9cee"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "937db64b-563b-46bd-bf32-0a913f6167c8",
+                "package_id": "6cb8859d-2faf-4561-bf52-0be06ebd9cee"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "937db64b-563b-46bd-bf32-0a913f6167c8"
+}

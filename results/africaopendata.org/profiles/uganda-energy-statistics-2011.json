@@ -1,0 +1,100 @@
+{
+    "license_title": "Open Data Commons Attribution License 1.0",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-11-05T09:06:40.334025",
+    "id": "72a5df3c-5a79-4144-8fa2-ca6a2870bfa4",
+    "metadata_created": "2012-11-05T09:05:29.048902",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:57:15.884877",
+    "author": "Uganda Electricity Transmission Company Ltd",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "ODC-BY-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "2dc3d383-08ac-41f3-a977-6ddfa7f6c249",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:57:15.884877",
+            "webstore_last_updated": "2013-10-10T10:57:15.821444",
+            "id": "74ff2cc4-bdf5-4966-a27d-f3f86b133ca9",
+            "size": "15840",
+            "state": "active",
+            "hash": "b9aa527f5c09bed92a3f1ccf2d5344c369d40ee0",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 5,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "UgandaEnergyStatistics2006-2010.csv",
+            "created": "2012-11-05T09:06:08.610559",
+            "url": "http://africaopendata.org/storage/f/2012-11-05T09%3A06%3A01.024Z/ugandaenergystatistics2006-2010.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:56:59.708824",
+            "position": 0,
+            "revision_id": "376fb5d7-5e0b-4130-a69b-7c1fb6c8ccbd",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Energy",
+            "name": "Energy",
+            "revision_timestamp": "2012-11-05T09:05:29.048902",
+            "state": "active",
+            "id": "f249338f-1571-4660-87f2-2ed9dcb2b356"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2012-11-05T09:05:29.048902",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        }
+    ],
+    "tracking_summary": {
+        "total": 78,
+        "recent": 5
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "uganda-energy-statistics-2011",
+    "isopen": true,
+    "url": null,
+    "notes": "National energy statistics from 2006 to 2010 by installed capacity, sales of petroleum products, number of active customers and purchases by UETCL",
+    "title": "Uganda Energy Statistics 2011",
+    "extras": [],
+    "license_url": "http://www.opendefinition.org/licenses/odc-by",
+    "organization": null,
+    "revision_id": "c0f2d81d-dbd1-4fab-8aa1-72d6f0805714",
+    "license_information": {
+        "domain_content": false,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Open Data Commons",
+        "status": "active"
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "geekmate",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:40:41.294013",
+    "id": "6237b583-456b-4b8d-acb8-1974647aaf03",
+    "metadata_created": "2012-09-11T13:40:41.294013",
+    "owner_org": null,
+    "metadata_modified": "2013-03-14T08:45:00.871373",
+    "author": "geekmate",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "26a75836-3f24-4d50-89fe-c0b13ba47687",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-14T08:45:00.871373",
+            "webstore_last_updated": null,
+            "id": "ff97b9e3-bbda-45ce-b870-54e0b522c132",
+            "size": "108",
+            "state": "active",
+            "hash": "c88b54bd40e5d45da38d3c55c5873c4e984bba9f",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Julisha Survey on Kenya ICT Market Overview 2011.csv",
+            "created": "2012-09-11T13:40:41.338711",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T154326/3j44-wqzt.csv",
+            "webstore_url": null,
+            "last_modified": "2013-03-14T08:44:59.088365",
+            "position": 0,
+            "revision_id": "a4f40a1b-5f65-41c3-bf07-d40459544f92",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "ict",
+            "name": "ict",
+            "revision_timestamp": "2012-09-11T13:40:41.294013",
+            "state": "active",
+            "id": "ffa61b9d-3629-4cc9-9933-2336c6aa2554"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:40:41.294013",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:40:41.294013",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "market overview",
+            "name": "market overview",
+            "revision_timestamp": "2012-09-11T13:40:41.294013",
+            "state": "active",
+            "id": "e18ea82f-3cb5-4eeb-8780-d41319bb53a9"
+        }
+    ],
+    "tracking_summary": {
+        "total": 79,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "kodi-3j44-wqzt",
+    "isopen": true,
+    "url": "http://www.ict.go.ke",
+    "notes": "Kenya ICT Market Overview",
+    "title": "Julisha Survey on Kenya ICT Market Overview 2011",
+    "extras": [
+        {
+            "value": "Kenya ICT Board",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "b1ce66f7-638c-47d5-a54e-68592b695e99",
+                "package_id": "6237b583-456b-4b8d-acb8-1974647aaf03"
+            }
+        },
+        {
+            "value": "Education",
+            "key": "category",
+            "__extras": {
+                "revision_id": "b1ce66f7-638c-47d5-a54e-68592b695e99",
+                "package_id": "6237b583-456b-4b8d-acb8-1974647aaf03"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "b1ce66f7-638c-47d5-a54e-68592b695e99",
+                "package_id": "6237b583-456b-4b8d-acb8-1974647aaf03"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "b1ce66f7-638c-47d5-a54e-68592b695e99"
+}

@@ -1,0 +1,187 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2014-05-12T16:35:11.467253",
+    "id": "887909c7-bdbd-4960-b052-3fcf61060251",
+    "metadata_created": "2014-05-12T16:35:11.467253",
+    "owner_org": null,
+    "metadata_modified": "2014-05-12T16:35:11.467253",
+    "author": "Dienst Ruimtelijke Ordening (DRO)",
+    "author_email": "info@dro.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "2f27a1b3-f684-4dc6-adec-c27299a7d5c2",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-05-12T16:35:11.467253",
+            "webstore_last_updated": null,
+            "id": "222503d3-9ae7-4d66-9815-3026736db7d1",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "KML, downloaden via maps.amsterdam.nl",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://maps.amsterdam.nl/open_geodata/",
+            "created": "2014-05-12T18:35:11.535082",
+            "url": "http://maps.amsterdam.nl/open_geodata/",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "a78930cb-133c-4601-9ac8-edc75f860a02",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "WKO",
+            "name": "WKO",
+            "revision_timestamp": "2014-05-12T16:35:11.467253",
+            "state": "active",
+            "id": "e2804970-3762-4ffd-929e-2319c769bf42"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "geothermie",
+            "name": "geothermie",
+            "revision_timestamp": "2014-05-12T16:35:11.467253",
+            "state": "active",
+            "id": "e1d2119a-1409-4f73-9bc7-04502471eff7"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "koude",
+            "name": "koude",
+            "revision_timestamp": "2014-05-12T16:35:11.467253",
+            "state": "active",
+            "id": "cfe610c7-3637-4cd8-bdf0-2e922b2e518a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "potentie",
+            "name": "potentie",
+            "revision_timestamp": "2014-05-12T16:35:11.467253",
+            "state": "active",
+            "id": "54e7c102-adb6-4b73-8347-abafdc188bd9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "warmte",
+            "name": "warmte",
+            "revision_timestamp": "2014-05-12T16:35:11.467253",
+            "state": "active",
+            "id": "d5cb23ea-5767-4924-8bbd-b60523dccf3f"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "warmtekoudeopslak",
+            "name": "warmtekoudeopslak",
+            "revision_timestamp": "2014-05-12T16:35:11.467253",
+            "state": "active",
+            "id": "b8916f04-c8a4-42e5-844d-78d843bb5207"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Energie",
+            "description": "",
+            "name": "energie",
+            "id": "14dc43ca-3c44-4ecb-8580-bb02b51ec950"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "warmtekoudeopslag",
+    "isopen": true,
+    "url": null,
+    "notes": "Dit bestand geeft de potentie weer van warmte en koude opwekking uit water (oppervlakte water, drinkwater en rioolwater) en uit de bodem (verschillende diepte).",
+    "title": "Warmtekoudeopslag",
+    "extras": [
+        {
+            "value": "l.hakvoort@dro.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "887909c7-bdbd-4960-b052-3fcf61060251",
+                "revision_id": "a78930cb-133c-4601-9ac8-edc75f860a02"
+            }
+        },
+        {
+            "value": "Laura Hakvoort",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "a78930cb-133c-4601-9ac8-edc75f860a02",
+                "package_id": "887909c7-bdbd-4960-b052-3fcf61060251"
+            }
+        },
+        {
+            "value": "01/04/2014",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "a78930cb-133c-4601-9ac8-edc75f860a02",
+                "package_id": "887909c7-bdbd-4960-b052-3fcf61060251"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "a78930cb-133c-4601-9ac8-edc75f860a02",
+                "package_id": "887909c7-bdbd-4960-b052-3fcf61060251"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "887909c7-bdbd-4960-b052-3fcf61060251",
+                "revision_id": "a78930cb-133c-4601-9ac8-edc75f860a02"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "887909c7-bdbd-4960-b052-3fcf61060251",
+                "revision_id": "a78930cb-133c-4601-9ac8-edc75f860a02"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "a78930cb-133c-4601-9ac8-edc75f860a02",
+                "package_id": "887909c7-bdbd-4960-b052-3fcf61060251"
+            }
+        },
+        {
+            "value": "http://maps.amsterdam.nl/energie_bodemwater/",
+            "key": "website",
+            "__extras": {
+                "package_id": "887909c7-bdbd-4960-b052-3fcf61060251",
+                "revision_id": "a78930cb-133c-4601-9ac8-edc75f860a02"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "a78930cb-133c-4601-9ac8-edc75f860a02"
+}

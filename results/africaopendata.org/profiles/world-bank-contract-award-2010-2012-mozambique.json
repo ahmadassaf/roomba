@@ -1,0 +1,108 @@
+{
+    "license_title": "Open Data Commons Attribution License 1.0",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-11-04T16:53:17.618707",
+    "id": "4f0559c3-2963-494f-9cca-fb20ebfcb86f",
+    "metadata_created": "2012-11-04T16:52:53.548473",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:58:35.540881",
+    "author": "World Bank (finance.worldbank.org)",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "ODC-BY-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "6fa59cb9-3688-45fe-9c7d-a0c6e8788377",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:58:35.540881",
+            "webstore_last_updated": "2013-10-10T10:58:35.430355",
+            "id": "f09a2242-1207-42bb-ab04-de136872a512",
+            "size": "80658",
+            "state": "active",
+            "hash": "290fbf2ad9652ddfaacbd32c0cd531e1483dd644",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Major_Contract_Awards_FY2010-12_-_Africa_Region-Mozambique.csv",
+            "created": "2012-11-04T16:53:06.564662",
+            "url": "http://africaopendata.org/storage/f/2012-11-04T16%3A53%3A00.411Z/major-contract-awards-fy2010-12-africa-region-mozambique.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:39:24.955907",
+            "position": 0,
+            "revision_id": "3ef38a2c-82c7-4df9-b752-0cecee4054d7",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Contracts",
+            "name": "Contracts",
+            "revision_timestamp": "2012-11-04T16:52:53.548473",
+            "state": "active",
+            "id": "c60bfb8e-35f5-487b-b481-b489447b7cef"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Mozambique",
+            "name": "Mozambique",
+            "revision_timestamp": "2012-11-04T16:52:53.548473",
+            "state": "active",
+            "id": "4bdda290-c43f-4a36-83b5-c298f623e95d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "World Bank",
+            "name": "World Bank",
+            "revision_timestamp": "2012-11-04T16:52:53.548473",
+            "state": "active",
+            "id": "ae91265e-0b5c-45a0-a96f-02cf356ec937"
+        }
+    ],
+    "tracking_summary": {
+        "total": 73,
+        "recent": 8
+    },
+    "groups": [
+        {
+            "title": "Mozambique",
+            "description": "Datasets related to the Republic of Mozambique",
+            "name": "mozambique",
+            "id": "e0d7f52a-54ad-4c58-9948-e6757f8ce27b"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "world-bank-contract-award-2010-2012-mozambique",
+    "isopen": true,
+    "url": null,
+    "notes": "This set of contract awards includes data on commitments against contracts that were reviewed by the Bank before they were awarded (prior-reviewed Bank-funded contracts) under IDA/IBRD investment projects and related Trust Funds. This dataset does not list all contracts awarded by the Bank, and should be viewed only as a guide to determine the distribution of major contract commitments among the Bank's member countries. \"Supplier Country\" represents place of supplier registration, which may or not be the supplier's actual country of origin. Information does not include awards to subcontractors nor account for cofinancing. The Procurement Policy and Services Group does not guarantee the data included in this publication and accepts no responsibility whatsoever for any consequences of its use. The World Bank complies with all sanctions applicable to World Bank transactions.\r\n",
+    "title": "World Bank Contract Award 2010-2012 - Mozambique",
+    "extras": [],
+    "license_url": "http://www.opendefinition.org/licenses/odc-by",
+    "organization": null,
+    "revision_id": "bb6090b4-0bae-4ff1-bf48-2310bfe202de",
+    "license_information": {
+        "domain_content": false,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Open Data Commons",
+        "status": "active"
+    }
+}

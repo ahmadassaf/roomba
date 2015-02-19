@@ -1,0 +1,116 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-07-12T13:25:16.292420",
+    "id": "363b5113-4430-43e9-acf4-70b6b7b5dbc4",
+    "metadata_created": "2013-07-12T13:24:58.395749",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:44:57.860921",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "196a72f1-5648-4e34-9d2b-cd648aa98f86",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:44:57.860921",
+            "webstore_last_updated": null,
+            "id": "1e094692-fee5-48e1-8c1c-5bd39a93a523",
+            "size": "151484",
+            "state": "active",
+            "hash": "de11555c30adc48e07440d6852284b86a0f6c9ff",
+            "description": "",
+            "format": "XLS",
+            "tracking_summary": {
+                "total": 31,
+                "recent": 2
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": null,
+            "created": "2013-07-12T13:25:11.883900",
+            "url": "http://www.education.gov.za/EMIS/EMISDownloads/tabid/466/Default.aspx",
+            "webstore_url": null,
+            "last_modified": "2013-10-10T10:44:57.801907",
+            "position": 0,
+            "revision_id": "3920b568-02ed-4682-80ea-b7bb97fe8f8c",
+            "resource_type": "file"
+        },
+        {
+            "resource_group_id": "196a72f1-5648-4e34-9d2b-cd648aa98f86",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-07-21T05:55:41.051534",
+            "webstore_last_updated": null,
+            "id": "faabdc2e-c272-4ce5-9a35-f26d36da8b8e",
+            "size": "27840155",
+            "state": "active",
+            "hash": "d0b60fd707e69c4278f676d1b1d799c19a92c5c7",
+            "description": "South Africa School Master List 2013",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 37,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "2013 MasterList_Q1_2013_Published_Ordinary Schools.csv",
+            "created": "2013-07-21T05:55:39.069976",
+            "url": "http://africaopendata.org/storage/f/2013-07-21T05%3A52%3A57.808Z/2013-masterlist-q1-2013-published-ordinary-schools.csv",
+            "webstore_url": null,
+            "last_modified": "2013-07-21T05:55:40.965299",
+            "position": 1,
+            "revision_id": "7af0e2b7-67f5-4681-8e9a-1439de914845",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "education",
+            "name": "education",
+            "revision_timestamp": "2013-07-12T13:24:58.395749",
+            "state": "active",
+            "id": "4bc98291-13cc-4baf-b090-52376fa3a429"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "schools",
+            "name": "schools",
+            "revision_timestamp": "2013-07-12T13:24:58.395749",
+            "state": "active",
+            "id": "79daea23-54f2-4724-94ee-be15d5dc4957"
+        }
+    ],
+    "tracking_summary": {
+        "total": 235,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "South Africa",
+            "description": "Datasets from South Africa",
+            "name": "south-africa",
+            "id": "fc691a3f-cfce-46d6-93a0-77bdccfec89d"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "schools-south-africa",
+    "isopen": false,
+    "url": null,
+    "notes": "Database of schools nationwide including coordinates",
+    "title": "Schools Masterlists",
+    "extras": [],
+    "organization": null,
+    "revision_id": "5c66b25a-a1f2-470b-add0-50204b1d04ea"
+}

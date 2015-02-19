@@ -1,0 +1,139 @@
+{
+    "missing": [
+        "organization"
+    ],
+    "undefined": [
+        "maintainer",
+        "maintainer_email",
+        "owner_org",
+        "author",
+        "author_email",
+        "version"
+    ],
+    "unreachableURLs": [
+        "MS"
+    ],
+    "report": [
+        "The url defined for this dataset is not reachable !",
+        "maintainer field exists but there is no value defined",
+        "maintainer_email field exists but there is no value defined",
+        "owner_org field exists but there is no value defined",
+        "author field exists but there is no value defined",
+        "author_email field exists but there is no value defined",
+        "organization information is missing",
+        "version field exists but there is no value defined"
+    ],
+    "tag": {
+        "africa": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "burkina-faso": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "distance": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "open-data": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "santé": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        }
+    },
+    "group": {
+        "Burkina Faso": {
+            "missing": [
+                "display_name",
+                "image_display_url"
+            ],
+            "undefined": [],
+            "unreachableURLs": [],
+            "report": [
+                "display_name field is missing",
+                "image_display_url field is missing"
+            ]
+        }
+    },
+    "license": {
+        "license": {
+            "missing": [
+                "license_url"
+            ],
+            "undefined": [],
+            "unreachableURLs": [],
+            "report": [
+                "license_url field is missing",
+                "We could not normalize the license information as no valid mapping was found !"
+            ]
+        }
+    },
+    "resource": {
+        "Pourcentage de la population en 2011": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "hash",
+                "description",
+                "mimetype_inner",
+                "cache_url",
+                "webstore_url",
+                "resource_type"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "description field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined",
+                "resource_type field exists but there is no value defined"
+            ]
+        }
+    },
+    "counter": {
+        "group": 1,
+        "tag": 5,
+        "resource": 1
+    }
+}

@@ -1,0 +1,179 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2013-12-19T14:44:51.603712",
+    "id": "71d8cf44-ce0f-4bf8-9ce5-62aad21dc702",
+    "metadata_created": "2013-12-19T14:44:51.603712",
+    "owner_org": null,
+    "metadata_modified": "2013-12-19T14:44:51.603712",
+    "author": "Bureau Monumenten en Archeologie (BMA)",
+    "author_email": "bma@bma.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "3e45ae78-5092-4171-910c-0e613a16fe5a",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-12-19T14:44:51.603712",
+            "webstore_last_updated": null,
+            "id": "1a3606d8-1bc2-425b-9142-55be0f1e4c46",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Data via maps.amsterdam.nl",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://maps.amsterdam.nl/open_geodata/",
+            "created": "2013-12-19T15:44:51.661112",
+            "url": "http://maps.amsterdam.nl/open_geodata/",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "e1e8a73b-ee48-4e69-81e4-1b57769f622c",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "architectuur",
+            "name": "architectuur",
+            "revision_timestamp": "2013-12-19T14:44:51.603712",
+            "state": "active",
+            "id": "0a73514a-56ac-41c0-9a9c-40ac0cf9049e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "gebouwen",
+            "name": "gebouwen",
+            "revision_timestamp": "2013-12-19T14:44:51.603712",
+            "state": "active",
+            "id": "2153d60d-eb7c-4590-a078-6c2c25cfc5c5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "stedenbouw",
+            "name": "stedenbouw",
+            "revision_timestamp": "2013-12-19T14:44:51.603712",
+            "state": "active",
+            "id": "1803e660-fb11-4046-8831-85716baec0ba"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "waardering",
+            "name": "waardering",
+            "revision_timestamp": "2013-12-19T14:44:51.603712",
+            "state": "active",
+            "id": "92ca3ffb-1674-409e-acd3-c1673c8ab461"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "welstand",
+            "name": "welstand",
+            "revision_timestamp": "2013-12-19T14:44:51.603712",
+            "state": "active",
+            "id": "91acf12d-5355-4e5e-9fa6-7e320cc622d1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Stedelijke ontwikkeling",
+            "description": "",
+            "name": "stedelijke-ontwikkeling",
+            "id": "0364e650-9355-4ad7-aa0a-8d87d809544e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "waardering_architectonische_en_stedenbouwkundige_kwaliteit_aup",
+    "isopen": true,
+    "url": null,
+    "notes": "De waarderingskaart voor de AUP-gebieden (Algemeen Uitbreidingsplan) geeft inzage in de stedenbouwkundige en architectonische waardering van alle panden uit de periode 1935-1965. Aan ieder pand is een orde toegekend, opklimmend van de laagste Basisorde naar de hoogste Orde 1. Vaak heeft bebouwing met een orde 1 - waardering de status van rijks- of gemeentelijk monument. De criteria die voor de verschillende ordewaarderingen zijn opgesteld vormen de basis voor welstandbeoordeling.\n\nDe AUP-gebieden omvatten Bos en Lommer, Nieuw West, Zuideramstel, Buitenveldert en  een deel van de Watergraafsmeer en Amsterdam Noord",
+    "title": "Waardering architectonische en stedenbouwkundige kwaliteit AUP",
+    "extras": [
+        {
+            "value": "j.vanderwerf@bma.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "71d8cf44-ce0f-4bf8-9ce5-62aad21dc702",
+                "revision_id": "e1e8a73b-ee48-4e69-81e4-1b57769f622c"
+            }
+        },
+        {
+            "value": "Jouke van der Werf",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "e1e8a73b-ee48-4e69-81e4-1b57769f622c",
+                "package_id": "71d8cf44-ce0f-4bf8-9ce5-62aad21dc702"
+            }
+        },
+        {
+            "value": "01/10/2013",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "e1e8a73b-ee48-4e69-81e4-1b57769f622c",
+                "package_id": "71d8cf44-ce0f-4bf8-9ce5-62aad21dc702"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "e1e8a73b-ee48-4e69-81e4-1b57769f622c",
+                "package_id": "71d8cf44-ce0f-4bf8-9ce5-62aad21dc702"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "71d8cf44-ce0f-4bf8-9ce5-62aad21dc702",
+                "revision_id": "e1e8a73b-ee48-4e69-81e4-1b57769f622c"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "71d8cf44-ce0f-4bf8-9ce5-62aad21dc702",
+                "revision_id": "e1e8a73b-ee48-4e69-81e4-1b57769f622c"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "e1e8a73b-ee48-4e69-81e4-1b57769f622c",
+                "package_id": "71d8cf44-ce0f-4bf8-9ce5-62aad21dc702"
+            }
+        },
+        {
+            "value": "http://www.amsterdam.nl/wonen-leefomgeving/bouwen-verbouwen/welstand-monumenten-0/welstand-monumenten",
+            "key": "website",
+            "__extras": {
+                "package_id": "71d8cf44-ce0f-4bf8-9ce5-62aad21dc702",
+                "revision_id": "e1e8a73b-ee48-4e69-81e4-1b57769f622c"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "e1e8a73b-ee48-4e69-81e4-1b57769f622c"
+}

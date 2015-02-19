@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Chris Metcalf",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T12:00:51.134767",
+    "id": "a4895ef5-d025-4c67-85cb-1ea355dc95eb",
+    "metadata_created": "2012-09-10T12:00:51.134767",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:16:12.583089",
+    "author": "Chris Metcalf",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "74c7b822-bac1-45ac-8809-e3ac5cb62fcc",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:16:12.583089",
+            "webstore_last_updated": "2013-10-10T12:16:12.512086",
+            "id": "5db738fd-113e-480b-921a-bc94b47c90f6",
+            "size": "7860",
+            "state": "active",
+            "hash": "413118cc831c7333206235bc3bed09bd1252c891",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Availability of Energy Sources, by County - 2009.csv",
+            "created": "2012-09-11T13:32:56.079972",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T153541/g9hi-bs9n.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:42:55.584315",
+            "position": 0,
+            "revision_id": "1f5c67aa-cc20-4e1d-835c-213920080c7d",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "energy",
+            "name": "energy",
+            "revision_timestamp": "2012-09-10T12:00:51.134767",
+            "state": "active",
+            "id": "442f266c-6f64-47c8-a2a9-8e135cba2940"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T12:00:51.134767",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T12:00:51.134767",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 54,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-g9hi-bs9n",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Source: Vol II Q 10 County",
+    "title": "Availability of Energy Sources, by County - 2009",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "6e9667ee-0f5d-4ed1-aae9-fa4533020265",
+                "package_id": "a4895ef5-d025-4c67-85cb-1ea355dc95eb"
+            }
+        },
+        {
+            "value": "Energy",
+            "key": "category",
+            "__extras": {
+                "revision_id": "6e9667ee-0f5d-4ed1-aae9-fa4533020265",
+                "package_id": "a4895ef5-d025-4c67-85cb-1ea355dc95eb"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "6e9667ee-0f5d-4ed1-aae9-fa4533020265",
+                "package_id": "a4895ef5-d025-4c67-85cb-1ea355dc95eb"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "6e9667ee-0f5d-4ed1-aae9-fa4533020265"
+}

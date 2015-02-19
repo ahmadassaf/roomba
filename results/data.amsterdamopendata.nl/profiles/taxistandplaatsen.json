@@ -1,0 +1,163 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Beheerder IVV",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "info@ivv.amsterdam.nl",
+    "revision_timestamp": "2014-10-22T14:47:40.825786",
+    "id": "39da4fbb-5797-4dfe-af65-b951e387b5d5",
+    "metadata_created": "2013-05-16T10:31:36.953765",
+    "owner_org": null,
+    "metadata_modified": "2014-12-29T10:59:00.402543",
+    "author": "Dienst IVV",
+    "author_email": "info@ivv.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "c354d6a6-7700-4d54-89bf-7d4b23c9b56a",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-29T10:59:00.402543",
+            "webstore_last_updated": null,
+            "id": "6af47890-f6d5-47fd-9735-e224875a228a",
+            "size": "43193",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Locaties (JSON)",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "http://www.amsterdamopendata.nl/files/ivv/parkeren/locaties.json",
+            "created": "2014-10-22T16:47:40.887296",
+            "url": "http://www.amsterdamopendata.nl/files/ivv/parkeren/locaties.json",
+            "webstore_url": null,
+            "last_modified": "2014-12-29T11:13:59",
+            "position": 0,
+            "revision_id": "82ca343e-c1bc-4c7c-ad6f-beff0cfe90a4",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "taxi",
+            "name": "taxi",
+            "revision_timestamp": "2013-05-16T10:31:36.953765",
+            "state": "active",
+            "id": "4df5629e-555f-41d3-bc03-03069376e44e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "taxistandplaatsen",
+            "name": "taxistandplaatsen",
+            "revision_timestamp": "2013-05-16T10:31:36.953765",
+            "state": "active",
+            "id": "0b84db64-01c0-4585-a504-a874563a1fe7"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "vervoer",
+            "name": "vervoer",
+            "revision_timestamp": "2013-06-19T10:19:09.518997",
+            "state": "active",
+            "id": "8ec4f7ba-b671-4bdd-8a46-8b442e0f3ba6"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Verkeer & Infrastructuur",
+            "description": "",
+            "name": "verkeer-infrastructuur",
+            "id": "12502584-9d7d-4bdc-bf5f-df2b0d85f4f6"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "taxistandplaatsen",
+    "isopen": false,
+    "url": null,
+    "notes": "In onderstaand JSON-bestand zijn de taxistandplaatsen in Amsterdam opgenomen, als  parkeerlocaties met type \"Taxistandplaats\"\n",
+    "title": "Taxistandplaatsen",
+    "extras": [
+        {
+            "value": "info@ivv.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "39da4fbb-5797-4dfe-af65-b951e387b5d5",
+                "revision_id": "0da18bd3-f194-4079-b077-d3fb324d3616"
+            }
+        },
+        {
+            "value": "Dienst IVV",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "0da18bd3-f194-4079-b077-d3fb324d3616",
+                "package_id": "39da4fbb-5797-4dfe-af65-b951e387b5d5"
+            }
+        },
+        {
+            "value": "29/12/2014",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "82ca343e-c1bc-4c7c-ad6f-beff0cfe90a4",
+                "package_id": "39da4fbb-5797-4dfe-af65-b951e387b5d5"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "0da18bd3-f194-4079-b077-d3fb324d3616",
+                "package_id": "39da4fbb-5797-4dfe-af65-b951e387b5d5"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "39da4fbb-5797-4dfe-af65-b951e387b5d5",
+                "revision_id": "0da18bd3-f194-4079-b077-d3fb324d3616"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "39da4fbb-5797-4dfe-af65-b951e387b5d5",
+                "revision_id": "0da18bd3-f194-4079-b077-d3fb324d3616"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "0da18bd3-f194-4079-b077-d3fb324d3616",
+                "package_id": "39da4fbb-5797-4dfe-af65-b951e387b5d5"
+            }
+        },
+        {
+            "value": "http://www.amsterdam.nl/opendatadivv",
+            "key": "website",
+            "__extras": {
+                "package_id": "39da4fbb-5797-4dfe-af65-b951e387b5d5",
+                "revision_id": "0da18bd3-f194-4079-b077-d3fb324d3616"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "ba0be9c8-1b20-401e-82f0-9c5672fd6211"
+}

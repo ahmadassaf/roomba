@@ -1,0 +1,187 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2013-12-19T14:59:02.551760",
+    "id": "9fbd8b83-c888-474c-86ce-524b53686d78",
+    "metadata_created": "2013-12-19T14:59:02.551760",
+    "owner_org": null,
+    "metadata_modified": "2013-12-19T14:59:02.551760",
+    "author": "Dienst Infrastructuur Verkeer en Vervoer",
+    "author_email": "info@ivv.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "be0b602f-2f7b-47e1-a17f-915d1dcd848a",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-12-19T14:59:02.551760",
+            "webstore_last_updated": null,
+            "id": "b371b61a-f122-423b-a2a6-f2cb7947755d",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Data via maps.amsterdam.nl",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://maps.amsterdam.nl/open_geodata/",
+            "created": "2013-12-19T15:59:02.629263",
+            "url": "http://maps.amsterdam.nl/open_geodata/",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "ebe4271a-4820-4070-8d46-adca337c446b",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Auto",
+            "name": "Auto",
+            "revision_timestamp": "2013-12-19T14:59:02.551760",
+            "state": "active",
+            "id": "735373f6-da83-4d4e-a0dc-19ab72e968fd"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "DIVV",
+            "name": "DIVV",
+            "revision_timestamp": "2013-12-19T14:59:02.551760",
+            "state": "active",
+            "id": "bdc9ef03-bf16-4325-b444-394c4cdf62ef"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Fiets",
+            "name": "Fiets",
+            "revision_timestamp": "2013-12-19T14:59:02.551760",
+            "state": "active",
+            "id": "898dd73e-cddd-4da1-8f7c-72449e0cfeab"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Infrastructuur",
+            "name": "Infrastructuur",
+            "revision_timestamp": "2013-12-19T14:59:02.551760",
+            "state": "active",
+            "id": "8cb02a72-16d2-4382-abeb-b796ce84ee2c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Plusnet",
+            "name": "Plusnet",
+            "revision_timestamp": "2013-12-19T14:59:02.551760",
+            "state": "active",
+            "id": "95ae6460-e7c2-464c-a7ee-c70105fdb6c0"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Voetganger",
+            "name": "Voetganger",
+            "revision_timestamp": "2013-12-19T14:59:02.551760",
+            "state": "active",
+            "id": "cdb2896a-fdbe-4192-b7ef-bdcdd9030879"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Verkeer & Infrastructuur",
+            "description": "",
+            "name": "verkeer-infrastructuur",
+            "id": "12502584-9d7d-4bdc-bf5f-df2b0d85f4f6"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "plusnetten_infrastructuur",
+    "isopen": true,
+    "url": null,
+    "notes": "Met het benoemen van plusnetten laat Amsterdam zien waar welke vervoerwijze het meeste prioriteit verdiend. De visiekaart plusnetten is bedoeld om bij herinrichtingsplannen in straten de prioriteiten vast te stellen in het verdelen van de ruimte voor de verschillende vervoerwijzen. Ook bij het instellen van verkeersregelinstallaties zijn de plusnetten bepalend bij het geven van voorrang. De beoogde werkwijze bij het toepassen van plusnetprincipes staat nader beschreven in de MobiliteitsAanpak Amsterdam.\n\nDe Plusnetten zijn vastgesteld door de Gemeenteraad op 13-06-2013",
+    "title": "Plusnetten Infrastructuur",
+    "extras": [
+        {
+            "value": "f.kuik@ivv.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "9fbd8b83-c888-474c-86ce-524b53686d78",
+                "revision_id": "ebe4271a-4820-4070-8d46-adca337c446b"
+            }
+        },
+        {
+            "value": "Fokko Kuik",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "ebe4271a-4820-4070-8d46-adca337c446b",
+                "package_id": "9fbd8b83-c888-474c-86ce-524b53686d78"
+            }
+        },
+        {
+            "value": "13/06/2013",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "ebe4271a-4820-4070-8d46-adca337c446b",
+                "package_id": "9fbd8b83-c888-474c-86ce-524b53686d78"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "ebe4271a-4820-4070-8d46-adca337c446b",
+                "package_id": "9fbd8b83-c888-474c-86ce-524b53686d78"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "9fbd8b83-c888-474c-86ce-524b53686d78",
+                "revision_id": "ebe4271a-4820-4070-8d46-adca337c446b"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "9fbd8b83-c888-474c-86ce-524b53686d78",
+                "revision_id": "ebe4271a-4820-4070-8d46-adca337c446b"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "ebe4271a-4820-4070-8d46-adca337c446b",
+                "package_id": "9fbd8b83-c888-474c-86ce-524b53686d78"
+            }
+        },
+        {
+            "value": "http://maps.amsterdam.nl/plusnet/",
+            "key": "website",
+            "__extras": {
+                "package_id": "9fbd8b83-c888-474c-86ce-524b53686d78",
+                "revision_id": "ebe4271a-4820-4070-8d46-adca337c446b"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "ebe4271a-4820-4070-8d46-adca337c446b"
+}

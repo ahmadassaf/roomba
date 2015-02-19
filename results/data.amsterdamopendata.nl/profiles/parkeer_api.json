@@ -1,0 +1,195 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2014-02-06T13:06:02.309311",
+    "id": "f16030b9-e492-4087-9135-de61bc660f8f",
+    "metadata_created": "2014-02-06T13:06:02.309311",
+    "owner_org": null,
+    "metadata_modified": "2014-02-06T13:06:02.309311",
+    "author": "Dienst IVV",
+    "author_email": "info@ivv.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "b23f7354-7ea8-442a-b63d-3698f9c0e847",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-02-06T13:06:02.309311",
+            "webstore_last_updated": null,
+            "id": "1294be0b-d784-4b14-8576-59e8d40f464b",
+            "size": "5176",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "API",
+            "format": "url",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://divvapi.parkshark.nl/",
+            "created": "2014-02-06T14:06:03.925626",
+            "url": "http://divvapi.parkshark.nl/",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "17f1a2f2-2e37-455a-beb1-7d669c3e4bd2",
+            "resource_type": "api",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "API",
+            "name": "API",
+            "revision_timestamp": "2014-02-06T13:06:02.309311",
+            "state": "active",
+            "id": "9078a2ff-6a1e-4d92-a59b-3e077f9e3994"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "OV",
+            "name": "OV",
+            "revision_timestamp": "2014-02-06T13:06:02.309311",
+            "state": "active",
+            "id": "8a112ba3-a9b6-4158-b3d3-c43ab45a1662"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "PR",
+            "name": "PR",
+            "revision_timestamp": "2014-02-06T13:06:02.309311",
+            "state": "active",
+            "id": "91d7433c-c675-4f69-a119-9becdf80bf43"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Parkeren",
+            "name": "Parkeren",
+            "revision_timestamp": "2014-02-06T13:06:02.309311",
+            "state": "active",
+            "id": "196085d2-4182-4fc2-bb82-1382397486f5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kosten",
+            "name": "kosten",
+            "revision_timestamp": "2014-02-06T13:06:02.309311",
+            "state": "active",
+            "id": "39b82176-3d44-4048-987b-4658e920809c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "parkeergarages",
+            "name": "parkeergarages",
+            "revision_timestamp": "2014-02-06T13:06:02.309311",
+            "state": "active",
+            "id": "8f842fb7-396a-48a6-ac2c-9f0812ed5863"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "reistijden",
+            "name": "reistijden",
+            "revision_timestamp": "2014-02-06T13:06:02.309311",
+            "state": "active",
+            "id": "20706c64-b7aa-4a4e-8df7-277540b7e6b5"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Verkeer & Infrastructuur",
+            "description": "",
+            "name": "verkeer-infrastructuur",
+            "id": "12502584-9d7d-4bdc-bf5f-df2b0d85f4f6"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 7,
+    "name": "parkeer_api",
+    "isopen": false,
+    "url": null,
+    "notes": "Dienst IVV heeft een Parkeer API laten realiseren om open parkeerdata zo toegankelijk en\neenvoudig mogelijk aan te bieden. Met de Parkeer API kan aan de hand van locatie,\ntijdstip en duur de beste selectie van parkeermogelijkheden (op straat, in parkeergarages\nen op P+Rs) en bijbehorende parkeerkans, kosten en reistijden opgevraagd worden.",
+    "title": "Parkeer API",
+    "extras": [
+        {
+            "value": "info@ivv.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "f16030b9-e492-4087-9135-de61bc660f8f",
+                "revision_id": "17f1a2f2-2e37-455a-beb1-7d669c3e4bd2"
+            }
+        },
+        {
+            "value": "Dienst IVV",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "17f1a2f2-2e37-455a-beb1-7d669c3e4bd2",
+                "package_id": "f16030b9-e492-4087-9135-de61bc660f8f"
+            }
+        },
+        {
+            "value": "13/12/2013",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "17f1a2f2-2e37-455a-beb1-7d669c3e4bd2",
+                "package_id": "f16030b9-e492-4087-9135-de61bc660f8f"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "17f1a2f2-2e37-455a-beb1-7d669c3e4bd2",
+                "package_id": "f16030b9-e492-4087-9135-de61bc660f8f"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "f16030b9-e492-4087-9135-de61bc660f8f",
+                "revision_id": "17f1a2f2-2e37-455a-beb1-7d669c3e4bd2"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "f16030b9-e492-4087-9135-de61bc660f8f",
+                "revision_id": "17f1a2f2-2e37-455a-beb1-7d669c3e4bd2"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "17f1a2f2-2e37-455a-beb1-7d669c3e4bd2",
+                "package_id": "f16030b9-e492-4087-9135-de61bc660f8f"
+            }
+        },
+        {
+            "value": "http://www.amsterdam.nl/opendatadivv",
+            "key": "website",
+            "__extras": {
+                "package_id": "f16030b9-e492-4087-9135-de61bc660f8f",
+                "revision_id": "17f1a2f2-2e37-455a-beb1-7d669c3e4bd2"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "17f1a2f2-2e37-455a-beb1-7d669c3e4bd2"
+}

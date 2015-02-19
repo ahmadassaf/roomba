@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:47:59.838984",
+    "id": "f8785564-1a52-448f-92be-b65d09c00654",
+    "metadata_created": "2012-09-11T13:47:59.838984",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:10:44.893958",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "58f27c2c-8844-4227-ac78-ea79c8c020b6",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:10:44.893958",
+            "webstore_last_updated": "2013-10-10T12:10:44.822584",
+            "id": "719e4b7d-4455-4235-b222-a442d58a1af7",
+            "size": "596",
+            "state": "active",
+            "hash": "63df7f4ecad822d0927fafde7a23723760fe748d",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "IMF GDP Per Capita Projections for Kenya, 2000-2016.csv",
+            "created": "2012-09-11T13:47:59.876887",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155044/4hsc-pt27.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T10:43:57.137731",
+            "position": 0,
+            "revision_id": "f2b6e123-2bdf-482b-aa82-0a2171db3ee9",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "gdp per capita imf projections",
+            "name": "gdp per capita imf projections",
+            "revision_timestamp": "2012-09-11T13:47:59.838984",
+            "state": "active",
+            "id": "9e046d71-0cbf-4dd3-9e2e-22149b10bcbd"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:47:59.838984",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:47:59.838984",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 130,
+        "recent": 3
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-4hsc-pt27",
+    "isopen": true,
+    "url": null,
+    "notes": "International Monetary Fund, World Economic Outlook GDP per Capita projections 2000-2016",
+    "title": "IMF GDP Per Capita Projections for Kenya, 2000-2016",
+    "extras": [
+        {
+            "value": "IMF",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "2bdd49cf-d2aa-4cde-aba2-4f955c78e6c5",
+                "package_id": "f8785564-1a52-448f-92be-b65d09c00654"
+            }
+        },
+        {
+            "value": "    Environment And Natural Resources",
+            "key": "category",
+            "__extras": {
+                "revision_id": "2bdd49cf-d2aa-4cde-aba2-4f955c78e6c5",
+                "package_id": "f8785564-1a52-448f-92be-b65d09c00654"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "2bdd49cf-d2aa-4cde-aba2-4f955c78e6c5",
+                "package_id": "f8785564-1a52-448f-92be-b65d09c00654"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "2bdd49cf-d2aa-4cde-aba2-4f955c78e6c5"
+}

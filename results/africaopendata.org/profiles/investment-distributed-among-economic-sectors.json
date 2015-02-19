@@ -1,0 +1,97 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-10-15T14:42:54.626114",
+    "id": "10b52ecf-64a5-48ca-b695-d8e25d56b119",
+    "metadata_created": "2012-10-15T14:41:17.917455",
+    "owner_org": null,
+    "metadata_modified": "2013-03-14T08:26:31.543105",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "180f768f-cc1b-47a6-b13a-2a075d3bafcc",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-14T08:26:31.543105",
+            "webstore_last_updated": null,
+            "id": "67bdc96c-1ede-4984-a2c2-e3bce505aaa6",
+            "size": "60928",
+            "state": "active",
+            "hash": "3fdf7916fb80a3d48ef2c4336380d39147f7dad6",
+            "description": "",
+            "format": "XLS",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/vnd.ms-excel",
+            "cache_url": null,
+            "name": "Investment per sector.xls",
+            "created": "2012-10-15T14:42:17.209788",
+            "url": "http://africaopendata.org/storage/f/2012-10-15T14%3A41%3A43.168Z/investment-per-sector-a-e.xls",
+            "webstore_url": null,
+            "last_modified": "2013-03-14T08:26:31.427504",
+            "position": 0,
+            "revision_id": "8ff73d3a-e26f-47cc-b223-da951be7f3e3",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "capital",
+            "name": "capital",
+            "revision_timestamp": "2012-10-15T14:41:17.917455",
+            "state": "active",
+            "id": "09485bfd-9a2a-4202-ac67-be26688e34cc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "economic sectors",
+            "name": "economic sectors",
+            "revision_timestamp": "2012-10-15T14:41:17.917455",
+            "state": "active",
+            "id": "422c5b56-2bfb-497f-8e02-123afb438c98"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "investment",
+            "name": "investment",
+            "revision_timestamp": "2012-10-15T14:41:17.917455",
+            "state": "active",
+            "id": "4fb93c4c-3d23-4224-a561-525c881086ff"
+        }
+    ],
+    "tracking_summary": {
+        "total": 76,
+        "recent": 5
+    },
+    "groups": [
+        {
+            "title": "Egypt",
+            "description": "Datasets from Egypt",
+            "name": "egypt",
+            "id": "aaef0860-b732-4657-a245-de4f0c1de84d"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "investment-distributed-among-economic-sectors",
+    "isopen": false,
+    "url": null,
+    "notes": "Amount of Capital invested into different economic sectors from 1982-2012",
+    "title": "Investment Distributed Among Economic Sectors",
+    "extras": [],
+    "organization": null,
+    "revision_id": "23da7f7b-7505-4c49-a049-26e7dca2b6e8"
+}

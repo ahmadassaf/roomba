@@ -1,0 +1,108 @@
+{
+    "license_title": "Open Data Commons Attribution License 1.0",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-11-04T17:42:07.728088",
+    "id": "d47301be-4701-4ae6-b695-467b3b4e7483",
+    "metadata_created": "2012-11-04T17:41:50.291455",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:58:10.380592",
+    "author": "World Bank (finance.worldbank.org)",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "ODC-BY-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "11167d60-35e1-4198-ad57-a555f137ee59",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:58:10.380592",
+            "webstore_last_updated": "2013-10-10T10:58:10.312889",
+            "id": "ab680651-2ff8-4254-b8f3-14e941625f89",
+            "size": "1333",
+            "state": "active",
+            "hash": "fed3d9d92fe0ed7048d1516afe70cd533921b91f",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Major_Contract_Awards_FY2010-12_-_Africa_Region-Gambia.csv",
+            "created": "2012-11-04T17:41:59.910503",
+            "url": "http://africaopendata.org/storage/f/2012-11-04T17%3A41%3A54.566Z/major-contract-awards-fy2010-12-africa-region-gambia.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:50:30.230290",
+            "position": 0,
+            "revision_id": "e267e2be-fd11-4457-80e0-a53e59fe09b3",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Contracts",
+            "name": "Contracts",
+            "revision_timestamp": "2012-11-04T17:41:50.291455",
+            "state": "active",
+            "id": "c60bfb8e-35f5-487b-b481-b489447b7cef"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Gambia",
+            "name": "Gambia",
+            "revision_timestamp": "2012-11-04T17:41:50.291455",
+            "state": "active",
+            "id": "fae0007a-c246-473e-b0d5-94756579a106"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "World Bank",
+            "name": "World Bank",
+            "revision_timestamp": "2012-11-04T17:41:50.291455",
+            "state": "active",
+            "id": "ae91265e-0b5c-45a0-a96f-02cf356ec937"
+        }
+    ],
+    "tracking_summary": {
+        "total": 83,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Gambia",
+            "description": "Data Sets Related to the Republic of Gambia",
+            "name": "gambia",
+            "id": "98313a6c-f73b-4279-9959-5d48c2b53c3e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "world-bank-contract-award-2010-2012-gambia",
+    "isopen": true,
+    "url": null,
+    "notes": "This set of contract awards includes data on commitments against contracts that were reviewed by the Bank before they were awarded (prior-reviewed Bank-funded contracts) under IDA/IBRD investment projects and related Trust Funds. This dataset does not list all contracts awarded by the Bank, and should be viewed only as a guide to determine the distribution of major contract commitments among the Bank's member countries. \"Supplier Country\" represents place of supplier registration, which may or not be the supplier's actual country of origin. Information does not include awards to subcontractors nor account for cofinancing. The Procurement Policy and Services Group does not guarantee the data included in this publication and accepts no responsibility whatsoever for any consequences of its use. The World Bank complies with all sanctions applicable to World Bank transactions.\r\n",
+    "title": "World Bank Contract Award 2010-2012 - Gambia",
+    "extras": [],
+    "license_url": "http://www.opendefinition.org/licenses/odc-by",
+    "organization": null,
+    "revision_id": "90045055-404c-49fa-8906-a857455c993e",
+    "license_information": {
+        "domain_content": false,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Open Data Commons",
+        "status": "active"
+    }
+}

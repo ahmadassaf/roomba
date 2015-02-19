@@ -1,0 +1,97 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-11-06T06:01:23.173172",
+    "id": "234c872c-abec-492a-abd7-f9a51be515e0",
+    "metadata_created": "2012-11-06T05:59:44.707758",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:56:56.706257",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "a36d1eeb-553d-4c7f-99d5-95010321e30b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:56:56.706257",
+            "webstore_last_updated": "2013-10-10T10:56:56.644833",
+            "id": "92cbfda3-1deb-4d06-8bb8-e15e614d3452",
+            "size": "213092",
+            "state": "active",
+            "hash": "68e5e5d4dcdfd13a3436cca328304ff791f0fb7d",
+            "description": "The International Bank for Reconstruction and Development (IBRD) loans are public and publicly guaranteed debt extended by the World Bank Group. IBRD loans are made to, or guaranteed by, countries that are members of IBRD. IBRD may also make loans to IFC. IBRD lends at market rates. Data are in U.S. dollars calculated using historical rates. This dataset contains the latest available snapshot of the Statement of Loans. The World Bank complies with all sanctions applicable to World Bank transactions.",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "IBRD_Loans_malawi.csv",
+            "created": "2012-11-06T06:01:17.014622",
+            "url": "http://africaopendata.org/storage/f/2012-11-06T06%3A00%3A45.217Z/ibrd-loans-malawi.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:30:44.137551",
+            "position": 0,
+            "revision_id": "8570a6cd-3a50-41d2-a5ed-227b8693420f",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Malawi",
+            "name": "Malawi",
+            "revision_timestamp": "2012-11-06T05:59:44.707758",
+            "state": "active",
+            "id": "563d5267-b87a-4c04-b901-a841e71ea9a6"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "finance",
+            "name": "finance",
+            "revision_timestamp": "2012-11-06T05:59:44.707758",
+            "state": "active",
+            "id": "03e21f21-04d8-4e9f-aa27-cd50d0b59c7c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "loans",
+            "name": "loans",
+            "revision_timestamp": "2012-11-06T05:59:44.707758",
+            "state": "active",
+            "id": "ab029346-93af-48b5-b680-6fedfc8b0fb3"
+        }
+    ],
+    "tracking_summary": {
+        "total": 56,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Malawi",
+            "description": "Datasets from the Republic of Malawi",
+            "name": "malawi",
+            "id": "e599803f-e43a-43c4-af6c-40b55a56f2ad"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "malawi-international-bank-for-reconstruction-and-development-ibrd-loans",
+    "isopen": true,
+    "url": null,
+    "notes": "The International Bank for Reconstruction and Development (IBRD) loans are public and publicly guaranteed debt extended by the World Bank Group. IBRD loans are made to, or guaranteed by, countries that are members of IBRD. IBRD may also make loans to IFC. IBRD lends at market rates. Data are in U.S. dollars calculated using historical rates. This dataset contains the latest available snapshot of the Statement of Loans. The World Bank complies with all sanctions applicable to World Bank transactions.",
+    "title": "Malawi -International Bank for Reconstruction and Development (IBRD) loans",
+    "extras": [],
+    "organization": null,
+    "revision_id": "597ce596-bd56-49fc-be3d-d1f0cbc920e5"
+}

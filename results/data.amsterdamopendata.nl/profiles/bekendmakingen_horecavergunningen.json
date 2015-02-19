@@ -1,0 +1,174 @@
+{
+    "license_title": "Creative Commons Attribution 4.0",
+    "maintainer": "Ton Zijlstra",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "tzijlstra@centrum.amsterdam.nl",
+    "revision_timestamp": "2014-10-22T07:34:14.691975",
+    "id": "4b3852b3-0525-4968-846b-2c69e5a5e552",
+    "metadata_created": "2014-10-22T07:34:14.691975",
+    "owner_org": null,
+    "metadata_modified": "2014-10-22T07:34:14.691975",
+    "author": "Stadsdeel Centrum",
+    "author_email": "m.schoneveld@amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "5c3875cf-6117-4987-89be-747e92e0341c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-10-22T07:34:14.691975",
+            "webstore_last_updated": null,
+            "id": "45b9ac18-4add-4251-893e-3fffc39b41cc",
+            "size": "29838",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Bekendmakingen horecavergunningen met link naar bekendmaking",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "bekendmakingen_horecavergunningen.csv",
+            "created": "2014-10-22T09:34:16.026958",
+            "url": "http://www.amsterdamopendata.nl/documents/10180/38976/bekendmakingen_horecavergunningen.csv",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "d1f5f796-c4f0-4982-b1cb-ef5bf796f6fa",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "bekendmakingen",
+            "name": "bekendmakingen",
+            "revision_timestamp": "2014-10-22T07:34:14.691975",
+            "state": "active",
+            "id": "59c702e3-10c7-482b-9794-f062cdda8a85"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "horeca",
+            "name": "horeca",
+            "revision_timestamp": "2014-10-22T07:34:14.691975",
+            "state": "active",
+            "id": "c61daa0c-bc8f-4e68-a5f0-fb3eaba80128"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "vergunningen",
+            "name": "vergunningen",
+            "revision_timestamp": "2014-10-22T07:34:14.691975",
+            "state": "active",
+            "id": "9da87db4-896c-48c4-8d51-ba2c69fd41bb"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Economie & Haven",
+            "description": "",
+            "name": "economie-haven",
+            "id": "0436932a-66f0-480b-9c68-ef542dcc7a09"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "bekendmakingen_horecavergunningen",
+    "isopen": false,
+    "url": null,
+    "notes": "Bekendmakingen van 24 wijzigingen en aanvragen van horecavergunningen over de periode 19 juni 2013-22 augustus 2013. Eenmalige testpublicatie. ",
+    "title": "Bekendmakingen Horecavergunningen",
+    "extras": [
+        {
+            "value": "m.schoneveld@amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "4b3852b3-0525-4968-846b-2c69e5a5e552",
+                "revision_id": "d1f5f796-c4f0-4982-b1cb-ef5bf796f6fa"
+            }
+        },
+        {
+            "value": "Marc Schoneveld",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "d1f5f796-c4f0-4982-b1cb-ef5bf796f6fa",
+                "package_id": "4b3852b3-0525-4968-846b-2c69e5a5e552"
+            }
+        },
+        {
+            "value": "22/08/2013",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "d1f5f796-c4f0-4982-b1cb-ef5bf796f6fa",
+                "package_id": "4b3852b3-0525-4968-846b-2c69e5a5e552"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "d1f5f796-c4f0-4982-b1cb-ef5bf796f6fa",
+                "package_id": "4b3852b3-0525-4968-846b-2c69e5a5e552"
+            }
+        },
+        {
+            "value": "19/06/2013",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "4b3852b3-0525-4968-846b-2c69e5a5e552",
+                "revision_id": "d1f5f796-c4f0-4982-b1cb-ef5bf796f6fa"
+            }
+        },
+        {
+            "value": "22/08/2013",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "4b3852b3-0525-4968-846b-2c69e5a5e552",
+                "revision_id": "d1f5f796-c4f0-4982-b1cb-ef5bf796f6fa"
+            }
+        },
+        {
+            "value": "Geen updates",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "d1f5f796-c4f0-4982-b1cb-ef5bf796f6fa",
+                "package_id": "4b3852b3-0525-4968-846b-2c69e5a5e552"
+            }
+        },
+        {
+            "value": "",
+            "key": "website",
+            "__extras": {
+                "package_id": "4b3852b3-0525-4968-846b-2c69e5a5e552",
+                "revision_id": "d1f5f796-c4f0-4982-b1cb-ef5bf796f6fa"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "d1f5f796-c4f0-4982-b1cb-ef5bf796f6fa",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

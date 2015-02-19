@@ -1,0 +1,114 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Laban",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T14:01:34.805338",
+    "id": "d9b5e4d1-d495-417f-9989-7d059b0f3712",
+    "metadata_created": "2012-09-11T14:01:34.805338",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T11:56:57.899564",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "c7db013c-180c-4051-976a-355febefed85",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T11:56:57.899564",
+            "webstore_last_updated": "2013-10-10T11:56:57.828749",
+            "id": "13a44597-1994-4fb3-b534-b7d0d276c1c5",
+            "size": "93100",
+            "state": "active",
+            "hash": "7445312257fc093350d928c0cd4f31c0e0438b84",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Kaya kulingana na aina ya paa la makazi makuu na Wilaya.csv",
+            "created": "2012-09-11T14:01:34.840448",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T160419/8kt5-3sd4.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T10:41:52.333257",
+            "position": 0,
+            "revision_id": "6da24617-53cb-4f8d-bc11-5fa34d6ccd26",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T14:01:34.805338",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T14:01:34.805338",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 70,
+        "recent": 8
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "kodi-8kt5-3sd4",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "2009 Census: Households by main type of roofing material for the main dwelling unit, Swahili Version by District",
+    "title": "Kaya kulingana na aina ya paa la makazi makuu na Wilaya",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "a8b285d5-1333-459a-ac54-5335f52288f6",
+                "package_id": "d9b5e4d1-d495-417f-9989-7d059b0f3712"
+            }
+        },
+        {
+            "value": "Housing",
+            "key": "category",
+            "__extras": {
+                "revision_id": "a8b285d5-1333-459a-ac54-5335f52288f6",
+                "package_id": "d9b5e4d1-d495-417f-9989-7d059b0f3712"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "a8b285d5-1333-459a-ac54-5335f52288f6",
+                "package_id": "d9b5e4d1-d495-417f-9989-7d059b0f3712"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "a8b285d5-1333-459a-ac54-5335f52288f6"
+}

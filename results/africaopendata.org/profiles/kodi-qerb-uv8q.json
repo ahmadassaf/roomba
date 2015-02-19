@@ -1,0 +1,114 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Laban",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T11:59:54.608759",
+    "id": "97b0cba0-5b1e-49a7-a530-abbb9a8bf083",
+    "metadata_created": "2012-09-10T11:59:54.608759",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:16:45.591004",
+    "author": "Laban",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "53f15abd-bcfd-4adc-9ef7-0b1ef2b75b42",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:16:45.591004",
+            "webstore_last_updated": "2013-10-10T12:16:45.513927",
+            "id": "64fe95a3-cfcb-4407-b44d-b57d0f409001",
+            "size": "1431234",
+            "state": "active",
+            "hash": "e6d2cd1993d3750bc9f6bbd20df48d8cd97c29a3",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Kenya Secondary Schools.csv",
+            "created": "2012-09-11T13:31:38.076752",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T153422/qerb-uv8q.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:09:01.579510",
+            "position": 0,
+            "revision_id": "65e38de0-407d-49bd-bbdf-288af1c3956a",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T11:59:54.608759",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T11:59:54.608759",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 48,
+        "recent": 4
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "kodi-qerb-uv8q",
+    "isopen": true,
+    "url": "http://www.education.go.ke/",
+    "notes": null,
+    "title": "Kenya Secondary Schools",
+    "extras": [
+        {
+            "value": "Ministry of Education",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "b88dc8f0-fa39-4fc7-a07f-44db0c4eb63c",
+                "package_id": "97b0cba0-5b1e-49a7-a530-abbb9a8bf083"
+            }
+        },
+        {
+            "value": "Education",
+            "key": "category",
+            "__extras": {
+                "revision_id": "b88dc8f0-fa39-4fc7-a07f-44db0c4eb63c",
+                "package_id": "97b0cba0-5b1e-49a7-a530-abbb9a8bf083"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "b88dc8f0-fa39-4fc7-a07f-44db0c4eb63c",
+                "package_id": "97b0cba0-5b1e-49a7-a530-abbb9a8bf083"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "b88dc8f0-fa39-4fc7-a07f-44db0c4eb63c"
+}

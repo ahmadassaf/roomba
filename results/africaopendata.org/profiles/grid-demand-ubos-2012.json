@@ -1,0 +1,675 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:31:25.795168",
+    "id": "d82cac74-4331-4529-893a-554937d9bb0e",
+    "metadata_created": "2014-11-04T22:31:25.795168",
+    "owner_org": null,
+    "metadata_modified": "2014-11-05T04:26:13.617881",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "0de47491-a849-4749-b0ae-c5f260380f7f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-05T04:26:13.617881",
+            "webstore_last_updated": null,
+            "id": "53dc5e5f-3a2a-46d0-882b-40d32cf9b6e3",
+            "size": "54208",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "99aed6fb589b0a7cdadf8905a01f63d00a4f0fab",
+            "description": "Online link to the 'Grid Demand Ubos 2012' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:51:36.759218",
+            "url": "http://maps.data.ug/layers/geonode:grid_demand_ubos_2012",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T04:26:13.460707",
+            "position": 0,
+            "revision_id": "869fdf2e-0375-478d-91e5-51095f740acf",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "0de47491-a849-4749-b0ae-c5f260380f7f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:25.795168",
+            "webstore_last_updated": null,
+            "id": "79b4f13c-9908-4819-9873-183f66b73c49",
+            "size": "500",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Grid Demand Ubos 2012 (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "grid_demand_ubos_2012.jpg",
+            "created": "2014-03-12T14:51:36.759238",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Agrid_demand_ubos_2012&width=522&bbox=29.5732108503346%2C-1.48141411608448%2C34.9995330304452%2C4.23162219179938&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "13fa7aa8-2b1c-41db-83fc-688995aaf914",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "0de47491-a849-4749-b0ae-c5f260380f7f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:25.795168",
+            "webstore_last_updated": null,
+            "id": "ab6d3ca0-c3cd-4210-905c-a4b8b2cf690d",
+            "size": "500",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Grid Demand Ubos 2012 (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "grid_demand_ubos_2012.pdf",
+            "created": "2014-03-12T14:51:36.759243",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Agrid_demand_ubos_2012&width=522&bbox=29.5732108503346%2C-1.48141411608448%2C34.9995330304452%2C4.23162219179938&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:56:39.865851",
+            "position": 2,
+            "revision_id": "13fa7aa8-2b1c-41db-83fc-688995aaf914",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "0de47491-a849-4749-b0ae-c5f260380f7f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:25.795168",
+            "webstore_last_updated": null,
+            "id": "4ad3dafb-53bb-44c3-8506-f6d251a9cef1",
+            "size": "500",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Grid Demand Ubos 2012 (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "grid_demand_ubos_2012.png",
+            "created": "2014-03-12T14:51:36.759246",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Agrid_demand_ubos_2012&width=522&bbox=29.5732108503346%2C-1.48141411608448%2C34.9995330304452%2C4.23162219179938&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "13fa7aa8-2b1c-41db-83fc-688995aaf914",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "0de47491-a849-4749-b0ae-c5f260380f7f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:25.795168",
+            "webstore_last_updated": null,
+            "id": "823a5951-f3a3-4afc-8590-7619b9b503b0",
+            "size": "1261777",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Grid Demand Ubos 2012 (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "grid_demand_ubos_2012.zip",
+            "created": "2014-03-12T14:51:36.759250",
+            "url": "http://maps.data.ug/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Agrid_demand_ubos_2012&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 4,
+            "revision_id": "13fa7aa8-2b1c-41db-83fc-688995aaf914",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "0de47491-a849-4749-b0ae-c5f260380f7f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:25.795168",
+            "webstore_last_updated": null,
+            "id": "0b21532b-3076-49a6-94ea-edb8e8254e0c",
+            "size": "2200071",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Grid Demand Ubos 2012 (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "grid_demand_ubos_2012.gml",
+            "created": "2014-03-12T14:51:36.759253",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Agrid_demand_ubos_2012&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 5,
+            "revision_id": "13fa7aa8-2b1c-41db-83fc-688995aaf914",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "0de47491-a849-4749-b0ae-c5f260380f7f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:25.795168",
+            "webstore_last_updated": null,
+            "id": "ec286a88-eca6-4502-9dcf-8f2ac9b9718d",
+            "size": "3559278",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Grid Demand Ubos 2012 (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "grid_demand_ubos_2012.gml",
+            "created": "2014-03-12T14:51:36.759257",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Agrid_demand_ubos_2012&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 6,
+            "revision_id": "13fa7aa8-2b1c-41db-83fc-688995aaf914",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "0de47491-a849-4749-b0ae-c5f260380f7f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:25.795168",
+            "webstore_last_updated": null,
+            "id": "2a781777-ac2b-4a06-8af7-a8b3c76e5ca0",
+            "size": "3637831",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Grid Demand Ubos 2012 (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "grid_demand_ubos_2012.csv",
+            "created": "2014-03-12T14:51:36.759260",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Agrid_demand_ubos_2012&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 7,
+            "revision_id": "13fa7aa8-2b1c-41db-83fc-688995aaf914",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "0de47491-a849-4749-b0ae-c5f260380f7f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:25.795168",
+            "webstore_last_updated": null,
+            "id": "2013e199-571e-4bf5-8803-15ab1103ecdb",
+            "size": "554496",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Grid Demand Ubos 2012 (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "grid_demand_ubos_2012.excel",
+            "created": "2014-03-12T14:51:36.759264",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Agrid_demand_ubos_2012&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 8,
+            "revision_id": "13fa7aa8-2b1c-41db-83fc-688995aaf914",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "0de47491-a849-4749-b0ae-c5f260380f7f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:25.795168",
+            "webstore_last_updated": null,
+            "id": "6a3ec224-17ca-46ca-bef8-cd041b9ebe76",
+            "size": "3736647",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Grid Demand Ubos 2012 (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "grid_demand_ubos_2012.json",
+            "created": "2014-03-12T14:51:36.759267",
+            "url": "http://maps.data.ug/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Agrid_demand_ubos_2012&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "13fa7aa8-2b1c-41db-83fc-688995aaf914",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "0de47491-a849-4749-b0ae-c5f260380f7f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:25.795168",
+            "webstore_last_updated": null,
+            "id": "e5b4f65e-1ee7-464d-b33b-993f53300813",
+            "size": "502",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Grid Demand Ubos 2012 (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "grid_demand_ubos_2012.kml",
+            "created": "2014-03-12T14:51:36.759271",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Agrid_demand_ubos_2012&mode=download",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 10,
+            "revision_id": "13fa7aa8-2b1c-41db-83fc-688995aaf914",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "0de47491-a849-4749-b0ae-c5f260380f7f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:25.795168",
+            "webstore_last_updated": null,
+            "id": "d3bde8cc-fcf1-4f5b-a68a-23ad488521af",
+            "size": "664",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Grid Demand Ubos 2012 (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "grid_demand_ubos_2012.kml",
+            "created": "2014-03-12T14:51:36.759274",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Agrid_demand_ubos_2012&mode=refresh",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 11,
+            "revision_id": "13fa7aa8-2b1c-41db-83fc-688995aaf914",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "0de47491-a849-4749-b0ae-c5f260380f7f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:25.795168",
+            "webstore_last_updated": null,
+            "id": "56443003-a196-45f2-89f4-3e107302eb34",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Grid Demand Ubos 2012 (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "grid_demand_ubos_2012.tiles",
+            "created": "2014-03-12T14:51:36.759278",
+            "url": "http://maps.data.ug/geoserver/gwc/service/gmaps?layers=geonode:grid_demand_ubos_2012&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 12,
+            "revision_id": "13fa7aa8-2b1c-41db-83fc-688995aaf914",
+            "resource_type": null
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:31:25.795168",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "clear",
+            "name": "clear",
+            "revision_timestamp": "2014-11-04T22:31:25.795168",
+            "state": "active",
+            "id": "ef8a9a56-ff26-4cab-8dab-86419b1dc7b0"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:31:25.795168",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:31:25.795168",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:31:25.795168",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:31:25.795168",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:31:25.795168",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 3,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 7,
+    "name": "grid-demand-ubos-2012",
+    "isopen": false,
+    "url": null,
+    "notes": "No abstract provided",
+    "title": "Grid Demand Ubos 2012",
+    "extras": [
+        {
+            "value": "[\"None\"]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "13fa7aa8-2b1c-41db-83fc-688995aaf914",
+                "package_id": "d82cac74-4331-4529-893a-554937d9bb0e"
+            }
+        },
+        {
+            "value": "34.9995330304452",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "13fa7aa8-2b1c-41db-83fc-688995aaf914",
+                "package_id": "d82cac74-4331-4529-893a-554937d9bb0e"
+            }
+        },
+        {
+            "value": "4.23162219179938",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "d82cac74-4331-4529-893a-554937d9bb0e",
+                "revision_id": "13fa7aa8-2b1c-41db-83fc-688995aaf914"
+            }
+        },
+        {
+            "value": "-1.48141411608448",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "13fa7aa8-2b1c-41db-83fc-688995aaf914",
+                "package_id": "d82cac74-4331-4529-893a-554937d9bb0e"
+            }
+        },
+        {
+            "value": "29.5732108503346",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "13fa7aa8-2b1c-41db-83fc-688995aaf914",
+                "package_id": "d82cac74-4331-4529-893a-554937d9bb0e"
+            }
+        },
+        {
+            "value": "katy@mountbatten.net",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "d82cac74-4331-4529-893a-554937d9bb0e",
+                "revision_id": "13fa7aa8-2b1c-41db-83fc-688995aaf914"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "d82cac74-4331-4529-893a-554937d9bb0e",
+                "revision_id": "13fa7aa8-2b1c-41db-83fc-688995aaf914"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "d82cac74-4331-4529-893a-554937d9bb0e",
+                "revision_id": "13fa7aa8-2b1c-41db-83fc-688995aaf914"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "d82cac74-4331-4529-893a-554937d9bb0e",
+                "revision_id": "13fa7aa8-2b1c-41db-83fc-688995aaf914"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Grid Demand Ubos 2012'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "d82cac74-4331-4529-893a-554937d9bb0e",
+                "revision_id": "13fa7aa8-2b1c-41db-83fc-688995aaf914"
+            }
+        },
+        {
+            "value": "None",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "d82cac74-4331-4529-893a-554937d9bb0e",
+                "revision_id": "13fa7aa8-2b1c-41db-83fc-688995aaf914"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "13fa7aa8-2b1c-41db-83fc-688995aaf914",
+                "package_id": "d82cac74-4331-4529-893a-554937d9bb0e"
+            }
+        },
+        {
+            "value": "a9a77018-a9ba-11e3-b8d5-d7100fec7aa5",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "13fa7aa8-2b1c-41db-83fc-688995aaf914",
+                "package_id": "d82cac74-4331-4529-893a-554937d9bb0e"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "13fa7aa8-2b1c-41db-83fc-688995aaf914",
+                "package_id": "d82cac74-4331-4529-893a-554937d9bb0e"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "d82cac74-4331-4529-893a-554937d9bb0e",
+                "revision_id": "13fa7aa8-2b1c-41db-83fc-688995aaf914"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "13fa7aa8-2b1c-41db-83fc-688995aaf914",
+                "package_id": "d82cac74-4331-4529-893a-554937d9bb0e"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "d82cac74-4331-4529-893a-554937d9bb0e",
+                "revision_id": "13fa7aa8-2b1c-41db-83fc-688995aaf914"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "d82cac74-4331-4529-893a-554937d9bb0e",
+                "revision_id": "13fa7aa8-2b1c-41db-83fc-688995aaf914"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "d82cac74-4331-4529-893a-554937d9bb0e",
+                "revision_id": "13fa7aa8-2b1c-41db-83fc-688995aaf914"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.5732108503, -1.48141411608], [34.9995330304, -1.48141411608], [34.9995330304, 4.2316221918], [29.5732108503, 4.2316221918], [29.5732108503, -1.48141411608]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "13fa7aa8-2b1c-41db-83fc-688995aaf914",
+                "package_id": "d82cac74-4331-4529-893a-554937d9bb0e"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "d82cac74-4331-4529-893a-554937d9bb0e",
+                "revision_id": "13fa7aa8-2b1c-41db-83fc-688995aaf914"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "13fa7aa8-2b1c-41db-83fc-688995aaf914",
+                "package_id": "d82cac74-4331-4529-893a-554937d9bb0e"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "13fa7aa8-2b1c-41db-83fc-688995aaf914",
+                "package_id": "d82cac74-4331-4529-893a-554937d9bb0e"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "13fa7aa8-2b1c-41db-83fc-688995aaf914"
+}

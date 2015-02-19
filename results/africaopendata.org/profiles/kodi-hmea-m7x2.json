@@ -1,0 +1,98 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Laban",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:40:24.878153",
+    "id": "a8b64a88-c138-470f-b83e-e1259baad077",
+    "metadata_created": "2012-09-11T13:40:24.878153",
+    "owner_org": null,
+    "metadata_modified": "2013-03-14T09:43:07.710460",
+    "author": "Laban",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "4b229491-a424-4b79-a952-6bb6c61afcc7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-14T09:43:07.710460",
+            "webstore_last_updated": null,
+            "id": "40eba379-acff-4baa-812e-6dd3a7e8472a",
+            "size": "108",
+            "state": "active",
+            "hash": "c88b54bd40e5d45da38d3c55c5873c4e984bba9f",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 6,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Kenya Law Reports and Parliament Hansard.csv",
+            "created": "2012-09-11T13:40:24.913027",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T154309/hmea-m7x2.csv",
+            "webstore_url": null,
+            "last_modified": "2013-03-14T09:43:07.655264",
+            "position": 0,
+            "revision_id": "3f3eb0e9-f0e1-46ab-8cbc-69ee613bb0f0",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:40:24.878153",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:40:24.878153",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 130,
+        "recent": 9
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "kodi-hmea-m7x2",
+    "isopen": true,
+    "url": null,
+    "notes": "All Kenya Law Reports plus parliamentary hansard since 1963 to present.",
+    "title": "Kenya Law Reports and Parliament Hansard",
+    "extras": [
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "bf0e435c-97d3-4e29-91b2-2f0f7707b59e",
+                "package_id": "a8b64a88-c138-470f-b83e-e1259baad077"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "bf0e435c-97d3-4e29-91b2-2f0f7707b59e"
+}

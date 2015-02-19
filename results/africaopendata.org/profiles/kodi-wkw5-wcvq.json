@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:53:52.320998",
+    "id": "78b11d11-6075-48c1-a590-32442246dc59",
+    "metadata_created": "2012-09-11T13:53:52.320998",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:03:58.662063",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "c5f9c19d-d3c1-47d5-9e22-6aba85687960",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:03:58.662063",
+            "webstore_last_updated": "2013-10-10T12:03:58.594000",
+            "id": "1cf4427d-c575-479d-becb-f0a0160508a0",
+            "size": "4897",
+            "state": "active",
+            "hash": "6ec173d3ad0084233742e62240bdb721c8e3df4b",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Percentage distribution of Population who were Sick by type of Health Practitioner Consulted County Estimates - 2005/6.csv",
+            "created": "2012-09-11T13:53:52.359552",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155637/wkw5-wcvq.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:58:41.544205",
+            "position": 0,
+            "revision_id": "8056a509-027b-4296-a7c7-0a959e8b80e1",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "county health",
+            "name": "county health",
+            "revision_timestamp": "2012-09-11T13:53:52.320998",
+            "state": "active",
+            "id": "15b14e9f-d157-4cbb-8aac-9240e5922144"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:53:52.320998",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:53:52.320998",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 62,
+        "recent": 6
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-wkw5-wcvq",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "2005/6 KIHBS Table 5.4: Percentage distribution of Population who were Sick by type of Health Practitioner Consulted County Estimates",
+    "title": "Percentage distribution of Population who were Sick by type of Health Practitioner Consulted County Estimates - 2005/6",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "31b18af6-ebee-499a-bbdf-fd0b3074e1c3",
+                "package_id": "78b11d11-6075-48c1-a590-32442246dc59"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "31b18af6-ebee-499a-bbdf-fd0b3074e1c3",
+                "package_id": "78b11d11-6075-48c1-a590-32442246dc59"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "31b18af6-ebee-499a-bbdf-fd0b3074e1c3",
+                "package_id": "78b11d11-6075-48c1-a590-32442246dc59"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "31b18af6-ebee-499a-bbdf-fd0b3074e1c3"
+}

@@ -1,0 +1,114 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Laban",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T11:59:04.820055",
+    "id": "639a4017-68a1-4a5b-ae6f-ead262913ef4",
+    "metadata_created": "2012-09-10T11:59:04.820055",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:18:32.072270",
+    "author": "Laban",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "76d5cc14-28c6-42e1-9e48-64bd2eb6f99c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:18:32.072270",
+            "webstore_last_updated": "2013-10-10T12:18:32.002345",
+            "id": "3abce979-9953-411d-ac04-9e3e72157845",
+            "size": "9950165",
+            "state": "active",
+            "hash": "c246337e9c861d60dd1c2b86790201be56fa98fa",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "CDF projects.csv",
+            "created": "2012-09-11T13:30:46.694048",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T153323/rsim-nh7f.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:47:40.746156",
+            "position": 0,
+            "revision_id": "a9927813-c6d6-403b-8b63-215275400450",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T11:59:04.820055",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T11:59:04.820055",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 63,
+        "recent": 4
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "kodi-rsim-nh7f",
+    "isopen": true,
+    "url": null,
+    "notes": "CDF spending for the years 2003 to 2010",
+    "title": "CDF projects",
+    "extras": [
+        {
+            "value": "CDF",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "dedc6d8a-96c8-458c-89a2-85a6a7fcb323",
+                "package_id": "639a4017-68a1-4a5b-ae6f-ead262913ef4"
+            }
+        },
+        {
+            "value": "    Environment And Natural Resources",
+            "key": "category",
+            "__extras": {
+                "revision_id": "dedc6d8a-96c8-458c-89a2-85a6a7fcb323",
+                "package_id": "639a4017-68a1-4a5b-ae6f-ead262913ef4"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "dedc6d8a-96c8-458c-89a2-85a6a7fcb323",
+                "package_id": "639a4017-68a1-4a5b-ae6f-ead262913ef4"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "dedc6d8a-96c8-458c-89a2-85a6a7fcb323"
+}

@@ -1,0 +1,97 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-09-28T15:10:38.000271",
+    "id": "dd44a73f-f43f-465e-b96b-e55635cb246e",
+    "metadata_created": "2012-09-28T15:09:59.972031",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T11:56:42.857880",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "94cdc791-2c10-47fb-bff1-aa9f0f9e1da8",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T11:56:42.857880",
+            "webstore_last_updated": "2013-10-10T11:56:42.794172",
+            "id": "b54c5d6d-d1c7-445f-bf07-d7d14428993f",
+            "size": "113810",
+            "state": "active",
+            "hash": "7dcea9db753be2f0393fbbc4456eac13e0249f87",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 18,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "postbank.csv",
+            "created": "2012-09-28T15:10:21.539765",
+            "url": "http://africaopendata.org/storage/f/2012-09-28T15%3A10%3A07.934Z/postbank.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T10:41:59.949374",
+            "position": 0,
+            "revision_id": "ddf16078-f6e4-441d-a36b-3b90fa43741c",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "South Africa",
+            "name": "South Africa",
+            "revision_timestamp": "2012-09-28T15:09:59.972031",
+            "state": "active",
+            "id": "9dc9229c-e2f5-47e7-bb37-b6a9b7b5df70"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "banks",
+            "name": "banks",
+            "revision_timestamp": "2012-09-28T15:09:59.972031",
+            "state": "active",
+            "id": "8801b2d3-3654-4812-8fdd-1dcb37496cca"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "postbank",
+            "name": "postbank",
+            "revision_timestamp": "2012-09-28T15:09:59.972031",
+            "state": "active",
+            "id": "9ddc2d6f-71db-4044-8e1b-0299c7c77994"
+        }
+    ],
+    "tracking_summary": {
+        "total": 139,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "South Africa",
+            "description": "Datasets from South Africa",
+            "name": "south-africa",
+            "id": "fc691a3f-cfce-46d6-93a0-77bdccfec89d"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "south-africa-postbanks",
+    "isopen": false,
+    "url": null,
+    "notes": "Postbanks in South Africa",
+    "title": "South Africa Postbanks",
+    "extras": [],
+    "organization": null,
+    "revision_id": "b77d7a16-6bad-4151-9158-cf11d174880f"
+}

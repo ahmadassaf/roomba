@@ -1,0 +1,156 @@
+{
+    "license_title": "Creative Commons Attribution Share-Alike 4.0",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2014-08-08T10:49:57.081536",
+    "id": "91ec9a0d-c89c-41e0-b8e7-c63edb654205",
+    "metadata_created": "2014-08-08T10:48:02.582390",
+    "owner_org": null,
+    "metadata_modified": "2014-08-08T10:50:09.311592",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-SA-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "15c2c31d-6cb7-41dd-a212-b53c54714b95",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-08-08T10:50:09.311592",
+            "webstore_last_updated": "2014-08-08T10:50:09.200138",
+            "id": "79898b91-95bb-49c3-a130-514d6d5a5e90",
+            "size": "1135161",
+            "state": "active",
+            "hash": "e73143071c84817bc9be65d6f658690d2afcbad3",
+            "description": "The fusion tables version can be found [here](https://www.google.com/fusiontables/data?docid=1NMs_iAwYIZqdEBDVVuxA7nN4BQlvQwNAgevtPkYx#rows:id=1).",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "GotToVote Ghana Registration Centres",
+            "created": "2014-08-08T10:49:45.690192",
+            "url": "http://africaopendata.org/storage/f/2014-08-08T10%3A47%3A05.356Z/gottovote-ghana-registration-centres-1.csv",
+            "webstore_url": "active",
+            "last_modified": "2014-08-08T10:49:46.671734",
+            "position": 0,
+            "revision_id": "fb977a8c-da05-4e03-a14f-ed042b83094a",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "code4africa",
+            "name": "code4africa",
+            "revision_timestamp": "2014-08-08T10:48:02.582390",
+            "state": "active",
+            "id": "bb0f6fd6-8bf8-40ff-9b3c-747a0be9f07d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "code4ghana",
+            "name": "code4ghana",
+            "revision_timestamp": "2014-08-08T10:48:02.582390",
+            "state": "active",
+            "id": "dc3d69b7-afa7-4b97-a75f-21304fa9fec0"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "codeforafrica",
+            "name": "codeforafrica",
+            "revision_timestamp": "2014-08-08T10:48:02.582390",
+            "state": "active",
+            "id": "1d062ec2-6f46-48dc-bcb9-26abdcde0d19"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "codeforghana",
+            "name": "codeforghana",
+            "revision_timestamp": "2014-08-08T10:48:02.582390",
+            "state": "active",
+            "id": "c7ba1a03-3bd2-4ac4-b3ac-d0c0f779e75f"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "elections",
+            "name": "elections",
+            "revision_timestamp": "2014-08-08T10:48:02.582390",
+            "state": "active",
+            "id": "5eb7fdbe-4b0d-4833-a29d-0267948441d4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "ghana",
+            "name": "ghana",
+            "revision_timestamp": "2014-08-08T10:48:02.582390",
+            "state": "active",
+            "id": "364eaf66-4038-4271-9eac-f0f9b2ef7d28"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "gottovote",
+            "name": "gottovote",
+            "revision_timestamp": "2014-08-08T10:48:02.582390",
+            "state": "active",
+            "id": "0e6159f0-1416-40c0-a71f-345e46374112"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "governement",
+            "name": "governement",
+            "revision_timestamp": "2014-08-08T10:48:02.582390",
+            "state": "active",
+            "id": "b01c03a0-a9dc-471b-94bf-a23bbc78418d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "registration",
+            "name": "registration",
+            "revision_timestamp": "2014-08-08T10:48:02.582390",
+            "state": "active",
+            "id": "c8977222-d344-4017-9258-28fa94319926"
+        }
+    ],
+    "tracking_summary": {
+        "total": 56,
+        "recent": 4
+    },
+    "groups": [
+        {
+            "title": "Ghana",
+            "description": "Data Sets For the Republic of Ghana",
+            "name": "ghana",
+            "id": "ad652170-f141-4e2a-a917-3e7bb5d42133"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 9,
+    "name": "ghana-voter-registration-centres",
+    "isopen": true,
+    "url": null,
+    "notes": "This is the data powering [GotToVote! Ghana](http://ghana.gottovote.cc) and sourced from the Elections Commission of Ghana [website](http://ec.gov.gh).",
+    "title": "Ghana Voter Registration Centres",
+    "extras": [],
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "organization": null,
+    "revision_id": "ad3b1a9a-b97a-4741-9171-5d541a584ade",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

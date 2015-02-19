@@ -1,0 +1,97 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-02-04T16:49:48.334704",
+    "id": "6a5f308e-5fbe-49c7-8b9b-ebca6ba8f03d",
+    "metadata_created": "2013-02-04T16:48:54.170141",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:53:00.064288",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "0b92f7eb-33bd-417c-88c9-5be0a4b29c1f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:53:00.064288",
+            "webstore_last_updated": "2013-10-10T10:52:59.996563",
+            "id": "81534810-4483-4a16-982c-2005ef1ca976",
+            "size": "1043181",
+            "state": "active",
+            "hash": "4cf3ba890cb9577f63d6eb039f549b716a005988",
+            "description": "The International Development Association (IDA) credits are public and publicly guaranteed debt extended by the World Bank Group. IDA provides development credits, grants and guarantees to its recipient member countries to help meet their development needs. Credits from IDA are at concessional rates. Data are in U.S. dollars calculated using historical rates. This dataset contains the latest available snapshot of the IDA Statement of Credits and Grants. The World Bank complies with all sanctions applicable to World Bank transactions.",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "IDA_Credits_and_Grants_Comoros.csv",
+            "created": "2013-02-04T16:49:40.045729",
+            "url": "http://africaopendata.org/storage/f/2013-02-04T16%3A49%3A02.839Z/ida-credits-and-grants-comoros.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:49:15.150124",
+            "position": 0,
+            "revision_id": "26680a77-408c-4010-a34d-831f96076e0b",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "comoros",
+            "name": "comoros",
+            "revision_timestamp": "2013-02-04T16:48:54.170141",
+            "state": "active",
+            "id": "60c5b33e-53f6-46bc-827f-e560d1b8976b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "grants",
+            "name": "grants",
+            "revision_timestamp": "2013-02-04T16:48:54.170141",
+            "state": "active",
+            "id": "d984aa37-9904-4d80-8584-8ef34f9d1761"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "world bank",
+            "name": "world bank",
+            "revision_timestamp": "2013-02-04T16:48:54.170141",
+            "state": "active",
+            "id": "4f5679da-0fdb-433e-9af7-3371fe1cf205"
+        }
+    ],
+    "tracking_summary": {
+        "total": 77,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Comoros",
+            "description": "Datasets from the Republic of Comoros",
+            "name": "comoros",
+            "id": "f4a01b29-25f5-4f10-8e0c-aca3cfb4ec44"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "world-bank-ida-grant-comoros",
+    "isopen": false,
+    "url": null,
+    "notes": "The International Development Association (IDA) credits are public and publicly guaranteed debt extended by the World Bank Group. IDA provides development credits, grants and guarantees to its recipient member countries to help meet their development needs. Credits from IDA are at concessional rates. Data are in U.S. dollars calculated using historical rates. This dataset contains the latest available snapshot of the IDA Statement of Credits and Grants. The World Bank complies with all sanctions applicable to World Bank transactions.",
+    "title": "World Bank IDA Grant Comoros",
+    "extras": [],
+    "organization": null,
+    "revision_id": "59147055-af6d-43a4-b462-bbe4284e4156"
+}

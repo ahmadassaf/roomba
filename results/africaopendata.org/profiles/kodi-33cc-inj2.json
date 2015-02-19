@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Samuel Kipruto",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T14:00:44.500317",
+    "id": "7363a31e-9605-4c13-88d2-13ec83a6c589",
+    "metadata_created": "2012-09-11T14:00:44.500317",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T11:57:14.633552",
+    "author": "Samuel Kipruto",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "6fdb2884-b3e5-4d55-ba33-617647eb669d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T11:57:14.633552",
+            "webstore_last_updated": "2013-10-10T11:57:14.569288",
+            "id": "494886b9-463a-4aff-84b8-2f5958a1b4dd",
+            "size": "3193",
+            "state": "active",
+            "hash": "028d7769b267dfe229a030aa0baafcfa6b15c2c5",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Gross Domestic Product by Activity At Constant Prices - 2001-2009.csv",
+            "created": "2012-09-11T14:00:44.537664",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T160329/33cc-inj2.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:57:01.365873",
+            "position": 0,
+            "revision_id": "04a1fb96-f033-49e5-a631-4f3919d8ab98",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "gdp",
+            "name": "gdp",
+            "revision_timestamp": "2012-09-11T14:00:44.500317",
+            "state": "active",
+            "id": "cbb01a93-4bb5-4ab2-a836-a80ecfe5a699"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T14:00:44.500317",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T14:00:44.500317",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 69,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-33cc-inj2",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Kenya National Bureau of Statistics\r\nGross Domestic Product by Activity At Constant Prices 2001-2009\r\nStatistical Abstract",
+    "title": "Gross Domestic Product by Activity At Constant Prices - 2001-2009",
+    "extras": [
+        {
+            "value": "Kenya National Bureau of Statistics",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "ce79b63d-c8f8-42b6-b13e-9de687b28480",
+                "package_id": "7363a31e-9605-4c13-88d2-13ec83a6c589"
+            }
+        },
+        {
+            "value": "Poverty",
+            "key": "category",
+            "__extras": {
+                "revision_id": "ce79b63d-c8f8-42b6-b13e-9de687b28480",
+                "package_id": "7363a31e-9605-4c13-88d2-13ec83a6c589"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "ce79b63d-c8f8-42b6-b13e-9de687b28480",
+                "package_id": "7363a31e-9605-4c13-88d2-13ec83a6c589"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "ce79b63d-c8f8-42b6-b13e-9de687b28480"
+}

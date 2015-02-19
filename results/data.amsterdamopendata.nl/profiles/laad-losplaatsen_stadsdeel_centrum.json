@@ -1,0 +1,174 @@
+{
+    "license_title": "Creative Commons Attribution 4.0",
+    "maintainer": "Ton Zijlstra",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "tzijlstra@centrum.amsterdam.nl",
+    "revision_timestamp": "2014-10-22T07:53:59.537232",
+    "id": "dfee448b-8b8a-4f54-ace9-cb22ad105959",
+    "metadata_created": "2014-10-22T07:53:59.537232",
+    "owner_org": null,
+    "metadata_modified": "2014-10-22T07:53:59.537232",
+    "author": "Stadsdeel Centrum",
+    "author_email": "m.schoneveld@amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "06d8eab4-c5af-4d33-9ce0-7a7339c25518",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-10-22T07:53:59.537232",
+            "webstore_last_updated": null,
+            "id": "4eda3fcd-fa73-43b1-9f62-67d3a37dd39e",
+            "size": "51118",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Laad-losplaatsen met locatie en tijdsbeperkingen",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "laad_losplaatsen_centrum.csv",
+            "created": "2014-10-22T09:53:59.679675",
+            "url": "http://www.amsterdamopendata.nl/documents/10180/38982/laad_losplaatsen_centrum.csv",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "6c427c5e-11cb-4109-9e1d-bee3dd7bf38e",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "laad-losplaatsen",
+            "name": "laad-losplaatsen",
+            "revision_timestamp": "2014-10-22T07:53:59.537232",
+            "state": "active",
+            "id": "5b234944-ae9e-47b0-b28e-95d9642a5a79"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "laden",
+            "name": "laden",
+            "revision_timestamp": "2014-10-22T07:53:59.537232",
+            "state": "active",
+            "id": "319df18a-ddd7-4713-8714-5711529b51e3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lossen",
+            "name": "lossen",
+            "revision_timestamp": "2014-10-22T07:53:59.537232",
+            "state": "active",
+            "id": "234c0a89-6afd-463b-b121-c39d7dec2100"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Verkeer & Infrastructuur",
+            "description": "",
+            "name": "verkeer-infrastructuur",
+            "id": "12502584-9d7d-4bdc-bf5f-df2b0d85f4f6"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "laad-losplaatsen_stadsdeel_centrum",
+    "isopen": false,
+    "url": null,
+    "notes": "De locatie en toegestane tijden van 313 laad- en losplaatsen in Stadsdeel Centrum. Bevat zowel lengte en breedtegraden als X,Y coördinaten",
+    "title": "Laad-losplaatsen Stadsdeel Centrum",
+    "extras": [
+        {
+            "value": "m.schoneveld@amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "dfee448b-8b8a-4f54-ace9-cb22ad105959",
+                "revision_id": "6c427c5e-11cb-4109-9e1d-bee3dd7bf38e"
+            }
+        },
+        {
+            "value": "Marc Schoneveld",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "6c427c5e-11cb-4109-9e1d-bee3dd7bf38e",
+                "package_id": "dfee448b-8b8a-4f54-ace9-cb22ad105959"
+            }
+        },
+        {
+            "value": "12/06/2013",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "6c427c5e-11cb-4109-9e1d-bee3dd7bf38e",
+                "package_id": "dfee448b-8b8a-4f54-ace9-cb22ad105959"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "6c427c5e-11cb-4109-9e1d-bee3dd7bf38e",
+                "package_id": "dfee448b-8b8a-4f54-ace9-cb22ad105959"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "dfee448b-8b8a-4f54-ace9-cb22ad105959",
+                "revision_id": "6c427c5e-11cb-4109-9e1d-bee3dd7bf38e"
+            }
+        },
+        {
+            "value": "12/06/2013",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "dfee448b-8b8a-4f54-ace9-cb22ad105959",
+                "revision_id": "6c427c5e-11cb-4109-9e1d-bee3dd7bf38e"
+            }
+        },
+        {
+            "value": "Geen updates",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "6c427c5e-11cb-4109-9e1d-bee3dd7bf38e",
+                "package_id": "dfee448b-8b8a-4f54-ace9-cb22ad105959"
+            }
+        },
+        {
+            "value": "",
+            "key": "website",
+            "__extras": {
+                "package_id": "dfee448b-8b8a-4f54-ace9-cb22ad105959",
+                "revision_id": "6c427c5e-11cb-4109-9e1d-bee3dd7bf38e"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "6c427c5e-11cb-4109-9e1d-bee3dd7bf38e",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

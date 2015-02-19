@@ -1,0 +1,661 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:29:40.310386",
+    "id": "a8802981-f298-4164-b330-324b84120222",
+    "metadata_created": "2014-11-04T22:29:40.310386",
+    "owner_org": null,
+    "metadata_modified": "2014-11-05T02:21:25.090444",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "205c5609-4515-4f50-b9b6-d279d89b46de",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-05T02:21:25.090444",
+            "webstore_last_updated": null,
+            "id": "d1cb377b-0bde-4529-9359-837396b274f8",
+            "size": "42575",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "15b530c54eddb842ffe010c41ed156aee003a5ad",
+            "description": "Online link to the 'Primary Six Literacy Rate 2003' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:51:42.738139",
+            "url": "http://maps.data.ug/layers/geonode:primary_six_literacy_rate_2003",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T02:21:24.945923",
+            "position": 0,
+            "revision_id": "751dea0b-5080-4a37-984f-52704a3f8e98",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "205c5609-4515-4f50-b9b6-d279d89b46de",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:40.310386",
+            "webstore_last_updated": null,
+            "id": "a33ad732-dbae-4f52-8192-64e4aef52eac",
+            "size": "120605",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Primary Six Literacy Rate 2003 (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "primary_six_literacy_rate_2003.zip",
+            "created": "2014-03-12T14:51:42.738161",
+            "url": "http://maps.data.ug/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Aprimary_six_literacy_rate_2003&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "f19f3aaa-c042-4dce-9904-c7e6e8c2f769",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "205c5609-4515-4f50-b9b6-d279d89b46de",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:40.310386",
+            "webstore_last_updated": null,
+            "id": "5e54957d-cd6b-4954-b10a-7dd5bf4056d6",
+            "size": "261267",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Primary Six Literacy Rate 2003 (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "primary_six_literacy_rate_2003.gml",
+            "created": "2014-03-12T14:51:42.738166",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Aprimary_six_literacy_rate_2003&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "f19f3aaa-c042-4dce-9904-c7e6e8c2f769",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "205c5609-4515-4f50-b9b6-d279d89b46de",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:40.310386",
+            "webstore_last_updated": null,
+            "id": "207466db-56aa-4650-b2cd-a1cf8161b9f0",
+            "size": "381385",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Primary Six Literacy Rate 2003 (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "primary_six_literacy_rate_2003.gml",
+            "created": "2014-03-12T14:51:42.738169",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Aprimary_six_literacy_rate_2003&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "f19f3aaa-c042-4dce-9904-c7e6e8c2f769",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "205c5609-4515-4f50-b9b6-d279d89b46de",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:40.310386",
+            "webstore_last_updated": null,
+            "id": "6767eb92-23ea-41cf-907e-3d75109f8d0b",
+            "size": "344634",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Primary Six Literacy Rate 2003 (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "primary_six_literacy_rate_2003.csv",
+            "created": "2014-03-12T14:51:42.738173",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Aprimary_six_literacy_rate_2003&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 4,
+            "revision_id": "f19f3aaa-c042-4dce-9904-c7e6e8c2f769",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "205c5609-4515-4f50-b9b6-d279d89b46de",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:40.310386",
+            "webstore_last_updated": null,
+            "id": "207e721c-d262-4675-be91-44023483edda",
+            "size": "354816",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Primary Six Literacy Rate 2003 (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "primary_six_literacy_rate_2003.excel",
+            "created": "2014-03-12T14:51:42.738176",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Aprimary_six_literacy_rate_2003&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:57:05.141853",
+            "position": 5,
+            "revision_id": "f19f3aaa-c042-4dce-9904-c7e6e8c2f769",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "205c5609-4515-4f50-b9b6-d279d89b46de",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:40.310386",
+            "webstore_last_updated": null,
+            "id": "aa29a69c-ed8e-4e25-a7b2-ed00d4808bf7",
+            "size": "366332",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Primary Six Literacy Rate 2003 (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "primary_six_literacy_rate_2003.json",
+            "created": "2014-03-12T14:51:42.738180",
+            "url": "http://maps.data.ug/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Aprimary_six_literacy_rate_2003&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 6,
+            "revision_id": "f19f3aaa-c042-4dce-9904-c7e6e8c2f769",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "205c5609-4515-4f50-b9b6-d279d89b46de",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:40.310386",
+            "webstore_last_updated": null,
+            "id": "8089e6d5-71a6-43f6-bff9-778b28c51be0",
+            "size": "527788",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Primary Six Literacy Rate 2003 (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "primary_six_literacy_rate_2003.kml",
+            "created": "2014-03-12T14:51:42.738183",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Aprimary_six_literacy_rate_2003&mode=download",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 7,
+            "revision_id": "f19f3aaa-c042-4dce-9904-c7e6e8c2f769",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "205c5609-4515-4f50-b9b6-d279d89b46de",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:40.310386",
+            "webstore_last_updated": null,
+            "id": "2627979c-5135-40df-9a8d-3a7d0037a6e1",
+            "size": "1887",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Primary Six Literacy Rate 2003 (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "primary_six_literacy_rate_2003.kml",
+            "created": "2014-03-12T14:51:42.738186",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Aprimary_six_literacy_rate_2003&mode=refresh",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 8,
+            "revision_id": "f19f3aaa-c042-4dce-9904-c7e6e8c2f769",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "205c5609-4515-4f50-b9b6-d279d89b46de",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:40.310386",
+            "webstore_last_updated": null,
+            "id": "e21653d8-844e-4679-8469-3188697d1cf3",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Primary Six Literacy Rate 2003 (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "primary_six_literacy_rate_2003.tiles",
+            "created": "2014-03-12T14:51:42.738190",
+            "url": "http://maps.data.ug/geoserver/gwc/service/gmaps?layers=geonode:primary_six_literacy_rate_2003&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "f19f3aaa-c042-4dce-9904-c7e6e8c2f769",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "205c5609-4515-4f50-b9b6-d279d89b46de",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:40.310386",
+            "webstore_last_updated": null,
+            "id": "62618b09-9371-483d-8fa9-1b41d62703f8",
+            "size": "31515",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Primary Six Literacy Rate 2003 (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "primary_six_literacy_rate_2003.jpg",
+            "created": "2014-03-12T14:51:42.738193",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Aprimary_six_literacy_rate_2003&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 10,
+            "revision_id": "f19f3aaa-c042-4dce-9904-c7e6e8c2f769",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "205c5609-4515-4f50-b9b6-d279d89b46de",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:40.310386",
+            "webstore_last_updated": null,
+            "id": "a45d6ff3-d6de-4729-8398-4a8a9ad3a4f5",
+            "size": "38643",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Primary Six Literacy Rate 2003 (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "primary_six_literacy_rate_2003.pdf",
+            "created": "2014-03-12T14:51:42.738197",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Aprimary_six_literacy_rate_2003&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 11,
+            "revision_id": "f19f3aaa-c042-4dce-9904-c7e6e8c2f769",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 12,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Education",
+            "name": "Education",
+            "revision_timestamp": "2014-11-04T22:29:40.310386",
+            "state": "active",
+            "id": "9606d357-b5d7-469e-8656-26e83f99eb62"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Primary",
+            "name": "Primary",
+            "revision_timestamp": "2014-11-04T22:29:40.310386",
+            "state": "active",
+            "id": "75a8ea18-aa91-4e08-bc51-e53f99689d7b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:29:40.310386",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:29:40.310386",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:29:40.310386",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:29:40.310386",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:29:40.310386",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:29:40.310386",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:29:40.310386",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 4,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 9,
+    "name": "primary-six-literacy-rate-2003",
+    "isopen": false,
+    "url": null,
+    "notes": "Primary Six Literacy Rate 2003",
+    "title": "Primary Six Literacy Rate 2003",
+    "extras": [
+        {
+            "value": "[]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "f19f3aaa-c042-4dce-9904-c7e6e8c2f769",
+                "package_id": "a8802981-f298-4164-b330-324b84120222"
+            }
+        },
+        {
+            "value": "35.0017411394",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "f19f3aaa-c042-4dce-9904-c7e6e8c2f769",
+                "package_id": "a8802981-f298-4164-b330-324b84120222"
+            }
+        },
+        {
+            "value": "4.2310114174",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "a8802981-f298-4164-b330-324b84120222",
+                "revision_id": "f19f3aaa-c042-4dce-9904-c7e6e8c2f769"
+            }
+        },
+        {
+            "value": "-1.4817440179",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "f19f3aaa-c042-4dce-9904-c7e6e8c2f769",
+                "package_id": "a8802981-f298-4164-b330-324b84120222"
+            }
+        },
+        {
+            "value": "29.5741674481",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "f19f3aaa-c042-4dce-9904-c7e6e8c2f769",
+                "package_id": "a8802981-f298-4164-b330-324b84120222"
+            }
+        },
+        {
+            "value": "",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "a8802981-f298-4164-b330-324b84120222",
+                "revision_id": "f19f3aaa-c042-4dce-9904-c7e6e8c2f769"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "a8802981-f298-4164-b330-324b84120222",
+                "revision_id": "f19f3aaa-c042-4dce-9904-c7e6e8c2f769"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-02-20T04:01:04Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "a8802981-f298-4164-b330-324b84120222",
+                "revision_id": "f19f3aaa-c042-4dce-9904-c7e6e8c2f769"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "a8802981-f298-4164-b330-324b84120222",
+                "revision_id": "f19f3aaa-c042-4dce-9904-c7e6e8c2f769"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Primary Six Literacy Rate 2003'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "a8802981-f298-4164-b330-324b84120222",
+                "revision_id": "f19f3aaa-c042-4dce-9904-c7e6e8c2f769"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "a8802981-f298-4164-b330-324b84120222",
+                "revision_id": "f19f3aaa-c042-4dce-9904-c7e6e8c2f769"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "f19f3aaa-c042-4dce-9904-c7e6e8c2f769",
+                "package_id": "a8802981-f298-4164-b330-324b84120222"
+            }
+        },
+        {
+            "value": "e939aee4-9a15-11e3-8923-11b11f8ea6d0",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "f19f3aaa-c042-4dce-9904-c7e6e8c2f769",
+                "package_id": "a8802981-f298-4164-b330-324b84120222"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "f19f3aaa-c042-4dce-9904-c7e6e8c2f769",
+                "package_id": "a8802981-f298-4164-b330-324b84120222"
+            }
+        },
+        {
+            "value": "2014-02-20T04:01:04Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "a8802981-f298-4164-b330-324b84120222",
+                "revision_id": "f19f3aaa-c042-4dce-9904-c7e6e8c2f769"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "f19f3aaa-c042-4dce-9904-c7e6e8c2f769",
+                "package_id": "a8802981-f298-4164-b330-324b84120222"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "a8802981-f298-4164-b330-324b84120222",
+                "revision_id": "f19f3aaa-c042-4dce-9904-c7e6e8c2f769"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "a8802981-f298-4164-b330-324b84120222",
+                "revision_id": "f19f3aaa-c042-4dce-9904-c7e6e8c2f769"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "a8802981-f298-4164-b330-324b84120222",
+                "revision_id": "f19f3aaa-c042-4dce-9904-c7e6e8c2f769"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.5741674481, -1.4817440179], [35.0017411394, -1.4817440179], [35.0017411394, 4.2310114174], [29.5741674481, 4.2310114174], [29.5741674481, -1.4817440179]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "f19f3aaa-c042-4dce-9904-c7e6e8c2f769",
+                "package_id": "a8802981-f298-4164-b330-324b84120222"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "a8802981-f298-4164-b330-324b84120222",
+                "revision_id": "f19f3aaa-c042-4dce-9904-c7e6e8c2f769"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "f19f3aaa-c042-4dce-9904-c7e6e8c2f769",
+                "package_id": "a8802981-f298-4164-b330-324b84120222"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "f19f3aaa-c042-4dce-9904-c7e6e8c2f769",
+                "package_id": "a8802981-f298-4164-b330-324b84120222"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "f19f3aaa-c042-4dce-9904-c7e6e8c2f769"
+}

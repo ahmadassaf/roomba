@@ -1,0 +1,137 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2013-10-14T12:59:17.376298",
+    "id": "d326d65c-549d-469d-9762-2f27dc66efec",
+    "metadata_created": "2013-10-07T09:41:10.933777",
+    "owner_org": null,
+    "metadata_modified": "2013-10-22T11:35:26.597076",
+    "author": "GGD Amsterdam",
+    "author_email": "info@ggd.amsterdam.nl",
+    "state": "active",
+    "version": null,
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "ab41bbd3-47a0-4191-afde-1bb51f30ad5f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-22T11:35:26.597076",
+            "webstore_last_updated": null,
+            "id": "d78ca7a6-b188-4ad9-b926-c3a80ba48076",
+            "size": null,
+            "state": "active",
+            "hash": "",
+            "description": "Downloaden via Open Datakaart",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "http://www.opendatakaart.nl/catalogus/datasets/datasets_dataset/t/thuiszorginstellingen",
+            "created": "2013-10-07T11:41:10.961738",
+            "url": "http://www.opendatakaart.nl/catalogus/datasets/datasets_dataset/t/thuiszorginstellingen",
+            "webstore_url": null,
+            "last_modified": "2013-10-08T00:00:00",
+            "position": 0,
+            "revision_id": "93d9e792-4600-425a-9a7b-1a3bf350cd0f",
+            "resource_type": "file"
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "thuiszorg",
+            "name": "thuiszorg",
+            "revision_timestamp": "2013-10-07T09:41:10.933777",
+            "state": "active",
+            "id": "e422e7ca-b1df-4db2-b875-4aef84cb75c4"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Zorg & welzijn",
+            "description": "",
+            "name": "zorg-welzijn",
+            "id": "03f76fe0-7556-4f88-9c23-0b318e1c69ed"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 1,
+    "name": "thuiszorg",
+    "isopen": false,
+    "url": null,
+    "notes": "Overzicht van alle thuiszorginstellingen in Amsterdam",
+    "title": "Thuiszorg",
+    "extras": [
+        {
+            "value": "info@ggd.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "d326d65c-549d-469d-9762-2f27dc66efec",
+                "revision_id": "64d654f1-6bda-4b84-bf22-47c482251501"
+            }
+        },
+        {
+            "value": "GGD Amsterdam",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "64d654f1-6bda-4b84-bf22-47c482251501",
+                "package_id": "d326d65c-549d-469d-9762-2f27dc66efec"
+            }
+        },
+        {
+            "value": "08/10/2013",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "e6dad961-2d87-41da-8818-fe42e1867c32",
+                "package_id": "d326d65c-549d-469d-9762-2f27dc66efec"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "64d654f1-6bda-4b84-bf22-47c482251501",
+                "package_id": "d326d65c-549d-469d-9762-2f27dc66efec"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "d326d65c-549d-469d-9762-2f27dc66efec",
+                "revision_id": "64d654f1-6bda-4b84-bf22-47c482251501"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "d326d65c-549d-469d-9762-2f27dc66efec",
+                "revision_id": "64d654f1-6bda-4b84-bf22-47c482251501"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "64d654f1-6bda-4b84-bf22-47c482251501",
+                "package_id": "d326d65c-549d-469d-9762-2f27dc66efec"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "3eed11b1-4c66-4712-bd55-5af2176d7e8b"
+}

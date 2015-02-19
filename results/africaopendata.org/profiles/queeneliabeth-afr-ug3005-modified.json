@@ -1,0 +1,585 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:31:28.598104",
+    "id": "d91a2e3c-5c36-43f2-b4f3-cef356e483f9",
+    "metadata_created": "2014-11-04T22:31:28.598104",
+    "owner_org": null,
+    "metadata_modified": "2014-11-05T04:31:19.985041",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "c18c5320-86c6-4e4d-be64-1df15225cb22",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-05T04:31:19.985041",
+            "webstore_last_updated": null,
+            "id": "0e788633-d410-4f02-a50b-363ad7625f99",
+            "size": "38150",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "387bfcec28baef5bd2329549a345c9f75b958c55",
+            "description": "Online link to the 'Queeneliabeth Afr Ug3005 Modified' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:51:12.204862",
+            "url": "http://maps.data.ug/layers/geonode:queeneliabeth_afr_ug3005_modified",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T04:31:19.837800",
+            "position": 0,
+            "revision_id": "d15efdbf-428f-4fc8-a9f2-9eaa17f3e211",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c18c5320-86c6-4e4d-be64-1df15225cb22",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:28.598104",
+            "webstore_last_updated": null,
+            "id": "07e3e9f3-4029-4d66-bcdc-86b3b180459b",
+            "size": "52816",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Queeneliabeth Afr Ug3005 Modified (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "queeneliabeth_afr_ug3005_modified.jpg",
+            "created": "2014-03-12T14:51:12.204881",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms?layers=geonode%3Aqueeneliabeth_afr_ug3005_modified&width=417&bbox=29.61302186593736%2C-0.7489049665477724%2C30.293918413812456%2C0.1479679167570169&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "d214b40e-0689-405c-9f53-7ca8652f3c0e",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c18c5320-86c6-4e4d-be64-1df15225cb22",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:28.598104",
+            "webstore_last_updated": null,
+            "id": "1585a9e0-6475-4902-97c3-59e932e82d84",
+            "size": "488446",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Queeneliabeth Afr Ug3005 Modified (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "queeneliabeth_afr_ug3005_modified.pdf",
+            "created": "2014-03-12T14:51:12.204886",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms?layers=geonode%3Aqueeneliabeth_afr_ug3005_modified&width=417&bbox=29.61302186593736%2C-0.7489049665477724%2C30.293918413812456%2C0.1479679167570169&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "d214b40e-0689-405c-9f53-7ca8652f3c0e",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c18c5320-86c6-4e4d-be64-1df15225cb22",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:28.598104",
+            "webstore_last_updated": null,
+            "id": "fae8db91-afc8-4e31-9d08-b884dd55cdb3",
+            "size": "444393",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Queeneliabeth Afr Ug3005 Modified (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "queeneliabeth_afr_ug3005_modified.png",
+            "created": "2014-03-12T14:51:12.204890",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms?layers=geonode%3Aqueeneliabeth_afr_ug3005_modified&width=417&bbox=29.61302186593736%2C-0.7489049665477724%2C30.293918413812456%2C0.1479679167570169&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "d214b40e-0689-405c-9f53-7ca8652f3c0e",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c18c5320-86c6-4e4d-be64-1df15225cb22",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:28.598104",
+            "webstore_last_updated": null,
+            "id": "bd2969b6-ceae-4f26-91a4-7332c4a2b4f5",
+            "size": "1370059",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Queeneliabeth Afr Ug3005 Modified (ArcGrid Format)",
+            "format": "wcs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/plain",
+            "cache_url": null,
+            "name": "queeneliabeth_afr_ug3005_modified.ArcGrid",
+            "created": "2014-03-12T14:51:12.204893",
+            "url": "http://geoclean.mountbatten.net:80/geoserver/wcs?crs=EPSG%3A4326&service=WCS&format=ArcGrid&request=GetCoverage&height=550&width=417&version=1.0.0&BBox=29.61302186593736%2C-0.7489049665477724%2C30.293918413812456%2C0.1479679167570169&Coverage=geonode%3Aqueeneliabeth_afr_ug3005_modified",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 4,
+            "revision_id": "d214b40e-0689-405c-9f53-7ca8652f3c0e",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c18c5320-86c6-4e4d-be64-1df15225cb22",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:28.598104",
+            "webstore_last_updated": null,
+            "id": "e767fa43-aa7c-440d-8437-5848df35e779",
+            "size": "688982",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Queeneliabeth Afr Ug3005 Modified (GeoTIFF Format)",
+            "format": "wcs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/tiff",
+            "cache_url": null,
+            "name": "queeneliabeth_afr_ug3005_modified.GeoTIFF",
+            "created": "2014-03-12T14:51:12.204897",
+            "url": "http://geoclean.mountbatten.net:80/geoserver/wcs?crs=EPSG%3A4326&service=WCS&format=GeoTIFF&request=GetCoverage&height=550&width=417&version=1.0.0&BBox=29.61302186593736%2C-0.7489049665477724%2C30.293918413812456%2C0.1479679167570169&Coverage=geonode%3Aqueeneliabeth_afr_ug3005_modified",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 5,
+            "revision_id": "d214b40e-0689-405c-9f53-7ca8652f3c0e",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c18c5320-86c6-4e4d-be64-1df15225cb22",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:28.598104",
+            "webstore_last_updated": null,
+            "id": "ca021e7b-acee-4b64-9a51-d0f0735d916f",
+            "size": "204",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Queeneliabeth Afr Ug3005 Modified (ImageMosaic Format)",
+            "format": "wcs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.ogc.se_xml",
+            "cache_url": null,
+            "name": "queeneliabeth_afr_ug3005_modified.ImageMosaic",
+            "created": "2014-03-12T14:51:12.204904",
+            "url": "http://geoclean.mountbatten.net:80/geoserver/wcs?crs=EPSG%3A4326&service=WCS&format=ImageMosaic&request=GetCoverage&height=550&width=417&version=1.0.0&BBox=29.61302186593736%2C-0.7489049665477724%2C30.293918413812456%2C0.1479679167570169&Coverage=geonode%3Aqueeneliabeth_afr_ug3005_modified",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:53:08.550895",
+            "position": 6,
+            "revision_id": "d214b40e-0689-405c-9f53-7ca8652f3c0e",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c18c5320-86c6-4e4d-be64-1df15225cb22",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:28.598104",
+            "webstore_last_updated": null,
+            "id": "56f284a9-4e50-4870-b444-4f1e9b387e61",
+            "size": "1902",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Queeneliabeth Afr Ug3005 Modified (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "queeneliabeth_afr_ug3005_modified.kml",
+            "created": "2014-03-12T14:51:12.204907",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms/kml?layers=geonode%3Aqueeneliabeth_afr_ug3005_modified&mode=download",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 7,
+            "revision_id": "d214b40e-0689-405c-9f53-7ca8652f3c0e",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c18c5320-86c6-4e4d-be64-1df15225cb22",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:28.598104",
+            "webstore_last_updated": null,
+            "id": "6b46ab66-5ba7-47d4-9149-8b2e7ee009a1",
+            "size": "1900",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Queeneliabeth Afr Ug3005 Modified (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "queeneliabeth_afr_ug3005_modified.kml",
+            "created": "2014-03-12T14:51:12.204911",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms/kml?layers=geonode%3Aqueeneliabeth_afr_ug3005_modified&mode=refresh",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 8,
+            "revision_id": "d214b40e-0689-405c-9f53-7ca8652f3c0e",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c18c5320-86c6-4e4d-be64-1df15225cb22",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:28.598104",
+            "webstore_last_updated": null,
+            "id": "4f7c066d-4f35-405f-b7f3-e7dd5df24342",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Queeneliabeth Afr Ug3005 Modified (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "queeneliabeth_afr_ug3005_modified.tiles",
+            "created": "2014-03-12T14:51:12.204914",
+            "url": "http://geoclean.mountbatten.net/geoserver/gwc/service/gmaps?layers=geonode:queeneliabeth_afr_ug3005_modified&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "d214b40e-0689-405c-9f53-7ca8652f3c0e",
+            "resource_type": null
+        }
+    ],
+    "num_resources": 10,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:31:28.598104",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:31:28.598104",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:31:28.598104",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:31:28.598104",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "next",
+            "name": "next",
+            "revision_timestamp": "2014-11-04T22:31:28.598104",
+            "state": "active",
+            "id": "2aa71ee9-9dee-44e0-9cd1-c07a73bda979"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:31:28.598104",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:31:28.598104",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 1,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 7,
+    "name": "queeneliabeth-afr-ug3005-modified",
+    "isopen": false,
+    "url": null,
+    "notes": "No abstract provided",
+    "title": "Queeneliabeth Afr Ug3005 Modified",
+    "extras": [
+        {
+            "value": "[\"None\"]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "d214b40e-0689-405c-9f53-7ca8652f3c0e",
+                "package_id": "d91a2e3c-5c36-43f2-b4f3-cef356e483f9"
+            }
+        },
+        {
+            "value": "30.2939184138",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "d214b40e-0689-405c-9f53-7ca8652f3c0e",
+                "package_id": "d91a2e3c-5c36-43f2-b4f3-cef356e483f9"
+            }
+        },
+        {
+            "value": "0.1479679168",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "revision_id": "d214b40e-0689-405c-9f53-7ca8652f3c0e",
+                "package_id": "d91a2e3c-5c36-43f2-b4f3-cef356e483f9"
+            }
+        },
+        {
+            "value": "-0.7489049665",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "package_id": "d91a2e3c-5c36-43f2-b4f3-cef356e483f9",
+                "revision_id": "d214b40e-0689-405c-9f53-7ca8652f3c0e"
+            }
+        },
+        {
+            "value": "29.6130218659",
+            "key": "bbox-west-long",
+            "__extras": {
+                "package_id": "d91a2e3c-5c36-43f2-b4f3-cef356e483f9",
+                "revision_id": "d214b40e-0689-405c-9f53-7ca8652f3c0e"
+            }
+        },
+        {
+            "value": "katy@mountbatten.net",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "d91a2e3c-5c36-43f2-b4f3-cef356e483f9",
+                "revision_id": "d214b40e-0689-405c-9f53-7ca8652f3c0e"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "revision_id": "d214b40e-0689-405c-9f53-7ca8652f3c0e",
+                "package_id": "d91a2e3c-5c36-43f2-b4f3-cef356e483f9"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-02-19T09:48:41Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "d91a2e3c-5c36-43f2-b4f3-cef356e483f9",
+                "revision_id": "d214b40e-0689-405c-9f53-7ca8652f3c0e"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "revision_id": "d214b40e-0689-405c-9f53-7ca8652f3c0e",
+                "package_id": "d91a2e3c-5c36-43f2-b4f3-cef356e483f9"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Queeneliabeth Afr Ug3005 Modified'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "d91a2e3c-5c36-43f2-b4f3-cef356e483f9",
+                "revision_id": "d214b40e-0689-405c-9f53-7ca8652f3c0e"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "d91a2e3c-5c36-43f2-b4f3-cef356e483f9",
+                "revision_id": "d214b40e-0689-405c-9f53-7ca8652f3c0e"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "d214b40e-0689-405c-9f53-7ca8652f3c0e",
+                "package_id": "d91a2e3c-5c36-43f2-b4f3-cef356e483f9"
+            }
+        },
+        {
+            "value": "4e774634-997d-11e3-9511-29e872963781",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "d214b40e-0689-405c-9f53-7ca8652f3c0e",
+                "package_id": "d91a2e3c-5c36-43f2-b4f3-cef356e483f9"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "package_id": "d91a2e3c-5c36-43f2-b4f3-cef356e483f9",
+                "revision_id": "d214b40e-0689-405c-9f53-7ca8652f3c0e"
+            }
+        },
+        {
+            "value": "2014-02-19T09:48:41Z",
+            "key": "metadata-date",
+            "__extras": {
+                "revision_id": "d214b40e-0689-405c-9f53-7ca8652f3c0e",
+                "package_id": "d91a2e3c-5c36-43f2-b4f3-cef356e483f9"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "d214b40e-0689-405c-9f53-7ca8652f3c0e",
+                "package_id": "d91a2e3c-5c36-43f2-b4f3-cef356e483f9"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "d91a2e3c-5c36-43f2-b4f3-cef356e483f9",
+                "revision_id": "d214b40e-0689-405c-9f53-7ca8652f3c0e"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "revision_id": "d214b40e-0689-405c-9f53-7ca8652f3c0e",
+                "package_id": "d91a2e3c-5c36-43f2-b4f3-cef356e483f9"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "revision_id": "d214b40e-0689-405c-9f53-7ca8652f3c0e",
+                "package_id": "d91a2e3c-5c36-43f2-b4f3-cef356e483f9"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.6130218659, -0.7489049665], [30.2939184138, -0.7489049665], [30.2939184138, 0.1479679168], [29.6130218659, 0.1479679168], [29.6130218659, -0.7489049665]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "d214b40e-0689-405c-9f53-7ca8652f3c0e",
+                "package_id": "d91a2e3c-5c36-43f2-b4f3-cef356e483f9"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "d91a2e3c-5c36-43f2-b4f3-cef356e483f9",
+                "revision_id": "d214b40e-0689-405c-9f53-7ca8652f3c0e"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "d214b40e-0689-405c-9f53-7ca8652f3c0e",
+                "package_id": "d91a2e3c-5c36-43f2-b4f3-cef356e483f9"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "package_id": "d91a2e3c-5c36-43f2-b4f3-cef356e483f9",
+                "revision_id": "d214b40e-0689-405c-9f53-7ca8652f3c0e"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "d214b40e-0689-405c-9f53-7ca8652f3c0e"
+}

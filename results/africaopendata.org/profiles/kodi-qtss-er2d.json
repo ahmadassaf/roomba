@@ -1,0 +1,114 @@
+{
+    "license_title": null,
+    "maintainer": "Laban",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:47:56.446653",
+    "id": "ef32e440-9fd5-41ac-8f9b-64fcd32646ad",
+    "metadata_created": "2012-09-11T13:47:56.446653",
+    "owner_org": null,
+    "metadata_modified": "2013-03-14T10:43:09.137568",
+    "author": "Laban",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "a9a5a7b1-c382-4057-aa82-499b8786db80",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-14T10:43:09.137568",
+            "webstore_last_updated": null,
+            "id": "da16ef04-ac78-43b9-90a8-8c08c02a0261",
+            "size": "108",
+            "state": "active",
+            "hash": "c88b54bd40e5d45da38d3c55c5873c4e984bba9f",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 3,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "GoK Tenders.csv",
+            "created": "2012-09-11T13:47:56.478679",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155041/qtss-er2d.csv",
+            "webstore_url": null,
+            "last_modified": "2013-03-14T10:43:09.011742",
+            "position": 0,
+            "revision_id": "c1e55603-5597-404c-bea1-59336ee2f56d",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:47:56.446653",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:47:56.446653",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 51,
+        "recent": 3
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "kodi-qtss-er2d",
+    "isopen": false,
+    "url": null,
+    "notes": "Directory of GoK Tenders plus PPOA www.ppoa.go.ke",
+    "title": "GoK Tenders",
+    "extras": [
+        {
+            "value": "GoK and PPOA",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "1bacd60b-de96-4b3d-93b1-6dd893a273a3",
+                "package_id": "ef32e440-9fd5-41ac-8f9b-64fcd32646ad"
+            }
+        },
+        {
+            "value": "Other",
+            "key": "category",
+            "__extras": {
+                "revision_id": "1bacd60b-de96-4b3d-93b1-6dd893a273a3",
+                "package_id": "ef32e440-9fd5-41ac-8f9b-64fcd32646ad"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "1bacd60b-de96-4b3d-93b1-6dd893a273a3",
+                "package_id": "ef32e440-9fd5-41ac-8f9b-64fcd32646ad"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "1bacd60b-de96-4b3d-93b1-6dd893a273a3"
+}

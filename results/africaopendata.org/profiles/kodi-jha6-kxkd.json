@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:57:55.207505",
+    "id": "e847d65c-ea74-482b-98fd-8146d72eb4a7",
+    "metadata_created": "2012-09-11T13:57:55.207505",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:02:50.694115",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "de696904-87e5-40ac-8c86-855618364fff",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:02:50.694115",
+            "webstore_last_updated": "2013-10-10T12:02:50.626596",
+            "id": "45d9d0c6-1bae-430d-a045-e609688ba604",
+            "size": "2834",
+            "state": "active",
+            "hash": "977eacaddff15c310c01451b78d677deb8adf365",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Proportion of Children (0 -59 Months) who Slept under a Bed Net by District - 2005/6.csv",
+            "created": "2012-09-11T13:57:55.247030",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T160040/jha6-kxkd.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T10:42:56.312600",
+            "position": 0,
+            "revision_id": "b5c4e153-67b5-484f-983a-6fdcca60dd55",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "health kihbs district bednet",
+            "name": "health kihbs district bednet",
+            "revision_timestamp": "2012-09-11T13:57:55.207505",
+            "state": "active",
+            "id": "86b8ce0c-4d0f-48e6-830a-f1e820cc14ad"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:57:55.207505",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:57:55.207505",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 49,
+        "recent": 8
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-jha6-kxkd",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "KIHBS Table 5.6: Proportion of Children (0 -59 Months) who Slept under a Bed Net by District",
+    "title": "Proportion of Children (0 -59 Months) who Slept under a Bed Net by District - 2005/6",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "c41f4bcb-723a-4b47-8832-c755bced72f7",
+                "package_id": "e847d65c-ea74-482b-98fd-8146d72eb4a7"
+            }
+        },
+        {
+            "value": "Health Sector",
+            "key": "category",
+            "__extras": {
+                "revision_id": "c41f4bcb-723a-4b47-8832-c755bced72f7",
+                "package_id": "e847d65c-ea74-482b-98fd-8146d72eb4a7"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "c41f4bcb-723a-4b47-8832-c755bced72f7",
+                "package_id": "e847d65c-ea74-482b-98fd-8146d72eb4a7"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "c41f4bcb-723a-4b47-8832-c755bced72f7"
+}

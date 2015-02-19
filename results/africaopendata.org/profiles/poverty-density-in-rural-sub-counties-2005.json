@@ -1,0 +1,699 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:31:01.622137",
+    "id": "c5265275-d6ca-424d-9939-3b843733a0ce",
+    "metadata_created": "2014-11-04T22:31:01.622137",
+    "owner_org": null,
+    "metadata_modified": "2014-11-05T03:59:07.214405",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "e22419f9-cc98-4960-8f1a-72e6df4a385b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-05T03:59:07.214405",
+            "webstore_last_updated": null,
+            "id": "9c9bcfaa-d834-43ef-8c11-0a759a296747",
+            "size": "742876",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "314119b2324d1bac70b2374d06c7a5c5724e3765",
+            "description": "Online link to the 'Poverty density in rural sub counties, 2005' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:51:39.292290",
+            "url": "http://maps.data.ug/layers/geonode:povertydensity",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T03:59:07.060326",
+            "position": 0,
+            "revision_id": "6f72a24f-f220-4bad-94ab-da9d9035d9fd",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e22419f9-cc98-4960-8f1a-72e6df4a385b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:01.622137",
+            "webstore_last_updated": null,
+            "id": "c5f59652-4f0d-4003-bf6b-cf9f7ae6b76e",
+            "size": "8179476",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Poverty density in rural sub counties, 2005 (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "povertydensity.zip",
+            "created": "2014-03-12T14:51:39.292320",
+            "url": "http://maps.data.ug/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Apovertydensity&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "f5430cf0-4742-44dc-a8ad-52ae9ccf224a",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e22419f9-cc98-4960-8f1a-72e6df4a385b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:01.622137",
+            "webstore_last_updated": null,
+            "id": "f31b7306-54c7-47d7-a034-93e7419bb755",
+            "size": "16315944",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Poverty density in rural sub counties, 2005 (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "povertydensity.gml",
+            "created": "2014-03-12T14:51:39.292325",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Apovertydensity&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "f5430cf0-4742-44dc-a8ad-52ae9ccf224a",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e22419f9-cc98-4960-8f1a-72e6df4a385b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:01.622137",
+            "webstore_last_updated": null,
+            "id": "a541425d-9eeb-416c-bcf8-6895c6cf3204",
+            "size": "25724785",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Poverty density in rural sub counties, 2005 (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "povertydensity.gml",
+            "created": "2014-03-12T14:51:39.292329",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Apovertydensity&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "f5430cf0-4742-44dc-a8ad-52ae9ccf224a",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e22419f9-cc98-4960-8f1a-72e6df4a385b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:01.622137",
+            "webstore_last_updated": null,
+            "id": "0a2a640d-a26f-4595-aa6d-c19db430a871",
+            "size": "25454827",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Poverty density in rural sub counties, 2005 (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "povertydensity.csv",
+            "created": "2014-03-12T14:51:39.292332",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Apovertydensity&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 4,
+            "revision_id": "f5430cf0-4742-44dc-a8ad-52ae9ccf224a",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e22419f9-cc98-4960-8f1a-72e6df4a385b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:01.622137",
+            "webstore_last_updated": null,
+            "id": "770a4f82-c924-43ea-bb6e-2174b17610a7",
+            "size": "21279232",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Poverty density in rural sub counties, 2005 (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "povertydensity.excel",
+            "created": "2014-03-12T14:51:39.292336",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Apovertydensity&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 5,
+            "revision_id": "f5430cf0-4742-44dc-a8ad-52ae9ccf224a",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e22419f9-cc98-4960-8f1a-72e6df4a385b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:01.622137",
+            "webstore_last_updated": null,
+            "id": "7083fa85-3d16-47c6-817d-b0751dd245d0",
+            "size": "26385596",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Poverty density in rural sub counties, 2005 (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "povertydensity.json",
+            "created": "2014-03-12T14:51:39.292339",
+            "url": "http://maps.data.ug/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Apovertydensity&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 6,
+            "revision_id": "f5430cf0-4742-44dc-a8ad-52ae9ccf224a",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e22419f9-cc98-4960-8f1a-72e6df4a385b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:01.622137",
+            "webstore_last_updated": null,
+            "id": "39df11bd-071a-4d98-bd7d-fc4db26635aa",
+            "size": "28192992",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Poverty density in rural sub counties, 2005 (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "povertydensity.kml",
+            "created": "2014-03-12T14:51:39.292343",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Apovertydensity&mode=download",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 7,
+            "revision_id": "f5430cf0-4742-44dc-a8ad-52ae9ccf224a",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e22419f9-cc98-4960-8f1a-72e6df4a385b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:01.622137",
+            "webstore_last_updated": null,
+            "id": "c35e5b11-c962-4a7f-80e8-e39d614cbf65",
+            "size": "1839",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Poverty density in rural sub counties, 2005 (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "povertydensity.kml",
+            "created": "2014-03-12T14:51:39.292346",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Apovertydensity&mode=refresh",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 8,
+            "revision_id": "f5430cf0-4742-44dc-a8ad-52ae9ccf224a",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e22419f9-cc98-4960-8f1a-72e6df4a385b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:01.622137",
+            "webstore_last_updated": null,
+            "id": "32977885-f1de-4bcd-aed9-0e0022db54d0",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Poverty density in rural sub counties, 2005 (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "povertydensity.tiles",
+            "created": "2014-03-12T14:51:39.292350",
+            "url": "http://maps.data.ug/geoserver/gwc/service/gmaps?layers=geonode:povertydensity&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "f5430cf0-4742-44dc-a8ad-52ae9ccf224a",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "e22419f9-cc98-4960-8f1a-72e6df4a385b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:01.622137",
+            "webstore_last_updated": null,
+            "id": "d4e07d0c-ef50-42d5-8714-0e0814bee404",
+            "size": "77586",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Poverty density in rural sub counties, 2005 (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "povertydensity.jpg",
+            "created": "2014-03-12T14:51:39.292353",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Apovertydensity&width=522&bbox=29.5727423617224%2C-1.47879350587642%2C35.000308036061%2C4.23407663109776&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:56:49.521853",
+            "position": 10,
+            "revision_id": "f5430cf0-4742-44dc-a8ad-52ae9ccf224a",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e22419f9-cc98-4960-8f1a-72e6df4a385b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:01.622137",
+            "webstore_last_updated": null,
+            "id": "33fb59cf-4bff-440a-a8e6-b2f1ecb469a1",
+            "size": "307762",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Poverty density in rural sub counties, 2005 (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "povertydensity.pdf",
+            "created": "2014-03-12T14:51:39.292357",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Apovertydensity&width=522&bbox=29.5727423617224%2C-1.47879350587642%2C35.000308036061%2C4.23407663109776&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 11,
+            "revision_id": "f5430cf0-4742-44dc-a8ad-52ae9ccf224a",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e22419f9-cc98-4960-8f1a-72e6df4a385b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:01.622137",
+            "webstore_last_updated": null,
+            "id": "36f262e2-7a96-4c83-96d6-ffddf4d3b1d3",
+            "size": "148725",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Poverty density in rural sub counties, 2005 (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "povertydensity.png",
+            "created": "2014-03-12T14:51:39.292360",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Apovertydensity&width=522&bbox=29.5727423617224%2C-1.47879350587642%2C35.000308036061%2C4.23407663109776&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 12,
+            "revision_id": "f5430cf0-4742-44dc-a8ad-52ae9ccf224a",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Development Indicator",
+            "name": "Development Indicator",
+            "revision_timestamp": "2014-11-04T22:31:01.622137",
+            "state": "active",
+            "id": "51884a2f-6699-42d8-a2aa-90d00591fbdc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Economics",
+            "name": "Economics",
+            "revision_timestamp": "2014-11-04T22:31:01.622137",
+            "state": "active",
+            "id": "7f77e593-5ee8-4385-9feb-aae4b6ab2bf4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Poverty",
+            "name": "Poverty",
+            "revision_timestamp": "2014-11-04T22:31:01.622137",
+            "state": "active",
+            "id": "ebc88660-67ab-4c8d-af8d-63e492002f96"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:31:01.622137",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:31:01.622137",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:31:01.622137",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:31:01.622137",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:31:01.622137",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:31:01.622137",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:31:01.622137",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 7,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 10,
+    "name": "poverty-density-in-rural-sub-counties-2005",
+    "isopen": false,
+    "url": null,
+    "notes": "The layer shows poverty density in rural sub-counties in 2005 . The dataset was downloaded  from http://docs.wri.org/Ug_Rural-Poverty2005.zip\n",
+    "title": "Poverty density in rural sub counties, 2005",
+    "extras": [
+        {
+            "value": "[\"Dataset downloaded from http://www.wri.org/publication/uganda-gis-data on January 5th 2012 with permissions http://www.wri.org/publications/permissions\\n\\nLicensed under the creative commons. You can read the full text at: http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode\"]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "f5430cf0-4742-44dc-a8ad-52ae9ccf224a",
+                "package_id": "c5265275-d6ca-424d-9939-3b843733a0ce"
+            }
+        },
+        {
+            "value": "35.0003080361",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "f5430cf0-4742-44dc-a8ad-52ae9ccf224a",
+                "package_id": "c5265275-d6ca-424d-9939-3b843733a0ce"
+            }
+        },
+        {
+            "value": "4.2340766311",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "c5265275-d6ca-424d-9939-3b843733a0ce",
+                "revision_id": "f5430cf0-4742-44dc-a8ad-52ae9ccf224a"
+            }
+        },
+        {
+            "value": "-1.4787935059",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "f5430cf0-4742-44dc-a8ad-52ae9ccf224a",
+                "package_id": "c5265275-d6ca-424d-9939-3b843733a0ce"
+            }
+        },
+        {
+            "value": "29.5727423617",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "f5430cf0-4742-44dc-a8ad-52ae9ccf224a",
+                "package_id": "c5265275-d6ca-424d-9939-3b843733a0ce"
+            }
+        },
+        {
+            "value": "katy@mountbatten.net",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "c5265275-d6ca-424d-9939-3b843733a0ce",
+                "revision_id": "f5430cf0-4742-44dc-a8ad-52ae9ccf224a"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "c5265275-d6ca-424d-9939-3b843733a0ce",
+                "revision_id": "f5430cf0-4742-44dc-a8ad-52ae9ccf224a"
+            }
+        },
+        {
+            "value": "[{\"type\": \"creation\", \"value\": \"2014-02-20T02:37:57Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "c5265275-d6ca-424d-9939-3b843733a0ce",
+                "revision_id": "f5430cf0-4742-44dc-a8ad-52ae9ccf224a"
+            }
+        },
+        {
+            "value": "unknown",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "c5265275-d6ca-424d-9939-3b843733a0ce",
+                "revision_id": "f5430cf0-4742-44dc-a8ad-52ae9ccf224a"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Poverty density in rural sub counties, 2005'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "c5265275-d6ca-424d-9939-3b843733a0ce",
+                "revision_id": "f5430cf0-4742-44dc-a8ad-52ae9ccf224a"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "c5265275-d6ca-424d-9939-3b843733a0ce",
+                "revision_id": "f5430cf0-4742-44dc-a8ad-52ae9ccf224a"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "f5430cf0-4742-44dc-a8ad-52ae9ccf224a",
+                "package_id": "c5265275-d6ca-424d-9939-3b843733a0ce"
+            }
+        },
+        {
+            "value": "4cc8684e-9a0a-11e3-a7ec-d39c27a7d049",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "f5430cf0-4742-44dc-a8ad-52ae9ccf224a",
+                "package_id": "c5265275-d6ca-424d-9939-3b843733a0ce"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "f5430cf0-4742-44dc-a8ad-52ae9ccf224a",
+                "package_id": "c5265275-d6ca-424d-9939-3b843733a0ce"
+            }
+        },
+        {
+            "value": "2014-02-20T02:37:57Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "c5265275-d6ca-424d-9939-3b843733a0ce",
+                "revision_id": "f5430cf0-4742-44dc-a8ad-52ae9ccf224a"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "f5430cf0-4742-44dc-a8ad-52ae9ccf224a",
+                "package_id": "c5265275-d6ca-424d-9939-3b843733a0ce"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "c5265275-d6ca-424d-9939-3b843733a0ce",
+                "revision_id": "f5430cf0-4742-44dc-a8ad-52ae9ccf224a"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "c5265275-d6ca-424d-9939-3b843733a0ce",
+                "revision_id": "f5430cf0-4742-44dc-a8ad-52ae9ccf224a"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "c5265275-d6ca-424d-9939-3b843733a0ce",
+                "revision_id": "f5430cf0-4742-44dc-a8ad-52ae9ccf224a"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.5727423617, -1.4787935059], [35.0003080361, -1.4787935059], [35.0003080361, 4.2340766311], [29.5727423617, 4.2340766311], [29.5727423617, -1.4787935059]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "f5430cf0-4742-44dc-a8ad-52ae9ccf224a",
+                "package_id": "c5265275-d6ca-424d-9939-3b843733a0ce"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "c5265275-d6ca-424d-9939-3b843733a0ce",
+                "revision_id": "f5430cf0-4742-44dc-a8ad-52ae9ccf224a"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "f5430cf0-4742-44dc-a8ad-52ae9ccf224a",
+                "package_id": "c5265275-d6ca-424d-9939-3b843733a0ce"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "f5430cf0-4742-44dc-a8ad-52ae9ccf224a",
+                "package_id": "c5265275-d6ca-424d-9939-3b843733a0ce"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "f5430cf0-4742-44dc-a8ad-52ae9ccf224a"
+}

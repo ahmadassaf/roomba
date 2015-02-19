@@ -1,0 +1,114 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Laban",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:53:05.636952",
+    "id": "1b78ca78-763d-4ad4-bfca-51aae7412c84",
+    "metadata_created": "2012-09-11T13:53:05.636952",
+    "owner_org": null,
+    "metadata_modified": "2013-03-14T08:28:53.889489",
+    "author": "Laban",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "272b1b26-561e-4648-acf2-230c7faea3cc",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-14T08:28:53.889489",
+            "webstore_last_updated": null,
+            "id": "1ac0e272-16d4-4fba-8447-ecfb08086cd7",
+            "size": "20293117",
+            "state": "active",
+            "hash": "7a31f9307dc43f08a1e5fe9abdb520cf3b3cdfc3",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 7,
+                "recent": 2
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "KCSE Exam Results 2006 to 2010.csv",
+            "created": "2012-09-11T13:53:05.685355",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155545/ycfy-7tnf.csv",
+            "webstore_url": null,
+            "last_modified": "2013-03-14T08:28:52.705693",
+            "position": 0,
+            "revision_id": "ecbae74b-0739-4df5-b33a-ace9ddaa0c64",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:53:05.636952",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:53:05.636952",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 269,
+        "recent": 19
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "kodi-ycfy-7tnf",
+    "isopen": true,
+    "url": null,
+    "notes": null,
+    "title": "KCSE Exam Results 2006 to 2010",
+    "extras": [
+        {
+            "value": "KNEC",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "ab20e280-937b-4297-b8f7-5edccaf31596",
+                "package_id": "1b78ca78-763d-4ad4-bfca-51aae7412c84"
+            }
+        },
+        {
+            "value": "Education",
+            "key": "category",
+            "__extras": {
+                "revision_id": "ab20e280-937b-4297-b8f7-5edccaf31596",
+                "package_id": "1b78ca78-763d-4ad4-bfca-51aae7412c84"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "ab20e280-937b-4297-b8f7-5edccaf31596",
+                "package_id": "1b78ca78-763d-4ad4-bfca-51aae7412c84"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "ab20e280-937b-4297-b8f7-5edccaf31596"
+}

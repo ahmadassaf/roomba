@@ -1,0 +1,156 @@
+{
+    "license_title": "CC0 1.0",
+    "maintainer": "Biciincittà",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2014-12-17T11:48:54.721647",
+    "id": "fc233f90-225c-415a-acff-886524914c9d",
+    "metadata_created": "2014-11-12T16:57:27.356716",
+    "metadata_modified": "2014-12-17T11:48:54.730417",
+    "author": "Biciincittà",
+    "author_email": "",
+    "state": "active",
+    "version": "",
+    "creator_user_id": "1a9bb171-088a-40d4-8c09-3eb097bb7860",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "3752a302-1073-4b26-9f34-722a2b568320",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-12T16:57:28.208090",
+            "webstore_last_updated": "2013-01-22T19:08:51.839879",
+            "datastore_active": false,
+            "id": "73791957-5172-4566-915d-0b42d03dfc14",
+            "size": "24064",
+            "state": "active",
+            "hash": "0716099a9f5eb745c2274015017a2e36dec90c3b",
+            "description": "",
+            "format": "XLS",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "last_modified": "2013-01-22T19:08:51.476394",
+            "url_type": "upload",
+            "mimetype": "application/vnd.ms-excel",
+            "cache_url": null,
+            "name": "2013-01-22T180851/postazioni-bike-sharing.xls",
+            "created": "2013-01-22T19:08:50.665033",
+            "url": "http://opendata.comune.bari.it/dataset/fc233f90-225c-415a-acff-886524914c9d/resource/73791957-5172-4566-915d-0b42d03dfc14/download/20130122t180851postazionibikesharing.xls",
+            "webstore_url": "active",
+            "mimetype_inner": "",
+            "position": 0,
+            "revision_id": "2143c81a-c806-462c-a592-27b481054ab9",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3752a302-1073-4b26-9f34-722a2b568320",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-12T16:57:28.208090",
+            "webstore_last_updated": "2013-02-15T17:20:06.493571",
+            "datastore_active": false,
+            "id": "3f1e27a5-df7e-44ea-a296-6833e3f81b20",
+            "size": "1692",
+            "state": "active",
+            "hash": "31a52ea63749fd703666bd8a3cd3d075e93960a0",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "last_modified": "2013-02-15T17:20:06.244707",
+            "url_type": "upload",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "2013-02-15T161951/postazioni-bike-sharing.csv",
+            "created": "2013-02-15T17:20:05.278361",
+            "url": "http://opendata.comune.bari.it/dataset/fc233f90-225c-415a-acff-886524914c9d/resource/3f1e27a5-df7e-44ea-a296-6833e3f81b20/download/20130215t161951postazionibikesharing.csv",
+            "webstore_url": "active",
+            "mimetype_inner": "",
+            "position": 1,
+            "revision_id": "2143c81a-c806-462c-a592-27b481054ab9",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "display_name": "Dati Geografici",
+            "description": "Dati Geografici del Comune di Bari",
+            "image_display_url": "",
+            "title": "Dati Geografici",
+            "id": "33ce3844-87cd-418d-a237-31b4939342a7",
+            "name": "dati-geografici"
+        },
+        {
+            "display_name": "Mobilità",
+            "description": "Mobilità",
+            "image_display_url": "",
+            "title": "Mobilità",
+            "id": "93216b15-01a2-4fc5-a82c-20f6dfd28155",
+            "name": "mobilit"
+        }
+    ],
+    "license_id": "CC0-1.0",
+    "relationships_as_subject": [],
+    "num_tags": 0,
+    "organization": {
+        "description": "",
+        "created": "2014-11-26T17:08:49.091500",
+        "title": "Comune di Bari",
+        "name": "comune-di-bari",
+        "revision_timestamp": "2014-11-26T16:08:49.054306",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "",
+        "revision_id": "dd9136cf-62f3-4182-b0a6-3287c82accaa",
+        "type": "organization",
+        "id": "a5fb4b95-9a9e-49de-a9cd-e93ac2bf587f",
+        "approval_status": "approved"
+    },
+    "name": "postazioni-bike-sharing",
+    "isopen": true,
+    "url": "",
+    "notes": "Elenco delle postazioni di Bike Sharing con la relativa disponibilità",
+    "owner_org": "a5fb4b95-9a9e-49de-a9cd-e93ac2bf587f",
+    "extras": [
+        {
+            "key": "Data di creazione",
+            "value": "\"22/01/2013\""
+        },
+        {
+            "key": "Data ultima modifica del dato",
+            "value": "\"22/01/2013\""
+        },
+        {
+            "key": "Data ultima modifica del metadato",
+            "value": "\"22/01/2013\""
+        },
+        {
+            "key": "Tipo di dato",
+            "value": "\"Alfanumerico\""
+        }
+    ],
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "title": "Postazioni Bike Sharing",
+    "revision_id": "5bb33ca9-593e-4a69-9a27-3cbac98ff3ae",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": true,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

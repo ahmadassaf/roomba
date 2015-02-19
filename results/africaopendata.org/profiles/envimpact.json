@@ -1,0 +1,357 @@
+{
+    "license_title": "Creative Commons Attribution Share-Alike 4.0",
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-12T22:53:55.714271",
+    "id": "c1d75d33-bf91-46a6-9d36-22ba25b65474",
+    "metadata_created": "2014-11-12T22:53:55.714271",
+    "owner_org": "d053dbc0-7a56-4798-b138-1e377618d497",
+    "metadata_modified": "2014-11-12T22:56:45.856559",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-SA-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "5c880970-fea8-4956-a184-9f5c573af01c",
+            "resource_description": "Complete Database",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-12T22:56:45.856559",
+            "webstore_last_updated": null,
+            "id": "cdbb4910-d208-4858-94f5-2bdaf7373f1f",
+            "size": "9370",
+            "state": "active",
+            "hash": "da4e3bd1a181ae5ee4c8980285110b16be8ec517",
+            "description": "{\"resource_description\":\"Complete Database\",\"resource_access\":\"Private\"}",
+            "format": "getdata",
+            "tracking_summary": {
+                "total": 6,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Complete Database",
+            "created": "2014-04-21T09:08:09.538192",
+            "url": "http://data.ilri.org/portal/",
+            "webstore_url": null,
+            "last_modified": "2014-11-12T22:56:45.679828",
+            "position": 0,
+            "revision_id": "0c98b141-e307-4463-89ae-58c656e21f8b",
+            "ILRIResourceAccess": "Private",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "carbon",
+            "name": "carbon",
+            "revision_timestamp": "2014-11-12T22:53:55.714271",
+            "state": "active",
+            "id": "2ae3ee26-ef9f-4bc8-af8a-2973980f31ee"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "climate change",
+            "name": "climate change",
+            "revision_timestamp": "2014-11-12T22:53:55.714271",
+            "state": "active",
+            "id": "7819d61a-2631-438d-808f-c86995c8638d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "dairy",
+            "name": "dairy",
+            "revision_timestamp": "2014-11-12T22:53:55.714271",
+            "state": "active",
+            "id": "c39463cb-5a22-4aa5-97fd-f20eeb12e11e"
+        }
+    ],
+    "tracking_summary": {
+        "total": 14,
+        "recent": 1
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "envimpact",
+    "isopen": true,
+    "url": "http://data.ilri.org/portal/",
+    "notes": "Estimating GHG mitigation potential in dairy production systems and assessing the feasibility of carbon market linkages",
+    "title": "Green house gas mitigation potential in dairy production systems",
+    "extras": [
+        {
+            "value": "{\"southWestLat\":0.005447377908226271,\"southWestLong\":34.773582466878,\"northEastLat\":0.3528877737777541,\"northEastLong\":35.17046357039362}",
+            "key": "ILRI_actyboundbox",
+            "__extras": {
+                "revision_id": "fe9d6e7a-cf9c-4351-9096-486cc75684aa",
+                "package_id": "c1d75d33-bf91-46a6-9d36-22ba25b65474"
+            }
+        },
+        {
+            "value": "0.17916757584299017,34.97202301863581",
+            "key": "ILRI_actyboundboxcenter",
+            "__extras": {
+                "revision_id": "fe9d6e7a-cf9c-4351-9096-486cc75684aa",
+                "package_id": "c1d75d33-bf91-46a6-9d36-22ba25b65474"
+            }
+        },
+        {
+            "value": "Not available yet",
+            "key": "ILRI_actycitation",
+            "__extras": {
+                "package_id": "c1d75d33-bf91-46a6-9d36-22ba25b65474",
+                "revision_id": "fe9d6e7a-cf9c-4351-9096-486cc75684aa"
+            }
+        },
+        {
+            "value": "Not available yet",
+            "key": "ILRI_actycitationacknowledge",
+            "__extras": {
+                "revision_id": "fe9d6e7a-cf9c-4351-9096-486cc75684aa",
+                "package_id": "c1d75d33-bf91-46a6-9d36-22ba25b65474"
+            }
+        },
+        {
+            "value": "I.BALTENWECK@CGIAR.ORG",
+            "key": "ILRI_actycontactemail",
+            "__extras": {
+                "package_id": "c1d75d33-bf91-46a6-9d36-22ba25b65474",
+                "revision_id": "fe9d6e7a-cf9c-4351-9096-486cc75684aa"
+            }
+        },
+        {
+            "value": "Isabelle Baltenweck",
+            "key": "ILRI_actycontactperson",
+            "__extras": {
+                "package_id": "c1d75d33-bf91-46a6-9d36-22ba25b65474",
+                "revision_id": "fe9d6e7a-cf9c-4351-9096-486cc75684aa"
+            }
+        },
+        {
+            "value": "Isabelle Baltenweck",
+            "key": "ILRI_actydataowner",
+            "__extras": {
+                "revision_id": "fe9d6e7a-cf9c-4351-9096-486cc75684aa",
+                "package_id": "c1d75d33-bf91-46a6-9d36-22ba25b65474"
+            }
+        },
+        {
+            "value": "31/12/2015",
+            "key": "ILRI_actydatavailable",
+            "__extras": {
+                "package_id": "c1d75d33-bf91-46a6-9d36-22ba25b65474",
+                "revision_id": "fe9d6e7a-cf9c-4351-9096-486cc75684aa"
+            }
+        },
+        {
+            "value": "01/05/2013",
+            "key": "ILRI_actydatecollected",
+            "__extras": {
+                "revision_id": "fe9d6e7a-cf9c-4351-9096-486cc75684aa",
+                "package_id": "c1d75d33-bf91-46a6-9d36-22ba25b65474"
+            }
+        },
+        {
+            "value": "{\"southWestLat\":-0.08239743253576284,\"southWestLong\":34.589080810546875,\"northEastLat\":0.4394488164139768,\"northEastLong\":35.435028076171875}",
+            "key": "ILRI_actymapextent",
+            "__extras": {
+                "package_id": "c1d75d33-bf91-46a6-9d36-22ba25b65474",
+                "revision_id": "fe9d6e7a-cf9c-4351-9096-486cc75684aa"
+            }
+        },
+        {
+            "value": "10",
+            "key": "ILRI_actymapzoom",
+            "__extras": {
+                "package_id": "c1d75d33-bf91-46a6-9d36-22ba25b65474",
+                "revision_id": "fe9d6e7a-cf9c-4351-9096-486cc75684aa"
+            }
+        },
+        {
+            "value": "Nandi,Uasin Gishu,Elgayo/Marakwet",
+            "key": "ILRI_actynatlevel",
+            "__extras": {
+                "revision_id": "fe9d6e7a-cf9c-4351-9096-486cc75684aa",
+                "package_id": "c1d75d33-bf91-46a6-9d36-22ba25b65474"
+            }
+        },
+        {
+            "value": "FAO, Unique forestry",
+            "key": "ILRI_actypartners",
+            "__extras": {
+                "revision_id": "fe9d6e7a-cf9c-4351-9096-486cc75684aa",
+                "package_id": "c1d75d33-bf91-46a6-9d36-22ba25b65474"
+            }
+        },
+        {
+            "value": "Isabelle Baltenweck",
+            "key": "ILRI_actypi",
+            "__extras": {
+                "revision_id": "fe9d6e7a-cf9c-4351-9096-486cc75684aa",
+                "package_id": "c1d75d33-bf91-46a6-9d36-22ba25b65474"
+            }
+        },
+        {
+            "value": "Data sharing agreement needed for location specific information",
+            "key": "ILRI_actysharingagreement",
+            "__extras": {
+                "revision_id": "fe9d6e7a-cf9c-4351-9096-486cc75684aa",
+                "package_id": "c1d75d33-bf91-46a6-9d36-22ba25b65474"
+            }
+        },
+        {
+            "value": "Simon Fraval, James Rao, Julius Githinju, Edmund Githoro, Turry Ouma",
+            "key": "ILRI_actystaff",
+            "__extras": {
+                "revision_id": "fe9d6e7a-cf9c-4351-9096-486cc75684aa",
+                "package_id": "c1d75d33-bf91-46a6-9d36-22ba25b65474"
+            }
+        },
+        {
+            "value": "Not available yet",
+            "key": "ILRI_actyusageconditions",
+            "__extras": {
+                "package_id": "c1d75d33-bf91-46a6-9d36-22ba25b65474",
+                "revision_id": "fe9d6e7a-cf9c-4351-9096-486cc75684aa"
+            }
+        },
+        {
+            "value": "Esimating GHG mitigation potential in dairy production systems and assessing the feasibility of carbon market linkages",
+            "key": "ILRI_prjabstract",
+            "__extras": {
+                "revision_id": "fe9d6e7a-cf9c-4351-9096-486cc75684aa",
+                "package_id": "c1d75d33-bf91-46a6-9d36-22ba25b65474"
+            }
+        },
+        {
+            "value": "KENYA",
+            "key": "ILRI_prjcountries",
+            "__extras": {
+                "revision_id": "fe9d6e7a-cf9c-4351-9096-486cc75684aa",
+                "package_id": "c1d75d33-bf91-46a6-9d36-22ba25b65474"
+            }
+        },
+        {
+            "value": "NA",
+            "key": "ILRI_prjdonor",
+            "__extras": {
+                "package_id": "c1d75d33-bf91-46a6-9d36-22ba25b65474",
+                "revision_id": "fe9d6e7a-cf9c-4351-9096-486cc75684aa"
+            }
+        },
+        {
+            "value": "31/12/2014",
+            "key": "ILRI_prjedate",
+            "__extras": {
+                "revision_id": "fe9d6e7a-cf9c-4351-9096-486cc75684aa",
+                "package_id": "c1d75d33-bf91-46a6-9d36-22ba25b65474"
+            }
+        },
+        {
+            "value": "NA",
+            "key": "ILRI_prjgrant",
+            "__extras": {
+                "package_id": "c1d75d33-bf91-46a6-9d36-22ba25b65474",
+                "revision_id": "fe9d6e7a-cf9c-4351-9096-486cc75684aa"
+            }
+        },
+        {
+            "value": "FAO, Unique forestry",
+            "key": "ILRI_prjpartners",
+            "__extras": {
+                "package_id": "c1d75d33-bf91-46a6-9d36-22ba25b65474",
+                "revision_id": "fe9d6e7a-cf9c-4351-9096-486cc75684aa"
+            }
+        },
+        {
+            "value": "Isabelle Baltenweck",
+            "key": "ILRI_prjpi",
+            "__extras": {
+                "package_id": "c1d75d33-bf91-46a6-9d36-22ba25b65474",
+                "revision_id": "fe9d6e7a-cf9c-4351-9096-486cc75684aa"
+            }
+        },
+        {
+            "value": "EAST AFRICA",
+            "key": "ILRI_prjregions",
+            "__extras": {
+                "revision_id": "fe9d6e7a-cf9c-4351-9096-486cc75684aa",
+                "package_id": "c1d75d33-bf91-46a6-9d36-22ba25b65474"
+            }
+        },
+        {
+            "value": "01/05/2013",
+            "key": "ILRI_prjsdate",
+            "__extras": {
+                "package_id": "c1d75d33-bf91-46a6-9d36-22ba25b65474",
+                "revision_id": "fe9d6e7a-cf9c-4351-9096-486cc75684aa"
+            }
+        },
+        {
+            "value": "CATTLE",
+            "key": "ILRI_prjspecies",
+            "__extras": {
+                "revision_id": "fe9d6e7a-cf9c-4351-9096-486cc75684aa",
+                "package_id": "c1d75d33-bf91-46a6-9d36-22ba25b65474"
+            }
+        },
+        {
+            "value": "Simon Fraval, James Rao, Julius Githinju, Edmund Githoro, Turry Ouma",
+            "key": "ILRI_prjstaff",
+            "__extras": {
+                "package_id": "c1d75d33-bf91-46a6-9d36-22ba25b65474",
+                "revision_id": "fe9d6e7a-cf9c-4351-9096-486cc75684aa"
+            }
+        },
+        {
+            "value": "Green house gas mitigation potential in dairy production systems",
+            "key": "ILRI_prjtitle",
+            "__extras": {
+                "revision_id": "fe9d6e7a-cf9c-4351-9096-486cc75684aa",
+                "package_id": "c1d75d33-bf91-46a6-9d36-22ba25b65474"
+            }
+        },
+        {
+            "value": "",
+            "key": "ILRI_prjwebsite",
+            "__extras": {
+                "package_id": "c1d75d33-bf91-46a6-9d36-22ba25b65474",
+                "revision_id": "fe9d6e7a-cf9c-4351-9096-486cc75684aa"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "organization": {
+        "description": "The International Livestock Research Institute (ILRI) works to improve food security and reduce poverty in developing countries through research for better and more sustainable use of livestock. ILRI is a member of the CGIAR Consortium which works for a food-secure future.",
+        "title": "ILRI",
+        "created": "2014-08-19T09:51:48.312508",
+        "approval_status": "approved",
+        "revision_timestamp": "2014-08-19T09:51:48.269962",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://www.fangrvn.com/upload/ilri_logo_color_1377842099.jpg",
+        "revision_id": "628af016-a0e5-4abb-8fa0-78160498318f",
+        "type": "organization",
+        "id": "d053dbc0-7a56-4798-b138-1e377618d497",
+        "name": "ilri"
+    },
+    "revision_id": "fe9d6e7a-cf9c-4351-9096-486cc75684aa",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

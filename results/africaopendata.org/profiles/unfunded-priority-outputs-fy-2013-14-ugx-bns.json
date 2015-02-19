@@ -1,0 +1,146 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "CSBAG",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "csbag@csbag.org",
+    "revision_timestamp": "2014-11-04T22:29:27.516278",
+    "id": "a64ae1b0-9b6f-423e-a66f-f20979afd6a3",
+    "metadata_created": "2014-11-04T22:29:27.516278",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:50:11.742684",
+    "author": "CSBAG",
+    "author_email": "csbag@csbag.org",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "07bdbde4-bb5a-4ad0-b3b2-bc741f00f5e0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:50:11.742684",
+            "webstore_last_updated": "2014-08-13T15:47:38.079520",
+            "id": "c1dd9a5b-29ab-4742-a480-4b148d9ee8d1",
+            "size": "13122",
+            "state": "active",
+            "hash": "a16501aa6e76e05491ee5f41b80b1af4",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Unfunded Priority Outputs FY 2013-14 (UGX, Bns)",
+            "created": "2014-08-13T15:47:31.839313",
+            "url": "http://catalog.data.ug/dataset/a64ae1b0-9b6f-423e-a66f-f20979afd6a3/resource/c1dd9a5b-29ab-4742-a480-4b148d9ee8d1/download/unfundedpriorityoutputsfy201314ugxbns.csv",
+            "webstore_url": "active",
+            "last_modified": "2014-08-13T15:47:35.042967",
+            "position": 0,
+            "revision_id": "d285f64b-da88-44ed-aea8-16c101f1754a",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Budget",
+            "name": "Budget",
+            "revision_timestamp": "2014-11-04T22:29:27.516278",
+            "state": "active",
+            "id": "1e720dc6-5aa5-4329-bcbc-f8d42dc95cd3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:29:27.516278",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:29:27.516278",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:29:27.516278",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:29:27.516278",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:29:27.516278",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:29:27.516278",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:29:27.516278",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 8,
+        "recent": 5
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 8,
+    "name": "unfunded-priority-outputs-fy-2013-14-ugx-bns",
+    "isopen": false,
+    "url": "http://www.csbag.org/docs/Citizens_Budget_FY2013_14.pdf",
+    "notes": "Critical analysis of the Sector Budget Framework Paper (SBFP) for FY 2013-14, reveals that there is a huge funding gap amounting Ushs 1,445.22bn and some of the key priorities unfunded are listed here\r\nSource: NBFP 2013/14-2017/18, MFPED",
+    "title": "Unfunded Priority Outputs FY 2013-14 (UGX, Bns)",
+    "extras": [
+        {
+            "value": "www.data.ug",
+            "key": "Published by",
+            "__extras": {
+                "revision_id": "23cb6f69-489a-4569-ae7c-616fd4732c5a",
+                "package_id": "a64ae1b0-9b6f-423e-a66f-f20979afd6a3"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "23cb6f69-489a-4569-ae7c-616fd4732c5a"
+}

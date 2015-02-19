@@ -1,0 +1,97 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-09-08T09:21:38.885315",
+    "id": "3ffc4cc6-bedd-4172-a925-fc9b69d8aa3f",
+    "metadata_created": "2012-09-08T09:04:37.869123",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:25:01.733396",
+    "author": "Eastern Cape Department of Education, South Africa",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "55ad443f-d3fa-41ff-a767-29185d092e60",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:25:01.733396",
+            "webstore_last_updated": null,
+            "id": "f44fb194-a6e4-46c9-8738-94f72b0de9b9",
+            "size": "9912025",
+            "state": "active",
+            "hash": "a31f5c20ee2cb9fa4f120eb8b29211df0caa38c9",
+            "description": "This is a 9MB excel file comprised of 2 spreadsheets on different tabs. The first tab just has a legend but the spreadsheet on the second tab has some extremely detailed grade 12 subject results statistics for the Eastern Cape released in 2011. This data set allows one to examine how well each school in the Eastern Cape performed in terms of results per subject for the years 2008 - 2011, with detailed listings of performance for each subject, so that one may view for example, how many female learners achieved 89-100% in accounting at Butterworth High school in 2008. The data downloaded from http://www.ecdoe.gov.za/publications/13/42/all shows the kind of detail that can be requested for other provinces if needed. I was not able to find such detailed results published on other provincial education websites, but according to another bootcamp participant it is easily available on request.",
+            "format": "xlsx",
+            "tracking_summary": {
+                "total": 7,
+                "recent": 2
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "cache_url": null,
+            "name": "EC quality of pass for each subject per school.xlsx",
+            "created": "2012-09-08T09:21:15.494122",
+            "url": "http://www.africaopendata.org//storage/f/2012-09-08T09%3A05%3A16.285Z/ec-quality-of-pass-for-each-subject-per-school.xlsx",
+            "webstore_url": null,
+            "last_modified": "2013-10-10T12:25:01.662428",
+            "position": 0,
+            "revision_id": "6f9afbf0-611a-4f36-8ebc-4a7d339f108d",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern cape",
+            "name": "eastern cape",
+            "revision_timestamp": "2012-09-08T09:04:37.869123",
+            "state": "active",
+            "id": "037dec23-8e5e-41c8-829d-3039ae40f54a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "education",
+            "name": "education",
+            "revision_timestamp": "2012-09-08T09:04:37.869123",
+            "state": "active",
+            "id": "4bc98291-13cc-4baf-b090-52376fa3a429"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "south africa",
+            "name": "south africa",
+            "revision_timestamp": "2012-09-08T09:04:37.869123",
+            "state": "active",
+            "id": "bd037a16-d2e3-4945-89eb-3ae7f142f7fb"
+        }
+    ],
+    "tracking_summary": {
+        "total": 228,
+        "recent": 10
+    },
+    "groups": [
+        {
+            "title": "South Africa",
+            "description": "Datasets from South Africa",
+            "name": "south-africa",
+            "id": "fc691a3f-cfce-46d6-93a0-77bdccfec89d"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "eastern-cape-grade-12-quality-of-subject-pass",
+    "isopen": false,
+    "url": null,
+    "notes": "This data set allows one to examine how well each school performed in terms of results per subject, with detailed listings of performance for each subject, so that one may view for example, how many female learners achieved 89-100% in accounting at Butterworth High school. The data downloaded from http://www.ecdoe.gov.za/publications/13/42/all shows the kind of detail that can be requested for other provinces if needed.",
+    "title": "Eastern Cape grade 12 quality of subject pass",
+    "extras": [],
+    "organization": null,
+    "revision_id": "6ce109bf-24a1-4513-b7ac-9921fb1780ba"
+}

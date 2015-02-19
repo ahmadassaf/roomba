@@ -1,0 +1,247 @@
+{
+    "missing": [
+        "organization"
+    ],
+    "undefined": [
+        "url",
+        "owner_org",
+        "version"
+    ],
+    "unreachableURLs": [],
+    "report": [
+        "url field exists but there is no value defined",
+        "owner_org field exists but there is no value defined",
+        "organization information is missing",
+        "version field exists but there is no value defined"
+    ],
+    "tag": {
+        "bestemmingsplan": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "bouwvergunning": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "evenementenvergunning": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "exploitatievergunning": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "gebruiksvergunning": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "gehandicaptenparkeerplaatsvergunning": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "kapvergunning": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "omgevingsvergunningen": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "rectificatie": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "registerkinderopvang\n": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "splitsingsvergunningen": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "vergunning": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "vergunningen": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        }
+    },
+    "group": {
+        "Bestuur en organisatie": {
+            "missing": [
+                "display_name",
+                "image_display_url"
+            ],
+            "undefined": [
+                "description"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "display_name field is missing",
+                "description field exists but there is no value defined",
+                "image_display_url field is missing"
+            ]
+        }
+    },
+    "license": {
+        "license": {
+            "missing": [],
+            "undefined": [],
+            "unreachableURLs": [],
+            "report": [
+                "License information has been normalized !"
+            ]
+        }
+    },
+    "resource": {
+        "http://geodata.nationaalgeoregister.nl/pdok/wfs?SERVICE=WFS&VERSION=1.0.0&REQUEST=GetFeature&TYPENAME=pdok:bekendmakingen_punt&FILTER=%3CFilter%3E%3CPropertyIsLike%20wildCard=%27*%27%20singleChar=%27.%27%20escape=%27!%27%3E%3CPropertyName%3Epdok:overheid%3C/PropertyName%3E%3CLiteral%3EAmsterdam*%3C/Literal%3E%3C/PropertyIsLike%3E%3C/Filter%3E": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "webstore_url",
+                "last_modified"
+            ],
+            "unreachableURLs": [
+                "http://geodata.nationaalgeoregister.nl/pdok/wfs?SERVICE=WFS&VERSION=1.0.0&REQUEST=GetFeature&TYPENAME=pdok:bekendmakingen_punt&FILTER=%3CFilter%3E%3CPropertyIsLike%20wildCard=%27*%27%20singleChar=%27.%27%20escape=%27!%27%3E%3CPropertyName%3Epdok:overheid%3C/PropertyName%3E%3CLiteral%3EAmsterdam*%3C/Literal%3E%3C/PropertyIsLike%3E%3C/Filter%3E"
+            ],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined",
+                "The url for this resource is not reachable !"
+            ],
+            "unreachableTypes": {
+                "api": "http://geodata.nationaalgeoregister.nl/pdok/wfs?SERVICE=WFS&VERSION=1.0.0&REQUEST=GetFeature&TYPENAME=pdok:bekendmakingen_punt&FILTER=%3CFilter%3E%3CPropertyIsLike%20wildCard=%27*%27%20singleChar=%27.%27%20escape=%27!%27%3E%3CPropertyName%3Epdok:overheid%3C/PropertyName%3E%3CLiteral%3EAmsterdam*%3C/Literal%3E%3C/PropertyIsLike%3E%3C/Filter%3E"
+            }
+        },
+        "http://geozet.koop.overheid.nl/wfs": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "size",
+                "hash",
+                "mimetype_inner",
+                "mimetype",
+                "cache_url",
+                "webstore_url",
+                "last_modified"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "size field exists but there is no value defined",
+                "hash field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "mimetype field exists but there is no value defined",
+                "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined",
+                "last_modified field exists but there is no value defined"
+            ]
+        }
+    },
+    "counter": {
+        "group": 1,
+        "tag": 13,
+        "resource": 2
+    }
+}

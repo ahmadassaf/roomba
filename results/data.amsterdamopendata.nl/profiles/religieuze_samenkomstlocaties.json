@@ -1,0 +1,203 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2014-11-20T15:25:31.196592",
+    "id": "8215114b-042c-44df-8b0f-76a03025e494",
+    "metadata_created": "2014-11-20T15:25:31.196592",
+    "owner_org": null,
+    "metadata_modified": "2014-11-20T15:30:28.474991",
+    "author": "O+S",
+    "author_email": "algemeen@os.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "fafba7a6-3561-4389-adf3-a0a72dff0b93",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-20T15:30:28.474991",
+            "webstore_last_updated": null,
+            "id": "1ef26dbd-012f-4a84-afcd-49947a14f5a7",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Download via maps.amsterdam.nl",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://maps.amsterdam.nl/open_geodata/",
+            "created": "2014-11-20T16:30:28.607600",
+            "url": "http://maps.amsterdam.nl/open_geodata/",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "9bbf910f-aa01-4600-baa8-07eb8f46a230",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kerk",
+            "name": "kerk",
+            "revision_timestamp": "2014-11-20T15:25:31.196592",
+            "state": "active",
+            "id": "637a19c8-839d-4c8f-9d77-de10d79ab009"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kerken",
+            "name": "kerken",
+            "revision_timestamp": "2014-11-20T15:25:31.196592",
+            "state": "active",
+            "id": "9ccd2b6c-7cec-4fd3-a0a9-7f974602b741"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "moskee",
+            "name": "moskee",
+            "revision_timestamp": "2014-11-20T15:25:31.196592",
+            "state": "active",
+            "id": "263bebd6-93c7-48d9-963a-fbdcd087c23f"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "moskees",
+            "name": "moskees",
+            "revision_timestamp": "2014-11-20T15:25:31.196592",
+            "state": "active",
+            "id": "2d9f1346-6858-405e-8898-8f2f084a86ee"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "synagoge",
+            "name": "synagoge",
+            "revision_timestamp": "2014-11-20T15:25:31.196592",
+            "state": "active",
+            "id": "1c3f192f-e833-4001-91ea-824e1db4600a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "synagoges",
+            "name": "synagoges",
+            "revision_timestamp": "2014-11-20T15:25:31.196592",
+            "state": "active",
+            "id": "0d442d44-7432-4d08-a852-e2c8bfcd5d76"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "tempel",
+            "name": "tempel",
+            "revision_timestamp": "2014-11-20T15:25:31.196592",
+            "state": "active",
+            "id": "80dc36a5-9f35-4e68-8a44-eead04083509"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "tempels",
+            "name": "tempels",
+            "revision_timestamp": "2014-11-20T15:25:31.196592",
+            "state": "active",
+            "id": "acae6227-7afc-4bda-acb9-34eecebc58af"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Bevolking",
+            "description": "",
+            "name": "bevolking",
+            "id": "6bccb292-98ad-40f9-9407-4653bf70b86c"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 8,
+    "name": "religieuze_samenkomstlocaties",
+    "isopen": true,
+    "url": null,
+    "notes": "Locaties van kerken, moskees, synagoges en tempels in Amsterdam",
+    "title": "Religieuze samenkomstlocaties",
+    "extras": [
+        {
+            "value": "c.wenneker@os.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "8215114b-042c-44df-8b0f-76a03025e494",
+                "revision_id": "cc9f9259-020f-47ec-9ffc-708633ec16c4"
+            }
+        },
+        {
+            "value": "Clemens Wenneker",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "cc9f9259-020f-47ec-9ffc-708633ec16c4",
+                "package_id": "8215114b-042c-44df-8b0f-76a03025e494"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "cc9f9259-020f-47ec-9ffc-708633ec16c4",
+                "package_id": "8215114b-042c-44df-8b0f-76a03025e494"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "cc9f9259-020f-47ec-9ffc-708633ec16c4",
+                "package_id": "8215114b-042c-44df-8b0f-76a03025e494"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "8215114b-042c-44df-8b0f-76a03025e494",
+                "revision_id": "cc9f9259-020f-47ec-9ffc-708633ec16c4"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "8215114b-042c-44df-8b0f-76a03025e494",
+                "revision_id": "cc9f9259-020f-47ec-9ffc-708633ec16c4"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "cc9f9259-020f-47ec-9ffc-708633ec16c4",
+                "package_id": "8215114b-042c-44df-8b0f-76a03025e494"
+            }
+        },
+        {
+            "value": "http://maps.amsterdam.nl/religie/",
+            "key": "website",
+            "__extras": {
+                "package_id": "8215114b-042c-44df-8b0f-76a03025e494",
+                "revision_id": "cc9f9259-020f-47ec-9ffc-708633ec16c4"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "cc9f9259-020f-47ec-9ffc-708633ec16c4"
+}

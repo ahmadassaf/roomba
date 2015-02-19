@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Kenya Visualization Bot",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T12:53:25.625584",
+    "id": "e6e22ebf-65b4-4ea1-a40f-2a50f5889e90",
+    "metadata_created": "2012-09-10T12:53:25.625584",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:13:06.858739",
+    "author": "Chris Metcalf",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "e3618119-e750-44ff-b26c-d559269873d7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:13:06.858739",
+            "webstore_last_updated": "2013-10-10T12:13:06.789181",
+            "id": "5ce88beb-236b-45f1-b2d0-617eb968f335",
+            "size": "255",
+            "state": "active",
+            "hash": "0e93ddf75d85a67635b683a09bca57db900f0381",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Tiata Taveta Age Pyramid.csv",
+            "created": "2012-09-11T13:38:40.034482",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T154124/2qkc-n59j.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T10:42:14.400521",
+            "position": 0,
+            "revision_id": "f57215d7-ddb7-437e-9e7a-0b772730b485",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T12:53:25.625584",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T12:53:25.625584",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population",
+            "name": "population",
+            "revision_timestamp": "2012-09-10T12:53:25.625584",
+            "state": "active",
+            "id": "c5e39de5-556e-4bcb-883b-5b9ec2481ae9"
+        }
+    ],
+    "tracking_summary": {
+        "total": 60,
+        "recent": 4
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-2qkc-n59j",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Male and female populations by age group.",
+    "title": "Tiata Taveta Age Pyramid",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "5496ffb3-5673-4d9f-bc80-c4c65efe6fec",
+                "package_id": "e6e22ebf-65b4-4ea1-a40f-2a50f5889e90"
+            }
+        },
+        {
+            "value": "Population",
+            "key": "category",
+            "__extras": {
+                "revision_id": "5496ffb3-5673-4d9f-bc80-c4c65efe6fec",
+                "package_id": "e6e22ebf-65b4-4ea1-a40f-2a50f5889e90"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "5496ffb3-5673-4d9f-bc80-c4c65efe6fec",
+                "package_id": "e6e22ebf-65b4-4ea1-a40f-2a50f5889e90"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "5496ffb3-5673-4d9f-bc80-c4c65efe6fec"
+}

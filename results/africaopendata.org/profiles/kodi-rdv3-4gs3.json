@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Samuel Kipruto",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:57:41.843722",
+    "id": "f8b4f74f-cae8-4ac8-8eb0-08033306c039",
+    "metadata_created": "2012-09-11T13:57:41.843722",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:02:55.019257",
+    "author": "Samuel Kipruto",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "432b5b60-30a8-43c5-bbe8-2d2ec0a358c4",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:02:55.019257",
+            "webstore_last_updated": "2013-10-10T12:02:54.953118",
+            "id": "718c822f-a961-40dc-9d48-f579ca170ff5",
+            "size": "2609",
+            "state": "active",
+            "hash": "d36f95d8e41a7981c34de36be6599ac6bb661c67",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Gross Domestic Product Growth Rates At Constant Prices- 2002-2009.csv",
+            "created": "2012-09-11T13:57:41.881115",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T160026/rdv3-4gs3.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T10:43:58.034358",
+            "position": 0,
+            "revision_id": "fde2a743-cc81-466d-a619-cb177cddfed7",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "gdp",
+            "name": "gdp",
+            "revision_timestamp": "2012-09-11T13:57:41.843722",
+            "state": "active",
+            "id": "cbb01a93-4bb5-4ab2-a836-a80ecfe5a699"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:57:41.843722",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:57:41.843722",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 55,
+        "recent": 3
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-rdv3-4gs3",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Kenya National Bureau of Statistics     Gross Domestic Product Growth Rates at Constant Prices 2002-2009      Statistical Abstract",
+    "title": "Gross Domestic Product Growth Rates At Constant Prices- 2002-2009",
+    "extras": [
+        {
+            "value": "Kenya National Bureau of Statistics",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "c6f05c4a-5afd-4ca7-8d50-5425773bf738",
+                "package_id": "f8b4f74f-cae8-4ac8-8eb0-08033306c039"
+            }
+        },
+        {
+            "value": "Manufacturing and industry",
+            "key": "category",
+            "__extras": {
+                "revision_id": "c6f05c4a-5afd-4ca7-8d50-5425773bf738",
+                "package_id": "f8b4f74f-cae8-4ac8-8eb0-08033306c039"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "c6f05c4a-5afd-4ca7-8d50-5425773bf738",
+                "package_id": "f8b4f74f-cae8-4ac8-8eb0-08033306c039"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "c6f05c4a-5afd-4ca7-8d50-5425773bf738"
+}

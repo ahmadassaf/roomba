@@ -1,0 +1,108 @@
+{
+    "license_title": "Open Data Commons Attribution License 1.0",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-11-04T18:23:19.672104",
+    "id": "2ca52db7-5750-428c-a7d1-40fb9c75f0b5",
+    "metadata_created": "2012-11-04T18:23:05.003779",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:57:44.776349",
+    "author": "World Bank (finance.worldbank.org)",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "ODC-BY-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "b9dab9e9-d8d4-4082-ab90-db91aa6a8f92",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:57:44.776349",
+            "webstore_last_updated": "2013-10-10T10:57:44.706419",
+            "id": "db3455b6-9484-4230-a613-86441f7a5c09",
+            "size": "5421",
+            "state": "active",
+            "hash": "0915c10fd264fd243181c7648b766b0d88d596bb",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "RETF_-_Africa_as_Beneficiary-Namibia.csv",
+            "created": "2012-11-04T18:23:13.139561",
+            "url": "http://africaopendata.org/storage/f/2012-11-04T18%3A23%3A09.075Z/retf-africa-as-beneficiary-namibia.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:32:51.567291",
+            "position": 0,
+            "revision_id": "39852e65-db45-4ed6-a346-92380d2a7ff2",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Namibia",
+            "name": "Namibia",
+            "revision_timestamp": "2012-11-04T18:23:05.003779",
+            "state": "active",
+            "id": "0da609ff-7399-4ff1-aec9-ba341d22bd86"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Trust Funds",
+            "name": "Trust Funds",
+            "revision_timestamp": "2012-11-04T18:23:05.003779",
+            "state": "active",
+            "id": "f284b6a5-a6fb-4bf2-ab20-7d376e25c5d6"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "World Bank",
+            "name": "World Bank",
+            "revision_timestamp": "2012-11-04T18:23:05.003779",
+            "state": "active",
+            "id": "ae91265e-0b5c-45a0-a96f-02cf356ec937"
+        }
+    ],
+    "tracking_summary": {
+        "total": 60,
+        "recent": 5
+    },
+    "groups": [
+        {
+            "title": "Namibia",
+            "description": "Datasets on the Republic of Namibia",
+            "name": "namibia",
+            "id": "0921320a-e4b1-4e0a-a707-3a957c283210"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "trust-fund-grants-committed-disbursed-namibia",
+    "isopen": true,
+    "url": null,
+    "notes": "A Recipient-executed Grant is a Trust Fund Grant that is provided to a third party under a grant agreement, and for which the Bank plays an operational role - i.e., the Bank normally appraises and supervises activities financed by these funds. This dataset provides data on the amount of grant funds committed in the course of a fiscal year and payments made out of a Trust Fund account to eligible recipients, in accordance with the legal agreements. In fulfilling its responsibilities, the World Bank as Trustee complies with all sanctions applicable to World Bank transactions. Data is provided at the individual Trust Fund level. All definitions should be regarded at present as provisional and not final, and are subject to revision at any time.",
+    "title": "Trust Fund Grants Committed & Disbursed - Namibia",
+    "extras": [],
+    "license_url": "http://www.opendefinition.org/licenses/odc-by",
+    "organization": null,
+    "revision_id": "72ceaa82-8dfa-4032-9bf5-840e3ab38574",
+    "license_information": {
+        "domain_content": false,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Open Data Commons",
+        "status": "active"
+    }
+}

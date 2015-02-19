@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T14:01:03.148529",
+    "id": "abb1ecf0-6f59-4208-9bc6-a903be367076",
+    "metadata_created": "2012-09-11T14:01:03.148529",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T11:57:08.087933",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "4da44ab6-332f-4c08-9c85-07993af2fc4f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T11:57:08.087933",
+            "webstore_last_updated": "2013-10-10T11:57:08.011844",
+            "id": "c2df81fc-56d6-4162-9479-d4528449b245",
+            "size": "7340",
+            "state": "active",
+            "hash": "a7d1f6652fce32be63cb7f8fa93e6aabb168b993",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Vol II Jedwali 3:Idadi ya watu waliona miaka 3 na za zaidi wanaohudhuria shule kulingana na jinsia na kiwango cha juu cha elimu kilichofikiwa Katika Kaunti - 2009.csv",
+            "created": "2012-09-11T14:01:03.188712",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T160348/qmg8-8nbr.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:43:19.183120",
+            "position": 0,
+            "revision_id": "c00e29f2-d80e-4c92-b78c-0f36512b5938",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "census",
+            "name": "census",
+            "revision_timestamp": "2012-09-11T14:01:03.148529",
+            "state": "active",
+            "id": "ddb0e0e8-a185-4354-a375-3ad64ee35988"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T14:01:03.148529",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T14:01:03.148529",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 60,
+        "recent": 3
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-qmg8-8nbr",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "2009 Census",
+    "title": "Vol II Jedwali 3:Idadi ya watu waliona miaka 3 na za zaidi wanaohudhuria shule kulingana na jinsia na kiwango cha juu cha elimu kilichofikiwa Katika Kaunti - 2009",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "47191b2f-588c-47e9-8292-e4566677bb13",
+                "package_id": "abb1ecf0-6f59-4208-9bc6-a903be367076"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "47191b2f-588c-47e9-8292-e4566677bb13",
+                "package_id": "abb1ecf0-6f59-4208-9bc6-a903be367076"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "47191b2f-588c-47e9-8292-e4566677bb13",
+                "package_id": "abb1ecf0-6f59-4208-9bc6-a903be367076"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "47191b2f-588c-47e9-8292-e4566677bb13"
+}

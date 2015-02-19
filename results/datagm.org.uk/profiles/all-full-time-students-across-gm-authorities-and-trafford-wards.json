@@ -1,0 +1,117 @@
+{
+    "license_title": "UK Crown Copyright with data.gov.uk rights",
+    "maintainer": "info@statistics.gov.uk.",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2011-05-19T13:11:30.348598",
+    "id": "0cc369d0-62c0-452f-bb87-a08aa179644e",
+    "metadata_created": "2011-02-09T13:02:19.251280",
+    "owner_org": null,
+    "metadata_modified": "2013-12-08T06:29:07.342607",
+    "author": "Office for National Statistics",
+    "author_email": "Office for National Statistics",
+    "state": "active",
+    "version": "0.1",
+    "license_id": "ukcrown-withrights",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "application/octet-stream",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "{\"content\": \"de84971a4e4e7ff54139ca77222b1cdc68815449\", \"header\": \"0c38bbf69f5bdbe6487777ac47c675ed9e06c2eb\"}",
+            "description": "",
+            "format": "CSV",
+            "url": "http://store.datagm.org.uk/sets/misc/AllFullTimeStudents.csv",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 8,
+                "recent": 1
+            },
+            "revision_timestamp": "2013-12-08T06:29:07.342607",
+            "webstore_url": null,
+            "resource_group_id": "c604fed9-50fc-83b1-4975-55638b20a642",
+            "state": "active",
+            "last_modified": "2013-12-08T06:29:07.323490",
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "c12eb363-2ae2-49a9-8974-f501af0e695c",
+            "size": "6297",
+            "id": "d3ebf56b-7167-46a4-975a-e3d4c22b15e4",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "education",
+            "name": "education",
+            "revision_timestamp": "2011-02-09T13:02:19.251280",
+            "state": "active",
+            "id": "f39feb03-12d6-4455-959f-c1dd64cf5aed"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "full-time",
+            "name": "full-time",
+            "revision_timestamp": "2011-04-04T12:34:04.581474",
+            "state": "active",
+            "id": "55f9c12c-555e-4952-8090-db78542e198b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "students",
+            "name": "students",
+            "revision_timestamp": "2011-04-04T12:34:04.581474",
+            "state": "active",
+            "id": "63cd51da-3971-4d17-a69c-e38449ca8649"
+        }
+    ],
+    "tracking_summary": {
+        "total": 5,
+        "recent": 1
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "all-full-time-students-across-gm-authorities-and-trafford-wards",
+    "isopen": false,
+    "url": "http://store.datagm.org.uk/sets/misc/AllFullTimeStudents.csv",
+    "notes": "Full time Students ",
+    "title": "All Full-Time Students across GM authorities and Trafford Wards",
+    "extras": [
+        {
+            "value": "",
+            "key": "temporal_coverage-from",
+            "__extras": {
+                "package_id": "0cc369d0-62c0-452f-bb87-a08aa179644e",
+                "revision_id": "a66109fd-d6de-4724-aac9-66e666e2c6aa"
+            }
+        },
+        {
+            "value": "",
+            "key": "temporal_coverage-to",
+            "__extras": {
+                "package_id": "0cc369d0-62c0-452f-bb87-a08aa179644e",
+                "revision_id": "a66109fd-d6de-4724-aac9-66e666e2c6aa"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "ce91e718-38ed-4556-a9be-3728824a0d58",
+    "license_url": "",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": false,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "",
+        "status": "active"
+    }
+}

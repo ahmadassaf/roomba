@@ -1,0 +1,266 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2014-03-13T17:08:40.262557",
+    "id": "9e12c111-f8b3-456d-9774-c2b1f29793e6",
+    "metadata_created": "2014-03-13T17:04:51.298704",
+    "owner_org": null,
+    "metadata_modified": "2014-03-13T17:08:40.262557",
+    "author": "CitySDK",
+    "author_email": "citysdk@waag.org",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "485d8375-2420-40a7-ba4c-8cfe0dddbd4b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-03-13T17:08:40.262557",
+            "webstore_last_updated": null,
+            "id": "67d26fcd-642a-43ff-ab7f-6290be559364",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "API (PP4)",
+            "format": "url",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "http://api.citysdk.waag.org/admr.nl.amsterdam/nodes?layer=pc.nlp4",
+            "created": "2014-03-13T18:08:40.318964",
+            "url": "http://api.citysdk.waag.org/admr.nl.amsterdam/nodes?layer=pc.nlp4",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "57e4d601-31c7-44c9-b542-3a03dfbc1887",
+            "resource_type": "api"
+        },
+        {
+            "resource_group_id": "485d8375-2420-40a7-ba4c-8cfe0dddbd4b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-03-13T17:08:40.262557",
+            "webstore_last_updated": null,
+            "id": "d363caa2-379c-46ea-86ec-9d208296f013",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "API (PP5)",
+            "format": "url",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "http://api.citysdk.waag.org/admr.nl.amsterdam/nodes?layer=pc.nlp5",
+            "created": "2014-03-13T18:08:40.318991",
+            "url": "http://api.citysdk.waag.org/admr.nl.amsterdam/nodes?layer=pc.nlp5",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "57e4d601-31c7-44c9-b542-3a03dfbc1887",
+            "resource_type": "api"
+        },
+        {
+            "resource_group_id": "485d8375-2420-40a7-ba4c-8cfe0dddbd4b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-03-13T17:08:40.262557",
+            "webstore_last_updated": null,
+            "id": "6a1bd310-5396-4570-896a-f818b796a919",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "API (PP6)",
+            "format": "url",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "http://api.citysdk.waag.org/admr.nl.amsterdam/nodes?layer=pc.nlp6",
+            "created": "2014-03-13T18:08:40.318998",
+            "url": "http://api.citysdk.waag.org/admr.nl.amsterdam/nodes?layer=pc.nlp6",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "57e4d601-31c7-44c9-b542-3a03dfbc1887",
+            "resource_type": "api"
+        }
+    ],
+    "num_resources": 3,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "API",
+            "name": "API",
+            "revision_timestamp": "2014-03-13T17:04:51.298704",
+            "state": "active",
+            "id": "9078a2ff-6a1e-4d92-a59b-3e077f9e3994"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "CitySDK",
+            "name": "CitySDK",
+            "revision_timestamp": "2014-03-13T17:04:51.298704",
+            "state": "active",
+            "id": "55e65440-7713-43a0-b6de-a68cdd111e5d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "PC4",
+            "name": "PC4",
+            "revision_timestamp": "2014-03-13T17:04:51.298704",
+            "state": "active",
+            "id": "c21d52b7-afed-4d95-a1cc-6d49b290c53f"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "PC5",
+            "name": "PC5",
+            "revision_timestamp": "2014-03-13T17:04:51.298704",
+            "state": "active",
+            "id": "76b5564b-b55a-48a9-b348-1fcf29f1f637"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "PC6",
+            "name": "PC6",
+            "revision_timestamp": "2014-03-13T17:04:51.298704",
+            "state": "active",
+            "id": "7a623177-3979-44fa-9d13-29b007bc6efd"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "PP6",
+            "name": "PP6",
+            "revision_timestamp": "2014-03-13T17:04:51.298704",
+            "state": "active",
+            "id": "9b932bda-88b6-466a-868d-6ca84a04b9c8"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Postcode",
+            "name": "Postcode",
+            "revision_timestamp": "2014-03-13T17:04:51.298704",
+            "state": "active",
+            "id": "a710de76-7cf9-492d-ad40-c045f16b6e5a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Postcode6",
+            "name": "Postcode6",
+            "revision_timestamp": "2014-03-13T17:04:51.298704",
+            "state": "active",
+            "id": "fc5f7d91-5d58-49cb-a7d1-0c873d76a6a8"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Postcodes",
+            "name": "Postcodes",
+            "revision_timestamp": "2014-03-13T17:04:51.298704",
+            "state": "active",
+            "id": "95a83da5-02ee-40a2-b51b-ca23fa08de7b"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Geografie",
+            "description": "",
+            "name": "geografie",
+            "id": "12518db9-824a-44d5-b568-6369f401aef3"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 9,
+    "name": "postcode_data2",
+    "isopen": false,
+    "url": null,
+    "notes": "Informatie over postcodes is ook beschikbaar via de CitySDK API op postcode 4- (1234), postcode 5- (1234A) en postcode 6-niveau (1234AB)Deze data wordt verzameld vanuit de BAG, Kadaster en http://nlextract.nl",
+    "title": "Postcodedata",
+    "extras": [
+        {
+            "value": "citysdk@waag.org",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "9e12c111-f8b3-456d-9774-c2b1f29793e6",
+                "revision_id": "3bc5e057-bd2b-4e74-9567-e6a7f4bd51da"
+            }
+        },
+        {
+            "value": "Waag Society",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "3bc5e057-bd2b-4e74-9567-e6a7f4bd51da",
+                "package_id": "9e12c111-f8b3-456d-9774-c2b1f29793e6"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "3bc5e057-bd2b-4e74-9567-e6a7f4bd51da",
+                "package_id": "9e12c111-f8b3-456d-9774-c2b1f29793e6"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "3bc5e057-bd2b-4e74-9567-e6a7f4bd51da",
+                "package_id": "9e12c111-f8b3-456d-9774-c2b1f29793e6"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "9e12c111-f8b3-456d-9774-c2b1f29793e6",
+                "revision_id": "3bc5e057-bd2b-4e74-9567-e6a7f4bd51da"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "9e12c111-f8b3-456d-9774-c2b1f29793e6",
+                "revision_id": "3bc5e057-bd2b-4e74-9567-e6a7f4bd51da"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "3bc5e057-bd2b-4e74-9567-e6a7f4bd51da",
+                "package_id": "9e12c111-f8b3-456d-9774-c2b1f29793e6"
+            }
+        },
+        {
+            "value": "http://citysdk.waag.org/",
+            "key": "website",
+            "__extras": {
+                "package_id": "9e12c111-f8b3-456d-9774-c2b1f29793e6",
+                "revision_id": "3bc5e057-bd2b-4e74-9567-e6a7f4bd51da"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "57e4d601-31c7-44c9-b542-3a03dfbc1887"
+}

@@ -1,0 +1,146 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Kenya Open Data Bot",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T12:01:42.097569",
+    "id": "c53b14e7-17c2-4f9f-8132-e7c7b2fcb89b",
+    "metadata_created": "2012-09-10T12:01:42.097569",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:16:04.867458",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "0b715e69-7d74-4b0e-b978-fc9377528f6a",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:16:04.867458",
+            "webstore_last_updated": "2013-10-10T12:16:04.797391",
+            "id": "4d9415da-117d-428f-8ce3-95e3c6094770",
+            "size": "1375",
+            "state": "active",
+            "hash": "1e34ef103399cd803715d4cebd8620ed41f9c151",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Per Capita County Expenditures: Kilifi.csv",
+            "created": "2012-09-11T13:33:32.438132",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T153617/3hsb-unpf.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:47:34.192769",
+            "position": 0,
+            "revision_id": "d05b96c6-d40a-494a-a621-d933922a8d3f",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "cdf",
+            "name": "cdf",
+            "revision_timestamp": "2012-09-10T12:01:42.097569",
+            "state": "active",
+            "id": "e4f787d6-ec60-483a-b3b3-f941cf48c3b4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "county",
+            "name": "county",
+            "revision_timestamp": "2012-09-10T12:01:42.097569",
+            "state": "active",
+            "id": "858f3acf-2c66-4fd9-9dc2-32e4f12121a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "expenditures",
+            "name": "expenditures",
+            "revision_timestamp": "2012-09-10T12:01:42.097569",
+            "state": "active",
+            "id": "44c63fed-5be4-49aa-b2a5-1e7baf93d961"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T12:01:42.097569",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T12:01:42.097569",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "local authorities",
+            "name": "local authorities",
+            "revision_timestamp": "2012-09-10T12:01:42.097569",
+            "state": "active",
+            "id": "ece507fe-ec49-44f8-848e-39df75ac1866"
+        }
+    ],
+    "tracking_summary": {
+        "total": 60,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "kodi-3hsb-unpf",
+    "isopen": true,
+    "url": null,
+    "notes": "Local Authority and Constituency Development Fund Expenditures, County estimates, Kenya Shillings",
+    "title": "Per Capita County Expenditures: Kilifi",
+    "extras": [
+        {
+            "value": "Ministry of Local Government",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "5a91386f-6084-4008-9e55-58f445d9ef1b",
+                "package_id": "c53b14e7-17c2-4f9f-8132-e7c7b2fcb89b"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "5a91386f-6084-4008-9e55-58f445d9ef1b",
+                "package_id": "c53b14e7-17c2-4f9f-8132-e7c7b2fcb89b"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "5a91386f-6084-4008-9e55-58f445d9ef1b",
+                "package_id": "c53b14e7-17c2-4f9f-8132-e7c7b2fcb89b"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "5a91386f-6084-4008-9e55-58f445d9ef1b"
+}

@@ -1,0 +1,89 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-08-16T00:29:36.069026",
+    "id": "5d60b12f-4465-41e5-a706-29a277cba399",
+    "metadata_created": "2013-08-16T00:28:25.542732",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:44:41.610919",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "435e76a4-d7a8-44f5-a3f2-529f3efb4d77",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:44:41.610919",
+            "webstore_last_updated": "2013-10-10T10:44:41.501507",
+            "id": "517f8886-234e-41bc-822e-c7478d4eb56b",
+            "size": "2888",
+            "state": "active",
+            "hash": "7e21f4bab0ac1e381b039bcc9ff447631b2e049f",
+            "description": "The dataset details the performance (division 1 and division 2) by percentage in districts across Uganda.",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "uceresults.csv",
+            "created": "2013-08-16T00:29:22.901617",
+            "url": "http://africaopendata.org/storage/f/2013-08-16T00%3A29%3A44.026Z/uceresults.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-08-16T00:29:23.606958",
+            "position": 0,
+            "revision_id": "eceee077-6da7-4ca9-8ea7-58b597af7b94",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "education",
+            "name": "education",
+            "revision_timestamp": "2013-08-16T00:28:25.542732",
+            "state": "active",
+            "id": "4bc98291-13cc-4baf-b090-52376fa3a429"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2013-08-16T00:28:25.542732",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 68,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "uce-performance-2012-results",
+    "isopen": false,
+    "url": null,
+    "notes": "The dataset details the performance (division 1 and division 2) by percentage in districts across Uganda.",
+    "title": "UCE Performance 2012 Results",
+    "extras": [],
+    "organization": null,
+    "revision_id": "543c8c50-7307-49a7-8f1c-fa5c622a78b9"
+}

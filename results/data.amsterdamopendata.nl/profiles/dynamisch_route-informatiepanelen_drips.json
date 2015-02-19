@@ -1,0 +1,215 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2014-08-28T07:49:22.279394",
+    "id": "bc771dc4-89eb-4280-8737-c8ca8d1ffc1e",
+    "metadata_created": "2013-06-28T15:24:09.822025",
+    "owner_org": null,
+    "metadata_modified": "2014-08-28T07:49:22.279394",
+    "author": "Dienst IVV",
+    "author_email": "info@ivv.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "8820b538-e261-47f4-b90b-d7caba6e6919",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-08-28T07:49:22.279394",
+            "webstore_last_updated": null,
+            "id": "5a782961-a3b8-41f1-99cf-8a2aba361626",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Afbeeldingen + locaties",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://www.trafficlink-online.nl/drips/",
+            "created": "2014-08-28T09:49:22.317901",
+            "url": "http://www.trafficlink-online.nl/drips/",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "fa6c1aee-79ac-40ae-83c0-369cfbc1b953",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "8820b538-e261-47f4-b90b-d7caba6e6919",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-08-28T07:49:22.279394",
+            "webstore_last_updated": null,
+            "id": "8e100d07-73d8-4461-9b99-083858ad92e6",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "DRIPs (via CitySDK)",
+            "format": "url",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "http://api.citysdk.waag.org/nodes?layer=divv.drip&geom",
+            "created": "2014-08-28T09:49:22.317918",
+            "url": "http://api.citysdk.waag.org/nodes?layer=divv.drip&geom",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "fa6c1aee-79ac-40ae-83c0-369cfbc1b953",
+            "resource_type": "api"
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "DRIP",
+            "name": "DRIP",
+            "revision_timestamp": "2013-06-28T15:24:09.822025",
+            "state": "active",
+            "id": "f2cad149-6a3d-4d26-9498-80d49ad54b33"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "dynamische",
+            "name": "dynamische",
+            "revision_timestamp": "2013-06-28T15:24:09.822025",
+            "state": "active",
+            "id": "15864b41-fdd4-42c5-a8e3-a371bbfff358"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "informatiepanelen",
+            "name": "informatiepanelen",
+            "revision_timestamp": "2013-06-28T15:24:09.822025",
+            "state": "active",
+            "id": "19a454a0-93ab-4ac1-a61f-76be3ba2b6b7"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "route",
+            "name": "route",
+            "revision_timestamp": "2013-06-28T15:24:09.822025",
+            "state": "active",
+            "id": "b58e9421-0226-4be5-8f83-0cbb666f67c5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "routeinformatie",
+            "name": "routeinformatie",
+            "revision_timestamp": "2013-06-28T15:24:09.822025",
+            "state": "active",
+            "id": "49f3d995-4f7c-46ae-a6a4-32b4d93e5f19"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "weg",
+            "name": "weg",
+            "revision_timestamp": "2013-06-28T15:24:09.822025",
+            "state": "active",
+            "id": "22e717a3-caac-4b64-b0a3-bc0d9b5da3df"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Verkeer & Infrastructuur",
+            "description": "",
+            "name": "verkeer-infrastructuur",
+            "id": "12502584-9d7d-4bdc-bf5f-df2b0d85f4f6"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "dynamisch_route-informatiepanelen_drips",
+    "isopen": false,
+    "url": null,
+    "notes": "Actuele afbeeldingen van wat er op de DRIPs in Amsterdam (Dynamische Route-informatiepanelen) wordt weergegeven.Op onderstaande locatie wordt de inhoud van deze DRIPs weergegeven als PNG-afbeelding, en is in XLS en CSV de locatie van de DRIPs opgenomen.\n\nDeze data is ook beschikbaar via de CitySDK.",
+    "title": "Dynamisch Route-informatiepanelen (DRIPs)",
+    "extras": [
+        {
+            "value": "info@ivv.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "bc771dc4-89eb-4280-8737-c8ca8d1ffc1e",
+                "revision_id": "ebcd5af0-54e4-4f85-bd4f-16ef2e4fc4ab"
+            }
+        },
+        {
+            "value": "Dienst IVV",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "ebcd5af0-54e4-4f85-bd4f-16ef2e4fc4ab",
+                "package_id": "bc771dc4-89eb-4280-8737-c8ca8d1ffc1e"
+            }
+        },
+        {
+            "value": "28/06/2013",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "ebcd5af0-54e4-4f85-bd4f-16ef2e4fc4ab",
+                "package_id": "bc771dc4-89eb-4280-8737-c8ca8d1ffc1e"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "ebcd5af0-54e4-4f85-bd4f-16ef2e4fc4ab",
+                "package_id": "bc771dc4-89eb-4280-8737-c8ca8d1ffc1e"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "bc771dc4-89eb-4280-8737-c8ca8d1ffc1e",
+                "revision_id": "ebcd5af0-54e4-4f85-bd4f-16ef2e4fc4ab"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "bc771dc4-89eb-4280-8737-c8ca8d1ffc1e",
+                "revision_id": "ebcd5af0-54e4-4f85-bd4f-16ef2e4fc4ab"
+            }
+        },
+        {
+            "value": "Iedere minuut ververst",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "ebcd5af0-54e4-4f85-bd4f-16ef2e4fc4ab",
+                "package_id": "bc771dc4-89eb-4280-8737-c8ca8d1ffc1e"
+            }
+        },
+        {
+            "value": "http://www.amsterdam.nl/opendatadivv",
+            "key": "website",
+            "__extras": {
+                "package_id": "bc771dc4-89eb-4280-8737-c8ca8d1ffc1e",
+                "revision_id": "ebcd5af0-54e4-4f85-bd4f-16ef2e4fc4ab"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "fa6c1aee-79ac-40ae-83c0-369cfbc1b953"
+}

@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Chris Metcalf",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:47:43.173045",
+    "id": "65f01b8a-342f-49b5-966f-25a8c652feb8",
+    "metadata_created": "2012-09-11T13:47:43.173045",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:10:47.131076",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "ebcb14b4-65d0-487f-b265-88f7588b4c68",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:10:47.131076",
+            "webstore_last_updated": "2013-10-10T12:10:47.060957",
+            "id": "42e079b8-d295-4471-8c9e-4da613285f00",
+            "size": "236",
+            "state": "active",
+            "hash": "f9568c5c07dc1eb94886884d350e11fc3b879208",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Spending by Sub-Sector, 2008/2009.csv",
+            "created": "2012-09-11T13:47:43.214417",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155028/pmvk-9zry.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:47:49.943783",
+            "position": 0,
+            "revision_id": "0c761383-a2a8-47ea-98a8-f8dec98807a5",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:47:43.173045",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:47:43.173045",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "public expenditures",
+            "name": "public expenditures",
+            "revision_timestamp": "2012-09-11T13:47:43.173045",
+            "state": "active",
+            "id": "45e07b9a-9b42-46d8-bff0-3623b8582dd8"
+        }
+    ],
+    "tracking_summary": {
+        "total": 68,
+        "recent": 6
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-pmvk-9zry",
+    "isopen": true,
+    "url": null,
+    "notes": "KENAO Audited Accounts 2002/3-2008/9; Local Authority Transfer Fund reports 2002/3 to 2008/9 and CDF allocations 2003/4 to 2009/10",
+    "title": "Spending by Sub-Sector, 2008/2009",
+    "extras": [
+        {
+            "value": "KENAO, CDF, Ministry of Local Government",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "efddc956-12b6-4864-97ad-bbfca493a97c",
+                "package_id": "65f01b8a-342f-49b5-966f-25a8c652feb8"
+            }
+        },
+        {
+            "value": "Economy",
+            "key": "category",
+            "__extras": {
+                "revision_id": "efddc956-12b6-4864-97ad-bbfca493a97c",
+                "package_id": "65f01b8a-342f-49b5-966f-25a8c652feb8"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "efddc956-12b6-4864-97ad-bbfca493a97c",
+                "package_id": "65f01b8a-342f-49b5-966f-25a8c652feb8"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "efddc956-12b6-4864-97ad-bbfca493a97c"
+}

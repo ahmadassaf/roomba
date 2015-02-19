@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Cam Caldwell",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T14:00:30.459383",
+    "id": "4841f580-0dd9-4d31-870b-e9a8a7d1d5a1",
+    "metadata_created": "2012-09-11T14:00:30.459383",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T11:57:23.345939",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "04cd0072-6907-4618-bc12-40dac26991c2",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T11:57:23.345939",
+            "webstore_last_updated": "2013-10-10T11:57:23.277106",
+            "id": "00e3d0cd-a038-44fd-ab98-31b5f3deef1f",
+            "size": "2814",
+            "state": "active",
+            "hash": "e5e43677de3849aced3ce6668f09a74652727e59",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "County Spend View for Class.csv",
+            "created": "2012-09-11T14:00:30.496800",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T160315/uh7f-fugy.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:39:17.521329",
+            "position": 0,
+            "revision_id": "ba7ccc6b-f406-44ce-b9b5-03274c335b69",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "county expenditure",
+            "name": "county expenditure",
+            "revision_timestamp": "2012-09-11T14:00:30.459383",
+            "state": "active",
+            "id": "21e7e9ef-2695-4750-a3ca-7f8c16f291d3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T14:00:30.459383",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T14:00:30.459383",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 67,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-uh7f-fugy",
+    "isopen": true,
+    "url": null,
+    "notes": "Local Authority and Constituency Development Fund Expenditures, County estimates, Kenya Shillings",
+    "title": "County Spend View for Class",
+    "extras": [
+        {
+            "value": "Ministry of Local Government",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "8e600014-5094-4ff1-b36f-d28c8964c500",
+                "package_id": "4841f580-0dd9-4d31-870b-e9a8a7d1d5a1"
+            }
+        },
+        {
+            "value": "Public Finance",
+            "key": "category",
+            "__extras": {
+                "revision_id": "8e600014-5094-4ff1-b36f-d28c8964c500",
+                "package_id": "4841f580-0dd9-4d31-870b-e9a8a7d1d5a1"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "8e600014-5094-4ff1-b36f-d28c8964c500",
+                "package_id": "4841f580-0dd9-4d31-870b-e9a8a7d1d5a1"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "8e600014-5094-4ff1-b36f-d28c8964c500"
+}

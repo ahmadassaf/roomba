@@ -1,0 +1,179 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2013-05-22T06:52:29.090556",
+    "id": "730b0ced-cff1-4c32-bd94-3a81cbc779cc",
+    "metadata_created": "2013-05-15T10:15:10.079491",
+    "owner_org": null,
+    "metadata_modified": "2013-05-22T06:52:29.090556",
+    "author": "Arts Holland",
+    "author_email": "info@artsholland.com",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "1c072f37-457f-483b-a7a6-93b266360be7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-05-22T06:52:29.090556",
+            "webstore_last_updated": null,
+            "id": "4fa53f2b-16a9-492e-a4cf-97a151b5ca40",
+            "size": "2735",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Linked Open Data API",
+            "format": "url",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://dev.artsholland.com",
+            "created": "2013-05-22T08:52:29.264568",
+            "url": "http://dev.artsholland.com",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "77736885-1698-4365-9e2c-ebb4ca5da3fe",
+            "resource_type": "api",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "cultuur",
+            "name": "cultuur",
+            "revision_timestamp": "2013-05-15T10:15:10.079491",
+            "state": "active",
+            "id": "a1c58d9f-bcbd-42f4-88d7-62c137926a14"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "evenementen\n",
+            "name": "evenementen\n",
+            "revision_timestamp": "2013-05-15T10:15:10.079491",
+            "state": "active",
+            "id": "ca6da0b4-0512-4a99-8346-5c3c8f9f66a5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kunst",
+            "name": "kunst",
+            "revision_timestamp": "2013-05-15T10:15:10.079491",
+            "state": "active",
+            "id": "2dd0ebc3-15ad-46de-8ffb-84df196defda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "musea",
+            "name": "musea",
+            "revision_timestamp": "2013-05-15T10:15:10.079491",
+            "state": "active",
+            "id": "0797ace3-0025-4f70-8e52-11fece2fe474"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "recreatie",
+            "name": "recreatie",
+            "revision_timestamp": "2013-05-15T10:15:10.079491",
+            "state": "active",
+            "id": "b2c0f3d2-18a5-457f-a092-b9a8a8851b03"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Toerisme & cultuur",
+            "description": "",
+            "name": "toerisme-cultuur",
+            "id": "ea426321-bf88-499e-be18-d11d20001350"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "arts-holland-api",
+    "isopen": false,
+    "url": null,
+    "notes": "The Arts Holland platform can be seen as a digital container in which a wide range of data on tourism and culture in the Netherlands is collected.",
+    "title": "Arts Holland API",
+    "extras": [
+        {
+            "value": "info@artsholland.com",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "730b0ced-cff1-4c32-bd94-3a81cbc779cc",
+                "revision_id": "23782741-29a1-4bd3-ad67-af49a809eefd"
+            }
+        },
+        {
+            "value": "Arts Holland",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "23782741-29a1-4bd3-ad67-af49a809eefd",
+                "package_id": "730b0ced-cff1-4c32-bd94-3a81cbc779cc"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "23782741-29a1-4bd3-ad67-af49a809eefd",
+                "package_id": "730b0ced-cff1-4c32-bd94-3a81cbc779cc"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "23782741-29a1-4bd3-ad67-af49a809eefd",
+                "package_id": "730b0ced-cff1-4c32-bd94-3a81cbc779cc"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "730b0ced-cff1-4c32-bd94-3a81cbc779cc",
+                "revision_id": "23782741-29a1-4bd3-ad67-af49a809eefd"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "730b0ced-cff1-4c32-bd94-3a81cbc779cc",
+                "revision_id": "23782741-29a1-4bd3-ad67-af49a809eefd"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "23782741-29a1-4bd3-ad67-af49a809eefd",
+                "package_id": "730b0ced-cff1-4c32-bd94-3a81cbc779cc"
+            }
+        },
+        {
+            "value": "http://www.artsholland.com",
+            "key": "website",
+            "__extras": {
+                "package_id": "730b0ced-cff1-4c32-bd94-3a81cbc779cc",
+                "revision_id": "23782741-29a1-4bd3-ad67-af49a809eefd"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "77736885-1698-4365-9e2c-ebb4ca5da3fe"
+}

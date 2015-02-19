@@ -1,0 +1,170 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2014-08-28T14:37:13.592901",
+    "id": "b8cf9eb1-2c0a-4a3e-b064-a7835e202d63",
+    "metadata_created": "2014-08-28T14:37:13.592901",
+    "owner_org": null,
+    "metadata_modified": "2014-08-28T14:37:13.592901",
+    "author": "Dienst Ruimtelijke Ordening",
+    "author_email": "info@dro.amsterdam.nl",
+    "state": "active",
+    "version": null,
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "c05e42c6-cbf4-44fd-9227-d74cd1989e10",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-08-28T14:37:13.592901",
+            "webstore_last_updated": null,
+            "id": "49d102fd-2ed9-4445-9e3d-75b9a3244b11",
+            "size": null,
+            "state": "active",
+            "hash": "",
+            "description": "Downloaden via maps.amsterdam.nl",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://maps.amsterdam.nl/open_geodata/",
+            "created": "2014-08-28T16:37:13.666826",
+            "url": "http://maps.amsterdam.nl/open_geodata/",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "a90eb141-092f-40da-9c8e-7897ae4d15ca",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "bedrijfsvaerzamelgebouwen",
+            "name": "bedrijfsvaerzamelgebouwen",
+            "revision_timestamp": "2014-08-28T14:37:13.592901",
+            "state": "active",
+            "id": "7c602d56-3f6c-414f-8051-758783c106fd"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "bedrijven",
+            "name": "bedrijven",
+            "revision_timestamp": "2014-08-28T14:37:13.592901",
+            "state": "active",
+            "id": "213de9f3-15eb-4ef1-8529-862b82813db7"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "huren",
+            "name": "huren",
+            "revision_timestamp": "2014-08-28T14:37:13.592901",
+            "state": "active",
+            "id": "f68040fc-4c7b-410d-977a-941ba8347ec9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kantoren",
+            "name": "kantoren",
+            "revision_timestamp": "2014-08-28T14:37:13.592901",
+            "state": "active",
+            "id": "29b44482-2c77-46aa-9a56-5e21e39b5028"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "werkplek",
+            "name": "werkplek",
+            "revision_timestamp": "2014-08-28T14:37:13.592901",
+            "state": "active",
+            "id": "f43e6448-5b40-43da-9dc0-352675318dd1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Economie & Haven",
+            "description": "",
+            "name": "economie-haven",
+            "id": "0436932a-66f0-480b-9c68-ef542dcc7a09"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "bedrijfsverzamelgebouwen2",
+    "isopen": true,
+    "url": null,
+    "notes": "Overzicht van bedrijfsverzamelgebouwen in Amsterdam",
+    "title": "Bedrijfsverzamelgebouwen",
+    "extras": [
+        {
+            "value": "a.teppema@dro.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "b8cf9eb1-2c0a-4a3e-b064-a7835e202d63",
+                "revision_id": "a90eb141-092f-40da-9c8e-7897ae4d15ca"
+            }
+        },
+        {
+            "value": "Aukje Teppema",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "a90eb141-092f-40da-9c8e-7897ae4d15ca",
+                "package_id": "b8cf9eb1-2c0a-4a3e-b064-a7835e202d63"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "a90eb141-092f-40da-9c8e-7897ae4d15ca",
+                "package_id": "b8cf9eb1-2c0a-4a3e-b064-a7835e202d63"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "a90eb141-092f-40da-9c8e-7897ae4d15ca",
+                "package_id": "b8cf9eb1-2c0a-4a3e-b064-a7835e202d63"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "b8cf9eb1-2c0a-4a3e-b064-a7835e202d63",
+                "revision_id": "a90eb141-092f-40da-9c8e-7897ae4d15ca"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "b8cf9eb1-2c0a-4a3e-b064-a7835e202d63",
+                "revision_id": "a90eb141-092f-40da-9c8e-7897ae4d15ca"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "a90eb141-092f-40da-9c8e-7897ae4d15ca",
+                "package_id": "b8cf9eb1-2c0a-4a3e-b064-a7835e202d63"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "a90eb141-092f-40da-9c8e-7897ae4d15ca"
+}

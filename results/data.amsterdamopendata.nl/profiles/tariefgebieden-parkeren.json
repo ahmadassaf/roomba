@@ -1,0 +1,313 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "Beheerder IVV",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "info@ivv.amsterdam.nl",
+    "revision_timestamp": "2014-04-01T08:00:49.974971",
+    "id": "7afeda64-7376-42a8-a541-cf4294f404a4",
+    "metadata_created": "2013-05-16T10:24:50.920004",
+    "owner_org": null,
+    "metadata_modified": "2014-04-01T08:00:49.974971",
+    "author": "Dienst IVV en Nationaal Parkeerregister",
+    "author_email": "info@ivv.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "ea746a20-f272-45b9-87cd-91088476a696",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-04-01T08:00:49.974971",
+            "webstore_last_updated": null,
+            "id": "8f333b0a-b652-4096-85fa-62495382e51d",
+            "size": "704263",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Eenmalig bestand (Shapes + XML)",
+            "format": "ZIP",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "ParkerenShapesWGS84-20140325.zip",
+            "created": "2014-04-01T10:00:50.052462",
+            "url": "http://www.amsterdamopendata.nl/documents/10180/25231/ParkerenShapesWGS84-20140325.zip",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "7a2102bd-1d99-4fdb-bfa3-1f088ef022dc",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "ea746a20-f272-45b9-87cd-91088476a696",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-04-01T08:00:49.974971",
+            "webstore_last_updated": null,
+            "id": "5383d9a6-d709-451b-a9b8-eb55ac08a3bd",
+            "size": "1211696",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Archief (dataset_parkeren_juni2013.zip)",
+            "format": "ZIP",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "dataset_parkeren_juni2013.zip",
+            "created": "2014-04-01T10:00:50.052490",
+            "url": "http://www.amsterdamopendata.nl/documents/10180/25231/dataset_parkeren_juni2013.zip",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "7a2102bd-1d99-4fdb-bfa3-1f088ef022dc",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "ea746a20-f272-45b9-87cd-91088476a696",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-04-01T08:00:49.974971",
+            "webstore_last_updated": null,
+            "id": "a7fd4b2d-a5c4-4036-9e23-94c45d81988e",
+            "size": "0",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Documentatie",
+            "format": "HTML",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://www.nationaalparkeerregister.nl/downloads/downloads-open-data-parkeergegevens.html",
+            "created": "2014-04-01T10:00:50.052496",
+            "url": "http://www.nationaalparkeerregister.nl/downloads/downloads-open-data-parkeergegevens.html",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "7a2102bd-1d99-4fdb-bfa3-1f088ef022dc",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "ea746a20-f272-45b9-87cd-91088476a696",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-04-01T08:00:49.974971",
+            "webstore_last_updated": null,
+            "id": "aa9ba3b3-8bfc-4b72-b850-0993c918872e",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Actuele API",
+            "format": "url",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "http://datamarket.azure.com/dataset/opendata.rdw/statischparkeren.open.data#schema",
+            "created": "2014-04-01T10:00:50.052502",
+            "url": "http://datamarket.azure.com/dataset/opendata.rdw/statischparkeren.open.data#schema",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "7a2102bd-1d99-4fdb-bfa3-1f088ef022dc",
+            "resource_type": "api"
+        }
+    ],
+    "num_resources": 4,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "NPR",
+            "name": "NPR",
+            "revision_timestamp": "2014-04-01T07:57:04.725917",
+            "state": "active",
+            "id": "18f50208-9789-439a-9312-d556fd1011c0"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "gebieden",
+            "name": "gebieden",
+            "revision_timestamp": "2014-04-01T07:57:04.725917",
+            "state": "active",
+            "id": "fd68b5bb-5ecc-4f0a-939e-c869c8f718b6"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "mobiliteit",
+            "name": "mobiliteit",
+            "revision_timestamp": "2013-05-16T10:24:50.920004",
+            "state": "active",
+            "id": "f1df86c2-140e-4788-bb06-8a6a40919016"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "parkeerautomaat",
+            "name": "parkeerautomaat",
+            "revision_timestamp": "2014-04-01T07:57:04.725917",
+            "state": "active",
+            "id": "12476298-f489-4692-8b28-118d0b32d6a3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "parkeerautomaten",
+            "name": "parkeerautomaten",
+            "revision_timestamp": "2014-04-01T07:57:04.725917",
+            "state": "active",
+            "id": "afaba985-d5b8-4e23-82f4-d2a9c4eb322a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "parkeergebieden\n",
+            "name": "parkeergebieden\n",
+            "revision_timestamp": "2013-05-16T10:24:50.920004",
+            "state": "active",
+            "id": "a94a1900-c60d-4105-95f1-a38bbbdefa72"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "parkeerzones",
+            "name": "parkeerzones",
+            "revision_timestamp": "2014-04-01T07:57:04.725917",
+            "state": "active",
+            "id": "fee6dfb2-442f-4f46-8ba1-3750db9ed2bc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "parkeren",
+            "name": "parkeren",
+            "revision_timestamp": "2013-05-16T10:24:50.920004",
+            "state": "active",
+            "id": "d26079eb-6ae8-45d4-a518-9ff38f2dd225"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "tariefgebieden",
+            "name": "tariefgebieden",
+            "revision_timestamp": "2013-05-16T10:24:50.920004",
+            "state": "active",
+            "id": "5290271d-3c4e-4f3e-943f-0e1d189abba5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "tarieven",
+            "name": "tarieven",
+            "revision_timestamp": "2014-04-01T07:57:04.725917",
+            "state": "active",
+            "id": "fd773b25-0ff3-49cd-b81c-eca046dc2dd9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "zones",
+            "name": "zones",
+            "revision_timestamp": "2014-04-01T07:57:04.725917",
+            "state": "active",
+            "id": "775069e8-f363-4f42-adf8-e3516a3a5930"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Verkeer & Infrastructuur",
+            "description": "",
+            "name": "verkeer-infrastructuur",
+            "id": "12502584-9d7d-4bdc-bf5f-df2b0d85f4f6"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 11,
+    "name": "tariefgebieden-parkeren",
+    "isopen": true,
+    "url": null,
+    "notes": "**UPDATE**\nDe parkeerautomaten, zones en bijbehorende tarieven voor parkeren in Amsterdam.\n\nDeze gegevens zijn via een API van het Nationaal Parkeerregister (NPR) altijd actueel op te vragen (zie link 'API').\n\nNPR voorziet ook in documentatie (zie link 'Documentatie')\n\nDaarnaast is ook een eenmalige dump van deze gegevens (eind maart 2014) in Shape- en XML-formaat opgenomen.\n\n(Een eerder beschikbaar gestelde set \"dataset_parkeren_juni2013\" is om historische reden ook nog beschikbaar, maar gebruik deze bij voorkeur niet)",
+    "title": "Tariefgebieden Parkeren",
+    "extras": [
+        {
+            "value": "info@ivv.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "7afeda64-7376-42a8-a541-cf4294f404a4",
+                "revision_id": "60aadc91-b05a-4014-9e97-84b39efb6212"
+            }
+        },
+        {
+            "value": "Dienst IVV en Nationaal Parkeerregister",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "fabbf675-5675-4480-9e18-b433102b9344",
+                "package_id": "7afeda64-7376-42a8-a541-cf4294f404a4"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "60aadc91-b05a-4014-9e97-84b39efb6212",
+                "package_id": "7afeda64-7376-42a8-a541-cf4294f404a4"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "60aadc91-b05a-4014-9e97-84b39efb6212",
+                "package_id": "7afeda64-7376-42a8-a541-cf4294f404a4"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "7afeda64-7376-42a8-a541-cf4294f404a4",
+                "revision_id": "60aadc91-b05a-4014-9e97-84b39efb6212"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "7afeda64-7376-42a8-a541-cf4294f404a4",
+                "revision_id": "60aadc91-b05a-4014-9e97-84b39efb6212"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "60aadc91-b05a-4014-9e97-84b39efb6212",
+                "package_id": "7afeda64-7376-42a8-a541-cf4294f404a4"
+            }
+        },
+        {
+            "value": "http://www.amsterdam.nl/opendatadivv",
+            "key": "website",
+            "__extras": {
+                "revision_id": "60aadc91-b05a-4014-9e97-84b39efb6212",
+                "package_id": "7afeda64-7376-42a8-a541-cf4294f404a4"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "7a2102bd-1d99-4fdb-bfa3-1f088ef022dc"
+}

@@ -1,0 +1,171 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2014-05-12T15:39:37.473272",
+    "id": "2d60f656-13df-4509-affa-4382b2047b45",
+    "metadata_created": "2014-05-12T15:34:19.521024",
+    "owner_org": null,
+    "metadata_modified": "2014-05-12T15:39:37.473272",
+    "author": "Economische Zaken (EZ) ",
+    "author_email": "info@ez.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "7964f572-9a03-493e-927d-e3ffbe83a9f9",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-05-12T15:39:37.473272",
+            "webstore_last_updated": null,
+            "id": "e61ecb7c-6932-4b46-bdc3-6d0b4a7eee77",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "KML, downloaden via maps.amsterdam.nl",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://maps.amsterdam.nl/open_geodata/",
+            "created": "2014-05-12T17:39:37.508304",
+            "url": "http://maps.amsterdam.nl/open_geodata/",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "c4acf3cf-1b62-4af4-aa9f-45a78b17500e",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "bouwen",
+            "name": "bouwen",
+            "revision_timestamp": "2014-05-12T15:34:19.521024",
+            "state": "active",
+            "id": "33e277b2-552f-4bfa-80f6-b389043435db"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "hotels",
+            "name": "hotels",
+            "revision_timestamp": "2014-05-12T15:34:19.521024",
+            "state": "active",
+            "id": "2641d103-dca4-4509-88f6-44dc154ea75b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kansengebieden",
+            "name": "kansengebieden",
+            "revision_timestamp": "2014-05-12T15:34:19.521024",
+            "state": "active",
+            "id": "2d8f5d69-5619-4f08-a107-16dd0231a108"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kansenkaart",
+            "name": "kansenkaart",
+            "revision_timestamp": "2014-05-12T15:34:19.521024",
+            "state": "active",
+            "id": "ddbd1a4c-90e6-427c-b6a3-bd504ed21a8d"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Stedelijke ontwikkeling",
+            "description": "",
+            "name": "stedelijke-ontwikkeling",
+            "id": "0364e650-9355-4ad7-aa0a-8d87d809544e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "hotel_kansengebieden",
+    "isopen": true,
+    "url": null,
+    "notes": "Deze kansenkaart hoort bij de Regionale Hotelstrategie 2016-2022.    De kansenkaart laat kansrijke gebieden zien voor hotelontwikkeling, die de gemeente extra onder de aandacht wil brengen. De gebieden zijn gekozen op basis van de mogelijkheid tot spreiding van en een grotere variatie aan hotels. Als een hotelinitiatief in een kansengebied ligt, is dit positief, maar ieder hotelinitiatief moet de gehele hotelladder goed doorlopen en op basis van de totale uitkomst wordt een afweging gemaakt of een initiatief doorgang kan vinden. In gebieden die niet groen zijn op de kansenkaart, kunnen nog steeds hotels ontwikkeld worden. De kansenkaart sluit geen gebieden uit, zij geeft gebieden aan waar de gemeente(n) het liefst hotelontwikkeling zien en die wellicht nog niet op het vizier van ontwikkelaars staan.",
+    "title": "Hotel kansengebieden",
+    "extras": [
+        {
+            "value": "n.schippers@amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "2d60f656-13df-4509-affa-4382b2047b45",
+                "revision_id": "0e4180f9-eb51-45a1-bbfd-92a88de928d3"
+            }
+        },
+        {
+            "value": "Nanette Schippers ",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "0e4180f9-eb51-45a1-bbfd-92a88de928d3",
+                "package_id": "2d60f656-13df-4509-affa-4382b2047b45"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "0e4180f9-eb51-45a1-bbfd-92a88de928d3",
+                "package_id": "2d60f656-13df-4509-affa-4382b2047b45"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "0e4180f9-eb51-45a1-bbfd-92a88de928d3",
+                "package_id": "2d60f656-13df-4509-affa-4382b2047b45"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "2d60f656-13df-4509-affa-4382b2047b45",
+                "revision_id": "0e4180f9-eb51-45a1-bbfd-92a88de928d3"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "2d60f656-13df-4509-affa-4382b2047b45",
+                "revision_id": "0e4180f9-eb51-45a1-bbfd-92a88de928d3"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "0e4180f9-eb51-45a1-bbfd-92a88de928d3",
+                "package_id": "2d60f656-13df-4509-affa-4382b2047b45"
+            }
+        },
+        {
+            "value": "http://maps.amsterdam.nl/hotels/",
+            "key": "website",
+            "__extras": {
+                "package_id": "2d60f656-13df-4509-affa-4382b2047b45",
+                "revision_id": "0e4180f9-eb51-45a1-bbfd-92a88de928d3"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "c4acf3cf-1b62-4af4-aa9f-45a78b17500e"
+}

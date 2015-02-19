@@ -1,0 +1,177 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2013-10-07T09:41:08.619684",
+    "id": "635a53e3-5d9f-400e-858d-712a93f9e712",
+    "metadata_created": "2013-10-07T09:41:08.619684",
+    "owner_org": null,
+    "metadata_modified": "2013-10-22T11:35:25.070337",
+    "author": "GGD Amsterdam",
+    "author_email": "info@ggd.amsterdam.nl",
+    "state": "active",
+    "version": null,
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "03647db9-f51d-4fb4-8284-4c4e47b65ff8",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-22T11:35:25.070337",
+            "webstore_last_updated": null,
+            "id": "713c8232-6223-4078-9e12-c4fe327d8612",
+            "size": null,
+            "state": "active",
+            "hash": "",
+            "description": "Downloaden via Open Datakaart",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "http://www.opendatakaart.nl/catalogus/datasets/datasets_dataset/t/lhbt_hulpverlening",
+            "created": "2013-10-07T11:41:08.789067",
+            "url": "http://www.opendatakaart.nl/catalogus/datasets/datasets_dataset/t/lhbt_hulpverlening",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "3422e45a-d4be-45b8-a1d5-22261a3df9ad",
+            "resource_type": "file"
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "bi",
+            "name": "bi",
+            "revision_timestamp": "2013-10-07T09:41:08.619684",
+            "state": "active",
+            "id": "94b2198d-099a-4024-baa0-df6e0175541d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "homo",
+            "name": "homo",
+            "revision_timestamp": "2013-10-07T09:41:08.619684",
+            "state": "active",
+            "id": "ab340b1c-f040-429b-96c8-0b4ed7ac91d6"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "hulpverlening",
+            "name": "hulpverlening",
+            "revision_timestamp": "2013-10-07T09:41:08.619684",
+            "state": "active",
+            "id": "1b28ef61-f6ed-472b-b0ba-bbf33d378086"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lesbisch",
+            "name": "lesbisch",
+            "revision_timestamp": "2013-10-07T09:41:08.619684",
+            "state": "active",
+            "id": "3169e1a4-375f-4120-b9b8-8ccecabdd893"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lhbt",
+            "name": "lhbt",
+            "revision_timestamp": "2013-10-07T09:41:08.619684",
+            "state": "active",
+            "id": "3eb92e50-91ae-4003-b452-859c77f49a7b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "transseksueel",
+            "name": "transseksueel",
+            "revision_timestamp": "2013-10-07T09:41:08.619684",
+            "state": "active",
+            "id": "8dfff299-a365-4ff8-a33e-c068d4434222"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Zorg & welzijn",
+            "description": "",
+            "name": "zorg-welzijn",
+            "id": "03f76fe0-7556-4f88-9c23-0b318e1c69ed"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "lhbt_hulpverlening",
+    "isopen": false,
+    "url": null,
+    "notes": "Overzicht van alle beschikbare hulpverlening voor LHBT (Lesbisch, Homo-, Bi-, en Transseksueel) in Amsterdam",
+    "title": "LHBT-hulpverlening",
+    "extras": [
+        {
+            "value": "info@ggd.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "635a53e3-5d9f-400e-858d-712a93f9e712",
+                "revision_id": "03755280-ba59-4207-9e2e-49f4ff62ea1f"
+            }
+        },
+        {
+            "value": "GGD Amsterdam",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "03755280-ba59-4207-9e2e-49f4ff62ea1f",
+                "package_id": "635a53e3-5d9f-400e-858d-712a93f9e712"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "03755280-ba59-4207-9e2e-49f4ff62ea1f",
+                "package_id": "635a53e3-5d9f-400e-858d-712a93f9e712"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "03755280-ba59-4207-9e2e-49f4ff62ea1f",
+                "package_id": "635a53e3-5d9f-400e-858d-712a93f9e712"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "635a53e3-5d9f-400e-858d-712a93f9e712",
+                "revision_id": "03755280-ba59-4207-9e2e-49f4ff62ea1f"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "635a53e3-5d9f-400e-858d-712a93f9e712",
+                "revision_id": "03755280-ba59-4207-9e2e-49f4ff62ea1f"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "03755280-ba59-4207-9e2e-49f4ff62ea1f",
+                "package_id": "635a53e3-5d9f-400e-858d-712a93f9e712"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "03755280-ba59-4207-9e2e-49f4ff62ea1f"
+}

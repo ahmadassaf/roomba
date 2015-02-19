@@ -1,0 +1,81 @@
+{
+    "missing": [
+        "resources"
+    ],
+    "undefined": [
+        "url",
+        "organization_description",
+        "organization_image_url",
+        "version"
+    ],
+    "unreachableURLs": [],
+    "report": [
+        "url field exists but there is no value defined",
+        "organization_description field exists but there is no value defined",
+        "organization_image_url field exists but there is no value defined",
+        "version field exists but there is no value defined",
+        "resources information (API endpoints, downloadable dumpds, etc.) is missing"
+    ],
+    "tag": {
+        "microattivita": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        }
+    },
+    "group": {
+        "Dati Geografici": {
+            "missing": [],
+            "undefined": [
+                "image_display_url"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "image_display_url field exists but there is no value defined"
+            ]
+        }
+    },
+    "license": {
+        "license": {
+            "missing": [],
+            "undefined": [],
+            "unreachableURLs": [],
+            "report": [
+                "License information has been normalized !"
+            ]
+        }
+    },
+    "resource": {
+        "2013-02-22T144141/ESA_Microattivita.zip": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "description",
+                "mimetype_inner",
+                "cache_url"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "description field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "cache_url field exists but there is no value defined"
+            ]
+        }
+    },
+    "counter": {
+        "group": 1,
+        "tag": 1,
+        "resource": 1
+    }
+}

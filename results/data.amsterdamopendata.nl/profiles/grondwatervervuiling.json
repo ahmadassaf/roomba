@@ -1,0 +1,171 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2013-12-19T15:05:51.260302",
+    "id": "901ce128-3679-4a67-bb8f-1d11da146f64",
+    "metadata_created": "2013-12-19T15:05:51.260302",
+    "owner_org": null,
+    "metadata_modified": "2013-12-19T15:05:51.260302",
+    "author": "Dienst Milieu en Bouwtoezicht",
+    "author_email": "DMB@amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "cb2bce71-5e7c-4dda-9e32-81a91f7ea744",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-12-19T15:05:51.260302",
+            "webstore_last_updated": null,
+            "id": "094b0fcb-69b3-44cb-b57d-538abf3d7132",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Data via maps.amsterdam.nl",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://maps.amsterdam.nl/open_geodata/",
+            "created": "2013-12-19T16:05:51.309471",
+            "url": "http://maps.amsterdam.nl/open_geodata/",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "fdc9014d-3ec7-4763-81c6-8cc349e318de",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "grondwater",
+            "name": "grondwater",
+            "revision_timestamp": "2013-12-19T15:05:51.260302",
+            "state": "active",
+            "id": "184c3aa2-be1c-4458-9222-c5ede4776049"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "sanering",
+            "name": "sanering",
+            "revision_timestamp": "2013-12-19T15:05:51.260302",
+            "state": "active",
+            "id": "1628c44c-ab5b-4468-b7ca-e1a249293764"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "verontreiniging",
+            "name": "verontreiniging",
+            "revision_timestamp": "2013-12-19T15:05:51.260302",
+            "state": "active",
+            "id": "acbfd9da-67e4-4744-8396-d66b5f399774"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "water",
+            "name": "water",
+            "revision_timestamp": "2013-12-19T15:05:51.260302",
+            "state": "active",
+            "id": "63d5104a-b97d-4477-b7e4-6b841930fed1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Milieu & Water",
+            "description": "",
+            "name": "milieu-water",
+            "id": "0a8beb10-5eff-4ac4-8e01-8f210e3c2d97"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "grondwatervervuiling",
+    "isopen": true,
+    "url": null,
+    "notes": "Deze dataset met verontreinigde locaties geeft informatie over omvangrijke gevallen van grondwaterverontreinigingen in de Amsterdamse ondergrond.\nPer locatie zijn de fase van beheer dan wel sanering en de kerngegevens van de verontreiniging opgenomen.\nDe dataset bevat de situatie voor 2012 van grondwaterverontreinigingen, waarvan de oppervlakte van de interventiewaardecontour meer dan 2.000 m2 bedraagt. \n\nDeze data kan worden gebruikt bij het voorbereiden van bodemonderzoek, het inschatten van de mogelijkheden voor gebiedsgericht grondwaterbeheer en het bepalen van de werkvoorraad spoedlocatie’s verspreidingrisico’s.",
+    "title": "Grondwatervervuiling",
+    "extras": [
+        {
+            "value": "j.souwer@dmb.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "901ce128-3679-4a67-bb8f-1d11da146f64",
+                "revision_id": "fdc9014d-3ec7-4763-81c6-8cc349e318de"
+            }
+        },
+        {
+            "value": "Johan Souwer",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "fdc9014d-3ec7-4763-81c6-8cc349e318de",
+                "package_id": "901ce128-3679-4a67-bb8f-1d11da146f64"
+            }
+        },
+        {
+            "value": "2012",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "fdc9014d-3ec7-4763-81c6-8cc349e318de",
+                "package_id": "901ce128-3679-4a67-bb8f-1d11da146f64"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "fdc9014d-3ec7-4763-81c6-8cc349e318de",
+                "package_id": "901ce128-3679-4a67-bb8f-1d11da146f64"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "901ce128-3679-4a67-bb8f-1d11da146f64",
+                "revision_id": "fdc9014d-3ec7-4763-81c6-8cc349e318de"
+            }
+        },
+        {
+            "value": "01/01/2012",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "901ce128-3679-4a67-bb8f-1d11da146f64",
+                "revision_id": "fdc9014d-3ec7-4763-81c6-8cc349e318de"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "fdc9014d-3ec7-4763-81c6-8cc349e318de",
+                "package_id": "901ce128-3679-4a67-bb8f-1d11da146f64"
+            }
+        },
+        {
+            "value": "http://maps.amsterdam.nl/grondwaterverontreiniging/",
+            "key": "website",
+            "__extras": {
+                "package_id": "901ce128-3679-4a67-bb8f-1d11da146f64",
+                "revision_id": "fdc9014d-3ec7-4763-81c6-8cc349e318de"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "fdc9014d-3ec7-4763-81c6-8cc349e318de"
+}

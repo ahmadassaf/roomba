@@ -1,0 +1,425 @@
+{
+    "license_title": "Creative Commons Attribution Share-Alike 4.0",
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-12T22:53:22.141715",
+    "id": "2ce051c1-6f14-468f-b9a0-19c3d7b37ffb",
+    "metadata_created": "2014-11-12T22:53:22.141715",
+    "owner_org": "d053dbc0-7a56-4798-b138-1e377618d497",
+    "metadata_modified": "2014-11-12T22:54:00.475705",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-SA-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "ee748d16-034d-4951-8131-f965b46bc92b",
+            "resource_description": "The Household Baseline Database.\r\n\r\nWARNING: Data collection is on going. Data might change at any time!!!\r\n\r\nWe remind users that data downloadable from the portal is for analysis ONLY. Any cleaning happening to these files WILL NOT affect the database. Errors and inconsistencies MUST be reported to the project staff in charge of cleaning.\r\n",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-12T22:53:54.969344",
+            "webstore_last_updated": null,
+            "id": "517f5d4a-3d8e-4f9a-9390-a3962e3742f6",
+            "size": "9370",
+            "state": "active",
+            "hash": "da4e3bd1a181ae5ee4c8980285110b16be8ec517",
+            "description": "{\"resource_description\":\"The Household Baseline Database.\\n\\nWARNING: Data collection is on going. Data might change at any time!!!\\n\\nWe remind users that data downloadable from the portal is for analysis ONLY. Any cleaning happening to these files WILL NOT affect the database. Errors and inconsistencies MUST be reported to the project staff in charge of cleaning.\\n\",\"resource_access\":\"Private\"}",
+            "format": "getdata",
+            "tracking_summary": {
+                "total": 6,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Household Baseline Database",
+            "created": "2014-08-11T12:03:58.536481",
+            "url": "http://data.ilri.org/portal/",
+            "webstore_url": null,
+            "last_modified": "2014-11-12T22:53:54.812019",
+            "position": 0,
+            "revision_id": "b31169af-ba1c-4fc6-ae36-87f5e956f8d7",
+            "ILRIResourceAccess": "Private",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "ee748d16-034d-4951-8131-f965b46bc92b",
+            "resource_description": "The paper form of the baseline tool used as a base for creating the ODK tool",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-12T22:54:00.475705",
+            "webstore_last_updated": null,
+            "id": "872f1878-b953-4a7e-b1db-4ff25052da22",
+            "size": "9370",
+            "state": "active",
+            "hash": "da4e3bd1a181ae5ee4c8980285110b16be8ec517",
+            "description": "{\"resource_description\":\"The paper form of the baseline tool used as a base for creating the ODK tool\",\"resource_access\":\"Public\"}",
+            "format": "xlsx",
+            "tracking_summary": {
+                "total": 6,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Baseline Tool - Paper Form",
+            "created": "2014-08-11T12:31:58.774362",
+            "url": "http://data.ilri.org/portal/",
+            "webstore_url": null,
+            "last_modified": "2014-11-12T22:54:00.318655",
+            "position": 1,
+            "revision_id": "f52450b0-07c8-491e-af8a-08cf54a49730",
+            "ILRIResourceAccess": "Public",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "ee748d16-034d-4951-8131-f965b46bc92b",
+            "resource_description": "The ODK tool used to collect the data",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-12T22:53:57.148412",
+            "webstore_last_updated": null,
+            "id": "73613b6d-631d-4b7b-abd1-8b77dde02892",
+            "size": "9370",
+            "state": "active",
+            "hash": "da4e3bd1a181ae5ee4c8980285110b16be8ec517",
+            "description": "{\"resource_description\":\"The ODK tool used to collect the data\",\"resource_access\":\"Public\"}",
+            "format": "XLS",
+            "tracking_summary": {
+                "total": 6,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Baseline Tool - ODK Form",
+            "created": "2014-08-11T12:32:56.930082",
+            "url": "http://data.ilri.org/portal/",
+            "webstore_url": null,
+            "last_modified": "2014-11-12T22:53:56.987068",
+            "position": 2,
+            "revision_id": "69f24161-2088-4135-a68e-eabe76c872e8",
+            "ILRIResourceAccess": "Public",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 3,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Impact assessment",
+            "name": "Impact assessment",
+            "revision_timestamp": "2014-11-12T22:53:22.141715",
+            "state": "active",
+            "id": "41566099-b31f-484e-bea0-429af111fe9a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "farming systems",
+            "name": "farming systems",
+            "revision_timestamp": "2014-11-12T22:53:22.141715",
+            "state": "active",
+            "id": "e8bddd97-666f-4caa-9985-432939302bf7"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "learning",
+            "name": "learning",
+            "revision_timestamp": "2014-11-12T22:53:22.141715",
+            "state": "active",
+            "id": "685462a4-8d29-4f67-b610-f4762402e4b9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "livestock",
+            "name": "livestock",
+            "revision_timestamp": "2014-11-12T22:53:22.141715",
+            "state": "active",
+            "id": "0ad5c5be-d2e6-4413-b40f-b94ec97ab91a"
+        }
+    ],
+    "tracking_summary": {
+        "total": 5,
+        "recent": 1
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "htsas-hs-kenya",
+    "isopen": true,
+    "url": "http://data.ilri.org/portal/",
+    "notes": "**Humidtropics - Systems Analysis and Synthesis - Base-line household survey - Kenya**\r\n\r\nThis dataset contains household base-line data in Kenya action sites (Kisumi and Vihiga) that can be used for the development of typologies, farm simulation models and prepare impact assessments.\r\n\r\n**WARNING:** Data collection is on going. Data might change at any time.\r\n\r\nWe remind users that data downloadable from the portal is for analysis **ONLY**. Any cleaning happening to these files **WILL NOT** affect the database. Errors and inconsistencies **MUST** be reported to the project staff in charge of data collection and cleaning.",
+    "title": "HT - SAS -  Base-line household survey - Kenya",
+    "extras": [
+        {
+            "value": "{\"southWestLat\":-0.07074735192263551,\"southWestLong\":34.67343519441783,\"northEastLat\":0.06520842656938249,\"northEastLong\":34.84509657137095}",
+            "key": "ILRI_actyboundbox",
+            "__extras": {
+                "revision_id": "1192f898-b513-42fb-848e-865994663a8a",
+                "package_id": "2ce051c1-6f14-468f-b9a0-19c3d7b37ffb"
+            }
+        },
+        {
+            "value": "-0.002769462676626512,34.75926588289439",
+            "key": "ILRI_actyboundboxcenter",
+            "__extras": {
+                "revision_id": "1192f898-b513-42fb-848e-865994663a8a",
+                "package_id": "2ce051c1-6f14-468f-b9a0-19c3d7b37ffb"
+            }
+        },
+        {
+            "value": "Not available yet",
+            "key": "ILRI_actycitation",
+            "__extras": {
+                "revision_id": "1192f898-b513-42fb-848e-865994663a8a",
+                "package_id": "2ce051c1-6f14-468f-b9a0-19c3d7b37ffb"
+            }
+        },
+        {
+            "value": "Not available yet",
+            "key": "ILRI_actycitationacknowledge",
+            "__extras": {
+                "revision_id": "1192f898-b513-42fb-848e-865994663a8a",
+                "package_id": "2ce051c1-6f14-468f-b9a0-19c3d7b37ffb"
+            }
+        },
+        {
+            "value": "N.Teufel@cgiar.org",
+            "key": "ILRI_actycontactemail",
+            "__extras": {
+                "package_id": "2ce051c1-6f14-468f-b9a0-19c3d7b37ffb",
+                "revision_id": "1192f898-b513-42fb-848e-865994663a8a"
+            }
+        },
+        {
+            "value": "Nils Teufel",
+            "key": "ILRI_actycontactperson",
+            "__extras": {
+                "package_id": "2ce051c1-6f14-468f-b9a0-19c3d7b37ffb",
+                "revision_id": "1192f898-b513-42fb-848e-865994663a8a"
+            }
+        },
+        {
+            "value": "Humid Tropics, ILRI",
+            "key": "ILRI_actydataowner",
+            "__extras": {
+                "revision_id": "1192f898-b513-42fb-848e-865994663a8a",
+                "package_id": "2ce051c1-6f14-468f-b9a0-19c3d7b37ffb"
+            }
+        },
+        {
+            "value": "31/10/2015",
+            "key": "ILRI_actydatavailable",
+            "__extras": {
+                "package_id": "2ce051c1-6f14-468f-b9a0-19c3d7b37ffb",
+                "revision_id": "1192f898-b513-42fb-848e-865994663a8a"
+            }
+        },
+        {
+            "value": "23/06/2014",
+            "key": "ILRI_actydatecollected",
+            "__extras": {
+                "revision_id": "1192f898-b513-42fb-848e-865994663a8a",
+                "package_id": "2ce051c1-6f14-468f-b9a0-19c3d7b37ffb"
+            }
+        },
+        {
+            "value": "{\"southWestLat\":-0.17578097424708533,\"southWestLong\":34.56298828124999,\"northEastLat\":0.08514401163112739,\"northEastLong\":34.9859619140625}",
+            "key": "ILRI_actymapextent",
+            "__extras": {
+                "package_id": "2ce051c1-6f14-468f-b9a0-19c3d7b37ffb",
+                "revision_id": "1192f898-b513-42fb-848e-865994663a8a"
+            }
+        },
+        {
+            "value": "11",
+            "key": "ILRI_actymapzoom",
+            "__extras": {
+                "package_id": "2ce051c1-6f14-468f-b9a0-19c3d7b37ffb",
+                "revision_id": "1192f898-b513-42fb-848e-865994663a8a"
+            }
+        },
+        {
+            "value": "Kisumuand Vihiga",
+            "key": "ILRI_actynatlevel",
+            "__extras": {
+                "revision_id": "1192f898-b513-42fb-848e-865994663a8a",
+                "package_id": "2ce051c1-6f14-468f-b9a0-19c3d7b37ffb"
+            }
+        },
+        {
+            "value": "ICRAF",
+            "key": "ILRI_actypartners",
+            "__extras": {
+                "revision_id": "1192f898-b513-42fb-848e-865994663a8a",
+                "package_id": "2ce051c1-6f14-468f-b9a0-19c3d7b37ffb"
+            }
+        },
+        {
+            "value": "Nils Teufel",
+            "key": "ILRI_actypi",
+            "__extras": {
+                "revision_id": "1192f898-b513-42fb-848e-865994663a8a",
+                "package_id": "2ce051c1-6f14-468f-b9a0-19c3d7b37ffb"
+            }
+        },
+        {
+            "value": "Not available yet",
+            "key": "ILRI_actysharingagreement",
+            "__extras": {
+                "revision_id": "1192f898-b513-42fb-848e-865994663a8a",
+                "package_id": "2ce051c1-6f14-468f-b9a0-19c3d7b37ffb"
+            }
+        },
+        {
+            "value": "Collins Adoyo, Carlos Quiros, Aziz Karimov, Catherine Pfeiffer",
+            "key": "ILRI_actystaff",
+            "__extras": {
+                "revision_id": "1192f898-b513-42fb-848e-865994663a8a",
+                "package_id": "2ce051c1-6f14-468f-b9a0-19c3d7b37ffb"
+            }
+        },
+        {
+            "value": "Not available yet",
+            "key": "ILRI_actyusageconditions",
+            "__extras": {
+                "package_id": "2ce051c1-6f14-468f-b9a0-19c3d7b37ffb",
+                "revision_id": "1192f898-b513-42fb-848e-865994663a8a"
+            }
+        },
+        {
+            "value": "To characterise households, landscapes, institutions, markets and policies in the action areas to provide a starting point for monitoring change and to generate data for simulation and to support effective selection of interventions and target populations as as to enable effective evaluation, learning and impact assessment.",
+            "key": "ILRI_prjabstract",
+            "__extras": {
+                "revision_id": "1192f898-b513-42fb-848e-865994663a8a",
+                "package_id": "2ce051c1-6f14-468f-b9a0-19c3d7b37ffb"
+            }
+        },
+        {
+            "value": "KENYA+UGANDA+RWANDA+BURUNDI+CONGO,DR+ETHIOPIA+NIGERIA+CAMEROON+NICARAGUA+VIETNAM+LAOS+CHINA+THAILAND",
+            "key": "ILRI_prjcountries",
+            "__extras": {
+                "revision_id": "1192f898-b513-42fb-848e-865994663a8a",
+                "package_id": "2ce051c1-6f14-468f-b9a0-19c3d7b37ffb"
+            }
+        },
+        {
+            "value": "Humidtropics",
+            "key": "ILRI_prjdonor",
+            "__extras": {
+                "package_id": "2ce051c1-6f14-468f-b9a0-19c3d7b37ffb",
+                "revision_id": "1192f898-b513-42fb-848e-865994663a8a"
+            }
+        },
+        {
+            "value": "31/12/2015",
+            "key": "ILRI_prjedate",
+            "__extras": {
+                "revision_id": "1192f898-b513-42fb-848e-865994663a8a",
+                "package_id": "2ce051c1-6f14-468f-b9a0-19c3d7b37ffb"
+            }
+        },
+        {
+            "value": "CG12122",
+            "key": "ILRI_prjgrant",
+            "__extras": {
+                "package_id": "2ce051c1-6f14-468f-b9a0-19c3d7b37ffb",
+                "revision_id": "1192f898-b513-42fb-848e-865994663a8a"
+            }
+        },
+        {
+            "value": "",
+            "key": "ILRI_prjpartners",
+            "__extras": {
+                "package_id": "2ce051c1-6f14-468f-b9a0-19c3d7b37ffb",
+                "revision_id": "1192f898-b513-42fb-848e-865994663a8a"
+            }
+        },
+        {
+            "value": "Timothy Robinson",
+            "key": "ILRI_prjpi",
+            "__extras": {
+                "package_id": "2ce051c1-6f14-468f-b9a0-19c3d7b37ffb",
+                "revision_id": "1192f898-b513-42fb-848e-865994663a8a"
+            }
+        },
+        {
+            "value": "EAST AFRICA,CENTRAL AFRICA,WEST AFRICA,EAST ASIA,CENTRAL AMERICA,CARIBBEAN",
+            "key": "ILRI_prjregions",
+            "__extras": {
+                "revision_id": "1192f898-b513-42fb-848e-865994663a8a",
+                "package_id": "2ce051c1-6f14-468f-b9a0-19c3d7b37ffb"
+            }
+        },
+        {
+            "value": "01/01/2013",
+            "key": "ILRI_prjsdate",
+            "__extras": {
+                "package_id": "2ce051c1-6f14-468f-b9a0-19c3d7b37ffb",
+                "revision_id": "1192f898-b513-42fb-848e-865994663a8a"
+            }
+        },
+        {
+            "value": "LIVESTOCK - NO SPECIFIC SPECIES",
+            "key": "ILRI_prjspecies",
+            "__extras": {
+                "revision_id": "1192f898-b513-42fb-848e-865994663a8a",
+                "package_id": "2ce051c1-6f14-468f-b9a0-19c3d7b37ffb"
+            }
+        },
+        {
+            "value": "Jo Cadilhon, Nils Teufel, Peter Thorne, Keith Child, Mark van Wijk",
+            "key": "ILRI_prjstaff",
+            "__extras": {
+                "package_id": "2ce051c1-6f14-468f-b9a0-19c3d7b37ffb",
+                "revision_id": "1192f898-b513-42fb-848e-865994663a8a"
+            }
+        },
+        {
+            "value": "Humidtropics (HT) - Systems Analysis and Synthesis (SAS)",
+            "key": "ILRI_prjtitle",
+            "__extras": {
+                "revision_id": "1192f898-b513-42fb-848e-865994663a8a",
+                "package_id": "2ce051c1-6f14-468f-b9a0-19c3d7b37ffb"
+            }
+        },
+        {
+            "value": "http://humidtropics.cgiar.org/",
+            "key": "ILRI_prjwebsite",
+            "__extras": {
+                "package_id": "2ce051c1-6f14-468f-b9a0-19c3d7b37ffb",
+                "revision_id": "1192f898-b513-42fb-848e-865994663a8a"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "organization": {
+        "description": "The International Livestock Research Institute (ILRI) works to improve food security and reduce poverty in developing countries through research for better and more sustainable use of livestock. ILRI is a member of the CGIAR Consortium which works for a food-secure future.",
+        "title": "ILRI",
+        "created": "2014-08-19T09:51:48.312508",
+        "approval_status": "approved",
+        "revision_timestamp": "2014-08-19T09:51:48.269962",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://www.fangrvn.com/upload/ilri_logo_color_1377842099.jpg",
+        "revision_id": "628af016-a0e5-4abb-8fa0-78160498318f",
+        "type": "organization",
+        "id": "d053dbc0-7a56-4798-b138-1e377618d497",
+        "name": "ilri"
+    },
+    "revision_id": "1192f898-b513-42fb-848e-865994663a8a",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

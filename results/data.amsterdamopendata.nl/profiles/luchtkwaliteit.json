@@ -1,0 +1,200 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2013-05-16T09:25:16.320060",
+    "id": "9b8e11de-fcbf-413d-9c49-ebbc08c87ad9",
+    "metadata_created": "2013-05-16T09:25:16.320060",
+    "owner_org": null,
+    "metadata_modified": "2013-05-29T14:34:30.820418",
+    "author": "GGD Amsterdam",
+    "author_email": "info@ggd.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "6594fb11-fccf-4f90-99b2-d30c73af6d7f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-05-29T14:34:30.820418",
+            "webstore_last_updated": null,
+            "id": "029889ce-4206-4d76-8813-0fd525affb65",
+            "size": "5967",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Jaarlijkse rapportages",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://www.luchtmetingen.amsterdam.nl/informatie.aspx",
+            "created": "2013-05-29T16:34:30.871974",
+            "url": "http://www.luchtmetingen.amsterdam.nl/informatie.aspx",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "d7d62c2c-82ba-49bc-a3c7-123e0065360d",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "6594fb11-fccf-4f90-99b2-d30c73af6d7f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-05-29T14:34:30.820418",
+            "webstore_last_updated": null,
+            "id": "f43b6530-9346-4f89-afee-178283225160",
+            "size": "44692",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Downloadpagina voor specifieke data",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://www.luchtmetingen.amsterdam.nl/DownloadPage.aspx",
+            "created": "2013-05-29T16:34:30.871998",
+            "url": "http://www.luchtmetingen.amsterdam.nl/DownloadPage.aspx",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "d7d62c2c-82ba-49bc-a3c7-123e0065360d",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "PM10",
+            "name": "PM10",
+            "revision_timestamp": "2013-05-16T09:25:16.320060",
+            "state": "active",
+            "id": "68e6e670-fafd-45f5-a397-e04760330a2b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "PM2.5",
+            "name": "PM2.5",
+            "revision_timestamp": "2013-05-16T09:25:16.320060",
+            "state": "active",
+            "id": "37518fbb-3c33-4e73-8d31-a1ebd0f3dcb9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "luchtkwaliteit",
+            "name": "luchtkwaliteit",
+            "revision_timestamp": "2013-05-16T09:25:16.320060",
+            "state": "active",
+            "id": "15039b27-cfe1-4471-9725-fa6b28ab7852"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "luchtmetingen",
+            "name": "luchtmetingen",
+            "revision_timestamp": "2013-05-16T09:25:16.320060",
+            "state": "active",
+            "id": "bd9958aa-9967-43f6-8e59-0862c2883915"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Milieu & Water",
+            "description": "",
+            "name": "milieu-water",
+            "id": "0a8beb10-5eff-4ac4-8e01-8f210e3c2d97"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "luchtkwaliteit",
+    "isopen": false,
+    "url": null,
+    "notes": "De GGD Amsterdam beheert het luchtmeetnet van de gemeentes Amsterdam. Het luchtmeetnet bestaat uit 14 meetstations (waarvan 1 van de gemeente Zaanstad) die 24 uur per dag, 365 dagen per jaar continu de luchtkwaliteit in de gaten houden. De data wordt uurlijks bijgewerkt, behalve die van PM10 en PM2.5. De metingen van PM10 en PM2.5 lopen 2 uur achter. De Jaarlijkse datarapportages en specifieke dataexports zijn te downloaden als Excel- of CSV-bestand.",
+    "title": "Luchtkwaliteit",
+    "extras": [
+        {
+            "value": "lo@ggd.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "9b8e11de-fcbf-413d-9c49-ebbc08c87ad9",
+                "revision_id": "dacdf666-f566-4cee-8d33-91c0aa48146c"
+            }
+        },
+        {
+            "value": "GGD Amsterdam, cluster Leefomgeving, afdeling luchtkwaliteit",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "dacdf666-f566-4cee-8d33-91c0aa48146c",
+                "package_id": "9b8e11de-fcbf-413d-9c49-ebbc08c87ad9"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "dacdf666-f566-4cee-8d33-91c0aa48146c",
+                "package_id": "9b8e11de-fcbf-413d-9c49-ebbc08c87ad9"
+            }
+        },
+        {
+            "value": "Uur, dag, week, maand of jaar",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "dacdf666-f566-4cee-8d33-91c0aa48146c",
+                "package_id": "9b8e11de-fcbf-413d-9c49-ebbc08c87ad9"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "9b8e11de-fcbf-413d-9c49-ebbc08c87ad9",
+                "revision_id": "dacdf666-f566-4cee-8d33-91c0aa48146c"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "9b8e11de-fcbf-413d-9c49-ebbc08c87ad9",
+                "revision_id": "dacdf666-f566-4cee-8d33-91c0aa48146c"
+            }
+        },
+        {
+            "value": "Ieder uur",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "dacdf666-f566-4cee-8d33-91c0aa48146c",
+                "package_id": "9b8e11de-fcbf-413d-9c49-ebbc08c87ad9"
+            }
+        },
+        {
+            "value": "http://www.luchtmetingen.amsterdam.nl/",
+            "key": "website",
+            "__extras": {
+                "package_id": "9b8e11de-fcbf-413d-9c49-ebbc08c87ad9",
+                "revision_id": "dacdf666-f566-4cee-8d33-91c0aa48146c"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "dacdf666-f566-4cee-8d33-91c0aa48146c"
+}

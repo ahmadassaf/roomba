@@ -1,0 +1,187 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2013-05-15T12:43:33.191583",
+    "id": "1cb3248c-618a-49d3-ab6a-c49558114334",
+    "metadata_created": "2013-05-15T12:43:33.191583",
+    "owner_org": null,
+    "metadata_modified": "2013-05-15T12:43:33.191583",
+    "author": "Ruimtelijke Ordening (DRO)",
+    "author_email": "info@dro.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "fc52cce7-5f5f-405a-a6c2-8d1bf2e5e5b5",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-05-15T12:43:33.191583",
+            "webstore_last_updated": null,
+            "id": "be0ad192-38fe-43ea-bd63-d1f96e31f6a9",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Shapefiles",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://maps.amsterdam.nl/open_geodata/",
+            "created": "2013-05-15T14:43:33.243684",
+            "url": "http://maps.amsterdam.nl/open_geodata/",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "5c9f4ac5-444a-4e7f-b5f1-8e3666c7400c",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "daken",
+            "name": "daken",
+            "revision_timestamp": "2013-05-15T12:43:33.191583",
+            "state": "active",
+            "id": "3fd4b8c7-2ad5-4632-b04b-375e0030f3bb"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "duurzaamheid",
+            "name": "duurzaamheid",
+            "revision_timestamp": "2013-05-15T12:43:33.191583",
+            "state": "active",
+            "id": "f674b3e4-16c4-424d-8402-4126d0829083"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "energie",
+            "name": "energie",
+            "revision_timestamp": "2013-05-15T12:43:33.191583",
+            "state": "active",
+            "id": "2dcbc92a-ef3d-4d78-92cf-63e0b964bfe4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "groene",
+            "name": "groene",
+            "revision_timestamp": "2013-05-15T12:43:33.191583",
+            "state": "active",
+            "id": "d560f7ca-9f46-406b-890f-ca8167300390"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "ordening\n",
+            "name": "ordening\n",
+            "revision_timestamp": "2013-05-15T12:43:33.191583",
+            "state": "active",
+            "id": "9cf12d4a-b681-4778-8b74-a3618184200b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "ruimtelijke",
+            "name": "ruimtelijke",
+            "revision_timestamp": "2013-05-15T12:43:33.191583",
+            "state": "active",
+            "id": "b5daf57f-08ab-4369-8e51-753d92967310"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Energie",
+            "description": "",
+            "name": "energie",
+            "id": "14dc43ca-3c44-4ecb-8580-bb02b51ec950"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "groene-daken",
+    "isopen": false,
+    "url": null,
+    "notes": "De Gemeente Amsterdam en verschillende stadsdelen willen het aanleggen van groene daken graag stimuleren. Deze kaart geeft een overzicht van de aanwezige groene daken in Amsterdam, maar is nog niet compleet.\n",
+    "title": "Groene daken",
+    "extras": [
+        {
+            "value": "info@dro.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "1cb3248c-618a-49d3-ab6a-c49558114334",
+                "revision_id": "5c9f4ac5-444a-4e7f-b5f1-8e3666c7400c"
+            }
+        },
+        {
+            "value": "Ruimtelijke Ordening (DRO)",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "5c9f4ac5-444a-4e7f-b5f1-8e3666c7400c",
+                "package_id": "1cb3248c-618a-49d3-ab6a-c49558114334"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "5c9f4ac5-444a-4e7f-b5f1-8e3666c7400c",
+                "package_id": "1cb3248c-618a-49d3-ab6a-c49558114334"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "5c9f4ac5-444a-4e7f-b5f1-8e3666c7400c",
+                "package_id": "1cb3248c-618a-49d3-ab6a-c49558114334"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "1cb3248c-618a-49d3-ab6a-c49558114334",
+                "revision_id": "5c9f4ac5-444a-4e7f-b5f1-8e3666c7400c"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "1cb3248c-618a-49d3-ab6a-c49558114334",
+                "revision_id": "5c9f4ac5-444a-4e7f-b5f1-8e3666c7400c"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "5c9f4ac5-444a-4e7f-b5f1-8e3666c7400c",
+                "package_id": "1cb3248c-618a-49d3-ab6a-c49558114334"
+            }
+        },
+        {
+            "value": "http://maps.amsterdam.nl",
+            "key": "website",
+            "__extras": {
+                "package_id": "1cb3248c-618a-49d3-ab6a-c49558114334",
+                "revision_id": "5c9f4ac5-444a-4e7f-b5f1-8e3666c7400c"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "5c9f4ac5-444a-4e7f-b5f1-8e3666c7400c"
+}

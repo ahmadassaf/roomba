@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:50:38.927403",
+    "id": "df014030-b162-4a59-b732-faa3bbe91c3f",
+    "metadata_created": "2012-09-11T13:50:38.927403",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:08:05.992361",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "ee77db24-c45b-4ccc-95e4-8783e4725731",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:08:05.992361",
+            "webstore_last_updated": "2013-10-10T12:08:05.906352",
+            "id": "cacd47a5-5e18-48c4-8868-9b8e3fde8480",
+            "size": "2684",
+            "state": "active",
+            "hash": "437c98bc70e1d35d39e90c3774f7a5bdd6cca2b2",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Percentage distribution of  population (15-24 years) by Abilty to Read and Write - 2005/6.csv",
+            "created": "2012-09-11T13:50:38.971630",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155323/ysf9-6t32.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T10:42:03.577687",
+            "position": 0,
+            "revision_id": "1f7a62d1-30b3-4084-98e2-bdfdb149ca43",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "education kihbs",
+            "name": "education kihbs",
+            "revision_timestamp": "2012-09-11T13:50:38.927403",
+            "state": "active",
+            "id": "d794318b-2bfd-4f34-a995-8faa2f9bb79d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:50:38.927403",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:50:38.927403",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 48,
+        "recent": 3
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-ysf9-6t32",
+    "isopen": true,
+    "url": null,
+    "notes": "Table 4.7: Percentage distribution of  population (15-24 years) by Abilty to Read and Write, Age and Sex",
+    "title": "Percentage distribution of  population (15-24 years) by Abilty to Read and Write - 2005/6",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "29dd2d6d-8227-45e1-a126-5050e625ceed",
+                "package_id": "df014030-b162-4a59-b732-faa3bbe91c3f"
+            }
+        },
+        {
+            "value": "Education",
+            "key": "category",
+            "__extras": {
+                "revision_id": "29dd2d6d-8227-45e1-a126-5050e625ceed",
+                "package_id": "df014030-b162-4a59-b732-faa3bbe91c3f"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "29dd2d6d-8227-45e1-a126-5050e625ceed",
+                "package_id": "df014030-b162-4a59-b732-faa3bbe91c3f"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "29dd2d6d-8227-45e1-a126-5050e625ceed"
+}

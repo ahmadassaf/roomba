@@ -1,0 +1,97 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-02-04T13:19:43.588073",
+    "id": "918c32ff-7c02-4f5a-b2de-98c4b3a64fa1",
+    "metadata_created": "2013-02-04T13:18:43.820814",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:53:52.299174",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "622cd6ca-3e82-40e4-a3cf-e1eddef55781",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:53:52.299174",
+            "webstore_last_updated": "2013-10-10T10:53:52.236226",
+            "id": "3fe5564e-6aef-457a-8f75-633589fe72bb",
+            "size": "1043181",
+            "state": "active",
+            "hash": "4cf3ba890cb9577f63d6eb039f549b716a005988",
+            "description": "The International Development Association (IDA) credits are public and publicly guaranteed debt extended by the World Bank Group. IDA provides development credits, grants and guarantees to its recipient member countries to help meet their development needs. Credits from IDA are at concessional rates. Data are in U.S. dollars calculated using historical rates. This dataset contains the latest available snapshot of the IDA Statement of Credits and Grants. The World Bank complies with all sanctions applicable to World Bank transactions.",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "IDA_Credits_and_Grants_Burundi.csv",
+            "created": "2013-02-04T13:19:35.411431",
+            "url": "http://africaopendata.org/storage/f/2013-02-04T13%3A18%3A55.566Z/ida-credits-and-grants-burundi.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:08:54.794580",
+            "position": 0,
+            "revision_id": "c77e54e3-d9bf-4563-9038-b444d8f5778b",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Burundi",
+            "name": "Burundi",
+            "revision_timestamp": "2013-02-04T13:18:43.820814",
+            "state": "active",
+            "id": "30ce8a63-53ae-4374-9bbc-8e99545a2467"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Grant",
+            "name": "Grant",
+            "revision_timestamp": "2013-02-04T13:18:43.820814",
+            "state": "active",
+            "id": "61a5d14f-cd43-44ef-8c7c-c6a531e2f4a3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "World Bank",
+            "name": "World Bank",
+            "revision_timestamp": "2013-02-04T13:18:43.820814",
+            "state": "active",
+            "id": "ae91265e-0b5c-45a0-a96f-02cf356ec937"
+        }
+    ],
+    "tracking_summary": {
+        "total": 66,
+        "recent": 5
+    },
+    "groups": [
+        {
+            "title": "Burundi",
+            "description": "Datasets from the Republic of Burundi",
+            "name": "burundi",
+            "id": "f6499673-8892-4b50-a393-1edc9c6cc89b"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "world-bank-ida-grant-burundi",
+    "isopen": false,
+    "url": null,
+    "notes": "The International Development Association (IDA) credits are public and publicly guaranteed debt extended by the World Bank Group. IDA provides development credits, grants and guarantees to its recipient member countries to help meet their development needs. Credits from IDA are at concessional rates. Data are in U.S. dollars calculated using historical rates. This dataset contains the latest available snapshot of the IDA Statement of Credits and Grants. The World Bank complies with all sanctions applicable to World Bank transactions.",
+    "title": "World Bank IDA Grant Burundi",
+    "extras": [],
+    "organization": null,
+    "revision_id": "d0803e96-f6c5-4128-aa94-665a1adaab18"
+}

@@ -1,0 +1,677 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:24:14.192146",
+    "id": "1367aa1e-2e34-4776-a7dc-69348502f944",
+    "metadata_created": "2014-11-04T22:24:14.192146",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:47:44.185297",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "18257a8d-1fa7-4164-ac63-37bfa69b4881",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:51:56.754040",
+            "webstore_last_updated": null,
+            "id": "8601efe2-60c2-4e83-b621-03897c51d96f",
+            "size": "49485",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "e155fb5b290a9884fb537e7577e0b46d7ffb6b89",
+            "description": "Online link to the 'Probability At Birth Of Not Surviving To Age 40 1998' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:51:38.047071",
+            "url": "http://maps.data.ug/layers/geonode:probability_at_birth_of_not_surviving_to_age_40_1998",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:51:56.455212",
+            "position": 0,
+            "revision_id": "484e53d2-1316-4500-a909-35c80ed2d6c0",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "18257a8d-1fa7-4164-ac63-37bfa69b4881",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:24:14.192146",
+            "webstore_last_updated": null,
+            "id": "fe7b394e-a9d3-42b7-8ce4-0b0c8089cccd",
+            "size": "50737",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Probability At Birth Of Not Surviving To Age 40 1998 (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "probability_at_birth_of_not_surviving_to_age_40_1998.png",
+            "created": "2014-03-12T14:51:38.047117",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Aprobability_at_birth_of_not_surviving_to_age_40_1998&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:56:45.202293",
+            "position": 1,
+            "revision_id": "6c797437-97b2-4e0a-8698-ca8c57abefb3",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "18257a8d-1fa7-4164-ac63-37bfa69b4881",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:24:14.192146",
+            "webstore_last_updated": null,
+            "id": "cc1bde12-900d-46c5-af01-81e0e9e4f422",
+            "size": "35604",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Probability At Birth Of Not Surviving To Age 40 1998 (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "probability_at_birth_of_not_surviving_to_age_40_1998.pdf",
+            "created": "2014-03-12T14:51:38.047135",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Aprobability_at_birth_of_not_surviving_to_age_40_1998&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:56:46.715348",
+            "position": 2,
+            "revision_id": "6c797437-97b2-4e0a-8698-ca8c57abefb3",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "18257a8d-1fa7-4164-ac63-37bfa69b4881",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:51:54.272078",
+            "webstore_last_updated": null,
+            "id": "ed4fc5a7-7eba-4ef7-a425-61b4558c1093",
+            "size": "32065",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Probability At Birth Of Not Surviving To Age 40 1998 (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "probability_at_birth_of_not_surviving_to_age_40_1998.jpg",
+            "created": "2014-03-12T14:51:38.047145",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Aprobability_at_birth_of_not_surviving_to_age_40_1998&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:51:54.055593",
+            "position": 3,
+            "revision_id": "493f54fc-628a-4848-86ad-76913e04eadb",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "18257a8d-1fa7-4164-ac63-37bfa69b4881",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:24:14.192146",
+            "webstore_last_updated": null,
+            "id": "3dc36f14-509c-4a6b-a5ca-8c431bc8b274",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Probability At Birth Of Not Surviving To Age 40 1998 (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "probability_at_birth_of_not_surviving_to_age_40_1998.tiles",
+            "created": "2014-03-12T14:51:38.047155",
+            "url": "http://maps.data.ug/geoserver/gwc/service/gmaps?layers=geonode:probability_at_birth_of_not_surviving_to_age_40_1998&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 4,
+            "revision_id": "6c797437-97b2-4e0a-8698-ca8c57abefb3",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "18257a8d-1fa7-4164-ac63-37bfa69b4881",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:51:57.579557",
+            "webstore_last_updated": null,
+            "id": "da9fdc0e-ff58-42ce-ab57-bb012c7e6378",
+            "size": "1953",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Probability At Birth Of Not Surviving To Age 40 1998 (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "probability_at_birth_of_not_surviving_to_age_40_1998.kml",
+            "created": "2014-03-12T14:51:38.047163",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Aprobability_at_birth_of_not_surviving_to_age_40_1998&mode=refresh",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:51:57.452767",
+            "position": 5,
+            "revision_id": "62f2f551-fd4b-4d3f-a49d-5be59b9288b1",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "18257a8d-1fa7-4164-ac63-37bfa69b4881",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:51:59.199165",
+            "webstore_last_updated": null,
+            "id": "db50e6cf-aced-4457-9134-035027d1773c",
+            "size": "473101",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Probability At Birth Of Not Surviving To Age 40 1998 (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "probability_at_birth_of_not_surviving_to_age_40_1998.kml",
+            "created": "2014-03-12T14:51:38.047174",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Aprobability_at_birth_of_not_surviving_to_age_40_1998&mode=download",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:51:59.067977",
+            "position": 6,
+            "revision_id": "a683eb56-6966-48a7-9ac1-eb42def6dd1b",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "18257a8d-1fa7-4164-ac63-37bfa69b4881",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:24:14.192146",
+            "webstore_last_updated": null,
+            "id": "31fc1089-71a7-4539-9887-c4fd280a3bb1",
+            "size": "317282",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Probability At Birth Of Not Surviving To Age 40 1998 (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "probability_at_birth_of_not_surviving_to_age_40_1998.json",
+            "created": "2014-03-12T14:51:38.047184",
+            "url": "http://maps.data.ug/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Aprobability_at_birth_of_not_surviving_to_age_40_1998&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:56:46.340885",
+            "position": 7,
+            "revision_id": "6c797437-97b2-4e0a-8698-ca8c57abefb3",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "18257a8d-1fa7-4164-ac63-37bfa69b4881",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:51:58.496604",
+            "webstore_last_updated": null,
+            "id": "b877e1aa-56a8-480a-b728-512bc13e18a2",
+            "size": "308224",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Probability At Birth Of Not Surviving To Age 40 1998 (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "probability_at_birth_of_not_surviving_to_age_40_1998.excel",
+            "created": "2014-03-12T14:51:38.047191",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Aprobability_at_birth_of_not_surviving_to_age_40_1998&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:51:58.360546",
+            "position": 8,
+            "revision_id": "df7257f8-a7b0-424e-91a0-0fdf94a1bf97",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "18257a8d-1fa7-4164-ac63-37bfa69b4881",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:47:44.185297",
+            "webstore_last_updated": "2014-11-04T22:52:00.906824",
+            "id": "99dcc460-62fb-46c7-adc0-9aae27fc4042",
+            "size": "299295",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Probability At Birth Of Not Surviving To Age 40 1998 (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "probability_at_birth_of_not_surviving_to_age_40_1998.csv",
+            "created": "2014-03-12T14:51:38.047198",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Aprobability_at_birth_of_not_surviving_to_age_40_1998&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": "active",
+            "last_modified": "2014-11-04T22:52:00.687136",
+            "position": 9,
+            "revision_id": "cd42a251-d2ef-41a5-ab5b-30e98c167bb5",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "18257a8d-1fa7-4164-ac63-37bfa69b4881",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:51:53.450425",
+            "webstore_last_updated": null,
+            "id": "801ed48c-84fb-4c43-a868-1e39b08f21cf",
+            "size": "330535",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Probability At Birth Of Not Surviving To Age 40 1998 (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "probability_at_birth_of_not_surviving_to_age_40_1998.gml",
+            "created": "2014-03-12T14:51:38.047206",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Aprobability_at_birth_of_not_surviving_to_age_40_1998&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:51:53.241350",
+            "position": 10,
+            "revision_id": "9cb1086c-ccca-4d0f-a0ba-6d1e3aa65eba",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "18257a8d-1fa7-4164-ac63-37bfa69b4881",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:47:44.185297",
+            "webstore_last_updated": null,
+            "id": "f30ccd96-0bd8-439a-863b-05fe13d51edf",
+            "size": "102315",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Probability At Birth Of Not Surviving To Age 40 1998 (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "probability_at_birth_of_not_surviving_to_age_40_1998.zip",
+            "created": "2014-03-12T14:51:38.047222",
+            "url": "http://maps.data.ug/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Aprobability_at_birth_of_not_surviving_to_age_40_1998&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:56:46.322302",
+            "position": 11,
+            "revision_id": "cd42a251-d2ef-41a5-ab5b-30e98c167bb5",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 12,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Birth",
+            "name": "Birth",
+            "revision_timestamp": "2014-11-04T22:24:14.192146",
+            "state": "active",
+            "id": "1ebe294e-91d2-4e90-be10-82be9ad81d07"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Health",
+            "name": "Health",
+            "revision_timestamp": "2014-11-04T22:24:14.192146",
+            "state": "active",
+            "id": "1cd4b8fb-d614-41d6-bb0d-a26466cbc939"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Pregnancy",
+            "name": "Pregnancy",
+            "revision_timestamp": "2014-11-04T22:24:14.192146",
+            "state": "active",
+            "id": "9fe2075c-c8d8-4e24-ae6a-fb9ad2b53ef5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:24:14.192146",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:24:14.192146",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:24:14.192146",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:24:14.192146",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:24:14.192146",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "mortality",
+            "name": "mortality",
+            "revision_timestamp": "2014-11-04T22:24:14.192146",
+            "state": "active",
+            "id": "a9b2b76d-0ae5-4855-9813-481cabae37df"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:24:14.192146",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:24:14.192146",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 8,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 11,
+    "name": "probability-at-birth-of-not-surviving-to-age-40-1998",
+    "isopen": false,
+    "url": null,
+    "notes": "Probability At Birth Of Not Surviving To Age 40 1998",
+    "title": "Probability At Birth Of Not Surviving To Age 40 1998",
+    "extras": [
+        {
+            "value": "[]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "6c797437-97b2-4e0a-8698-ca8c57abefb3",
+                "package_id": "1367aa1e-2e34-4776-a7dc-69348502f944"
+            }
+        },
+        {
+            "value": "35.0017411394",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "6c797437-97b2-4e0a-8698-ca8c57abefb3",
+                "package_id": "1367aa1e-2e34-4776-a7dc-69348502f944"
+            }
+        },
+        {
+            "value": "4.2310114174",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "1367aa1e-2e34-4776-a7dc-69348502f944",
+                "revision_id": "6c797437-97b2-4e0a-8698-ca8c57abefb3"
+            }
+        },
+        {
+            "value": "-1.4817440179",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "6c797437-97b2-4e0a-8698-ca8c57abefb3",
+                "package_id": "1367aa1e-2e34-4776-a7dc-69348502f944"
+            }
+        },
+        {
+            "value": "29.5741674481",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "6c797437-97b2-4e0a-8698-ca8c57abefb3",
+                "package_id": "1367aa1e-2e34-4776-a7dc-69348502f944"
+            }
+        },
+        {
+            "value": "",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "1367aa1e-2e34-4776-a7dc-69348502f944",
+                "revision_id": "6c797437-97b2-4e0a-8698-ca8c57abefb3"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "1367aa1e-2e34-4776-a7dc-69348502f944",
+                "revision_id": "6c797437-97b2-4e0a-8698-ca8c57abefb3"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-02-20T04:01:10Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "1367aa1e-2e34-4776-a7dc-69348502f944",
+                "revision_id": "6c797437-97b2-4e0a-8698-ca8c57abefb3"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "1367aa1e-2e34-4776-a7dc-69348502f944",
+                "revision_id": "6c797437-97b2-4e0a-8698-ca8c57abefb3"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Probability At Birth Of Not Surviving To Age 40 1998'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "1367aa1e-2e34-4776-a7dc-69348502f944",
+                "revision_id": "6c797437-97b2-4e0a-8698-ca8c57abefb3"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "1367aa1e-2e34-4776-a7dc-69348502f944",
+                "revision_id": "6c797437-97b2-4e0a-8698-ca8c57abefb3"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "6c797437-97b2-4e0a-8698-ca8c57abefb3",
+                "package_id": "1367aa1e-2e34-4776-a7dc-69348502f944"
+            }
+        },
+        {
+            "value": "ec42ab36-9a15-11e3-8923-11b11f8ea6d0",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "6c797437-97b2-4e0a-8698-ca8c57abefb3",
+                "package_id": "1367aa1e-2e34-4776-a7dc-69348502f944"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "6c797437-97b2-4e0a-8698-ca8c57abefb3",
+                "package_id": "1367aa1e-2e34-4776-a7dc-69348502f944"
+            }
+        },
+        {
+            "value": "2014-02-20T04:01:10Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "1367aa1e-2e34-4776-a7dc-69348502f944",
+                "revision_id": "6c797437-97b2-4e0a-8698-ca8c57abefb3"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "6c797437-97b2-4e0a-8698-ca8c57abefb3",
+                "package_id": "1367aa1e-2e34-4776-a7dc-69348502f944"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "1367aa1e-2e34-4776-a7dc-69348502f944",
+                "revision_id": "6c797437-97b2-4e0a-8698-ca8c57abefb3"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "1367aa1e-2e34-4776-a7dc-69348502f944",
+                "revision_id": "6c797437-97b2-4e0a-8698-ca8c57abefb3"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "1367aa1e-2e34-4776-a7dc-69348502f944",
+                "revision_id": "6c797437-97b2-4e0a-8698-ca8c57abefb3"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.5741674481, -1.4817440179], [35.0017411394, -1.4817440179], [35.0017411394, 4.2310114174], [29.5741674481, 4.2310114174], [29.5741674481, -1.4817440179]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "6c797437-97b2-4e0a-8698-ca8c57abefb3",
+                "package_id": "1367aa1e-2e34-4776-a7dc-69348502f944"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "1367aa1e-2e34-4776-a7dc-69348502f944",
+                "revision_id": "6c797437-97b2-4e0a-8698-ca8c57abefb3"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "6c797437-97b2-4e0a-8698-ca8c57abefb3",
+                "package_id": "1367aa1e-2e34-4776-a7dc-69348502f944"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "6c797437-97b2-4e0a-8698-ca8c57abefb3",
+                "package_id": "1367aa1e-2e34-4776-a7dc-69348502f944"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "6c797437-97b2-4e0a-8698-ca8c57abefb3"
+}

@@ -1,0 +1,109 @@
+{
+    "license_title": "Open Data Commons Open Database License 1.0",
+    "maintainer": "T. Idriss TINTO",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "root@titinto.net",
+    "revision_timestamp": "2014-02-23T09:32:08.086480",
+    "id": "e5459baa-edb6-4ab5-a9d2-eca0ac67833c",
+    "metadata_created": "2014-02-23T09:28:55.093249",
+    "owner_org": null,
+    "metadata_modified": "2014-02-23T09:32:08.086480",
+    "author": "Commission électorale nationale indépendante",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "ODbL-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "b564fc26-2627-4f02-bc54-4c7668aa2ce4",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-02-23T09:30:09.654234",
+            "webstore_last_updated": "2014-02-23T09:30:08.832043",
+            "id": "3c579962-bfaf-4c0a-9b24-a2ca07b75d17",
+            "size": "1385",
+            "state": "active",
+            "hash": "dd81ac1172d58725f570f7ca1923f9b7e7855b32",
+            "description": "Fichier contenant les partis polititque participant au rattrapages de 2014",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "partis_partielles_2014.csv",
+            "created": "2014-02-23T09:30:05.052105",
+            "url": "http://africaopendata.org/storage/f/2014-02-23T09%3A29%3A24.595Z/partis-partielles-2014.csv",
+            "webstore_url": "active",
+            "last_modified": "2014-02-23T09:30:09.385060",
+            "position": 0,
+            "revision_id": "5bd9819f-f2d3-47b4-a808-16bbb47eafda",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Burkina Faso",
+            "name": "Burkina Faso",
+            "revision_timestamp": "2014-02-23T09:28:55.093249",
+            "state": "active",
+            "id": "9c9624ca-2da8-4d09-a166-1f4a5ff49622"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Elections",
+            "name": "Elections",
+            "revision_timestamp": "2014-02-23T09:28:55.093249",
+            "state": "active",
+            "id": "0e4ae81e-4cfb-4f61-bdb6-6dbdb013e8ae"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "burkina",
+            "name": "burkina",
+            "revision_timestamp": "2014-02-23T09:28:55.093249",
+            "state": "active",
+            "id": "a48e44c5-fc98-4609-8340-41c92f405168"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "municipal elections",
+            "name": "municipal elections",
+            "revision_timestamp": "2014-02-23T09:28:55.093249",
+            "state": "active",
+            "id": "8d4a4e38-b5c9-469c-8798-efa026e55c7f"
+        }
+    ],
+    "tracking_summary": {
+        "total": 51,
+        "recent": 5
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "partis-elections-de-rattrapage-2014",
+    "isopen": true,
+    "url": null,
+    "notes": "Liste des partis politiques en compétition pour les élections municipales de rattrapage de 2014",
+    "title": "Partis elections de rattrapage 2014",
+    "extras": [],
+    "license_url": "http://www.opendefinition.org/licenses/odc-odbl",
+    "organization": null,
+    "revision_id": "43ceeee2-52dd-4505-9aa9-7501a40048f8",
+    "license_information": {
+        "domain_content": false,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "",
+        "status": "active"
+    }
+}

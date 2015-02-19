@@ -1,0 +1,277 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2014-04-11T06:24:33.607775",
+    "id": "bc4a812b-ebe2-4a81-a83a-db13f0f59d9b",
+    "metadata_created": "2013-06-27T08:15:23.232657",
+    "owner_org": null,
+    "metadata_modified": "2015-01-23T18:58:49.530272",
+    "author": "Bureau Stadsregie",
+    "author_email": "bsr@ivv.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "7bc2bae3-f60d-4260-a9e9-757d683527a4",
+            "cache_last_updated": null,
+            "revision_timestamp": "2015-01-23T18:58:49.530272",
+            "webstore_last_updated": null,
+            "id": "330af089-88b6-4484-bb8e-cecadbdd9fd5",
+            "size": "1062289",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Projecten",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "http://www.amsterdamopendata.nl/files/Projecten_Amsterdam_GeoJson.json",
+            "created": "2014-04-11T08:24:34.691223",
+            "url": "http://www.amsterdamopendata.nl/files/Projecten_Amsterdam_GeoJson.json",
+            "webstore_url": null,
+            "last_modified": "2015-01-23T12:15:57",
+            "position": 0,
+            "revision_id": "8f4f5c59-af6b-4b34-8d16-5a3a5901f6a0",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "7bc2bae3-f60d-4260-a9e9-757d683527a4",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-04-11T06:24:33.607775",
+            "webstore_last_updated": null,
+            "id": "fc5558e3-8a47-4182-b580-366b41313d2f",
+            "size": "82415",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Belemmeringen",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "http://www.amsterdamopendata.nl/files/Belemmeringen_Amsterdam_GeoJson.json",
+            "created": "2014-04-11T08:24:34.691250",
+            "url": "http://www.amsterdamopendata.nl/files/Belemmeringen_Amsterdam_GeoJson.json",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "e1802b1b-f7e3-408b-ab96-197ee6a3bf5b",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "7bc2bae3-f60d-4260-a9e9-757d683527a4",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-04-11T06:24:33.607775",
+            "webstore_last_updated": null,
+            "id": "e7689c61-2b74-4409-907d-ea41baff9dc1",
+            "size": "132815",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Omleidingen",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "http://www.amsterdamopendata.nl/files/Omleidingen_Amsterdam_GeoJson.json",
+            "created": "2014-04-11T08:24:34.691258",
+            "url": "http://www.amsterdamopendata.nl/files/Omleidingen_Amsterdam_GeoJson.json",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "e1802b1b-f7e3-408b-ab96-197ee6a3bf5b",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 3,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "belemmeringen",
+            "name": "belemmeringen",
+            "revision_timestamp": "2013-06-27T08:15:23.232657",
+            "state": "active",
+            "id": "f566c637-071d-4953-9dd3-ec7af6ca738c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "in",
+            "name": "in",
+            "revision_timestamp": "2014-01-29T07:48:11.818845",
+            "state": "active",
+            "id": "a399d44d-a87d-4865-929c-796b6b90038e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "omleidingen",
+            "name": "omleidingen",
+            "revision_timestamp": "2013-06-27T08:15:23.232657",
+            "state": "active",
+            "id": "d8cc1142-9094-4741-ae06-6862530962ab"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "planning",
+            "name": "planning",
+            "revision_timestamp": "2013-06-27T08:15:23.232657",
+            "state": "active",
+            "id": "4b0b18c3-98c9-4ddf-a066-cda2187d37be"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "projecten",
+            "name": "projecten",
+            "revision_timestamp": "2013-06-27T08:15:23.232657",
+            "state": "active",
+            "id": "d868e4c8-05df-41b3-9937-1140697467d2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uitvoering",
+            "name": "uitvoering",
+            "revision_timestamp": "2014-01-29T07:48:11.818845",
+            "state": "active",
+            "id": "44583907-e56c-4bf5-8ead-8859193324bc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "verkeer",
+            "name": "verkeer",
+            "revision_timestamp": "2014-01-29T07:48:11.818845",
+            "state": "active",
+            "id": "7d17c803-771e-4250-994b-76ae82fcd79e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "wegwerkzaamheden",
+            "name": "wegwerkzaamheden",
+            "revision_timestamp": "2013-06-27T08:15:23.232657",
+            "state": "active",
+            "id": "940e09a2-b30b-4e35-945c-dd2c49395b15"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "werk",
+            "name": "werk",
+            "revision_timestamp": "2014-01-29T07:48:11.818845",
+            "state": "active",
+            "id": "515392b8-529a-41fd-95b5-39cd1fd81bd3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "werkzaamheden",
+            "name": "werkzaamheden",
+            "revision_timestamp": "2014-01-29T07:48:11.818845",
+            "state": "active",
+            "id": "e039359c-1eb5-445f-b151-1538b7f15e92"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Verkeer & Infrastructuur",
+            "description": "",
+            "name": "verkeer-infrastructuur",
+            "id": "12502584-9d7d-4bdc-bf5f-df2b0d85f4f6"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 10,
+    "name": "geplande_wegwerkzaamheden",
+    "isopen": false,
+    "url": null,
+    "notes": "Overzicht van planningen voor boven- en ondergrondse infrastructurele projecten, met bijbehorende belemmeringen en omleidingen. \n\nLet op: de opgenomen data betreft de planningen. \n\nDe gegevens worden wekelijks geupdate.",
+    "title": "Geplande wegwerkzaamheden",
+    "extras": [
+        {
+            "value": "bsr@ivv.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "bc4a812b-ebe2-4a81-a83a-db13f0f59d9b",
+                "revision_id": "2d05d993-6836-4f84-a15d-f2f5adb03ca7"
+            }
+        },
+        {
+            "value": "Bureau Stadsregie",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "2d05d993-6836-4f84-a15d-f2f5adb03ca7",
+                "package_id": "bc4a812b-ebe2-4a81-a83a-db13f0f59d9b"
+            }
+        },
+        {
+            "value": "23/01/2015",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "8f4f5c59-af6b-4b34-8d16-5a3a5901f6a0",
+                "package_id": "bc4a812b-ebe2-4a81-a83a-db13f0f59d9b"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "2d05d993-6836-4f84-a15d-f2f5adb03ca7",
+                "package_id": "bc4a812b-ebe2-4a81-a83a-db13f0f59d9b"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "bc4a812b-ebe2-4a81-a83a-db13f0f59d9b",
+                "revision_id": "2d05d993-6836-4f84-a15d-f2f5adb03ca7"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "bc4a812b-ebe2-4a81-a83a-db13f0f59d9b",
+                "revision_id": "2d05d993-6836-4f84-a15d-f2f5adb03ca7"
+            }
+        },
+        {
+            "value": "Wekelijks",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "e1802b1b-f7e3-408b-ab96-197ee6a3bf5b",
+                "package_id": "bc4a812b-ebe2-4a81-a83a-db13f0f59d9b"
+            }
+        },
+        {
+            "value": "http://www.amsterdam.nl/coordinatiestelsel",
+            "key": "website",
+            "__extras": {
+                "package_id": "bc4a812b-ebe2-4a81-a83a-db13f0f59d9b",
+                "revision_id": "2d05d993-6836-4f84-a15d-f2f5adb03ca7"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "e1802b1b-f7e3-408b-ab96-197ee6a3bf5b"
+}

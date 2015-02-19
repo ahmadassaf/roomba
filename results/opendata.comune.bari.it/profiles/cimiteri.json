@@ -1,0 +1,135 @@
+{
+    "license_title": "CC0 1.0",
+    "maintainer": "Ufficio Tutela Ambiente",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "rip.igieneeambiente@comune.bari.it",
+    "revision_timestamp": "2014-12-17T11:32:32.165085",
+    "id": "b848b286-125a-47a7-af27-57b06f9a3746",
+    "metadata_created": "2014-11-12T17:14:38.860881",
+    "metadata_modified": "2014-12-17T11:32:32.165917",
+    "author": "Ripartizione Tutela Ambiente, Sanità e Igiene",
+    "author_email": "rip.igieneeambiente@comune.bari.it",
+    "state": "active",
+    "version": "",
+    "creator_user_id": "1a9bb171-088a-40d4-8c09-3eb097bb7860",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "b3df691c-1169-44ed-bec5-fd7694818537",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-12T17:14:39.208704",
+            "webstore_last_updated": null,
+            "datastore_active": false,
+            "id": "a555a023-5dd4-4bc2-9ef7-9bc7e481a217",
+            "size": "5568",
+            "state": "active",
+            "hash": "md5:e18172f7ad5a1851f6513649e487dadc",
+            "description": "",
+            "format": "ZIP",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "last_modified": "2013-02-22T14:44:09.526731",
+            "url_type": "upload",
+            "mimetype": "application/zip",
+            "cache_url": "",
+            "name": "2013-02-22T134356/AMIU_Cimiteri.zip",
+            "created": "2013-02-22T14:44:08.976851",
+            "url": "http://opendata.comune.bari.it/dataset/b848b286-125a-47a7-af27-57b06f9a3746/resource/a555a023-5dd4-4bc2-9ef7-9bc7e481a217/download/20130222t134356amiucimiteri.zip",
+            "webstore_url": "/storage/f/2013-02-22T134356/AMIU_Cimiteri.zip",
+            "mimetype_inner": "",
+            "position": 0,
+            "revision_id": "934f5041-8a0e-4be7-921f-3fcbe66bd133",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "amiu",
+            "name": "amiu",
+            "revision_timestamp": "2014-11-12T17:14:38.860881",
+            "state": "active",
+            "id": "4d9ba8a4-f80f-4359-be25-3f6d2d9d2fcf"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "cimiteri",
+            "name": "cimiteri",
+            "revision_timestamp": "2014-11-12T17:14:38.860881",
+            "state": "active",
+            "id": "b129e1c9-ff58-49a9-9276-d22d651cd917"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "display_name": "Dati Geografici",
+            "description": "Dati Geografici del Comune di Bari",
+            "image_display_url": "",
+            "title": "Dati Geografici",
+            "id": "33ce3844-87cd-418d-a237-31b4939342a7",
+            "name": "dati-geografici"
+        }
+    ],
+    "license_id": "CC0-1.0",
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "organization": {
+        "description": "",
+        "created": "2014-11-26T17:08:49.091500",
+        "title": "Comune di Bari",
+        "name": "comune-di-bari",
+        "revision_timestamp": "2014-11-26T16:08:49.054306",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "",
+        "revision_id": "dd9136cf-62f3-4182-b0a6-3287c82accaa",
+        "type": "organization",
+        "id": "a5fb4b95-9a9e-49de-a9cd-e93ac2bf587f",
+        "approval_status": "approved"
+    },
+    "name": "cimiteri",
+    "isopen": true,
+    "url": "",
+    "notes": "Mappa dei cimiteri del Comune di Bari",
+    "owner_org": "a5fb4b95-9a9e-49de-a9cd-e93ac2bf587f",
+    "extras": [
+        {
+            "key": "Data di creazione",
+            "value": "\"Febbraio 2013\""
+        },
+        {
+            "key": "Data ultima modifica del dato",
+            "value": "\"2006\""
+        },
+        {
+            "key": "Data ultima modifica del metadato",
+            "value": "\"2006\""
+        },
+        {
+            "key": "Tipo di dato",
+            "value": "\"shape file\""
+        }
+    ],
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "title": "Cimiteri",
+    "revision_id": "b8fb9951-1ceb-43f2-b6cb-93366f79ff22",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": true,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

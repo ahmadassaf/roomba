@@ -1,0 +1,197 @@
+{
+    "license_title": "CC0 1.0",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2013-05-15T10:04:23.892787",
+    "id": "36455c9a-8233-4f9b-af8a-67a6c391eccd",
+    "metadata_created": "2013-05-15T10:04:23.892787",
+    "owner_org": null,
+    "metadata_modified": "2013-05-15T10:04:23.892787",
+    "author": "Amsterdam Museum",
+    "author_email": "v.de.boer@cs.vu.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "CC0-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "43a21636-64c4-47d5-9d87-4d919969ef88",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-05-15T10:04:23.892787",
+            "webstore_last_updated": null,
+            "id": "36d66d6a-296a-400e-bb5b-66133363a736",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Linked data",
+            "format": "url",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "http://semanticweb.cs.vu.nl/lod/am/",
+            "created": "2013-05-15T12:04:23.943290",
+            "url": "http://semanticweb.cs.vu.nl/lod/am/",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "5aad8845-578f-44b9-af33-55023aadffe3",
+            "resource_type": "api"
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "API",
+            "name": "API",
+            "revision_timestamp": "2013-05-15T10:04:23.892787",
+            "state": "active",
+            "id": "9078a2ff-6a1e-4d92-a59b-3e077f9e3994"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "amsterdam",
+            "name": "amsterdam",
+            "revision_timestamp": "2013-05-15T10:04:23.892787",
+            "state": "active",
+            "id": "6773b92f-3cf7-4156-bb5f-a54b900f1537"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "collectie",
+            "name": "collectie",
+            "revision_timestamp": "2013-05-15T10:04:23.892787",
+            "state": "active",
+            "id": "312a4c3b-b59d-4951-a4cf-cca69105ec5a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data",
+            "name": "data",
+            "revision_timestamp": "2013-05-15T10:04:23.892787",
+            "state": "active",
+            "id": "cfa072c1-9e4b-44d9-a93a-609f481b0587"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "linked",
+            "name": "linked",
+            "revision_timestamp": "2013-05-15T10:04:23.892787",
+            "state": "active",
+            "id": "40beee98-57d6-4fc0-852f-513957162363"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "museum",
+            "name": "museum",
+            "revision_timestamp": "2013-05-15T10:04:23.892787",
+            "state": "active",
+            "id": "cba2a605-8d50-4cd8-8950-65a033ddc5e2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Toerisme & cultuur",
+            "description": "",
+            "name": "toerisme-cultuur",
+            "id": "ea426321-bf88-499e-be18-d11d20001350"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "collectie-amsterdam-museum",
+    "isopen": true,
+    "url": null,
+    "notes": "De Amsterdam Museum dataset is een beschrijving van de meer dan 70.000 aan Amsterdam gerelateerde objecten die aanwezig zijn in de collectie van het Amsterdam Museum. De dataset is aangeboden als Linked Open Data via PURL urls. Deze metadata is afkomstig van de XML web API van de Adlib collectie database. Deze is geconverteerd naar RDF, waarbij het Europeana Datamodel (EDM) wordt gehanteerd. Hiermee is de Amsterdam Museum data de eerste van zijn soort die beschikbaar is in dit formaat.\n",
+    "title": "Collectie Amsterdam Museum",
+    "extras": [
+        {
+            "value": "v.de.boer@cs.vu.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "36455c9a-8233-4f9b-af8a-67a6c391eccd",
+                "revision_id": "5aad8845-578f-44b9-af33-55023aadffe3"
+            }
+        },
+        {
+            "value": "Amsterdam Museum",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "5aad8845-578f-44b9-af33-55023aadffe3",
+                "package_id": "36455c9a-8233-4f9b-af8a-67a6c391eccd"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "5aad8845-578f-44b9-af33-55023aadffe3",
+                "package_id": "36455c9a-8233-4f9b-af8a-67a6c391eccd"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "5aad8845-578f-44b9-af33-55023aadffe3",
+                "package_id": "36455c9a-8233-4f9b-af8a-67a6c391eccd"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "36455c9a-8233-4f9b-af8a-67a6c391eccd",
+                "revision_id": "5aad8845-578f-44b9-af33-55023aadffe3"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "36455c9a-8233-4f9b-af8a-67a6c391eccd",
+                "revision_id": "5aad8845-578f-44b9-af33-55023aadffe3"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "5aad8845-578f-44b9-af33-55023aadffe3",
+                "package_id": "36455c9a-8233-4f9b-af8a-67a6c391eccd"
+            }
+        },
+        {
+            "value": "http://www.amsterdammuseum.nl",
+            "key": "website",
+            "__extras": {
+                "package_id": "36455c9a-8233-4f9b-af8a-67a6c391eccd",
+                "revision_id": "5aad8845-578f-44b9-af33-55023aadffe3"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "organization": null,
+    "revision_id": "5aad8845-578f-44b9-af33-55023aadffe3",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": true,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

@@ -1,0 +1,150 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-09-04T16:10:51.838073",
+    "id": "af200bbc-e218-44f9-ad36-624ea04bda2e",
+    "metadata_created": "2012-09-04T16:10:51.838073",
+    "owner_org": null,
+    "metadata_modified": "2013-03-14T09:43:27.697989",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": "",
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "f0b90080-deef-4aac-a092-cd956c25a083",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-14T09:43:27.273986",
+            "webstore_last_updated": null,
+            "id": "b470a484-3621-4dda-b9c9-64272374d0a3",
+            "size": "7680",
+            "state": "active",
+            "hash": "bc9f9e10e2088fde66b299d5e758de4b3c582e27",
+            "description": "Number of headmen/headwomen per province\r\nhttp://www.remcommission.gov.za/docs/recommendations/Annual%20Recommendation%202011-2012.pdf",
+            "format": "XLS",
+            "tracking_summary": {
+                "total": 7,
+                "recent": 1
+            },
+            "mimetype_inner": "",
+            "mimetype": "application/vnd.ms-excel",
+            "cache_url": "",
+            "name": "headman-count.xls",
+            "created": "2012-07-31T03:39:34.234037",
+            "url": "http://africaopendata.org/storage/f/2012-11-03T06%3A23%3A48.570Z/headman-count.xls",
+            "webstore_url": "",
+            "last_modified": "2013-03-14T09:43:27.209065",
+            "position": 0,
+            "revision_id": "9052c939-afdf-4375-a1a0-27724891419f",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "f0b90080-deef-4aac-a092-cd956c25a083",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-14T09:43:27.697989",
+            "webstore_last_updated": null,
+            "id": "72db9b9f-ab7d-4f95-869e-776bb2259e44",
+            "size": "355911",
+            "state": "active",
+            "hash": "md5:549497bf326002c04b5ea6b829af1708",
+            "description": "http://www.remcommission.gov.za/docs/recommendations/Annual%20Recommendation%202011-2012.pdf",
+            "format": "PDF",
+            "tracking_summary": {
+                "total": 3,
+                "recent": 1
+            },
+            "mimetype_inner": "",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "Annual-Recommendation-2011-2012.pdf",
+            "created": "2012-07-31T03:41:16.197057",
+            "url": "http://africaopendata.org/storage/f/2012-11-03T06%3A25%3A15.796Z/annual-recommendation-2011-2012.pdf",
+            "webstore_url": null,
+            "last_modified": "2013-03-14T09:43:27.634961",
+            "position": 1,
+            "revision_id": "22464a32-c1bd-4e4e-a8b1-e4027d761dcf",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "government",
+            "name": "government",
+            "revision_timestamp": "2012-09-04T16:10:51.838073",
+            "state": "active",
+            "id": "f3986f50-4884-46aa-8770-83a6f539797a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "public-office",
+            "name": "public-office",
+            "revision_timestamp": "2012-09-04T16:10:51.838073",
+            "state": "active",
+            "id": "9bfac6b3-51de-418a-8475-52af70f2efdc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "salaries",
+            "name": "salaries",
+            "revision_timestamp": "2012-09-04T16:10:51.838073",
+            "state": "active",
+            "id": "470d9bfa-db60-4362-9de9-0504083ddc42"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "southafrica",
+            "name": "southafrica",
+            "revision_timestamp": "2012-09-04T16:10:51.838073",
+            "state": "active",
+            "id": "16620248-4ab3-4ae8-a8e9-49ed7920fd32"
+        }
+    ],
+    "tracking_summary": {
+        "total": 106,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "South Africa",
+            "description": "Datasets from South Africa",
+            "name": "south-africa",
+            "id": "fc691a3f-cfce-46d6-93a0-77bdccfec89d"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "number-of-headmen",
+    "isopen": true,
+    "url": "http://www.remcommission.gov.za/docs/recommendations/Annual%20Recommendation%202011-2012.pdf",
+    "notes": "Number of headmen/headwomen per province",
+    "title": "Number of headmen",
+    "extras": [
+        {
+            "value": "Coding for Democracy",
+            "key": "Source",
+            "__extras": {
+                "revision_id": "fca911d8-5fc6-41f1-95b2-85fc8592d85c",
+                "package_id": "af200bbc-e218-44f9-ad36-624ea04bda2e"
+            }
+        },
+        {
+            "value": "http://197.221.34.5/dataset/af200bbc-e218-44f9-ad36-624ea04bda2e",
+            "key": "harvest_url",
+            "__extras": {
+                "revision_id": "fca911d8-5fc6-41f1-95b2-85fc8592d85c",
+                "package_id": "af200bbc-e218-44f9-ad36-624ea04bda2e"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "fca911d8-5fc6-41f1-95b2-85fc8592d85c"
+}

@@ -1,0 +1,169 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2014-11-04T22:28:38.600930",
+    "id": "9572829e-a1c2-4fb3-b5fc-a075e0b85112",
+    "metadata_created": "2014-11-04T22:28:38.600930",
+    "owner_org": null,
+    "metadata_modified": "2014-11-04T22:28:38.600930",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "a3d4ff94-25db-41fb-80a6-025b03932036",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:38.600930",
+            "webstore_last_updated": null,
+            "id": "64ecdee3-5fa1-43e4-aa9c-2025e151a713",
+            "size": "20455",
+            "state": "active",
+            "hash": "f9215b2d41d393bbfc33e688b91dca33efc932c6",
+            "description": "number of health units per district for the years 2007, 2009 and 2010",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "health-units-per-district-2007-2009-2010",
+            "created": "2014-02-19T16:15:25.237527",
+            "url": "http://catalog.data.ug/dataset/9572829e-a1c2-4fb3-b5fc-a075e0b85112/resource/64ecdee3-5fa1-43e4-aa9c-2025e151a713/download/healthunitsclean.csv",
+            "webstore_url": null,
+            "last_modified": "2014-02-19T16:15:28.244002",
+            "position": 0,
+            "revision_id": "649509b7-3b84-49ae-b6d3-d89c0da9ad95",
+            "resource_type": null
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "administrative",
+            "name": "administrative",
+            "revision_timestamp": "2014-11-04T22:28:38.600930",
+            "state": "active",
+            "id": "55d71fe3-7ffa-4f97-aca8-2ef38ae4c096"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:28:38.600930",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:28:38.600930",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "district",
+            "name": "district",
+            "revision_timestamp": "2014-11-04T22:28:38.600930",
+            "state": "active",
+            "id": "7cd19d3c-2632-4bf1-96f2-7991759d4b88"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:28:38.600930",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:28:38.600930",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "health",
+            "name": "health",
+            "revision_timestamp": "2014-11-04T22:28:38.600930",
+            "state": "active",
+            "id": "956a3c07-125e-44e4-b843-c5011fadcc7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "health facilities",
+            "name": "health facilities",
+            "revision_timestamp": "2014-11-04T22:28:38.600930",
+            "state": "active",
+            "id": "9beae195-17b1-4d89-b7cb-e990bc94b1f2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:28:38.600930",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:28:38.600930",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 12,
+        "recent": 4
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 10,
+    "name": "health-units-per-district-2007-2009-2010",
+    "isopen": false,
+    "url": "Development Research and Training",
+    "notes": "The number of health units per district for the year 2007 / 2009 / 2010",
+    "title": "Health units per district 2007 / 2009 / 2010",
+    "extras": [
+        {
+            "value": "Uganda",
+            "key": "location",
+            "__extras": {
+                "package_id": "9572829e-a1c2-4fb3-b5fc-a075e0b85112",
+                "revision_id": "649509b7-3b84-49ae-b6d3-d89c0da9ad95"
+            }
+        },
+        {
+            "value": "health",
+            "key": "sector",
+            "__extras": {
+                "revision_id": "649509b7-3b84-49ae-b6d3-d89c0da9ad95",
+                "package_id": "9572829e-a1c2-4fb3-b5fc-a075e0b85112"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "649509b7-3b84-49ae-b6d3-d89c0da9ad95"
+}

@@ -1,0 +1,337 @@
+{
+    "license_title": "CC0 1.0",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2013-08-22T07:32:49.269189",
+    "id": "14b35cc6-2afa-4159-89dd-0cea9d64a0d2",
+    "metadata_created": "2013-07-08T14:35:41.934805",
+    "owner_org": null,
+    "metadata_modified": "2015-01-23T02:58:40.506006",
+    "author": "Amsterdam Economic Board",
+    "author_email": "info@amsterdamopendata.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "CC0-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "64777b2b-a190-477b-9972-ab75fec357dd",
+            "cache_last_updated": null,
+            "revision_timestamp": "2015-01-23T02:58:40.506006",
+            "webstore_last_updated": null,
+            "id": "48f38ec6-3b07-4abc-9a6d-855825aec9d8",
+            "size": "135034",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Lijst alle onderwerpen (CSV)",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "http://www.amsterdamopendata.nl/files/data-onderwerpen.csv",
+            "created": "2014-04-03T14:50:45.604652",
+            "url": "http://www.amsterdamopendata.nl/files/data-onderwerpen.csv",
+            "webstore_url": null,
+            "last_modified": "2015-01-23T02:11:42",
+            "position": 0,
+            "revision_id": "ae5f7c2c-34b6-455a-ae20-9e2e0a349386",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "64777b2b-a190-477b-9972-ab75fec357dd",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-04-03T12:50:45.344789",
+            "webstore_last_updated": null,
+            "id": "aaf947cf-5375-4e51-af3d-31c1b9cd176f",
+            "size": "346925",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Lijst alle datasets (CSV)",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "http://www.amsterdamopendata.nl/files/data-datasets.csv",
+            "created": "2014-04-03T14:50:45.604690",
+            "url": "http://www.amsterdamopendata.nl/files/data-datasets.csv",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "15ba4cbc-a591-4240-8c30-98da5845434b",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "64777b2b-a190-477b-9972-ab75fec357dd",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-04-03T12:50:45.344789",
+            "webstore_last_updated": null,
+            "id": "2e229ce6-64d8-4cf8-b496-1dcb30d9c72f",
+            "size": "22185",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Documentatie API",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://docs.ckan.org/en/latest/",
+            "created": "2014-04-03T14:50:45.604706",
+            "url": "http://docs.ckan.org/en/latest/",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "15ba4cbc-a591-4240-8c30-98da5845434b",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "64777b2b-a190-477b-9972-ab75fec357dd",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-04-03T12:50:45.344789",
+            "webstore_last_updated": null,
+            "id": "e0df00bf-cfbe-4558-bb13-e99eb3ee719f",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "API",
+            "format": "url",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "http://data.amsterdamopendata.nl/api/3/action/package_list",
+            "created": "2014-04-03T14:50:45.604721",
+            "url": "http://data.amsterdamopendata.nl/api/3/action/package_list",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "15ba4cbc-a591-4240-8c30-98da5845434b",
+            "resource_type": "api"
+        },
+        {
+            "resource_group_id": "64777b2b-a190-477b-9972-ab75fec357dd",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-04-03T12:50:45.344789",
+            "webstore_last_updated": null,
+            "id": "73fbf10f-275c-414f-a4cd-c488348789ff",
+            "size": "1675147",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Complete lijst met datasets via API",
+            "format": "url",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "http://data.amsterdamopendata.nl/api/search/dataset?all_fields=1&offset=0&limit=1000",
+            "created": "2014-04-03T14:50:45.604735",
+            "url": "http://data.amsterdamopendata.nl/api/search/dataset?all_fields=1&offset=0&limit=1000",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 4,
+            "revision_id": "15ba4cbc-a591-4240-8c30-98da5845434b",
+            "resource_type": "api",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 5,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "API",
+            "name": "API",
+            "revision_timestamp": "2013-07-08T14:35:41.934805",
+            "state": "active",
+            "id": "9078a2ff-6a1e-4d92-a59b-3e077f9e3994"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "catalogus",
+            "name": "catalogus",
+            "revision_timestamp": "2013-07-08T14:35:41.934805",
+            "state": "active",
+            "id": "7e292004-108c-4d95-84b9-78742b09e537"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "csv",
+            "name": "csv",
+            "revision_timestamp": "2013-07-08T14:35:41.934805",
+            "state": "active",
+            "id": "0a690fce-70c1-406f-a431-9cb05f2ab9ff"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data",
+            "name": "data",
+            "revision_timestamp": "2013-07-08T14:35:41.934805",
+            "state": "active",
+            "id": "cfa072c1-9e4b-44d9-a93a-609f481b0587"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "excel",
+            "name": "excel",
+            "revision_timestamp": "2013-07-08T14:35:41.934805",
+            "state": "active",
+            "id": "cc6f7ad4-519e-462b-a759-0530ce7e78fe"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "meta",
+            "name": "meta",
+            "revision_timestamp": "2013-07-08T14:35:41.934805",
+            "state": "active",
+            "id": "d37ca36c-72b9-423e-a7fe-f948d888ca9b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "metadata",
+            "name": "metadata",
+            "revision_timestamp": "2013-07-08T14:35:41.934805",
+            "state": "active",
+            "id": "b37d3eff-6a93-49be-acc2-25271124089f"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open",
+            "name": "open",
+            "revision_timestamp": "2013-07-08T14:35:41.934805",
+            "state": "active",
+            "id": "44f804a1-7cff-4ecf-b896-bcd51f26b62e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "overzicht",
+            "name": "overzicht",
+            "revision_timestamp": "2013-07-08T14:35:41.934805",
+            "state": "active",
+            "id": "f17ea08b-4a70-4047-8632-490753acfd14"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Dienstverlening",
+            "description": "",
+            "name": "dienstverlening",
+            "id": "a9c4db18-b24c-4a18-8d98-26684b7ec639"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 9,
+    "name": "overzicht_beschikbare_data",
+    "isopen": true,
+    "url": null,
+    "notes": "De inhoud van deze open data catalogus is ook beschikbaar als API en in CSV-bestand.Het betreft de onderwerpen, datasets en bijbehorende metadata zoals deze wordt weergegeven op het onderdeel \"Data\" van deze website.   De API is de standaard CKAN API (zie link naar documentatie), de CSV bevat de metadata zoals deze ook via de API is op te halen.",
+    "title": "Overzicht beschikbare data",
+    "extras": [
+        {
+            "value": "info@amsterdamopendata.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "14b35cc6-2afa-4159-89dd-0cea9d64a0d2",
+                "revision_id": "47c1b21d-940d-4fed-8b36-da9d0a379d1c"
+            }
+        },
+        {
+            "value": "Jasper Soetendal",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "47c1b21d-940d-4fed-8b36-da9d0a379d1c",
+                "package_id": "14b35cc6-2afa-4159-89dd-0cea9d64a0d2"
+            }
+        },
+        {
+            "value": "23/01/2015",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "ae5f7c2c-34b6-455a-ae20-9e2e0a349386",
+                "package_id": "14b35cc6-2afa-4159-89dd-0cea9d64a0d2"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "47c1b21d-940d-4fed-8b36-da9d0a379d1c",
+                "package_id": "14b35cc6-2afa-4159-89dd-0cea9d64a0d2"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "14b35cc6-2afa-4159-89dd-0cea9d64a0d2",
+                "revision_id": "47c1b21d-940d-4fed-8b36-da9d0a379d1c"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "14b35cc6-2afa-4159-89dd-0cea9d64a0d2",
+                "revision_id": "47c1b21d-940d-4fed-8b36-da9d0a379d1c"
+            }
+        },
+        {
+            "value": "API realtime, CSV dagelijks",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "47c1b21d-940d-4fed-8b36-da9d0a379d1c",
+                "package_id": "14b35cc6-2afa-4159-89dd-0cea9d64a0d2"
+            }
+        },
+        {
+            "value": "http://www.amsterdamopendata.nl",
+            "key": "website",
+            "__extras": {
+                "revision_id": "47c1b21d-940d-4fed-8b36-da9d0a379d1c",
+                "package_id": "14b35cc6-2afa-4159-89dd-0cea9d64a0d2"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "organization": null,
+    "revision_id": "5d8b29f8-416d-4cfe-af9d-c95b3129a637",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": true,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

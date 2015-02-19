@@ -1,0 +1,130 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Laban",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:54:00.965844",
+    "id": "0aa53899-b1dd-4240-8aa4-b01e466041eb",
+    "metadata_created": "2012-09-11T13:54:00.965844",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:03:57.147770",
+    "author": "Laban",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "138cedc3-1268-44ef-9aa3-666f7695be8b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:03:57.147770",
+            "webstore_last_updated": "2013-10-10T12:03:57.081875",
+            "id": "a2cf8532-62fc-483a-8b96-5440e9f6483a",
+            "size": "2562",
+            "state": "active",
+            "hash": "117c66e2a7eae9d98052558f0b1f0a411a7c0c83",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Kiwango Cha Umasikini Katika Kaunti - 2009.csv",
+            "created": "2012-09-11T13:54:01.011831",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155645/rpbs-sgtn.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-10-10T12:03:56.591853",
+            "position": 0,
+            "revision_id": "5c16c60d-a646-4597-9ec6-29b6f6ef38f6",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "county",
+            "name": "county",
+            "revision_timestamp": "2012-09-11T13:54:00.965844",
+            "state": "active",
+            "id": "858f3acf-2c66-4fd9-9dc2-32e4f12121a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:54:00.965844",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:54:00.965844",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "poverty",
+            "name": "poverty",
+            "revision_timestamp": "2012-09-11T13:54:00.965844",
+            "state": "active",
+            "id": "490c0df0-0458-4e36-8ad1-2fa9d0684d97"
+        }
+    ],
+    "tracking_summary": {
+        "total": 55,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "kodi-rpbs-sgtn",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "2009 Census/Sensa Kiwango Cha Umasikini Katika Kaunti",
+    "title": "Kiwango Cha Umasikini Katika Kaunti - 2009",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "60df80a7-a046-432d-be69-fec35fca2916",
+                "package_id": "0aa53899-b1dd-4240-8aa4-b01e466041eb"
+            }
+        },
+        {
+            "value": "Poverty",
+            "key": "category",
+            "__extras": {
+                "revision_id": "60df80a7-a046-432d-be69-fec35fca2916",
+                "package_id": "0aa53899-b1dd-4240-8aa4-b01e466041eb"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "60df80a7-a046-432d-be69-fec35fca2916",
+                "package_id": "0aa53899-b1dd-4240-8aa4-b01e466041eb"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "60df80a7-a046-432d-be69-fec35fca2916"
+}

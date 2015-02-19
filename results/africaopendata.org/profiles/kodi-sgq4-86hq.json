@@ -1,0 +1,130 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:51:34.514024",
+    "id": "cebfaf9a-5b85-4b57-8846-ce5f6acae3dd",
+    "metadata_created": "2012-09-11T13:51:34.514024",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:07:53.639701",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "9525a8c1-836c-43c3-b1b5-c7d567252bc8",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:07:53.639701",
+            "webstore_last_updated": "2013-10-10T12:07:53.572500",
+            "id": "f10ea474-aa65-4977-8967-e5a6d728ee7e",
+            "size": "18032",
+            "state": "active",
+            "hash": "ae0ff2b1b1feefec9c1e1a00d6ab02ea1b6bac96",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Vol II Table 14: Population by main type of disability - 2009.csv",
+            "created": "2012-09-11T13:51:34.556708",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155419/sgq4-86hq.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:49:02.849582",
+            "position": 0,
+            "revision_id": "0e09b65e-49d9-4730-9815-aa7b995ce1dc",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "county",
+            "name": "county",
+            "revision_timestamp": "2012-09-11T13:51:34.514024",
+            "state": "active",
+            "id": "858f3acf-2c66-4fd9-9dc2-32e4f12121a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "health",
+            "name": "health",
+            "revision_timestamp": "2012-09-11T13:51:34.514024",
+            "state": "active",
+            "id": "956a3c07-125e-44e4-b843-c5011fadcc7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:51:34.514024",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:51:34.514024",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 63,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "kodi-sgq4-86hq",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Census 2009: Population by main type of disability and district",
+    "title": "Vol II Table 14: Population by main type of disability - 2009",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "077dfa84-4747-4c3d-ba87-df4eba978b26",
+                "package_id": "cebfaf9a-5b85-4b57-8846-ce5f6acae3dd"
+            }
+        },
+        {
+            "value": "Health Sector",
+            "key": "category",
+            "__extras": {
+                "revision_id": "077dfa84-4747-4c3d-ba87-df4eba978b26",
+                "package_id": "cebfaf9a-5b85-4b57-8846-ce5f6acae3dd"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "077dfa84-4747-4c3d-ba87-df4eba978b26",
+                "package_id": "cebfaf9a-5b85-4b57-8846-ce5f6acae3dd"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "077dfa84-4747-4c3d-ba87-df4eba978b26"
+}

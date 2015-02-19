@@ -1,0 +1,192 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2014-02-25T11:53:07.971612",
+    "id": "3f1cbd00-ba02-4f8f-8708-6fc3e841dec9",
+    "metadata_created": "2013-05-16T09:57:03.077881",
+    "owner_org": null,
+    "metadata_modified": "2015-01-23T02:58:42.926810",
+    "author": "Amsterdam Marketing",
+    "author_email": "info@iamsterdam.com",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "2c37b190-28b1-4c62-a94a-b967bfd225df",
+            "cache_last_updated": null,
+            "revision_timestamp": "2015-01-23T02:58:42.926810",
+            "webstore_last_updated": null,
+            "id": "6556694a-2241-4a9c-b20b-be8e2d0e0a2b",
+            "size": "975467",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Eten & Drinken (CSV)",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "http://www.amsterdamopendata.nl/files/EtenDrinken.csv",
+            "created": "2014-06-10T09:33:05.120703",
+            "url": "http://www.amsterdamopendata.nl/files/EtenDrinken.csv",
+            "webstore_url": null,
+            "last_modified": "2015-01-23T02:49:42",
+            "position": 0,
+            "revision_id": "aac72237-2e86-455b-ae18-e0885f1d0b95",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "2c37b190-28b1-4c62-a94a-b967bfd225df",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-06-10T07:33:05.043924",
+            "webstore_last_updated": null,
+            "id": "3cf26023-c688-4007-929e-c784e0397b7f",
+            "size": "1667608",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Eten & Drinken (JSON)",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "http://www.amsterdamopendata.nl/files/EtenDrinken.json",
+            "created": "2014-06-10T09:33:05.120734",
+            "url": "http://www.amsterdamopendata.nl/files/EtenDrinken.json",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "0ee05f2c-dabb-4ec2-9f91-c6878e62e3be",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "cafes",
+            "name": "cafes",
+            "revision_timestamp": "2013-05-16T09:57:03.077881",
+            "state": "active",
+            "id": "d4c51426-4a20-474b-8e9f-b562b401980d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "restaurants",
+            "name": "restaurants",
+            "revision_timestamp": "2013-05-16T09:57:03.077881",
+            "state": "active",
+            "id": "653ca880-9533-499a-974a-29adc86bc684"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "toerisme",
+            "name": "toerisme",
+            "revision_timestamp": "2014-02-25T11:53:07.971612",
+            "state": "active",
+            "id": "36804bf9-4cec-4a29-9ca0-696b4c143455"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Toerisme & cultuur",
+            "description": "",
+            "name": "toerisme-cultuur",
+            "id": "ea426321-bf88-499e-be18-d11d20001350"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "eten-en-drinken",
+    "isopen": false,
+    "url": null,
+    "notes": "Alle restaurants en cafes in Amsterdam en omgeving zoals deze door het Amsterdam Marketing worden beheerd. Dit bestand wordt dagelijks vernieuwd, titels en toelichtingen in Nederlands en Engels.",
+    "title": "Eten en Drinken",
+    "extras": [
+        {
+            "value": "info@iamsterdam.com",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "3f1cbd00-ba02-4f8f-8708-6fc3e841dec9",
+                "revision_id": "ede2184e-eb6c-490c-a915-611cf1cfd8b2"
+            }
+        },
+        {
+            "value": "Amsterdam Marketing",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "ede2184e-eb6c-490c-a915-611cf1cfd8b2",
+                "package_id": "3f1cbd00-ba02-4f8f-8708-6fc3e841dec9"
+            }
+        },
+        {
+            "value": "23/01/2015",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "aac72237-2e86-455b-ae18-e0885f1d0b95",
+                "package_id": "3f1cbd00-ba02-4f8f-8708-6fc3e841dec9"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "ede2184e-eb6c-490c-a915-611cf1cfd8b2",
+                "package_id": "3f1cbd00-ba02-4f8f-8708-6fc3e841dec9"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "3f1cbd00-ba02-4f8f-8708-6fc3e841dec9",
+                "revision_id": "ede2184e-eb6c-490c-a915-611cf1cfd8b2"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "3f1cbd00-ba02-4f8f-8708-6fc3e841dec9",
+                "revision_id": "ede2184e-eb6c-490c-a915-611cf1cfd8b2"
+            }
+        },
+        {
+            "value": "Dagelijks",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "ede2184e-eb6c-490c-a915-611cf1cfd8b2",
+                "package_id": "3f1cbd00-ba02-4f8f-8708-6fc3e841dec9"
+            }
+        },
+        {
+            "value": "http://www.iamsterdam.com",
+            "key": "website",
+            "__extras": {
+                "package_id": "3f1cbd00-ba02-4f8f-8708-6fc3e841dec9",
+                "revision_id": "ede2184e-eb6c-490c-a915-611cf1cfd8b2"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "f99eff2b-d5e3-4212-bb7a-662d1d4d63d7"
+}

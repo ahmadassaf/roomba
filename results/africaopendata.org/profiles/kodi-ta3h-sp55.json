@@ -1,0 +1,114 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Laban",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:59:53.733640",
+    "id": "b7c98f9a-bd88-49f6-b6c3-721f44fdd11f",
+    "metadata_created": "2012-09-11T13:59:53.733640",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T11:58:54.919711",
+    "author": "Laban",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "618f9eff-666a-4b99-99e0-c2133946023d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T11:58:54.919711",
+            "webstore_last_updated": "2013-10-10T11:58:54.853947",
+            "id": "eea51ea7-791f-4b57-9d92-80c725004108",
+            "size": "148",
+            "state": "active",
+            "hash": "15a51427fabba74f91063cbc3d218e6a1cdf3170",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "2008/9 Central government spending.csv",
+            "created": "2012-09-11T13:59:53.770724",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T160238/ta3h-sp55.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-13T23:21:46.239793",
+            "position": 0,
+            "revision_id": "83ea6b82-f59d-4e50-830e-2f13fde5c222",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:59:53.733640",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:59:53.733640",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 32,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "kodi-ta3h-sp55",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": null,
+    "title": "2008/9 Central government spending",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "73c58a8a-0c2a-46b4-a966-4d68280b838e",
+                "package_id": "b7c98f9a-bd88-49f6-b6c3-721f44fdd11f"
+            }
+        },
+        {
+            "value": "Economy",
+            "key": "category",
+            "__extras": {
+                "revision_id": "73c58a8a-0c2a-46b4-a966-4d68280b838e",
+                "package_id": "b7c98f9a-bd88-49f6-b6c3-721f44fdd11f"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "73c58a8a-0c2a-46b4-a966-4d68280b838e",
+                "package_id": "b7c98f9a-bd88-49f6-b6c3-721f44fdd11f"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "73c58a8a-0c2a-46b4-a966-4d68280b838e"
+}

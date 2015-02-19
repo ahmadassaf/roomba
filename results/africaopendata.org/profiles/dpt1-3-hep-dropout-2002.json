@@ -1,0 +1,637 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:24:28.139431",
+    "id": "1bebeb18-d5e2-4d51-ad55-7b8cd26d12b8",
+    "metadata_created": "2014-11-04T22:24:28.139431",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:47:52.372235",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "3b3518f1-fe3a-4bb5-99e8-7e6f6e5ef1b7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:52:45.650701",
+            "webstore_last_updated": null,
+            "id": "7d527105-4aff-4b42-87fa-2adfe0198590",
+            "size": "42201",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "c03b607f90e79be0275917acd2c42d983c88ee68",
+            "description": "Online link to the 'Dpt1-3 Hep Dropout 2002' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:51:22.713029",
+            "url": "http://maps.data.ug/layers/geonode:dpt1_3_hep_dropout_2002",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:52:45.483428",
+            "position": 0,
+            "revision_id": "e22a0626-603b-4d8c-8bb8-9998a084da82",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3b3518f1-fe3a-4bb5-99e8-7e6f6e5ef1b7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:52:40.510993",
+            "webstore_last_updated": null,
+            "id": "aca4e080-911c-4bea-a08b-3171e2054845",
+            "size": "35258",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Dpt1-3 Hep Dropout 2002 (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "dpt1_3_hep_dropout_2002.jpg",
+            "created": "2014-03-12T14:51:22.713047",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Adpt1_3_hep_dropout_2002&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:52:40.350305",
+            "position": 1,
+            "revision_id": "535e3bc5-4f5e-4e61-8f03-43c536541bfa",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3b3518f1-fe3a-4bb5-99e8-7e6f6e5ef1b7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:52:47.120487",
+            "webstore_last_updated": null,
+            "id": "271010b5-4b70-44c2-8260-b16cb9d20b24",
+            "size": "40449",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Dpt1-3 Hep Dropout 2002 (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "dpt1_3_hep_dropout_2002.pdf",
+            "created": "2014-03-12T14:51:22.713052",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Adpt1_3_hep_dropout_2002&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:52:46.984606",
+            "position": 2,
+            "revision_id": "91e748ab-9432-4481-bac2-3099639f1a5f",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3b3518f1-fe3a-4bb5-99e8-7e6f6e5ef1b7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:52:41.570193",
+            "webstore_last_updated": null,
+            "id": "5a1e81d8-1db8-4ff2-b376-de4efafefbc9",
+            "size": "57263",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Dpt1-3 Hep Dropout 2002 (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "dpt1_3_hep_dropout_2002.png",
+            "created": "2014-03-12T14:51:22.713056",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Adpt1_3_hep_dropout_2002&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:52:41.435946",
+            "position": 3,
+            "revision_id": "b23e073d-0edb-4a7f-81c1-608ad53bdb17",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3b3518f1-fe3a-4bb5-99e8-7e6f6e5ef1b7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:47:52.372235",
+            "webstore_last_updated": null,
+            "id": "25295920-c1e0-43b9-ab71-387b2bd78a40",
+            "size": "120502",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Dpt1-3 Hep Dropout 2002 (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "dpt1_3_hep_dropout_2002.zip",
+            "created": "2014-03-12T14:51:22.713060",
+            "url": "http://maps.data.ug/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Adpt1_3_hep_dropout_2002&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:52:43.538205",
+            "position": 4,
+            "revision_id": "fd6f088c-6d47-448f-b472-352872602cda",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3b3518f1-fe3a-4bb5-99e8-7e6f6e5ef1b7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:47:52.372235",
+            "webstore_last_updated": null,
+            "id": "1ba3be26-9a71-4d83-bb55-634c57f055ae",
+            "size": "256726",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Dpt1-3 Hep Dropout 2002 (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "dpt1_3_hep_dropout_2002.gml",
+            "created": "2014-03-12T14:51:22.713064",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Adpt1_3_hep_dropout_2002&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:53:59.603855",
+            "position": 5,
+            "revision_id": "fd6f088c-6d47-448f-b472-352872602cda",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3b3518f1-fe3a-4bb5-99e8-7e6f6e5ef1b7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:47:52.372235",
+            "webstore_last_updated": null,
+            "id": "0c99fde8-b90f-4a56-b415-463f03bc5a55",
+            "size": "514",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Dpt1-3 Hep Dropout 2002 (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "dpt1_3_hep_dropout_2002.gml",
+            "created": "2014-03-12T14:51:22.713068",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Adpt1_3_hep_dropout_2002&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:52:49.837076",
+            "position": 6,
+            "revision_id": "fd6f088c-6d47-448f-b472-352872602cda",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3b3518f1-fe3a-4bb5-99e8-7e6f6e5ef1b7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:47:52.372235",
+            "webstore_last_updated": "2014-11-04T22:52:49.181862",
+            "id": "1fa58fd0-3814-4d6d-8090-ed2316df0025",
+            "size": "340836",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Dpt1-3 Hep Dropout 2002 (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "dpt1_3_hep_dropout_2002.csv",
+            "created": "2014-03-12T14:51:22.713072",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Adpt1_3_hep_dropout_2002&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": "active",
+            "last_modified": "2014-11-04T22:52:48.039311",
+            "position": 7,
+            "revision_id": "fd6f088c-6d47-448f-b472-352872602cda",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3b3518f1-fe3a-4bb5-99e8-7e6f6e5ef1b7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:52:46.221059",
+            "webstore_last_updated": null,
+            "id": "4fd3d70f-5c3a-449c-aae3-23a6a1087e59",
+            "size": "354304",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Dpt1-3 Hep Dropout 2002 (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "dpt1_3_hep_dropout_2002.excel",
+            "created": "2014-03-12T14:51:22.713075",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Adpt1_3_hep_dropout_2002&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:52:46.053449",
+            "position": 8,
+            "revision_id": "dfb085cd-14d0-43f4-9b09-8cf48fe40058",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3b3518f1-fe3a-4bb5-99e8-7e6f6e5ef1b7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:52:42.487822",
+            "webstore_last_updated": null,
+            "id": "c280cbe7-6842-4b3f-b459-9e497f131a24",
+            "size": "362646",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Dpt1-3 Hep Dropout 2002 (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "dpt1_3_hep_dropout_2002.json",
+            "created": "2014-03-12T14:51:22.713079",
+            "url": "http://maps.data.ug/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Adpt1_3_hep_dropout_2002&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:52:42.257546",
+            "position": 9,
+            "revision_id": "8fbb67f6-4e36-40bd-9297-398ff070a19f",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3b3518f1-fe3a-4bb5-99e8-7e6f6e5ef1b7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:52:39.471704",
+            "webstore_last_updated": null,
+            "id": "95f0f29e-2b9e-4789-8078-02652c933b17",
+            "size": "545702",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Dpt1-3 Hep Dropout 2002 (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "dpt1_3_hep_dropout_2002.kml",
+            "created": "2014-03-12T14:51:22.713083",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Adpt1_3_hep_dropout_2002&mode=download",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:52:39.339278",
+            "position": 10,
+            "revision_id": "d99c4ff9-4037-4f76-ae1a-1ad85bbfa3fc",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3b3518f1-fe3a-4bb5-99e8-7e6f6e5ef1b7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:24:28.139431",
+            "webstore_last_updated": null,
+            "id": "9cc4a746-7895-445c-ac7b-49dc31ecfe7b",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Dpt1-3 Hep Dropout 2002 (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "dpt1_3_hep_dropout_2002.tiles",
+            "created": "2014-03-12T14:51:22.713090",
+            "url": "http://maps.data.ug/geoserver/gwc/service/gmaps?layers=geonode:dpt1_3_hep_dropout_2002&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 11,
+            "revision_id": "5eb2f9ff-23b1-43bd-81b5-31d7366c4e14",
+            "resource_type": null
+        }
+    ],
+    "num_resources": 12,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:24:28.139431",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:24:28.139431",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:24:28.139431",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:24:28.139431",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:24:28.139431",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:24:28.139431",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 1,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "dpt1-3-hep-dropout-2002",
+    "isopen": false,
+    "url": null,
+    "notes": "No abstract provided",
+    "title": "Dpt1-3 Hep Dropout 2002",
+    "extras": [
+        {
+            "value": "[\"None\"]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "5eb2f9ff-23b1-43bd-81b5-31d7366c4e14",
+                "package_id": "1bebeb18-d5e2-4d51-ad55-7b8cd26d12b8"
+            }
+        },
+        {
+            "value": "35.0017411394",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "5eb2f9ff-23b1-43bd-81b5-31d7366c4e14",
+                "package_id": "1bebeb18-d5e2-4d51-ad55-7b8cd26d12b8"
+            }
+        },
+        {
+            "value": "4.2310114174",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "1bebeb18-d5e2-4d51-ad55-7b8cd26d12b8",
+                "revision_id": "5eb2f9ff-23b1-43bd-81b5-31d7366c4e14"
+            }
+        },
+        {
+            "value": "-1.4817440179",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "5eb2f9ff-23b1-43bd-81b5-31d7366c4e14",
+                "package_id": "1bebeb18-d5e2-4d51-ad55-7b8cd26d12b8"
+            }
+        },
+        {
+            "value": "29.5741674481",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "5eb2f9ff-23b1-43bd-81b5-31d7366c4e14",
+                "package_id": "1bebeb18-d5e2-4d51-ad55-7b8cd26d12b8"
+            }
+        },
+        {
+            "value": "katy@mountbatten.net",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "1bebeb18-d5e2-4d51-ad55-7b8cd26d12b8",
+                "revision_id": "5eb2f9ff-23b1-43bd-81b5-31d7366c4e14"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "1bebeb18-d5e2-4d51-ad55-7b8cd26d12b8",
+                "revision_id": "5eb2f9ff-23b1-43bd-81b5-31d7366c4e14"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-02-25T05:51:22Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "1bebeb18-d5e2-4d51-ad55-7b8cd26d12b8",
+                "revision_id": "5eb2f9ff-23b1-43bd-81b5-31d7366c4e14"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "1bebeb18-d5e2-4d51-ad55-7b8cd26d12b8",
+                "revision_id": "5eb2f9ff-23b1-43bd-81b5-31d7366c4e14"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Dpt1-3 Hep Dropout 2002'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "1bebeb18-d5e2-4d51-ad55-7b8cd26d12b8",
+                "revision_id": "5eb2f9ff-23b1-43bd-81b5-31d7366c4e14"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "1bebeb18-d5e2-4d51-ad55-7b8cd26d12b8",
+                "revision_id": "5eb2f9ff-23b1-43bd-81b5-31d7366c4e14"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "5eb2f9ff-23b1-43bd-81b5-31d7366c4e14",
+                "package_id": "1bebeb18-d5e2-4d51-ad55-7b8cd26d12b8"
+            }
+        },
+        {
+            "value": "257ce99c-9e13-11e3-9770-ab849cd0de74",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "5eb2f9ff-23b1-43bd-81b5-31d7366c4e14",
+                "package_id": "1bebeb18-d5e2-4d51-ad55-7b8cd26d12b8"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "5eb2f9ff-23b1-43bd-81b5-31d7366c4e14",
+                "package_id": "1bebeb18-d5e2-4d51-ad55-7b8cd26d12b8"
+            }
+        },
+        {
+            "value": "2014-02-25T05:51:22Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "1bebeb18-d5e2-4d51-ad55-7b8cd26d12b8",
+                "revision_id": "5eb2f9ff-23b1-43bd-81b5-31d7366c4e14"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "5eb2f9ff-23b1-43bd-81b5-31d7366c4e14",
+                "package_id": "1bebeb18-d5e2-4d51-ad55-7b8cd26d12b8"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "1bebeb18-d5e2-4d51-ad55-7b8cd26d12b8",
+                "revision_id": "5eb2f9ff-23b1-43bd-81b5-31d7366c4e14"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "1bebeb18-d5e2-4d51-ad55-7b8cd26d12b8",
+                "revision_id": "5eb2f9ff-23b1-43bd-81b5-31d7366c4e14"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "1bebeb18-d5e2-4d51-ad55-7b8cd26d12b8",
+                "revision_id": "5eb2f9ff-23b1-43bd-81b5-31d7366c4e14"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.5741674481, -1.4817440179], [35.0017411394, -1.4817440179], [35.0017411394, 4.2310114174], [29.5741674481, 4.2310114174], [29.5741674481, -1.4817440179]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "5eb2f9ff-23b1-43bd-81b5-31d7366c4e14",
+                "package_id": "1bebeb18-d5e2-4d51-ad55-7b8cd26d12b8"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "1bebeb18-d5e2-4d51-ad55-7b8cd26d12b8",
+                "revision_id": "5eb2f9ff-23b1-43bd-81b5-31d7366c4e14"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "5eb2f9ff-23b1-43bd-81b5-31d7366c4e14",
+                "package_id": "1bebeb18-d5e2-4d51-ad55-7b8cd26d12b8"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "5eb2f9ff-23b1-43bd-81b5-31d7366c4e14",
+                "package_id": "1bebeb18-d5e2-4d51-ad55-7b8cd26d12b8"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "5eb2f9ff-23b1-43bd-81b5-31d7366c4e14"
+}

@@ -1,0 +1,683 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:31:31.487647",
+    "id": "db6efe56-e21e-4cad-b3d5-149f9e6ecfb1",
+    "metadata_created": "2014-11-04T22:31:31.487647",
+    "owner_org": null,
+    "metadata_modified": "2014-11-05T04:38:59.444230",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "c8d22f69-4e24-4910-833e-3f957604b720",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-05T04:38:59.444230",
+            "webstore_last_updated": null,
+            "id": "1787eab3-ae6e-4554-8675-a887b97f6a56",
+            "size": "42447",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "31891fe00da3280b9e65fdda471db9520ced60ac",
+            "description": "Online link to the 'Pit Latrine Coverage 2010' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:51:21.612634",
+            "url": "http://maps.data.ug/layers/geonode:pit_latrine_coverage_2010",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T04:38:59.282778",
+            "position": 0,
+            "revision_id": "37f1ed01-c154-4d3a-83f8-194b60e8f472",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c8d22f69-4e24-4910-833e-3f957604b720",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:31.487647",
+            "webstore_last_updated": null,
+            "id": "1d890da0-9c69-49b6-a218-526088505efe",
+            "size": "129718",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Pit Latrine Coverage 2010 (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "pit_latrine_coverage_2010.zip",
+            "created": "2014-03-12T14:51:21.612649",
+            "url": "http://maps.data.ug/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Apit_latrine_coverage_2010&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:53:55.368693",
+            "position": 1,
+            "revision_id": "b91e89f8-9fd3-4327-a941-55e1b4ff203a",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c8d22f69-4e24-4910-833e-3f957604b720",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:31.487647",
+            "webstore_last_updated": null,
+            "id": "a758699d-91e3-49af-a640-4713a9469610",
+            "size": "356419",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Pit Latrine Coverage 2010 (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "pit_latrine_coverage_2010.gml",
+            "created": "2014-03-12T14:51:21.612654",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Apit_latrine_coverage_2010&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "b91e89f8-9fd3-4327-a941-55e1b4ff203a",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c8d22f69-4e24-4910-833e-3f957604b720",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:31.487647",
+            "webstore_last_updated": null,
+            "id": "1797f909-ccce-4c21-935c-540afbed4814",
+            "size": "514",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Pit Latrine Coverage 2010 (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "pit_latrine_coverage_2010.gml",
+            "created": "2014-03-12T14:51:21.612659",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Apit_latrine_coverage_2010&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "b91e89f8-9fd3-4327-a941-55e1b4ff203a",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c8d22f69-4e24-4910-833e-3f957604b720",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:31.487647",
+            "webstore_last_updated": null,
+            "id": "ea1c6cd9-c00d-4e6b-b342-6e4c033f2652",
+            "size": "434975",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Pit Latrine Coverage 2010 (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "pit_latrine_coverage_2010.csv",
+            "created": "2014-03-12T14:51:21.612663",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Apit_latrine_coverage_2010&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 4,
+            "revision_id": "b91e89f8-9fd3-4327-a941-55e1b4ff203a",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c8d22f69-4e24-4910-833e-3f957604b720",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:31.487647",
+            "webstore_last_updated": null,
+            "id": "baa5561a-c969-42fe-9b85-218b576b7f1a",
+            "size": "447488",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Pit Latrine Coverage 2010 (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "pit_latrine_coverage_2010.excel",
+            "created": "2014-03-12T14:51:21.612667",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Apit_latrine_coverage_2010&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 5,
+            "revision_id": "b91e89f8-9fd3-4327-a941-55e1b4ff203a",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c8d22f69-4e24-4910-833e-3f957604b720",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:31.487647",
+            "webstore_last_updated": null,
+            "id": "f91d2a10-8cbd-4473-a89f-21c2486b17fe",
+            "size": "464659",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Pit Latrine Coverage 2010 (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "pit_latrine_coverage_2010.json",
+            "created": "2014-03-12T14:51:21.612670",
+            "url": "http://maps.data.ug/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Apit_latrine_coverage_2010&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 6,
+            "revision_id": "b91e89f8-9fd3-4327-a941-55e1b4ff203a",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c8d22f69-4e24-4910-833e-3f957604b720",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:31.487647",
+            "webstore_last_updated": null,
+            "id": "33958ef6-2426-459f-b550-80b6e9c5e14d",
+            "size": "659274",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Pit Latrine Coverage 2010 (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "pit_latrine_coverage_2010.kml",
+            "created": "2014-03-12T14:51:21.612674",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Apit_latrine_coverage_2010&mode=download",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 7,
+            "revision_id": "b91e89f8-9fd3-4327-a941-55e1b4ff203a",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c8d22f69-4e24-4910-833e-3f957604b720",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:31.487647",
+            "webstore_last_updated": null,
+            "id": "0f57a3be-77b5-47a6-9c1c-1261083991a8",
+            "size": "1868",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Pit Latrine Coverage 2010 (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "pit_latrine_coverage_2010.kml",
+            "created": "2014-03-12T14:51:21.612678",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Apit_latrine_coverage_2010&mode=refresh",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 8,
+            "revision_id": "b91e89f8-9fd3-4327-a941-55e1b4ff203a",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c8d22f69-4e24-4910-833e-3f957604b720",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:31.487647",
+            "webstore_last_updated": null,
+            "id": "e10a3222-ed78-4844-858a-d0f19c1584a8",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Pit Latrine Coverage 2010 (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "pit_latrine_coverage_2010.tiles",
+            "created": "2014-03-12T14:51:21.612682",
+            "url": "http://maps.data.ug/geoserver/gwc/service/gmaps?layers=geonode:pit_latrine_coverage_2010&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "b91e89f8-9fd3-4327-a941-55e1b4ff203a",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "c8d22f69-4e24-4910-833e-3f957604b720",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:31.487647",
+            "webstore_last_updated": null,
+            "id": "1adf4bfe-b857-4412-8d5f-d1b25c2c17ad",
+            "size": "35433",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Pit Latrine Coverage 2010 (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "pit_latrine_coverage_2010.jpg",
+            "created": "2014-03-12T14:51:21.612686",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Apit_latrine_coverage_2010&width=522&bbox=29.5741674480582%2C-1.48186111902126%2C35.0017411394285%2C4.23101141736342&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 10,
+            "revision_id": "b91e89f8-9fd3-4327-a941-55e1b4ff203a",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c8d22f69-4e24-4910-833e-3f957604b720",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:31.487647",
+            "webstore_last_updated": null,
+            "id": "35913477-65ab-4d65-a69e-85cfc350a440",
+            "size": "41420",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Pit Latrine Coverage 2010 (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "pit_latrine_coverage_2010.pdf",
+            "created": "2014-03-12T14:51:21.612690",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Apit_latrine_coverage_2010&width=522&bbox=29.5741674480582%2C-1.48186111902126%2C35.0017411394285%2C4.23101141736342&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 11,
+            "revision_id": "b91e89f8-9fd3-4327-a941-55e1b4ff203a",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c8d22f69-4e24-4910-833e-3f957604b720",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:31.487647",
+            "webstore_last_updated": null,
+            "id": "7868dba1-ad2c-4ccc-8cdb-ca2825de0539",
+            "size": "61747",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Pit Latrine Coverage 2010 (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "pit_latrine_coverage_2010.png",
+            "created": "2014-03-12T14:51:21.612693",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Apit_latrine_coverage_2010&width=522&bbox=29.5741674480582%2C-1.48186111902126%2C35.0017411394285%2C4.23101141736342&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 12,
+            "revision_id": "b91e89f8-9fd3-4327-a941-55e1b4ff203a",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:31:31.487647",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:31:31.487647",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:31:31.487647",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:31:31.487647",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:31:31.487647",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:31:31.487647",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "sanitation",
+            "name": "sanitation",
+            "revision_timestamp": "2014-11-04T22:31:31.487647",
+            "state": "active",
+            "id": "4b46d055-703f-484c-b50a-3b3ab2b414e2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:31:31.487647",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 12,
+        "recent": 6
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 8,
+    "name": "pit-latrine-coverage-2010",
+    "isopen": false,
+    "url": null,
+    "notes": "Pit Latrine Coverage 2010",
+    "title": "Pit Latrine Coverage 2010",
+    "extras": [
+        {
+            "value": "[]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "b91e89f8-9fd3-4327-a941-55e1b4ff203a",
+                "package_id": "db6efe56-e21e-4cad-b3d5-149f9e6ecfb1"
+            }
+        },
+        {
+            "value": "35.0017411394",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "b91e89f8-9fd3-4327-a941-55e1b4ff203a",
+                "package_id": "db6efe56-e21e-4cad-b3d5-149f9e6ecfb1"
+            }
+        },
+        {
+            "value": "4.2310114174",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "db6efe56-e21e-4cad-b3d5-149f9e6ecfb1",
+                "revision_id": "b91e89f8-9fd3-4327-a941-55e1b4ff203a"
+            }
+        },
+        {
+            "value": "-1.4818611190",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "b91e89f8-9fd3-4327-a941-55e1b4ff203a",
+                "package_id": "db6efe56-e21e-4cad-b3d5-149f9e6ecfb1"
+            }
+        },
+        {
+            "value": "29.5741674481",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "b91e89f8-9fd3-4327-a941-55e1b4ff203a",
+                "package_id": "db6efe56-e21e-4cad-b3d5-149f9e6ecfb1"
+            }
+        },
+        {
+            "value": "",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "db6efe56-e21e-4cad-b3d5-149f9e6ecfb1",
+                "revision_id": "b91e89f8-9fd3-4327-a941-55e1b4ff203a"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "db6efe56-e21e-4cad-b3d5-149f9e6ecfb1",
+                "revision_id": "b91e89f8-9fd3-4327-a941-55e1b4ff203a"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-02-20T04:00:44Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "db6efe56-e21e-4cad-b3d5-149f9e6ecfb1",
+                "revision_id": "b91e89f8-9fd3-4327-a941-55e1b4ff203a"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "db6efe56-e21e-4cad-b3d5-149f9e6ecfb1",
+                "revision_id": "b91e89f8-9fd3-4327-a941-55e1b4ff203a"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Pit Latrine Coverage 2010'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "db6efe56-e21e-4cad-b3d5-149f9e6ecfb1",
+                "revision_id": "b91e89f8-9fd3-4327-a941-55e1b4ff203a"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "db6efe56-e21e-4cad-b3d5-149f9e6ecfb1",
+                "revision_id": "b91e89f8-9fd3-4327-a941-55e1b4ff203a"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "b91e89f8-9fd3-4327-a941-55e1b4ff203a",
+                "package_id": "db6efe56-e21e-4cad-b3d5-149f9e6ecfb1"
+            }
+        },
+        {
+            "value": "dd4ef18e-9a15-11e3-8923-11b11f8ea6d0",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "b91e89f8-9fd3-4327-a941-55e1b4ff203a",
+                "package_id": "db6efe56-e21e-4cad-b3d5-149f9e6ecfb1"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "b91e89f8-9fd3-4327-a941-55e1b4ff203a",
+                "package_id": "db6efe56-e21e-4cad-b3d5-149f9e6ecfb1"
+            }
+        },
+        {
+            "value": "2014-02-20T04:00:44Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "db6efe56-e21e-4cad-b3d5-149f9e6ecfb1",
+                "revision_id": "b91e89f8-9fd3-4327-a941-55e1b4ff203a"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "b91e89f8-9fd3-4327-a941-55e1b4ff203a",
+                "package_id": "db6efe56-e21e-4cad-b3d5-149f9e6ecfb1"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "db6efe56-e21e-4cad-b3d5-149f9e6ecfb1",
+                "revision_id": "b91e89f8-9fd3-4327-a941-55e1b4ff203a"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "db6efe56-e21e-4cad-b3d5-149f9e6ecfb1",
+                "revision_id": "b91e89f8-9fd3-4327-a941-55e1b4ff203a"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "db6efe56-e21e-4cad-b3d5-149f9e6ecfb1",
+                "revision_id": "b91e89f8-9fd3-4327-a941-55e1b4ff203a"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.5741674481, -1.481861119], [35.0017411394, -1.481861119], [35.0017411394, 4.2310114174], [29.5741674481, 4.2310114174], [29.5741674481, -1.481861119]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "b91e89f8-9fd3-4327-a941-55e1b4ff203a",
+                "package_id": "db6efe56-e21e-4cad-b3d5-149f9e6ecfb1"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "db6efe56-e21e-4cad-b3d5-149f9e6ecfb1",
+                "revision_id": "b91e89f8-9fd3-4327-a941-55e1b4ff203a"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "b91e89f8-9fd3-4327-a941-55e1b4ff203a",
+                "package_id": "db6efe56-e21e-4cad-b3d5-149f9e6ecfb1"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "b91e89f8-9fd3-4327-a941-55e1b4ff203a",
+                "package_id": "db6efe56-e21e-4cad-b3d5-149f9e6ecfb1"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "b91e89f8-9fd3-4327-a941-55e1b4ff203a"
+}

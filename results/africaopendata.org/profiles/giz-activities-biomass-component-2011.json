@@ -1,0 +1,667 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:25:46.752999",
+    "id": "448887fa-ae21-4a64-914d-4d41291a51e5",
+    "metadata_created": "2014-11-04T22:25:46.752999",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:48:30.108459",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "0edd5559-7c3c-421f-9b89-f3387d71516d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:58:15.188499",
+            "webstore_last_updated": null,
+            "id": "9d6ce520-0204-4d2f-80a9-8ef5cd57b778",
+            "size": "11593",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "b4c05bba18021001d97dabb0eb7a49f08d2e8d16",
+            "description": "Online link to the 'Giz Activities Biomass Component 2011' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:51:17.238482",
+            "url": "http://maps.data.ug/layers/geonode:giz_activities_biomass_component_2011",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:58:15.049215",
+            "position": 0,
+            "revision_id": "9eaa1c36-438c-43e1-a8d0-c6ac23f69cfe",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "0edd5559-7c3c-421f-9b89-f3387d71516d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:25:46.752999",
+            "webstore_last_updated": null,
+            "id": "39b95e35-cf4c-4c1c-84d1-24dafa80c0eb",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Giz Activities Biomass Component 2011 (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "giz_activities_biomass_component_2011.tiles",
+            "created": "2014-03-12T14:51:17.238507",
+            "url": "http://geoclean.mountbatten.net/geoserver/gwc/service/gmaps?layers=geonode:giz_activities_biomass_component_2011&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "85ea6a84-d59b-4ab2-99a3-0aee5287c66f",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "0edd5559-7c3c-421f-9b89-f3387d71516d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:48:30.108459",
+            "webstore_last_updated": null,
+            "id": "622e41bd-5f48-4cdc-aa93-d329b89fd403",
+            "size": "463",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Giz Activities Biomass Component 2011 (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "giz_activities_biomass_component_2011.kml",
+            "created": "2014-03-12T14:51:17.238511",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms/kml?layers=geonode%3Agiz_activities_biomass_component_2011&mode=refresh",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:58:23.622934",
+            "position": 2,
+            "revision_id": "36432966-1cfe-4a22-a22f-b539eb0e53dc",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "0edd5559-7c3c-421f-9b89-f3387d71516d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:48:30.108459",
+            "webstore_last_updated": null,
+            "id": "7376bffc-1e16-4ee1-a75a-8a182eed3a24",
+            "size": "463",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Giz Activities Biomass Component 2011 (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "giz_activities_biomass_component_2011.kml",
+            "created": "2014-03-12T14:51:17.238515",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms/kml?layers=geonode%3Agiz_activities_biomass_component_2011&mode=download",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:58:16.729814",
+            "position": 3,
+            "revision_id": "36432966-1cfe-4a22-a22f-b539eb0e53dc",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "0edd5559-7c3c-421f-9b89-f3387d71516d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:48:30.108459",
+            "webstore_last_updated": null,
+            "id": "4167cab2-c26f-4890-8ef2-8df4697a0bec",
+            "size": "455",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Giz Activities Biomass Component 2011 (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "giz_activities_biomass_component_2011.json",
+            "created": "2014-03-12T14:51:17.238518",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Agiz_activities_biomass_component_2011&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:58:25.741387",
+            "position": 4,
+            "revision_id": "36432966-1cfe-4a22-a22f-b539eb0e53dc",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "0edd5559-7c3c-421f-9b89-f3387d71516d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:48:30.108459",
+            "webstore_last_updated": null,
+            "id": "77b92c16-f096-4a4c-9499-b620837c3b3a",
+            "size": "455",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Giz Activities Biomass Component 2011 (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "giz_activities_biomass_component_2011.excel",
+            "created": "2014-03-12T14:51:17.238522",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Agiz_activities_biomass_component_2011&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:58:22.725250",
+            "position": 5,
+            "revision_id": "36432966-1cfe-4a22-a22f-b539eb0e53dc",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "0edd5559-7c3c-421f-9b89-f3387d71516d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:48:30.108459",
+            "webstore_last_updated": null,
+            "id": "67469e64-eb64-416e-9b8e-5da5e1584480",
+            "size": "455",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Giz Activities Biomass Component 2011 (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "giz_activities_biomass_component_2011.csv",
+            "created": "2014-03-12T14:51:17.238525",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Agiz_activities_biomass_component_2011&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:58:21.559834",
+            "position": 6,
+            "revision_id": "36432966-1cfe-4a22-a22f-b539eb0e53dc",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "0edd5559-7c3c-421f-9b89-f3387d71516d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:48:30.108459",
+            "webstore_last_updated": null,
+            "id": "a0ef4d04-b6b8-491d-a1ef-5abc4c3dae2e",
+            "size": "455",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Giz Activities Biomass Component 2011 (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "giz_activities_biomass_component_2011.gml",
+            "created": "2014-03-12T14:51:17.238529",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Agiz_activities_biomass_component_2011&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:58:18.275837",
+            "position": 7,
+            "revision_id": "36432966-1cfe-4a22-a22f-b539eb0e53dc",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "0edd5559-7c3c-421f-9b89-f3387d71516d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:48:30.108459",
+            "webstore_last_updated": null,
+            "id": "bb89251f-43fd-46e6-b692-dc0997cd266a",
+            "size": "455",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Giz Activities Biomass Component 2011 (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "giz_activities_biomass_component_2011.gml",
+            "created": "2014-03-12T14:51:17.238532",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Agiz_activities_biomass_component_2011&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:58:20.543868",
+            "position": 8,
+            "revision_id": "36432966-1cfe-4a22-a22f-b539eb0e53dc",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "0edd5559-7c3c-421f-9b89-f3387d71516d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:48:30.108459",
+            "webstore_last_updated": null,
+            "id": "57c49df3-327c-4c85-ae6e-02b1853d4350",
+            "size": "455",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Giz Activities Biomass Component 2011 (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "giz_activities_biomass_component_2011.zip",
+            "created": "2014-03-12T14:51:17.238535",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Agiz_activities_biomass_component_2011&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:58:19.108444",
+            "position": 9,
+            "revision_id": "36432966-1cfe-4a22-a22f-b539eb0e53dc",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "0edd5559-7c3c-421f-9b89-f3387d71516d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:48:30.108459",
+            "webstore_last_updated": null,
+            "id": "53ba4743-d0e7-4a7f-a1bc-904fb66a2641",
+            "size": "463",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Giz Activities Biomass Component 2011 (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "giz_activities_biomass_component_2011.png",
+            "created": "2014-03-12T14:51:17.238539",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms?layers=geonode%3Agiz_activities_biomass_component_2011&width=529&bbox=29.9359365988582%2C-1.24144970771054%2C34.6710484148354%2C3.67780549173873&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:58:17.354344",
+            "position": 10,
+            "revision_id": "36432966-1cfe-4a22-a22f-b539eb0e53dc",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "0edd5559-7c3c-421f-9b89-f3387d71516d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:48:30.108459",
+            "webstore_last_updated": null,
+            "id": "c50a2069-48c3-46a1-b35b-f804fbbd760f",
+            "size": "463",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "c8feaa4f9793ca64551b85275095f822f3068f59",
+            "description": "Giz Activities Biomass Component 2011 (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "giz_activities_biomass_component_2011.pdf",
+            "created": "2014-03-12T14:51:17.238542",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms?layers=geonode%3Agiz_activities_biomass_component_2011&width=529&bbox=29.9359365988582%2C-1.24144970771054%2C34.6710484148354%2C3.67780549173873&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:53:36.888964",
+            "position": 11,
+            "revision_id": "36432966-1cfe-4a22-a22f-b539eb0e53dc",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "0edd5559-7c3c-421f-9b89-f3387d71516d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:48:30.108459",
+            "webstore_last_updated": null,
+            "id": "69719ffb-5909-481c-a248-b600987d14e6",
+            "size": "463",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Giz Activities Biomass Component 2011 (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "giz_activities_biomass_component_2011.jpg",
+            "created": "2014-03-12T14:51:17.238546",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms?layers=geonode%3Agiz_activities_biomass_component_2011&width=529&bbox=29.9359365988582%2C-1.24144970771054%2C34.6710484148354%2C3.67780549173873&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:58:24.848161",
+            "position": 12,
+            "revision_id": "36432966-1cfe-4a22-a22f-b539eb0e53dc",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:25:46.752999",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:25:46.752999",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:25:46.752999",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:25:46.752999",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:25:46.752999",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:25:46.752999",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "giz-activities-biomass-component-2011",
+    "isopen": false,
+    "url": null,
+    "notes": "No abstract provided",
+    "title": "Giz Activities Biomass Component 2011",
+    "extras": [
+        {
+            "value": "[\"None\"]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "85ea6a84-d59b-4ab2-99a3-0aee5287c66f",
+                "package_id": "448887fa-ae21-4a64-914d-4d41291a51e5"
+            }
+        },
+        {
+            "value": "34.6710484148",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "85ea6a84-d59b-4ab2-99a3-0aee5287c66f",
+                "package_id": "448887fa-ae21-4a64-914d-4d41291a51e5"
+            }
+        },
+        {
+            "value": "3.6778054917",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "448887fa-ae21-4a64-914d-4d41291a51e5",
+                "revision_id": "85ea6a84-d59b-4ab2-99a3-0aee5287c66f"
+            }
+        },
+        {
+            "value": "-1.2414497077",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "85ea6a84-d59b-4ab2-99a3-0aee5287c66f",
+                "package_id": "448887fa-ae21-4a64-914d-4d41291a51e5"
+            }
+        },
+        {
+            "value": "29.9359365989",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "85ea6a84-d59b-4ab2-99a3-0aee5287c66f",
+                "package_id": "448887fa-ae21-4a64-914d-4d41291a51e5"
+            }
+        },
+        {
+            "value": "martin.kretschmer@giz.de",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "448887fa-ae21-4a64-914d-4d41291a51e5",
+                "revision_id": "85ea6a84-d59b-4ab2-99a3-0aee5287c66f"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "448887fa-ae21-4a64-914d-4d41291a51e5",
+                "revision_id": "85ea6a84-d59b-4ab2-99a3-0aee5287c66f"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-02-18T10:32:22Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "448887fa-ae21-4a64-914d-4d41291a51e5",
+                "revision_id": "85ea6a84-d59b-4ab2-99a3-0aee5287c66f"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "448887fa-ae21-4a64-914d-4d41291a51e5",
+                "revision_id": "85ea6a84-d59b-4ab2-99a3-0aee5287c66f"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Giz Activities Biomass Component 2011'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "448887fa-ae21-4a64-914d-4d41291a51e5",
+                "revision_id": "85ea6a84-d59b-4ab2-99a3-0aee5287c66f"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "448887fa-ae21-4a64-914d-4d41291a51e5",
+                "revision_id": "85ea6a84-d59b-4ab2-99a3-0aee5287c66f"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "85ea6a84-d59b-4ab2-99a3-0aee5287c66f",
+                "package_id": "448887fa-ae21-4a64-914d-4d41291a51e5"
+            }
+        },
+        {
+            "value": "e4fed6a0-98b8-11e3-bdd0-ede6a93d9f04",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "85ea6a84-d59b-4ab2-99a3-0aee5287c66f",
+                "package_id": "448887fa-ae21-4a64-914d-4d41291a51e5"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "85ea6a84-d59b-4ab2-99a3-0aee5287c66f",
+                "package_id": "448887fa-ae21-4a64-914d-4d41291a51e5"
+            }
+        },
+        {
+            "value": "2014-02-18T10:32:22Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "448887fa-ae21-4a64-914d-4d41291a51e5",
+                "revision_id": "85ea6a84-d59b-4ab2-99a3-0aee5287c66f"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "85ea6a84-d59b-4ab2-99a3-0aee5287c66f",
+                "package_id": "448887fa-ae21-4a64-914d-4d41291a51e5"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "448887fa-ae21-4a64-914d-4d41291a51e5",
+                "revision_id": "85ea6a84-d59b-4ab2-99a3-0aee5287c66f"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "448887fa-ae21-4a64-914d-4d41291a51e5",
+                "revision_id": "85ea6a84-d59b-4ab2-99a3-0aee5287c66f"
+            }
+        },
+        {
+            "value": "[{\"name\": \"GIZ\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "448887fa-ae21-4a64-914d-4d41291a51e5",
+                "revision_id": "85ea6a84-d59b-4ab2-99a3-0aee5287c66f"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.9359365989, -1.2414497077], [34.6710484148, -1.2414497077], [34.6710484148, 3.6778054917], [29.9359365989, 3.6778054917], [29.9359365989, -1.2414497077]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "85ea6a84-d59b-4ab2-99a3-0aee5287c66f",
+                "package_id": "448887fa-ae21-4a64-914d-4d41291a51e5"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "448887fa-ae21-4a64-914d-4d41291a51e5",
+                "revision_id": "85ea6a84-d59b-4ab2-99a3-0aee5287c66f"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "85ea6a84-d59b-4ab2-99a3-0aee5287c66f",
+                "package_id": "448887fa-ae21-4a64-914d-4d41291a51e5"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "85ea6a84-d59b-4ab2-99a3-0aee5287c66f",
+                "package_id": "448887fa-ae21-4a64-914d-4d41291a51e5"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "85ea6a84-d59b-4ab2-99a3-0aee5287c66f"
+}

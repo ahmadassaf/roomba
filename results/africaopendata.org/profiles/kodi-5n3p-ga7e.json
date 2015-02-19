@@ -1,0 +1,130 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Chris Metcalf",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:58:24.725403",
+    "id": "23fee90a-a0fd-4f14-959d-27983ee4f2fa",
+    "metadata_created": "2012-09-11T13:58:24.725403",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:02:42.832693",
+    "author": "Chris Metcalf",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "531bfea1-d1bb-47ec-b298-93879834bce9",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:02:42.832693",
+            "webstore_last_updated": "2013-10-10T12:02:42.765406",
+            "id": "855ecd90-1b30-4e57-a9c4-4cbd8a7e7378",
+            "size": "252",
+            "state": "active",
+            "hash": "17f5bafdcfcf978e70f0f27ba4835e967bc118a7",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Tana River Pop Pyramid Age Groups - 2009.csv",
+            "created": "2012-09-11T13:58:24.773174",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T160109/5n3p-ga7e.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:30:45.130783",
+            "position": 0,
+            "revision_id": "1ea75d40-f3d3-44d4-b858-a7e73c6cd93b",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "county",
+            "name": "county",
+            "revision_timestamp": "2012-09-11T13:58:24.725403",
+            "state": "active",
+            "id": "858f3acf-2c66-4fd9-9dc2-32e4f12121a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:58:24.725403",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:58:24.725403",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population",
+            "name": "population",
+            "revision_timestamp": "2012-09-11T13:58:24.725403",
+            "state": "active",
+            "id": "c5e39de5-556e-4bcb-883b-5b9ec2481ae9"
+        }
+    ],
+    "tracking_summary": {
+        "total": 52,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "kodi-5n3p-ga7e",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": null,
+    "title": "Tana River Pop Pyramid Age Groups - 2009",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "03367bb0-c1f3-499f-87f2-6b4184a3f012",
+                "package_id": "23fee90a-a0fd-4f14-959d-27983ee4f2fa"
+            }
+        },
+        {
+            "value": "Population",
+            "key": "category",
+            "__extras": {
+                "revision_id": "03367bb0-c1f3-499f-87f2-6b4184a3f012",
+                "package_id": "23fee90a-a0fd-4f14-959d-27983ee4f2fa"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "03367bb0-c1f3-499f-87f2-6b4184a3f012",
+                "package_id": "23fee90a-a0fd-4f14-959d-27983ee4f2fa"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "03367bb0-c1f3-499f-87f2-6b4184a3f012"
+}

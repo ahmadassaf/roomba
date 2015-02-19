@@ -1,0 +1,307 @@
+{
+    "license_title": "Creative Commons Attribution-NonCommercial 4.0",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2014-05-16T09:52:43.398916",
+    "id": "d77de084-1ff7-477d-9885-6f61871c3e7b",
+    "metadata_created": "2013-05-16T10:17:47.662790",
+    "owner_org": null,
+    "metadata_modified": "2014-05-16T09:52:43.398916",
+    "author": "Programmabureau Luchtkwaliteit",
+    "author_email": "luchtkwaliteit@amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "CC-BY-NC-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "abeaa0a1-0e99-41b2-936b-75897b02830c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-05-16T09:52:43.398916",
+            "webstore_last_updated": null,
+            "id": "77689dc4-706f-4d4f-baa6-6c82b23e3fc7",
+            "size": "82734",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Toelichting webservice",
+            "format": "PDF",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "20140401 - Webservice Readme v1.6.pdf",
+            "created": "2014-05-16T11:52:43.493656",
+            "url": "http://www.amsterdamopendata.nl/documents/10180/25241/20140401 - Webservice Readme v1.6.pdf",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "e9581de0-0383-4a13-8289-f77aca4a0208",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "abeaa0a1-0e99-41b2-936b-75897b02830c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-05-16T09:52:43.398916",
+            "webstore_last_updated": null,
+            "id": "b7ac6059-8864-4775-b2f1-a274d7208fc9",
+            "size": "253154",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Beschrijving Dataset",
+            "format": "PDF",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "Beschrijving Dataset - Oplaadpunten Elektrisch Vervoer.pdf",
+            "created": "2014-05-16T11:52:43.493693",
+            "url": "http://www.amsterdamopendata.nl/documents/10180/25241/Beschrijving Dataset - Oplaadpunten Elektrisch Vervoer.pdf",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "e9581de0-0383-4a13-8289-f77aca4a0208",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "abeaa0a1-0e99-41b2-936b-75897b02830c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-05-16T09:52:43.398916",
+            "webstore_last_updated": null,
+            "id": "4f8dbbed-290f-4395-819d-5ab96e99b788",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "API (Statische info)",
+            "format": "url",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "https://api.essent.nl/partner/a2a/cs/getStaticChargingStations?wsdl",
+            "created": "2014-05-16T11:52:43.493705",
+            "url": "https://api.essent.nl/partner/a2a/cs/getStaticChargingStations?wsdl",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "e9581de0-0383-4a13-8289-f77aca4a0208",
+            "resource_type": "api"
+        },
+        {
+            "resource_group_id": "abeaa0a1-0e99-41b2-936b-75897b02830c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-05-16T09:52:43.398916",
+            "webstore_last_updated": null,
+            "id": "b5a569f4-622d-4570-ad6c-3ff14f0aef1a",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "API (Dynamische info)",
+            "format": "url",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "https://api.essent.nl/partner/a2a/cs/getDynamicChargingPoints?wsdl",
+            "created": "2014-05-16T11:52:43.493718",
+            "url": "https://api.essent.nl/partner/a2a/cs/getDynamicChargingPoints?wsdl",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "e9581de0-0383-4a13-8289-f77aca4a0208",
+            "resource_type": "api"
+        }
+    ],
+    "num_resources": 4,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "auto",
+            "name": "auto",
+            "revision_timestamp": "2014-05-16T08:50:01.322512",
+            "state": "active",
+            "id": "a617a63e-a649-4d3e-924c-3f67a5783d2e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "elektrisch",
+            "name": "elektrisch",
+            "revision_timestamp": "2013-05-16T10:17:47.662790",
+            "state": "active",
+            "id": "035a0b35-38a1-419b-8462-42a71baee05d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "elektrische",
+            "name": "elektrische",
+            "revision_timestamp": "2013-05-16T10:17:47.662790",
+            "state": "active",
+            "id": "9777a792-d998-4f23-b217-5350551ac3a3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "laadnetwerk",
+            "name": "laadnetwerk",
+            "revision_timestamp": "2014-05-16T08:50:01.322512",
+            "state": "active",
+            "id": "deb8d157-951a-4c19-b469-07d37f4be145"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "oplaadpunten",
+            "name": "oplaadpunten",
+            "revision_timestamp": "2014-05-16T08:50:01.322512",
+            "state": "active",
+            "id": "c886fd20-ab7a-4e2d-a930-7acdc3bac817"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "oplaadstations",
+            "name": "oplaadstations",
+            "revision_timestamp": "2013-05-16T10:17:47.662790",
+            "state": "active",
+            "id": "9596fdc1-c8a5-4ebf-be1a-eee5bcee44b2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "opladen",
+            "name": "opladen",
+            "revision_timestamp": "2014-05-16T08:50:01.322512",
+            "state": "active",
+            "id": "8c9cc801-2f48-4a13-826b-9fed9cd5603b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "rijden",
+            "name": "rijden",
+            "revision_timestamp": "2013-05-16T10:17:47.662790",
+            "state": "active",
+            "id": "44616a8f-bbef-492c-b2a8-7a8b0481a654"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "vervoer",
+            "name": "vervoer",
+            "revision_timestamp": "2013-05-16T10:17:47.662790",
+            "state": "active",
+            "id": "8ec4f7ba-b671-4bdd-8a46-8b442e0f3ba6"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Verkeer & Infrastructuur",
+            "description": "",
+            "name": "verkeer-infrastructuur",
+            "id": "12502584-9d7d-4bdc-bf5f-df2b0d85f4f6"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 9,
+    "name": "oplaadpunten-elektrisch-vervoer",
+    "isopen": false,
+    "url": null,
+    "notes": "SOAP API met de locatie en details van alle openbare oplaadpunten voor elektrisch vervoer in Amsterdam, inclusief de huidige status (real-time).N.B. Indien u specifieke vragen heeft over aanvullende data m.b.t. het gebruik van de oplaadpunten, kunt u contact opnemen met het Programmabureau Luchtkwaliteit (zie onderstaande contactgegevens).",
+    "title": "Oplaadpunten Elektrisch vervoer",
+    "extras": [
+        {
+            "value": "d.bardok@ivv.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "d77de084-1ff7-477d-9885-6f61871c3e7b",
+                "revision_id": "91c9442b-026e-48db-aa76-cba18b4c1ed2"
+            }
+        },
+        {
+            "value": "Doede Bardok",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "91c9442b-026e-48db-aa76-cba18b4c1ed2",
+                "package_id": "d77de084-1ff7-477d-9885-6f61871c3e7b"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "7d4329a4-aae6-45d4-afac-ddd66c4238b7",
+                "package_id": "d77de084-1ff7-477d-9885-6f61871c3e7b"
+            }
+        },
+        {
+            "value": "Real time",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "5b84799d-75f1-4497-8af2-7f84883a5061",
+                "package_id": "d77de084-1ff7-477d-9885-6f61871c3e7b"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "d77de084-1ff7-477d-9885-6f61871c3e7b",
+                "revision_id": "7d4329a4-aae6-45d4-afac-ddd66c4238b7"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "d77de084-1ff7-477d-9885-6f61871c3e7b",
+                "revision_id": "7d4329a4-aae6-45d4-afac-ddd66c4238b7"
+            }
+        },
+        {
+            "value": "Iedere 30 sec.",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "5b84799d-75f1-4497-8af2-7f84883a5061",
+                "package_id": "d77de084-1ff7-477d-9885-6f61871c3e7b"
+            }
+        },
+        {
+            "value": "http://www.amsterdamelektrisch.nl",
+            "key": "website",
+            "__extras": {
+                "package_id": "d77de084-1ff7-477d-9885-6f61871c3e7b",
+                "revision_id": "5b84799d-75f1-4497-8af2-7f84883a5061"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "organization": null,
+    "revision_id": "e9581de0-0383-4a13-8289-f77aca4a0208",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "Creative Commons",
+        "od_conformance": "rejected",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

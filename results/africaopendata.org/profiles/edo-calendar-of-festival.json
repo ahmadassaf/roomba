@@ -1,0 +1,164 @@
+{
+    "license_title": "Creative Commons Attribution 4.0",
+    "maintainer": "Open Data Team",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "opendata@edostate.gov.ng",
+    "revision_timestamp": "2014-11-06T16:30:43.560724",
+    "id": "2e16d863-3591-4357-a2c5-f025a4754863",
+    "metadata_created": "2014-11-06T16:30:43.560724",
+    "owner_org": null,
+    "metadata_modified": "2014-12-18T16:45:32.195435",
+    "author": "Ministry of Art and Culture",
+    "author_email": "opendata@edostate.gov.ng",
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "80522c96-a795-449a-bafc-da7a7382d488",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-18T16:45:32.195435",
+            "webstore_last_updated": "2014-07-08T14:11:46.751425",
+            "id": "f3036832-186d-4c88-9e03-ee7dc4ffdbe6",
+            "size": "11386",
+            "state": "active",
+            "hash": "{\"content\": \"b3651c72e3392ac6ac16448245101040f0610563\", \"header\": \"a2c34aacaa8a4bb8d0d962037652bca2575fc6ff\"}",
+            "description": "A schedule showing the names, Participating town/villages, duration and the purpose of the festivals in Edo State.",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Edo calendar of festival.csv",
+            "created": "2013-09-09T12:28:57.117533",
+            "url": "http://data.edostate.gov.ng/storage/f/2013-09-09T12%3A22%3A53.778Z/edo-calendar-of-festival.csv",
+            "webstore_url": "active",
+            "last_modified": "2014-07-08T14:11:09.061321",
+            "position": 0,
+            "revision_id": "6e0617bc-9e28-4153-ab5e-6e8be3897a2d",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Edo Festivals",
+            "name": "Edo Festivals",
+            "revision_timestamp": "2014-11-06T16:30:43.560724",
+            "state": "active",
+            "id": "07c04418-9ae0-4f9e-9bf9-ebc06d3bb849"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Festival",
+            "name": "Festival",
+            "revision_timestamp": "2014-11-06T16:30:43.560724",
+            "state": "active",
+            "id": "7559bb2d-4ed9-47fd-9ea2-bb55613f5455"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Festival in Edo",
+            "name": "Festival in Edo",
+            "revision_timestamp": "2014-11-06T16:30:43.560724",
+            "state": "active",
+            "id": "ec5657d2-4bb7-4d27-9118-0695d07a83bf"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Festivals in Edo",
+            "name": "Festivals in Edo",
+            "revision_timestamp": "2014-11-06T16:30:43.560724",
+            "state": "active",
+            "id": "bd6dfac4-2d41-4cfa-a379-d0e61883ea77"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-06T16:30:43.560724",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "edo state",
+            "name": "edo state",
+            "revision_timestamp": "2014-11-06T16:30:43.560724",
+            "state": "active",
+            "id": "b7ac55fa-8449-416f-be17-e59c4c154e51"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "nigeria",
+            "name": "nigeria",
+            "revision_timestamp": "2014-11-06T16:30:43.560724",
+            "state": "active",
+            "id": "d5e39c15-faf7-4e35-96a0-cb88ec7becb1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open data",
+            "name": "open data",
+            "revision_timestamp": "2014-11-06T16:30:43.560724",
+            "state": "active",
+            "id": "5977073f-ae9b-420d-b468-636bfcf752de"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "west africa",
+            "name": "west africa",
+            "revision_timestamp": "2014-11-06T16:30:43.560724",
+            "state": "active",
+            "id": "82a06d2c-708d-44e5-b6c4-0aef079cbf6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "western africa",
+            "name": "western africa",
+            "revision_timestamp": "2014-11-06T16:30:43.560724",
+            "state": "active",
+            "id": "0297e4dc-f3f3-4b3a-bf41-50dd715a453a"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Nigeria",
+            "description": "Datasets from the Republic of Nigeria",
+            "name": "nigeria",
+            "id": "6e482307-7e70-4db4-a3f2-91db4e2b90bc"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 10,
+    "name": "edo-calendar-of-festival",
+    "isopen": true,
+    "url": null,
+    "notes": "A schedule showing the names, Participating town/villages, duration and the purpose of the festivals in Edo State.",
+    "title": "Edo calendar of festival",
+    "extras": [],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "organization": null,
+    "revision_id": "4cede6c0-ca85-4d04-9742-84486192b59b",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

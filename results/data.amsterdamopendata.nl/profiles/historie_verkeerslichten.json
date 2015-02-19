@@ -1,0 +1,171 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2013-09-24T16:17:34.909060",
+    "id": "2e04051c-0557-4c0c-8793-8230471f5fa1",
+    "metadata_created": "2013-09-24T16:16:52.792378",
+    "owner_org": null,
+    "metadata_modified": "2013-09-24T16:17:34.909060",
+    "author": "Ruimtelijke Ordening (DRO)",
+    "author_email": "info@dro.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "95d53c4e-e825-4e0a-81c7-805dd4b2e8b9",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-09-24T16:17:34.909060",
+            "webstore_last_updated": null,
+            "id": "4f5c1ac6-c27c-4d88-a6f6-fa735c023246",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Downloaden via maps.amsterdam.nl",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://maps.amsterdam.nl/open_geodata/",
+            "created": "2013-09-24T18:17:34.941752",
+            "url": "http://maps.amsterdam.nl/open_geodata/",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "00eb02f8-127c-4717-823d-73c5437ceb8d",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "historie",
+            "name": "historie",
+            "revision_timestamp": "2013-09-24T16:16:52.792378",
+            "state": "active",
+            "id": "8569fa4c-ee46-4184-b756-a83835595a81"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kruispunten",
+            "name": "kruispunten",
+            "revision_timestamp": "2013-09-24T16:16:52.792378",
+            "state": "active",
+            "id": "0eb03362-9c10-4b45-a699-21f54662d95e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "stoplichten",
+            "name": "stoplichten",
+            "revision_timestamp": "2013-09-24T16:16:52.792378",
+            "state": "active",
+            "id": "0a0ad9e7-0f18-4ccb-ae9d-2418c6b3d30c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "verkeerslicht",
+            "name": "verkeerslicht",
+            "revision_timestamp": "2013-09-24T16:16:52.792378",
+            "state": "active",
+            "id": "e5da52e9-73c5-48d1-b2a0-38574845bcaf"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Verkeer & Infrastructuur",
+            "description": "",
+            "name": "verkeer-infrastructuur",
+            "id": "12502584-9d7d-4bdc-bf5f-df2b0d85f4f6"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "historie_verkeerslichten",
+    "isopen": true,
+    "url": null,
+    "notes": "Dit bestand bevat een overzicht van de groei van het aantal met verkeerslichten geregelde kruispunten die bij de gemeente Amsterdam functioneel in beheer zijn.   De start ligt in 1932 als het Leidseplein als eerste wordt uitgerust met een verkeersregeling door middel van lichtsignalen. Door de tijd heen zijn er ook verkeerslichten verwijderd. Dit is mogelijk vanwege profielwijzigingen of een afnemende verkeersdruk.",
+    "title": "Historie verkeerslichten",
+    "extras": [
+        {
+            "value": "s.linders@dro.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "2e04051c-0557-4c0c-8793-8230471f5fa1",
+                "revision_id": "2b20d516-caf2-47de-9c2d-2c07a8372e0e"
+            }
+        },
+        {
+            "value": "Sjoerd Linders",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "2b20d516-caf2-47de-9c2d-2c07a8372e0e",
+                "package_id": "2e04051c-0557-4c0c-8793-8230471f5fa1"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "2b20d516-caf2-47de-9c2d-2c07a8372e0e",
+                "package_id": "2e04051c-0557-4c0c-8793-8230471f5fa1"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "2b20d516-caf2-47de-9c2d-2c07a8372e0e",
+                "package_id": "2e04051c-0557-4c0c-8793-8230471f5fa1"
+            }
+        },
+        {
+            "value": "01/01/1932",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "2e04051c-0557-4c0c-8793-8230471f5fa1",
+                "revision_id": "2b20d516-caf2-47de-9c2d-2c07a8372e0e"
+            }
+        },
+        {
+            "value": "01/01/2013",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "2e04051c-0557-4c0c-8793-8230471f5fa1",
+                "revision_id": "2b20d516-caf2-47de-9c2d-2c07a8372e0e"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "2b20d516-caf2-47de-9c2d-2c07a8372e0e",
+                "package_id": "2e04051c-0557-4c0c-8793-8230471f5fa1"
+            }
+        },
+        {
+            "value": "http://maps.amsterdam.nl/verkeerslichten/",
+            "key": "website",
+            "__extras": {
+                "package_id": "2e04051c-0557-4c0c-8793-8230471f5fa1",
+                "revision_id": "2b20d516-caf2-47de-9c2d-2c07a8372e0e"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "00eb02f8-127c-4717-823d-73c5437ceb8d"
+}

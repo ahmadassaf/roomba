@@ -1,0 +1,101 @@
+{
+    "license_title": "Open Data Commons Open Database License 1.0",
+    "maintainer": "T. Idriss TINTO",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "tinto.jean@gmail.com",
+    "revision_timestamp": "2014-02-23T10:03:10.853759",
+    "id": "df6367da-3a61-4af1-9959-405dc2b86dfd",
+    "metadata_created": "2014-02-15T14:42:17.048235",
+    "owner_org": null,
+    "metadata_modified": "2014-02-24T13:21:51.097204",
+    "author": "Commune de Ouahigouya",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "ODbL-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "f6904844-9781-4d63-9879-851471d8e750",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-02-24T13:21:51.097204",
+            "webstore_last_updated": "2014-02-15T14:44:42.377624",
+            "id": "21bcbddd-46b1-432e-bbde-a3314062d62a",
+            "size": "11118",
+            "state": "active",
+            "hash": "bd603f7ad25bde8c1bc7514081652a4cbb069cdd",
+            "description": "Fichier de données contenant les données des dépenses de la commune de Ouahigouya pour l'année 2012",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Budget 2012 OHG depenses.csv",
+            "created": "2014-02-15T14:44:39.855378",
+            "url": "http://africaopendata.org/storage/f/2014-02-24T13%3A21%3A11.841Z/budget-2012-ohg-depenses.csv",
+            "webstore_url": "active",
+            "last_modified": "2014-02-24T13:21:50.431224",
+            "position": 0,
+            "revision_id": "25696c27-4787-4266-8bbd-48a2d2e27e44",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Burkina Faso",
+            "name": "Burkina Faso",
+            "revision_timestamp": "2014-02-15T14:51:55.015613",
+            "state": "active",
+            "id": "9c9624ca-2da8-4d09-a166-1f4a5ff49622"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "budget",
+            "name": "budget",
+            "revision_timestamp": "2014-02-15T14:42:17.048235",
+            "state": "active",
+            "id": "0371539f-c6a6-447c-b59d-3ded9f5007ad"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "ouahigouya",
+            "name": "ouahigouya",
+            "revision_timestamp": "2014-02-15T14:42:17.048235",
+            "state": "active",
+            "id": "74d29451-e4a8-4b36-859f-a65b9c081686"
+        }
+    ],
+    "tracking_summary": {
+        "total": 54,
+        "recent": 7
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "budget-2012-de-ouahigouya-depenses",
+    "isopen": true,
+    "url": null,
+    "notes": "Ceci représente les dépenses de la commune de Ouahigouya telle qu'elles apparaissent dans le budget 2012.",
+    "title": "Budget 2012 de Ouahigouya, dépenses",
+    "extras": [],
+    "license_url": "http://www.opendefinition.org/licenses/odc-odbl",
+    "organization": null,
+    "revision_id": "c5e85b61-db19-4d69-9d8c-34ab98b5be1d",
+    "license_information": {
+        "domain_content": false,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "",
+        "status": "active"
+    }
+}

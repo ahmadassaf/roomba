@@ -1,0 +1,89 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-06-03T05:24:15.618923",
+    "id": "aa126a18-6e09-4e50-afce-a2b88c85a824",
+    "metadata_created": "2013-06-03T05:18:51.976741",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:45:42.507730",
+    "author": "UN Data",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "94eafe87-d073-4f4a-8e6d-4c1cafffa2ef",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:45:42.507730",
+            "webstore_last_updated": "2013-10-10T10:45:42.447693",
+            "id": "aabc7073-5804-44cb-9c36-e6748e473987",
+            "size": "8488",
+            "state": "active",
+            "hash": "513caedc09be18230e5d4fb536fd31bd337f8f43",
+            "description": "Jetfuel Production - Libya ",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "UNdata_Export_20130603_011202731.csv",
+            "created": "2013-06-03T05:23:53.663792",
+            "url": "http://africaopendata.org/storage/f/2013-06-03T05%3A23%3A50.948Z/undata-export-20130603-011202731.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-10-10T10:45:41.732084",
+            "position": 0,
+            "revision_id": "eb847ad7-a3b7-49ed-ba30-b4e79dce56b1",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "jetfuel",
+            "name": "jetfuel",
+            "revision_timestamp": "2013-06-03T05:18:51.976741",
+            "state": "active",
+            "id": "949e13b3-905b-4b81-9ca7-ee6b040e9f2c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "libya",
+            "name": "libya",
+            "revision_timestamp": "2013-06-03T05:18:51.976741",
+            "state": "active",
+            "id": "1b5b141c-6714-48aa-bedd-e04690236a4a"
+        }
+    ],
+    "tracking_summary": {
+        "total": 74,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Libya",
+            "description": "Data about Lybia",
+            "name": "libya",
+            "id": "9ae5d613-191a-4f0f-8bf6-ac41bf17752f"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "jet-fuel-production",
+    "isopen": false,
+    "url": null,
+    "notes": "Libya Jet-fuel Production",
+    "title": "Jet-fuel Production",
+    "extras": [],
+    "organization": null,
+    "revision_id": "5d66b5eb-8f3e-486e-8013-1c39dd3fd479"
+}

@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-09-04T16:10:53.848775",
+    "id": "eb49797a-1c07-4339-a4ae-bf9b140eafb2",
+    "metadata_created": "2012-09-04T16:10:53.848775",
+    "owner_org": null,
+    "metadata_modified": "2014-01-25T18:56:37.566171",
+    "author": "Geoffrey Kilpin (UCT) and MAPP",
+    "author_email": "geoffreykilpin@gmail.com",
+    "state": "active",
+    "version": "1.0",
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "3cc0035b-7180-448c-acba-8835b07f2d74",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-01-25T18:56:37.566171",
+            "webstore_last_updated": null,
+            "id": "4b6b0fc6-f050-4039-8077-a3bd703bb688",
+            "size": "525609",
+            "state": "active",
+            "hash": "fa82a26d9c38f1e49adc99594be07e115a969eb0",
+            "description": "",
+            "format": "xlsx",
+            "tracking_summary": {
+                "total": 7,
+                "recent": 1
+            },
+            "mimetype_inner": "",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "cache_url": "",
+            "name": "PARLIAMENT-DATASET.xlsx",
+            "created": "2012-08-02T02:55:10.376659",
+            "url": "http://africaopendata.org/storage/f/2013-11-19T12%3A18%3A27.042Z/parliament-dataset.xlsx",
+            "webstore_url": "",
+            "last_modified": "2014-01-25T18:56:37.503591",
+            "position": 0,
+            "revision_id": "709b9734-b1db-4c02-8eb1-f0f17aa09323",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "code4democracy",
+            "name": "code4democracy",
+            "revision_timestamp": "2012-09-04T16:10:53.848775",
+            "state": "active",
+            "id": "51d5a81a-0464-41a3-be13-8d6c304f24e7"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "finance",
+            "name": "finance",
+            "revision_timestamp": "2012-09-09T09:55:50.418402",
+            "state": "active",
+            "id": "03e21f21-04d8-4e9f-aa27-cd50d0b59c7c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "salaries",
+            "name": "salaries",
+            "revision_timestamp": "2012-09-09T09:55:50.418402",
+            "state": "active",
+            "id": "470d9bfa-db60-4362-9de9-0504083ddc42"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "southafrica",
+            "name": "southafrica",
+            "revision_timestamp": "2012-09-04T16:10:53.848775",
+            "state": "active",
+            "id": "16620248-4ab3-4ae8-a8e9-49ed7920fd32"
+        }
+    ],
+    "tracking_summary": {
+        "total": 203,
+        "recent": 3
+    },
+    "groups": [
+        {
+            "title": "South Africa",
+            "description": "Datasets from South Africa",
+            "name": "south-africa",
+            "id": "fc691a3f-cfce-46d6-93a0-77bdccfec89d"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "south-african-parliament",
+    "isopen": true,
+    "url": "",
+    "notes": "Comprehensive database of South African Parliament including MP names, contact details, party affiliations, committee assignments, constituency assignments, 2011-12 remuneration, and 2011 MP disclosures of financial interests, gifts received, and travel. Built from open source data on the Parliamentary website by Geoffrey Kilpin (UCT) and the Money and Politics Project. ",
+    "title": "South African Parliament - MPs and their financial interests",
+    "extras": [
+        {
+            "value": "Coding for Democracy",
+            "key": "Source",
+            "__extras": {
+                "revision_id": "5af6ca39-a26c-480b-8053-74cdb295758b",
+                "package_id": "eb49797a-1c07-4339-a4ae-bf9b140eafb2"
+            }
+        },
+        {
+            "value": "http://197.221.34.5/dataset/eb49797a-1c07-4339-a4ae-bf9b140eafb2",
+            "key": "harvest_url",
+            "__extras": {
+                "revision_id": "5af6ca39-a26c-480b-8053-74cdb295758b",
+                "package_id": "eb49797a-1c07-4339-a4ae-bf9b140eafb2"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "5af6ca39-a26c-480b-8053-74cdb295758b"
+}

@@ -1,0 +1,142 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-09-04T16:10:44.940362",
+    "id": "71bb3362-ec63-4235-9427-f99216d01c37",
+    "metadata_created": "2012-09-04T16:10:44.940362",
+    "owner_org": null,
+    "metadata_modified": "2014-01-25T18:44:55.107787",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": "",
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "11159660-09c5-459e-b9da-c0c5ac3e0196",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-01-25T18:44:53.815827",
+            "webstore_last_updated": "2014-01-25T18:44:53.363337",
+            "id": "534143c7-99c0-4662-abc0-0af76adeee05",
+            "size": "19774",
+            "state": "active",
+            "hash": "f33d6a5862d35f64a5123b524f9d9924c029bed2",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 5,
+                "recent": 1
+            },
+            "mimetype_inner": "",
+            "mimetype": "text/csv",
+            "cache_url": "",
+            "name": "national_assembly.csv",
+            "created": "2012-07-31T05:30:23.390481",
+            "url": "http://africaopendata.org/storage/f/2013-11-19T12%3A07%3A40.903Z/national-assembly.csv",
+            "webstore_url": "",
+            "last_modified": "2014-01-25T18:44:53.749799",
+            "position": 0,
+            "revision_id": "d1eaf938-0237-40b9-83f0-4f957706bee2",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "11159660-09c5-459e-b9da-c0c5ac3e0196",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-01-25T18:44:55.107787",
+            "webstore_last_updated": null,
+            "id": "7a45f295-92f5-44b5-befe-0850bfd8ebb4",
+            "size": "216566",
+            "state": "active",
+            "hash": "6e62d9b449ff329b77454711eae737bacf7bc628",
+            "description": "Latest information on National Assembly membership received directly from Parliament. Includes a change log and other useful information.",
+            "format": "ZIP",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": "",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "namembership.zip",
+            "created": "2012-08-02T08:41:04.364149",
+            "url": "http://africaopendata.org/storage/f/2013-11-19T12%3A07%3A57.913Z/namembership.zip",
+            "webstore_url": null,
+            "last_modified": "2014-01-25T18:44:54.976908",
+            "position": 1,
+            "revision_id": "8e29eb36-3820-443e-a8a4-55aef3254683",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "national assembly",
+            "name": "national assembly",
+            "revision_timestamp": "2012-09-09T09:43:45.924688",
+            "state": "active",
+            "id": "b665727e-8228-4551-a2a9-d0af741d27e3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "parliament",
+            "name": "parliament",
+            "revision_timestamp": "2012-09-09T09:43:45.924688",
+            "state": "active",
+            "id": "80e719d9-13c4-4fdf-ac73-8ff55ec3fb28"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "southafrica",
+            "name": "southafrica",
+            "revision_timestamp": "2012-09-04T16:10:44.940362",
+            "state": "active",
+            "id": "16620248-4ab3-4ae8-a8e9-49ed7920fd32"
+        }
+    ],
+    "tracking_summary": {
+        "total": 121,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "South Africa",
+            "description": "Datasets from South Africa",
+            "name": "south-africa",
+            "id": "fc691a3f-cfce-46d6-93a0-77bdccfec89d"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "members-of-the-national-assembly",
+    "isopen": true,
+    "url": "http://www.parliament.gov.za/live/content.php?Category_ID=98",
+    "notes": "Extracted - July 2012",
+    "title": "Members of the National Assembly",
+    "extras": [
+        {
+            "value": "Coding for Democracy",
+            "key": "Source",
+            "__extras": {
+                "revision_id": "f3efeb64-62bd-4bd9-8289-966b5ed4e86b",
+                "package_id": "71bb3362-ec63-4235-9427-f99216d01c37"
+            }
+        },
+        {
+            "value": "http://197.221.34.5/dataset/71bb3362-ec63-4235-9427-f99216d01c37",
+            "key": "harvest_url",
+            "__extras": {
+                "revision_id": "f3efeb64-62bd-4bd9-8289-966b5ed4e86b",
+                "package_id": "71bb3362-ec63-4235-9427-f99216d01c37"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "f3efeb64-62bd-4bd9-8289-966b5ed4e86b"
+}

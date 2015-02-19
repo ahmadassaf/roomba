@@ -1,0 +1,631 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:34:24.459136",
+    "id": "ef31af49-0622-4b05-9f5f-9b144b6ffe4e",
+    "metadata_created": "2014-11-04T22:34:24.459136",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:52:19.883369",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "b973de18-7c5e-422b-81cb-cbbbc80ae40f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:52:19.883369",
+            "webstore_last_updated": null,
+            "id": "d9a0185d-c75e-4ef0-92aa-3c88bd97275e",
+            "size": "20",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "790751803f4b1bade2ac751815471dc2a7cd4e90",
+            "description": "Online link to the 'Hillshade, ' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:53:23.250915",
+            "url": "http://maps.data.ug/layers/geonode:merged_hillshade_wgs84",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T16:51:21.752396",
+            "position": 0,
+            "revision_id": "5a035bec-2672-41b8-bafe-22e9df8eda9f",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "b973de18-7c5e-422b-81cb-cbbbc80ae40f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:34:24.459136",
+            "webstore_last_updated": null,
+            "id": "0211ab80-e2eb-4aa2-8705-8de0daf94ab9",
+            "size": "1442902",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Hillshade,  (ArcGrid Format)",
+            "format": "wcs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/plain",
+            "cache_url": null,
+            "name": "merged_hillshade_wgs84.ArcGrid",
+            "created": "2014-03-12T14:53:23.250933",
+            "url": "http://maps.data.ug/geoserver/wcs?crs=EPSG%3A4326&service=WCS&format=ArcGrid&request=GetCoverage&height=550&width=526&version=1.0.0&BBox=29.5495833%2C-1.520416661025001%2C35.070416631125%2C4.25041667&Coverage=geonode%3Amerged_hillshade_wgs84",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "265df94c-effa-43ab-b923-3895e9cbf8f1",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "b973de18-7c5e-422b-81cb-cbbbc80ae40f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:34:24.459136",
+            "webstore_last_updated": null,
+            "id": "1fdd46c4-8606-461e-bcd4-8ab9e3e2cb45",
+            "size": "289968",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Hillshade,  (GeoTIFF Format)",
+            "format": "wcs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/tiff",
+            "cache_url": null,
+            "name": "merged_hillshade_wgs84.GeoTIFF",
+            "created": "2014-03-12T14:53:23.250938",
+            "url": "http://maps.data.ug/geoserver/wcs?crs=EPSG%3A4326&service=WCS&format=GeoTIFF&request=GetCoverage&height=550&width=526&version=1.0.0&BBox=29.5495833%2C-1.520416661025001%2C35.070416631125%2C4.25041667&Coverage=geonode%3Amerged_hillshade_wgs84",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "265df94c-effa-43ab-b923-3895e9cbf8f1",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "b973de18-7c5e-422b-81cb-cbbbc80ae40f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:34:24.459136",
+            "webstore_last_updated": null,
+            "id": "7851cd97-7aac-4d1b-b5fc-5dfc379a10b5",
+            "size": "200",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Hillshade,  (Gtopo30 Format)",
+            "format": "wcs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.ogc.se_xml",
+            "cache_url": null,
+            "name": "merged_hillshade_wgs84.Gtopo30",
+            "created": "2014-03-12T14:53:23.250942",
+            "url": "http://maps.data.ug/geoserver/wcs?crs=EPSG%3A4326&service=WCS&format=Gtopo30&request=GetCoverage&height=550&width=526&version=1.0.0&BBox=29.5495833%2C-1.520416661025001%2C35.070416631125%2C4.25041667&Coverage=geonode%3Amerged_hillshade_wgs84",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "265df94c-effa-43ab-b923-3895e9cbf8f1",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "b973de18-7c5e-422b-81cb-cbbbc80ae40f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:34:24.459136",
+            "webstore_last_updated": null,
+            "id": "0be9fd44-692c-4b2e-9858-8efb5a0093f9",
+            "size": "204",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Hillshade,  (ImageMosaic Format)",
+            "format": "wcs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.ogc.se_xml",
+            "cache_url": null,
+            "name": "merged_hillshade_wgs84.ImageMosaic",
+            "created": "2014-03-12T14:53:23.250945",
+            "url": "http://maps.data.ug/geoserver/wcs?crs=EPSG%3A4326&service=WCS&format=ImageMosaic&request=GetCoverage&height=550&width=526&version=1.0.0&BBox=29.5495833%2C-1.520416661025001%2C35.070416631125%2C4.25041667&Coverage=geonode%3Amerged_hillshade_wgs84",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 4,
+            "revision_id": "265df94c-effa-43ab-b923-3895e9cbf8f1",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "b973de18-7c5e-422b-81cb-cbbbc80ae40f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:34:24.459136",
+            "webstore_last_updated": null,
+            "id": "dce4beda-f9c9-486b-809c-d5f20e694f53",
+            "size": "1865",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Hillshade,  (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "merged_hillshade_wgs84.kml",
+            "created": "2014-03-12T14:53:23.250948",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Amerged_hillshade_wgs84&mode=download",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 5,
+            "revision_id": "265df94c-effa-43ab-b923-3895e9cbf8f1",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "b973de18-7c5e-422b-81cb-cbbbc80ae40f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:34:24.459136",
+            "webstore_last_updated": null,
+            "id": "c4ee5fa8-b287-41dc-89d4-fd7dee1f8226",
+            "size": "1863",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Hillshade,  (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "merged_hillshade_wgs84.kml",
+            "created": "2014-03-12T14:53:23.250952",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Amerged_hillshade_wgs84&mode=refresh",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 6,
+            "revision_id": "265df94c-effa-43ab-b923-3895e9cbf8f1",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "b973de18-7c5e-422b-81cb-cbbbc80ae40f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:34:24.459136",
+            "webstore_last_updated": null,
+            "id": "a2921bcb-0a7f-4d16-98d1-41efe9306529",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Hillshade,  (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "merged_hillshade_wgs84.tiles",
+            "created": "2014-03-12T14:53:23.250955",
+            "url": "http://maps.data.ug/geoserver/gwc/service/gmaps?layers=geonode:merged_hillshade_wgs84&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 7,
+            "revision_id": "265df94c-effa-43ab-b923-3895e9cbf8f1",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "b973de18-7c5e-422b-81cb-cbbbc80ae40f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:34:24.459136",
+            "webstore_last_updated": null,
+            "id": "51d8c135-9a6e-4ad6-a53a-20f6cfea3a51",
+            "size": "133385",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Hillshade,  (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "merged_hillshade_wgs84.jpg",
+            "created": "2014-03-12T14:53:23.250958",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Amerged_hillshade_wgs84&width=526&bbox=29.5495833%2C-1.520416661025001%2C35.070416631125%2C4.25041667&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 8,
+            "revision_id": "265df94c-effa-43ab-b923-3895e9cbf8f1",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "b973de18-7c5e-422b-81cb-cbbbc80ae40f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:34:24.459136",
+            "webstore_last_updated": null,
+            "id": "e32874bc-aed2-421b-ac45-56569514a53e",
+            "size": "251491",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Hillshade,  (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "merged_hillshade_wgs84.pdf",
+            "created": "2014-03-12T14:53:23.250962",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Amerged_hillshade_wgs84&width=526&bbox=29.5495833%2C-1.520416661025001%2C35.070416631125%2C4.25041667&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "265df94c-effa-43ab-b923-3895e9cbf8f1",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "b973de18-7c5e-422b-81cb-cbbbc80ae40f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:34:24.459136",
+            "webstore_last_updated": null,
+            "id": "8c738bf1-8749-4fd4-a3f6-e4725cc0e1bf",
+            "size": "162862",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Hillshade,  (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "merged_hillshade_wgs84.png",
+            "created": "2014-03-12T14:53:23.250965",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Amerged_hillshade_wgs84&width=526&bbox=29.5495833%2C-1.520416661025001%2C35.070416631125%2C4.25041667&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 10,
+            "revision_id": "265df94c-effa-43ab-b923-3895e9cbf8f1",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 11,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Physical",
+            "name": "Physical",
+            "revision_timestamp": "2014-11-04T22:34:24.459136",
+            "state": "active",
+            "id": "22708169-ba07-4e7c-a53f-f676ce36b428"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Topology",
+            "name": "Topology",
+            "revision_timestamp": "2014-11-04T22:34:24.459136",
+            "state": "active",
+            "id": "ccbd6648-012a-42df-b4e3-f56782a96320"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:34:24.459136",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:34:24.459136",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:34:24.459136",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:34:24.459136",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:34:24.459136",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:34:24.459136",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:34:24.459136",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 14,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 9,
+    "name": "hillshade",
+    "isopen": false,
+    "url": null,
+    "notes": "The dataset is a Landsat ETM GeoTiff file. The dataset was downloaded on the 01.08.2012 from the Geographical Information Support Team(GIST) repository of the University of Georgia at\nhttps://gistdata.itos.uga.edu/ . The hillshade was created using GDAL tools for image analysis.",
+    "title": "Hillshade,",
+    "extras": [
+        {
+            "value": "[\"Unknown\"]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "265df94c-effa-43ab-b923-3895e9cbf8f1",
+                "package_id": "ef31af49-0622-4b05-9f5f-9b144b6ffe4e"
+            }
+        },
+        {
+            "value": "35.0704166311",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "265df94c-effa-43ab-b923-3895e9cbf8f1",
+                "package_id": "ef31af49-0622-4b05-9f5f-9b144b6ffe4e"
+            }
+        },
+        {
+            "value": "4.2504166700",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "ef31af49-0622-4b05-9f5f-9b144b6ffe4e",
+                "revision_id": "265df94c-effa-43ab-b923-3895e9cbf8f1"
+            }
+        },
+        {
+            "value": "-1.5204166610",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "265df94c-effa-43ab-b923-3895e9cbf8f1",
+                "package_id": "ef31af49-0622-4b05-9f5f-9b144b6ffe4e"
+            }
+        },
+        {
+            "value": "29.5495833000",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "265df94c-effa-43ab-b923-3895e9cbf8f1",
+                "package_id": "ef31af49-0622-4b05-9f5f-9b144b6ffe4e"
+            }
+        },
+        {
+            "value": "katy@mountbatten.net",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "ef31af49-0622-4b05-9f5f-9b144b6ffe4e",
+                "revision_id": "265df94c-effa-43ab-b923-3895e9cbf8f1"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "ef31af49-0622-4b05-9f5f-9b144b6ffe4e",
+                "revision_id": "265df94c-effa-43ab-b923-3895e9cbf8f1"
+            }
+        },
+        {
+            "value": "[{\"type\": \"creation\", \"value\": \"2014-02-20T03:24:29Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "ef31af49-0622-4b05-9f5f-9b144b6ffe4e",
+                "revision_id": "265df94c-effa-43ab-b923-3895e9cbf8f1"
+            }
+        },
+        {
+            "value": "unknown",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "ef31af49-0622-4b05-9f5f-9b144b6ffe4e",
+                "revision_id": "265df94c-effa-43ab-b923-3895e9cbf8f1"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Hillshade, '",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "ef31af49-0622-4b05-9f5f-9b144b6ffe4e",
+                "revision_id": "265df94c-effa-43ab-b923-3895e9cbf8f1"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "ef31af49-0622-4b05-9f5f-9b144b6ffe4e",
+                "revision_id": "265df94c-effa-43ab-b923-3895e9cbf8f1"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "265df94c-effa-43ab-b923-3895e9cbf8f1",
+                "package_id": "ef31af49-0622-4b05-9f5f-9b144b6ffe4e"
+            }
+        },
+        {
+            "value": "cc881e70-9a10-11e3-b835-4962fda148dc",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "265df94c-effa-43ab-b923-3895e9cbf8f1",
+                "package_id": "ef31af49-0622-4b05-9f5f-9b144b6ffe4e"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "265df94c-effa-43ab-b923-3895e9cbf8f1",
+                "package_id": "ef31af49-0622-4b05-9f5f-9b144b6ffe4e"
+            }
+        },
+        {
+            "value": "2014-02-20T03:24:29Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "ef31af49-0622-4b05-9f5f-9b144b6ffe4e",
+                "revision_id": "265df94c-effa-43ab-b923-3895e9cbf8f1"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "265df94c-effa-43ab-b923-3895e9cbf8f1",
+                "package_id": "ef31af49-0622-4b05-9f5f-9b144b6ffe4e"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "ef31af49-0622-4b05-9f5f-9b144b6ffe4e",
+                "revision_id": "265df94c-effa-43ab-b923-3895e9cbf8f1"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "ef31af49-0622-4b05-9f5f-9b144b6ffe4e",
+                "revision_id": "265df94c-effa-43ab-b923-3895e9cbf8f1"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "ef31af49-0622-4b05-9f5f-9b144b6ffe4e",
+                "revision_id": "265df94c-effa-43ab-b923-3895e9cbf8f1"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.5495833, -1.520416661], [35.0704166311, -1.520416661], [35.0704166311, 4.25041667], [29.5495833, 4.25041667], [29.5495833, -1.520416661]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "265df94c-effa-43ab-b923-3895e9cbf8f1",
+                "package_id": "ef31af49-0622-4b05-9f5f-9b144b6ffe4e"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "ef31af49-0622-4b05-9f5f-9b144b6ffe4e",
+                "revision_id": "265df94c-effa-43ab-b923-3895e9cbf8f1"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "265df94c-effa-43ab-b923-3895e9cbf8f1",
+                "package_id": "ef31af49-0622-4b05-9f5f-9b144b6ffe4e"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "265df94c-effa-43ab-b923-3895e9cbf8f1",
+                "package_id": "ef31af49-0622-4b05-9f5f-9b144b6ffe4e"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "265df94c-effa-43ab-b923-3895e9cbf8f1"
+}

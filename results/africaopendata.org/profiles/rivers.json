@@ -1,0 +1,668 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:28:34.286560",
+    "id": "9384295f-30b5-4209-95ca-4b04518c12dc",
+    "metadata_created": "2014-11-04T22:28:34.286560",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:49:51.145814",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "e3f938e9-e573-4f23-a412-3ab1eae59f85",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:34.286560",
+            "webstore_last_updated": null,
+            "id": "b365f18a-3fad-4dbd-b734-4e480fb2a2cc",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Online link to the 'Rivers' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-10T17:59:00.438977",
+            "url": "http://maps.nemaug.org/layers/geonode:rivers",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "5ba3b120-0c38-4ad3-985e-70a345dc8a7b",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "e3f938e9-e573-4f23-a412-3ab1eae59f85",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:51.145814",
+            "webstore_last_updated": null,
+            "id": "ae6c8771-a37e-4374-b93b-6afc67f39066",
+            "size": "424",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Rivers (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "rivers.zip",
+            "created": "2014-03-10T17:59:00.439005",
+            "url": "http://maps.nemaug.org/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Arivers&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T00:58:00.578365",
+            "position": 1,
+            "revision_id": "c87cc394-7cc9-4e40-96f3-4f671e0f7a2f",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e3f938e9-e573-4f23-a412-3ab1eae59f85",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:51.145814",
+            "webstore_last_updated": null,
+            "id": "0b59d5e9-60c4-46ff-ac9c-7647d5693631",
+            "size": "424",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Rivers (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "rivers.gml",
+            "created": "2014-03-10T17:59:00.439012",
+            "url": "http://maps.nemaug.org/geoserver/wfs?typename=geonode%3Arivers&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T00:58:01.684298",
+            "position": 2,
+            "revision_id": "c87cc394-7cc9-4e40-96f3-4f671e0f7a2f",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e3f938e9-e573-4f23-a412-3ab1eae59f85",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:51.145814",
+            "webstore_last_updated": null,
+            "id": "fb6c92c1-efdc-430a-af09-bd596a111de7",
+            "size": "424",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Rivers (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "rivers.gml",
+            "created": "2014-03-10T17:59:00.439018",
+            "url": "http://maps.nemaug.org/geoserver/wfs?typename=geonode%3Arivers&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T00:57:57.394007",
+            "position": 3,
+            "revision_id": "c87cc394-7cc9-4e40-96f3-4f671e0f7a2f",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e3f938e9-e573-4f23-a412-3ab1eae59f85",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:51.145814",
+            "webstore_last_updated": null,
+            "id": "2237e8ff-8866-493a-871d-f4f7bb42f5f2",
+            "size": "424",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Rivers (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "rivers.csv",
+            "created": "2014-03-10T17:59:00.439024",
+            "url": "http://maps.nemaug.org/geoserver/wfs?typename=geonode%3Arivers&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T00:58:03.646621",
+            "position": 4,
+            "revision_id": "c87cc394-7cc9-4e40-96f3-4f671e0f7a2f",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e3f938e9-e573-4f23-a412-3ab1eae59f85",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:51.145814",
+            "webstore_last_updated": null,
+            "id": "adba2484-dbd3-4306-b247-3a1e847b3b41",
+            "size": "424",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Rivers (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "rivers.excel",
+            "created": "2014-03-10T17:59:00.439031",
+            "url": "http://maps.nemaug.org/geoserver/wfs?typename=geonode%3Arivers&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T00:57:58.508217",
+            "position": 5,
+            "revision_id": "c87cc394-7cc9-4e40-96f3-4f671e0f7a2f",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e3f938e9-e573-4f23-a412-3ab1eae59f85",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:51.145814",
+            "webstore_last_updated": null,
+            "id": "508fee95-a536-44c3-9ff5-472e8cf5020f",
+            "size": "424",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Rivers (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "rivers.json",
+            "created": "2014-03-10T17:59:00.439037",
+            "url": "http://maps.nemaug.org/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Arivers&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T00:57:56.188182",
+            "position": 6,
+            "revision_id": "c87cc394-7cc9-4e40-96f3-4f671e0f7a2f",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e3f938e9-e573-4f23-a412-3ab1eae59f85",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:51.145814",
+            "webstore_last_updated": null,
+            "id": "97d43c70-2e0f-47d9-806d-f4a8db267006",
+            "size": "438",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Rivers (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "rivers.kml",
+            "created": "2014-03-10T17:59:00.439043",
+            "url": "http://maps.nemaug.org/geoserver/wms/kml?layers=geonode%3Arivers&mode=download",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T00:58:04.573250",
+            "position": 7,
+            "revision_id": "c87cc394-7cc9-4e40-96f3-4f671e0f7a2f",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e3f938e9-e573-4f23-a412-3ab1eae59f85",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:51.145814",
+            "webstore_last_updated": null,
+            "id": "5f59d824-8209-4cd7-b91d-d767cc6a4254",
+            "size": "438",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Rivers (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "rivers.kml",
+            "created": "2014-03-10T17:59:00.439049",
+            "url": "http://maps.nemaug.org/geoserver/wms/kml?layers=geonode%3Arivers&mode=refresh",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T00:57:59.580941",
+            "position": 8,
+            "revision_id": "c87cc394-7cc9-4e40-96f3-4f671e0f7a2f",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e3f938e9-e573-4f23-a412-3ab1eae59f85",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:34.286560",
+            "webstore_last_updated": null,
+            "id": "9878bea6-827f-42f9-8d03-d42cf183d9e0",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Rivers (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "rivers.tiles",
+            "created": "2014-03-10T17:59:00.439055",
+            "url": "http://maps.nemaug.org/geoserver/gwc/service/gmaps?layers=geonode:rivers&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "5ba3b120-0c38-4ad3-985e-70a345dc8a7b",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "e3f938e9-e573-4f23-a412-3ab1eae59f85",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:51.145814",
+            "webstore_last_updated": null,
+            "id": "84c060c3-bb8b-4837-ba2d-0ecab90741c4",
+            "size": "438",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Rivers (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "rivers.pdf",
+            "created": "2014-03-10T17:59:00.439067",
+            "url": "http://maps.nemaug.org/geoserver/wms?layers=geonode%3Arivers&width=268&bbox=29.57967359940042%2C-1.277958336998347%2C32.06908631764127%2C3.824947443404873&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-03-10T18:15:49.918976",
+            "position": 10,
+            "revision_id": "c87cc394-7cc9-4e40-96f3-4f671e0f7a2f",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e3f938e9-e573-4f23-a412-3ab1eae59f85",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:51.145814",
+            "webstore_last_updated": null,
+            "id": "2bc284f7-5d5f-484d-9a92-0d8483a228e5",
+            "size": "438",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Rivers (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "rivers.png",
+            "created": "2014-03-10T17:59:00.439073",
+            "url": "http://maps.nemaug.org/geoserver/wms?layers=geonode%3Arivers&width=268&bbox=29.57967359940042%2C-1.277958336998347%2C32.06908631764127%2C3.824947443404873&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T00:58:02.786260",
+            "position": 11,
+            "revision_id": "c87cc394-7cc9-4e40-96f3-4f671e0f7a2f",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 12,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Hydrology",
+            "name": "Hydrology",
+            "revision_timestamp": "2014-11-04T22:28:34.286560",
+            "state": "active",
+            "id": "a07eebd5-528f-4397-b6c4-31f1ea1a3b52"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Physical",
+            "name": "Physical",
+            "revision_timestamp": "2014-11-04T22:28:34.286560",
+            "state": "active",
+            "id": "22708169-ba07-4e7c-a53f-f676ce36b428"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "River",
+            "name": "River",
+            "revision_timestamp": "2014-11-04T22:28:34.286560",
+            "state": "active",
+            "id": "6a725f1c-bdc0-40fb-b715-343920d267e6"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:28:34.286560",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:28:34.286560",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:28:34.286560",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:28:34.286560",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:28:34.286560",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:28:34.286560",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:28:34.286560",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 1,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 10,
+    "name": "rivers",
+    "isopen": false,
+    "url": null,
+    "notes": "Rivers along the Albertine Graben region.",
+    "title": "Rivers",
+    "extras": [
+        {
+            "value": "[\"Non provided\"]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "5ba3b120-0c38-4ad3-985e-70a345dc8a7b",
+                "package_id": "9384295f-30b5-4209-95ca-4b04518c12dc"
+            }
+        },
+        {
+            "value": "32.0690863176",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "5ba3b120-0c38-4ad3-985e-70a345dc8a7b",
+                "package_id": "9384295f-30b5-4209-95ca-4b04518c12dc"
+            }
+        },
+        {
+            "value": "3.8249474434",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "9384295f-30b5-4209-95ca-4b04518c12dc",
+                "revision_id": "5ba3b120-0c38-4ad3-985e-70a345dc8a7b"
+            }
+        },
+        {
+            "value": "-1.2779583370",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "5ba3b120-0c38-4ad3-985e-70a345dc8a7b",
+                "package_id": "9384295f-30b5-4209-95ca-4b04518c12dc"
+            }
+        },
+        {
+            "value": "29.5796735994",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "5ba3b120-0c38-4ad3-985e-70a345dc8a7b",
+                "package_id": "9384295f-30b5-4209-95ca-4b04518c12dc"
+            }
+        },
+        {
+            "value": "ketty@mountbatten.net",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "9384295f-30b5-4209-95ca-4b04518c12dc",
+                "revision_id": "5ba3b120-0c38-4ad3-985e-70a345dc8a7b"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "9384295f-30b5-4209-95ca-4b04518c12dc",
+                "revision_id": "5ba3b120-0c38-4ad3-985e-70a345dc8a7b"
+            }
+        },
+        {
+            "value": "[{\"type\": \"creation\", \"value\": \"2010-02-10T00:00:00Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "9384295f-30b5-4209-95ca-4b04518c12dc",
+                "revision_id": "5ba3b120-0c38-4ad3-985e-70a345dc8a7b"
+            }
+        },
+        {
+            "value": "unknown",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "9384295f-30b5-4209-95ca-4b04518c12dc",
+                "revision_id": "5ba3b120-0c38-4ad3-985e-70a345dc8a7b"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Rivers'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "9384295f-30b5-4209-95ca-4b04518c12dc",
+                "revision_id": "5ba3b120-0c38-4ad3-985e-70a345dc8a7b"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "9384295f-30b5-4209-95ca-4b04518c12dc",
+                "revision_id": "5ba3b120-0c38-4ad3-985e-70a345dc8a7b"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "5ba3b120-0c38-4ad3-985e-70a345dc8a7b",
+                "package_id": "9384295f-30b5-4209-95ca-4b04518c12dc"
+            }
+        },
+        {
+            "value": "32240292-98a1-11e3-919a-22000a1cecb5",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "5ba3b120-0c38-4ad3-985e-70a345dc8a7b",
+                "package_id": "9384295f-30b5-4209-95ca-4b04518c12dc"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "5ba3b120-0c38-4ad3-985e-70a345dc8a7b",
+                "package_id": "9384295f-30b5-4209-95ca-4b04518c12dc"
+            }
+        },
+        {
+            "value": "2010-02-10T00:00:00Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "9384295f-30b5-4209-95ca-4b04518c12dc",
+                "revision_id": "5ba3b120-0c38-4ad3-985e-70a345dc8a7b"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "5ba3b120-0c38-4ad3-985e-70a345dc8a7b",
+                "package_id": "9384295f-30b5-4209-95ca-4b04518c12dc"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "9384295f-30b5-4209-95ca-4b04518c12dc",
+                "revision_id": "5ba3b120-0c38-4ad3-985e-70a345dc8a7b"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "9384295f-30b5-4209-95ca-4b04518c12dc",
+                "revision_id": "5ba3b120-0c38-4ad3-985e-70a345dc8a7b"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "9384295f-30b5-4209-95ca-4b04518c12dc",
+                "revision_id": "5ba3b120-0c38-4ad3-985e-70a345dc8a7b"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.5796735994, -1.277958337], [32.0690863176, -1.277958337], [32.0690863176, 3.8249474434], [29.5796735994, 3.8249474434], [29.5796735994, -1.277958337]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "5ba3b120-0c38-4ad3-985e-70a345dc8a7b",
+                "package_id": "9384295f-30b5-4209-95ca-4b04518c12dc"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "9384295f-30b5-4209-95ca-4b04518c12dc",
+                "revision_id": "5ba3b120-0c38-4ad3-985e-70a345dc8a7b"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "5ba3b120-0c38-4ad3-985e-70a345dc8a7b",
+                "package_id": "9384295f-30b5-4209-95ca-4b04518c12dc"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "5ba3b120-0c38-4ad3-985e-70a345dc8a7b",
+                "package_id": "9384295f-30b5-4209-95ca-4b04518c12dc"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "5ba3b120-0c38-4ad3-985e-70a345dc8a7b"
+}

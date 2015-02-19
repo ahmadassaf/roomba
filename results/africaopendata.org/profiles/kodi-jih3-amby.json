@@ -1,0 +1,106 @@
+{
+    "license_title": null,
+    "maintainer": "Laban",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:46:36.366304",
+    "id": "f5661946-042d-4305-9040-cd4df7429883",
+    "metadata_created": "2012-09-11T13:46:36.366304",
+    "owner_org": null,
+    "metadata_modified": "2013-03-14T10:43:39.468714",
+    "author": "Laban",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "6facf79f-a05b-45cf-8c78-ce772c4ac59a",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-14T10:43:39.468714",
+            "webstore_last_updated": null,
+            "id": "09841f62-d611-4ae9-9aed-ff2dfe8b24eb",
+            "size": "108",
+            "state": "active",
+            "hash": "c88b54bd40e5d45da38d3c55c5873c4e984bba9f",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "VISION 2030.csv",
+            "created": "2012-09-11T13:46:36.410407",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T154921/jih3-amby.csv",
+            "webstore_url": null,
+            "last_modified": "2013-03-14T10:43:39.379602",
+            "position": 0,
+            "revision_id": "819bc09c-0331-46e3-8392-8b9a6e707688",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:46:36.366304",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:46:36.366304",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 55,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "kodi-jih3-amby",
+    "isopen": false,
+    "url": null,
+    "notes": "VISION 2030 BLUEPRINT",
+    "title": "VISION 2030",
+    "extras": [
+        {
+            "value": "Economy",
+            "key": "category",
+            "__extras": {
+                "revision_id": "cefdc1d2-09ce-4167-b3a1-b297f305fb81",
+                "package_id": "f5661946-042d-4305-9040-cd4df7429883"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "cefdc1d2-09ce-4167-b3a1-b297f305fb81",
+                "package_id": "f5661946-042d-4305-9040-cd4df7429883"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "cefdc1d2-09ce-4167-b3a1-b297f305fb81"
+}

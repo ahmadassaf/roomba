@@ -1,0 +1,268 @@
+{
+    "license_title": "Creative Commons Attribution 4.0",
+    "maintainer": "Ton Zijlstra",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "tzijlstra@centrum.amsterdam.nl",
+    "revision_timestamp": "2014-10-22T07:39:57.233041",
+    "id": "fbb092f4-a3c1-4cab-91ff-a6e48b74bc50",
+    "metadata_created": "2013-06-27T12:23:58.661853",
+    "owner_org": null,
+    "metadata_modified": "2014-10-22T07:42:02.498842",
+    "author": "Stadsdeel Centrum",
+    "author_email": "m.schoneveld@amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "91327991-28cf-48e6-b7c3-3d0de172ded9",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-10-22T07:42:02.498842",
+            "webstore_last_updated": null,
+            "id": "fe78e71e-96d4-4e4d-a17d-94d6f99975e5",
+            "size": "72662",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Afvalbakken (Shapefile in RD)",
+            "format": "ZIP",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "AFVALBAKKEN_2013_RD.zip",
+            "created": "2014-10-22T09:42:02.547041",
+            "url": "http://www.amsterdamopendata.nl/documents/10180/25294/AFVALBAKKEN_2013_RD.zip",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "b0f36d12-49a7-4a1c-ba6d-cd561e737d7e",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "91327991-28cf-48e6-b7c3-3d0de172ded9",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-10-22T07:42:02.498842",
+            "webstore_last_updated": null,
+            "id": "83ee76af-4997-4ffc-936c-946cb744582c",
+            "size": "70867",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Afvalbakken (Shapefile in WGS84)",
+            "format": "ZIP",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "AFVALBAKKEN_2013_WGS84.zip",
+            "created": "2014-10-22T09:42:02.547064",
+            "url": "http://www.amsterdamopendata.nl/documents/10180/25294/AFVALBAKKEN_2013_WGS84.zip",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "b0f36d12-49a7-4a1c-ba6d-cd561e737d7e",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "91327991-28cf-48e6-b7c3-3d0de172ded9",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-10-22T07:42:02.498842",
+            "webstore_last_updated": null,
+            "id": "6eed5607-4231-411f-9817-4d2fbc292812",
+            "size": "500720",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "afvalbakken met geocoordinaten in csv",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "afvalbakken_stadsdeel_centrum.csv",
+            "created": "2014-10-22T09:42:02.547070",
+            "url": "http://www.amsterdamopendata.nl/documents/10180/25294/afvalbakken_stadsdeel_centrum.csv",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "b0f36d12-49a7-4a1c-ba6d-cd561e737d7e",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "91327991-28cf-48e6-b7c3-3d0de172ded9",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-10-22T07:42:02.498842",
+            "webstore_last_updated": null,
+            "id": "08df578a-8e30-4855-b7ee-7c03f9152d0a",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Afvalbakken (via CitySDK)",
+            "format": "url",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "http://api.citysdk.waag.org/nodes?layer=amsterdam.sdc.afvalbakken&geom",
+            "created": "2014-10-22T09:42:02.547076",
+            "url": "http://api.citysdk.waag.org/nodes?layer=amsterdam.sdc.afvalbakken&geom",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "b0f36d12-49a7-4a1c-ba6d-cd561e737d7e",
+            "resource_type": "api"
+        }
+    ],
+    "num_resources": 4,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "afval",
+            "name": "afval",
+            "revision_timestamp": "2013-06-27T12:23:58.661853",
+            "state": "active",
+            "id": "aea68038-6073-4b38-98f5-6304d8958acb"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "afvalbak",
+            "name": "afvalbak",
+            "revision_timestamp": "2013-06-27T12:23:58.661853",
+            "state": "active",
+            "id": "77aa91f9-eb0c-462a-92c8-41ca93a3bf71"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "afvalbakken",
+            "name": "afvalbakken",
+            "revision_timestamp": "2013-06-27T12:23:58.661853",
+            "state": "active",
+            "id": "8cb690ad-16d1-45cf-ad0b-7e6dd0a6632c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "centrum",
+            "name": "centrum",
+            "revision_timestamp": "2013-06-27T12:23:58.661853",
+            "state": "active",
+            "id": "cd33de4c-e1e1-49e1-89c7-75c996f8de99"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Openbare ruimte & groen",
+            "description": "",
+            "name": "openbare-ruimte-groen",
+            "id": "5ef8ea8a-6f09-4d17-9e16-bb57bba25272"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "afvalbakken_stadsdeel_centrum",
+    "isopen": false,
+    "url": null,
+    "notes": "Overzicht val alle afvalbakken in stadsdeel Centrum. Deze data is ook beschikbaar via CitySDK (api). Eenmalige status quo.",
+    "title": "Afvalbakken Stadsdeel Centrum",
+    "extras": [
+        {
+            "value": "m.schoneveld@amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "fbb092f4-a3c1-4cab-91ff-a6e48b74bc50",
+                "revision_id": "084d106d-a79c-46aa-8ad2-3f78c24d6698"
+            }
+        },
+        {
+            "value": "Marc Schoneveld",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "bf26cfb5-fb69-42a4-838d-21bae2c92309",
+                "package_id": "fbb092f4-a3c1-4cab-91ff-a6e48b74bc50"
+            }
+        },
+        {
+            "value": "27/06/2013",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "bf26cfb5-fb69-42a4-838d-21bae2c92309",
+                "package_id": "fbb092f4-a3c1-4cab-91ff-a6e48b74bc50"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "bf26cfb5-fb69-42a4-838d-21bae2c92309",
+                "package_id": "fbb092f4-a3c1-4cab-91ff-a6e48b74bc50"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "fbb092f4-a3c1-4cab-91ff-a6e48b74bc50",
+                "revision_id": "bf26cfb5-fb69-42a4-838d-21bae2c92309"
+            }
+        },
+        {
+            "value": "31/08/2013",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "fbb092f4-a3c1-4cab-91ff-a6e48b74bc50",
+                "revision_id": "084d106d-a79c-46aa-8ad2-3f78c24d6698"
+            }
+        },
+        {
+            "value": "Geen updates",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "084d106d-a79c-46aa-8ad2-3f78c24d6698",
+                "package_id": "fbb092f4-a3c1-4cab-91ff-a6e48b74bc50"
+            }
+        },
+        {
+            "value": "http://www.centrum.amsterdam.nl/algemene_onderdelen/overigen/open-data-stadsdeel/",
+            "key": "website",
+            "__extras": {
+                "package_id": "fbb092f4-a3c1-4cab-91ff-a6e48b74bc50",
+                "revision_id": "bf26cfb5-fb69-42a4-838d-21bae2c92309"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "084d106d-a79c-46aa-8ad2-3f78c24d6698",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

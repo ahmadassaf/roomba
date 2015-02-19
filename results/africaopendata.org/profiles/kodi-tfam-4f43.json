@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:55:05.920802",
+    "id": "adbb1121-7a7f-4d20-b604-9549d7c7423c",
+    "metadata_created": "2012-09-11T13:55:05.920802",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:03:43.438967",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "f0621591-8de7-4f42-a6c2-f5ffc38ac275",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:03:43.438967",
+            "webstore_last_updated": "2013-10-10T12:03:43.370890",
+            "id": "82ec73e6-744a-460b-8a09-4d5e51f0025a",
+            "size": "4383",
+            "state": "active",
+            "hash": "e607f02c5ffe234dd0abb5cbd5da6ad540732530",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Percentage distribution Population by who Diagnosed the Illness by district - 2005/6.csv",
+            "created": "2012-09-11T13:55:05.959137",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155750/tfam-4f43.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:43:24.022432",
+            "position": 0,
+            "revision_id": "db37c011-c18f-4f9f-9735-ae74262dbcd9",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "health kihbs diagnosis district",
+            "name": "health kihbs diagnosis district",
+            "revision_timestamp": "2012-09-11T13:55:05.920802",
+            "state": "active",
+            "id": "2e864442-f5f3-4435-8063-9ffc29b6d981"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:55:05.920802",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:55:05.920802",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 53,
+        "recent": 7
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-tfam-4f43",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "KIHBS Table 5.3: Percentage distribution Population by who Diagnosed the Illness by District",
+    "title": "Percentage distribution Population by who Diagnosed the Illness by district - 2005/6",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "b469ccd2-0300-43af-b24b-5e1ccae6e0e3",
+                "package_id": "adbb1121-7a7f-4d20-b604-9549d7c7423c"
+            }
+        },
+        {
+            "value": "    Environment And Natural Resources",
+            "key": "category",
+            "__extras": {
+                "revision_id": "b469ccd2-0300-43af-b24b-5e1ccae6e0e3",
+                "package_id": "adbb1121-7a7f-4d20-b604-9549d7c7423c"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "b469ccd2-0300-43af-b24b-5e1ccae6e0e3",
+                "package_id": "adbb1121-7a7f-4d20-b604-9549d7c7423c"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "b469ccd2-0300-43af-b24b-5e1ccae6e0e3"
+}

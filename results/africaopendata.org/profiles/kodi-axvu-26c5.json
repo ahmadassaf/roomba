@@ -1,0 +1,146 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Kenya Open Data Bot",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T11:50:54.128157",
+    "id": "06e8035f-61a6-466e-9f14-76a6a182232e",
+    "metadata_created": "2012-09-10T11:50:54.128157",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:20:47.721110",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "3e4196f7-c2fb-4fcd-afe1-1818f48c9c10",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:20:47.721110",
+            "webstore_last_updated": "2013-10-10T12:20:47.652393",
+            "id": "6489d943-4347-46c8-8608-3a7bb3e0e62d",
+            "size": "1051",
+            "state": "active",
+            "hash": "264f93dffd3554734c9a299684b41b7b4f2a12aa",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Per Capita County Expenditures: Nakuru.csv",
+            "created": "2012-09-11T13:26:04.546558",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T152849/axvu-26c5.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:25:24.461293",
+            "position": 0,
+            "revision_id": "2c5f8056-e5e2-4d17-b996-cb660ea4ca6b",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "cdf",
+            "name": "cdf",
+            "revision_timestamp": "2012-09-10T11:50:54.128157",
+            "state": "active",
+            "id": "e4f787d6-ec60-483a-b3b3-f941cf48c3b4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "county",
+            "name": "county",
+            "revision_timestamp": "2012-09-10T11:50:54.128157",
+            "state": "active",
+            "id": "858f3acf-2c66-4fd9-9dc2-32e4f12121a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "expenditures",
+            "name": "expenditures",
+            "revision_timestamp": "2012-09-10T11:50:54.128157",
+            "state": "active",
+            "id": "44c63fed-5be4-49aa-b2a5-1e7baf93d961"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T11:50:54.128157",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T11:50:54.128157",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "local authorities",
+            "name": "local authorities",
+            "revision_timestamp": "2012-09-10T11:50:54.128157",
+            "state": "active",
+            "id": "ece507fe-ec49-44f8-848e-39df75ac1866"
+        }
+    ],
+    "tracking_summary": {
+        "total": 67,
+        "recent": 4
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "kodi-axvu-26c5",
+    "isopen": true,
+    "url": null,
+    "notes": "Local Authority and Constituency Development Fund Expenditures, County estimates, Kenya Shillings",
+    "title": "Per Capita County Expenditures: Nakuru",
+    "extras": [
+        {
+            "value": "Ministry of Local Government",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "1d985fe3-c738-438a-8969-e22217ce9060",
+                "package_id": "06e8035f-61a6-466e-9f14-76a6a182232e"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "1d985fe3-c738-438a-8969-e22217ce9060",
+                "package_id": "06e8035f-61a6-466e-9f14-76a6a182232e"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "1d985fe3-c738-438a-8969-e22217ce9060",
+                "package_id": "06e8035f-61a6-466e-9f14-76a6a182232e"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "1d985fe3-c738-438a-8969-e22217ce9060"
+}

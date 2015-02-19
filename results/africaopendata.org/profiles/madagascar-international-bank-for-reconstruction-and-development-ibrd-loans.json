@@ -1,0 +1,97 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-11-05T19:55:55.842098",
+    "id": "2e3dc65c-c93e-403d-8d79-1a3fbf36d257",
+    "metadata_created": "2012-11-05T19:35:46.002390",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:57:01.083098",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "0c9d2e09-a768-4797-a189-e86ea512ed16",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:57:01.083098",
+            "webstore_last_updated": "2013-10-10T10:57:01.019064",
+            "id": "85e33e19-1f58-4977-8e2f-0008561c6fd6",
+            "size": "213092",
+            "state": "active",
+            "hash": "68e5e5d4dcdfd13a3436cca328304ff791f0fb7d",
+            "description": "The International Bank for Reconstruction and Development (IBRD) loans are public and publicly guaranteed debt extended by the World Bank Group. IBRD loans are made to, or guaranteed by, countries that are members of IBRD. IBRD may also make loans to IFC. IBRD lends at market rates. Data are in U.S. dollars calculated using historical rates. This dataset contains the latest available snapshot of the Statement of Loans. The World Bank complies with all sanctions applicable to World Bank transactions.",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "IBRD_Loans_madagascar.csv",
+            "created": "2012-11-05T19:55:49.449780",
+            "url": "http://africaopendata.org/storage/f/2012-11-05T19%3A36%3A26.808Z/ibrd-loans-madagascar.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:32:55.409121",
+            "position": 0,
+            "revision_id": "61a8f28d-100c-4fac-a81b-6c3858fc68f7",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Madagascar",
+            "name": "Madagascar",
+            "revision_timestamp": "2012-11-05T19:35:46.002390",
+            "state": "active",
+            "id": "603ced3b-7eaf-4698-b3e7-e065eddea50d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "funding",
+            "name": "funding",
+            "revision_timestamp": "2012-11-05T19:35:46.002390",
+            "state": "active",
+            "id": "83359481-7dda-4664-8d3b-11ce39576ccf"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "loans",
+            "name": "loans",
+            "revision_timestamp": "2012-11-05T19:35:46.002390",
+            "state": "active",
+            "id": "ab029346-93af-48b5-b680-6fedfc8b0fb3"
+        }
+    ],
+    "tracking_summary": {
+        "total": 100,
+        "recent": 8
+    },
+    "groups": [
+        {
+            "title": "Madagascar",
+            "description": "Datasets on the Republic of Madagscar",
+            "name": "madagascar",
+            "id": "a8e2a473-95df-468f-95b1-9a0fc5d9b69a"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "madagascar-international-bank-for-reconstruction-and-development-ibrd-loans",
+    "isopen": true,
+    "url": null,
+    "notes": "The International Bank for Reconstruction and Development (IBRD) loans are public and publicly guaranteed debt extended by the World Bank Group. IBRD loans are made to, or guaranteed by, countries that are members of IBRD. IBRD may also make loans to IFC. IBRD lends at market rates. Data are in U.S. dollars calculated using historical rates. This dataset contains the latest available snapshot of the Statement of Loans. The World Bank complies with all sanctions applicable to World Bank transactions.",
+    "title": "Madagascar - International Bank for Reconstruction and Development (IBRD) loans",
+    "extras": [],
+    "organization": null,
+    "revision_id": "5ae043f7-6a28-4e01-8ed1-b6da86436ad1"
+}

@@ -1,0 +1,107 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Michael Bauer",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "michael.bauer@okfn.org",
+    "revision_timestamp": "2013-07-24T10:33:50.804328",
+    "id": "82905fd4-3670-4c7e-9027-93c711b11595",
+    "metadata_created": "2013-07-24T10:26:28.821363",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:44:51.900449",
+    "author": "Worldbank",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "afc66c5e-45dd-414e-b8f2-186a2761cb83",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:44:51.900449",
+            "webstore_last_updated": "2013-10-10T10:44:51.839756",
+            "id": "bcafe576-75bf-4671-8d72-70213672987b",
+            "size": "940099",
+            "state": "active",
+            "hash": "ae1b547245acd47180a667e737252ebeea4a8187",
+            "description": "Data from worldbank BOOST http://kenya.wb-boost.org/ downloaded 2013-07-24\r\n\r\nColumns:\r\nTop-Level Spending Units\r\nExpenditure Type\r\nSector\r\nEconomic Category\r\nSub Economic Category\r\nYear\r\nAmount\r\n",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "WB-BOOST.csv",
+            "created": "2013-07-24T10:32:00.058209",
+            "url": "http://africaopendata.org/storage/f/2013-07-25T07%3A43%3A39.573Z/wb-boost-1.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-07-25T07:44:07.861433",
+            "position": 0,
+            "revision_id": "d23b84e1-f191-4dc6-a1ab-6aea71048453",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "BOOST",
+            "name": "BOOST",
+            "revision_timestamp": "2013-07-24T10:26:28.821363",
+            "state": "active",
+            "id": "e23aa7ba-543c-4be2-9822-8e8dd5217a30"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Kenya",
+            "name": "Kenya",
+            "revision_timestamp": "2013-07-24T10:26:28.821363",
+            "state": "active",
+            "id": "d9277cd4-65d5-4e27-8e16-af4062a191de"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Spending",
+            "name": "Spending",
+            "revision_timestamp": "2013-07-24T10:26:28.821363",
+            "state": "active",
+            "id": "16d6565a-1ed0-4f55-8e37-ca84891cba3a"
+        }
+    ],
+    "tracking_summary": {
+        "total": 96,
+        "recent": 6
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "boost-kenya",
+    "isopen": false,
+    "url": null,
+    "notes": "This is government expenditure Data from the worldbank BOOST platform: http://kenya.wb-boost.org/ it contains expenditure for the years 2005-2010. It was converted to fit into OpenSpending using Refine",
+    "title": "BOOST Kenya",
+    "extras": [
+        {
+            "value": "2013-07-23",
+            "key": "Downloaded",
+            "__extras": {
+                "revision_id": "060bd6ec-2de0-4aeb-a3e7-973cddaddc69",
+                "package_id": "82905fd4-3670-4c7e-9027-93c711b11595"
+            }
+        },
+        {
+            "value": "http://kenya.wb-boost.org",
+            "key": "Source_URL",
+            "__extras": {
+                "revision_id": "060bd6ec-2de0-4aeb-a3e7-973cddaddc69",
+                "package_id": "82905fd4-3670-4c7e-9027-93c711b11595"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "060bd6ec-2de0-4aeb-a3e7-973cddaddc69"
+}

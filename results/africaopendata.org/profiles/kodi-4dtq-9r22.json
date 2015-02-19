@@ -1,0 +1,138 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Chris Metcalf",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:49:36.400272",
+    "id": "26edac05-90c2-4b2d-9073-e1d6874feee2",
+    "metadata_created": "2012-09-11T13:49:36.400272",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:08:49.700860",
+    "author": "Chris Metcalf",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "fa7aae35-2a17-44ad-9c43-67cfd4f3d4ac",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:08:49.700860",
+            "webstore_last_updated": "2013-10-10T12:08:49.632364",
+            "id": "96070efd-628e-46a3-85fa-445a7d7a65c5",
+            "size": "2928",
+            "state": "active",
+            "hash": "6dfefeb72457353fa487f290cbffb8a58b40073e",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Population By Age, Sex And Educational Attainment In 2020.csv",
+            "created": "2012-09-11T13:49:36.453766",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155221/4dtq-9r22.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:31:09.521785",
+            "position": 0,
+            "revision_id": "18424ec2-3613-4500-a785-2b6aae12a9ce",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "education",
+            "name": "education",
+            "revision_timestamp": "2012-09-11T13:49:36.400272",
+            "state": "active",
+            "id": "4bc98291-13cc-4baf-b090-52376fa3a429"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "gender",
+            "name": "gender",
+            "revision_timestamp": "2012-09-11T13:49:36.400272",
+            "state": "active",
+            "id": "3908e970-2242-42ae-94d3-a4445ca1c826"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:49:36.400272",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:49:36.400272",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population",
+            "name": "population",
+            "revision_timestamp": "2012-09-11T13:49:36.400272",
+            "state": "active",
+            "id": "c5e39de5-556e-4bcb-883b-5b9ec2481ae9"
+        }
+    ],
+    "tracking_summary": {
+        "total": 55,
+        "recent": 3
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "kodi-4dtq-9r22",
+    "isopen": true,
+    "url": null,
+    "notes": null,
+    "title": "Population By Age, Sex And Educational Attainment In 2020",
+    "extras": [
+        {
+            "value": "Vienna Institute: IIASA-VID Dataset",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "e5a02c15-5786-4e92-933b-8943df79cc09",
+                "package_id": "26edac05-90c2-4b2d-9073-e1d6874feee2"
+            }
+        },
+        {
+            "value": "Population",
+            "key": "category",
+            "__extras": {
+                "revision_id": "e5a02c15-5786-4e92-933b-8943df79cc09",
+                "package_id": "26edac05-90c2-4b2d-9073-e1d6874feee2"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "e5a02c15-5786-4e92-933b-8943df79cc09",
+                "package_id": "26edac05-90c2-4b2d-9073-e1d6874feee2"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "e5a02c15-5786-4e92-933b-8943df79cc09"
+}

@@ -1,0 +1,106 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-09-04T16:10:39.171720",
+    "id": "2aa7c138-610a-4dae-9198-67e5fd5c6d20",
+    "metadata_created": "2012-09-04T16:10:39.171720",
+    "owner_org": null,
+    "metadata_modified": "2014-01-25T18:32:16.298180",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": "",
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "55e1ae4c-f315-49aa-aa2d-07b82571a6f2",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-01-25T18:32:16.298180",
+            "webstore_last_updated": null,
+            "id": "6f3e03ca-0393-46f2-8081-44b272795063",
+            "size": "249143",
+            "state": "active",
+            "hash": "138a8ae8434d5c7057b07cb7e896755578027070",
+            "description": "",
+            "format": "ZIP",
+            "tracking_summary": {
+                "total": 3,
+                "recent": 1
+            },
+            "mimetype_inner": "",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "Scenic-Routes.zip",
+            "created": "2012-09-01T22:24:38.886660",
+            "url": "http://africaopendata.org/storage/f/2013-11-19T11%3A38%3A20.950Z/scenic-routes.zip",
+            "webstore_url": null,
+            "last_modified": "2014-01-25T18:32:16.223506",
+            "position": 0,
+            "revision_id": "533a3004-40eb-4cf7-9397-42c3e370a456",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "code4democracy",
+            "name": "code4democracy",
+            "revision_timestamp": "2012-09-04T16:10:39.171720",
+            "state": "active",
+            "id": "51d5a81a-0464-41a3-be13-8d6c304f24e7"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "southafrica",
+            "name": "southafrica",
+            "revision_timestamp": "2012-09-04T16:10:39.171720",
+            "state": "active",
+            "id": "16620248-4ab3-4ae8-a8e9-49ed7920fd32"
+        }
+    ],
+    "tracking_summary": {
+        "total": 91,
+        "recent": 3
+    },
+    "groups": [
+        {
+            "title": "South Africa",
+            "description": "Datasets from South Africa",
+            "name": "south-africa",
+            "id": "fc691a3f-cfce-46d6-93a0-77bdccfec89d"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "cape-town-scenic-routes",
+    "isopen": true,
+    "url": "",
+    "notes": "Shape files for scenic routes in Cape Town",
+    "title": "Cape Town Scenic Routes",
+    "extras": [
+        {
+            "value": "Coding for Democracy",
+            "key": "Source",
+            "__extras": {
+                "revision_id": "605be511-a90b-4cfc-b196-55806f7c745b",
+                "package_id": "2aa7c138-610a-4dae-9198-67e5fd5c6d20"
+            }
+        },
+        {
+            "value": "http://197.221.34.5/dataset/2aa7c138-610a-4dae-9198-67e5fd5c6d20",
+            "key": "harvest_url",
+            "__extras": {
+                "revision_id": "605be511-a90b-4cfc-b196-55806f7c745b",
+                "package_id": "2aa7c138-610a-4dae-9198-67e5fd5c6d20"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "605be511-a90b-4cfc-b196-55806f7c745b"
+}

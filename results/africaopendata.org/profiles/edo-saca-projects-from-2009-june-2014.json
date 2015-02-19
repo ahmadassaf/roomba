@@ -1,0 +1,164 @@
+{
+    "license_title": "Creative Commons Attribution 4.0",
+    "maintainer": "Open Data",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "opendata@edostate.gov.ng",
+    "revision_timestamp": "2014-11-06T16:31:56.822448",
+    "id": "8140d3a7-5620-4254-8d2f-9e3ed3262356",
+    "metadata_created": "2014-11-06T16:31:56.822448",
+    "owner_org": null,
+    "metadata_modified": "2014-12-18T16:46:23.946497",
+    "author": "Edo State Agency for the Control of Aids",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "edaf1768-a74a-41d4-97c8-c32b9b2d131a",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-18T16:46:23.946497",
+            "webstore_last_updated": "2014-11-06T16:35:04.128860",
+            "id": "40edc176-ed43-45ca-b092-90e5483b57a7",
+            "size": "1683",
+            "state": "active",
+            "hash": "",
+            "description": "Data on projects executed by the Edo State Agency for the Control of Aids, EDO-SACA, is contained in this data-set. It lists out the project tile, contractor, contract sum and the status of the contract as at June 2014.",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "EDO-SACA Projects from 2009 - June 2014.csv",
+            "created": "2014-08-29T16:48:14.483209",
+            "url": "http://data.edostate.gov.ng/storage/f/2014-08-29T16%3A47%3A36.275Z/edo-saca-projects-from-2009-june-2014.csv",
+            "webstore_url": "active",
+            "last_modified": "2014-11-06T16:35:04.946552",
+            "position": 0,
+            "revision_id": "0df2b611-b1cc-46f8-b842-f491acc0b865",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Edo State Projects",
+            "name": "Edo State Projects",
+            "revision_timestamp": "2014-11-06T16:31:56.822448",
+            "state": "active",
+            "id": "48b59ef1-2e84-497d-8f84-6e1ed7d9de01"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Edo-SACA",
+            "name": "Edo-SACA",
+            "revision_timestamp": "2014-11-06T16:31:56.822448",
+            "state": "active",
+            "id": "b5d6ca1f-6327-4e97-a6c3-beb2f179de5f"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Government Projects",
+            "name": "Government Projects",
+            "revision_timestamp": "2014-11-06T16:31:56.822448",
+            "state": "active",
+            "id": "0c9fc952-b5f3-451f-8fa8-166bec4176a7"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Ministry of Health",
+            "name": "Ministry of Health",
+            "revision_timestamp": "2014-11-06T16:31:56.822448",
+            "state": "active",
+            "id": "fa219275-f0ef-4b43-a2d5-fa2f0f5e1c7d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-06T16:31:56.822448",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "edo state",
+            "name": "edo state",
+            "revision_timestamp": "2014-11-06T16:31:56.822448",
+            "state": "active",
+            "id": "b7ac55fa-8449-416f-be17-e59c4c154e51"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "nigeria",
+            "name": "nigeria",
+            "revision_timestamp": "2014-11-06T16:31:56.822448",
+            "state": "active",
+            "id": "d5e39c15-faf7-4e35-96a0-cb88ec7becb1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open data",
+            "name": "open data",
+            "revision_timestamp": "2014-11-06T16:31:56.822448",
+            "state": "active",
+            "id": "5977073f-ae9b-420d-b468-636bfcf752de"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "west africa",
+            "name": "west africa",
+            "revision_timestamp": "2014-11-06T16:31:56.822448",
+            "state": "active",
+            "id": "82a06d2c-708d-44e5-b6c4-0aef079cbf6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "western africa",
+            "name": "western africa",
+            "revision_timestamp": "2014-11-06T16:31:56.822448",
+            "state": "active",
+            "id": "0297e4dc-f3f3-4b3a-bf41-50dd715a453a"
+        }
+    ],
+    "tracking_summary": {
+        "total": 6,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Nigeria",
+            "description": "Datasets from the Republic of Nigeria",
+            "name": "nigeria",
+            "id": "6e482307-7e70-4db4-a3f2-91db4e2b90bc"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 10,
+    "name": "edo-saca-projects-from-2009-june-2014",
+    "isopen": true,
+    "url": null,
+    "notes": "Data on projects executed by the Edo State Agency for the Control of Aids, EDO-SACA, is contained in this data-set. It lists out the project tile, contractor, contract sum and the status of the contract as at June 2014.",
+    "title": "EDO-SACA Projects from 2009 - June 2014",
+    "extras": [],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "organization": null,
+    "revision_id": "47bedce7-20e1-484e-8b3c-806527a3dc99",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

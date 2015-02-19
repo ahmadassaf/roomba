@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:40:12.728811",
+    "id": "39ac2904-3b2e-461f-bac0-0c44bbcd99bf",
+    "metadata_created": "2012-09-11T13:40:12.728811",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:12:05.293904",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "246db8df-5d1a-4e24-b524-650c7162894f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:12:05.293904",
+            "webstore_last_updated": "2013-10-10T12:12:05.226223",
+            "id": "732a6595-0b6a-4408-8f06-d79ae009b25e",
+            "size": "65576",
+            "state": "active",
+            "hash": "11bda4bdc3dbce099908e34686d304274c34d57e",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "2009 Census Vol II Table 4: Activity Status by districts.csv",
+            "created": "2012-09-11T13:40:12.766680",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T154257/c3yj-8gpj.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:35:39.708870",
+            "position": 0,
+            "revision_id": "57258563-373e-41f4-9039-f107185bc53c",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "activity status",
+            "name": "activity status",
+            "revision_timestamp": "2012-09-11T13:40:12.728811",
+            "state": "active",
+            "id": "bc12f034-f3ce-443a-8a57-628c1fe4928a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:40:12.728811",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:40:12.728811",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 64,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-c3yj-8gpj",
+    "isopen": true,
+    "url": null,
+    "notes": "KNBS Census 2009: Population Aged 5 years and above by Sex, Activity Status, rural/urban and district",
+    "title": "2009 Census Vol II Table 4: Activity Status by districts",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "b98833c0-76a5-4917-8e3e-070bd21a4efe",
+                "package_id": "39ac2904-3b2e-461f-bac0-0c44bbcd99bf"
+            }
+        },
+        {
+            "value": "Employment",
+            "key": "category",
+            "__extras": {
+                "revision_id": "b98833c0-76a5-4917-8e3e-070bd21a4efe",
+                "package_id": "39ac2904-3b2e-461f-bac0-0c44bbcd99bf"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "b98833c0-76a5-4917-8e3e-070bd21a4efe",
+                "package_id": "39ac2904-3b2e-461f-bac0-0c44bbcd99bf"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "b98833c0-76a5-4917-8e3e-070bd21a4efe"
+}

@@ -1,0 +1,669 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:28:03.075025",
+    "id": "867abac5-2073-4688-9e07-96387143a245",
+    "metadata_created": "2014-11-04T22:28:03.075025",
+    "owner_org": null,
+    "metadata_modified": "2014-11-05T00:29:17.685671",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "c35d250d-9362-4c14-b8f4-39525d79796b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-05T00:29:17.685671",
+            "webstore_last_updated": null,
+            "id": "2e538079-c990-456c-bf87-6776e84fab45",
+            "size": "42242",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "9f7b1baaf0715ec44aeb74a600fdf9df7b8201f9",
+            "description": "Online link to the 'Sex Ratio 1980' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:51:26.494793",
+            "url": "http://maps.data.ug/layers/geonode:sex_ratio_1980",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T00:29:17.490754",
+            "position": 0,
+            "revision_id": "3144abf7-874a-46b3-be90-a5879f606df6",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c35d250d-9362-4c14-b8f4-39525d79796b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:03.075025",
+            "webstore_last_updated": null,
+            "id": "d05cf548-004e-4f36-aa82-cc28224365bf",
+            "size": "101979",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Sex Ratio 1980 (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "sex_ratio_1980.zip",
+            "created": "2014-03-12T14:51:26.494817",
+            "url": "http://maps.data.ug/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Asex_ratio_1980&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "4a8fbb1f-a797-470c-8754-9f3db9ae5041",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c35d250d-9362-4c14-b8f4-39525d79796b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:03.075025",
+            "webstore_last_updated": null,
+            "id": "b860a1ad-9f77-4d51-ace5-4a8fb28abdaa",
+            "size": "220125",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Sex Ratio 1980 (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "sex_ratio_1980.gml",
+            "created": "2014-03-12T14:51:26.494822",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Asex_ratio_1980&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "4a8fbb1f-a797-470c-8754-9f3db9ae5041",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c35d250d-9362-4c14-b8f4-39525d79796b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:03.075025",
+            "webstore_last_updated": null,
+            "id": "5665b288-a675-45e9-81a2-637c872aa391",
+            "size": "296768",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Sex Ratio 1980 (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "sex_ratio_1980.csv",
+            "created": "2014-03-12T14:51:26.494829",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Asex_ratio_1980&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "4a8fbb1f-a797-470c-8754-9f3db9ae5041",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c35d250d-9362-4c14-b8f4-39525d79796b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:03.075025",
+            "webstore_last_updated": null,
+            "id": "eba633cf-4a7e-47db-bfe1-a58d85bafa12",
+            "size": "306688",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Sex Ratio 1980 (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "sex_ratio_1980.excel",
+            "created": "2014-03-12T14:51:26.494833",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Asex_ratio_1980&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 4,
+            "revision_id": "4a8fbb1f-a797-470c-8754-9f3db9ae5041",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c35d250d-9362-4c14-b8f4-39525d79796b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:03.075025",
+            "webstore_last_updated": null,
+            "id": "bf841c32-ec7a-4af2-9443-a1d698d845c8",
+            "size": "314755",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Sex Ratio 1980 (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "sex_ratio_1980.json",
+            "created": "2014-03-12T14:51:26.494836",
+            "url": "http://maps.data.ug/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Asex_ratio_1980&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 5,
+            "revision_id": "4a8fbb1f-a797-470c-8754-9f3db9ae5041",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c35d250d-9362-4c14-b8f4-39525d79796b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:03.075025",
+            "webstore_last_updated": null,
+            "id": "8a992912-2e0b-4493-b02a-b92e8bb1779e",
+            "size": "467112",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Sex Ratio 1980 (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "sex_ratio_1980.kml",
+            "created": "2014-03-12T14:51:26.494840",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Asex_ratio_1980&mode=download",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 6,
+            "revision_id": "4a8fbb1f-a797-470c-8754-9f3db9ae5041",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c35d250d-9362-4c14-b8f4-39525d79796b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:03.075025",
+            "webstore_last_updated": null,
+            "id": "9b755fa9-fd13-4f20-9d7b-d1bde818139d",
+            "size": "1839",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Sex Ratio 1980 (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "sex_ratio_1980.kml",
+            "created": "2014-03-12T14:51:26.494844",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Asex_ratio_1980&mode=refresh",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 7,
+            "revision_id": "4a8fbb1f-a797-470c-8754-9f3db9ae5041",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c35d250d-9362-4c14-b8f4-39525d79796b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:03.075025",
+            "webstore_last_updated": null,
+            "id": "bcfac7c8-54f3-4a0c-84d9-5344357736ec",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Sex Ratio 1980 (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "sex_ratio_1980.tiles",
+            "created": "2014-03-12T14:51:26.494847",
+            "url": "http://maps.data.ug/geoserver/gwc/service/gmaps?layers=geonode:sex_ratio_1980&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 8,
+            "revision_id": "4a8fbb1f-a797-470c-8754-9f3db9ae5041",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "c35d250d-9362-4c14-b8f4-39525d79796b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:03.075025",
+            "webstore_last_updated": null,
+            "id": "4e05c4cb-6df1-4d66-a605-7c0c43c08f36",
+            "size": "34785",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Sex Ratio 1980 (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "sex_ratio_1980.jpg",
+            "created": "2014-03-12T14:51:26.494851",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Asex_ratio_1980&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "4a8fbb1f-a797-470c-8754-9f3db9ae5041",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c35d250d-9362-4c14-b8f4-39525d79796b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:03.075025",
+            "webstore_last_updated": null,
+            "id": "2a5ed154-1be3-4d06-b468-11d990ff9eb9",
+            "size": "35615",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Sex Ratio 1980 (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "sex_ratio_1980.pdf",
+            "created": "2014-03-12T14:51:26.494854",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Asex_ratio_1980&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:54:12.182456",
+            "position": 10,
+            "revision_id": "4a8fbb1f-a797-470c-8754-9f3db9ae5041",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c35d250d-9362-4c14-b8f4-39525d79796b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:03.075025",
+            "webstore_last_updated": null,
+            "id": "f2acb63d-66a8-44f4-bf12-0c7c2e2c5c20",
+            "size": "50811",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Sex Ratio 1980 (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "sex_ratio_1980.png",
+            "created": "2014-03-12T14:51:26.494858",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Asex_ratio_1980&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 11,
+            "revision_id": "4a8fbb1f-a797-470c-8754-9f3db9ae5041",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 12,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:28:03.075025",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:28:03.075025",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:28:03.075025",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:28:03.075025",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:28:03.075025",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "gender",
+            "name": "gender",
+            "revision_timestamp": "2014-11-04T22:28:03.075025",
+            "state": "active",
+            "id": "3908e970-2242-42ae-94d3-a4445ca1c826"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:28:03.075025",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population",
+            "name": "population",
+            "revision_timestamp": "2014-11-04T22:28:03.075025",
+            "state": "active",
+            "id": "c5e39de5-556e-4bcb-883b-5b9ec2481ae9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "review",
+            "name": "review",
+            "revision_timestamp": "2014-11-04T22:28:03.075025",
+            "state": "active",
+            "id": "de7b1f8f-d249-40b9-955e-f0af31354055"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:28:03.075025",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 15,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 10,
+    "name": "sex-ratio-1980",
+    "isopen": false,
+    "url": null,
+    "notes": "Sex Ratio per district in 1980",
+    "title": "Sex Ratio 1980",
+    "extras": [
+        {
+            "value": "[]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "4a8fbb1f-a797-470c-8754-9f3db9ae5041",
+                "package_id": "867abac5-2073-4688-9e07-96387143a245"
+            }
+        },
+        {
+            "value": "35.0017411394",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "4a8fbb1f-a797-470c-8754-9f3db9ae5041",
+                "package_id": "867abac5-2073-4688-9e07-96387143a245"
+            }
+        },
+        {
+            "value": "4.2310114174",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "867abac5-2073-4688-9e07-96387143a245",
+                "revision_id": "4a8fbb1f-a797-470c-8754-9f3db9ae5041"
+            }
+        },
+        {
+            "value": "-1.4817440179",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "4a8fbb1f-a797-470c-8754-9f3db9ae5041",
+                "package_id": "867abac5-2073-4688-9e07-96387143a245"
+            }
+        },
+        {
+            "value": "29.5741674481",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "4a8fbb1f-a797-470c-8754-9f3db9ae5041",
+                "package_id": "867abac5-2073-4688-9e07-96387143a245"
+            }
+        },
+        {
+            "value": "",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "867abac5-2073-4688-9e07-96387143a245",
+                "revision_id": "4a8fbb1f-a797-470c-8754-9f3db9ae5041"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "867abac5-2073-4688-9e07-96387143a245",
+                "revision_id": "4a8fbb1f-a797-470c-8754-9f3db9ae5041"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-02-20T04:01:51Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "867abac5-2073-4688-9e07-96387143a245",
+                "revision_id": "4a8fbb1f-a797-470c-8754-9f3db9ae5041"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "867abac5-2073-4688-9e07-96387143a245",
+                "revision_id": "4a8fbb1f-a797-470c-8754-9f3db9ae5041"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Sex Ratio 1980'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "867abac5-2073-4688-9e07-96387143a245",
+                "revision_id": "4a8fbb1f-a797-470c-8754-9f3db9ae5041"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "867abac5-2073-4688-9e07-96387143a245",
+                "revision_id": "4a8fbb1f-a797-470c-8754-9f3db9ae5041"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "4a8fbb1f-a797-470c-8754-9f3db9ae5041",
+                "package_id": "867abac5-2073-4688-9e07-96387143a245"
+            }
+        },
+        {
+            "value": "04f674d2-9a16-11e3-8923-11b11f8ea6d0",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "4a8fbb1f-a797-470c-8754-9f3db9ae5041",
+                "package_id": "867abac5-2073-4688-9e07-96387143a245"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "4a8fbb1f-a797-470c-8754-9f3db9ae5041",
+                "package_id": "867abac5-2073-4688-9e07-96387143a245"
+            }
+        },
+        {
+            "value": "2014-02-20T04:01:51Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "867abac5-2073-4688-9e07-96387143a245",
+                "revision_id": "4a8fbb1f-a797-470c-8754-9f3db9ae5041"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "4a8fbb1f-a797-470c-8754-9f3db9ae5041",
+                "package_id": "867abac5-2073-4688-9e07-96387143a245"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "867abac5-2073-4688-9e07-96387143a245",
+                "revision_id": "4a8fbb1f-a797-470c-8754-9f3db9ae5041"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "867abac5-2073-4688-9e07-96387143a245",
+                "revision_id": "4a8fbb1f-a797-470c-8754-9f3db9ae5041"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "867abac5-2073-4688-9e07-96387143a245",
+                "revision_id": "4a8fbb1f-a797-470c-8754-9f3db9ae5041"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.5741674481, -1.4817440179], [35.0017411394, -1.4817440179], [35.0017411394, 4.2310114174], [29.5741674481, 4.2310114174], [29.5741674481, -1.4817440179]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "4a8fbb1f-a797-470c-8754-9f3db9ae5041",
+                "package_id": "867abac5-2073-4688-9e07-96387143a245"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "867abac5-2073-4688-9e07-96387143a245",
+                "revision_id": "4a8fbb1f-a797-470c-8754-9f3db9ae5041"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "4a8fbb1f-a797-470c-8754-9f3db9ae5041",
+                "package_id": "867abac5-2073-4688-9e07-96387143a245"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "4a8fbb1f-a797-470c-8754-9f3db9ae5041",
+                "package_id": "867abac5-2073-4688-9e07-96387143a245"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "4a8fbb1f-a797-470c-8754-9f3db9ae5041"
+}

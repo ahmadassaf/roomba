@@ -1,0 +1,138 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Kenya Open Data Bot",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T12:00:36.326555",
+    "id": "c2f626de-29c7-46b7-9525-2572a985f759",
+    "metadata_created": "2012-09-10T12:00:36.326555",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:16:16.576593",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "8aceccc4-fc49-474d-8f89-f98459956995",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:16:16.576593",
+            "webstore_last_updated": "2013-10-10T12:16:16.503605",
+            "id": "09e351a5-cf15-466e-bb38-7ba0613547c3",
+            "size": "171",
+            "state": "active",
+            "hash": "86fd47ae543e71c67228afd627e382c47623144e",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "County Urbanization: Kitui.csv",
+            "created": "2012-09-11T13:32:20.159014",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T153505/747f-z33c.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:47:00.036883",
+            "position": 0,
+            "revision_id": "076fbd4a-3824-4c08-a34d-ac9f62799d3c",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "county",
+            "name": "county",
+            "revision_timestamp": "2012-09-10T12:00:36.326555",
+            "state": "active",
+            "id": "858f3acf-2c66-4fd9-9dc2-32e4f12121a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T12:00:36.326555",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T12:00:36.326555",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population",
+            "name": "population",
+            "revision_timestamp": "2012-09-10T12:00:36.326555",
+            "state": "active",
+            "id": "c5e39de5-556e-4bcb-883b-5b9ec2481ae9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "urbanisation",
+            "name": "urbanisation",
+            "revision_timestamp": "2012-09-10T12:00:36.326555",
+            "state": "active",
+            "id": "0a352ac2-4503-4c03-8962-ef4f605e793e"
+        }
+    ],
+    "tracking_summary": {
+        "total": 53,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "kodi-747f-z33c",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Census population by rural, urban, County estimates",
+    "title": "County Urbanization: Kitui",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "8b6c0155-e6f9-4c47-acf8-52b3fd87bd2f",
+                "package_id": "c2f626de-29c7-46b7-9525-2572a985f759"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "8b6c0155-e6f9-4c47-acf8-52b3fd87bd2f",
+                "package_id": "c2f626de-29c7-46b7-9525-2572a985f759"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "8b6c0155-e6f9-4c47-acf8-52b3fd87bd2f",
+                "package_id": "c2f626de-29c7-46b7-9525-2572a985f759"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "8b6c0155-e6f9-4c47-acf8-52b3fd87bd2f"
+}

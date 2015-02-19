@@ -1,0 +1,114 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Laban",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:49:41.859108",
+    "id": "81486db0-50e8-4917-801d-2db57d7cde6b",
+    "metadata_created": "2012-09-11T13:49:41.859108",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:08:48.186751",
+    "author": "Laban",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "e342cd4c-47a9-4a9f-baaa-b9c041715ca6",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:08:48.186751",
+            "webstore_last_updated": "2013-10-10T12:08:48.119194",
+            "id": "8011287d-9e46-4d91-9324-89848a125979",
+            "size": "29261",
+            "state": "active",
+            "hash": "4a611471dd07f4baa3b18260d259a56e06e098fa",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Constituency densities.csv",
+            "created": "2012-09-11T13:49:41.892284",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155226/n9iu-7nkw.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:02:12.476250",
+            "position": 0,
+            "revision_id": "7187bc3d-cc2c-4ab6-9b75-349ccd2a0d44",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:49:41.859108",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:49:41.859108",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 35,
+        "recent": 3
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "kodi-n9iu-7nkw",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": null,
+    "title": "Constituency densities",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "480c9e47-34b1-40fe-9239-07baf3aea3bf",
+                "package_id": "81486db0-50e8-4917-801d-2db57d7cde6b"
+            }
+        },
+        {
+            "value": "Population",
+            "key": "category",
+            "__extras": {
+                "revision_id": "480c9e47-34b1-40fe-9239-07baf3aea3bf",
+                "package_id": "81486db0-50e8-4917-801d-2db57d7cde6b"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "480c9e47-34b1-40fe-9239-07baf3aea3bf",
+                "package_id": "81486db0-50e8-4917-801d-2db57d7cde6b"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "480c9e47-34b1-40fe-9239-07baf3aea3bf"
+}

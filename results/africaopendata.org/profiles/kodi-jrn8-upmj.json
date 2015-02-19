@@ -1,0 +1,130 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Samuel Kipruto",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:55:48.084417",
+    "id": "74947e1b-3193-4ed9-9b9d-6135d728fc97",
+    "metadata_created": "2012-09-11T13:55:48.084417",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:03:20.780899",
+    "author": "Samuel Kipruto",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "eb5795a5-37e8-4db3-9e45-fe71df4064ad",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:03:20.780899",
+            "webstore_last_updated": "2013-10-10T12:03:20.711507",
+            "id": "8c773848-6b5a-461b-939d-ac1f27fe38b8",
+            "size": "10249",
+            "state": "active",
+            "hash": "e0a184364ab85863095562f5e5a20f999970f79e",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Annual Production Accounts By Industry2 2001-2009.csv",
+            "created": "2012-09-11T13:55:48.128873",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155833/jrn8-upmj.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:58:00.717851",
+            "position": 0,
+            "revision_id": "4ba7c39c-b0ae-4127-89d0-05d16e780751",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "industry",
+            "name": "industry",
+            "revision_timestamp": "2012-09-11T13:55:48.084417",
+            "state": "active",
+            "id": "b0f32885-2bca-4820-b306-0ddf3eff1c5c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:55:48.084417",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:55:48.084417",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "manufacturing",
+            "name": "manufacturing",
+            "revision_timestamp": "2012-09-11T13:55:48.084417",
+            "state": "active",
+            "id": "d57c8577-9f29-475c-9df3-b5459d174951"
+        }
+    ],
+    "tracking_summary": {
+        "total": 56,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "kodi-jrn8-upmj",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Kenya National Bureau of Statistics\r\nStatistical Abstract2001-2009\r\nAnnual Production Accounts By Type Industry (Values in Kenya Schillings in Millions)",
+    "title": "Annual Production Accounts By Industry2 2001-2009",
+    "extras": [
+        {
+            "value": "Kenya National Bureau of Statistics",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "bc491b5b-4550-48f3-a120-99fc3ba72764",
+                "package_id": "74947e1b-3193-4ed9-9b9d-6135d728fc97"
+            }
+        },
+        {
+            "value": "Manufacturing and industry",
+            "key": "category",
+            "__extras": {
+                "revision_id": "bc491b5b-4550-48f3-a120-99fc3ba72764",
+                "package_id": "74947e1b-3193-4ed9-9b9d-6135d728fc97"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "bc491b5b-4550-48f3-a120-99fc3ba72764",
+                "package_id": "74947e1b-3193-4ed9-9b9d-6135d728fc97"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "bc491b5b-4550-48f3-a120-99fc3ba72764"
+}

@@ -1,0 +1,184 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2014-07-28T12:50:25.539245",
+    "id": "ad802233-ea00-4573-b0a4-96aefc1e7acc",
+    "metadata_created": "2014-07-28T12:06:40.617905",
+    "owner_org": null,
+    "metadata_modified": "2014-07-28T12:52:10.266524",
+    "author": "DIVV",
+    "author_email": "info@ivv.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "f4d75c21-dd46-4dcc-84bb-e2735b620c53",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-07-28T12:52:10.266524",
+            "webstore_last_updated": null,
+            "id": "8ed971a9-39f1-487a-9491-624c5f335216",
+            "size": "120913",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Data (JSON)",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "http://www.amsterdamopendata.nl/files/ivv/gehandicaptenparkeerplaatsen/gehandicaptenparkeerplaatsen.json",
+            "created": "2014-07-28T14:52:10.348551",
+            "url": "http://www.amsterdamopendata.nl/files/ivv/gehandicaptenparkeerplaatsen/gehandicaptenparkeerplaatsen.json",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "dce15658-8447-4f1d-abc8-591580405330",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "f4d75c21-dd46-4dcc-84bb-e2735b620c53",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-07-28T12:52:10.266524",
+            "webstore_last_updated": null,
+            "id": "d179fbfb-0234-49c8-acd9-961c54852e28",
+            "size": "41733",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Data (PDF)",
+            "format": "PDF",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "http://www.amsterdamopendata.nl/files/ivv/gehandicaptenparkeerplaatsen/gehandicaptenparkeerplaatsen.pdf",
+            "created": "2014-07-28T14:52:10.348588",
+            "url": "http://www.amsterdamopendata.nl/files/ivv/gehandicaptenparkeerplaatsen/gehandicaptenparkeerplaatsen.pdf",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "dce15658-8447-4f1d-abc8-591580405330",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Amsterdam",
+            "name": "Amsterdam",
+            "revision_timestamp": "2014-07-28T12:06:40.617905",
+            "state": "active",
+            "id": "f7144ca7-9564-4dc2-8d3d-35c8293084e3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Gehandicaptenparkeerplaatsen",
+            "name": "Gehandicaptenparkeerplaatsen",
+            "revision_timestamp": "2014-07-28T12:06:40.617905",
+            "state": "active",
+            "id": "fdae6a2e-2c39-4a49-8987-39b897cc2baf"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Verkeer & Infrastructuur",
+            "description": "",
+            "name": "verkeer-infrastructuur",
+            "id": "12502584-9d7d-4bdc-bf5f-df2b0d85f4f6"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "gehandicaptenparkeerplaatsen_in_amsterdam",
+    "isopen": false,
+    "url": null,
+    "notes": "Data locaties gehandicaptenparkeerplaatsen in Amsterdam aangeleverd door stadsdelen. De plaatsen in Amsterdam-Centrum zijn niet vermeld.",
+    "title": "Gehandicaptenparkeerplaatsen in Amsterdam",
+    "extras": [
+        {
+            "value": "info@ivv.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "ad802233-ea00-4573-b0a4-96aefc1e7acc",
+                "revision_id": "954db627-771e-463f-a648-125c24916285"
+            }
+        },
+        {
+            "value": "Jacqueline Schermer",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "954db627-771e-463f-a648-125c24916285",
+                "package_id": "ad802233-ea00-4573-b0a4-96aefc1e7acc"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "954db627-771e-463f-a648-125c24916285",
+                "package_id": "ad802233-ea00-4573-b0a4-96aefc1e7acc"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "954db627-771e-463f-a648-125c24916285",
+                "package_id": "ad802233-ea00-4573-b0a4-96aefc1e7acc"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "ad802233-ea00-4573-b0a4-96aefc1e7acc",
+                "revision_id": "954db627-771e-463f-a648-125c24916285"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "ad802233-ea00-4573-b0a4-96aefc1e7acc",
+                "revision_id": "954db627-771e-463f-a648-125c24916285"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "954db627-771e-463f-a648-125c24916285",
+                "package_id": "ad802233-ea00-4573-b0a4-96aefc1e7acc"
+            }
+        },
+        {
+            "value": "http://www.amsterdam.nl/parkeren-verkeer/parkeren-amsterdam/gehandicapten/gehandicapten/kaart/",
+            "key": "website",
+            "__extras": {
+                "package_id": "ad802233-ea00-4573-b0a4-96aefc1e7acc",
+                "revision_id": "954db627-771e-463f-a648-125c24916285"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "9f85d596-79bc-44a6-bce2-9b004b1e95df"
+}

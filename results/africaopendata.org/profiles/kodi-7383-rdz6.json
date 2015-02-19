@@ -1,0 +1,138 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Chris Metcalf",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:49:48.268565",
+    "id": "b6321554-563d-4d4c-8378-29b36364097e",
+    "metadata_created": "2012-09-11T13:49:48.268565",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:08:45.874825",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "2e3f9b9f-41c3-4ac1-832f-283058c810ac",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:08:45.874825",
+            "webstore_last_updated": "2013-10-10T12:08:45.803146",
+            "id": "2ae5d385-8980-4b8a-9e18-fcb77c0d7f9c",
+            "size": "7633",
+            "state": "active",
+            "hash": "f60cf00f2dee7edf763ef4d06e8fe48629b630c7",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Access to Sanitation Facilities.csv",
+            "created": "2012-09-11T13:49:48.318496",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155233/7383-rdz6.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-10-10T12:08:45.219531",
+            "position": 0,
+            "revision_id": "99d2f9c9-d775-4b0f-8413-a366e258665c",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "census",
+            "name": "census",
+            "revision_timestamp": "2012-09-11T13:49:48.268565",
+            "state": "active",
+            "id": "ddb0e0e8-a185-4354-a375-3ad64ee35988"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "households",
+            "name": "households",
+            "revision_timestamp": "2012-09-11T13:49:48.268565",
+            "state": "active",
+            "id": "9297b3a1-bbba-4d65-a4da-558a097804d0"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:49:48.268565",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:49:48.268565",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "sanitation",
+            "name": "sanitation",
+            "revision_timestamp": "2012-09-11T13:49:48.268565",
+            "state": "active",
+            "id": "4b46d055-703f-484c-b50a-3b3ab2b414e2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 93,
+        "recent": 7
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "kodi-7383-rdz6",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Census Vol II Table 9: Households by main mode of Human Waste Disposal, County estimates",
+    "title": "Access to Sanitation Facilities",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "9a79d4a5-386f-43f3-ad35-e5b04e8d44a3",
+                "package_id": "b6321554-563d-4d4c-8378-29b36364097e"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "9a79d4a5-386f-43f3-ad35-e5b04e8d44a3",
+                "package_id": "b6321554-563d-4d4c-8378-29b36364097e"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "9a79d4a5-386f-43f3-ad35-e5b04e8d44a3",
+                "package_id": "b6321554-563d-4d4c-8378-29b36364097e"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "9a79d4a5-386f-43f3-ad35-e5b04e8d44a3"
+}

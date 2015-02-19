@@ -1,0 +1,137 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2014-11-04T22:25:26.210684",
+    "id": "38eb8e86-2600-4039-a45f-dbb9fea48d3f",
+    "metadata_created": "2014-11-04T22:25:26.210684",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:48:20.416298",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": "1.0",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "83cf7ad7-17f2-4cdd-b096-f84606c05024",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:48:20.416298",
+            "webstore_last_updated": "2014-11-04T22:56:19.939194",
+            "id": "2451846d-c0cc-4947-9b53-72bb6abea6e9",
+            "size": "13117",
+            "state": "active",
+            "hash": "799e9b33a67950b8770be01f2feb176bcf601edc",
+            "description": "Prisoner numbers and capacity by district in 2011.",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "prisoner numbers 2011",
+            "created": "2014-05-23T12:19:31.570253",
+            "url": "http://catalog.data.ug/dataset/38eb8e86-2600-4039-a45f-dbb9fea48d3f/resource/2451846d-c0cc-4947-9b53-72bb6abea6e9/download/ugandaregionalprisonerstatistics.csv",
+            "webstore_url": "active",
+            "last_modified": "2014-05-23T12:19:39.820619",
+            "position": 0,
+            "revision_id": "497e2d40-b6d3-4b8c-9c5e-5c47f1406dbd",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Crime",
+            "name": "Crime",
+            "revision_timestamp": "2014-11-04T22:25:26.210684",
+            "state": "active",
+            "id": "f1e58c36-31a1-40e5-b0f4-9c3f91ac57b4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Society",
+            "name": "Society",
+            "revision_timestamp": "2014-11-04T22:25:26.210684",
+            "state": "active",
+            "id": "1107c604-0583-482c-ba9f-b645308ebff9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:25:26.210684",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:25:26.210684",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:25:26.210684",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:25:26.210684",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:25:26.210684",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:25:26.210684",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 12,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 8,
+    "name": "prisoner-numbers-by-district-2011",
+    "isopen": false,
+    "url": "",
+    "notes": "Prisoner numbers and capacity by district in 2011.",
+    "title": "Prisoner numbers by district, 2011",
+    "extras": [],
+    "organization": null,
+    "revision_id": "263b1169-ba46-480b-b841-759fff583dde"
+}

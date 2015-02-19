@@ -1,0 +1,106 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-09-04T16:10:48.656775",
+    "id": "753776b8-11c5-4ff2-a1fc-94efaf0a7613",
+    "metadata_created": "2012-09-04T16:10:48.656775",
+    "owner_org": null,
+    "metadata_modified": "2014-01-25T18:56:51.076842",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": "",
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "206da977-e566-49dd-8a6a-b7a121ac7a06",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-01-25T18:56:51.076842",
+            "webstore_last_updated": null,
+            "id": "b3e9d2f4-713c-418d-97f6-fcf228a6275f",
+            "size": "225966",
+            "state": "active",
+            "hash": "7d899aa69363c85793c05ae1e337cd7a89b59131",
+            "description": "",
+            "format": "ZIP",
+            "tracking_summary": {
+                "total": 9,
+                "recent": 1
+            },
+            "mimetype_inner": "",
+            "mimetype": "application/zip",
+            "cache_url": "",
+            "name": "Landuse-Route-Designations.zip",
+            "created": "2012-09-01T22:27:14.104346",
+            "url": "http://africaopendata.org/storage/f/2013-11-19T12%3A43%3A38.261Z/landuse-route-designations.zip",
+            "webstore_url": "",
+            "last_modified": "2014-01-25T18:56:51.013088",
+            "position": 0,
+            "revision_id": "fdafbcdc-6d2e-4736-a582-5ceb8653f6af",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "code4democracy",
+            "name": "code4democracy",
+            "revision_timestamp": "2012-09-04T16:10:48.656775",
+            "state": "active",
+            "id": "51d5a81a-0464-41a3-be13-8d6c304f24e7"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "southafrica",
+            "name": "southafrica",
+            "revision_timestamp": "2012-09-04T16:10:48.656775",
+            "state": "active",
+            "id": "16620248-4ab3-4ae8-a8e9-49ed7920fd32"
+        }
+    ],
+    "tracking_summary": {
+        "total": 189,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "South Africa",
+            "description": "Datasets from South Africa",
+            "name": "south-africa",
+            "id": "fc691a3f-cfce-46d6-93a0-77bdccfec89d"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "cape-town-route-designation-land-use-functionality",
+    "isopen": true,
+    "url": "http://www.capetown.gov.za/en/sdf/Pages/Download%20maps.aspx",
+    "notes": "This map shows a citywide accessibility grid which is supported by appropriate long-term land uses and an integrated, citywide public transport system: \r\n\r\nPrioritised and proposed railway lines \r\nIntegrated Rapid Transport (IRT) routes and stations \r\nExisting and proposed activity-, developer– and connector routes \r\nDevelopment edges\r\nAirports and harbours ",
+    "title": "Cape Town Route Designation - Land Use Functionality",
+    "extras": [
+        {
+            "value": "Coding for Democracy",
+            "key": "Source",
+            "__extras": {
+                "revision_id": "3196feec-3a59-45f6-ab4f-477bf0f90adf",
+                "package_id": "753776b8-11c5-4ff2-a1fc-94efaf0a7613"
+            }
+        },
+        {
+            "value": "http://197.221.34.5/dataset/753776b8-11c5-4ff2-a1fc-94efaf0a7613",
+            "key": "harvest_url",
+            "__extras": {
+                "revision_id": "3196feec-3a59-45f6-ab4f-477bf0f90adf",
+                "package_id": "753776b8-11c5-4ff2-a1fc-94efaf0a7613"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "3196feec-3a59-45f6-ab4f-477bf0f90adf"
+}

@@ -1,0 +1,97 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-11-06T06:11:37.974296",
+    "id": "82a5ef2f-e0b9-4c61-9528-75366eabc454",
+    "metadata_created": "2012-11-06T06:10:35.869111",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:56:45.205404",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "4b30b4fc-48cb-43be-8ab7-1725fee6ab5e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:56:45.205404",
+            "webstore_last_updated": "2013-10-10T10:56:45.142571",
+            "id": "b869f8f5-eb4a-44e9-9e99-3ce505c1c123",
+            "size": "213092",
+            "state": "active",
+            "hash": "68e5e5d4dcdfd13a3436cca328304ff791f0fb7d",
+            "description": "The International Bank for Reconstruction and Development (IBRD) loans are public and publicly guaranteed debt extended by the World Bank Group. IBRD loans are made to, or guaranteed by, countries that are members of IBRD. IBRD may also make loans to IFC. IBRD lends at market rates. Data are in U.S. dollars calculated using historical rates. This dataset contains the latest available snapshot of the Statement of Loans. The World Bank complies with all sanctions applicable to World Bank transactions.",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "IBRD_Loans_Morroco.csv",
+            "created": "2012-11-06T06:11:32.120059",
+            "url": "http://africaopendata.org/storage/f/2012-11-06T06%3A11%3A09.520Z/ibrd-loans-morroco.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-13T22:58:25.497012",
+            "position": 0,
+            "revision_id": "4c67db8b-572e-4aa3-a4d1-8d1881e31e4c",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Morroco",
+            "name": "Morroco",
+            "revision_timestamp": "2012-11-06T06:10:35.869111",
+            "state": "active",
+            "id": "08b27a7e-e329-48e6-8a47-4064db9ec98a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "finance",
+            "name": "finance",
+            "revision_timestamp": "2012-11-06T06:10:35.869111",
+            "state": "active",
+            "id": "03e21f21-04d8-4e9f-aa27-cd50d0b59c7c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "loans",
+            "name": "loans",
+            "revision_timestamp": "2012-11-06T06:10:35.869111",
+            "state": "active",
+            "id": "ab029346-93af-48b5-b680-6fedfc8b0fb3"
+        }
+    ],
+    "tracking_summary": {
+        "total": 66,
+        "recent": 4
+    },
+    "groups": [
+        {
+            "title": "Morocco",
+            "description": "Datasets from Morocco",
+            "name": "morocco",
+            "id": "6141ee48-9142-414e-aaa4-4936d09910c4"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "morroco-international-bank-for-reconstruction-and-development-ibrd-loans",
+    "isopen": true,
+    "url": null,
+    "notes": "The International Bank for Reconstruction and Development (IBRD) loans are public and publicly guaranteed debt extended by the World Bank Group. IBRD loans are made to, or guaranteed by, countries that are members of IBRD. IBRD may also make loans to IFC. IBRD lends at market rates. Data are in U.S. dollars calculated using historical rates. This dataset contains the latest available snapshot of the Statement of Loans. The World Bank complies with all sanctions applicable to World Bank transactions.",
+    "title": "Morroco - International Bank for Reconstruction and Development (IBRD) loans",
+    "extras": [],
+    "organization": null,
+    "revision_id": "6c6bde2c-c609-41f6-a0ce-938fa4c7e8eb"
+}

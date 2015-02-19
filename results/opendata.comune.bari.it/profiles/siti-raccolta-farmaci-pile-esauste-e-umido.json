@@ -1,0 +1,151 @@
+{
+    "license_title": "CC0 1.0",
+    "maintainer": "Ufficio Tutela Ambiente",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "rip.igieneeambiente@comune.bari.it",
+    "revision_timestamp": "2014-12-17T11:41:56.697806",
+    "id": "c66cf170-0582-4bae-9cfa-9bcb474f0ceb",
+    "metadata_created": "2014-11-12T17:00:43.792935",
+    "metadata_modified": "2014-12-17T11:41:56.698430",
+    "author": "Ripartizione Tutela Ambiente, Sanità e Igiene",
+    "author_email": "rip.igieneeambiente@comune.bari.it",
+    "state": "active",
+    "version": "",
+    "creator_user_id": "1a9bb171-088a-40d4-8c09-3eb097bb7860",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "07b084e5-0004-43af-b1ae-56cea50d3748",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-12T17:00:44.638898",
+            "webstore_last_updated": null,
+            "datastore_active": false,
+            "id": "39e0d697-c44b-46ff-8835-288808d07df8",
+            "size": "30821",
+            "state": "active",
+            "hash": "md5:3f893932e4a4274c7202d16d1a3c1e38",
+            "description": "",
+            "format": "ZIP",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "last_modified": "2013-02-22T14:50:15.910200",
+            "url_type": "upload",
+            "mimetype": "application/zip",
+            "cache_url": "",
+            "name": "2013-02-22T135005/AMIU_racc_farm_pile_umidi.zip",
+            "created": "2013-02-22T14:50:14.794495",
+            "url": "http://opendata.comune.bari.it/dataset/c66cf170-0582-4bae-9cfa-9bcb474f0ceb/resource/39e0d697-c44b-46ff-8835-288808d07df8/download/20130222t135005amiuraccfarmpileumidi.zip",
+            "webstore_url": "/storage/f/2013-02-22T135005/AMIU_racc_farm_pile_umidi.zip",
+            "mimetype_inner": "",
+            "position": 0,
+            "revision_id": "f725817d-8c04-47af-8e1b-370528b9f76f",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "farmaci",
+            "name": "farmaci",
+            "revision_timestamp": "2014-11-12T17:00:43.792935",
+            "state": "active",
+            "id": "cf09b002-24ea-458e-ab4b-4bac318fbdab"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "pile esauste",
+            "name": "pile esauste",
+            "revision_timestamp": "2014-11-12T17:00:43.792935",
+            "state": "active",
+            "id": "5cc5d1aa-6ea0-40e7-957d-38eeed55a7ad"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "raccolta",
+            "name": "raccolta",
+            "revision_timestamp": "2014-11-12T17:00:43.792935",
+            "state": "active",
+            "id": "b33eaec2-5634-4749-8086-9e3eb96ec612"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "umido",
+            "name": "umido",
+            "revision_timestamp": "2014-11-12T17:00:43.792935",
+            "state": "active",
+            "id": "7b1a7f7c-680b-43b7-b96f-3128dd9ad620"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "display_name": "Dati Geografici",
+            "description": "Dati Geografici del Comune di Bari",
+            "image_display_url": "",
+            "title": "Dati Geografici",
+            "id": "33ce3844-87cd-418d-a237-31b4939342a7",
+            "name": "dati-geografici"
+        }
+    ],
+    "license_id": "CC0-1.0",
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "organization": {
+        "description": "",
+        "created": "2014-11-26T17:08:49.091500",
+        "title": "Comune di Bari",
+        "name": "comune-di-bari",
+        "revision_timestamp": "2014-11-26T16:08:49.054306",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "",
+        "revision_id": "dd9136cf-62f3-4182-b0a6-3287c82accaa",
+        "type": "organization",
+        "id": "a5fb4b95-9a9e-49de-a9cd-e93ac2bf587f",
+        "approval_status": "approved"
+    },
+    "name": "siti-raccolta-farmaci-pile-esauste-e-umido",
+    "isopen": true,
+    "url": "",
+    "notes": "Mappa dei siti di raccolta farmaci, pile esauste e umido del Comune di Bari",
+    "owner_org": "a5fb4b95-9a9e-49de-a9cd-e93ac2bf587f",
+    "extras": [
+        {
+            "key": "Data di creazione",
+            "value": "\"Febbraio 2013\""
+        },
+        {
+            "key": "Data ultima modifica del dato",
+            "value": "\"2006\""
+        },
+        {
+            "key": "Data ultima modifica del metadato",
+            "value": "\"2006\""
+        },
+        {
+            "key": "Tipo di dato",
+            "value": "\"shape file\""
+        }
+    ],
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "title": "Siti raccolta farmaci, pile esauste e umido",
+    "revision_id": "02147fd8-2399-474c-8c42-f81395fff9a7",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": true,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

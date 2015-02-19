@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Saf",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:48:59.059198",
+    "id": "6bcb7784-402a-462e-bf88-2042223fba39",
+    "metadata_created": "2012-09-11T13:48:59.059198",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:09:00.623648",
+    "author": "Chris Metcalf",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "a0fa85bc-c2c7-40d7-9ded-4d2d41cd9dbb",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:09:00.623648",
+            "webstore_last_updated": "2013-10-10T12:09:00.556271",
+            "id": "9d1a5341-5748-4f2c-b4d9-6c89f26d6b79",
+            "size": "270",
+            "state": "active",
+            "hash": "35854140efec9dda268fd65b7d492de679521cf2",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Murang'a Age Pyramid.csv",
+            "created": "2012-09-11T13:48:59.101252",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155144/b6g8-x8hv.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-10-10T12:09:00.098507",
+            "position": 0,
+            "revision_id": "50507ebe-8352-4aca-acd5-a531c446bacc",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:48:59.059198",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:48:59.059198",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population",
+            "name": "population",
+            "revision_timestamp": "2012-09-11T13:48:59.059198",
+            "state": "active",
+            "id": "c5e39de5-556e-4bcb-883b-5b9ec2481ae9"
+        }
+    ],
+    "tracking_summary": {
+        "total": 40,
+        "recent": 3
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-b6g8-x8hv",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Male and female populations by age group.",
+    "title": "Murang'a Age Pyramid",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "1dfd814a-dcea-4b63-ad2a-dda3ae3721a2",
+                "package_id": "6bcb7784-402a-462e-bf88-2042223fba39"
+            }
+        },
+        {
+            "value": "Population",
+            "key": "category",
+            "__extras": {
+                "revision_id": "1dfd814a-dcea-4b63-ad2a-dda3ae3721a2",
+                "package_id": "6bcb7784-402a-462e-bf88-2042223fba39"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "1dfd814a-dcea-4b63-ad2a-dda3ae3721a2",
+                "package_id": "6bcb7784-402a-462e-bf88-2042223fba39"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "1dfd814a-dcea-4b63-ad2a-dda3ae3721a2"
+}

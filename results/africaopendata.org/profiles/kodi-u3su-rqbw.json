@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Kenya Visualization Bot",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T12:04:26.501332",
+    "id": "ba9f0440-2231-43a2-aa18-e92e38f25767",
+    "metadata_created": "2012-09-10T12:04:26.501332",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:13:37.487461",
+    "author": "Chris Metcalf",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "bf55bc61-ace6-4e70-b521-921897b6c99e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:13:37.487461",
+            "webstore_last_updated": "2013-10-10T12:13:37.364381",
+            "id": "e65a83a6-6563-4933-a724-79a83d8482c4",
+            "size": "258",
+            "state": "active",
+            "hash": "566643476de033f4fde6d9f3c16e3ea4f7ed477e",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Embu Age Pyramid.csv",
+            "created": "2012-09-11T13:36:06.510411",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T153851/u3su-rqbw.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-13T23:21:48.312378",
+            "position": 0,
+            "revision_id": "9cd172e7-c5e1-4b4c-aa20-1ee7d4837b75",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T12:04:26.501332",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T12:04:26.501332",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population",
+            "name": "population",
+            "revision_timestamp": "2012-09-10T12:04:26.501332",
+            "state": "active",
+            "id": "c5e39de5-556e-4bcb-883b-5b9ec2481ae9"
+        }
+    ],
+    "tracking_summary": {
+        "total": 32,
+        "recent": 5
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-u3su-rqbw",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Male and female populations by age group.",
+    "title": "Embu Age Pyramid",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "9689e117-e353-4e60-94f0-75e822f06214",
+                "package_id": "ba9f0440-2231-43a2-aa18-e92e38f25767"
+            }
+        },
+        {
+            "value": "Population",
+            "key": "category",
+            "__extras": {
+                "revision_id": "9689e117-e353-4e60-94f0-75e822f06214",
+                "package_id": "ba9f0440-2231-43a2-aa18-e92e38f25767"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "9689e117-e353-4e60-94f0-75e822f06214",
+                "package_id": "ba9f0440-2231-43a2-aa18-e92e38f25767"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "9689e117-e353-4e60-94f0-75e822f06214"
+}

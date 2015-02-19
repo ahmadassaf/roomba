@@ -1,0 +1,219 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2013-09-24T16:01:32.303497",
+    "id": "f6d6b38c-f7d6-4fd6-b8af-82d9103b4195",
+    "metadata_created": "2013-09-24T16:01:32.303497",
+    "owner_org": null,
+    "metadata_modified": "2013-09-24T16:01:32.303497",
+    "author": "Dienst Ruimtelijke Ordening (DRO)",
+    "author_email": "stadsloods@dro.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "170039c7-d0ea-4170-89e9-cba8cff1960d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-09-24T16:01:32.303497",
+            "webstore_last_updated": null,
+            "id": "cca6ac17-d3ae-44a4-b799-f2616a2acc3d",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Downloaden via maps.amsterdam.nl",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://maps.amsterdam.nl/open_geodata/",
+            "created": "2013-09-24T18:01:32.374711",
+            "url": "http://maps.amsterdam.nl/open_geodata/",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "3c63591a-0c28-4adb-a6ef-2613e50f7518",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "cultuur",
+            "name": "cultuur",
+            "revision_timestamp": "2013-09-24T16:01:32.303497",
+            "state": "active",
+            "id": "a1c58d9f-bcbd-42f4-88d7-62c137926a14"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "horeca",
+            "name": "horeca",
+            "revision_timestamp": "2013-09-24T16:01:32.303497",
+            "state": "active",
+            "id": "c61daa0c-bc8f-4e68-a5f0-fb3eaba80128"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kantoor",
+            "name": "kantoor",
+            "revision_timestamp": "2013-09-24T16:01:32.303497",
+            "state": "active",
+            "id": "fad3a23f-7be2-4be4-a77d-957082024c92"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "leisure",
+            "name": "leisure",
+            "revision_timestamp": "2013-09-24T16:01:32.303497",
+            "state": "active",
+            "id": "34883ac0-0981-4fec-8144-d913955bf16b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "onderwijs",
+            "name": "onderwijs",
+            "revision_timestamp": "2013-09-24T16:01:32.303497",
+            "state": "active",
+            "id": "c7879993-7a8f-4070-890f-869faf4c33e2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "partycentra",
+            "name": "partycentra",
+            "revision_timestamp": "2013-09-24T16:01:32.303497",
+            "state": "active",
+            "id": "1a609723-64f9-4c9d-a606-88c9c343a02b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "religie",
+            "name": "religie",
+            "revision_timestamp": "2013-09-24T16:01:32.303497",
+            "state": "active",
+            "id": "d28ceda7-55be-44c4-9e2d-3230d8495b9d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "ruimtezoekers",
+            "name": "ruimtezoekers",
+            "revision_timestamp": "2013-09-24T16:01:32.303497",
+            "state": "active",
+            "id": "9e6ea8fa-b092-4736-8288-e8bef8785fb1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "sport",
+            "name": "sport",
+            "revision_timestamp": "2013-09-24T16:01:32.303497",
+            "state": "active",
+            "id": "1d79e143-ea99-4034-b1eb-0f244e98327e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "stadsloods",
+            "name": "stadsloods",
+            "revision_timestamp": "2013-09-24T16:01:32.303497",
+            "state": "active",
+            "id": "8cf8ce05-b28e-4f98-af40-d703fb92a4ee"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Economie & Haven",
+            "description": "",
+            "name": "economie-haven",
+            "id": "0436932a-66f0-480b-9c68-ef542dcc7a09"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 10,
+    "name": "ruimtezoekers_stadsloods",
+    "isopen": false,
+    "url": null,
+    "notes": "De stadsloods van de gemeente Amsterdam werkt stadsbreed en adviseert een breed scala van ruimtezoekers met bijzondere huisvestingseisen bij het vinden van de juiste plek. Zij draagt bij aan het terugdringen van de leegstand in gemeentelijk en strategisch vastgoed en adviseert projectbureaus en stadsdelen over de programmatische invulling van gebieden. \nDit doet zij vanuit een helicopterview over de stad en maakt daarbij de ruimtelijke afweging wanneer het gaat om de juiste functie op de juiste plek. \nDe stadsloods vervult een onmisbare rol in het bij elkaar brengen van partijen en faciliteert een breed scala aan ondernemingen en organisatie en levert daarmee een bijdrage aan de ontwikkeling van de stad.\n\nIn dit bestand staat aangegeven waar ruimtezoekers met hulp van de stadsloods zich de afgelopen 5 jaar hebben gevestigd.",
+    "title": "Ruimtezoekers Stadsloods",
+    "extras": [
+        {
+            "value": "stadsloods@dro.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "f6d6b38c-f7d6-4fd6-b8af-82d9103b4195",
+                "revision_id": "3c63591a-0c28-4adb-a6ef-2613e50f7518"
+            }
+        },
+        {
+            "value": "Hubertine Peters",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "3c63591a-0c28-4adb-a6ef-2613e50f7518",
+                "package_id": "f6d6b38c-f7d6-4fd6-b8af-82d9103b4195"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "3c63591a-0c28-4adb-a6ef-2613e50f7518",
+                "package_id": "f6d6b38c-f7d6-4fd6-b8af-82d9103b4195"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "3c63591a-0c28-4adb-a6ef-2613e50f7518",
+                "package_id": "f6d6b38c-f7d6-4fd6-b8af-82d9103b4195"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "f6d6b38c-f7d6-4fd6-b8af-82d9103b4195",
+                "revision_id": "3c63591a-0c28-4adb-a6ef-2613e50f7518"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "f6d6b38c-f7d6-4fd6-b8af-82d9103b4195",
+                "revision_id": "3c63591a-0c28-4adb-a6ef-2613e50f7518"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "3c63591a-0c28-4adb-a6ef-2613e50f7518",
+                "package_id": "f6d6b38c-f7d6-4fd6-b8af-82d9103b4195"
+            }
+        },
+        {
+            "value": "http://maps.amsterdam.nl/stadsloods/",
+            "key": "website",
+            "__extras": {
+                "package_id": "f6d6b38c-f7d6-4fd6-b8af-82d9103b4195",
+                "revision_id": "3c63591a-0c28-4adb-a6ef-2613e50f7518"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "3c63591a-0c28-4adb-a6ef-2613e50f7518"
+}

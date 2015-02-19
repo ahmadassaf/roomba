@@ -1,0 +1,101 @@
+{
+    "license_title": "Open Data Commons Open Database License 1.0",
+    "maintainer": "T. Idriss TINTO",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "tinto.jean@gmail.com",
+    "revision_timestamp": "2014-02-23T10:03:48.538668",
+    "id": "e6d91ee9-2ec1-47a5-b7e5-17b066a15e83",
+    "metadata_created": "2014-02-15T14:48:56.292758",
+    "owner_org": null,
+    "metadata_modified": "2014-02-24T14:07:50.930853",
+    "author": "Commune de Ouahigouya",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "ODbL-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "dd111dc0-1477-4efa-b751-b1bfea3475c5",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-02-24T14:07:50.930853",
+            "webstore_last_updated": "2014-02-15T14:50:05.054373",
+            "id": "350ddc12-cdf4-43d6-8fc0-3a0f1e974317",
+            "size": "10894",
+            "state": "active",
+            "hash": "4dc2016415101a90b4b3458bbdc958c1edafe36b",
+            "description": "fichier des données budgetaires de la commune de Ouahigouya, représentant les dépenses de l'année 2011",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Budget 2011 OHG depenses.csv",
+            "created": "2014-02-15T14:50:02.635655",
+            "url": "http://africaopendata.org/storage/f/2014-02-24T14%3A07%3A18.765Z/budget-2011-ohg-depenses.csv",
+            "webstore_url": "active",
+            "last_modified": "2014-02-24T14:07:50.372678",
+            "position": 0,
+            "revision_id": "ad40b56f-781d-4a26-a82c-6889d212beac",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Burkina Faso",
+            "name": "Burkina Faso",
+            "revision_timestamp": "2014-02-15T14:48:56.292758",
+            "state": "active",
+            "id": "9c9624ca-2da8-4d09-a166-1f4a5ff49622"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "budget",
+            "name": "budget",
+            "revision_timestamp": "2014-02-15T14:48:56.292758",
+            "state": "active",
+            "id": "0371539f-c6a6-447c-b59d-3ded9f5007ad"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "ouahigouya",
+            "name": "ouahigouya",
+            "revision_timestamp": "2014-02-15T14:48:56.292758",
+            "state": "active",
+            "id": "74d29451-e4a8-4b36-859f-a65b9c081686"
+        }
+    ],
+    "tracking_summary": {
+        "total": 57,
+        "recent": 6
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "budget-2011-de-ouahigouya-depenses",
+    "isopen": true,
+    "url": null,
+    "notes": "Données budgetaires de la commune de Ouahigouya, représentant les dépenses de l'année 2011",
+    "title": "Budget 2011 de Ouahigouya, dépenses",
+    "extras": [],
+    "license_url": "http://www.opendefinition.org/licenses/odc-odbl",
+    "organization": null,
+    "revision_id": "0f69d92e-fcc7-444b-8dcd-972be568d2c0",
+    "license_information": {
+        "domain_content": false,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "",
+        "status": "active"
+    }
+}

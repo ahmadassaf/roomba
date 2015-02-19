@@ -1,0 +1,99 @@
+{
+    "missing": [
+        "group",
+        "organization"
+    ],
+    "undefined": [
+        "maintainer_email",
+        "owner_org"
+    ],
+    "unreachableURLs": [],
+    "report": [
+        "group information is missing. Check organization information as they can be mixed sometimes",
+        "maintainer_email field exists but there is no value defined",
+        "owner_org field exists but there is no value defined",
+        "organization information is missing",
+        "author_email is not a valid e-mail address !"
+    ],
+    "tag": {
+        "education": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "full-time": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "students": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        }
+    },
+    "license": {
+        "license": {
+            "missing": [
+                "license_url"
+            ],
+            "undefined": [],
+            "unreachableURLs": [],
+            "report": [
+                "license_url field is missing",
+                "License information has been normalized !"
+            ]
+        }
+    },
+    "resource": {
+        "d3ebf56b-7167-46a4-975a-e3d4c22b15e4": {
+            "missing": [
+                "url-type",
+                "created"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "description",
+                "mimetype_inner",
+                "cache_url",
+                "name",
+                "webstore_url",
+                "resource_type"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "description field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "cache_url field exists but there is no value defined",
+                "name field exists but there is no value defined",
+                "created field is missing",
+                "webstore_url field exists but there is no value defined",
+                "resource_type field exists but there is no value defined"
+            ]
+        }
+    },
+    "counter": {
+        "group": 0,
+        "tag": 3,
+        "resource": 1
+    }
+}

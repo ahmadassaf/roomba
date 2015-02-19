@@ -1,0 +1,108 @@
+{
+    "license_title": "Open Data Commons Attribution License 1.0",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-11-04T16:56:04.392116",
+    "id": "66fce603-e710-4ae2-9c32-906a120fe708",
+    "metadata_created": "2012-11-04T16:55:42.914161",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:58:32.784657",
+    "author": "World Bank (finance.worldbank.org)",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "ODC-BY-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "d9cbf1c6-3ecc-482e-b6bd-859797b08bf3",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:58:32.784657",
+            "webstore_last_updated": "2013-10-10T10:58:32.706281",
+            "id": "447cd35f-1978-43ae-8a44-49a108367ae4",
+            "size": "19329",
+            "state": "active",
+            "hash": "05f6f0d242c7cb1f6a28050e04a61740faaed6bf",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Major_Contract_Awards_FY2010-12_-_Africa_Region-Zimbabwe.csv",
+            "created": "2012-11-04T16:55:55.971540",
+            "url": "http://africaopendata.org/storage/f/2012-11-04T16%3A55%3A49.621Z/major-contract-awards-fy2010-12-africa-region-zimbabwe.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:48:58.220148",
+            "position": 0,
+            "revision_id": "ac5a0ba6-aa73-4972-9186-0d7dd715f88f",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Contracts",
+            "name": "Contracts",
+            "revision_timestamp": "2012-11-04T16:55:42.914161",
+            "state": "active",
+            "id": "c60bfb8e-35f5-487b-b481-b489447b7cef"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "World Bank",
+            "name": "World Bank",
+            "revision_timestamp": "2012-11-04T16:55:42.914161",
+            "state": "active",
+            "id": "ae91265e-0b5c-45a0-a96f-02cf356ec937"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Zimbabwe",
+            "name": "Zimbabwe",
+            "revision_timestamp": "2012-11-04T16:55:42.914161",
+            "state": "active",
+            "id": "1a20dbb2-0de6-4d8a-941c-9acee6884a94"
+        }
+    ],
+    "tracking_summary": {
+        "total": 60,
+        "recent": 10
+    },
+    "groups": [
+        {
+            "title": "Zimbabwe",
+            "description": "Data on the Republic of Zimbabwe",
+            "name": "zimbabwe",
+            "id": "10c4a19f-0573-4551-bcb2-0f70f68b1e14"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "world-bank-contract-award-2010-2012-zimbabwe",
+    "isopen": true,
+    "url": null,
+    "notes": "This set of contract awards includes data on commitments against contracts that were reviewed by the Bank before they were awarded (prior-reviewed Bank-funded contracts) under IDA/IBRD investment projects and related Trust Funds. This dataset does not list all contracts awarded by the Bank, and should be viewed only as a guide to determine the distribution of major contract commitments among the Bank's member countries. \"Supplier Country\" represents place of supplier registration, which may or not be the supplier's actual country of origin. Information does not include awards to subcontractors nor account for cofinancing. The Procurement Policy and Services Group does not guarantee the data included in this publication and accepts no responsibility whatsoever for any consequences of its use. The World Bank complies with all sanctions applicable to World Bank transactions.\r\n",
+    "title": "World Bank Contract Award 2010-2012 - Zimbabwe",
+    "extras": [],
+    "license_url": "http://www.opendefinition.org/licenses/odc-by",
+    "organization": null,
+    "revision_id": "da018cdb-c9fa-4f40-a0e2-ff8bbfb64660",
+    "license_information": {
+        "domain_content": false,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Open Data Commons",
+        "status": "active"
+    }
+}

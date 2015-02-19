@@ -1,0 +1,146 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Kenya Open Data Bot",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T11:54:11.842804",
+    "id": "835592da-067c-4dff-9be6-83a0da57842a",
+    "metadata_created": "2012-09-10T11:54:11.842804",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:18:38.562213",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "3f310fb1-0b73-4507-98a9-2c7a7dd4a571",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:18:38.562213",
+            "webstore_last_updated": "2013-10-10T12:18:38.490066",
+            "id": "328be728-b3ef-463e-bbe2-62415ba860b5",
+            "size": "774",
+            "state": "active",
+            "hash": "258d5137a658c972ac7936040ebd50fc3bf4b9ad",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Per Capita County Expenditures: Mombasa.csv",
+            "created": "2012-09-11T13:29:50.913930",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T153235/b2rm-5vut.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-13T22:59:29.144435",
+            "position": 0,
+            "revision_id": "49025ee8-f23c-440d-bf7b-61e6da7c4b3c",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "cdf",
+            "name": "cdf",
+            "revision_timestamp": "2012-09-10T11:54:11.842804",
+            "state": "active",
+            "id": "e4f787d6-ec60-483a-b3b3-f941cf48c3b4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "county",
+            "name": "county",
+            "revision_timestamp": "2012-09-10T11:54:11.842804",
+            "state": "active",
+            "id": "858f3acf-2c66-4fd9-9dc2-32e4f12121a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "expenditures",
+            "name": "expenditures",
+            "revision_timestamp": "2012-09-10T11:54:11.842804",
+            "state": "active",
+            "id": "44c63fed-5be4-49aa-b2a5-1e7baf93d961"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T11:54:11.842804",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T11:54:11.842804",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "local authorities",
+            "name": "local authorities",
+            "revision_timestamp": "2012-09-10T11:54:11.842804",
+            "state": "active",
+            "id": "ece507fe-ec49-44f8-848e-39df75ac1866"
+        }
+    ],
+    "tracking_summary": {
+        "total": 62,
+        "recent": 3
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "kodi-b2rm-5vut",
+    "isopen": true,
+    "url": null,
+    "notes": "Local Authority and Constituency Development Fund Expenditures, County estimates, Kenya Shillings",
+    "title": "Per Capita County Expenditures: Mombasa",
+    "extras": [
+        {
+            "value": "Ministry of Local Government",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "a34b4ea9-9073-4841-be69-d0939c263d17",
+                "package_id": "835592da-067c-4dff-9be6-83a0da57842a"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "a34b4ea9-9073-4841-be69-d0939c263d17",
+                "package_id": "835592da-067c-4dff-9be6-83a0da57842a"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "a34b4ea9-9073-4841-be69-d0939c263d17",
+                "package_id": "835592da-067c-4dff-9be6-83a0da57842a"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "a34b4ea9-9073-4841-be69-d0939c263d17"
+}

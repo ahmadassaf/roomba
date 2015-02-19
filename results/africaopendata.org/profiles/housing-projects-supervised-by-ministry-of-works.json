@@ -1,0 +1,148 @@
+{
+    "license_title": "Creative Commons Attribution 4.0",
+    "maintainer": "Open Data Team",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "opendata@edostate.gov.ng",
+    "revision_timestamp": "2014-11-06T16:31:12.927794",
+    "id": "52d36849-e9c9-4a77-a71f-0912bd25571a",
+    "metadata_created": "2014-11-06T16:31:12.927794",
+    "owner_org": null,
+    "metadata_modified": "2014-12-18T16:45:52.659560",
+    "author": "ministry of works",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "98599945-4f92-4606-8880-23b93c4c0d93",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-18T16:45:52.659560",
+            "webstore_last_updated": "2014-07-08T13:27:49.511010",
+            "id": "f41224ad-810d-4232-9270-4154c4425744",
+            "size": "1375",
+            "state": "active",
+            "hash": "{\"content\": \"9490f4405518b3191204334cec226c41295758df\", \"header\": \"1cd15bf9cc9782cfe7b435a047879fe1d691f19d\"}",
+            "description": "This dataset contains list of projects being supervise by ministry of works,showing names and addresses of contractors,contract sum and their status.",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Housing Projects in Edo State Being Supervised by the Ministry of Works.csv",
+            "created": "2013-07-25T12:50:10.068475",
+            "url": "http://edostate.ckanhosted.com/storage/f/2013-07-25T12%3A45%3A47.413Z/housing-projects-in-edo-state-being-supervised-by-the-ministry-of-works.csv",
+            "webstore_url": "active",
+            "last_modified": "2014-07-08T13:27:11.474368",
+            "position": 0,
+            "revision_id": "48934fc3-f4fa-4c0a-9367-bdca95affada",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Names and addresses of contractor",
+            "name": "Names and addresses of contractor",
+            "revision_timestamp": "2014-11-06T16:31:12.927794",
+            "state": "active",
+            "id": "f844bf91-2ec0-41aa-819f-0f677cae3382"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-06T16:31:12.927794",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "contract sum",
+            "name": "contract sum",
+            "revision_timestamp": "2014-11-06T16:31:12.927794",
+            "state": "active",
+            "id": "174568e5-85a1-4da1-9e3b-48d5fdbd0e63"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "edo state",
+            "name": "edo state",
+            "revision_timestamp": "2014-11-06T16:31:12.927794",
+            "state": "active",
+            "id": "b7ac55fa-8449-416f-be17-e59c4c154e51"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "nigeria",
+            "name": "nigeria",
+            "revision_timestamp": "2014-11-06T16:31:12.927794",
+            "state": "active",
+            "id": "d5e39c15-faf7-4e35-96a0-cb88ec7becb1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open data",
+            "name": "open data",
+            "revision_timestamp": "2014-11-06T16:31:12.927794",
+            "state": "active",
+            "id": "5977073f-ae9b-420d-b468-636bfcf752de"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "west africa",
+            "name": "west africa",
+            "revision_timestamp": "2014-11-06T16:31:12.927794",
+            "state": "active",
+            "id": "82a06d2c-708d-44e5-b6c4-0aef079cbf6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "western africa",
+            "name": "western africa",
+            "revision_timestamp": "2014-11-06T16:31:12.927794",
+            "state": "active",
+            "id": "0297e4dc-f3f3-4b3a-bf41-50dd715a453a"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Nigeria",
+            "description": "Datasets from the Republic of Nigeria",
+            "name": "nigeria",
+            "id": "6e482307-7e70-4db4-a3f2-91db4e2b90bc"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 8,
+    "name": "housing-projects-supervised-by-ministry-of-works",
+    "isopen": true,
+    "url": null,
+    "notes": "This dataset contains list of projects being supervised by ministry of works,showing names and addresses of contractors,contract sum and their status.",
+    "title": "Housing projects supervised by ministry of works",
+    "extras": [],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "organization": null,
+    "revision_id": "74ed4bdd-ce4c-49ee-9485-cc9c1c3cec71",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

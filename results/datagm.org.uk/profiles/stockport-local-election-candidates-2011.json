@@ -1,0 +1,135 @@
+{
+    "license_title": "localauth-withrights",
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2013-03-28T09:26:33.463052",
+    "id": "0a1b39e2-9ca8-4425-8ef9-50a8ab8cb342",
+    "metadata_created": "2011-04-19T08:54:02.952257",
+    "owner_org": "b20b66fb-efee-4eff-aabb-02bf39b59958",
+    "metadata_modified": "2013-12-08T06:04:53.613730",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "localauth-withrights",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "application/vnd.ms-excel",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "{\"content\": \"96c8934806512dd1f6205bb34929812a99be9c11\", \"header\": \"b0f594df7d3442ee198ece6d2ded65304cc1e5bc\"}",
+            "description": "",
+            "format": "XLS",
+            "url": "http://store.datagm.org.uk/sets/misc/ElectionCandidates2011Stockport.xls",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "revision_timestamp": "2013-12-08T06:04:53.613730",
+            "webstore_url": null,
+            "resource_group_id": "c3428c7f-9b94-4acf-baed-16bba81083ee",
+            "state": "active",
+            "last_modified": "2013-12-08T06:04:53.594399",
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "18ebb3c4-fae6-40ed-b557-8814b90ebfd2",
+            "size": "23552",
+            "id": "45cd3dad-846f-4599-b6a6-28b1909122d3",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "2011",
+            "name": "2011",
+            "revision_timestamp": "2011-04-19T08:54:02.952257",
+            "state": "active",
+            "id": "c1e51223-a011-42a2-abf2-fa7bf0f58386"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "candidates",
+            "name": "candidates",
+            "revision_timestamp": "2011-04-19T08:54:02.952257",
+            "state": "active",
+            "id": "09cb3a77-72f8-419e-b082-01c3b2541c21"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "election",
+            "name": "election",
+            "revision_timestamp": "2011-04-19T08:54:02.952257",
+            "state": "active",
+            "id": "0b35e2de-2b78-45dc-9e38-22a92294e64c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "local",
+            "name": "local",
+            "revision_timestamp": "2011-04-19T08:54:02.952257",
+            "state": "active",
+            "id": "afa00213-4f37-49fd-a326-9a7742a168d6"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "stockport",
+            "name": "stockport",
+            "revision_timestamp": "2011-04-19T08:54:02.952257",
+            "state": "active",
+            "id": "8ac682a8-74c4-4229-8014-3afd982cb9fd"
+        }
+    ],
+    "tracking_summary": {
+        "total": 3,
+        "recent": 1
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "stockport-local-election-candidates-2011",
+    "isopen": false,
+    "url": "http://store.datagm.org.uk/sets/misc/ElectionCandidates2011Stockport.xls",
+    "notes": "Local election candidates for Stockport 2011",
+    "title": "Stockport Local Election Candidates 2011",
+    "extras": [
+        {
+            "value": "",
+            "key": "temporal_coverage-from",
+            "__extras": {
+                "package_id": "0a1b39e2-9ca8-4425-8ef9-50a8ab8cb342",
+                "revision_id": "3e524fd2-085e-40e9-97c4-35c751493dd9"
+            }
+        },
+        {
+            "value": "",
+            "key": "temporal_coverage-to",
+            "__extras": {
+                "revision_id": "3e524fd2-085e-40e9-97c4-35c751493dd9",
+                "package_id": "0a1b39e2-9ca8-4425-8ef9-50a8ab8cb342"
+            }
+        }
+    ],
+    "organization": {
+        "description": "",
+        "created": "2013-03-28T04:18:30.729200",
+        "title": "Stockport Metropolitan Borough Council",
+        "name": "stockport",
+        "revision_timestamp": "2013-03-28T09:18:30.676797",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "",
+        "revision_id": "94222aa0-5882-4ac1-898b-740a7391d016",
+        "type": "organization",
+        "id": "b20b66fb-efee-4eff-aabb-02bf39b59958",
+        "approval_status": "approved"
+    },
+    "revision_id": "b16abbeb-33fc-4548-b6d3-011b7c198464"
+}

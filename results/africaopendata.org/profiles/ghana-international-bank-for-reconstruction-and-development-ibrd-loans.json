@@ -1,0 +1,97 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-11-04T15:25:58.755758",
+    "id": "d2f16481-680e-47c5-bc65-2c6644f722c8",
+    "metadata_created": "2012-11-04T15:25:27.970465",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:58:53.900763",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "c4b83297-ac20-44bb-84e8-01483ddab8ec",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:58:53.900763",
+            "webstore_last_updated": "2013-10-10T10:58:53.835158",
+            "id": "c78576c1-fedb-43b0-b63a-e065054fd53e",
+            "size": "213092",
+            "state": "active",
+            "hash": "68e5e5d4dcdfd13a3436cca328304ff791f0fb7d",
+            "description": "The International Bank for Reconstruction and Development (IBRD) loans are public and publicly guaranteed debt extended by the World Bank Group. IBRD loans are made to, or guaranteed by, countries that are members of IBRD. IBRD may also make loans to IFC. IBRD lends at market rates. Data are in U.S. dollars calculated using historical rates. This dataset contains the latest available snapshot of the Statement of Loans. The World Bank complies with all sanctions applicable to World Bank transactions.",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "IBRD_Loans_Ghana.csv",
+            "created": "2012-11-04T15:25:50.295891",
+            "url": "http://africaopendata.org/storage/f/2012-11-04T15%3A25%3A38.361Z/ibrd-loans-ghana.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:50:27.695569",
+            "position": 0,
+            "revision_id": "96401ec7-f48e-4c48-81aa-6ed5de2386e0",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Finance",
+            "name": "Finance",
+            "revision_timestamp": "2012-11-04T15:25:27.970465",
+            "state": "active",
+            "id": "0250f366-da61-49cc-95d6-45b19649e872"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Ghana",
+            "name": "Ghana",
+            "revision_timestamp": "2012-11-04T15:25:27.970465",
+            "state": "active",
+            "id": "3eb2f13c-9e39-4f97-877b-2f74d93ad269"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Loans",
+            "name": "Loans",
+            "revision_timestamp": "2012-11-04T15:25:27.970465",
+            "state": "active",
+            "id": "eea841d1-1916-4c2f-b0eb-79525881625f"
+        }
+    ],
+    "tracking_summary": {
+        "total": 123,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Ghana",
+            "description": "Data Sets For the Republic of Ghana",
+            "name": "ghana",
+            "id": "ad652170-f141-4e2a-a917-3e7bb5d42133"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "ghana-international-bank-for-reconstruction-and-development-ibrd-loans",
+    "isopen": true,
+    "url": null,
+    "notes": "The International Bank for Reconstruction and Development (IBRD) loans are public and publicly guaranteed debt extended by the World Bank Group. IBRD loans are made to, or guaranteed by, countries that are members of IBRD. IBRD may also make loans to IFC. IBRD lends at market rates. Data are in U.S. dollars calculated using historical rates. This dataset contains the latest available snapshot of the Statement of Loans. The World Bank complies with all sanctions applicable to World Bank transactions.",
+    "title": "Ghana -  International Bank for Reconstruction and Development (IBRD) loans",
+    "extras": [],
+    "organization": null,
+    "revision_id": "e54e3b93-0c75-4ae8-b7c3-4ad8ae41ed9c"
+}

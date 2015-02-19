@@ -1,0 +1,617 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:25:50.736265",
+    "id": "4680e696-9670-4df5-80bc-41125ef07d7c",
+    "metadata_created": "2014-11-04T22:25:50.736265",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:48:32.087201",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "7a7b7aee-5880-46fa-988a-277b0c22808b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:48:32.087201",
+            "webstore_last_updated": null,
+            "id": "9c4fb73a-f65e-410f-8a0b-83a56e25885e",
+            "size": "20",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "11d2493e29f0f0820bafcc10034086d545a7198a",
+            "description": "Online link to the 'Soils of south Karamoja, 1959' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:52:07.999296",
+            "url": "http://maps.data.ug/layers/geonode:south_karamoja_afr_ug3004_1so_modified",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:58:38.890428",
+            "position": 0,
+            "revision_id": "0ba499b5-68aa-4a84-b6f8-17df90e38424",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "7a7b7aee-5880-46fa-988a-277b0c22808b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:58:52.670918",
+            "webstore_last_updated": null,
+            "id": "33332db2-d258-4a57-94c2-d881d66a4e34",
+            "size": "627077",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Soils of south Karamoja, 1959 (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "south_karamoja_afr_ug3004_1so_modified.png",
+            "created": "2014-03-12T14:52:07.999318",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Asouth_karamoja_afr_ug3004_1so_modified&width=630&bbox=33.48179975167866%2C1.1010324767698554%2C35.45072242380828%2C2.8187360406755655&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:58:52.526860",
+            "position": 1,
+            "revision_id": "53f0d927-ed2a-4361-8957-8e18914e223a",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "7a7b7aee-5880-46fa-988a-277b0c22808b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:58:51.687244",
+            "webstore_last_updated": null,
+            "id": "bf54b930-6bc3-4f2d-829a-3f8a27b4f32a",
+            "size": "631164",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Soils of south Karamoja, 1959 (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "south_karamoja_afr_ug3004_1so_modified.pdf",
+            "created": "2014-03-12T14:52:07.999323",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Asouth_karamoja_afr_ug3004_1so_modified&width=630&bbox=33.48179975167866%2C1.1010324767698554%2C35.45072242380828%2C2.8187360406755655&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:58:51.350760",
+            "position": 2,
+            "revision_id": "d4beb9a3-8543-4893-9dc1-6bd7c77edd3e",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "7a7b7aee-5880-46fa-988a-277b0c22808b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:58:33.183256",
+            "webstore_last_updated": null,
+            "id": "f450e731-fb21-4348-834b-d41fd7ec4daf",
+            "size": "82540",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Soils of south Karamoja, 1959 (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "south_karamoja_afr_ug3004_1so_modified.jpg",
+            "created": "2014-03-12T14:52:07.999327",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Asouth_karamoja_afr_ug3004_1so_modified&width=630&bbox=33.48179975167866%2C1.1010324767698554%2C35.45072242380828%2C2.8187360406755655&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:58:33.048634",
+            "position": 3,
+            "revision_id": "de84ae52-2c0a-4904-ac71-4a1de89df5a3",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "7a7b7aee-5880-46fa-988a-277b0c22808b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:25:50.736265",
+            "webstore_last_updated": null,
+            "id": "2c450845-606d-4e1a-9594-27b034f51743",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Soils of south Karamoja, 1959 (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "south_karamoja_afr_ug3004_1so_modified.tiles",
+            "created": "2014-03-12T14:52:07.999331",
+            "url": "http://maps.data.ug/geoserver/gwc/service/gmaps?layers=geonode:south_karamoja_afr_ug3004_1so_modified&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 4,
+            "revision_id": "7dbc7b6d-8a04-4db7-b408-2b7be61f3d26",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "7a7b7aee-5880-46fa-988a-277b0c22808b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:58:46.547840",
+            "webstore_last_updated": null,
+            "id": "4d3bca72-9587-4828-a15a-28b4ec981c41",
+            "size": "1909",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Soils of south Karamoja, 1959 (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "south_karamoja_afr_ug3004_1so_modified.kml",
+            "created": "2014-03-12T14:52:07.999334",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Asouth_karamoja_afr_ug3004_1so_modified&mode=refresh",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:58:46.412547",
+            "position": 5,
+            "revision_id": "fa42799d-c08e-41f1-8392-cad34157a415",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "7a7b7aee-5880-46fa-988a-277b0c22808b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:58:53.690894",
+            "webstore_last_updated": null,
+            "id": "3238683b-b64e-4136-a903-cc53f0b62b10",
+            "size": "1911",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Soils of south Karamoja, 1959 (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "south_karamoja_afr_ug3004_1so_modified.kml",
+            "created": "2014-03-12T14:52:07.999338",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Asouth_karamoja_afr_ug3004_1so_modified&mode=download",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:58:53.542979",
+            "position": 6,
+            "revision_id": "0a93d1ea-6e76-4225-803f-13d5569fda70",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "7a7b7aee-5880-46fa-988a-277b0c22808b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:58:50.689568",
+            "webstore_last_updated": null,
+            "id": "05b6ebc3-0493-4b81-a71c-15c4e9c06177",
+            "size": "200",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Soils of south Karamoja, 1959 (Gtopo30 Format)",
+            "format": "wcs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.ogc.se_xml",
+            "cache_url": null,
+            "name": "south_karamoja_afr_ug3004_1so_modified.Gtopo30",
+            "created": "2014-03-12T14:52:07.999345",
+            "url": "http://maps.data.ug/geoserver/wcs?crs=EPSG%3A4326&service=WCS&format=Gtopo30&request=GetCoverage&height=550&width=630&version=1.0.0&BBox=33.48179975167866%2C1.1010324767698554%2C35.45072242380828%2C2.8187360406755655&Coverage=geonode%3Asouth_karamoja_afr_ug3004_1so_modified",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:58:50.532940",
+            "position": 7,
+            "revision_id": "6e3bfbd3-9192-469b-9c1b-cd72327f8a80",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "7a7b7aee-5880-46fa-988a-277b0c22808b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:58:49.125731",
+            "webstore_last_updated": null,
+            "id": "beee7db8-e83b-4f40-bbd2-9f32afd92ee0",
+            "size": "1040432",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Soils of south Karamoja, 1959 (GeoTIFF Format)",
+            "format": "wcs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/tiff",
+            "cache_url": null,
+            "name": "south_karamoja_afr_ug3004_1so_modified.GeoTIFF",
+            "created": "2014-03-12T14:52:07.999349",
+            "url": "http://maps.data.ug/geoserver/wcs?crs=EPSG%3A4326&service=WCS&format=GeoTIFF&request=GetCoverage&height=550&width=630&version=1.0.0&BBox=33.48179975167866%2C1.1010324767698554%2C35.45072242380828%2C2.8187360406755655&Coverage=geonode%3Asouth_karamoja_afr_ug3004_1so_modified",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:58:48.991387",
+            "position": 8,
+            "revision_id": "6abc5783-5528-4110-84f2-259030d8eb88",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "7a7b7aee-5880-46fa-988a-277b0c22808b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:48:32.087201",
+            "webstore_last_updated": null,
+            "id": "45dd72e7-2bc6-4da3-ba1d-bbee9888a07e",
+            "size": "2072281",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Soils of south Karamoja, 1959 (ArcGrid Format)",
+            "format": "wcs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/plain",
+            "cache_url": null,
+            "name": "south_karamoja_afr_ug3004_1so_modified.ArcGrid",
+            "created": "2014-03-12T14:52:07.999352",
+            "url": "http://maps.data.ug/geoserver/wcs?crs=EPSG%3A4326&service=WCS&format=ArcGrid&request=GetCoverage&height=550&width=630&version=1.0.0&BBox=33.48179975167866%2C1.1010324767698554%2C35.45072242380828%2C2.8187360406755655&Coverage=geonode%3Asouth_karamoja_afr_ug3004_1so_modified",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:58:43.334750",
+            "position": 9,
+            "revision_id": "0ba499b5-68aa-4a84-b6f8-17df90e38424",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 10,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Geological",
+            "name": "Geological",
+            "revision_timestamp": "2014-11-04T22:25:50.736265",
+            "state": "active",
+            "id": "5379328b-eb6a-4735-a2ee-33db54f98602"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Physical",
+            "name": "Physical",
+            "revision_timestamp": "2014-11-04T22:25:50.736265",
+            "state": "active",
+            "id": "22708169-ba07-4e7c-a53f-f676ce36b428"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Soil",
+            "name": "Soil",
+            "revision_timestamp": "2014-11-04T22:25:50.736265",
+            "state": "active",
+            "id": "27c35c2c-4974-4b85-89cb-368382396b45"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:25:50.736265",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:25:50.736265",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:25:50.736265",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:25:50.736265",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:25:50.736265",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:25:50.736265",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "types",
+            "name": "types",
+            "revision_timestamp": "2014-11-04T22:25:50.736265",
+            "state": "active",
+            "id": "91fad1a2-64d8-4901-8ee8-08d138c6cf8e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:25:50.736265",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 7,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 11,
+    "name": "soils-of-south-karamoja-1959",
+    "isopen": false,
+    "url": null,
+    "notes": "This layer shows soils in south Karamoja in 1959. The dataset is from the European Digital Archives of Soil Maps(EuDASM) 2005 at http://eusoils.jrc.ec.europa.eu/esdb_archive/eudasm/africa/images/maps/download/afr_ug3004_1so.jpg.\nThe map was georeferenced using QGIS and reprojected to WGS84.",
+    "title": "Soils of south Karamoja, 1959",
+    "extras": [
+        {
+            "value": "[\"The maps in EuDASM are holdings of ISRIC. The European Commission - JRC was entitled to scan the original maps and make them available over the Internet. Reproduction is allowed provided the source is acknowledged as follows:\\n\\n\\\"European Digital Archive of Soil Maps (EuDASM). 2005. Maps are holdings of ISRIC. Maps are made available by the European Commission - Joint Research Centre through http://eusoils.jrc.it/esdb_archive/EuDASM/EUDASM.htm\\\"\"]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "7dbc7b6d-8a04-4db7-b408-2b7be61f3d26",
+                "package_id": "4680e696-9670-4df5-80bc-41125ef07d7c"
+            }
+        },
+        {
+            "value": "35.4507224238",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "7dbc7b6d-8a04-4db7-b408-2b7be61f3d26",
+                "package_id": "4680e696-9670-4df5-80bc-41125ef07d7c"
+            }
+        },
+        {
+            "value": "2.8187360407",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "4680e696-9670-4df5-80bc-41125ef07d7c",
+                "revision_id": "7dbc7b6d-8a04-4db7-b408-2b7be61f3d26"
+            }
+        },
+        {
+            "value": "1.1010324768",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "7dbc7b6d-8a04-4db7-b408-2b7be61f3d26",
+                "package_id": "4680e696-9670-4df5-80bc-41125ef07d7c"
+            }
+        },
+        {
+            "value": "33.4817997517",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "7dbc7b6d-8a04-4db7-b408-2b7be61f3d26",
+                "package_id": "4680e696-9670-4df5-80bc-41125ef07d7c"
+            }
+        },
+        {
+            "value": "katy@mountbatten.net",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "4680e696-9670-4df5-80bc-41125ef07d7c",
+                "revision_id": "7dbc7b6d-8a04-4db7-b408-2b7be61f3d26"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "4680e696-9670-4df5-80bc-41125ef07d7c",
+                "revision_id": "7dbc7b6d-8a04-4db7-b408-2b7be61f3d26"
+            }
+        },
+        {
+            "value": "[{\"type\": \"creation\", \"value\": \"2014-02-20T03:32:50Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "4680e696-9670-4df5-80bc-41125ef07d7c",
+                "revision_id": "7dbc7b6d-8a04-4db7-b408-2b7be61f3d26"
+            }
+        },
+        {
+            "value": "unknown",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "4680e696-9670-4df5-80bc-41125ef07d7c",
+                "revision_id": "7dbc7b6d-8a04-4db7-b408-2b7be61f3d26"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Soils of south Karamoja, 1959'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "4680e696-9670-4df5-80bc-41125ef07d7c",
+                "revision_id": "7dbc7b6d-8a04-4db7-b408-2b7be61f3d26"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "4680e696-9670-4df5-80bc-41125ef07d7c",
+                "revision_id": "7dbc7b6d-8a04-4db7-b408-2b7be61f3d26"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "7dbc7b6d-8a04-4db7-b408-2b7be61f3d26",
+                "package_id": "4680e696-9670-4df5-80bc-41125ef07d7c"
+            }
+        },
+        {
+            "value": "f71378e6-9a11-11e3-be4b-6ff8f150c21a",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "7dbc7b6d-8a04-4db7-b408-2b7be61f3d26",
+                "package_id": "4680e696-9670-4df5-80bc-41125ef07d7c"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "7dbc7b6d-8a04-4db7-b408-2b7be61f3d26",
+                "package_id": "4680e696-9670-4df5-80bc-41125ef07d7c"
+            }
+        },
+        {
+            "value": "2014-02-20T03:32:50Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "4680e696-9670-4df5-80bc-41125ef07d7c",
+                "revision_id": "7dbc7b6d-8a04-4db7-b408-2b7be61f3d26"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "7dbc7b6d-8a04-4db7-b408-2b7be61f3d26",
+                "package_id": "4680e696-9670-4df5-80bc-41125ef07d7c"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "4680e696-9670-4df5-80bc-41125ef07d7c",
+                "revision_id": "7dbc7b6d-8a04-4db7-b408-2b7be61f3d26"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "4680e696-9670-4df5-80bc-41125ef07d7c",
+                "revision_id": "7dbc7b6d-8a04-4db7-b408-2b7be61f3d26"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "4680e696-9670-4df5-80bc-41125ef07d7c",
+                "revision_id": "7dbc7b6d-8a04-4db7-b408-2b7be61f3d26"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[33.4817997517, 1.1010324768], [35.4507224238, 1.1010324768], [35.4507224238, 2.8187360407], [33.4817997517, 2.8187360407], [33.4817997517, 1.1010324768]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "7dbc7b6d-8a04-4db7-b408-2b7be61f3d26",
+                "package_id": "4680e696-9670-4df5-80bc-41125ef07d7c"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "4680e696-9670-4df5-80bc-41125ef07d7c",
+                "revision_id": "7dbc7b6d-8a04-4db7-b408-2b7be61f3d26"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "7dbc7b6d-8a04-4db7-b408-2b7be61f3d26",
+                "package_id": "4680e696-9670-4df5-80bc-41125ef07d7c"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "7dbc7b6d-8a04-4db7-b408-2b7be61f3d26",
+                "package_id": "4680e696-9670-4df5-80bc-41125ef07d7c"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "7dbc7b6d-8a04-4db7-b408-2b7be61f3d26"
+}

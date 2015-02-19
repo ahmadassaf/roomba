@@ -1,0 +1,138 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Kenya Open Data Bot",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T12:52:05.804212",
+    "id": "584bd9cb-0604-453a-9cc4-09ababb9d69d",
+    "metadata_created": "2012-09-10T12:52:05.804212",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:13:16.044705",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "cec61959-174b-4b55-a72a-f0cef43fd0ad",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:13:16.044705",
+            "webstore_last_updated": "2013-10-10T12:13:15.952489",
+            "id": "5820e263-9971-412c-b6bc-acb9aba38f7e",
+            "size": "170",
+            "state": "active",
+            "hash": "1b320b440879fac889652f9f171fda3828cc16fa",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "County Urbanization: Tana River.csv",
+            "created": "2012-09-11T13:37:55.497038",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T154040/sz2y-rvkj.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:41:56.172787",
+            "position": 0,
+            "revision_id": "eb3671f6-ad30-467f-a6dd-e846d3531f84",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "county",
+            "name": "county",
+            "revision_timestamp": "2012-09-10T12:52:05.804212",
+            "state": "active",
+            "id": "858f3acf-2c66-4fd9-9dc2-32e4f12121a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T12:52:05.804212",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T12:52:05.804212",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population",
+            "name": "population",
+            "revision_timestamp": "2012-09-10T12:52:05.804212",
+            "state": "active",
+            "id": "c5e39de5-556e-4bcb-883b-5b9ec2481ae9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "urbanisation",
+            "name": "urbanisation",
+            "revision_timestamp": "2012-09-10T12:52:05.804212",
+            "state": "active",
+            "id": "0a352ac2-4503-4c03-8962-ef4f605e793e"
+        }
+    ],
+    "tracking_summary": {
+        "total": 62,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "kodi-sz2y-rvkj",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Census population by rural, urban, County estimates",
+    "title": "County Urbanization: Tana River",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "1b2dce29-b7d8-4ddf-8ed7-4522640fbaa4",
+                "package_id": "584bd9cb-0604-453a-9cc4-09ababb9d69d"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "1b2dce29-b7d8-4ddf-8ed7-4522640fbaa4",
+                "package_id": "584bd9cb-0604-453a-9cc4-09ababb9d69d"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "1b2dce29-b7d8-4ddf-8ed7-4522640fbaa4",
+                "package_id": "584bd9cb-0604-453a-9cc4-09ababb9d69d"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "1b2dce29-b7d8-4ddf-8ed7-4522640fbaa4"
+}

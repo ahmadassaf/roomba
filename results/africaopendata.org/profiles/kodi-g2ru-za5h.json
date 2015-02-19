@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Samuel Kipruto",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:49:18.483607",
+    "id": "1b4ef675-dd2d-4ec5-b39a-5ede9de99594",
+    "metadata_created": "2012-09-11T13:49:18.483607",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:08:55.471957",
+    "author": "Samuel Kipruto",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "218d3bfa-c4c5-4bd9-ab56-78b4e8065040",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:08:55.471957",
+            "webstore_last_updated": "2013-10-10T12:08:55.405685",
+            "id": "5a60b8db-5e42-4d70-a5cd-12c270aaeedf",
+            "size": "2419",
+            "state": "active",
+            "hash": "11f5a2e8540aaba0e06ca37722f80e8e9bb59c56",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Gross Domestic Product And National Income - 2001-2009.csv",
+            "created": "2012-09-11T13:49:18.524005",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155203/g2ru-za5h.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:28:41.970416",
+            "position": 0,
+            "revision_id": "1e09f973-06b2-4820-a892-da287223b9ed",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "gdp",
+            "name": "gdp",
+            "revision_timestamp": "2012-09-11T13:49:18.483607",
+            "state": "active",
+            "id": "cbb01a93-4bb5-4ab2-a836-a80ecfe5a699"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:49:18.483607",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:49:18.483607",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 45,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-g2ru-za5h",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Kenya National Bureau of Statistics              \r\nGross Domestic Product And National Income 2001-2009                 \r\nStatistical Abstract",
+    "title": "Gross Domestic Product And National Income - 2001-2009",
+    "extras": [
+        {
+            "value": "Kenya National Bureau of Statistics",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "eccdcc3e-2081-4bda-acc2-b993106455f9",
+                "package_id": "1b4ef675-dd2d-4ec5-b39a-5ede9de99594"
+            }
+        },
+        {
+            "value": "Manufacturing and industry",
+            "key": "category",
+            "__extras": {
+                "revision_id": "eccdcc3e-2081-4bda-acc2-b993106455f9",
+                "package_id": "1b4ef675-dd2d-4ec5-b39a-5ede9de99594"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "eccdcc3e-2081-4bda-acc2-b993106455f9",
+                "package_id": "1b4ef675-dd2d-4ec5-b39a-5ede9de99594"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "eccdcc3e-2081-4bda-acc2-b993106455f9"
+}

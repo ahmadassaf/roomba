@@ -1,0 +1,138 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Kenya Open Data Bot",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T12:54:20.432603",
+    "id": "bd0d2071-c686-46f1-a23c-9543a84bb08d",
+    "metadata_created": "2012-09-10T12:54:20.432603",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:12:14.453287",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "5dddb7e3-8482-489b-b45d-7dad65cc251f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:12:14.453287",
+            "webstore_last_updated": "2013-10-10T12:12:14.381833",
+            "id": "713091f7-b784-4413-9801-1e659c9d4762",
+            "size": "172",
+            "state": "active",
+            "hash": "d3937b154050b816976d2974158a24dca9691ddd",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "County Urbanization: Kericho.csv",
+            "created": "2012-09-11T13:39:33.826261",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T154218/7v7e-wgjb.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:45:35.997158",
+            "position": 0,
+            "revision_id": "2c3f9081-5cfa-4688-9944-5c4b3066ee4a",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "county",
+            "name": "county",
+            "revision_timestamp": "2012-09-10T12:54:20.432603",
+            "state": "active",
+            "id": "858f3acf-2c66-4fd9-9dc2-32e4f12121a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T12:54:20.432603",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T12:54:20.432603",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population",
+            "name": "population",
+            "revision_timestamp": "2012-09-10T12:54:20.432603",
+            "state": "active",
+            "id": "c5e39de5-556e-4bcb-883b-5b9ec2481ae9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "urbanisation",
+            "name": "urbanisation",
+            "revision_timestamp": "2012-09-10T12:54:20.432603",
+            "state": "active",
+            "id": "0a352ac2-4503-4c03-8962-ef4f605e793e"
+        }
+    ],
+    "tracking_summary": {
+        "total": 68,
+        "recent": 3
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "kodi-7v7e-wgjb",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Census population by rural, urban, County estimates",
+    "title": "County Urbanization: Kericho",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "b61395d5-e845-4036-aec6-c6b2aa5ec968",
+                "package_id": "bd0d2071-c686-46f1-a23c-9543a84bb08d"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "b61395d5-e845-4036-aec6-c6b2aa5ec968",
+                "package_id": "bd0d2071-c686-46f1-a23c-9543a84bb08d"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "b61395d5-e845-4036-aec6-c6b2aa5ec968",
+                "package_id": "bd0d2071-c686-46f1-a23c-9543a84bb08d"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "b61395d5-e845-4036-aec6-c6b2aa5ec968"
+}

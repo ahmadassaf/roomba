@@ -1,0 +1,675 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:24:31.334744",
+    "id": "1ea30bd1-df1b-47a6-9ef3-4767fc065c55",
+    "metadata_created": "2014-11-04T22:24:31.334744",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:47:54.234859",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "c2843117-23a3-4bf1-b164-b4699aff2525",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:53:01.246091",
+            "webstore_last_updated": null,
+            "id": "cf5a94a8-78d9-47c8-ad67-d7c127cf3a9c",
+            "size": "45533",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "b61154b4c55afacfda2f021ad97f638ee7c9caec",
+            "description": "Online link to the 'Wildlifereserve' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:51:41.665980",
+            "url": "http://maps.data.ug/layers/geonode:wildlifereserve",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:53:01.104577",
+            "position": 0,
+            "revision_id": "0b6e5424-d0a1-44fb-ae0b-70c2c52b7fe6",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c2843117-23a3-4bf1-b164-b4699aff2525",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:24:31.334744",
+            "webstore_last_updated": null,
+            "id": "68578eaa-b509-4b3e-8e2e-777d8db1ba61",
+            "size": "8948",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Wildlifereserve (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "wildlifereserve.jpg",
+            "created": "2014-03-12T14:51:41.666007",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms?layers=geonode%3Awildlifereserve&width=686&bbox=29.627456412769696%2C-0.728730463050295%2C34.801755944910035%2C3.4155177298077284&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:57:01.880364",
+            "position": 1,
+            "revision_id": "8a862912-42d0-4a4c-a527-320dbe050eb3",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c2843117-23a3-4bf1-b164-b4699aff2525",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:52:53.349758",
+            "webstore_last_updated": null,
+            "id": "f632aa48-4b0d-419f-b55c-29f759d9f4a7",
+            "size": "9019",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Wildlifereserve (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "wildlifereserve.pdf",
+            "created": "2014-03-12T14:51:41.666012",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms?layers=geonode%3Awildlifereserve&width=686&bbox=29.627456412769696%2C-0.728730463050295%2C34.801755944910035%2C3.4155177298077284&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:52:53.204688",
+            "position": 2,
+            "revision_id": "9859df8d-ffa5-46c2-835d-681891c85d2c",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c2843117-23a3-4bf1-b164-b4699aff2525",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:52:59.314679",
+            "webstore_last_updated": null,
+            "id": "c3910547-9f0d-4e5e-ae3c-866753a89047",
+            "size": "15426",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Wildlifereserve (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "wildlifereserve.png",
+            "created": "2014-03-12T14:51:41.666016",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms?layers=geonode%3Awildlifereserve&width=686&bbox=29.627456412769696%2C-0.728730463050295%2C34.801755944910035%2C3.4155177298077284&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:52:59.120986",
+            "position": 3,
+            "revision_id": "335a742c-f7d9-4b00-87b9-18e1932997ef",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c2843117-23a3-4bf1-b164-b4699aff2525",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:47:54.234859",
+            "webstore_last_updated": null,
+            "id": "5cc82e84-29e3-4fa1-9eed-f14b44049a85",
+            "size": "191111",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Wildlifereserve (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "wildlifereserve.zip",
+            "created": "2014-03-12T14:51:41.666019",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Awildlifereserve&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:52:58.340984",
+            "position": 4,
+            "revision_id": "8dbe7bda-8b42-45f8-a90a-832af1424c45",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c2843117-23a3-4bf1-b164-b4699aff2525",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:53:03.731277",
+            "webstore_last_updated": null,
+            "id": "07e99745-2432-4689-aefd-09b803093db5",
+            "size": "462650",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Wildlifereserve (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "wildlifereserve.gml",
+            "created": "2014-03-12T14:51:41.666023",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Awildlifereserve&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:53:03.581800",
+            "position": 5,
+            "revision_id": "878d73cf-9eac-4f0e-8601-d6198c95f981",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c2843117-23a3-4bf1-b164-b4699aff2525",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:52:56.320017",
+            "webstore_last_updated": null,
+            "id": "48656a39-1ac7-4772-983a-b12a68fbb6e0",
+            "size": "533977",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Wildlifereserve (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "wildlifereserve.gml",
+            "created": "2014-03-12T14:51:41.666026",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Awildlifereserve&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:52:56.184798",
+            "position": 6,
+            "revision_id": "9585727f-b2bb-4ca9-b005-248e354590db",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c2843117-23a3-4bf1-b164-b4699aff2525",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:47:54.234859",
+            "webstore_last_updated": "2014-11-04T22:53:03.028821",
+            "id": "0637a2b5-5179-482a-bee8-4c13e2e22762",
+            "size": "533647",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Wildlifereserve (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "wildlifereserve.csv",
+            "created": "2014-03-12T14:51:41.666030",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Awildlifereserve&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": "active",
+            "last_modified": "2014-11-04T22:53:01.693643",
+            "position": 7,
+            "revision_id": "8dbe7bda-8b42-45f8-a90a-832af1424c45",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c2843117-23a3-4bf1-b164-b4699aff2525",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:52:55.299807",
+            "webstore_last_updated": null,
+            "id": "4988a45b-654f-452b-8232-aa0b352cebc6",
+            "size": "356352",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Wildlifereserve (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "wildlifereserve.excel",
+            "created": "2014-03-12T14:51:41.666033",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Awildlifereserve&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:52:55.134884",
+            "position": 8,
+            "revision_id": "ec6e21da-917c-4e37-ab1c-9601b362b5ac",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c2843117-23a3-4bf1-b164-b4699aff2525",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:52:57.284291",
+            "webstore_last_updated": null,
+            "id": "3a939a54-a77e-480e-a3b8-ab396209e755",
+            "size": "558955",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Wildlifereserve (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "wildlifereserve.json",
+            "created": "2014-03-12T14:51:41.666036",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Awildlifereserve&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:52:57.151080",
+            "position": 9,
+            "revision_id": "8cd3d1b5-183e-4234-943b-ae7e0175f680",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c2843117-23a3-4bf1-b164-b4699aff2525",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:52:54.197114",
+            "webstore_last_updated": null,
+            "id": "c6461481-d9ab-46b1-b85e-7f5f4b1193d0",
+            "size": "597423",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Wildlifereserve (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "wildlifereserve.kml",
+            "created": "2014-03-12T14:51:41.666040",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms/kml?layers=geonode%3Awildlifereserve&mode=download",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:52:53.867916",
+            "position": 10,
+            "revision_id": "24a5a783-e9bd-4098-8fb5-477bcb8637ec",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c2843117-23a3-4bf1-b164-b4699aff2525",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:52:51.830298",
+            "webstore_last_updated": null,
+            "id": "f533a5f0-7b69-42a7-a453-c84706a1bd71",
+            "size": "1842",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Wildlifereserve (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "wildlifereserve.kml",
+            "created": "2014-03-12T14:51:41.666043",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms/kml?layers=geonode%3Awildlifereserve&mode=refresh",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:52:51.687146",
+            "position": 11,
+            "revision_id": "4a55d6b0-b626-448a-93e8-dd0457468eb1",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c2843117-23a3-4bf1-b164-b4699aff2525",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:24:31.334744",
+            "webstore_last_updated": null,
+            "id": "81e794b9-d409-4071-9a6b-fa8aa8948ca0",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Wildlifereserve (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "wildlifereserve.tiles",
+            "created": "2014-03-12T14:51:41.666047",
+            "url": "http://geoclean.mountbatten.net/geoserver/gwc/service/gmaps?layers=geonode:wildlifereserve&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 12,
+            "revision_id": "8a862912-42d0-4a4c-a527-320dbe050eb3",
+            "resource_type": null
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "CLEAN",
+            "name": "CLEAN",
+            "revision_timestamp": "2014-11-04T22:24:31.334744",
+            "state": "active",
+            "id": "3acc157d-6cb7-4e71-8564-28ccf51ed93b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:24:31.334744",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:24:31.334744",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:24:31.334744",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:24:31.334744",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:24:31.334744",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:24:31.334744",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 4,
+        "recent": 3
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 7,
+    "name": "wildlifereserve",
+    "isopen": false,
+    "url": null,
+    "notes": "No abstract provided",
+    "title": "Wildlifereserve",
+    "extras": [
+        {
+            "value": "[\"None\"]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "8a862912-42d0-4a4c-a527-320dbe050eb3",
+                "package_id": "1ea30bd1-df1b-47a6-9ef3-4767fc065c55"
+            }
+        },
+        {
+            "value": "34.8017559449",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "8a862912-42d0-4a4c-a527-320dbe050eb3",
+                "package_id": "1ea30bd1-df1b-47a6-9ef3-4767fc065c55"
+            }
+        },
+        {
+            "value": "3.4155177298",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "1ea30bd1-df1b-47a6-9ef3-4767fc065c55",
+                "revision_id": "8a862912-42d0-4a4c-a527-320dbe050eb3"
+            }
+        },
+        {
+            "value": "-0.7287304631",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "8a862912-42d0-4a4c-a527-320dbe050eb3",
+                "package_id": "1ea30bd1-df1b-47a6-9ef3-4767fc065c55"
+            }
+        },
+        {
+            "value": "29.6274564128",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "8a862912-42d0-4a4c-a527-320dbe050eb3",
+                "package_id": "1ea30bd1-df1b-47a6-9ef3-4767fc065c55"
+            }
+        },
+        {
+            "value": "katy@mountbatten.net",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "1ea30bd1-df1b-47a6-9ef3-4767fc065c55",
+                "revision_id": "8a862912-42d0-4a4c-a527-320dbe050eb3"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "1ea30bd1-df1b-47a6-9ef3-4767fc065c55",
+                "revision_id": "8a862912-42d0-4a4c-a527-320dbe050eb3"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-02-19T03:50:53Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "1ea30bd1-df1b-47a6-9ef3-4767fc065c55",
+                "revision_id": "8a862912-42d0-4a4c-a527-320dbe050eb3"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "1ea30bd1-df1b-47a6-9ef3-4767fc065c55",
+                "revision_id": "8a862912-42d0-4a4c-a527-320dbe050eb3"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Wildlifereserve'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "1ea30bd1-df1b-47a6-9ef3-4767fc065c55",
+                "revision_id": "8a862912-42d0-4a4c-a527-320dbe050eb3"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "1ea30bd1-df1b-47a6-9ef3-4767fc065c55",
+                "revision_id": "8a862912-42d0-4a4c-a527-320dbe050eb3"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "8a862912-42d0-4a4c-a527-320dbe050eb3",
+                "package_id": "1ea30bd1-df1b-47a6-9ef3-4767fc065c55"
+            }
+        },
+        {
+            "value": "526bbf90-994b-11e3-a875-57cb53fc9b2b",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "8a862912-42d0-4a4c-a527-320dbe050eb3",
+                "package_id": "1ea30bd1-df1b-47a6-9ef3-4767fc065c55"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "8a862912-42d0-4a4c-a527-320dbe050eb3",
+                "package_id": "1ea30bd1-df1b-47a6-9ef3-4767fc065c55"
+            }
+        },
+        {
+            "value": "2014-02-19T03:50:53Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "1ea30bd1-df1b-47a6-9ef3-4767fc065c55",
+                "revision_id": "8a862912-42d0-4a4c-a527-320dbe050eb3"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "8a862912-42d0-4a4c-a527-320dbe050eb3",
+                "package_id": "1ea30bd1-df1b-47a6-9ef3-4767fc065c55"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "1ea30bd1-df1b-47a6-9ef3-4767fc065c55",
+                "revision_id": "8a862912-42d0-4a4c-a527-320dbe050eb3"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "1ea30bd1-df1b-47a6-9ef3-4767fc065c55",
+                "revision_id": "8a862912-42d0-4a4c-a527-320dbe050eb3"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "1ea30bd1-df1b-47a6-9ef3-4767fc065c55",
+                "revision_id": "8a862912-42d0-4a4c-a527-320dbe050eb3"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.6274564128, -0.7287304631], [34.8017559449, -0.7287304631], [34.8017559449, 3.4155177298], [29.6274564128, 3.4155177298], [29.6274564128, -0.7287304631]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "8a862912-42d0-4a4c-a527-320dbe050eb3",
+                "package_id": "1ea30bd1-df1b-47a6-9ef3-4767fc065c55"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "1ea30bd1-df1b-47a6-9ef3-4767fc065c55",
+                "revision_id": "8a862912-42d0-4a4c-a527-320dbe050eb3"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "8a862912-42d0-4a4c-a527-320dbe050eb3",
+                "package_id": "1ea30bd1-df1b-47a6-9ef3-4767fc065c55"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "8a862912-42d0-4a4c-a527-320dbe050eb3",
+                "package_id": "1ea30bd1-df1b-47a6-9ef3-4767fc065c55"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "8a862912-42d0-4a4c-a527-320dbe050eb3"
+}

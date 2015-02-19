@@ -1,0 +1,699 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:33:59.531615",
+    "id": "e6da0840-34d8-4d15-854a-9c480c65efdf",
+    "metadata_created": "2014-11-04T22:33:59.531615",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:52:11.325578",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "7e174bf0-2776-4012-ad74-8ef85358e68e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:52:11.325578",
+            "webstore_last_updated": null,
+            "id": "a53ee50b-d3a7-43be-8ac6-66ecda211ffb",
+            "size": "20",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "c9d7235551c691064478299ecfaf2e987918cf11",
+            "description": "Online link to the 'Literacy Rate 2000' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:52:46.725781",
+            "url": "http://maps.data.ug/layers/geonode:literacy_rate_2000",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T15:16:53.857086",
+            "position": 0,
+            "revision_id": "01a7aadb-1bba-4ef3-b4e7-eaefc8e6f369",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "7e174bf0-2776-4012-ad74-8ef85358e68e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:33:59.531615",
+            "webstore_last_updated": null,
+            "id": "380725a1-ade4-485b-89fb-2722f317a8f3",
+            "size": "120822",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Literacy Rate 2000 (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "literacy_rate_2000.zip",
+            "created": "2014-03-12T14:52:46.725806",
+            "url": "http://maps.data.ug/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Aliteracy_rate_2000&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "d804626c-7c1e-47cf-a714-5d8d9353b8bc",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "7e174bf0-2776-4012-ad74-8ef85358e68e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:33:59.531615",
+            "webstore_last_updated": null,
+            "id": "b6e36498-6409-4d63-80f7-eec4045811c5",
+            "size": "262435",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Literacy Rate 2000 (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "literacy_rate_2000.gml",
+            "created": "2014-03-12T14:52:46.725815",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Aliteracy_rate_2000&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "d804626c-7c1e-47cf-a714-5d8d9353b8bc",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "7e174bf0-2776-4012-ad74-8ef85358e68e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:33:59.531615",
+            "webstore_last_updated": null,
+            "id": "358bf1dd-e4bd-4522-8e50-eb3f6385c720",
+            "size": "514",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Literacy Rate 2000 (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "literacy_rate_2000.gml",
+            "created": "2014-03-12T14:52:46.725823",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Aliteracy_rate_2000&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "d804626c-7c1e-47cf-a714-5d8d9353b8bc",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "7e174bf0-2776-4012-ad74-8ef85358e68e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:33:59.531615",
+            "webstore_last_updated": null,
+            "id": "5eed2276-75a2-40af-a171-de6ab274c685",
+            "size": "342286",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Literacy Rate 2000 (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "literacy_rate_2000.csv",
+            "created": "2014-03-12T14:52:46.725830",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Aliteracy_rate_2000&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 4,
+            "revision_id": "d804626c-7c1e-47cf-a714-5d8d9353b8bc",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "7e174bf0-2776-4012-ad74-8ef85358e68e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:33:59.531615",
+            "webstore_last_updated": null,
+            "id": "cf76dc8c-f865-4db7-9fd0-0cc69cdd4a41",
+            "size": "358400",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Literacy Rate 2000 (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "literacy_rate_2000.excel",
+            "created": "2014-03-12T14:52:46.725838",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Aliteracy_rate_2000&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 5,
+            "revision_id": "d804626c-7c1e-47cf-a714-5d8d9353b8bc",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "7e174bf0-2776-4012-ad74-8ef85358e68e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:33:59.531615",
+            "webstore_last_updated": null,
+            "id": "5e49ebff-72b6-4edc-b21c-302bf8cbb22d",
+            "size": "367744",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Literacy Rate 2000 (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "literacy_rate_2000.json",
+            "created": "2014-03-12T14:52:46.725846",
+            "url": "http://maps.data.ug/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Aliteracy_rate_2000&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 6,
+            "revision_id": "d804626c-7c1e-47cf-a714-5d8d9353b8bc",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "7e174bf0-2776-4012-ad74-8ef85358e68e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:33:59.531615",
+            "webstore_last_updated": null,
+            "id": "a9ccc28b-19e2-4b82-a8f3-0214db00e072",
+            "size": "555092",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Literacy Rate 2000 (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "literacy_rate_2000.kml",
+            "created": "2014-03-12T14:52:46.725853",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Aliteracy_rate_2000&mode=download",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 7,
+            "revision_id": "d804626c-7c1e-47cf-a714-5d8d9353b8bc",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "7e174bf0-2776-4012-ad74-8ef85358e68e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:33:59.531615",
+            "webstore_last_updated": null,
+            "id": "49486a72-a4f9-4309-a297-5ee03c26ace8",
+            "size": "1851",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Literacy Rate 2000 (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "literacy_rate_2000.kml",
+            "created": "2014-03-12T14:52:46.725860",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Aliteracy_rate_2000&mode=refresh",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 8,
+            "revision_id": "d804626c-7c1e-47cf-a714-5d8d9353b8bc",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "7e174bf0-2776-4012-ad74-8ef85358e68e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:33:59.531615",
+            "webstore_last_updated": null,
+            "id": "f9348b7e-76b2-42f5-917e-42952d46d3c2",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Literacy Rate 2000 (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "literacy_rate_2000.tiles",
+            "created": "2014-03-12T14:52:46.725867",
+            "url": "http://maps.data.ug/geoserver/gwc/service/gmaps?layers=geonode:literacy_rate_2000&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "d804626c-7c1e-47cf-a714-5d8d9353b8bc",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "7e174bf0-2776-4012-ad74-8ef85358e68e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:33:59.531615",
+            "webstore_last_updated": null,
+            "id": "86be2ba4-4606-4761-a2ed-25508f92beaf",
+            "size": "31426",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Literacy Rate 2000 (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "literacy_rate_2000.jpg",
+            "created": "2014-03-12T14:52:46.725875",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Aliteracy_rate_2000&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 10,
+            "revision_id": "d804626c-7c1e-47cf-a714-5d8d9353b8bc",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "7e174bf0-2776-4012-ad74-8ef85358e68e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:33:59.531615",
+            "webstore_last_updated": null,
+            "id": "76cededd-d29f-44ee-af5f-8d47578a9d16",
+            "size": "40993",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Literacy Rate 2000 (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "literacy_rate_2000.pdf",
+            "created": "2014-03-12T14:52:46.725881",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Aliteracy_rate_2000&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 11,
+            "revision_id": "d804626c-7c1e-47cf-a714-5d8d9353b8bc",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "7e174bf0-2776-4012-ad74-8ef85358e68e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:33:59.531615",
+            "webstore_last_updated": null,
+            "id": "96999c07-86fc-4697-8a2a-c070a617c40a",
+            "size": "55744",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Literacy Rate 2000 (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "literacy_rate_2000.png",
+            "created": "2014-03-12T14:52:46.725888",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Aliteracy_rate_2000&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 12,
+            "revision_id": "d804626c-7c1e-47cf-a714-5d8d9353b8bc",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:33:59.531615",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:33:59.531615",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:33:59.531615",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "development",
+            "name": "development",
+            "revision_timestamp": "2014-11-04T22:33:59.531615",
+            "state": "active",
+            "id": "70c7d041-856e-491e-ae63-734a42ccb5b6"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:33:59.531615",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:33:59.531615",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "education",
+            "name": "education",
+            "revision_timestamp": "2014-11-04T22:33:59.531615",
+            "state": "active",
+            "id": "4bc98291-13cc-4baf-b090-52376fa3a429"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:33:59.531615",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "skills",
+            "name": "skills",
+            "revision_timestamp": "2014-11-04T22:33:59.531615",
+            "state": "active",
+            "id": "c1d98a3f-8eea-40d7-a9e7-aebed7fdfe32"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:33:59.531615",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 9,
+        "recent": 3
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 10,
+    "name": "literacy-rate-2000",
+    "isopen": false,
+    "url": null,
+    "notes": "Literacy Rate 2000 per district",
+    "title": "Literacy Rate 2000",
+    "extras": [
+        {
+            "value": "[]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "d804626c-7c1e-47cf-a714-5d8d9353b8bc",
+                "package_id": "e6da0840-34d8-4d15-854a-9c480c65efdf"
+            }
+        },
+        {
+            "value": "35.0017411394",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "d804626c-7c1e-47cf-a714-5d8d9353b8bc",
+                "package_id": "e6da0840-34d8-4d15-854a-9c480c65efdf"
+            }
+        },
+        {
+            "value": "4.2310114174",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "e6da0840-34d8-4d15-854a-9c480c65efdf",
+                "revision_id": "d804626c-7c1e-47cf-a714-5d8d9353b8bc"
+            }
+        },
+        {
+            "value": "-1.4817440179",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "d804626c-7c1e-47cf-a714-5d8d9353b8bc",
+                "package_id": "e6da0840-34d8-4d15-854a-9c480c65efdf"
+            }
+        },
+        {
+            "value": "29.5741674481",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "d804626c-7c1e-47cf-a714-5d8d9353b8bc",
+                "package_id": "e6da0840-34d8-4d15-854a-9c480c65efdf"
+            }
+        },
+        {
+            "value": "",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "e6da0840-34d8-4d15-854a-9c480c65efdf",
+                "revision_id": "d804626c-7c1e-47cf-a714-5d8d9353b8bc"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "e6da0840-34d8-4d15-854a-9c480c65efdf",
+                "revision_id": "d804626c-7c1e-47cf-a714-5d8d9353b8bc"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-02-20T03:59:54Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "e6da0840-34d8-4d15-854a-9c480c65efdf",
+                "revision_id": "d804626c-7c1e-47cf-a714-5d8d9353b8bc"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "e6da0840-34d8-4d15-854a-9c480c65efdf",
+                "revision_id": "d804626c-7c1e-47cf-a714-5d8d9353b8bc"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Literacy Rate 2000'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "e6da0840-34d8-4d15-854a-9c480c65efdf",
+                "revision_id": "d804626c-7c1e-47cf-a714-5d8d9353b8bc"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "e6da0840-34d8-4d15-854a-9c480c65efdf",
+                "revision_id": "d804626c-7c1e-47cf-a714-5d8d9353b8bc"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "d804626c-7c1e-47cf-a714-5d8d9353b8bc",
+                "package_id": "e6da0840-34d8-4d15-854a-9c480c65efdf"
+            }
+        },
+        {
+            "value": "bf7f2412-9a15-11e3-8923-11b11f8ea6d0",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "d804626c-7c1e-47cf-a714-5d8d9353b8bc",
+                "package_id": "e6da0840-34d8-4d15-854a-9c480c65efdf"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "d804626c-7c1e-47cf-a714-5d8d9353b8bc",
+                "package_id": "e6da0840-34d8-4d15-854a-9c480c65efdf"
+            }
+        },
+        {
+            "value": "2014-02-20T03:59:54Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "e6da0840-34d8-4d15-854a-9c480c65efdf",
+                "revision_id": "d804626c-7c1e-47cf-a714-5d8d9353b8bc"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "d804626c-7c1e-47cf-a714-5d8d9353b8bc",
+                "package_id": "e6da0840-34d8-4d15-854a-9c480c65efdf"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "e6da0840-34d8-4d15-854a-9c480c65efdf",
+                "revision_id": "d804626c-7c1e-47cf-a714-5d8d9353b8bc"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "e6da0840-34d8-4d15-854a-9c480c65efdf",
+                "revision_id": "d804626c-7c1e-47cf-a714-5d8d9353b8bc"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "e6da0840-34d8-4d15-854a-9c480c65efdf",
+                "revision_id": "d804626c-7c1e-47cf-a714-5d8d9353b8bc"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.5741674481, -1.4817440179], [35.0017411394, -1.4817440179], [35.0017411394, 4.2310114174], [29.5741674481, 4.2310114174], [29.5741674481, -1.4817440179]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "d804626c-7c1e-47cf-a714-5d8d9353b8bc",
+                "package_id": "e6da0840-34d8-4d15-854a-9c480c65efdf"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "e6da0840-34d8-4d15-854a-9c480c65efdf",
+                "revision_id": "d804626c-7c1e-47cf-a714-5d8d9353b8bc"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "d804626c-7c1e-47cf-a714-5d8d9353b8bc",
+                "package_id": "e6da0840-34d8-4d15-854a-9c480c65efdf"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "d804626c-7c1e-47cf-a714-5d8d9353b8bc",
+                "package_id": "e6da0840-34d8-4d15-854a-9c480c65efdf"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "d804626c-7c1e-47cf-a714-5d8d9353b8bc"
+}

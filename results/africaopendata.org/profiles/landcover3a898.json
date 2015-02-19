@@ -1,0 +1,698 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:34:36.990930",
+    "id": "f1021788-1d1a-4562-87a1-a6afd3c08c9c",
+    "metadata_created": "2014-11-04T22:34:36.990930",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:52:25.053324",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "04b8828c-ac60-494f-9163-322f1a0aa42f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:34:36.990930",
+            "webstore_last_updated": null,
+            "id": "99cafb4a-c4f2-4999-bb28-3ddfa62f5043",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Online link to the 'Landcover' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:38:20.673735",
+            "url": "http://maps.nemaug.org/layers/geonode:landcover",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "6f7f0de6-1c11-44fb-9669-d20439ff1305",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "04b8828c-ac60-494f-9163-322f1a0aa42f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:52:25.053324",
+            "webstore_last_updated": null,
+            "id": "a7b2a13f-2095-4d91-95fb-9e8f5b90b326",
+            "size": "427",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Landcover (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "landcover.zip",
+            "created": "2014-03-12T14:38:20.673756",
+            "url": "http://maps.nemaug.org/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Alandcover&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T06:04:15.885793",
+            "position": 1,
+            "revision_id": "74372ae3-828e-4e42-b173-291aff178bdc",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "04b8828c-ac60-494f-9163-322f1a0aa42f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:52:25.053324",
+            "webstore_last_updated": null,
+            "id": "76f02350-1e90-445f-883d-c440670477c2",
+            "size": "427",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Landcover (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "landcover.gml",
+            "created": "2014-03-12T14:38:20.673765",
+            "url": "http://maps.nemaug.org/geoserver/wfs?typename=geonode%3Alandcover&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T06:04:00.170691",
+            "position": 2,
+            "revision_id": "74372ae3-828e-4e42-b173-291aff178bdc",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "04b8828c-ac60-494f-9163-322f1a0aa42f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:52:25.053324",
+            "webstore_last_updated": null,
+            "id": "9125fb15-a62e-4951-ba62-4958260f9cdb",
+            "size": "427",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Landcover (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "landcover.gml",
+            "created": "2014-03-12T14:38:20.673773",
+            "url": "http://maps.nemaug.org/geoserver/wfs?typename=geonode%3Alandcover&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T06:04:17.097171",
+            "position": 3,
+            "revision_id": "74372ae3-828e-4e42-b173-291aff178bdc",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "04b8828c-ac60-494f-9163-322f1a0aa42f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:52:25.053324",
+            "webstore_last_updated": null,
+            "id": "f689aa3f-d538-4420-8d5d-a8d06197ac9c",
+            "size": "427",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Landcover (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "landcover.csv",
+            "created": "2014-03-12T14:38:20.673780",
+            "url": "http://maps.nemaug.org/geoserver/wfs?typename=geonode%3Alandcover&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T06:04:14.086391",
+            "position": 4,
+            "revision_id": "74372ae3-828e-4e42-b173-291aff178bdc",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "04b8828c-ac60-494f-9163-322f1a0aa42f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:52:25.053324",
+            "webstore_last_updated": null,
+            "id": "fb3da728-9f4d-48bb-a6b7-7647e7cf5bb2",
+            "size": "427",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Landcover (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "landcover.excel",
+            "created": "2014-03-12T14:38:20.673787",
+            "url": "http://maps.nemaug.org/geoserver/wfs?typename=geonode%3Alandcover&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:39:17.934330",
+            "position": 5,
+            "revision_id": "74372ae3-828e-4e42-b173-291aff178bdc",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "04b8828c-ac60-494f-9163-322f1a0aa42f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:52:25.053324",
+            "webstore_last_updated": null,
+            "id": "851ef8f3-f22d-4476-a468-cb38e2f2505c",
+            "size": "427",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Landcover (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "landcover.json",
+            "created": "2014-03-12T14:38:20.673794",
+            "url": "http://maps.nemaug.org/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Alandcover&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T06:04:06.686012",
+            "position": 6,
+            "revision_id": "74372ae3-828e-4e42-b173-291aff178bdc",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "04b8828c-ac60-494f-9163-322f1a0aa42f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:52:25.053324",
+            "webstore_last_updated": null,
+            "id": "c81a85ef-803c-4c4d-9fdc-0e21f4ccaaab",
+            "size": "441",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Landcover (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "landcover.kml",
+            "created": "2014-03-12T14:38:20.673801",
+            "url": "http://maps.nemaug.org/geoserver/wms/kml?layers=geonode%3Alandcover&mode=download",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T06:04:08.560656",
+            "position": 7,
+            "revision_id": "74372ae3-828e-4e42-b173-291aff178bdc",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "04b8828c-ac60-494f-9163-322f1a0aa42f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:52:25.053324",
+            "webstore_last_updated": null,
+            "id": "880d11f9-1711-44f1-b492-b372137f079d",
+            "size": "441",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Landcover (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "landcover.kml",
+            "created": "2014-03-12T14:38:20.673808",
+            "url": "http://maps.nemaug.org/geoserver/wms/kml?layers=geonode%3Alandcover&mode=refresh",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T06:04:28.425062",
+            "position": 8,
+            "revision_id": "74372ae3-828e-4e42-b173-291aff178bdc",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "04b8828c-ac60-494f-9163-322f1a0aa42f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:34:36.990930",
+            "webstore_last_updated": null,
+            "id": "fb8ccb01-6b1e-43c1-8c2e-9444671af038",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Landcover (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "landcover.tiles",
+            "created": "2014-03-12T14:38:20.673814",
+            "url": "http://maps.nemaug.org/geoserver/gwc/service/gmaps?layers=geonode:landcover&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "6f7f0de6-1c11-44fb-9669-d20439ff1305",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "04b8828c-ac60-494f-9163-322f1a0aa42f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:52:25.053324",
+            "webstore_last_updated": null,
+            "id": "33676ed6-5bbe-4c33-b522-1b1080cb4eeb",
+            "size": "441",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Landcover (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "landcover.jpg",
+            "created": "2014-03-12T14:38:20.673821",
+            "url": "http://maps.nemaug.org/geoserver/wms?layers=geonode%3Alandcover&width=525&bbox=29.564125122969912%2C-1.480272120780564%2C35.027317087101466%2C4.234526049951185&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T06:04:10.478551",
+            "position": 10,
+            "revision_id": "74372ae3-828e-4e42-b173-291aff178bdc",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "04b8828c-ac60-494f-9163-322f1a0aa42f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:52:25.053324",
+            "webstore_last_updated": null,
+            "id": "2cf82e07-c9e4-4d83-af40-b5cb4fbda2f0",
+            "size": "441",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Landcover (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "landcover.pdf",
+            "created": "2014-03-12T14:38:20.673828",
+            "url": "http://maps.nemaug.org/geoserver/wms?layers=geonode%3Alandcover&width=525&bbox=29.564125122969912%2C-1.480272120780564%2C35.027317087101466%2C4.234526049951185&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T06:04:03.608778",
+            "position": 11,
+            "revision_id": "74372ae3-828e-4e42-b173-291aff178bdc",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "04b8828c-ac60-494f-9163-322f1a0aa42f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:52:25.053324",
+            "webstore_last_updated": null,
+            "id": "8d88937e-71df-4dc4-8b9a-5d8e42b59ff1",
+            "size": "441",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Landcover (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "landcover.png",
+            "created": "2014-03-12T14:38:20.673834",
+            "url": "http://maps.nemaug.org/geoserver/wms?layers=geonode%3Alandcover&width=525&bbox=29.564125122969912%2C-1.480272120780564%2C35.027317087101466%2C4.234526049951185&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T06:04:12.264699",
+            "position": 12,
+            "revision_id": "74372ae3-828e-4e42-b173-291aff178bdc",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Biological",
+            "name": "Biological",
+            "revision_timestamp": "2014-11-04T22:34:36.990930",
+            "state": "active",
+            "id": "601adee3-53fc-466d-97cb-b670199dc66b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Landcover",
+            "name": "Landcover",
+            "revision_timestamp": "2014-11-04T22:34:36.990930",
+            "state": "active",
+            "id": "0ef16969-03f8-4630-af07-d3f1889f5fbb"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Physical",
+            "name": "Physical",
+            "revision_timestamp": "2014-11-04T22:34:36.990930",
+            "state": "active",
+            "id": "22708169-ba07-4e7c-a53f-f676ce36b428"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:34:36.990930",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:34:36.990930",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:34:36.990930",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:34:36.990930",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:34:36.990930",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:34:36.990930",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:34:36.990930",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 13,
+        "recent": 4
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 10,
+    "name": "landcover3a898",
+    "isopen": false,
+    "url": null,
+    "notes": "Landcover types and wetness including size.",
+    "title": "Landcover",
+    "extras": [
+        {
+            "value": "[\"Non provided\"]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "6f7f0de6-1c11-44fb-9669-d20439ff1305",
+                "package_id": "f1021788-1d1a-4562-87a1-a6afd3c08c9c"
+            }
+        },
+        {
+            "value": "35.0273170871",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "6f7f0de6-1c11-44fb-9669-d20439ff1305",
+                "package_id": "f1021788-1d1a-4562-87a1-a6afd3c08c9c"
+            }
+        },
+        {
+            "value": "4.2345260500",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "f1021788-1d1a-4562-87a1-a6afd3c08c9c",
+                "revision_id": "6f7f0de6-1c11-44fb-9669-d20439ff1305"
+            }
+        },
+        {
+            "value": "-1.4802721208",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "6f7f0de6-1c11-44fb-9669-d20439ff1305",
+                "package_id": "f1021788-1d1a-4562-87a1-a6afd3c08c9c"
+            }
+        },
+        {
+            "value": "29.5641251230",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "6f7f0de6-1c11-44fb-9669-d20439ff1305",
+                "package_id": "f1021788-1d1a-4562-87a1-a6afd3c08c9c"
+            }
+        },
+        {
+            "value": "ketty@mountbatten.net",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "f1021788-1d1a-4562-87a1-a6afd3c08c9c",
+                "revision_id": "6f7f0de6-1c11-44fb-9669-d20439ff1305"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "f1021788-1d1a-4562-87a1-a6afd3c08c9c",
+                "revision_id": "6f7f0de6-1c11-44fb-9669-d20439ff1305"
+            }
+        },
+        {
+            "value": "[{\"type\": \"creation\", \"value\": \"2014-02-18T07:31:22Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "f1021788-1d1a-4562-87a1-a6afd3c08c9c",
+                "revision_id": "6f7f0de6-1c11-44fb-9669-d20439ff1305"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "f1021788-1d1a-4562-87a1-a6afd3c08c9c",
+                "revision_id": "6f7f0de6-1c11-44fb-9669-d20439ff1305"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Landcover'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "f1021788-1d1a-4562-87a1-a6afd3c08c9c",
+                "revision_id": "6f7f0de6-1c11-44fb-9669-d20439ff1305"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "f1021788-1d1a-4562-87a1-a6afd3c08c9c",
+                "revision_id": "6f7f0de6-1c11-44fb-9669-d20439ff1305"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "6f7f0de6-1c11-44fb-9669-d20439ff1305",
+                "package_id": "f1021788-1d1a-4562-87a1-a6afd3c08c9c"
+            }
+        },
+        {
+            "value": "f53b28d8-98a0-11e3-919a-22000a1cecb5",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "6f7f0de6-1c11-44fb-9669-d20439ff1305",
+                "package_id": "f1021788-1d1a-4562-87a1-a6afd3c08c9c"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "6f7f0de6-1c11-44fb-9669-d20439ff1305",
+                "package_id": "f1021788-1d1a-4562-87a1-a6afd3c08c9c"
+            }
+        },
+        {
+            "value": "2014-02-18T07:31:22Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "f1021788-1d1a-4562-87a1-a6afd3c08c9c",
+                "revision_id": "6f7f0de6-1c11-44fb-9669-d20439ff1305"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "6f7f0de6-1c11-44fb-9669-d20439ff1305",
+                "package_id": "f1021788-1d1a-4562-87a1-a6afd3c08c9c"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "f1021788-1d1a-4562-87a1-a6afd3c08c9c",
+                "revision_id": "6f7f0de6-1c11-44fb-9669-d20439ff1305"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "f1021788-1d1a-4562-87a1-a6afd3c08c9c",
+                "revision_id": "6f7f0de6-1c11-44fb-9669-d20439ff1305"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "f1021788-1d1a-4562-87a1-a6afd3c08c9c",
+                "revision_id": "6f7f0de6-1c11-44fb-9669-d20439ff1305"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.564125123, -1.4802721208], [35.0273170871, -1.4802721208], [35.0273170871, 4.23452605], [29.564125123, 4.23452605], [29.564125123, -1.4802721208]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "6f7f0de6-1c11-44fb-9669-d20439ff1305",
+                "package_id": "f1021788-1d1a-4562-87a1-a6afd3c08c9c"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "f1021788-1d1a-4562-87a1-a6afd3c08c9c",
+                "revision_id": "6f7f0de6-1c11-44fb-9669-d20439ff1305"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "6f7f0de6-1c11-44fb-9669-d20439ff1305",
+                "package_id": "f1021788-1d1a-4562-87a1-a6afd3c08c9c"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "6f7f0de6-1c11-44fb-9669-d20439ff1305",
+                "package_id": "f1021788-1d1a-4562-87a1-a6afd3c08c9c"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "6f7f0de6-1c11-44fb-9669-d20439ff1305"
+}

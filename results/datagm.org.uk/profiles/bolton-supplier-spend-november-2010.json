@@ -1,0 +1,118 @@
+{
+    "license_title": "localauth-withrights",
+    "maintainer": "Bolton Metropolitan Borough Council",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "expenditureover500@bolton.gov.uk",
+    "revision_timestamp": "2013-03-28T09:22:28.665163",
+    "id": "0b9748c9-3cc9-4125-abf3-f7b13afb7251",
+    "metadata_created": "2011-02-21T09:17:13.589983",
+    "owner_org": "9acb7fa6-0502-488c-bfc4-8a0c4b40640e",
+    "metadata_modified": "2013-12-08T06:26:59.219846",
+    "author": "Bolton Metropolitan Borough Council",
+    "author_email": "expenditureover500@bolton.gov.uk",
+    "state": "active",
+    "version": null,
+    "license_id": "localauth-withrights",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "application/octet-stream",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "{\"content\": \"f18120cb47009b93bc09e7eb5f1d47d9b949a7a5\", \"header\": \"5cd735be73af5976a2df287e758a096dfb93fdb8\"}",
+            "description": "Supplier Spend - November 2010",
+            "format": "CSV",
+            "url": "http://www.bolton.gov.uk/sites/DocumentCentre/Documents/Expenditure%20over%20%C2%A3500%20for%20November%202010.csv",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 2,
+                "recent": 1
+            },
+            "revision_timestamp": "2013-12-08T06:26:59.219846",
+            "webstore_url": "active",
+            "resource_group_id": "497c2f08-6459-831a-f930-2348f658d2b5",
+            "state": "active",
+            "last_modified": "2013-12-08T06:26:55.566924",
+            "webstore_last_updated": "2013-12-08T06:26:59.203264",
+            "position": 0,
+            "revision_id": "50679a88-dae7-4cde-aa10-fcc5c3017811",
+            "size": "166164",
+            "id": "279720e4-dde3-4ccb-84a3-d0dc5452c2eb",
+            "resource_type": null,
+            "name": null
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "bolton",
+            "name": "bolton",
+            "revision_timestamp": "2011-02-21T09:17:13.589983",
+            "state": "active",
+            "id": "718571e8-6255-4616-be5f-10610e03c1bb"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "spend",
+            "name": "spend",
+            "revision_timestamp": "2011-02-21T09:17:13.589983",
+            "state": "active",
+            "id": "eeb8da16-09e2-4882-b0d5-7a55c57f4c50"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "supplier",
+            "name": "supplier",
+            "revision_timestamp": "2011-02-21T09:17:13.589983",
+            "state": "active",
+            "id": "f9b52c91-a3bf-455c-bb0a-f1f6d456ea8f"
+        }
+    ],
+    "tracking_summary": {
+        "total": 14,
+        "recent": 1
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "bolton-supplier-spend-november-2010",
+    "isopen": false,
+    "url": "http://www.bolton.gov.uk/website/pages/Councilprocurementexpenditure.aspx?bid=4264",
+    "notes": "Supplier Spend £500+",
+    "title": "Bolton Supplier Spend - November 2010",
+    "extras": [
+        {
+            "value": "2010-11-01",
+            "key": "temporal_coverage-from",
+            "__extras": {
+                "package_id": "0b9748c9-3cc9-4125-abf3-f7b13afb7251",
+                "revision_id": "8db09270-d7e2-40f1-87bc-1d1be596fa78"
+            }
+        },
+        {
+            "value": "2010-11-30",
+            "key": "temporal_coverage-to",
+            "__extras": {
+                "package_id": "0b9748c9-3cc9-4125-abf3-f7b13afb7251",
+                "revision_id": "8db09270-d7e2-40f1-87bc-1d1be596fa78"
+            }
+        }
+    ],
+    "organization": {
+        "description": "",
+        "created": "2013-03-28T04:17:38.274300",
+        "title": "Bolton Metropolitan Borough Council",
+        "name": "bolton",
+        "revision_timestamp": "2013-03-28T09:17:38.209702",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "",
+        "revision_id": "f31212e6-56cf-497b-91b0-93655847fdbd",
+        "type": "organization",
+        "id": "9acb7fa6-0502-488c-bfc4-8a0c4b40640e",
+        "approval_status": "approved"
+    },
+    "revision_id": "d370574c-c29e-4052-b7b1-0e08d6f474bb"
+}

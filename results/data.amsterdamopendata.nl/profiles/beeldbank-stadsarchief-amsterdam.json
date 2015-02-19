@@ -1,0 +1,179 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2013-05-15T10:13:07.316738",
+    "id": "4b40a36d-0d6a-402d-92a5-c5d1eecbf626",
+    "metadata_created": "2013-05-15T10:13:07.316738",
+    "owner_org": null,
+    "metadata_modified": "2013-05-15T10:13:07.316738",
+    "author": "Stadsarchief Amsterdam",
+    "author_email": "informatie@stadsarchief.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "aa2b5b92-4a28-45e0-9521-6e8228aece43",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-05-15T10:13:07.316738",
+            "webstore_last_updated": null,
+            "id": "02849b08-7a3e-43c9-8ec2-b7728be9c121",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Open Search API",
+            "format": "url",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/xml",
+            "cache_url": null,
+            "name": "http://beeldbank.amsterdam.nl/api/opensearch/description-document",
+            "created": "2013-05-15T12:13:07.372029",
+            "url": "http://beeldbank.amsterdam.nl/api/opensearch/description-document",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "4f1d519d-e1a9-4167-9e4b-17b066f4dc51",
+            "resource_type": "api",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "API\n",
+            "name": "API\n",
+            "revision_timestamp": "2013-05-15T10:13:07.316738",
+            "state": "active",
+            "id": "d2748a06-3978-4c18-a8e4-28ba44f758e7"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "beeldbank",
+            "name": "beeldbank",
+            "revision_timestamp": "2013-05-15T10:13:07.316738",
+            "state": "active",
+            "id": "e9d60488-3f1c-4a2f-92dd-bedf7ff45b8f"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "collectie",
+            "name": "collectie",
+            "revision_timestamp": "2013-05-15T10:13:07.316738",
+            "state": "active",
+            "id": "312a4c3b-b59d-4951-a4cf-cca69105ec5a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "fotos",
+            "name": "fotos",
+            "revision_timestamp": "2013-05-15T10:13:07.316738",
+            "state": "active",
+            "id": "3be82ccd-e17c-4fe5-872b-2b8c1c709345"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "stadsarchief",
+            "name": "stadsarchief",
+            "revision_timestamp": "2013-05-15T10:13:07.316738",
+            "state": "active",
+            "id": "995747ce-7d8e-4a8f-9062-4b93e66af197"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Toerisme & cultuur",
+            "description": "",
+            "name": "toerisme-cultuur",
+            "id": "ea426321-bf88-499e-be18-d11d20001350"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "beeldbank-stadsarchief-amsterdam",
+    "isopen": false,
+    "url": null,
+    "notes": "Open Search API met informatie en beeldmateriaal van ca. 300.000 beelden uit de Beeldbank van het Stadsarchief Amsterdam",
+    "title": "Beeldbank Stadsarchief Amsterdam",
+    "extras": [
+        {
+            "value": "informatie@stadsarchief.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "4b40a36d-0d6a-402d-92a5-c5d1eecbf626",
+                "revision_id": "4f1d519d-e1a9-4167-9e4b-17b066f4dc51"
+            }
+        },
+        {
+            "value": "Stadsarchief Amsterdam",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "4f1d519d-e1a9-4167-9e4b-17b066f4dc51",
+                "package_id": "4b40a36d-0d6a-402d-92a5-c5d1eecbf626"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "4f1d519d-e1a9-4167-9e4b-17b066f4dc51",
+                "package_id": "4b40a36d-0d6a-402d-92a5-c5d1eecbf626"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "4f1d519d-e1a9-4167-9e4b-17b066f4dc51",
+                "package_id": "4b40a36d-0d6a-402d-92a5-c5d1eecbf626"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "4b40a36d-0d6a-402d-92a5-c5d1eecbf626",
+                "revision_id": "4f1d519d-e1a9-4167-9e4b-17b066f4dc51"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "4b40a36d-0d6a-402d-92a5-c5d1eecbf626",
+                "revision_id": "4f1d519d-e1a9-4167-9e4b-17b066f4dc51"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "4f1d519d-e1a9-4167-9e4b-17b066f4dc51",
+                "package_id": "4b40a36d-0d6a-402d-92a5-c5d1eecbf626"
+            }
+        },
+        {
+            "value": "http://www.stadsarchief.amsterdam.nl",
+            "key": "website",
+            "__extras": {
+                "package_id": "4b40a36d-0d6a-402d-92a5-c5d1eecbf626",
+                "revision_id": "4f1d519d-e1a9-4167-9e4b-17b066f4dc51"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "4f1d519d-e1a9-4167-9e4b-17b066f4dc51"
+}

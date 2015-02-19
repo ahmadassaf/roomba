@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T12:03:02.870903",
+    "id": "1670d31e-97c0-4a3c-a829-1ef3cdee3901",
+    "metadata_created": "2012-09-10T12:03:02.870903",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:14:28.636658",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "9180155b-ecca-4633-964d-700e0fe4660c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:14:28.636658",
+            "webstore_last_updated": "2013-10-10T12:14:28.503580",
+            "id": "357a31d9-2efe-4a74-beed-5a68cd840573",
+            "size": "30454",
+            "state": "active",
+            "hash": "6fcb6679881a0bc1fbc1151f39271a4f7d24604a",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "2009 Census Vol 1 B Table 1 Population and Density by Constituency.csv",
+            "created": "2012-09-11T13:34:42.268468",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T153727/j2vg-j63y.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-10-10T12:14:27.589172",
+            "position": 0,
+            "revision_id": "56f3309b-395c-4929-ac36-4634d2bd6fab",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T12:03:02.870903",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T12:03:02.870903",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population density census 2009 constituency",
+            "name": "population density census 2009 constituency",
+            "revision_timestamp": "2012-09-10T12:03:02.870903",
+            "state": "active",
+            "id": "6ad94cb3-6ae8-4cbf-a68f-f9da2cde68d8"
+        }
+    ],
+    "tracking_summary": {
+        "total": 53,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-j2vg-j63y",
+    "isopen": true,
+    "url": null,
+    "notes": "2009 census data on total population by gender, area in square kilometers, gender index and density by constituency",
+    "title": "2009 Census Vol 1 B Table 1 Population and Density by Constituency",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "07f4c260-ce6e-4a2c-990d-0007deb14d22",
+                "package_id": "1670d31e-97c0-4a3c-a829-1ef3cdee3901"
+            }
+        },
+        {
+            "value": "Population",
+            "key": "category",
+            "__extras": {
+                "revision_id": "07f4c260-ce6e-4a2c-990d-0007deb14d22",
+                "package_id": "1670d31e-97c0-4a3c-a829-1ef3cdee3901"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "07f4c260-ce6e-4a2c-990d-0007deb14d22",
+                "package_id": "1670d31e-97c0-4a3c-a829-1ef3cdee3901"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "07f4c260-ce6e-4a2c-990d-0007deb14d22"
+}

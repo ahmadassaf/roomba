@@ -1,0 +1,675 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:33:53.863391",
+    "id": "e6050225-2afd-404b-8d11-d8d57a34babb",
+    "metadata_created": "2014-11-04T22:33:53.863391",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:52:08.810452",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "36e58cd8-ee2a-417a-9d0b-532e52d1dd07",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:52:08.810452",
+            "webstore_last_updated": null,
+            "id": "87763a35-e509-4fa3-b774-26767c7761f4",
+            "size": "20",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "402ef4f9376dfea4ef86900a4d48dab21d4a91d6",
+            "description": "Online link to the 'Wildlifesanctuaries' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:52:43.196871",
+            "url": "http://maps.data.ug/layers/geonode:wildlifesanctuaries",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T15:07:14.875911",
+            "position": 0,
+            "revision_id": "005843d9-0db2-4b39-9ac3-e572fee70750",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "36e58cd8-ee2a-417a-9d0b-532e52d1dd07",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:33:53.863391",
+            "webstore_last_updated": null,
+            "id": "864e9e7c-e54c-4ccf-90ba-4494964a3bf8",
+            "size": "3447",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Wildlifesanctuaries (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "wildlifesanctuaries.jpg",
+            "created": "2014-03-12T14:52:43.196902",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms?layers=geonode%3Awildlifesanctuaries&width=469&bbox=29.84592360669541%2C-0.14586631603160494%2C33.23719845518447%2C3.8276767112473573&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "6bfbe896-9a3c-4ad3-9d54-d719f4f3d828",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "36e58cd8-ee2a-417a-9d0b-532e52d1dd07",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:33:53.863391",
+            "webstore_last_updated": null,
+            "id": "ee3fa810-cb2f-441e-a1e3-a52817f765df",
+            "size": "3565",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Wildlifesanctuaries (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "wildlifesanctuaries.pdf",
+            "created": "2014-03-12T14:52:43.196911",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms?layers=geonode%3Awildlifesanctuaries&width=469&bbox=29.84592360669541%2C-0.14586631603160494%2C33.23719845518447%2C3.8276767112473573&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "6bfbe896-9a3c-4ad3-9d54-d719f4f3d828",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "36e58cd8-ee2a-417a-9d0b-532e52d1dd07",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:33:53.863391",
+            "webstore_last_updated": null,
+            "id": "94d9b646-f3f0-488d-8cd4-8610c0e2c69c",
+            "size": "4456",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Wildlifesanctuaries (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "wildlifesanctuaries.png",
+            "created": "2014-03-12T14:52:43.196918",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms?layers=geonode%3Awildlifesanctuaries&width=469&bbox=29.84592360669541%2C-0.14586631603160494%2C33.23719845518447%2C3.8276767112473573&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "6bfbe896-9a3c-4ad3-9d54-d719f4f3d828",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "36e58cd8-ee2a-417a-9d0b-532e52d1dd07",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:33:53.863391",
+            "webstore_last_updated": null,
+            "id": "37d56816-4aea-4f07-b7c2-9188750fab73",
+            "size": "54112",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Wildlifesanctuaries (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "wildlifesanctuaries.zip",
+            "created": "2014-03-12T14:52:43.196926",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Awildlifesanctuaries&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 4,
+            "revision_id": "6bfbe896-9a3c-4ad3-9d54-d719f4f3d828",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "36e58cd8-ee2a-417a-9d0b-532e52d1dd07",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:33:53.863391",
+            "webstore_last_updated": null,
+            "id": "bbe18e81-1408-466f-a8af-d679c6f7a7a8",
+            "size": "131207",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Wildlifesanctuaries (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "wildlifesanctuaries.gml",
+            "created": "2014-03-12T14:52:43.196932",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Awildlifesanctuaries&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 5,
+            "revision_id": "6bfbe896-9a3c-4ad3-9d54-d719f4f3d828",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "36e58cd8-ee2a-417a-9d0b-532e52d1dd07",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:33:53.863391",
+            "webstore_last_updated": null,
+            "id": "4057fc76-df46-4043-acf1-ae0f34ccc037",
+            "size": "150030",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Wildlifesanctuaries (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "wildlifesanctuaries.gml",
+            "created": "2014-03-12T14:52:43.196940",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Awildlifesanctuaries&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 6,
+            "revision_id": "6bfbe896-9a3c-4ad3-9d54-d719f4f3d828",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "36e58cd8-ee2a-417a-9d0b-532e52d1dd07",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:33:53.863391",
+            "webstore_last_updated": null,
+            "id": "44b589a0-1c33-4653-a6fa-afc4cf8b41cb",
+            "size": "146254",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Wildlifesanctuaries (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "wildlifesanctuaries.csv",
+            "created": "2014-03-12T14:52:43.196947",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Awildlifesanctuaries&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 7,
+            "revision_id": "6bfbe896-9a3c-4ad3-9d54-d719f4f3d828",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "36e58cd8-ee2a-417a-9d0b-532e52d1dd07",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:33:53.863391",
+            "webstore_last_updated": null,
+            "id": "2b2f12fb-34a4-4177-b47b-93fa7d79b012",
+            "size": "90112",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Wildlifesanctuaries (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "wildlifesanctuaries.excel",
+            "created": "2014-03-12T14:52:43.196953",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Awildlifesanctuaries&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 8,
+            "revision_id": "6bfbe896-9a3c-4ad3-9d54-d719f4f3d828",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "36e58cd8-ee2a-417a-9d0b-532e52d1dd07",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:33:53.863391",
+            "webstore_last_updated": null,
+            "id": "68f6c77c-7adc-4c70-83ae-3fdb3d500ffc",
+            "size": "154057",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Wildlifesanctuaries (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "wildlifesanctuaries.json",
+            "created": "2014-03-12T14:52:43.196961",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Awildlifesanctuaries&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "6bfbe896-9a3c-4ad3-9d54-d719f4f3d828",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "36e58cd8-ee2a-417a-9d0b-532e52d1dd07",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:33:53.863391",
+            "webstore_last_updated": null,
+            "id": "fa7fed15-2f93-4f3a-809b-6a43af537638",
+            "size": "181417",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Wildlifesanctuaries (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "wildlifesanctuaries.kml",
+            "created": "2014-03-12T14:52:43.196968",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms/kml?layers=geonode%3Awildlifesanctuaries&mode=download",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 10,
+            "revision_id": "6bfbe896-9a3c-4ad3-9d54-d719f4f3d828",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "36e58cd8-ee2a-417a-9d0b-532e52d1dd07",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:33:53.863391",
+            "webstore_last_updated": null,
+            "id": "85383b72-4950-4c52-950c-5a5ff2754e4b",
+            "size": "1852",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Wildlifesanctuaries (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "wildlifesanctuaries.kml",
+            "created": "2014-03-12T14:52:43.196975",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms/kml?layers=geonode%3Awildlifesanctuaries&mode=refresh",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 11,
+            "revision_id": "6bfbe896-9a3c-4ad3-9d54-d719f4f3d828",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "36e58cd8-ee2a-417a-9d0b-532e52d1dd07",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:33:53.863391",
+            "webstore_last_updated": null,
+            "id": "96b0f532-632f-4f86-ba95-8f865a3adbbc",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Wildlifesanctuaries (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "wildlifesanctuaries.tiles",
+            "created": "2014-03-12T14:52:43.196982",
+            "url": "http://geoclean.mountbatten.net/geoserver/gwc/service/gmaps?layers=geonode:wildlifesanctuaries&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 12,
+            "revision_id": "6bfbe896-9a3c-4ad3-9d54-d719f4f3d828",
+            "resource_type": null
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "CLEAN",
+            "name": "CLEAN",
+            "revision_timestamp": "2014-11-04T22:33:53.863391",
+            "state": "active",
+            "id": "3acc157d-6cb7-4e71-8564-28ccf51ed93b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:33:53.863391",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:33:53.863391",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:33:53.863391",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:33:53.863391",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:33:53.863391",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:33:53.863391",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 5,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 7,
+    "name": "wildlifesanctuaries",
+    "isopen": false,
+    "url": null,
+    "notes": "No abstract provided",
+    "title": "Wildlifesanctuaries",
+    "extras": [
+        {
+            "value": "[\"None\"]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "6bfbe896-9a3c-4ad3-9d54-d719f4f3d828",
+                "package_id": "e6050225-2afd-404b-8d11-d8d57a34babb"
+            }
+        },
+        {
+            "value": "33.2371984552",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "6bfbe896-9a3c-4ad3-9d54-d719f4f3d828",
+                "package_id": "e6050225-2afd-404b-8d11-d8d57a34babb"
+            }
+        },
+        {
+            "value": "3.8276767112",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "e6050225-2afd-404b-8d11-d8d57a34babb",
+                "revision_id": "6bfbe896-9a3c-4ad3-9d54-d719f4f3d828"
+            }
+        },
+        {
+            "value": "-0.1458663160",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "6bfbe896-9a3c-4ad3-9d54-d719f4f3d828",
+                "package_id": "e6050225-2afd-404b-8d11-d8d57a34babb"
+            }
+        },
+        {
+            "value": "29.8459236067",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "6bfbe896-9a3c-4ad3-9d54-d719f4f3d828",
+                "package_id": "e6050225-2afd-404b-8d11-d8d57a34babb"
+            }
+        },
+        {
+            "value": "katy@mountbatten.net",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "e6050225-2afd-404b-8d11-d8d57a34babb",
+                "revision_id": "6bfbe896-9a3c-4ad3-9d54-d719f4f3d828"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "e6050225-2afd-404b-8d11-d8d57a34babb",
+                "revision_id": "6bfbe896-9a3c-4ad3-9d54-d719f4f3d828"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-02-19T03:51:01Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "e6050225-2afd-404b-8d11-d8d57a34babb",
+                "revision_id": "6bfbe896-9a3c-4ad3-9d54-d719f4f3d828"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "e6050225-2afd-404b-8d11-d8d57a34babb",
+                "revision_id": "6bfbe896-9a3c-4ad3-9d54-d719f4f3d828"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Wildlifesanctuaries'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "e6050225-2afd-404b-8d11-d8d57a34babb",
+                "revision_id": "6bfbe896-9a3c-4ad3-9d54-d719f4f3d828"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "e6050225-2afd-404b-8d11-d8d57a34babb",
+                "revision_id": "6bfbe896-9a3c-4ad3-9d54-d719f4f3d828"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "6bfbe896-9a3c-4ad3-9d54-d719f4f3d828",
+                "package_id": "e6050225-2afd-404b-8d11-d8d57a34babb"
+            }
+        },
+        {
+            "value": "57047092-994b-11e3-a875-57cb53fc9b2b",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "6bfbe896-9a3c-4ad3-9d54-d719f4f3d828",
+                "package_id": "e6050225-2afd-404b-8d11-d8d57a34babb"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "6bfbe896-9a3c-4ad3-9d54-d719f4f3d828",
+                "package_id": "e6050225-2afd-404b-8d11-d8d57a34babb"
+            }
+        },
+        {
+            "value": "2014-02-19T03:51:01Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "e6050225-2afd-404b-8d11-d8d57a34babb",
+                "revision_id": "6bfbe896-9a3c-4ad3-9d54-d719f4f3d828"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "6bfbe896-9a3c-4ad3-9d54-d719f4f3d828",
+                "package_id": "e6050225-2afd-404b-8d11-d8d57a34babb"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "e6050225-2afd-404b-8d11-d8d57a34babb",
+                "revision_id": "6bfbe896-9a3c-4ad3-9d54-d719f4f3d828"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "e6050225-2afd-404b-8d11-d8d57a34babb",
+                "revision_id": "6bfbe896-9a3c-4ad3-9d54-d719f4f3d828"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "e6050225-2afd-404b-8d11-d8d57a34babb",
+                "revision_id": "6bfbe896-9a3c-4ad3-9d54-d719f4f3d828"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.8459236067, -0.145866316], [33.2371984552, -0.145866316], [33.2371984552, 3.8276767112], [29.8459236067, 3.8276767112], [29.8459236067, -0.145866316]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "6bfbe896-9a3c-4ad3-9d54-d719f4f3d828",
+                "package_id": "e6050225-2afd-404b-8d11-d8d57a34babb"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "e6050225-2afd-404b-8d11-d8d57a34babb",
+                "revision_id": "6bfbe896-9a3c-4ad3-9d54-d719f4f3d828"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "6bfbe896-9a3c-4ad3-9d54-d719f4f3d828",
+                "package_id": "e6050225-2afd-404b-8d11-d8d57a34babb"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "6bfbe896-9a3c-4ad3-9d54-d719f4f3d828",
+                "package_id": "e6050225-2afd-404b-8d11-d8d57a34babb"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "6bfbe896-9a3c-4ad3-9d54-d719f4f3d828"
+}

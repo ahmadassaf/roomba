@@ -1,0 +1,130 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Chris Metcalf",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:54:03.553066",
+    "id": "f26efa4e-c61f-47f3-95e7-99a13c2591b4",
+    "metadata_created": "2012-09-11T13:54:03.553066",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:03:56.284680",
+    "author": "Chris Metcalf",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "87910476-77a3-478a-af08-10dfaf908686",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:03:56.284680",
+            "webstore_last_updated": "2013-10-10T12:03:56.218146",
+            "id": "1a091fda-9ce3-4f4b-a1b0-b14f37f9619b",
+            "size": "264",
+            "state": "active",
+            "hash": "67f688b4300a37ec29dac2f8067a88e15dd4e12c",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Bomet Population Pyramid Age Groups - 2009.csv",
+            "created": "2012-09-11T13:54:03.629551",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155648/f6p3-keqr.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T10:43:18.156620",
+            "position": 0,
+            "revision_id": "4aeb8061-b353-43d2-b8b3-320a6fa70e8b",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "county",
+            "name": "county",
+            "revision_timestamp": "2012-09-11T13:54:03.553066",
+            "state": "active",
+            "id": "858f3acf-2c66-4fd9-9dc2-32e4f12121a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:54:03.553066",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:54:03.553066",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population",
+            "name": "population",
+            "revision_timestamp": "2012-09-11T13:54:03.553066",
+            "state": "active",
+            "id": "c5e39de5-556e-4bcb-883b-5b9ec2481ae9"
+        }
+    ],
+    "tracking_summary": {
+        "total": 57,
+        "recent": 6
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "kodi-f6p3-keqr",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": null,
+    "title": "Bomet Population Pyramid Age Groups - 2009",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "ead2120c-7640-464c-b90d-4c90074a4013",
+                "package_id": "f26efa4e-c61f-47f3-95e7-99a13c2591b4"
+            }
+        },
+        {
+            "value": "Population",
+            "key": "category",
+            "__extras": {
+                "revision_id": "ead2120c-7640-464c-b90d-4c90074a4013",
+                "package_id": "f26efa4e-c61f-47f3-95e7-99a13c2591b4"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "ead2120c-7640-464c-b90d-4c90074a4013",
+                "package_id": "f26efa4e-c61f-47f3-95e7-99a13c2591b4"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "ead2120c-7640-464c-b90d-4c90074a4013"
+}

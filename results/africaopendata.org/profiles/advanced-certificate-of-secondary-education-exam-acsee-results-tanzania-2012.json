@@ -1,0 +1,191 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Michael Bauer",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "michael.bauer@okfn.org",
+    "revision_timestamp": "2012-10-20T07:25:53.214112",
+    "id": "9ecdf2b1-aac2-446d-92f0-dd64bdf8b84a",
+    "metadata_created": "2012-10-20T07:23:20.862367",
+    "owner_org": null,
+    "metadata_modified": "2013-03-14T09:12:39.665902",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "582b3a98-1849-4448-b8b2-47bb401898bf",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-14T09:12:18.349251",
+            "webstore_last_updated": null,
+            "id": "5462301b-e508-4bd8-9f20-22c524a44124",
+            "size": "11345592",
+            "state": "active",
+            "hash": "237cea9e6e55598534252c127532572a02bd6264",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 6,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "ACSEE Results 2012 - CSV",
+            "created": "2012-10-20T07:23:49.638940",
+            "url": "https://api.scraperwiki.com/api/1.0/datastore/sqlite?format=csv&name=advanced_certificate_of_secondary_education_examin&query=select+*+from+%60swdata%60&apikey=",
+            "webstore_url": null,
+            "last_modified": "2013-03-14T09:12:17.566911",
+            "position": 0,
+            "revision_id": "38655428-1288-4a70-b817-12ba92ad7430",
+            "resource_type": "file"
+        },
+        {
+            "resource_group_id": "582b3a98-1849-4448-b8b2-47bb401898bf",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-14T09:12:35.677414",
+            "webstore_last_updated": null,
+            "id": "0775b2ae-d47a-4f07-b092-5a51e0c2f1ee",
+            "size": "1241409",
+            "state": "active",
+            "hash": "",
+            "description": "",
+            "format": "JSON",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "ACSEE Results - JSON",
+            "created": "2012-10-20T07:24:09.165469",
+            "url": "https://api.scraperwiki.com/api/1.0/datastore/sqlite?format=json&name=advanced_certificate_of_secondary_education_examin&query=select+*+from+%60swdata%60&apikey=",
+            "webstore_url": null,
+            "last_modified": "2013-03-14T09:12:34.924468",
+            "position": 1,
+            "revision_id": "e31696e1-ffb0-4c6a-8784-f0abc854b77c",
+            "resource_type": "file"
+        },
+        {
+            "resource_group_id": "582b3a98-1849-4448-b8b2-47bb401898bf",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-14T09:12:39.665902",
+            "webstore_last_updated": null,
+            "id": "85528f2f-e9b6-4ef4-81d5-d790fff5d7a9",
+            "size": "30333",
+            "state": "active",
+            "hash": "5a7e7ce71b997d2eae1c26d164268b3dda35d991",
+            "description": "This is the standard scraperwiki API",
+            "format": "",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "ACSEE API",
+            "created": "2012-10-20T07:25:05.614429",
+            "url": "https://scraperwiki.com/docs/api?name=advanced_certificate_of_secondary_education_examin#sqlite",
+            "webstore_url": null,
+            "last_modified": "2013-03-14T09:12:39.081489",
+            "position": 3,
+            "revision_id": "9480a97a-e92c-4063-8638-cf60e4f4114c",
+            "resource_type": "api"
+        }
+    ],
+    "num_resources": 3,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "acsee",
+            "name": "acsee",
+            "revision_timestamp": "2012-10-20T07:23:20.862367",
+            "state": "active",
+            "id": "86495761-b21c-4e8c-b315-6223a15a5f87"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "education",
+            "name": "education",
+            "revision_timestamp": "2012-10-20T07:23:20.862367",
+            "state": "active",
+            "id": "4bc98291-13cc-4baf-b090-52376fa3a429"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "secondary education",
+            "name": "secondary education",
+            "revision_timestamp": "2012-10-20T07:23:20.862367",
+            "state": "active",
+            "id": "6ed80541-cd81-4cc9-b43f-22f0f2804377"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "tanzania",
+            "name": "tanzania",
+            "revision_timestamp": "2012-10-20T07:23:20.862367",
+            "state": "active",
+            "id": "997a3ba2-c930-4949-85ea-feed429df6ce"
+        }
+    ],
+    "tracking_summary": {
+        "total": 229,
+        "recent": 5
+    },
+    "groups": [
+        {
+            "title": "Tanzania",
+            "description": "Datasets from Tanzania",
+            "name": "tanzania",
+            "id": "6b341afd-2b71-430f-aa0e-dbf83720c079"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "advanced-certificate-of-secondary-education-exam-acsee-results-tanzania-2012",
+    "isopen": true,
+    "url": null,
+    "notes": "This is a comprehensive list of ACSEE results in Tanzania of 2012",
+    "title": "Advanced Certificate of Secondary Education Exam (ACSEE) Results Tanzania 2012",
+    "extras": [
+        {
+            "value": "scraping",
+            "key": "method",
+            "__extras": {
+                "package_id": "9ecdf2b1-aac2-446d-92f0-dd64bdf8b84a",
+                "revision_id": "424e0856-e86b-4c8f-b2e0-9653af5e4210"
+            }
+        },
+        {
+            "value": "2012-10-20",
+            "key": "optained",
+            "__extras": {
+                "revision_id": "424e0856-e86b-4c8f-b2e0-9653af5e4210",
+                "package_id": "9ecdf2b1-aac2-446d-92f0-dd64bdf8b84a"
+            }
+        },
+        {
+            "value": "scraperwiki",
+            "key": "plattform",
+            "__extras": {
+                "revision_id": "424e0856-e86b-4c8f-b2e0-9653af5e4210",
+                "package_id": "9ecdf2b1-aac2-446d-92f0-dd64bdf8b84a"
+            }
+        },
+        {
+            "value": "https://scraperwiki.com/scrapers/advanced_certificate_of_secondary_education_examin/",
+            "key": "scraper",
+            "__extras": {
+                "revision_id": "424e0856-e86b-4c8f-b2e0-9653af5e4210",
+                "package_id": "9ecdf2b1-aac2-446d-92f0-dd64bdf8b84a"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "424e0856-e86b-4c8f-b2e0-9653af5e4210"
+}

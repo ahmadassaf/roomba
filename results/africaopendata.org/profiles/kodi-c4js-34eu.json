@@ -1,0 +1,146 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:56:23.039408",
+    "id": "0b4e3db7-bf2f-492a-87d6-b3a8e621c099",
+    "metadata_created": "2012-09-11T13:56:23.039408",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:03:08.835048",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "cbecfeb4-7c26-4012-b0e9-1c57d79c8b30",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:03:08.835048",
+            "webstore_last_updated": "2013-10-10T12:03:08.765674",
+            "id": "288797ef-16f1-4c2e-a4b2-073dfdaa2c5a",
+            "size": "4046",
+            "state": "active",
+            "hash": "490ec7bf627bcbf28a694757079eb1598575bcac",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Percentage distribution of Children (0 -59 Months) by First Supplement, County estimates - 2005/6.csv",
+            "created": "2012-09-11T13:56:23.099533",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155907/c4js-34eu.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:26:22.947258",
+            "position": 0,
+            "revision_id": "199af20c-a62f-42b5-a331-80eb3d4aa209",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "county",
+            "name": "county",
+            "revision_timestamp": "2012-09-11T13:56:23.039408",
+            "state": "active",
+            "id": "858f3acf-2c66-4fd9-9dc2-32e4f12121a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "health",
+            "name": "health",
+            "revision_timestamp": "2012-09-11T13:56:23.039408",
+            "state": "active",
+            "id": "956a3c07-125e-44e4-b843-c5011fadcc7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:56:23.039408",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kihbs",
+            "name": "kihbs",
+            "revision_timestamp": "2012-09-11T13:56:23.039408",
+            "state": "active",
+            "id": "e034ae5d-0777-40b8-92f7-c93ba0a00972"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:56:23.039408",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "nutrition",
+            "name": "nutrition",
+            "revision_timestamp": "2012-09-11T13:56:23.039408",
+            "state": "active",
+            "id": "7ef8b5e3-e1a9-4af1-9979-40b24f2ed82b"
+        }
+    ],
+    "tracking_summary": {
+        "total": 60,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "kodi-c4js-34eu",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "KIHBS Table 6.4: Percentage distribution of Children (0 -59 Months) by First Supplement, County estimates",
+    "title": "Percentage distribution of Children (0 -59 Months) by First Supplement, County estimates - 2005/6",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "41004510-1bb9-4203-ba5c-92247676ecbf",
+                "package_id": "0b4e3db7-bf2f-492a-87d6-b3a8e621c099"
+            }
+        },
+        {
+            "value": "Health Sector",
+            "key": "category",
+            "__extras": {
+                "revision_id": "41004510-1bb9-4203-ba5c-92247676ecbf",
+                "package_id": "0b4e3db7-bf2f-492a-87d6-b3a8e621c099"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "41004510-1bb9-4203-ba5c-92247676ecbf",
+                "package_id": "0b4e3db7-bf2f-492a-87d6-b3a8e621c099"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "41004510-1bb9-4203-ba5c-92247676ecbf"
+}

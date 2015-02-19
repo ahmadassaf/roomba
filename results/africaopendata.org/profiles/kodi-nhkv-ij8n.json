@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:54:42.322115",
+    "id": "0a5df858-f072-4c96-83a0-a664e9563588",
+    "metadata_created": "2012-09-11T13:54:42.322115",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:03:47.463007",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "538fe297-3b14-4dc4-acac-027b0db4ce21",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:03:47.463007",
+            "webstore_last_updated": "2013-10-10T12:03:47.392459",
+            "id": "aded063c-97a9-4c26-9694-93c68abd6369",
+            "size": "83827",
+            "state": "active",
+            "hash": "c4e47a78c7be06a1a66f8ab5f48ab33ee3fbef32",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "2009 Census Volume II Table 6: Households by main type of Wall Material for the main dwelling unit, by district.csv",
+            "created": "2012-09-11T13:54:42.363677",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155727/nhkv-ij8n.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:25:48.512581",
+            "position": 0,
+            "revision_id": "22c991ac-f5ec-49d7-92a8-a2960421b0ab",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "household wall material district census",
+            "name": "household wall material district census",
+            "revision_timestamp": "2012-09-11T13:54:42.322115",
+            "state": "active",
+            "id": "edbee81a-a1ba-42cb-b12a-8473838824a6"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:54:42.322115",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:54:42.322115",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 36,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-nhkv-ij8n",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "2009 Census Volume II Table 6: Households by main type of Wall Material for the main dwelling unit, by district",
+    "title": "2009 Census Volume II Table 6: Households by main type of Wall Material for the main dwelling unit, by district",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "3479aee8-4bfb-44da-8cd6-2b456e2e38dd",
+                "package_id": "0a5df858-f072-4c96-83a0-a664e9563588"
+            }
+        },
+        {
+            "value": "    Environment And Natural Resources",
+            "key": "category",
+            "__extras": {
+                "revision_id": "3479aee8-4bfb-44da-8cd6-2b456e2e38dd",
+                "package_id": "0a5df858-f072-4c96-83a0-a664e9563588"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "3479aee8-4bfb-44da-8cd6-2b456e2e38dd",
+                "package_id": "0a5df858-f072-4c96-83a0-a664e9563588"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "3479aee8-4bfb-44da-8cd6-2b456e2e38dd"
+}

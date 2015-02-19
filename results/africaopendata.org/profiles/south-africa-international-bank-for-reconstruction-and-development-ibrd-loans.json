@@ -1,0 +1,97 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-11-07T09:08:28.798606",
+    "id": "686b498f-bd63-41e7-85fa-ea8cb10483f9",
+    "metadata_created": "2012-11-07T09:06:12.757578",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:56:20.947900",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "097d8e3a-da2f-41b7-8995-56e8f043eeda",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:56:20.947900",
+            "webstore_last_updated": "2013-10-10T10:56:20.881954",
+            "id": "06a1ae05-d8f3-4ea1-97e0-d200e44c94cd",
+            "size": "213092",
+            "state": "active",
+            "hash": "68e5e5d4dcdfd13a3436cca328304ff791f0fb7d",
+            "description": "The International Bank for Reconstruction and Development (IBRD) loans are public and publicly guaranteed debt extended by the World Bank Group. IBRD loans are made to, or guaranteed by, countries that are members of IBRD. IBRD may also make loans to IFC. IBRD lends at market rates. Data are in U.S. dollars calculated using historical rates. This dataset contains the latest available snapshot of the Statement of Loans. The World Bank complies with all sanctions applicable to World Bank transactions.",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 4,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "IBRD_Loans_South Africa.csv",
+            "created": "2012-11-07T09:08:23.013451",
+            "url": "http://africaopendata.org/storage/f/2012-11-07T09%3A08%3A11.020Z/ibrd-loans-south-africa.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:49:05.074286",
+            "position": 0,
+            "revision_id": "1494653e-b12d-4558-8604-4f3fa9236d8d",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "finance",
+            "name": "finance",
+            "revision_timestamp": "2012-11-07T09:06:12.757578",
+            "state": "active",
+            "id": "03e21f21-04d8-4e9f-aa27-cd50d0b59c7c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "loans",
+            "name": "loans",
+            "revision_timestamp": "2012-11-07T09:06:12.757578",
+            "state": "active",
+            "id": "ab029346-93af-48b5-b680-6fedfc8b0fb3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "south africa",
+            "name": "south africa",
+            "revision_timestamp": "2012-11-07T09:06:12.757578",
+            "state": "active",
+            "id": "bd037a16-d2e3-4945-89eb-3ae7f142f7fb"
+        }
+    ],
+    "tracking_summary": {
+        "total": 64,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "South Africa",
+            "description": "Datasets from South Africa",
+            "name": "south-africa",
+            "id": "fc691a3f-cfce-46d6-93a0-77bdccfec89d"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "south-africa-international-bank-for-reconstruction-and-development-ibrd-loans",
+    "isopen": true,
+    "url": null,
+    "notes": "The International Bank for Reconstruction and Development (IBRD) loans are public and publicly guaranteed debt extended by the World Bank Group. IBRD loans are made to, or guaranteed by, countries that are members of IBRD. IBRD may also make loans to IFC. IBRD lends at market rates. Data are in U.S. dollars calculated using historical rates. This dataset contains the latest available snapshot of the Statement of Loans. The World Bank complies with all sanctions applicable to World Bank transactions.",
+    "title": "South Africa - International Bank for Reconstruction and Development (IBRD) loans",
+    "extras": [],
+    "organization": null,
+    "revision_id": "6b1e5193-5544-4db1-a8b1-ab0116c90dd5"
+}

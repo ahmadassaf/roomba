@@ -1,0 +1,183 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Michael Bauer",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "michael.bauer@okfn.org",
+    "revision_timestamp": "2012-10-17T08:33:20.819925",
+    "id": "e795528d-b421-4d3a-96ad-dd77ca465e7a",
+    "metadata_created": "2012-10-17T08:30:58.092022",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T11:52:48.578896",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "f73c9276-f476-48cd-94b1-7553238da3b9",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T11:52:48.578896",
+            "webstore_last_updated": "2013-10-10T11:52:48.498904",
+            "id": "aba5befa-98ac-49ab-a129-4a2997d654e7",
+            "size": "8116035",
+            "state": "active",
+            "hash": "3df17d47f95babcf7caa37578cc1baad54b22952",
+            "description": "",
+            "format": "",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Local Government Spending Tanzania CSV",
+            "created": "2012-10-17T08:31:35.437927",
+            "url": "https://api.scraperwiki.com/api/1.0/datastore/sqlite?format=csv&name=local_government_information_tanzania_-_spending&query=select+*+from+`swdata`&apikey=",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T10:42:38.269429",
+            "position": 0,
+            "revision_id": "2208d5ec-71da-416f-aeb0-f6c9be27dfe4",
+            "resource_type": "file"
+        },
+        {
+            "resource_group_id": "f73c9276-f476-48cd-94b1-7553238da3b9",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-14T10:42:54.628339",
+            "webstore_last_updated": null,
+            "id": "ec274223-7201-4a91-ad9e-d7733ef31fd6",
+            "size": "1249177",
+            "state": "active",
+            "hash": "",
+            "description": "",
+            "format": "",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "Local Government Spending Tanzania - JSON",
+            "created": "2012-10-17T08:32:10.814825",
+            "url": "https://api.scraperwiki.com/api/1.0/datastore/sqlite?format=json&name=local_government_information_tanzania_-_spending&query=select+*+from+`swdata`&apikey=",
+            "webstore_url": null,
+            "last_modified": "2013-03-14T10:42:54.544581",
+            "position": 1,
+            "revision_id": "f6cd41cb-a49c-4b27-867a-865310cdbef3",
+            "resource_type": "file"
+        },
+        {
+            "resource_group_id": "f73c9276-f476-48cd-94b1-7553238da3b9",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-14T10:42:55.436374",
+            "webstore_last_updated": null,
+            "id": "49d07ac2-1013-4355-b10c-56a9b447b00b",
+            "size": "30329",
+            "state": "active",
+            "hash": "3d6111d5cb54a348089aec818f0e0628d3e989a3",
+            "description": "Scraperwiki API",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Local Government Spending Tanzania - API",
+            "created": "2012-10-17T08:32:41.022623",
+            "url": "https://scraperwiki.com/docs/api?name=local_government_information_tanzania_-_spending#sqlite",
+            "webstore_url": null,
+            "last_modified": "2013-03-14T10:42:55.363620",
+            "position": 2,
+            "revision_id": "ca072078-2222-4443-b563-26a02ad312f5",
+            "resource_type": "api"
+        }
+    ],
+    "num_resources": 3,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "budget",
+            "name": "budget",
+            "revision_timestamp": "2012-10-17T13:37:26.902635",
+            "state": "active",
+            "id": "0371539f-c6a6-447c-b59d-3ded9f5007ad"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "government",
+            "name": "government",
+            "revision_timestamp": "2012-10-17T08:30:58.092022",
+            "state": "active",
+            "id": "f3986f50-4884-46aa-8770-83a6f539797a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "spending",
+            "name": "spending",
+            "revision_timestamp": "2012-10-17T08:30:58.092022",
+            "state": "active",
+            "id": "1c9375cf-9ba6-4bdf-a292-e84e08f39a6e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "tanzania",
+            "name": "tanzania",
+            "revision_timestamp": "2012-10-17T08:30:58.092022",
+            "state": "active",
+            "id": "997a3ba2-c930-4949-85ea-feed429df6ce"
+        }
+    ],
+    "tracking_summary": {
+        "total": 105,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Tanzania",
+            "description": "Datasets from Tanzania",
+            "name": "tanzania",
+            "id": "6b341afd-2b71-430f-aa0e-dbf83720c079"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "local-government-spending-tanzania",
+    "isopen": true,
+    "url": null,
+    "notes": "This is the local government spending data from http://www.logintanzania.net  - Expenditures.",
+    "title": "Local Government Spending - Tanzania",
+    "extras": [
+        {
+            "value": "Scraping",
+            "key": "Method",
+            "__extras": {
+                "package_id": "e795528d-b421-4d3a-96ad-dd77ca465e7a",
+                "revision_id": "4444dbc1-fbc9-46d9-85fe-0b84e74f7a67"
+            }
+        },
+        {
+            "value": "2012-10-16",
+            "key": "Obtained",
+            "__extras": {
+                "revision_id": "4444dbc1-fbc9-46d9-85fe-0b84e74f7a67",
+                "package_id": "e795528d-b421-4d3a-96ad-dd77ca465e7a"
+            }
+        },
+        {
+            "value": "Scraperwiki",
+            "key": "Plattform",
+            "__extras": {
+                "revision_id": "4444dbc1-fbc9-46d9-85fe-0b84e74f7a67",
+                "package_id": "e795528d-b421-4d3a-96ad-dd77ca465e7a"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "4444dbc1-fbc9-46d9-85fe-0b84e74f7a67"
+}

@@ -1,0 +1,89 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-09-08T06:42:43.622299",
+    "id": "e5cb8c67-c5fc-4caa-a2ba-686c0bddf9c5",
+    "metadata_created": "2012-09-08T06:39:33.674503",
+    "owner_org": null,
+    "metadata_modified": "2013-03-14T10:42:13.432717",
+    "author": "Department of Education",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "c88eaa1d-ccd4-479a-8749-e39aff8857fd",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-14T10:42:13.432717",
+            "webstore_last_updated": null,
+            "id": "9376a23e-67d2-43fe-99fd-fc8b0127f1b0",
+            "size": "52495",
+            "state": "active",
+            "hash": "8997ef6874d8d28196623ae20f7c9f386b4b6458",
+            "description": "Numbers of learners in schools in 2001 by province and by gender, public and independent schools listed seperately,",
+            "format": "XLS",
+            "tracking_summary": {
+                "total": 13,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/vnd.ms-excel",
+            "cache_url": null,
+            "name": "school_attendance_2001.xls",
+            "created": "2012-09-08T06:41:56.245356",
+            "url": "http://www.africaopendata.org//storage/f/2012-09-08T06%3A40%3A19.606Z/school-attendance-2001.xls",
+            "webstore_url": null,
+            "last_modified": "2013-03-14T10:42:13.371546",
+            "position": 0,
+            "revision_id": "4fb36d14-bf6b-40e0-8a55-a3bd2846773c",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "education",
+            "name": "education",
+            "revision_timestamp": "2012-09-08T06:39:33.674503",
+            "state": "active",
+            "id": "4bc98291-13cc-4baf-b090-52376fa3a429"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "south africa",
+            "name": "south africa",
+            "revision_timestamp": "2012-09-08T06:39:33.674503",
+            "state": "active",
+            "id": "bd037a16-d2e3-4945-89eb-3ae7f142f7fb"
+        }
+    ],
+    "tracking_summary": {
+        "total": 94,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "South Africa",
+            "description": "Datasets from South Africa",
+            "name": "south-africa",
+            "id": "fc691a3f-cfce-46d6-93a0-77bdccfec89d"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "south-african-school-attendance-stats-2001",
+    "isopen": false,
+    "url": null,
+    "notes": "This table provides the number of grade ones who entered the system 12 years ago, which will provide a useful sense of the drop out rate when one looks at the 2012 matric pass figures. This will allow users to determine the pass rate as a fraction of those who entered the school system 12 years ago. It should show a much smaller pass rate percentage than the official ones, as drop our rates in South Africa are massive. For example last year only 1 out of 10 of the learners who entered the school system in 2000 managed to pass in 2011 in the Eastern Cape. Downloaded data from http://www.education.gov.za/EMISSTATISTICS/StatisticalPublications/tabid/462/Default.aspx as a PDF, isolated the relevant table and scraped to XLS using PDFTOEXCEL online tool",
+    "title": "South African School  attendance Stats 2001",
+    "extras": [],
+    "organization": null,
+    "revision_id": "fd1710cf-ab0c-4a83-abe8-81d33e863247"
+}

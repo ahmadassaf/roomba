@@ -1,0 +1,114 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:41:05.503237",
+    "id": "f7f4e7be-b083-4e88-b7ce-fee61127e32a",
+    "metadata_created": "2012-09-11T13:41:05.503237",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:11:50.617685",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "b2d38d99-c762-4cbb-85be-2404a443c20e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:11:50.617685",
+            "webstore_last_updated": "2013-10-10T12:11:50.535245",
+            "id": "5deabe25-3c50-4fb9-a240-9060b6695ca5",
+            "size": "17513",
+            "state": "active",
+            "hash": "7a31a4af54e6ff28de42b3f00d828ec3104aa8bb",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Constituency Household Size.csv",
+            "created": "2012-09-11T13:41:05.798672",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T154348/uxuz-svgx.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T10:43:48.950613",
+            "position": 0,
+            "revision_id": "5461f7f9-cae6-4619-bb03-f6efa721918f",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:41:05.503237",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:41:05.503237",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 53,
+        "recent": 7
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "kodi-uxuz-svgx",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "2009 Census Volume 1 b Table 1 Constituency Population by Gender and Density",
+    "title": "Constituency Household Size",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "721e0ddb-633f-4f2b-8984-be299082e5a5",
+                "package_id": "f7f4e7be-b083-4e88-b7ce-fee61127e32a"
+            }
+        },
+        {
+            "value": "Population",
+            "key": "category",
+            "__extras": {
+                "revision_id": "721e0ddb-633f-4f2b-8984-be299082e5a5",
+                "package_id": "f7f4e7be-b083-4e88-b7ce-fee61127e32a"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "721e0ddb-633f-4f2b-8984-be299082e5a5",
+                "package_id": "f7f4e7be-b083-4e88-b7ce-fee61127e32a"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "721e0ddb-633f-4f2b-8984-be299082e5a5"
+}

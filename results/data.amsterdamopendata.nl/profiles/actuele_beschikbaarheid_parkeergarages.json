@@ -1,0 +1,273 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2014-08-28T07:55:34.775470",
+    "id": "9fd1e88d-53be-4002-8f61-c753486c6ac3",
+    "metadata_created": "2014-02-14T07:58:12.127394",
+    "owner_org": null,
+    "metadata_modified": "2014-08-28T07:55:34.775470",
+    "author": "Dienst IVV",
+    "author_email": "opendata@ivv.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "c27b7efd-3de2-4c63-9cc9-ac68f779c49d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-08-28T07:55:34.775470",
+            "webstore_last_updated": null,
+            "id": "a77525dc-2599-4a62-8a22-d2c96446a66b",
+            "size": "283126",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Beschrijving Dataset",
+            "format": "PDF",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "Beschrijving Dataset - Actuele beschikbaarheid Parkeergarages.pdf",
+            "created": "2014-08-28T09:55:34.940067",
+            "url": "http://www.amsterdamopendata.nl/documents/10180/31340/Beschrijving Dataset - Actuele beschikbaarheid Parkeergarages.pdf",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "c0028386-8527-4734-96dc-a4075f7648e8",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c27b7efd-3de2-4c63-9cc9-ac68f779c49d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-08-28T07:55:34.775470",
+            "webstore_last_updated": null,
+            "id": "3995228f-3dba-4a81-a86f-5e96a2abf941",
+            "size": "10271",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Locaties en beschikbaarheid",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/plain",
+            "cache_url": null,
+            "name": "http://www.trafficlink-online.nl/trafficlinkdata/wegdata/IDPA_ParkingLocation.GeoJSON",
+            "created": "2014-08-28T09:55:34.940083",
+            "url": "http://www.trafficlink-online.nl/trafficlinkdata/wegdata/IDPA_ParkingLocation.GeoJSON",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "c0028386-8527-4734-96dc-a4075f7648e8",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c27b7efd-3de2-4c63-9cc9-ac68f779c49d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-08-28T07:55:34.775470",
+            "webstore_last_updated": null,
+            "id": "c225685e-4f06-4e80-8992-69b2db674de2",
+            "size": "52404",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Locatie en inhoud verwijssysteem",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/plain",
+            "cache_url": null,
+            "name": "http://www.trafficlink-online.nl/trafficlinkdata/wegdata/IDPA_GuidanceSign.GeoJSON",
+            "created": "2014-08-28T09:55:34.940088",
+            "url": "http://www.trafficlink-online.nl/trafficlinkdata/wegdata/IDPA_GuidanceSign.GeoJSON",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "c0028386-8527-4734-96dc-a4075f7648e8",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c27b7efd-3de2-4c63-9cc9-ac68f779c49d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-08-28T07:55:34.775470",
+            "webstore_last_updated": null,
+            "id": "71353b35-7885-4dcb-9839-cd5f4951ab25",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Locatie en beschikbaarheid (via CitySDK)",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "http://api.citysdk.waag.org/nodes?layer=divv.parking.capacity&geom",
+            "created": "2014-08-28T09:55:34.940093",
+            "url": "http://api.citysdk.waag.org/nodes?layer=divv.parking.capacity&geom",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "c0028386-8527-4734-96dc-a4075f7648e8",
+            "resource_type": "file"
+        }
+    ],
+    "num_resources": 4,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "PR",
+            "name": "PR",
+            "revision_timestamp": "2014-02-14T07:58:12.127394",
+            "state": "active",
+            "id": "91d7433c-c675-4f69-a119-9becdf80bf43"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "actueel",
+            "name": "actueel",
+            "revision_timestamp": "2014-02-14T07:58:12.127394",
+            "state": "active",
+            "id": "10c867bd-1843-4256-a9f6-10fc35443b73"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "beschikbaarheid",
+            "name": "beschikbaarheid",
+            "revision_timestamp": "2014-02-14T07:58:12.127394",
+            "state": "active",
+            "id": "538b8874-5b8a-43ce-8916-c0c5bd9a5192"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "parkeergarages",
+            "name": "parkeergarages",
+            "revision_timestamp": "2014-02-14T07:58:12.127394",
+            "state": "active",
+            "id": "8f842fb7-396a-48a6-ac2c-9f0812ed5863"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "parkeren",
+            "name": "parkeren",
+            "revision_timestamp": "2014-02-14T07:58:12.127394",
+            "state": "active",
+            "id": "d26079eb-6ae8-45d4-a518-9ff38f2dd225"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "real-time",
+            "name": "real-time",
+            "revision_timestamp": "2014-02-14T07:58:12.127394",
+            "state": "active",
+            "id": "474970cf-0e14-4cdd-944b-7136b98c9cf6"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Verkeer & Infrastructuur",
+            "description": "",
+            "name": "verkeer-infrastructuur",
+            "id": "12502584-9d7d-4bdc-bf5f-df2b0d85f4f6"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "actuele_beschikbaarheid_parkeergarages",
+    "isopen": false,
+    "url": null,
+    "notes": "Deze feed geeft real-time de actuele beschikbaarheid van  parkeergarages en P+R-terreinen in Amsterdam.\n\nDeze data is ook beschikbaar via CitySDK",
+    "title": "Actuele beschikbaarheid Parkeergarages",
+    "extras": [
+        {
+            "value": "opendata@ivv.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "9fd1e88d-53be-4002-8f61-c753486c6ac3",
+                "revision_id": "5f2bde04-df8b-422f-a574-f2641f2e7ab0"
+            }
+        },
+        {
+            "value": "Dienst IVV",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "5f2bde04-df8b-422f-a574-f2641f2e7ab0",
+                "package_id": "9fd1e88d-53be-4002-8f61-c753486c6ac3"
+            }
+        },
+        {
+            "value": "13/02/2014",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "5f2bde04-df8b-422f-a574-f2641f2e7ab0",
+                "package_id": "9fd1e88d-53be-4002-8f61-c753486c6ac3"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "5f2bde04-df8b-422f-a574-f2641f2e7ab0",
+                "package_id": "9fd1e88d-53be-4002-8f61-c753486c6ac3"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "9fd1e88d-53be-4002-8f61-c753486c6ac3",
+                "revision_id": "5f2bde04-df8b-422f-a574-f2641f2e7ab0"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "9fd1e88d-53be-4002-8f61-c753486c6ac3",
+                "revision_id": "5f2bde04-df8b-422f-a574-f2641f2e7ab0"
+            }
+        },
+        {
+            "value": "Real-time",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "5f2bde04-df8b-422f-a574-f2641f2e7ab0",
+                "package_id": "9fd1e88d-53be-4002-8f61-c753486c6ac3"
+            }
+        },
+        {
+            "value": "http://www.amsterdam.nl/opendatadivv",
+            "key": "website",
+            "__extras": {
+                "package_id": "9fd1e88d-53be-4002-8f61-c753486c6ac3",
+                "revision_id": "5f2bde04-df8b-422f-a574-f2641f2e7ab0"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "c0028386-8527-4734-96dc-a4075f7648e8"
+}

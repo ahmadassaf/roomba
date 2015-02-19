@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T11:50:56.746877",
+    "id": "d3a67bf5-4dfa-4a2f-a0c6-173209a3194b",
+    "metadata_created": "2012-09-10T11:50:56.746877",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:20:47.102681",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "76b7c5a5-3fed-432a-b5e6-79d6f4d8932a",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:20:47.102681",
+            "webstore_last_updated": "2013-10-10T12:20:47.030107",
+            "id": "b1e27ffc-fd26-46ae-9986-3fc218ac106a",
+            "size": "4253",
+            "state": "active",
+            "hash": "90f9bedb3cbaa2090e5f2e62092b5281288b1fee",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Budget Estimates 2011/2012 Recurrent plus Development.csv",
+            "created": "2012-09-11T13:26:07.323784",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T152852/nic7-qtsh.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:50:29.100285",
+            "position": 0,
+            "revision_id": "9b2178eb-dbf1-45fa-89d5-c4fe8e6dffff",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "budget public expenditures public finance",
+            "name": "budget public expenditures public finance",
+            "revision_timestamp": "2012-09-10T11:50:56.746877",
+            "state": "active",
+            "id": "a7d30a8c-2fe6-4d61-811d-f9722469b069"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T11:50:56.746877",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T11:50:56.746877",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 62,
+        "recent": 3
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-nic7-qtsh",
+    "isopen": true,
+    "url": "http://www.kenyalaw.org/klr/fileadmin/pdfdownloads/bills/2011/APPROPRIATIONBILL2011.doc",
+    "notes": "Chart shows total expenditure by administrative vote.  Size of box shows how large the vote is in the budget. Color shows changes from last year. Red indicates an increase (light red between 0 and 10 percent, red between 10 and 20 percent, dark red more than 20 percent.  Green indicates a decrease, light green between 0 and 10 percent decrease, green between 10 and 20 percent decrease, dark green more than 20 percent decrease",
+    "title": "Budget Estimates 2011/2012 Recurrent plus Development",
+    "extras": [
+        {
+            "value": "Kenya Law",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "8e430aa3-551d-43ab-bdbf-9058870e1c03",
+                "package_id": "d3a67bf5-4dfa-4a2f-a0c6-173209a3194b"
+            }
+        },
+        {
+            "value": "Public Finance",
+            "key": "category",
+            "__extras": {
+                "revision_id": "8e430aa3-551d-43ab-bdbf-9058870e1c03",
+                "package_id": "d3a67bf5-4dfa-4a2f-a0c6-173209a3194b"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "8e430aa3-551d-43ab-bdbf-9058870e1c03",
+                "package_id": "d3a67bf5-4dfa-4a2f-a0c6-173209a3194b"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "8e430aa3-551d-43ab-bdbf-9058870e1c03"
+}

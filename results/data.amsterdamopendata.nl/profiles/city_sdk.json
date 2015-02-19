@@ -1,0 +1,219 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2013-12-19T13:31:54.169427",
+    "id": "d8b41414-ec6b-4849-9a5b-e0b807123694",
+    "metadata_created": "2013-12-19T11:39:32.736393",
+    "owner_org": null,
+    "metadata_modified": "2013-12-19T13:31:54.169427",
+    "author": "Waag Society",
+    "author_email": "citysdk@waag.org",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "d3d92edd-ce3b-4e20-81c2-4d924c90f86f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-12-19T13:31:54.169427",
+            "webstore_last_updated": null,
+            "id": "1a0881ef-dff4-40fc-af5e-7bfaf021d5a8",
+            "size": "7554",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "API + toelichting",
+            "format": "url",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://dev.citysdk.waag.org/",
+            "created": "2013-12-19T14:31:54.259854",
+            "url": "http://dev.citysdk.waag.org/",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "7b0741cf-db00-4d28-b117-817ec7027f9c",
+            "resource_type": "api",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "API",
+            "name": "API",
+            "revision_timestamp": "2013-12-19T11:39:32.736393",
+            "state": "active",
+            "id": "9078a2ff-6a1e-4d92-a59b-3e077f9e3994"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "City",
+            "name": "City",
+            "revision_timestamp": "2013-12-19T11:39:32.736393",
+            "state": "active",
+            "id": "e91a42d5-80e5-4840-9558-17705f2f7b69"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "CitySDK",
+            "name": "CitySDK",
+            "revision_timestamp": "2013-12-19T11:39:32.736393",
+            "state": "active",
+            "id": "55e65440-7713-43a0-b6de-a68cdd111e5d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Data",
+            "name": "Data",
+            "revision_timestamp": "2013-12-19T11:39:32.736393",
+            "state": "active",
+            "id": "31080bde-5818-4685-8540-65a345b491bc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Europe",
+            "name": "Europe",
+            "revision_timestamp": "2013-12-19T11:39:32.736393",
+            "state": "active",
+            "id": "438ffdad-7384-4d03-9e5b-973be317e196"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "European",
+            "name": "European",
+            "revision_timestamp": "2013-12-19T11:39:32.736393",
+            "state": "active",
+            "id": "4be07ae2-41f7-4bf8-b75e-c79e93db6cac"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Linked",
+            "name": "Linked",
+            "revision_timestamp": "2013-12-19T11:39:32.736393",
+            "state": "active",
+            "id": "24bcd408-bd77-4df2-b226-152e4bf7fc2e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "SDK",
+            "name": "SDK",
+            "revision_timestamp": "2013-12-19T11:39:32.736393",
+            "state": "active",
+            "id": "a6eb229b-530a-4d00-b42b-fe0ca368bf76"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "distribution",
+            "name": "distribution",
+            "revision_timestamp": "2013-12-19T11:39:32.736393",
+            "state": "active",
+            "id": "c6a72205-328c-41c5-91cf-4f76d9bdd453"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "layers",
+            "name": "layers",
+            "revision_timestamp": "2013-12-19T11:39:32.736393",
+            "state": "active",
+            "id": "27cde818-3e52-4681-8c5c-e97e1182c07c"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Dienstverlening",
+            "description": "",
+            "name": "dienstverlening",
+            "id": "a9c4db18-b24c-4a18-8d98-26684b7ec639"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 10,
+    "name": "city_sdk",
+    "isopen": false,
+    "url": null,
+    "notes": "De CitySDK API is een Linked Open Data distributieplatform, ontwikkeld door Waag Society.In de CitySDK zijn verschillende datasets (layers) opgenomen, waaronder vele die op amsterdamopendata.nl zijn vermeld.   Via de CitySDK is deze data op een uniforme manier te gebruiken.Deze distributie API is een onderdeel van de CitySDK toolkit. De toolkit ondersteunt de ontwikkeling van open en interoperabele interfaces voor open data en stadsdiensten in acht Europese steden (Amsterdam, Helsinki, Manchester, Lissabon, Istanbul, Lamia, Rome en Barcelona).",
+    "title": "CitySDK",
+    "extras": [
+        {
+            "value": "citysdk@waag.org",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "d8b41414-ec6b-4849-9a5b-e0b807123694",
+                "revision_id": "5f83937b-06f5-4e4f-877b-973a0b001c90"
+            }
+        },
+        {
+            "value": "Waag Society",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "5f83937b-06f5-4e4f-877b-973a0b001c90",
+                "package_id": "d8b41414-ec6b-4849-9a5b-e0b807123694"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "5f83937b-06f5-4e4f-877b-973a0b001c90",
+                "package_id": "d8b41414-ec6b-4849-9a5b-e0b807123694"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "5f83937b-06f5-4e4f-877b-973a0b001c90",
+                "package_id": "d8b41414-ec6b-4849-9a5b-e0b807123694"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "d8b41414-ec6b-4849-9a5b-e0b807123694",
+                "revision_id": "5f83937b-06f5-4e4f-877b-973a0b001c90"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "d8b41414-ec6b-4849-9a5b-e0b807123694",
+                "revision_id": "5f83937b-06f5-4e4f-877b-973a0b001c90"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "5f83937b-06f5-4e4f-877b-973a0b001c90",
+                "package_id": "d8b41414-ec6b-4849-9a5b-e0b807123694"
+            }
+        },
+        {
+            "value": "http://dev.citysdk.waag.org/",
+            "key": "website",
+            "__extras": {
+                "package_id": "d8b41414-ec6b-4849-9a5b-e0b807123694",
+                "revision_id": "5f83937b-06f5-4e4f-877b-973a0b001c90"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "7b0741cf-db00-4d28-b117-817ec7027f9c"
+}

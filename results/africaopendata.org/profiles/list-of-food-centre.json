@@ -1,0 +1,148 @@
+{
+    "license_title": "Creative Commons Attribution 4.0",
+    "maintainer": "Open Data Team",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "opendata@edostate.gov.ng",
+    "revision_timestamp": "2014-11-06T16:30:37.636199",
+    "id": "26153901-e04a-4ffc-a94a-9b24b236ba51",
+    "metadata_created": "2014-11-06T16:30:37.636199",
+    "owner_org": null,
+    "metadata_modified": "2014-12-18T16:45:28.368907",
+    "author": "ministry of Health",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "5b212447-340b-4107-9c16-6881c19397ce",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-18T16:45:28.368907",
+            "webstore_last_updated": "2014-07-08T13:47:27.483539",
+            "id": "14146e01-0336-4879-8b2b-2eaea11af75d",
+            "size": "33709",
+            "state": "active",
+            "hash": "{\"content\": \"62bf0e241bd489b07d431e1fb552cba50de5aad0\", \"header\": \"2f72d35fb3c96f359bcaa569621a0f7e2e7d6e13\"}",
+            "description": "This dataset shows food centers and their addresses in Benin city. ",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "List of Food Centre in Edo State.csv",
+            "created": "2013-07-29T14:20:30.852817",
+            "url": "http://data.edostate.gov.ng/storage/f/2013-07-29T14%3A14%3A21.804Z/list-of-food-centre-in-edo-state.csv",
+            "webstore_url": "active",
+            "last_modified": "2014-07-08T13:46:47.287627",
+            "position": 0,
+            "revision_id": "ace3ca38-ec10-48d8-97a8-aad80791f212",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Addresses",
+            "name": "Addresses",
+            "revision_timestamp": "2014-11-06T16:30:37.636199",
+            "state": "active",
+            "id": "d962471b-69ee-4e5b-b5f2-18898465ef93"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-06T16:30:37.636199",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "edo state",
+            "name": "edo state",
+            "revision_timestamp": "2014-11-06T16:30:37.636199",
+            "state": "active",
+            "id": "b7ac55fa-8449-416f-be17-e59c4c154e51"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "food centers",
+            "name": "food centers",
+            "revision_timestamp": "2014-11-06T16:30:37.636199",
+            "state": "active",
+            "id": "d2ef92b9-2754-4e11-ba58-f8ee57300c40"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "nigeria",
+            "name": "nigeria",
+            "revision_timestamp": "2014-11-06T16:30:37.636199",
+            "state": "active",
+            "id": "d5e39c15-faf7-4e35-96a0-cb88ec7becb1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open data",
+            "name": "open data",
+            "revision_timestamp": "2014-11-06T16:30:37.636199",
+            "state": "active",
+            "id": "5977073f-ae9b-420d-b468-636bfcf752de"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "west africa",
+            "name": "west africa",
+            "revision_timestamp": "2014-11-06T16:30:37.636199",
+            "state": "active",
+            "id": "82a06d2c-708d-44e5-b6c4-0aef079cbf6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "western africa",
+            "name": "western africa",
+            "revision_timestamp": "2014-11-06T16:30:37.636199",
+            "state": "active",
+            "id": "0297e4dc-f3f3-4b3a-bf41-50dd715a453a"
+        }
+    ],
+    "tracking_summary": {
+        "total": 3,
+        "recent": 3
+    },
+    "groups": [
+        {
+            "title": "Nigeria",
+            "description": "Datasets from the Republic of Nigeria",
+            "name": "nigeria",
+            "id": "6e482307-7e70-4db4-a3f2-91db4e2b90bc"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 8,
+    "name": "list-of-food-centre",
+    "isopen": true,
+    "url": null,
+    "notes": "This dataset shows food centers and their addresses in Benin city. ",
+    "title": "List of food centre",
+    "extras": [],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "organization": null,
+    "revision_id": "9e6dd49f-cba2-4994-ba31-e8b90bc306ac",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

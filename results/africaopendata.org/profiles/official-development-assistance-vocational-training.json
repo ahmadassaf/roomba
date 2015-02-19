@@ -1,0 +1,89 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-08-16T02:06:32.013302",
+    "id": "63ecdc34-b585-4d1c-9b84-68994666cff9",
+    "metadata_created": "2013-08-16T02:05:19.029525",
+    "owner_org": null,
+    "metadata_modified": "2013-08-16T02:06:32.013302",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "ae9cfd5c-5aed-4575-b3f9-1c42447abeed",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-08-16T02:06:11.763621",
+            "webstore_last_updated": null,
+            "id": "0313abbe-6aab-4e1f-b8c7-a96af62be45e",
+            "size": "36352",
+            "state": "active",
+            "hash": "bf74ad907c52e0e09e9333aa33ab62b273d028a9",
+            "description": "This details the gross disbursements of all types of aid from the DAC countries of Belgium, Canada, Germany, Italy, Japan and Korea and the European Union institutions for the vocational training sector.",
+            "format": "XLS",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/vnd.ms-excel",
+            "cache_url": null,
+            "name": "oda_vocational_training.xls",
+            "created": "2013-08-16T02:06:10.915094",
+            "url": "http://africaopendata.org/storage/f/2013-08-16T02%3A06%3A20.788Z/oda-vocational-training.xls",
+            "webstore_url": null,
+            "last_modified": "2013-08-16T02:06:11.682535",
+            "position": 0,
+            "revision_id": "430bdb8e-1f89-45c1-b736-774c264d8140",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Training",
+            "name": "Training",
+            "revision_timestamp": "2013-08-16T02:05:19.029525",
+            "state": "active",
+            "id": "ce4da999-4622-4fa3-b0ea-88758a10c692"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2013-08-16T02:05:19.029525",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        }
+    ],
+    "tracking_summary": {
+        "total": 75,
+        "recent": 5
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "official-development-assistance-vocational-training",
+    "isopen": false,
+    "url": null,
+    "notes": "This details the gross disbursements of all types of aid from the DAC countries of Belgium, Canada, Germany, Italy, Japan and Korea and the European Union institutions for the vocational training sector.",
+    "title": "Official Development Assistance - Vocational Training",
+    "extras": [],
+    "organization": null,
+    "revision_id": "de045fde-bb59-4d70-b8b0-09ae8b1841c2"
+}

@@ -1,0 +1,146 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Kenya Open Data Bot",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T12:00:23.650367",
+    "id": "9fc68f36-d086-4b4e-a523-05756c5580aa",
+    "metadata_created": "2012-09-10T12:00:23.650367",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:16:19.790405",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "91897339-e3c9-43ad-b46c-c73cb35a08d5",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:16:19.790405",
+            "webstore_last_updated": "2013-10-10T12:16:19.721094",
+            "id": "80ea5795-1388-451a-8ec8-76d55e1bf407",
+            "size": "691",
+            "state": "active",
+            "hash": "7a2c3585892d47d409a58cea26439abcf723f8e7",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Per Capita County Expenditures: Marsabit.csv",
+            "created": "2012-09-11T13:32:06.865601",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T153451/ihnp-cjb7.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:13:08.745165",
+            "position": 0,
+            "revision_id": "a5713d78-5ca4-4eea-ab06-ec239101df9f",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "cdf",
+            "name": "cdf",
+            "revision_timestamp": "2012-09-10T12:00:23.650367",
+            "state": "active",
+            "id": "e4f787d6-ec60-483a-b3b3-f941cf48c3b4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "county",
+            "name": "county",
+            "revision_timestamp": "2012-09-10T12:00:23.650367",
+            "state": "active",
+            "id": "858f3acf-2c66-4fd9-9dc2-32e4f12121a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "expenditures",
+            "name": "expenditures",
+            "revision_timestamp": "2012-09-10T12:00:23.650367",
+            "state": "active",
+            "id": "44c63fed-5be4-49aa-b2a5-1e7baf93d961"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T12:00:23.650367",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T12:00:23.650367",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "local authorities",
+            "name": "local authorities",
+            "revision_timestamp": "2012-09-10T12:00:23.650367",
+            "state": "active",
+            "id": "ece507fe-ec49-44f8-848e-39df75ac1866"
+        }
+    ],
+    "tracking_summary": {
+        "total": 68,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "kodi-ihnp-cjb7",
+    "isopen": true,
+    "url": null,
+    "notes": "Local Authority and Constituency Development Fund Expenditures, County estimates, Kenya Shillings",
+    "title": "Per Capita County Expenditures: Marsabit",
+    "extras": [
+        {
+            "value": "Ministry of Local Government",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "2ac4f0bf-e64c-4ed8-894d-8a148c6ebb51",
+                "package_id": "9fc68f36-d086-4b4e-a523-05756c5580aa"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "2ac4f0bf-e64c-4ed8-894d-8a148c6ebb51",
+                "package_id": "9fc68f36-d086-4b4e-a523-05756c5580aa"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "2ac4f0bf-e64c-4ed8-894d-8a148c6ebb51",
+                "package_id": "9fc68f36-d086-4b4e-a523-05756c5580aa"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "2ac4f0bf-e64c-4ed8-894d-8a148c6ebb51"
+}

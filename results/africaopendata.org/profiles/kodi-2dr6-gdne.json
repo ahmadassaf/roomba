@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-09-09T17:54:36.283533",
+    "id": "4cfc47b1-e023-4ea3-8ff6-3b95671fcb30",
+    "metadata_created": "2012-09-09T17:11:51.185382",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:21:10.223123",
+    "author": "tlane@worldbank.org",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "d669ebc0-18f0-4e29-8f7f-d6a70e1d4ad3",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:21:10.223123",
+            "webstore_last_updated": "2013-10-10T12:21:10.138218",
+            "id": "ec7c1cc8-19e3-4087-acc8-57d6f89f809b",
+            "size": "60886",
+            "state": "active",
+            "hash": "40da349b2f1396c92a6ddbdbb32590268716bc1c",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 4,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "County Expenditures by Administration 2002-3 to 2008-9.csv",
+            "created": "2012-09-11T13:25:27.559926",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T152812/2dr6-gdne.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:39:22.008389",
+            "position": 0,
+            "revision_id": "e5462596-7b5a-40f5-90be-367772bcec04",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "county expenditure",
+            "name": "county expenditure",
+            "revision_timestamp": "2012-09-09T17:11:51.185382",
+            "state": "active",
+            "id": "21e7e9ef-2695-4750-a3ca-7f8c16f291d3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-09T17:11:51.185382",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-09T17:11:51.185382",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 81,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-2dr6-gdne",
+    "isopen": true,
+    "url": null,
+    "notes": "Local Authority and Constituency Development Fund Expenditures, County estimates, Kenya Shillings",
+    "title": "County Expenditures by Administration 2002-3 to 2008-9",
+    "extras": [
+        {
+            "value": "Ministry of Local Government",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "b9d662b4-b4a4-4ec0-89cc-2ad2859bf01b",
+                "package_id": "4cfc47b1-e023-4ea3-8ff6-3b95671fcb30"
+            }
+        },
+        {
+            "value": "Public Finance",
+            "key": "category",
+            "__extras": {
+                "revision_id": "b9d662b4-b4a4-4ec0-89cc-2ad2859bf01b",
+                "package_id": "4cfc47b1-e023-4ea3-8ff6-3b95671fcb30"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "b9d662b4-b4a4-4ec0-89cc-2ad2859bf01b",
+                "package_id": "4cfc47b1-e023-4ea3-8ff6-3b95671fcb30"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "b5ac280e-1eaa-4d6a-9264-e4561ca83912"
+}

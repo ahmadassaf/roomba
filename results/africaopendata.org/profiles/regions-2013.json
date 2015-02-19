@@ -1,0 +1,601 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:26:12.680939",
+    "id": "54dc56fc-e4d0-401f-9ae2-fa487faef1f5",
+    "metadata_created": "2014-11-04T22:26:12.680939",
+    "owner_org": null,
+    "metadata_modified": "2014-11-04T23:01:58.190026",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "4e3dcbce-0abb-41cd-add4-4ec338c32b1c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:01:58.190026",
+            "webstore_last_updated": null,
+            "id": "741cd96c-3398-4d2e-aaa4-90d07b7a4b17",
+            "size": "39318",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "528949c1da9d8c37077b10697022e053c65c9c45",
+            "description": "Online link to the 'Regions 2013' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:52:17.007733",
+            "url": "http://maps.data.ug/layers/geonode:regions_2013_4_web_wgs84",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:01:58.053625",
+            "position": 0,
+            "revision_id": "4098c299-cc25-4f9e-a8b7-3f52f87799ad",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "4e3dcbce-0abb-41cd-add4-4ec338c32b1c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:01:53.933041",
+            "webstore_last_updated": null,
+            "id": "c218b1f9-aebf-4d7f-a650-5a568630a903",
+            "size": "15871",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Regions 2013 (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "regions_2013_4_web_wgs84.jpg",
+            "created": "2014-03-12T14:52:17.007753",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Aregions_2013_4_web_wgs84&width=522&bbox=29.5734049786041%2C-1.48127718325603%2C35.0010886627061%2C4.23097983850609&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:01:53.785215",
+            "position": 1,
+            "revision_id": "d92855e6-e8f1-4f22-a040-a50de91bab54",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "4e3dcbce-0abb-41cd-add4-4ec338c32b1c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:01:52.419136",
+            "webstore_last_updated": null,
+            "id": "c79f3cf1-dd17-4040-8008-cd1b6e012594",
+            "size": "10204",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Regions 2013 (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "regions_2013_4_web_wgs84.pdf",
+            "created": "2014-03-12T14:52:17.007757",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Aregions_2013_4_web_wgs84&width=522&bbox=29.5734049786041%2C-1.48127718325603%2C35.0010886627061%2C4.23097983850609&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:01:52.267878",
+            "position": 2,
+            "revision_id": "b40107c5-9a19-4c09-891e-37bcc5bd0795",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "4e3dcbce-0abb-41cd-add4-4ec338c32b1c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:26:12.680939",
+            "webstore_last_updated": null,
+            "id": "4e19094a-a8e3-4b8c-ad2d-2b0b366f3543",
+            "size": "24026",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Regions 2013 (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "regions_2013_4_web_wgs84.png",
+            "created": "2014-03-12T14:52:17.007761",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Aregions_2013_4_web_wgs84&width=522&bbox=29.5734049786041%2C-1.48127718325603%2C35.0010886627061%2C4.23097983850609&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:59:37.685572",
+            "position": 3,
+            "revision_id": "25f0573d-f734-497a-8aee-5c3e709c50ba",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "4e3dcbce-0abb-41cd-add4-4ec338c32b1c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:01:54.783130",
+            "webstore_last_updated": null,
+            "id": "a2d8ad12-4311-4cb5-bb92-ab32cb136e88",
+            "size": "55944",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Regions 2013 (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "regions_2013_4_web_wgs84.gml",
+            "created": "2014-03-12T14:52:17.007768",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Aregions_2013_4_web_wgs84&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:01:54.562506",
+            "position": 4,
+            "revision_id": "469e1926-0752-40de-971b-5993a1cdf0ca",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "4e3dcbce-0abb-41cd-add4-4ec338c32b1c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:01:56.929968",
+            "webstore_last_updated": "2014-11-04T23:01:56.786284",
+            "id": "50637dfc-3426-4b71-928d-d94669e290f3",
+            "size": "88674",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "a4976b421e54b2ca24d670bfea852a0e9785c256",
+            "description": "Regions 2013 (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "regions_2013_4_web_wgs84.csv",
+            "created": "2014-03-12T14:52:17.007775",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Aregions_2013_4_web_wgs84&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": "active",
+            "last_modified": "2014-03-12T14:59:36.917327",
+            "position": 5,
+            "revision_id": "2b951cc0-59cf-491a-adbc-a0f606338ada",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "4e3dcbce-0abb-41cd-add4-4ec338c32b1c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:01:51.398591",
+            "webstore_last_updated": null,
+            "id": "df77b97e-66f9-4f6f-a4fb-c0f205236dbc",
+            "size": "93184",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Regions 2013 (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "regions_2013_4_web_wgs84.excel",
+            "created": "2014-03-12T14:52:17.007779",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Aregions_2013_4_web_wgs84&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:01:51.226403",
+            "position": 6,
+            "revision_id": "227d9e7c-aed2-4b24-8b76-6db88882a840",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "4e3dcbce-0abb-41cd-add4-4ec338c32b1c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:01:52.954111",
+            "webstore_last_updated": null,
+            "id": "70b0b71c-87ef-4ff5-af10-2ad77dd04ed2",
+            "size": "91569",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Regions 2013 (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "regions_2013_4_web_wgs84.json",
+            "created": "2014-03-12T14:52:17.007782",
+            "url": "http://maps.data.ug/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Aregions_2013_4_web_wgs84&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:01:52.810299",
+            "position": 7,
+            "revision_id": "1b206c75-665b-45f2-9979-bb100a249dc1",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "4e3dcbce-0abb-41cd-add4-4ec338c32b1c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:01:55.558790",
+            "webstore_last_updated": null,
+            "id": "983940c7-0d7c-412e-abcc-c165a2e362af",
+            "size": "97097",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Regions 2013 (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "regions_2013_4_web_wgs84.kml",
+            "created": "2014-03-12T14:52:17.007786",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Aregions_2013_4_web_wgs84&mode=download",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:01:55.406732",
+            "position": 8,
+            "revision_id": "68d6a6f9-9ac2-4f24-8a7e-c70da0c87de9",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "4e3dcbce-0abb-41cd-add4-4ec338c32b1c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:26:12.680939",
+            "webstore_last_updated": null,
+            "id": "f6f1cd55-63d0-423b-bf5a-4b5a1dbded3e",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Regions 2013 (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "regions_2013_4_web_wgs84.tiles",
+            "created": "2014-03-12T14:52:17.007796",
+            "url": "http://maps.data.ug/geoserver/gwc/service/gmaps?layers=geonode:regions_2013_4_web_wgs84&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "25f0573d-f734-497a-8aee-5c3e709c50ba",
+            "resource_type": null
+        }
+    ],
+    "num_resources": 10,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:26:12.680939",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "administrative",
+            "name": "administrative",
+            "revision_timestamp": "2014-11-04T22:26:12.680939",
+            "state": "active",
+            "id": "55d71fe3-7ffa-4f97-aca8-2ef38ae4c096"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:26:12.680939",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:26:12.680939",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:26:12.680939",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:26:12.680939",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:26:12.680939",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "regions",
+            "name": "regions",
+            "revision_timestamp": "2014-11-04T22:26:12.680939",
+            "state": "active",
+            "id": "7e0dfbe9-b4bc-4281-ae45-7ed5e809d6cb"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:26:12.680939",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 1,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 9,
+    "name": "regions-2013",
+    "isopen": false,
+    "url": null,
+    "notes": "Regions 2013, northern, western, southern, central uganda",
+    "title": "Regions 2013",
+    "extras": [
+        {
+            "value": "[]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "25f0573d-f734-497a-8aee-5c3e709c50ba",
+                "package_id": "54dc56fc-e4d0-401f-9ae2-fa487faef1f5"
+            }
+        },
+        {
+            "value": "35.0010886627",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "25f0573d-f734-497a-8aee-5c3e709c50ba",
+                "package_id": "54dc56fc-e4d0-401f-9ae2-fa487faef1f5"
+            }
+        },
+        {
+            "value": "4.2309798385",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "54dc56fc-e4d0-401f-9ae2-fa487faef1f5",
+                "revision_id": "25f0573d-f734-497a-8aee-5c3e709c50ba"
+            }
+        },
+        {
+            "value": "-1.4812771833",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "25f0573d-f734-497a-8aee-5c3e709c50ba",
+                "package_id": "54dc56fc-e4d0-401f-9ae2-fa487faef1f5"
+            }
+        },
+        {
+            "value": "29.5734049786",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "25f0573d-f734-497a-8aee-5c3e709c50ba",
+                "package_id": "54dc56fc-e4d0-401f-9ae2-fa487faef1f5"
+            }
+        },
+        {
+            "value": "",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "54dc56fc-e4d0-401f-9ae2-fa487faef1f5",
+                "revision_id": "25f0573d-f734-497a-8aee-5c3e709c50ba"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "54dc56fc-e4d0-401f-9ae2-fa487faef1f5",
+                "revision_id": "25f0573d-f734-497a-8aee-5c3e709c50ba"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-02-20T13:45:07Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "54dc56fc-e4d0-401f-9ae2-fa487faef1f5",
+                "revision_id": "25f0573d-f734-497a-8aee-5c3e709c50ba"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "54dc56fc-e4d0-401f-9ae2-fa487faef1f5",
+                "revision_id": "25f0573d-f734-497a-8aee-5c3e709c50ba"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Regions 2013'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "54dc56fc-e4d0-401f-9ae2-fa487faef1f5",
+                "revision_id": "25f0573d-f734-497a-8aee-5c3e709c50ba"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "54dc56fc-e4d0-401f-9ae2-fa487faef1f5",
+                "revision_id": "25f0573d-f734-497a-8aee-5c3e709c50ba"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "25f0573d-f734-497a-8aee-5c3e709c50ba",
+                "package_id": "54dc56fc-e4d0-401f-9ae2-fa487faef1f5"
+            }
+        },
+        {
+            "value": "80049c84-9a67-11e3-b50b-9b423b932199",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "25f0573d-f734-497a-8aee-5c3e709c50ba",
+                "package_id": "54dc56fc-e4d0-401f-9ae2-fa487faef1f5"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "25f0573d-f734-497a-8aee-5c3e709c50ba",
+                "package_id": "54dc56fc-e4d0-401f-9ae2-fa487faef1f5"
+            }
+        },
+        {
+            "value": "2014-02-20T13:45:07Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "54dc56fc-e4d0-401f-9ae2-fa487faef1f5",
+                "revision_id": "25f0573d-f734-497a-8aee-5c3e709c50ba"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "25f0573d-f734-497a-8aee-5c3e709c50ba",
+                "package_id": "54dc56fc-e4d0-401f-9ae2-fa487faef1f5"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "54dc56fc-e4d0-401f-9ae2-fa487faef1f5",
+                "revision_id": "25f0573d-f734-497a-8aee-5c3e709c50ba"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "54dc56fc-e4d0-401f-9ae2-fa487faef1f5",
+                "revision_id": "25f0573d-f734-497a-8aee-5c3e709c50ba"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "54dc56fc-e4d0-401f-9ae2-fa487faef1f5",
+                "revision_id": "25f0573d-f734-497a-8aee-5c3e709c50ba"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.5734049786, -1.4812771833], [35.0010886627, -1.4812771833], [35.0010886627, 4.2309798385], [29.5734049786, 4.2309798385], [29.5734049786, -1.4812771833]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "25f0573d-f734-497a-8aee-5c3e709c50ba",
+                "package_id": "54dc56fc-e4d0-401f-9ae2-fa487faef1f5"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "54dc56fc-e4d0-401f-9ae2-fa487faef1f5",
+                "revision_id": "25f0573d-f734-497a-8aee-5c3e709c50ba"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "25f0573d-f734-497a-8aee-5c3e709c50ba",
+                "package_id": "54dc56fc-e4d0-401f-9ae2-fa487faef1f5"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "25f0573d-f734-497a-8aee-5c3e709c50ba",
+                "package_id": "54dc56fc-e4d0-401f-9ae2-fa487faef1f5"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "25f0573d-f734-497a-8aee-5c3e709c50ba"
+}

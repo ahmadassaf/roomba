@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:49:38.997636",
+    "id": "633bb02d-b524-4147-a2bd-1fecc38ddd97",
+    "metadata_created": "2012-09-11T13:49:38.997636",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:08:49.037810",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "be3f223c-2214-4882-b179-5795aea73408",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:08:49.037810",
+            "webstore_last_updated": "2013-10-10T12:08:48.971042",
+            "id": "88d22dd6-88e4-4bca-a4ae-f3c55576b219",
+            "size": "12080",
+            "state": "active",
+            "hash": "440a34a5c4906605a54b48c66fb16e4bbf9f6c2c",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Vol II Table15: Household Assets Ownership - 2009.csv",
+            "created": "2012-09-11T13:49:39.037754",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155224/enyp-j5xk.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:47:34.208173",
+            "position": 0,
+            "revision_id": "1820ac11-cef2-4c75-9b31-b4f8aa2cde51",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:49:38.997636",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:49:38.997636",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "poverty",
+            "name": "poverty",
+            "revision_timestamp": "2012-09-11T13:49:38.997636",
+            "state": "active",
+            "id": "490c0df0-0458-4e36-8ad1-2fa9d0684d97"
+        }
+    ],
+    "tracking_summary": {
+        "total": 70,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-enyp-j5xk",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "2009 Census: Percentage Households by Ownership of Household Assets and District",
+    "title": "Vol II Table15: Household Assets Ownership - 2009",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "4ed908de-71de-486e-a298-fa2abb89c30d",
+                "package_id": "633bb02d-b524-4147-a2bd-1fecc38ddd97"
+            }
+        },
+        {
+            "value": "Poverty",
+            "key": "category",
+            "__extras": {
+                "revision_id": "4ed908de-71de-486e-a298-fa2abb89c30d",
+                "package_id": "633bb02d-b524-4147-a2bd-1fecc38ddd97"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "4ed908de-71de-486e-a298-fa2abb89c30d",
+                "package_id": "633bb02d-b524-4147-a2bd-1fecc38ddd97"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "4ed908de-71de-486e-a298-fa2abb89c30d"
+}

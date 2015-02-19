@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:47:23.353754",
+    "id": "cba68cb6-cf83-450a-8790-8269b0935655",
+    "metadata_created": "2012-09-11T13:47:23.353754",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:11:05.504942",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "788fec11-b818-4691-82e6-b6abe00e8345",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:11:05.504942",
+            "webstore_last_updated": "2013-10-10T12:11:05.436666",
+            "id": "6d910a9d-416d-47dc-9196-8fc4c3ac6867",
+            "size": "2810",
+            "state": "active",
+            "hash": "cce376f99afe70467e58dea300c9b1f86e4f660b",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Proportion of Parcels  using  Fertiliser County Estimates - 2005/6.csv",
+            "created": "2012-09-11T13:47:23.390779",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155008/z2xa-te3i.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:48:26.908960",
+            "position": 0,
+            "revision_id": "96831624-ac56-4dba-8a2c-373fac7dc9ea",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "county economy kihbs",
+            "name": "county economy kihbs",
+            "revision_timestamp": "2012-09-11T13:47:23.353754",
+            "state": "active",
+            "id": "23626cb4-d78a-4a67-a4a7-7305bf3cd3df"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:47:23.353754",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:47:23.353754",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 48,
+        "recent": 4
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-z2xa-te3i",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "2005/6 KIHBS Table 9.7:  Proportion of Parcels  using  Fertiliser County Estimates",
+    "title": "Proportion of Parcels  using  Fertiliser County Estimates - 2005/6",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "fb684203-558b-4483-a229-364b73979921",
+                "package_id": "cba68cb6-cf83-450a-8790-8269b0935655"
+            }
+        },
+        {
+            "value": "Agriculture",
+            "key": "category",
+            "__extras": {
+                "revision_id": "fb684203-558b-4483-a229-364b73979921",
+                "package_id": "cba68cb6-cf83-450a-8790-8269b0935655"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "fb684203-558b-4483-a229-364b73979921",
+                "package_id": "cba68cb6-cf83-450a-8790-8269b0935655"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "fb684203-558b-4483-a229-364b73979921"
+}

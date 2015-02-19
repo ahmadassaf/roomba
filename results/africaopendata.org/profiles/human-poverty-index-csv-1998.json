@@ -1,0 +1,699 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:28:29.576385",
+    "id": "907b6392-e844-42e3-969e-f7c6c8f3100e",
+    "metadata_created": "2014-11-04T22:28:29.576385",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:49:49.392712",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "4b798ba8-cfe8-415e-a747-dca542279f66",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:49.392712",
+            "webstore_last_updated": null,
+            "id": "58152575-680a-4185-a55a-86e858e683cf",
+            "size": "20",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "c43a1e14030095b52e9a1462ddd3383f39afe44b",
+            "description": "Online link to the 'Human Poverty Index.Csv 1998' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:53:10.852100",
+            "url": "http://maps.data.ug/layers/geonode:human_poverty_indexcsv_1998",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T16:17:13.523343",
+            "position": 0,
+            "revision_id": "755daaea-bd67-4c03-b9ef-3ff94b987452",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "4b798ba8-cfe8-415e-a747-dca542279f66",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:29.576385",
+            "webstore_last_updated": null,
+            "id": "418809a6-f1da-4510-98b2-a84e1d8c141d",
+            "size": "102075",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Human Poverty Index.Csv 1998 (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "human_poverty_indexcsv_1998.zip",
+            "created": "2014-03-12T14:53:10.852132",
+            "url": "http://maps.data.ug/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Ahuman_poverty_indexcsv_1998&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "451cebfa-909a-4257-88a6-7584e0339698",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "4b798ba8-cfe8-415e-a747-dca542279f66",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:29.576385",
+            "webstore_last_updated": null,
+            "id": "137a18e6-d303-4a67-a758-62429906f78f",
+            "size": "221378",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Human Poverty Index.Csv 1998 (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "human_poverty_indexcsv_1998.gml",
+            "created": "2014-03-12T14:53:10.852142",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Ahuman_poverty_indexcsv_1998&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "451cebfa-909a-4257-88a6-7584e0339698",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "4b798ba8-cfe8-415e-a747-dca542279f66",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:29.576385",
+            "webstore_last_updated": null,
+            "id": "ff8023b3-549d-4156-ac94-b83900521005",
+            "size": "325799",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Human Poverty Index.Csv 1998 (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "human_poverty_indexcsv_1998.gml",
+            "created": "2014-03-12T14:53:10.852151",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Ahuman_poverty_indexcsv_1998&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "451cebfa-909a-4257-88a6-7584e0339698",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "4b798ba8-cfe8-415e-a747-dca542279f66",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:29.576385",
+            "webstore_last_updated": null,
+            "id": "1ad2d33c-ac2e-439c-be10-7f1f2bfb2072",
+            "size": "296792",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Human Poverty Index.Csv 1998 (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "human_poverty_indexcsv_1998.csv",
+            "created": "2014-03-12T14:53:10.852159",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Ahuman_poverty_indexcsv_1998&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 4,
+            "revision_id": "451cebfa-909a-4257-88a6-7584e0339698",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "4b798ba8-cfe8-415e-a747-dca542279f66",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:29.576385",
+            "webstore_last_updated": null,
+            "id": "f2a74bef-50c9-4d9e-bec1-c7969893aa95",
+            "size": "307200",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Human Poverty Index.Csv 1998 (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "human_poverty_indexcsv_1998.excel",
+            "created": "2014-03-12T14:53:10.852168",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Ahuman_poverty_indexcsv_1998&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 5,
+            "revision_id": "451cebfa-909a-4257-88a6-7584e0339698",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "4b798ba8-cfe8-415e-a747-dca542279f66",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:29.576385",
+            "webstore_last_updated": null,
+            "id": "11a3f67e-e436-4f86-8b2f-45c4a403d808",
+            "size": "314925",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Human Poverty Index.Csv 1998 (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "human_poverty_indexcsv_1998.json",
+            "created": "2014-03-12T14:53:10.852176",
+            "url": "http://maps.data.ug/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Ahuman_poverty_indexcsv_1998&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 6,
+            "revision_id": "451cebfa-909a-4257-88a6-7584e0339698",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "4b798ba8-cfe8-415e-a747-dca542279f66",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:29.576385",
+            "webstore_last_updated": null,
+            "id": "3ce37377-ea06-4035-969e-9a5c0db58970",
+            "size": "458722",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Human Poverty Index.Csv 1998 (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "human_poverty_indexcsv_1998.kml",
+            "created": "2014-03-12T14:53:10.852184",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Ahuman_poverty_indexcsv_1998&mode=download",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 7,
+            "revision_id": "451cebfa-909a-4257-88a6-7584e0339698",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "4b798ba8-cfe8-415e-a747-dca542279f66",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:29.576385",
+            "webstore_last_updated": null,
+            "id": "fec4e641-7483-4e8d-9544-8205b2492ab3",
+            "size": "1878",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Human Poverty Index.Csv 1998 (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "human_poverty_indexcsv_1998.kml",
+            "created": "2014-03-12T14:53:10.852192",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Ahuman_poverty_indexcsv_1998&mode=refresh",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 8,
+            "revision_id": "451cebfa-909a-4257-88a6-7584e0339698",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "4b798ba8-cfe8-415e-a747-dca542279f66",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:29.576385",
+            "webstore_last_updated": null,
+            "id": "2b259724-2271-4de8-9341-408efe930aa9",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Human Poverty Index.Csv 1998 (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "human_poverty_indexcsv_1998.tiles",
+            "created": "2014-03-12T14:53:10.852200",
+            "url": "http://maps.data.ug/geoserver/gwc/service/gmaps?layers=geonode:human_poverty_indexcsv_1998&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "451cebfa-909a-4257-88a6-7584e0339698",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "4b798ba8-cfe8-415e-a747-dca542279f66",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:29.576385",
+            "webstore_last_updated": null,
+            "id": "3443e0f4-886a-4daf-9c54-5f87eb508b5e",
+            "size": "32110",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Human Poverty Index.Csv 1998 (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "human_poverty_indexcsv_1998.jpg",
+            "created": "2014-03-12T14:53:10.852208",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Ahuman_poverty_indexcsv_1998&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 10,
+            "revision_id": "451cebfa-909a-4257-88a6-7584e0339698",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "4b798ba8-cfe8-415e-a747-dca542279f66",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:29.576385",
+            "webstore_last_updated": null,
+            "id": "c1d092f4-bd58-42d3-b661-23589193bdd0",
+            "size": "34863",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Human Poverty Index.Csv 1998 (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "human_poverty_indexcsv_1998.pdf",
+            "created": "2014-03-12T14:53:10.852215",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Ahuman_poverty_indexcsv_1998&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 11,
+            "revision_id": "451cebfa-909a-4257-88a6-7584e0339698",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "4b798ba8-cfe8-415e-a747-dca542279f66",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:29.576385",
+            "webstore_last_updated": null,
+            "id": "7a1d5022-c427-4dc6-9b57-c405dc277827",
+            "size": "50243",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Human Poverty Index.Csv 1998 (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "human_poverty_indexcsv_1998.png",
+            "created": "2014-03-12T14:53:10.852223",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Ahuman_poverty_indexcsv_1998&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 12,
+            "revision_id": "451cebfa-909a-4257-88a6-7584e0339698",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:28:29.576385",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:28:29.576385",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:28:29.576385",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:28:29.576385",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:28:29.576385",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "income",
+            "name": "income",
+            "revision_timestamp": "2014-11-04T22:28:29.576385",
+            "state": "active",
+            "id": "ffa1a5df-0f6e-4025-8fe0-962085fa3ae1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "index",
+            "name": "index",
+            "revision_timestamp": "2014-11-04T22:28:29.576385",
+            "state": "active",
+            "id": "0554a489-55ad-45f2-973a-da1917891645"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:28:29.576385",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "poverty",
+            "name": "poverty",
+            "revision_timestamp": "2014-11-04T22:28:29.576385",
+            "state": "active",
+            "id": "490c0df0-0458-4e36-8ad1-2fa9d0684d97"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:28:29.576385",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 13,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 10,
+    "name": "human-poverty-index-csv-1998",
+    "isopen": false,
+    "url": null,
+    "notes": "Human Poverty Index 1998 per district",
+    "title": "Human Poverty Index.Csv 1998",
+    "extras": [
+        {
+            "value": "[]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "451cebfa-909a-4257-88a6-7584e0339698",
+                "package_id": "907b6392-e844-42e3-969e-f7c6c8f3100e"
+            }
+        },
+        {
+            "value": "35.0017411394",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "451cebfa-909a-4257-88a6-7584e0339698",
+                "package_id": "907b6392-e844-42e3-969e-f7c6c8f3100e"
+            }
+        },
+        {
+            "value": "4.2310114174",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "907b6392-e844-42e3-969e-f7c6c8f3100e",
+                "revision_id": "451cebfa-909a-4257-88a6-7584e0339698"
+            }
+        },
+        {
+            "value": "-1.4817440179",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "451cebfa-909a-4257-88a6-7584e0339698",
+                "package_id": "907b6392-e844-42e3-969e-f7c6c8f3100e"
+            }
+        },
+        {
+            "value": "29.5741674481",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "451cebfa-909a-4257-88a6-7584e0339698",
+                "package_id": "907b6392-e844-42e3-969e-f7c6c8f3100e"
+            }
+        },
+        {
+            "value": "",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "907b6392-e844-42e3-969e-f7c6c8f3100e",
+                "revision_id": "451cebfa-909a-4257-88a6-7584e0339698"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "907b6392-e844-42e3-969e-f7c6c8f3100e",
+                "revision_id": "451cebfa-909a-4257-88a6-7584e0339698"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-02-20T03:59:45Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "907b6392-e844-42e3-969e-f7c6c8f3100e",
+                "revision_id": "451cebfa-909a-4257-88a6-7584e0339698"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "907b6392-e844-42e3-969e-f7c6c8f3100e",
+                "revision_id": "451cebfa-909a-4257-88a6-7584e0339698"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Human Poverty Index.Csv 1998'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "907b6392-e844-42e3-969e-f7c6c8f3100e",
+                "revision_id": "451cebfa-909a-4257-88a6-7584e0339698"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "907b6392-e844-42e3-969e-f7c6c8f3100e",
+                "revision_id": "451cebfa-909a-4257-88a6-7584e0339698"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "451cebfa-909a-4257-88a6-7584e0339698",
+                "package_id": "907b6392-e844-42e3-969e-f7c6c8f3100e"
+            }
+        },
+        {
+            "value": "b9f3ad92-9a15-11e3-8923-11b11f8ea6d0",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "451cebfa-909a-4257-88a6-7584e0339698",
+                "package_id": "907b6392-e844-42e3-969e-f7c6c8f3100e"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "451cebfa-909a-4257-88a6-7584e0339698",
+                "package_id": "907b6392-e844-42e3-969e-f7c6c8f3100e"
+            }
+        },
+        {
+            "value": "2014-02-20T03:59:45Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "907b6392-e844-42e3-969e-f7c6c8f3100e",
+                "revision_id": "451cebfa-909a-4257-88a6-7584e0339698"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "451cebfa-909a-4257-88a6-7584e0339698",
+                "package_id": "907b6392-e844-42e3-969e-f7c6c8f3100e"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "907b6392-e844-42e3-969e-f7c6c8f3100e",
+                "revision_id": "451cebfa-909a-4257-88a6-7584e0339698"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "907b6392-e844-42e3-969e-f7c6c8f3100e",
+                "revision_id": "451cebfa-909a-4257-88a6-7584e0339698"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "907b6392-e844-42e3-969e-f7c6c8f3100e",
+                "revision_id": "451cebfa-909a-4257-88a6-7584e0339698"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.5741674481, -1.4817440179], [35.0017411394, -1.4817440179], [35.0017411394, 4.2310114174], [29.5741674481, 4.2310114174], [29.5741674481, -1.4817440179]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "451cebfa-909a-4257-88a6-7584e0339698",
+                "package_id": "907b6392-e844-42e3-969e-f7c6c8f3100e"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "907b6392-e844-42e3-969e-f7c6c8f3100e",
+                "revision_id": "451cebfa-909a-4257-88a6-7584e0339698"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "451cebfa-909a-4257-88a6-7584e0339698",
+                "package_id": "907b6392-e844-42e3-969e-f7c6c8f3100e"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "451cebfa-909a-4257-88a6-7584e0339698",
+                "package_id": "907b6392-e844-42e3-969e-f7c6c8f3100e"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "451cebfa-909a-4257-88a6-7584e0339698"
+}

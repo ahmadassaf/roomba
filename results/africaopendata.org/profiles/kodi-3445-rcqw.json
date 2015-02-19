@@ -1,0 +1,146 @@
+{
+    "license_title": null,
+    "maintainer": "geekmate",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:47:51.126105",
+    "id": "2f0d832a-54ca-4972-8443-b0e552128253",
+    "metadata_created": "2012-09-11T13:47:51.126105",
+    "owner_org": null,
+    "metadata_modified": "2013-03-14T08:32:56.794766",
+    "author": "geekmate",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "d5edd6e0-3825-4248-a5bd-ba9a57cc55d8",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-14T08:32:56.794766",
+            "webstore_last_updated": null,
+            "id": "8805202f-526c-4ad9-a350-422a6db8595f",
+            "size": "108",
+            "state": "active",
+            "hash": "c88b54bd40e5d45da38d3c55c5873c4e984bba9f",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Government shared services.csv",
+            "created": "2012-09-11T13:47:51.231537",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155036/3445-rcqw.csv",
+            "webstore_url": null,
+            "last_modified": "2013-03-14T08:32:56.734232",
+            "position": 0,
+            "revision_id": "89e8a134-62d7-4159-9daf-1e8cc757bfe1",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "education",
+            "name": "education",
+            "revision_timestamp": "2012-09-11T13:47:51.126105",
+            "state": "active",
+            "id": "4bc98291-13cc-4baf-b090-52376fa3a429"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "end to end",
+            "name": "end to end",
+            "revision_timestamp": "2012-09-11T13:47:51.126105",
+            "state": "active",
+            "id": "9039f3e2-3c1e-4445-8005-ae0fe19c93df"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:47:51.126105",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:47:51.126105",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "shared services",
+            "name": "shared services",
+            "revision_timestamp": "2012-09-11T13:47:51.126105",
+            "state": "active",
+            "id": "3adbc6ef-1726-4855-98dc-0f2a682b8b97"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "shirikiana",
+            "name": "shirikiana",
+            "revision_timestamp": "2012-09-11T13:47:51.126105",
+            "state": "active",
+            "id": "a04aa0bc-1578-4633-bbee-f34587ae9a92"
+        }
+    ],
+    "tracking_summary": {
+        "total": 60,
+        "recent": 13
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "kodi-3445-rcqw",
+    "isopen": false,
+    "url": null,
+    "notes": "GoK End to End Services",
+    "title": "Government shared services",
+    "extras": [
+        {
+            "value": "Kenya ICT Board",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "363cdced-7f12-4287-ba6a-04353c7e8b68",
+                "package_id": "2f0d832a-54ca-4972-8443-b0e552128253"
+            }
+        },
+        {
+            "value": "Education",
+            "key": "category",
+            "__extras": {
+                "revision_id": "363cdced-7f12-4287-ba6a-04353c7e8b68",
+                "package_id": "2f0d832a-54ca-4972-8443-b0e552128253"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "363cdced-7f12-4287-ba6a-04353c7e8b68",
+                "package_id": "2f0d832a-54ca-4972-8443-b0e552128253"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "363cdced-7f12-4287-ba6a-04353c7e8b68"
+}

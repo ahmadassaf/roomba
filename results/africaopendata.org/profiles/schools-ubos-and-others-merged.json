@@ -1,0 +1,675 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:27:30.607602",
+    "id": "7776e49d-d104-40a2-aaf8-39ec6998f0c5",
+    "metadata_created": "2014-11-04T22:27:30.607602",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:49:21.625783",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "c2f3a679-715b-40aa-8970-1c552c9f4283",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:21.625783",
+            "webstore_last_updated": null,
+            "id": "75d1057d-a358-4f6a-8ff5-2f4910313f28",
+            "size": "20",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "2681490f1dee903b043e8c51085c00ded502aec9",
+            "description": "Online link to the 'Schools_UBOS_and_others_merged' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:51:02.146420",
+            "url": "http://maps.data.ug/layers/geonode:schools_ubos_and_others_merged",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:52:13.353997",
+            "position": 0,
+            "revision_id": "282ba8f6-7171-4a2a-9821-90c8bd564c78",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c2f3a679-715b-40aa-8970-1c552c9f4283",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:27:30.607602",
+            "webstore_last_updated": null,
+            "id": "60b9f63f-450a-40ae-970c-58ff65c75d37",
+            "size": "80859",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Schools_UBOS_and_others_merged (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "schools_ubos_and_others_merged.jpg",
+            "created": "2014-03-12T14:51:02.146451",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Aschools_ubos_and_others_merged&width=563&bbox=29.5871425680204%2C-1.47200965895104%2C35.0027287306153%2C3.81397633535181&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "f5db3a54-deda-498c-8383-bc0274f33f26",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c2f3a679-715b-40aa-8970-1c552c9f4283",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:27:30.607602",
+            "webstore_last_updated": null,
+            "id": "e5e5e6cc-fd90-4d9c-8b27-0d6dd89023f1",
+            "size": "657927",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Schools_UBOS_and_others_merged (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "schools_ubos_and_others_merged.pdf",
+            "created": "2014-03-12T14:51:02.146460",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Aschools_ubos_and_others_merged&width=563&bbox=29.5871425680204%2C-1.47200965895104%2C35.0027287306153%2C3.81397633535181&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "f5db3a54-deda-498c-8383-bc0274f33f26",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c2f3a679-715b-40aa-8970-1c552c9f4283",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:27:30.607602",
+            "webstore_last_updated": null,
+            "id": "e5b73218-f691-4c00-a9b3-748f58de6949",
+            "size": "107395",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Schools_UBOS_and_others_merged (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "schools_ubos_and_others_merged.png",
+            "created": "2014-03-12T14:51:02.146467",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Aschools_ubos_and_others_merged&width=563&bbox=29.5871425680204%2C-1.47200965895104%2C35.0027287306153%2C3.81397633535181&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "f5db3a54-deda-498c-8383-bc0274f33f26",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c2f3a679-715b-40aa-8970-1c552c9f4283",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:27:30.607602",
+            "webstore_last_updated": null,
+            "id": "ea754810-34eb-422c-b933-7941fccdf92c",
+            "size": "2289136",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Schools_UBOS_and_others_merged (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "schools_ubos_and_others_merged.zip",
+            "created": "2014-03-12T14:51:02.146474",
+            "url": "http://maps.data.ug/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Aschools_ubos_and_others_merged&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 4,
+            "revision_id": "f5db3a54-deda-498c-8383-bc0274f33f26",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c2f3a679-715b-40aa-8970-1c552c9f4283",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:27:30.607602",
+            "webstore_last_updated": null,
+            "id": "5e3fb28f-0e44-422c-88df-24fb03fe9024",
+            "size": "42220820",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Schools_UBOS_and_others_merged (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "schools_ubos_and_others_merged.gml",
+            "created": "2014-03-12T14:51:02.146481",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Aschools_ubos_and_others_merged&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 5,
+            "revision_id": "f5db3a54-deda-498c-8383-bc0274f33f26",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c2f3a679-715b-40aa-8970-1c552c9f4283",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:27:30.607602",
+            "webstore_last_updated": null,
+            "id": "fcb60e6f-8b72-429f-928a-d86112c8ba8d",
+            "size": "39706904",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Schools_UBOS_and_others_merged (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "schools_ubos_and_others_merged.gml",
+            "created": "2014-03-12T14:51:02.146488",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Aschools_ubos_and_others_merged&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 6,
+            "revision_id": "f5db3a54-deda-498c-8383-bc0274f33f26",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c2f3a679-715b-40aa-8970-1c552c9f4283",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:27:30.607602",
+            "webstore_last_updated": null,
+            "id": "169c48da-3568-4469-ae51-6fcb695f7618",
+            "size": "8154496",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Schools_UBOS_and_others_merged (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "schools_ubos_and_others_merged.csv",
+            "created": "2014-03-12T14:51:02.146494",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Aschools_ubos_and_others_merged&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 7,
+            "revision_id": "f5db3a54-deda-498c-8383-bc0274f33f26",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c2f3a679-715b-40aa-8970-1c552c9f4283",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:27:30.607602",
+            "webstore_last_updated": null,
+            "id": "a935e354-d533-4615-9740-ab1dcee40f86",
+            "size": "15952384",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Schools_UBOS_and_others_merged (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "schools_ubos_and_others_merged.excel",
+            "created": "2014-03-12T14:51:02.146501",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Aschools_ubos_and_others_merged&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 8,
+            "revision_id": "f5db3a54-deda-498c-8383-bc0274f33f26",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c2f3a679-715b-40aa-8970-1c552c9f4283",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:27:30.607602",
+            "webstore_last_updated": null,
+            "id": "caa1638c-d532-49e7-ad32-6d103b2801e9",
+            "size": "20637258",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Schools_UBOS_and_others_merged (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "schools_ubos_and_others_merged.json",
+            "created": "2014-03-12T14:51:02.146507",
+            "url": "http://maps.data.ug/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Aschools_ubos_and_others_merged&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "f5db3a54-deda-498c-8383-bc0274f33f26",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c2f3a679-715b-40aa-8970-1c552c9f4283",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:27:30.607602",
+            "webstore_last_updated": null,
+            "id": "347ca7ea-ca66-4949-bbb7-ba7a51c03859",
+            "size": "153911792",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Schools_UBOS_and_others_merged (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "schools_ubos_and_others_merged.kml",
+            "created": "2014-03-12T14:51:02.146513",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Aschools_ubos_and_others_merged&mode=download",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 10,
+            "revision_id": "f5db3a54-deda-498c-8383-bc0274f33f26",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c2f3a679-715b-40aa-8970-1c552c9f4283",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:27:30.607602",
+            "webstore_last_updated": null,
+            "id": "fec982cf-6a8a-449c-9e4a-5b9948b512df",
+            "size": "664",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Schools_UBOS_and_others_merged (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "schools_ubos_and_others_merged.kml",
+            "created": "2014-03-12T14:51:02.146519",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Aschools_ubos_and_others_merged&mode=refresh",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 11,
+            "revision_id": "f5db3a54-deda-498c-8383-bc0274f33f26",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c2f3a679-715b-40aa-8970-1c552c9f4283",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:27:30.607602",
+            "webstore_last_updated": null,
+            "id": "5b51b1a8-70bb-41a6-a9b6-7616f1a8e29c",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Schools_UBOS_and_others_merged (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "schools_ubos_and_others_merged.tiles",
+            "created": "2014-03-12T14:51:02.146526",
+            "url": "http://maps.data.ug/geoserver/gwc/service/gmaps?layers=geonode:schools_ubos_and_others_merged&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 12,
+            "revision_id": "f5db3a54-deda-498c-8383-bc0274f33f26",
+            "resource_type": null
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:27:30.607602",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "clear",
+            "name": "clear",
+            "revision_timestamp": "2014-11-04T22:27:30.607602",
+            "state": "active",
+            "id": "ef8a9a56-ff26-4cab-8dab-86419b1dc7b0"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:27:30.607602",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:27:30.607602",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:27:30.607602",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:27:30.607602",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:27:30.607602",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 4,
+        "recent": 4
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 7,
+    "name": "schools-ubos-and-others-merged",
+    "isopen": false,
+    "url": null,
+    "notes": "No abstract provided",
+    "title": "Schools_UBOS_and_others_merged",
+    "extras": [
+        {
+            "value": "[\"None\"]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "f5db3a54-deda-498c-8383-bc0274f33f26",
+                "package_id": "7776e49d-d104-40a2-aaf8-39ec6998f0c5"
+            }
+        },
+        {
+            "value": "35.0027287306",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "f5db3a54-deda-498c-8383-bc0274f33f26",
+                "package_id": "7776e49d-d104-40a2-aaf8-39ec6998f0c5"
+            }
+        },
+        {
+            "value": "3.8139763354",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "7776e49d-d104-40a2-aaf8-39ec6998f0c5",
+                "revision_id": "f5db3a54-deda-498c-8383-bc0274f33f26"
+            }
+        },
+        {
+            "value": "-1.4720096590",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "f5db3a54-deda-498c-8383-bc0274f33f26",
+                "package_id": "7776e49d-d104-40a2-aaf8-39ec6998f0c5"
+            }
+        },
+        {
+            "value": "29.5871425680",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "f5db3a54-deda-498c-8383-bc0274f33f26",
+                "package_id": "7776e49d-d104-40a2-aaf8-39ec6998f0c5"
+            }
+        },
+        {
+            "value": "katy@mountbatten.net",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "7776e49d-d104-40a2-aaf8-39ec6998f0c5",
+                "revision_id": "f5db3a54-deda-498c-8383-bc0274f33f26"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "7776e49d-d104-40a2-aaf8-39ec6998f0c5",
+                "revision_id": "f5db3a54-deda-498c-8383-bc0274f33f26"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2012-03-02T00:00:00Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "7776e49d-d104-40a2-aaf8-39ec6998f0c5",
+                "revision_id": "f5db3a54-deda-498c-8383-bc0274f33f26"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "7776e49d-d104-40a2-aaf8-39ec6998f0c5",
+                "revision_id": "f5db3a54-deda-498c-8383-bc0274f33f26"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Schools_UBOS_and_others_merged'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "7776e49d-d104-40a2-aaf8-39ec6998f0c5",
+                "revision_id": "f5db3a54-deda-498c-8383-bc0274f33f26"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "7776e49d-d104-40a2-aaf8-39ec6998f0c5",
+                "revision_id": "f5db3a54-deda-498c-8383-bc0274f33f26"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "f5db3a54-deda-498c-8383-bc0274f33f26",
+                "package_id": "7776e49d-d104-40a2-aaf8-39ec6998f0c5"
+            }
+        },
+        {
+            "value": "ebd50d6a-a9ba-11e3-b8d5-d7100fec7aa5",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "f5db3a54-deda-498c-8383-bc0274f33f26",
+                "package_id": "7776e49d-d104-40a2-aaf8-39ec6998f0c5"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "f5db3a54-deda-498c-8383-bc0274f33f26",
+                "package_id": "7776e49d-d104-40a2-aaf8-39ec6998f0c5"
+            }
+        },
+        {
+            "value": "2012-03-02T00:00:00Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "7776e49d-d104-40a2-aaf8-39ec6998f0c5",
+                "revision_id": "f5db3a54-deda-498c-8383-bc0274f33f26"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "f5db3a54-deda-498c-8383-bc0274f33f26",
+                "package_id": "7776e49d-d104-40a2-aaf8-39ec6998f0c5"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "7776e49d-d104-40a2-aaf8-39ec6998f0c5",
+                "revision_id": "f5db3a54-deda-498c-8383-bc0274f33f26"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "7776e49d-d104-40a2-aaf8-39ec6998f0c5",
+                "revision_id": "f5db3a54-deda-498c-8383-bc0274f33f26"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "7776e49d-d104-40a2-aaf8-39ec6998f0c5",
+                "revision_id": "f5db3a54-deda-498c-8383-bc0274f33f26"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.587142568, -1.472009659], [35.0027287306, -1.472009659], [35.0027287306, 3.8139763354], [29.587142568, 3.8139763354], [29.587142568, -1.472009659]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "f5db3a54-deda-498c-8383-bc0274f33f26",
+                "package_id": "7776e49d-d104-40a2-aaf8-39ec6998f0c5"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "7776e49d-d104-40a2-aaf8-39ec6998f0c5",
+                "revision_id": "f5db3a54-deda-498c-8383-bc0274f33f26"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "f5db3a54-deda-498c-8383-bc0274f33f26",
+                "package_id": "7776e49d-d104-40a2-aaf8-39ec6998f0c5"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "f5db3a54-deda-498c-8383-bc0274f33f26",
+                "package_id": "7776e49d-d104-40a2-aaf8-39ec6998f0c5"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "f5db3a54-deda-498c-8383-bc0274f33f26"
+}

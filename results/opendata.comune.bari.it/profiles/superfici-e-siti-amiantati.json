@@ -1,0 +1,135 @@
+{
+    "license_title": "CC0 1.0",
+    "maintainer": "Ufficio Tutela Ambiente",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "rip.igieneeambiente@comune.bari.it",
+    "revision_timestamp": "2014-12-17T11:33:11.568665",
+    "id": "fd9336d3-7546-47ac-ad51-6be272a79a4e",
+    "metadata_created": "2014-11-12T17:14:35.930533",
+    "metadata_modified": "2014-12-17T11:33:11.569394",
+    "author": "Ripartizione Tutela Ambiente, Sanità e Igiene",
+    "author_email": "rip.igieneeambiente@comune.bari.it",
+    "state": "active",
+    "version": "",
+    "creator_user_id": "1a9bb171-088a-40d4-8c09-3eb097bb7860",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "a56c1721-5463-43cb-b609-86f421945423",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-12T17:14:37.681202",
+            "webstore_last_updated": null,
+            "datastore_active": false,
+            "id": "2db4942d-4e1a-4c9a-b813-8ddf66b15b85",
+            "size": "57700",
+            "state": "active",
+            "hash": "md5:c694b390d01140e87c3917bcb1531e14",
+            "description": "",
+            "format": "ZIP",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "last_modified": "2013-02-22T14:31:03.595036",
+            "url_type": "upload",
+            "mimetype": "application/zip",
+            "cache_url": "",
+            "name": "2013-02-22T133044/superfici_e_siti_amiantati.zip",
+            "created": "2013-02-22T14:31:03.313315",
+            "url": "http://opendata.comune.bari.it/dataset/fd9336d3-7546-47ac-ad51-6be272a79a4e/resource/2db4942d-4e1a-4c9a-b813-8ddf66b15b85/download/20130222t133044superficiesitiamiantati.zip",
+            "webstore_url": "/storage/f/2013-02-22T133044/superfici_e_siti_amiantati.zip",
+            "mimetype_inner": "",
+            "position": 0,
+            "revision_id": "48c292e6-3b59-4e8d-8bed-835bdb61f496",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Superfici",
+            "name": "Superfici",
+            "revision_timestamp": "2014-11-12T17:14:35.930533",
+            "state": "active",
+            "id": "e9de9eed-c6de-485b-892a-8045f0d011a3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "siti amiantati",
+            "name": "siti amiantati",
+            "revision_timestamp": "2014-11-12T17:14:35.930533",
+            "state": "active",
+            "id": "ce97d33b-e14c-4851-aa24-1cd3ab21210d"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "display_name": "Dati Geografici",
+            "description": "Dati Geografici del Comune di Bari",
+            "image_display_url": "",
+            "title": "Dati Geografici",
+            "id": "33ce3844-87cd-418d-a237-31b4939342a7",
+            "name": "dati-geografici"
+        }
+    ],
+    "license_id": "CC0-1.0",
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "organization": {
+        "description": "",
+        "created": "2014-11-26T17:08:49.091500",
+        "title": "Comune di Bari",
+        "name": "comune-di-bari",
+        "revision_timestamp": "2014-11-26T16:08:49.054306",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "",
+        "revision_id": "dd9136cf-62f3-4182-b0a6-3287c82accaa",
+        "type": "organization",
+        "id": "a5fb4b95-9a9e-49de-a9cd-e93ac2bf587f",
+        "approval_status": "approved"
+    },
+    "name": "superfici-e-siti-amiantati",
+    "isopen": true,
+    "url": "",
+    "notes": "Mappa delle superfici e siti amiantati del Comune di Bari",
+    "owner_org": "a5fb4b95-9a9e-49de-a9cd-e93ac2bf587f",
+    "extras": [
+        {
+            "key": "Data di creazione",
+            "value": "\"Febbraio 2013\""
+        },
+        {
+            "key": "Data ultima modifica del dato",
+            "value": "\"2006\""
+        },
+        {
+            "key": "Data ultima modifica del metadato",
+            "value": "\"2006\""
+        },
+        {
+            "key": "Tipo di dato",
+            "value": "\"shape file\""
+        }
+    ],
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "title": "Superfici e siti amiantati",
+    "revision_id": "e517a9f8-f873-4a88-baa0-3ed3bba4246e",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": true,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

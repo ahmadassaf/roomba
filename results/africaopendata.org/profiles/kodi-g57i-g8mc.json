@@ -1,0 +1,114 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Laban",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T14:00:00.402008",
+    "id": "7018ef13-cc2e-430e-9aa0-68223de1adff",
+    "metadata_created": "2012-09-11T14:00:00.402008",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T11:58:53.753674",
+    "author": "Laban",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "0d7d30ff-1422-4835-9250-d383f7db0fc3",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T11:58:53.753674",
+            "webstore_last_updated": "2013-10-10T11:58:53.687473",
+            "id": "3e3cd4d9-ad38-426c-8b81-75805d37719f",
+            "size": "21306",
+            "state": "active",
+            "hash": "3dddda03bc39bbb8732f84027e6cb71dfe40f9ff",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Vol II Table 4 District - 2009.csv",
+            "created": "2012-09-11T14:00:00.434559",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T160245/g57i-g8mc.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:56:51.468515",
+            "position": 0,
+            "revision_id": "def7c48d-9957-48e4-bc22-b91b3469b457",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T14:00:00.402008",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T14:00:00.402008",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 39,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "kodi-g57i-g8mc",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Census 2009: Population by type of disability and district",
+    "title": "Vol II Table 4 District - 2009",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "b13e68ea-4662-48bf-9937-4ae151c198b9",
+                "package_id": "7018ef13-cc2e-430e-9aa0-68223de1adff"
+            }
+        },
+        {
+            "value": "Population",
+            "key": "category",
+            "__extras": {
+                "revision_id": "b13e68ea-4662-48bf-9937-4ae151c198b9",
+                "package_id": "7018ef13-cc2e-430e-9aa0-68223de1adff"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "b13e68ea-4662-48bf-9937-4ae151c198b9",
+                "package_id": "7018ef13-cc2e-430e-9aa0-68223de1adff"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "b13e68ea-4662-48bf-9937-4ae151c198b9"
+}

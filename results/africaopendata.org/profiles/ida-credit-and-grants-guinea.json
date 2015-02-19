@@ -1,0 +1,97 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-03-19T20:50:40.933922",
+    "id": "a6e80bba-0bab-4b57-bcd9-47be7dce4795",
+    "metadata_created": "2013-03-19T20:49:50.570755",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:52:05.808329",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "b85f6b7b-aa4c-4c45-8c13-e0fe36b62ddc",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:52:05.808329",
+            "webstore_last_updated": "2013-10-10T10:52:05.745642",
+            "id": "06170927-cbe3-42a5-9538-d7e12d5a6509",
+            "size": "1043181",
+            "state": "active",
+            "hash": "4cf3ba890cb9577f63d6eb039f549b716a005988",
+            "description": "The International Development Association (IDA) credits are public and publicly guaranteed debt extended by the World Bank Group. IDA provides development credits, grants and guarantees to its recipient member countries to help meet their development needs. Credits from IDA are at concessional rates. Data are in U.S. dollars calculated using historical rates. This dataset contains the latest available snapshot of the IDA Statement of Credits and Grants. The World Bank complies with all sanctions applicable to World Bank transactions.",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "IDA_Credits_and_Grants_Guinea.csv",
+            "created": "2013-03-19T20:50:32.405027",
+            "url": "http://africaopendata.org/storage/f/2013-03-19T20%3A50%3A01.009Z/ida-credits-and-grants-guinea.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-19T20:50:33.325788",
+            "position": 0,
+            "revision_id": "c529d91f-6a98-4334-af46-fdf449eec2c7",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Grants",
+            "name": "Grants",
+            "revision_timestamp": "2013-03-19T20:49:50.570755",
+            "state": "active",
+            "id": "bc99fdc7-1e8e-49d7-9373-e09fb15cf8a4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Guniea",
+            "name": "Guniea",
+            "revision_timestamp": "2013-03-19T20:49:50.570755",
+            "state": "active",
+            "id": "3d8403d2-9193-48ec-be93-41d161fa9a0e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "World Bank",
+            "name": "World Bank",
+            "revision_timestamp": "2013-03-19T20:49:50.570755",
+            "state": "active",
+            "id": "ae91265e-0b5c-45a0-a96f-02cf356ec937"
+        }
+    ],
+    "tracking_summary": {
+        "total": 64,
+        "recent": 12
+    },
+    "groups": [
+        {
+            "title": "Guniea",
+            "description": "Datasets from the Republic of Guinea",
+            "name": "guniea",
+            "id": "a5cd42ed-08d8-49de-9ca9-e49fb8739a32"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "ida-credit-and-grants-guinea",
+    "isopen": true,
+    "url": null,
+    "notes": "The International Development Association (IDA) credits are public and publicly guaranteed debt extended by the World Bank Group. IDA provides development credits, grants and guarantees to its recipient member countries to help meet their development needs. Credits from IDA are at concessional rates. Data are in U.S. dollars calculated using historical rates. This dataset contains the latest available snapshot of the IDA Statement of Credits and Grants. The World Bank complies with all sanctions applicable to World Bank transactions.",
+    "title": "IDA Credit and Grants Guinea",
+    "extras": [],
+    "organization": null,
+    "revision_id": "df53d9b9-788c-449c-af85-33944a065090"
+}

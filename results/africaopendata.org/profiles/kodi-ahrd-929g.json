@@ -1,0 +1,146 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:52:01.656503",
+    "id": "6b461e7d-4817-4471-95f3-c391c81b53c9",
+    "metadata_created": "2012-09-11T13:52:01.656503",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:07:43.740944",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "3a0e1702-4701-410d-862e-6e6ac935d0a9",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:07:43.740944",
+            "webstore_last_updated": "2013-10-10T12:07:43.660509",
+            "id": "e3d8231a-0d2e-4b45-8b5d-95c51b7fac23",
+            "size": "2473",
+            "state": "active",
+            "hash": "d02cf96f01a3eecfbdfd74dbbc0c68e642885e18",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Proportion of Households that sought Credit, County estimates - 2005/6.csv",
+            "created": "2012-09-11T13:52:01.719269",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155446/ahrd-929g.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-10-10T12:07:43.081265",
+            "position": 0,
+            "revision_id": "36d0a40e-cb9a-4602-9ab3-81d4b842c48c",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "county",
+            "name": "county",
+            "revision_timestamp": "2012-09-11T13:52:01.656503",
+            "state": "active",
+            "id": "858f3acf-2c66-4fd9-9dc2-32e4f12121a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "credit",
+            "name": "credit",
+            "revision_timestamp": "2012-09-11T13:52:01.656503",
+            "state": "active",
+            "id": "f75f0f6a-6ae1-4519-9dc9-6ef5faf66337"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "economy",
+            "name": "economy",
+            "revision_timestamp": "2012-09-11T13:52:01.656503",
+            "state": "active",
+            "id": "04a67a7a-85b4-4841-815a-ec4ebad88b59"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:52:01.656503",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kihbs",
+            "name": "kihbs",
+            "revision_timestamp": "2012-09-11T13:52:01.656503",
+            "state": "active",
+            "id": "e034ae5d-0777-40b8-92f7-c93ba0a00972"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:52:01.656503",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 62,
+        "recent": 3
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "kodi-ahrd-929g",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "KIHBS Table 8.6: Proportion of Households that sought Credit, County estimates",
+    "title": "Proportion of Households that sought Credit, County estimates - 2005/6",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "fb7b4fe3-6210-4cb3-97c6-fef84bef179e",
+                "package_id": "6b461e7d-4817-4471-95f3-c391c81b53c9"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "fb7b4fe3-6210-4cb3-97c6-fef84bef179e",
+                "package_id": "6b461e7d-4817-4471-95f3-c391c81b53c9"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "fb7b4fe3-6210-4cb3-97c6-fef84bef179e",
+                "package_id": "6b461e7d-4817-4471-95f3-c391c81b53c9"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "fb7b4fe3-6210-4cb3-97c6-fef84bef179e"
+}

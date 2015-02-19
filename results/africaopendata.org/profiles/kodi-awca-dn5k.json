@@ -1,0 +1,146 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Kenya Open Data Bot",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T12:53:05.136478",
+    "id": "f3caf2af-f572-4f94-aa75-d28a18a5c1fd",
+    "metadata_created": "2012-09-10T12:53:05.136478",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:13:09.403436",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "6e3cb1bb-74e1-40fe-b612-176d14545d73",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:13:09.403436",
+            "webstore_last_updated": "2013-10-10T12:13:09.334260",
+            "id": "18b302dc-c323-4c41-b7c3-2e9302479751",
+            "size": "188",
+            "state": "active",
+            "hash": "1ace307d53475d2c13c6033fdaddb1c423c696d8",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Local Authority Expenditures by Year: Trans Nzoia.csv",
+            "created": "2012-09-11T13:38:24.020586",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T154108/awca-dn5k.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T10:43:20.420736",
+            "position": 0,
+            "revision_id": "38386a5a-7cf9-4f5f-8b46-137b877f8367",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "cdf",
+            "name": "cdf",
+            "revision_timestamp": "2012-09-10T12:53:05.136478",
+            "state": "active",
+            "id": "e4f787d6-ec60-483a-b3b3-f941cf48c3b4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "county",
+            "name": "county",
+            "revision_timestamp": "2012-09-10T12:53:05.136478",
+            "state": "active",
+            "id": "858f3acf-2c66-4fd9-9dc2-32e4f12121a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "expenditures",
+            "name": "expenditures",
+            "revision_timestamp": "2012-09-10T12:53:05.136478",
+            "state": "active",
+            "id": "44c63fed-5be4-49aa-b2a5-1e7baf93d961"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T12:53:05.136478",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T12:53:05.136478",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "local authorities",
+            "name": "local authorities",
+            "revision_timestamp": "2012-09-10T12:53:05.136478",
+            "state": "active",
+            "id": "ece507fe-ec49-44f8-848e-39df75ac1866"
+        }
+    ],
+    "tracking_summary": {
+        "total": 60,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "kodi-awca-dn5k",
+    "isopen": true,
+    "url": null,
+    "notes": "Local Authority and Constituency Development Fund Expenditures, County estimates, Kenya Shillings",
+    "title": "Local Authority Expenditures by Year: Trans Nzoia",
+    "extras": [
+        {
+            "value": "Ministry of Local Government",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "7e9cc122-bb71-4fd6-b4ef-be27677f896e",
+                "package_id": "f3caf2af-f572-4f94-aa75-d28a18a5c1fd"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "7e9cc122-bb71-4fd6-b4ef-be27677f896e",
+                "package_id": "f3caf2af-f572-4f94-aa75-d28a18a5c1fd"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "7e9cc122-bb71-4fd6-b4ef-be27677f896e",
+                "package_id": "f3caf2af-f572-4f94-aa75-d28a18a5c1fd"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "7e9cc122-bb71-4fd6-b4ef-be27677f896e"
+}

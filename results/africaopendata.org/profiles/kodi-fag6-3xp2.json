@@ -1,0 +1,138 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Kenya Open Data Bot",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T12:52:03.149528",
+    "id": "36f9d4c0-2aad-4959-9c67-e299e4959591",
+    "metadata_created": "2012-09-10T12:52:03.149528",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:13:16.957719",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "ea5ec615-58d9-4fd2-9672-11ca20f02a94",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:13:16.957719",
+            "webstore_last_updated": "2013-10-10T12:13:16.888935",
+            "id": "ba2cd4b5-e615-4948-bd13-bb638b69a938",
+            "size": "167",
+            "state": "active",
+            "hash": "1c6dad8a2f9520fc0c4431ea79459fd2180ba68c",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "County Urbanization: Nyamira.csv",
+            "created": "2012-09-11T13:37:53.014345",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T154037/fag6-3xp2.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-10-10T12:13:16.352059",
+            "position": 0,
+            "revision_id": "2a957446-4d94-4f8d-8a80-0d3173b2e75a",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "county",
+            "name": "county",
+            "revision_timestamp": "2012-09-10T12:52:03.149528",
+            "state": "active",
+            "id": "858f3acf-2c66-4fd9-9dc2-32e4f12121a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T12:52:03.149528",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T12:52:03.149528",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population",
+            "name": "population",
+            "revision_timestamp": "2012-09-10T12:52:03.149528",
+            "state": "active",
+            "id": "c5e39de5-556e-4bcb-883b-5b9ec2481ae9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "urbanisation",
+            "name": "urbanisation",
+            "revision_timestamp": "2012-09-10T12:52:03.149528",
+            "state": "active",
+            "id": "0a352ac2-4503-4c03-8962-ef4f605e793e"
+        }
+    ],
+    "tracking_summary": {
+        "total": 48,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "kodi-fag6-3xp2",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Census population by rural, urban, County estimates",
+    "title": "County Urbanization: Nyamira",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "fb5df8d8-9511-4e12-a8d8-3b27eeaf7d69",
+                "package_id": "36f9d4c0-2aad-4959-9c67-e299e4959591"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "fb5df8d8-9511-4e12-a8d8-3b27eeaf7d69",
+                "package_id": "36f9d4c0-2aad-4959-9c67-e299e4959591"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "fb5df8d8-9511-4e12-a8d8-3b27eeaf7d69",
+                "package_id": "36f9d4c0-2aad-4959-9c67-e299e4959591"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "fb5df8d8-9511-4e12-a8d8-3b27eeaf7d69"
+}

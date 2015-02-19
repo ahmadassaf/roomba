@@ -1,0 +1,169 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2013-10-07T09:41:11.440844",
+    "id": "e52981d0-3899-4f00-943e-2cf99f11529e",
+    "metadata_created": "2013-10-07T09:41:11.440844",
+    "owner_org": null,
+    "metadata_modified": "2013-10-22T11:35:26.965400",
+    "author": "GGD Amsterdam",
+    "author_email": "info@ggd.amsterdam.nl",
+    "state": "active",
+    "version": null,
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "0f443497-ef57-4fa6-a41b-be19b44df74f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-22T11:35:26.965400",
+            "webstore_last_updated": null,
+            "id": "172e196b-e10e-4b78-97c7-44deeab4597b",
+            "size": null,
+            "state": "active",
+            "hash": "",
+            "description": "Downloaden via Open Datakaart",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "http://www.opendatakaart.nl/catalogus/datasets/datasets_dataset/t/buurtcentra",
+            "created": "2013-10-07T11:41:11.492194",
+            "url": "http://www.opendatakaart.nl/catalogus/datasets/datasets_dataset/t/buurtcentra",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "50fc8766-54b8-4b7e-b8de-23feb36fe52a",
+            "resource_type": "file"
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "buurtcentra",
+            "name": "buurtcentra",
+            "revision_timestamp": "2013-10-07T09:41:11.440844",
+            "state": "active",
+            "id": "7521ad14-b250-49b5-a55d-438406e3a8c5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "buurtcentrum",
+            "name": "buurtcentrum",
+            "revision_timestamp": "2013-10-07T09:41:11.440844",
+            "state": "active",
+            "id": "5d3b9c19-dddb-4616-8e0e-d7c072cbb8a5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "buurthuis",
+            "name": "buurthuis",
+            "revision_timestamp": "2013-10-07T09:41:11.440844",
+            "state": "active",
+            "id": "187f5881-19a8-4c6c-8c9e-6bd677fea665"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "buurthuizen",
+            "name": "buurthuizen",
+            "revision_timestamp": "2013-10-07T09:41:11.440844",
+            "state": "active",
+            "id": "6dfc9bb2-164e-4374-91f2-cbe2f0a07d55"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "wijkcentrum",
+            "name": "wijkcentrum",
+            "revision_timestamp": "2013-10-07T09:41:11.440844",
+            "state": "active",
+            "id": "ded0aba0-28e8-4e2c-b1fc-d9d6fdf48d12"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Zorg & welzijn",
+            "description": "",
+            "name": "zorg-welzijn",
+            "id": "03f76fe0-7556-4f88-9c23-0b318e1c69ed"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "buurtcentra",
+    "isopen": false,
+    "url": null,
+    "notes": "Overzicht van alle buurtcentra in Amsterdam",
+    "title": "Buurtcentra",
+    "extras": [
+        {
+            "value": "info@ggd.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "e52981d0-3899-4f00-943e-2cf99f11529e",
+                "revision_id": "084e9fd0-795c-4c40-8f64-202021a936a2"
+            }
+        },
+        {
+            "value": "GGD Amsterdam",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "084e9fd0-795c-4c40-8f64-202021a936a2",
+                "package_id": "e52981d0-3899-4f00-943e-2cf99f11529e"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "084e9fd0-795c-4c40-8f64-202021a936a2",
+                "package_id": "e52981d0-3899-4f00-943e-2cf99f11529e"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "084e9fd0-795c-4c40-8f64-202021a936a2",
+                "package_id": "e52981d0-3899-4f00-943e-2cf99f11529e"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "e52981d0-3899-4f00-943e-2cf99f11529e",
+                "revision_id": "084e9fd0-795c-4c40-8f64-202021a936a2"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "e52981d0-3899-4f00-943e-2cf99f11529e",
+                "revision_id": "084e9fd0-795c-4c40-8f64-202021a936a2"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "084e9fd0-795c-4c40-8f64-202021a936a2",
+                "package_id": "e52981d0-3899-4f00-943e-2cf99f11529e"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "084e9fd0-795c-4c40-8f64-202021a936a2"
+}

@@ -1,0 +1,171 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2013-06-11T14:06:03.184651",
+    "id": "aa34fd52-3ff7-4633-86d4-402e9d544dc2",
+    "metadata_created": "2013-05-21T08:26:12.895055",
+    "owner_org": null,
+    "metadata_modified": "2013-06-11T14:06:03.184651",
+    "author": "Alliander en Amsterdam Dienst Ruimtelijke Ordening (DRO)",
+    "author_email": "info@dro.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "d3c0d4fa-b0bd-4ef7-8336-e2d101392b55",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-06-11T14:06:03.184651",
+            "webstore_last_updated": null,
+            "id": "c6a81240-e17f-4b0c-b506-68bbb68db57d",
+            "size": "2619904",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Energieverbruik (XLS)",
+            "format": "XLS",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/vnd.ms-excel",
+            "cache_url": null,
+            "name": "Data energieverbruik.xls",
+            "created": "2013-06-11T16:06:03.218201",
+            "url": "http://www.amsterdamopendata.nl/documents/10180/24623/Data energieverbruik.xls",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "2b70b3a2-28bc-43e3-8797-7c45383f4447",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "elektriciteit\n",
+            "name": "elektriciteit\n",
+            "revision_timestamp": "2013-05-21T08:26:12.895055",
+            "state": "active",
+            "id": "0adcba71-0e3e-4d40-b082-dc58437389eb"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "energie",
+            "name": "energie",
+            "revision_timestamp": "2013-05-21T08:26:12.895055",
+            "state": "active",
+            "id": "2dcbc92a-ef3d-4d78-92cf-63e0b964bfe4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "energieverbruik",
+            "name": "energieverbruik",
+            "revision_timestamp": "2013-05-21T08:26:12.895055",
+            "state": "active",
+            "id": "64c2c967-3ac9-4108-9d75-24f1338b8d32"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "gas",
+            "name": "gas",
+            "revision_timestamp": "2013-05-21T08:26:12.895055",
+            "state": "active",
+            "id": "e741f339-fce5-4340-89e6-daa3ce47a01b"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Energie",
+            "description": "",
+            "name": "energie",
+            "id": "14dc43ca-3c44-4ecb-8580-bb02b51ec950"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "verbruiksgegevens-elektriciteit-en-gas",
+    "isopen": false,
+    "url": null,
+    "notes": "Verbruiksgegevens van elektriciteit en gas van 2008 t/m 2011 op Postcode 5 (PP5)-niveau",
+    "title": "Verbruiksgegevens Elektriciteit en Gas",
+    "extras": [
+        {
+            "value": "info@dro.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "aa34fd52-3ff7-4633-86d4-402e9d544dc2",
+                "revision_id": "8320e638-b669-4dcc-adec-df66fa663115"
+            }
+        },
+        {
+            "value": "Alliander en Amsterdam Dienst Ruimtelijke Ordening (DRO)",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "8320e638-b669-4dcc-adec-df66fa663115",
+                "package_id": "aa34fd52-3ff7-4633-86d4-402e9d544dc2"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "8320e638-b669-4dcc-adec-df66fa663115",
+                "package_id": "aa34fd52-3ff7-4633-86d4-402e9d544dc2"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "8320e638-b669-4dcc-adec-df66fa663115",
+                "package_id": "aa34fd52-3ff7-4633-86d4-402e9d544dc2"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "aa34fd52-3ff7-4633-86d4-402e9d544dc2",
+                "revision_id": "8320e638-b669-4dcc-adec-df66fa663115"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "aa34fd52-3ff7-4633-86d4-402e9d544dc2",
+                "revision_id": "8320e638-b669-4dcc-adec-df66fa663115"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "8320e638-b669-4dcc-adec-df66fa663115",
+                "package_id": "aa34fd52-3ff7-4633-86d4-402e9d544dc2"
+            }
+        },
+        {
+            "value": "http://www.dro.amsterdam.nl",
+            "key": "website",
+            "__extras": {
+                "package_id": "aa34fd52-3ff7-4633-86d4-402e9d544dc2",
+                "revision_id": "8320e638-b669-4dcc-adec-df66fa663115"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "2b70b3a2-28bc-43e3-8797-7c45383f4447"
+}

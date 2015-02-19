@@ -1,0 +1,138 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Samuel Kipruto",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T14:00:25.270126",
+    "id": "d28a5304-e3f0-4d84-882a-264a87c69de5",
+    "metadata_created": "2012-09-11T14:00:25.270126",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T11:58:50.620124",
+    "author": "Chris Metcalf",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "8283233f-a1f8-488b-add7-ab55ffb96f60",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T11:58:50.620124",
+            "webstore_last_updated": "2013-10-10T11:58:50.554725",
+            "id": "3d35ff22-3ba2-43a5-a8e1-b46f0f456b74",
+            "size": "6443245",
+            "state": "active",
+            "hash": "1504399ac3767507853112b680b77925fac092e7",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "training_Kipruto.csv",
+            "created": "2012-09-11T14:00:25.319225",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T160309/hix8-p7hu.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:50:27.081039",
+            "position": 0,
+            "revision_id": "9f3aab7e-1aa6-469e-96e1-182867cf153b",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "education",
+            "name": "education",
+            "revision_timestamp": "2012-09-11T14:00:25.270126",
+            "state": "active",
+            "id": "4bc98291-13cc-4baf-b090-52376fa3a429"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T14:00:25.270126",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T14:00:25.270126",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "primary schools",
+            "name": "primary schools",
+            "revision_timestamp": "2012-09-11T14:00:25.270126",
+            "state": "active",
+            "id": "90a5a1bf-d17b-4b46-88ff-7b8395964da6"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "schools",
+            "name": "schools",
+            "revision_timestamp": "2012-09-11T14:00:25.270126",
+            "state": "active",
+            "id": "79daea23-54f2-4724-94ee-be15d5dc4957"
+        }
+    ],
+    "tracking_summary": {
+        "total": 50,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "kodi-hix8-p7hu",
+    "isopen": true,
+    "url": "http://www.education.go.ke",
+    "notes": "This is the list of GIS coded primary schools that was completed in 2007.",
+    "title": "training_Kipruto",
+    "extras": [
+        {
+            "value": "Ministry of Education",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "c72f95a9-e965-49f3-b53b-0cd3f0312c72",
+                "package_id": "d28a5304-e3f0-4d84-882a-264a87c69de5"
+            }
+        },
+        {
+            "value": "Education",
+            "key": "category",
+            "__extras": {
+                "revision_id": "c72f95a9-e965-49f3-b53b-0cd3f0312c72",
+                "package_id": "d28a5304-e3f0-4d84-882a-264a87c69de5"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "c72f95a9-e965-49f3-b53b-0cd3f0312c72",
+                "package_id": "d28a5304-e3f0-4d84-882a-264a87c69de5"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "c72f95a9-e965-49f3-b53b-0cd3f0312c72"
+}

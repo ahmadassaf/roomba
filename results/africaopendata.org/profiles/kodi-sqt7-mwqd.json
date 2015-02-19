@@ -1,0 +1,138 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Kenya Open Data Bot",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T11:59:12.852949",
+    "id": "ebaba8cb-fbec-4436-99ba-2b5b53600fc3",
+    "metadata_created": "2012-09-10T11:59:12.852949",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:16:57.881164",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "2c338ab4-655d-4a72-8919-00737c4cc5aa",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:16:57.881164",
+            "webstore_last_updated": "2013-10-10T12:16:57.810776",
+            "id": "07f3400f-0575-4f65-ba2a-e336566957dc",
+            "size": "166",
+            "state": "active",
+            "hash": "6fc461daedaeb57183ae9fe420c1ab2205f44e09",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "County Urbanization: Meru.csv",
+            "created": "2012-09-11T13:30:54.877396",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T153339/sqt7-mwqd.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T10:43:03.104424",
+            "position": 0,
+            "revision_id": "e9bcb235-e2cc-4721-9256-13ad63198820",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "county",
+            "name": "county",
+            "revision_timestamp": "2012-09-10T11:59:12.852949",
+            "state": "active",
+            "id": "858f3acf-2c66-4fd9-9dc2-32e4f12121a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T11:59:12.852949",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T11:59:12.852949",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population",
+            "name": "population",
+            "revision_timestamp": "2012-09-10T11:59:12.852949",
+            "state": "active",
+            "id": "c5e39de5-556e-4bcb-883b-5b9ec2481ae9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "urbanisation",
+            "name": "urbanisation",
+            "revision_timestamp": "2012-09-10T11:59:12.852949",
+            "state": "active",
+            "id": "0a352ac2-4503-4c03-8962-ef4f605e793e"
+        }
+    ],
+    "tracking_summary": {
+        "total": 61,
+        "recent": 5
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "kodi-sqt7-mwqd",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Census population by rural, urban, County estimates",
+    "title": "County Urbanization: Meru",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "0c4b57d5-0692-4467-82ba-7b988d2de5a7",
+                "package_id": "ebaba8cb-fbec-4436-99ba-2b5b53600fc3"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "0c4b57d5-0692-4467-82ba-7b988d2de5a7",
+                "package_id": "ebaba8cb-fbec-4436-99ba-2b5b53600fc3"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "0c4b57d5-0692-4467-82ba-7b988d2de5a7",
+                "package_id": "ebaba8cb-fbec-4436-99ba-2b5b53600fc3"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "0c4b57d5-0692-4467-82ba-7b988d2de5a7"
+}

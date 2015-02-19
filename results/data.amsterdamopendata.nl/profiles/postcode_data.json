@@ -1,0 +1,256 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2014-03-13T17:07:48.720787",
+    "id": "a19dd1e0-daa5-4495-9248-d6b23ca9b00b",
+    "metadata_created": "2014-02-25T13:33:13.439605",
+    "owner_org": null,
+    "metadata_modified": "2014-03-13T17:07:48.720787",
+    "author": "Postcodedata.nl",
+    "author_email": "info@postcodedata.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "96300342-f803-4715-99e2-1f88be28ed21",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-03-13T17:07:48.720787",
+            "webstore_last_updated": null,
+            "id": "909d94ef-22b5-412d-a6a5-d1ddafb68b21",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Download",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://www.postcodedata.nl/download/",
+            "created": "2014-03-13T18:07:48.778014",
+            "url": "http://www.postcodedata.nl/download/",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "42f48a52-339e-44ad-994d-737fd906bb0a",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "96300342-f803-4715-99e2-1f88be28ed21",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-03-13T17:07:48.720787",
+            "webstore_last_updated": null,
+            "id": "8fe28611-9e8d-4306-8730-ebb9fb49be2c",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "API",
+            "format": "url",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://www.postcodedata.nl/api/",
+            "created": "2014-03-13T18:07:48.778037",
+            "url": "http://www.postcodedata.nl/api/",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "42f48a52-339e-44ad-994d-737fd906bb0a",
+            "resource_type": "api",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "BAG",
+            "name": "BAG",
+            "revision_timestamp": "2014-02-25T13:33:13.439605",
+            "state": "active",
+            "id": "da4689bf-c00d-4d15-a50d-c8879395837e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "gemeente",
+            "name": "gemeente",
+            "revision_timestamp": "2014-02-25T13:33:13.439605",
+            "state": "active",
+            "id": "8180c3f7-d35e-4a00-b432-56429b1e534c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "huisnummer",
+            "name": "huisnummer",
+            "revision_timestamp": "2014-02-25T13:33:13.439605",
+            "state": "active",
+            "id": "79bbb4d3-2cbe-4c8c-b108-e1db5b1c4aec"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "huisnummers",
+            "name": "huisnummers",
+            "revision_timestamp": "2014-02-25T13:33:13.439605",
+            "state": "active",
+            "id": "38f4a8ee-f62d-47ca-8719-277433b1a2b1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "locatie",
+            "name": "locatie",
+            "revision_timestamp": "2014-02-25T13:33:13.439605",
+            "state": "active",
+            "id": "d1ada7ea-6852-4672-8fb1-b8b16b57abca"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "postcode",
+            "name": "postcode",
+            "revision_timestamp": "2014-02-25T13:33:13.439605",
+            "state": "active",
+            "id": "83405c7f-7812-4695-9fb4-d63185d59094"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "postcode6",
+            "name": "postcode6",
+            "revision_timestamp": "2014-02-25T13:33:13.439605",
+            "state": "active",
+            "id": "27b3a7c1-bd7b-44e2-a146-0a31453df3d7"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "pp6",
+            "name": "pp6",
+            "revision_timestamp": "2014-02-25T13:33:13.439605",
+            "state": "active",
+            "id": "a654ce6a-3204-4702-8e61-47c8999fc184"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "straat",
+            "name": "straat",
+            "revision_timestamp": "2014-02-25T13:33:13.439605",
+            "state": "active",
+            "id": "d997eea9-9526-4a48-955d-2e062203589b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "straatnamen",
+            "name": "straatnamen",
+            "revision_timestamp": "2014-03-13T17:07:04.572641",
+            "state": "active",
+            "id": "165e2642-41da-4a5f-b0f0-4dd189cff7ca"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "straten",
+            "name": "straten",
+            "revision_timestamp": "2014-02-25T13:33:13.439605",
+            "state": "active",
+            "id": "ce713dcb-8961-42f8-9cde-92c351a80540"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Geografie",
+            "description": "",
+            "name": "geografie",
+            "id": "12518db9-824a-44d5-b568-6369f401aef3"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 11,
+    "name": "postcode_data",
+    "isopen": true,
+    "url": null,
+    "notes": "Postcodedata.nl verzamelt de gegevens van postcodes (gemeente, straatnaam, huisnummers, geolocatie, etc.) uit de BAG (Basisregistratie Adressen en Gebouwen van het Kadaster en de gemeenten) en stelt deze als download en via een API op Postcode6-niveau beschikbaar. De API en de downloads worden iedere week resp. iedere maand geüpdate.",
+    "title": "Postcodedata",
+    "extras": [
+        {
+            "value": "info@postcodedata.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "a19dd1e0-daa5-4495-9248-d6b23ca9b00b",
+                "revision_id": "ff7828b3-9568-4d5e-bc82-20b5006ddb31"
+            }
+        },
+        {
+            "value": "Postcodedata.nl",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "ff7828b3-9568-4d5e-bc82-20b5006ddb31",
+                "package_id": "a19dd1e0-daa5-4495-9248-d6b23ca9b00b"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "ff7828b3-9568-4d5e-bc82-20b5006ddb31",
+                "package_id": "a19dd1e0-daa5-4495-9248-d6b23ca9b00b"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "ff7828b3-9568-4d5e-bc82-20b5006ddb31",
+                "package_id": "a19dd1e0-daa5-4495-9248-d6b23ca9b00b"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "a19dd1e0-daa5-4495-9248-d6b23ca9b00b",
+                "revision_id": "ff7828b3-9568-4d5e-bc82-20b5006ddb31"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "a19dd1e0-daa5-4495-9248-d6b23ca9b00b",
+                "revision_id": "ff7828b3-9568-4d5e-bc82-20b5006ddb31"
+            }
+        },
+        {
+            "value": "wekelijks/maandelijks",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "ff7828b3-9568-4d5e-bc82-20b5006ddb31",
+                "package_id": "a19dd1e0-daa5-4495-9248-d6b23ca9b00b"
+            }
+        },
+        {
+            "value": "http://www.postcodedata.nl/",
+            "key": "website",
+            "__extras": {
+                "package_id": "a19dd1e0-daa5-4495-9248-d6b23ca9b00b",
+                "revision_id": "ff7828b3-9568-4d5e-bc82-20b5006ddb31"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "42f48a52-339e-44ad-994d-737fd906bb0a"
+}

@@ -1,0 +1,178 @@
+{
+    "license_title": "CC0 1.0",
+    "maintainer": "Ripartizione Innovazione Tecnologica",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "rip.innovazione@comune.bari.it",
+    "revision_timestamp": "2014-11-27T15:14:02.836649",
+    "id": "69aa612b-9f41-4b40-ada0-d90d6aea7503",
+    "metadata_created": "2014-11-12T17:14:05.554395",
+    "metadata_modified": "2014-11-27T15:14:02.837467",
+    "author": "AMTAB S.p.a. Bari",
+    "author_email": "urp@amtabservizio.it",
+    "state": "active",
+    "version": "",
+    "creator_user_id": "1a9bb171-088a-40d4-8c09-3eb097bb7860",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "2d335241-a293-4b12-8e7f-65384b6ba1c8",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-12T17:14:08.974635",
+            "webstore_last_updated": "2014-11-05T15:09:17.385676",
+            "datastore_active": false,
+            "id": "7a651c38-7d7c-407c-8797-8999f097e619",
+            "size": "73008",
+            "state": "active",
+            "hash": "894dc81a8ac9dcc3ceeaaa3499b038078a2265b2",
+            "description": "Lista delle fermate della rete TPL del Comune di Bari",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "last_modified": "2014-11-05T15:09:06.021234",
+            "url_type": "upload",
+            "mimetype": "text/csv",
+            "cache_url": "",
+            "name": "2014-11-05T140443/fermate.csv",
+            "created": "2014-11-05T15:09:04.548287",
+            "url": "http://opendata.comune.bari.it/dataset/69aa612b-9f41-4b40-ada0-d90d6aea7503/resource/7a651c38-7d7c-407c-8797-8999f097e619/download/20141105t140443fermate.csv",
+            "webstore_url": "/storage/f/2014-11-05T140443/fermate.csv",
+            "mimetype_inner": "",
+            "position": 0,
+            "revision_id": "94cb5009-2b9c-44fa-a18c-7c50df1855f6",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "2d335241-a293-4b12-8e7f-65384b6ba1c8",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-12T17:14:12.005733",
+            "webstore_last_updated": "2014-11-05T15:09:45.244451",
+            "datastore_active": false,
+            "id": "8da8d7cb-d9f2-4124-aa33-71454432c39d",
+            "size": "1515",
+            "state": "active",
+            "hash": "fec540c6054d4f66c91c2d5ff15f172cb3062771",
+            "description": "Lista delle linee della rete TPL del Comune di Bari",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "last_modified": "2014-11-05T15:09:44.467054",
+            "url_type": "upload",
+            "mimetype": "text/csv",
+            "cache_url": "",
+            "name": "2014-11-05T140713/linee.csv",
+            "created": "2014-11-05T15:09:43.283335",
+            "url": "http://opendata.comune.bari.it/dataset/69aa612b-9f41-4b40-ada0-d90d6aea7503/resource/8da8d7cb-d9f2-4124-aa33-71454432c39d/download/20141105t140713linee.csv",
+            "webstore_url": "active",
+            "mimetype_inner": "",
+            "position": 1,
+            "revision_id": "d3763cac-5a28-4a55-8838-b06442ca5dd2",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "2d335241-a293-4b12-8e7f-65384b6ba1c8",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-12T17:14:12.005733",
+            "webstore_last_updated": null,
+            "datastore_active": false,
+            "id": "6199728a-ab31-4746-90cf-0ff0dd913ae6",
+            "size": "69898",
+            "state": "active",
+            "hash": "",
+            "description": "Per visualizzare le API cliccare su (API Endpoint)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "last_modified": "2014-11-05T15:53:06.983459",
+            "url_type": null,
+            "mimetype": "text/html",
+            "cache_url": "",
+            "name": "Link alle API per il trasporto publico locare del Comune di Bari",
+            "created": "2014-11-05T15:11:37.087141",
+            "url": "http://bari.opendata.planetek.it/OrariBus/v2.1/",
+            "webstore_url": "",
+            "mimetype_inner": "",
+            "position": 2,
+            "revision_id": "d3763cac-5a28-4a55-8838-b06442ca5dd2",
+            "resource_type": "api",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 3,
+    "tags": [],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "display_name": "Dati Statistici",
+            "description": "Dati Statistici del Comune di Bari",
+            "image_display_url": "",
+            "title": "Dati Statistici",
+            "id": "75fd2c2f-39c5-4e2b-a09b-15887f04cee7",
+            "name": "dati-statistici"
+        }
+    ],
+    "license_id": "CC0-1.0",
+    "relationships_as_subject": [],
+    "num_tags": 0,
+    "organization": {
+        "description": "",
+        "created": "2014-11-27T16:13:20.804332",
+        "title": "AMTAB",
+        "name": "amtab",
+        "revision_timestamp": "2014-11-27T15:13:20.774127",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "",
+        "revision_id": "766f8442-176b-4fe4-88c9-7a631aa99fa1",
+        "type": "organization",
+        "id": "24a9c450-c29e-4d7b-8996-5fe67a9a0e4a",
+        "approval_status": "approved"
+    },
+    "name": "trasporto-pubblico-locale",
+    "isopen": true,
+    "url": "",
+    "notes": "Dati relativi  al trasporto pubblico del Comune di Bari ",
+    "owner_org": "24a9c450-c29e-4d7b-8996-5fe67a9a0e4a",
+    "extras": [
+        {
+            "key": "Data di creazione",
+            "value": "\"Novembre 2014\""
+        },
+        {
+            "key": "Data ultima modifica del dato",
+            "value": "\"Novembre 2014\""
+        },
+        {
+            "key": "Data ultima modifica del metadato",
+            "value": "\"Novembre 2014\""
+        },
+        {
+            "key": "Tipo di dato",
+            "value": "\"Alfanumerico\""
+        }
+    ],
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "title": "Trasporto Pubblico Locale",
+    "revision_id": "db95026c-7590-4934-870e-9eb63292ced3",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": true,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

@@ -1,0 +1,691 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:28:43.157488",
+    "id": "97beb9f0-a52b-47e8-a9b9-94a09d97689f",
+    "metadata_created": "2014-11-04T22:28:43.157488",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:49:54.897661",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "bb916a73-e6a6-40d2-965e-f8a35d4b40b1",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:54.897661",
+            "webstore_last_updated": null,
+            "id": "9dc3b5f5-e4a6-4781-95f4-827f2281144b",
+            "size": "20",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "785c309aa1acc433285c106b2f69ccdc3e2f614e",
+            "description": "Online link to the 'Districts 1991 38 ' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:53:00.216279",
+            "url": "http://maps.data.ug/layers/geonode:districts_1991_38_web_wgs84",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T15:48:00.304113",
+            "position": 0,
+            "revision_id": "24468c59-3ead-486f-9907-be5300c97dd4",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "bb916a73-e6a6-40d2-965e-f8a35d4b40b1",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:43.157488",
+            "webstore_last_updated": null,
+            "id": "22968f89-63c3-4a40-aec0-130683695a71",
+            "size": "23165",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Districts 1991 38  (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "districts_1991_38_web_wgs84.jpg",
+            "created": "2014-03-12T14:53:00.216303",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Adistricts_1991_38_web_wgs84&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "6bf22039-ecfe-476d-b586-734631574e83",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "bb916a73-e6a6-40d2-965e-f8a35d4b40b1",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:43.157488",
+            "webstore_last_updated": null,
+            "id": "db41b2bd-d985-45bd-9c96-79abd09d8dee",
+            "size": "29788",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Districts 1991 38  (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "districts_1991_38_web_wgs84.pdf",
+            "created": "2014-03-12T14:53:00.216308",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Adistricts_1991_38_web_wgs84&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "6bf22039-ecfe-476d-b586-734631574e83",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "bb916a73-e6a6-40d2-965e-f8a35d4b40b1",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:43.157488",
+            "webstore_last_updated": null,
+            "id": "e0c85d7d-dbc9-42ad-b495-19c0f5fe7ab0",
+            "size": "32624",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Districts 1991 38  (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "districts_1991_38_web_wgs84.png",
+            "created": "2014-03-12T14:53:00.216312",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Adistricts_1991_38_web_wgs84&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "6bf22039-ecfe-476d-b586-734631574e83",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "bb916a73-e6a6-40d2-965e-f8a35d4b40b1",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:43.157488",
+            "webstore_last_updated": null,
+            "id": "d9e0dfa1-d6c6-4d37-819c-0b6f4092250e",
+            "size": "94204",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Districts 1991 38  (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "districts_1991_38_web_wgs84.zip",
+            "created": "2014-03-12T14:53:00.216315",
+            "url": "http://maps.data.ug/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Adistricts_1991_38_web_wgs84&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 4,
+            "revision_id": "6bf22039-ecfe-476d-b586-734631574e83",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "bb916a73-e6a6-40d2-965e-f8a35d4b40b1",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:43.157488",
+            "webstore_last_updated": null,
+            "id": "c7b1773b-f5d9-493a-a782-27577a0d755a",
+            "size": "182527",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Districts 1991 38  (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "districts_1991_38_web_wgs84.gml",
+            "created": "2014-03-12T14:53:00.216319",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Adistricts_1991_38_web_wgs84&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 5,
+            "revision_id": "6bf22039-ecfe-476d-b586-734631574e83",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "bb916a73-e6a6-40d2-965e-f8a35d4b40b1",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:43.157488",
+            "webstore_last_updated": null,
+            "id": "8a4b0d7e-0cf2-4033-a3b2-4b74edd3acd4",
+            "size": "278355",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Districts 1991 38  (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "districts_1991_38_web_wgs84.gml",
+            "created": "2014-03-12T14:53:00.216322",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Adistricts_1991_38_web_wgs84&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 6,
+            "revision_id": "6bf22039-ecfe-476d-b586-734631574e83",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "bb916a73-e6a6-40d2-965e-f8a35d4b40b1",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:43.157488",
+            "webstore_last_updated": null,
+            "id": "5b3cb841-dc7e-4d31-8987-c3c890ef8137",
+            "size": "265975",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Districts 1991 38  (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "districts_1991_38_web_wgs84.csv",
+            "created": "2014-03-12T14:53:00.216326",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Adistricts_1991_38_web_wgs84&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 7,
+            "revision_id": "6bf22039-ecfe-476d-b586-734631574e83",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "bb916a73-e6a6-40d2-965e-f8a35d4b40b1",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:43.157488",
+            "webstore_last_updated": null,
+            "id": "db540378-5745-4003-90fd-8de0292be4c8",
+            "size": "274944",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Districts 1991 38  (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "districts_1991_38_web_wgs84.excel",
+            "created": "2014-03-12T14:53:00.216329",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Adistricts_1991_38_web_wgs84&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 8,
+            "revision_id": "6bf22039-ecfe-476d-b586-734631574e83",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "bb916a73-e6a6-40d2-965e-f8a35d4b40b1",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:43.157488",
+            "webstore_last_updated": null,
+            "id": "2a51ff27-4838-4f5d-a4bc-64a0b5a6a2e5",
+            "size": "277641",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Districts 1991 38  (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "districts_1991_38_web_wgs84.json",
+            "created": "2014-03-12T14:53:00.216333",
+            "url": "http://maps.data.ug/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Adistricts_1991_38_web_wgs84&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "6bf22039-ecfe-476d-b586-734631574e83",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "bb916a73-e6a6-40d2-965e-f8a35d4b40b1",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:43.157488",
+            "webstore_last_updated": null,
+            "id": "2f85893a-3f14-4d79-9842-9e6ceddac0ef",
+            "size": "353517",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Districts 1991 38  (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "districts_1991_38_web_wgs84.kml",
+            "created": "2014-03-12T14:53:00.216336",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Adistricts_1991_38_web_wgs84&mode=download",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 10,
+            "revision_id": "6bf22039-ecfe-476d-b586-734631574e83",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "bb916a73-e6a6-40d2-965e-f8a35d4b40b1",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:43.157488",
+            "webstore_last_updated": null,
+            "id": "510ad7b1-3d6d-41a3-84e9-bd5b3fa561ad",
+            "size": "1878",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Districts 1991 38  (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "districts_1991_38_web_wgs84.kml",
+            "created": "2014-03-12T14:53:00.216340",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Adistricts_1991_38_web_wgs84&mode=refresh",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 11,
+            "revision_id": "6bf22039-ecfe-476d-b586-734631574e83",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "bb916a73-e6a6-40d2-965e-f8a35d4b40b1",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:43.157488",
+            "webstore_last_updated": null,
+            "id": "99cad72c-2811-4963-a985-5998dd96bb0e",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Districts 1991 38  (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "districts_1991_38_web_wgs84.tiles",
+            "created": "2014-03-12T14:53:00.216343",
+            "url": "http://maps.data.ug/geoserver/gwc/service/gmaps?layers=geonode:districts_1991_38_web_wgs84&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 12,
+            "revision_id": "6bf22039-ecfe-476d-b586-734631574e83",
+            "resource_type": null
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:28:43.157488",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "administrative",
+            "name": "administrative",
+            "revision_timestamp": "2014-11-04T22:28:43.157488",
+            "state": "active",
+            "id": "55d71fe3-7ffa-4f97-aca8-2ef38ae4c096"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:28:43.157488",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:28:43.157488",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "districts",
+            "name": "districts",
+            "revision_timestamp": "2014-11-04T22:28:43.157488",
+            "state": "active",
+            "id": "d6ea4347-3595-4895-a75d-bf0fb7c8092c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:28:43.157488",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:28:43.157488",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:28:43.157488",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:28:43.157488",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 2,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 9,
+    "name": "districts-1991-38",
+    "isopen": false,
+    "url": null,
+    "notes": "Districts for the year 1991, 38 in total",
+    "title": "Districts 1991 38",
+    "extras": [
+        {
+            "value": "[]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "6bf22039-ecfe-476d-b586-734631574e83",
+                "package_id": "97beb9f0-a52b-47e8-a9b9-94a09d97689f"
+            }
+        },
+        {
+            "value": "35.0017411394",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "6bf22039-ecfe-476d-b586-734631574e83",
+                "package_id": "97beb9f0-a52b-47e8-a9b9-94a09d97689f"
+            }
+        },
+        {
+            "value": "4.2310114174",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "97beb9f0-a52b-47e8-a9b9-94a09d97689f",
+                "revision_id": "6bf22039-ecfe-476d-b586-734631574e83"
+            }
+        },
+        {
+            "value": "-1.4817440179",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "6bf22039-ecfe-476d-b586-734631574e83",
+                "package_id": "97beb9f0-a52b-47e8-a9b9-94a09d97689f"
+            }
+        },
+        {
+            "value": "29.5741674481",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "6bf22039-ecfe-476d-b586-734631574e83",
+                "package_id": "97beb9f0-a52b-47e8-a9b9-94a09d97689f"
+            }
+        },
+        {
+            "value": "",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "97beb9f0-a52b-47e8-a9b9-94a09d97689f",
+                "revision_id": "6bf22039-ecfe-476d-b586-734631574e83"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "97beb9f0-a52b-47e8-a9b9-94a09d97689f",
+                "revision_id": "6bf22039-ecfe-476d-b586-734631574e83"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-02-20T13:44:41Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "97beb9f0-a52b-47e8-a9b9-94a09d97689f",
+                "revision_id": "6bf22039-ecfe-476d-b586-734631574e83"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "97beb9f0-a52b-47e8-a9b9-94a09d97689f",
+                "revision_id": "6bf22039-ecfe-476d-b586-734631574e83"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Districts 1991 38 '",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "97beb9f0-a52b-47e8-a9b9-94a09d97689f",
+                "revision_id": "6bf22039-ecfe-476d-b586-734631574e83"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "97beb9f0-a52b-47e8-a9b9-94a09d97689f",
+                "revision_id": "6bf22039-ecfe-476d-b586-734631574e83"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "6bf22039-ecfe-476d-b586-734631574e83",
+                "package_id": "97beb9f0-a52b-47e8-a9b9-94a09d97689f"
+            }
+        },
+        {
+            "value": "70d15c84-9a67-11e3-b50b-9b423b932199",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "6bf22039-ecfe-476d-b586-734631574e83",
+                "package_id": "97beb9f0-a52b-47e8-a9b9-94a09d97689f"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "6bf22039-ecfe-476d-b586-734631574e83",
+                "package_id": "97beb9f0-a52b-47e8-a9b9-94a09d97689f"
+            }
+        },
+        {
+            "value": "2014-02-20T13:44:41Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "97beb9f0-a52b-47e8-a9b9-94a09d97689f",
+                "revision_id": "6bf22039-ecfe-476d-b586-734631574e83"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "6bf22039-ecfe-476d-b586-734631574e83",
+                "package_id": "97beb9f0-a52b-47e8-a9b9-94a09d97689f"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "97beb9f0-a52b-47e8-a9b9-94a09d97689f",
+                "revision_id": "6bf22039-ecfe-476d-b586-734631574e83"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "97beb9f0-a52b-47e8-a9b9-94a09d97689f",
+                "revision_id": "6bf22039-ecfe-476d-b586-734631574e83"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "97beb9f0-a52b-47e8-a9b9-94a09d97689f",
+                "revision_id": "6bf22039-ecfe-476d-b586-734631574e83"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.5741674481, -1.4817440179], [35.0017411394, -1.4817440179], [35.0017411394, 4.2310114174], [29.5741674481, 4.2310114174], [29.5741674481, -1.4817440179]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "6bf22039-ecfe-476d-b586-734631574e83",
+                "package_id": "97beb9f0-a52b-47e8-a9b9-94a09d97689f"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "97beb9f0-a52b-47e8-a9b9-94a09d97689f",
+                "revision_id": "6bf22039-ecfe-476d-b586-734631574e83"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "6bf22039-ecfe-476d-b586-734631574e83",
+                "package_id": "97beb9f0-a52b-47e8-a9b9-94a09d97689f"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "6bf22039-ecfe-476d-b586-734631574e83",
+                "package_id": "97beb9f0-a52b-47e8-a9b9-94a09d97689f"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "6bf22039-ecfe-476d-b586-734631574e83"
+}

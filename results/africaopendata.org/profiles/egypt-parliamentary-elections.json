@@ -1,0 +1,89 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-10-04T15:09:05.388432",
+    "id": "260b095f-8f78-4b1d-9b3d-459b0e8557a3",
+    "metadata_created": "2012-10-04T15:07:15.253982",
+    "owner_org": null,
+    "metadata_modified": "2013-03-14T08:30:55.526519",
+    "author": "Ushahidi",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "f844a8dd-373e-419b-acfe-d6e8503e0345",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-14T08:30:55.526519",
+            "webstore_last_updated": null,
+            "id": "58751cde-f814-46ed-ba62-ebb9f02d180e",
+            "size": "1733632",
+            "state": "active",
+            "hash": "989c6d2858ba95539fe12b2718373e2d32c4186e",
+            "description": "",
+            "format": "XLS",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/vnd.ms-excel",
+            "cache_url": null,
+            "name": "Ushahidi_Egypt.xls",
+            "created": "2012-10-04T15:08:39.853022",
+            "url": "http://africaopendata.org/storage/f/2012-10-04T15%3A07%3A36.029Z/ushahidi-egypt.xls",
+            "webstore_url": null,
+            "last_modified": "2013-03-14T08:30:54.829605",
+            "position": 0,
+            "revision_id": "3ee68d49-5824-4166-b78d-83d90c4050a9",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Elections",
+            "name": "Elections",
+            "revision_timestamp": "2012-10-04T15:07:15.253982",
+            "state": "active",
+            "id": "0e4ae81e-4cfb-4f61-bdb6-6dbdb013e8ae"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Ushahidi",
+            "name": "Ushahidi",
+            "revision_timestamp": "2012-10-04T15:07:15.253982",
+            "state": "active",
+            "id": "eebeadb1-e141-4363-a6e8-68d843a8b0ab"
+        }
+    ],
+    "tracking_summary": {
+        "total": 63,
+        "recent": 6
+    },
+    "groups": [
+        {
+            "title": "Egypt",
+            "description": "Datasets from Egypt",
+            "name": "egypt",
+            "id": "aaef0860-b732-4657-a245-de4f0c1de84d"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "egypt-parliamentary-elections",
+    "isopen": false,
+    "url": null,
+    "notes": "Parliamentary elections using Ushahidi data",
+    "title": "Egypt Parliamentary Elections",
+    "extras": [],
+    "organization": null,
+    "revision_id": "ed07aa75-4fd0-4324-ab34-579b970a68d1"
+}

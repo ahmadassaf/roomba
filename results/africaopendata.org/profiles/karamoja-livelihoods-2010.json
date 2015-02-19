@@ -1,0 +1,699 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:26:06.876017",
+    "id": "51c89a7f-fc43-4711-9aff-c95e239951cf",
+    "metadata_created": "2014-11-04T22:26:06.876017",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:48:39.919071",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "e71fae08-2e87-42f2-a0a3-034000bff5eb",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:01:35.679770",
+            "webstore_last_updated": null,
+            "id": "77cfe08d-302f-49f0-8c3b-8576070fa3e4",
+            "size": "42381",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "31d6f4636edeedf4f91af0a693adde8b8aad537c",
+            "description": "Online link to the 'Karamoja livelihoods, 2010' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:50:52.358195",
+            "url": "http://maps.data.ug/layers/geonode:livelihood2010",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:01:35.539671",
+            "position": 0,
+            "revision_id": "21124744-d066-4feb-bd15-04ec3dbdbb7d",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e71fae08-2e87-42f2-a0a3-034000bff5eb",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:48:39.919071",
+            "webstore_last_updated": null,
+            "id": "fafcb45f-a5cf-4c2d-bb29-40f07b3261f8",
+            "size": "770636",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Karamoja livelihoods, 2010 (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "livelihood2010.zip",
+            "created": "2014-03-12T14:50:52.358217",
+            "url": "http://maps.data.ug/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Alivelihood2010&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:01:37.874934",
+            "position": 1,
+            "revision_id": "601ec302-a00d-4c87-9a37-2df1fd3139d5",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e71fae08-2e87-42f2-a0a3-034000bff5eb",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:01:40.142030",
+            "webstore_last_updated": null,
+            "id": "4b40f740-55be-4a68-8948-82bc8ad2e5b5",
+            "size": "1723453",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Karamoja livelihoods, 2010 (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "livelihood2010.gml",
+            "created": "2014-03-12T14:50:52.358222",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Alivelihood2010&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:01:39.805812",
+            "position": 2,
+            "revision_id": "e21f380b-37a0-4e92-b95a-7c930d21e0a7",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e71fae08-2e87-42f2-a0a3-034000bff5eb",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:01:41.889725",
+            "webstore_last_updated": null,
+            "id": "e9ffae62-b1c6-417a-aa16-8a90e42e0ce4",
+            "size": "2656925",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Karamoja livelihoods, 2010 (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "livelihood2010.gml",
+            "created": "2014-03-12T14:50:52.358226",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Alivelihood2010&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:01:41.727757",
+            "position": 3,
+            "revision_id": "c1ba8a57-516a-4e79-9548-ab6e18346148",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e71fae08-2e87-42f2-a0a3-034000bff5eb",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:48:39.919071",
+            "webstore_last_updated": "2014-11-04T23:01:47.355265",
+            "id": "a7477acc-3da8-4a26-a0b7-72a5b03fe19c",
+            "size": "2584804",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Karamoja livelihoods, 2010 (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "livelihood2010.csv",
+            "created": "2014-03-12T14:50:52.358229",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Alivelihood2010&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": "active",
+            "last_modified": "2014-11-04T23:01:43.878241",
+            "position": 4,
+            "revision_id": "601ec302-a00d-4c87-9a37-2df1fd3139d5",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e71fae08-2e87-42f2-a0a3-034000bff5eb",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:01:34.126193",
+            "webstore_last_updated": null,
+            "id": "d24c3e08-13e0-4371-96ec-133895cafbbb",
+            "size": "2284032",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Karamoja livelihoods, 2010 (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "livelihood2010.excel",
+            "created": "2014-03-12T14:50:52.358233",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Alivelihood2010&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:01:33.916863",
+            "position": 5,
+            "revision_id": "420dc7f8-014a-4e29-9711-e2f3d4c3ec9d",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e71fae08-2e87-42f2-a0a3-034000bff5eb",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:01:36.324322",
+            "webstore_last_updated": null,
+            "id": "71ca6ba3-dc6a-4214-92dc-ed468d5154ba",
+            "size": "2696451",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Karamoja livelihoods, 2010 (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "livelihood2010.json",
+            "created": "2014-03-12T14:50:52.358236",
+            "url": "http://maps.data.ug/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Alivelihood2010&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:01:36.124220",
+            "position": 6,
+            "revision_id": "72dcdcc7-ad20-4e2b-9871-3786e2f0bc42",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e71fae08-2e87-42f2-a0a3-034000bff5eb",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:01:48.235966",
+            "webstore_last_updated": null,
+            "id": "a916e517-662d-4951-aaf4-53126993711b",
+            "size": "3208633",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Karamoja livelihoods, 2010 (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "livelihood2010.kml",
+            "created": "2014-03-12T14:50:52.358240",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Alivelihood2010&mode=download",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:01:48.063440",
+            "position": 7,
+            "revision_id": "1c94831f-7455-459c-b843-9f7b6fd339d4",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e71fae08-2e87-42f2-a0a3-034000bff5eb",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:01:38.790170",
+            "webstore_last_updated": null,
+            "id": "a106b38c-3926-4bc5-a375-1dd834120c78",
+            "size": "1839",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Karamoja livelihoods, 2010 (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "livelihood2010.kml",
+            "created": "2014-03-12T14:50:52.358243",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Alivelihood2010&mode=refresh",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:01:38.523022",
+            "position": 8,
+            "revision_id": "f8925238-89b1-42f7-86fe-7b326c91cde5",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e71fae08-2e87-42f2-a0a3-034000bff5eb",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:26:06.876017",
+            "webstore_last_updated": null,
+            "id": "ec71aa08-9d5f-41a9-9d7a-3207393515dd",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Karamoja livelihoods, 2010 (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "livelihood2010.tiles",
+            "created": "2014-03-12T14:50:52.358247",
+            "url": "http://maps.data.ug/geoserver/gwc/service/gmaps?layers=geonode:livelihood2010&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "41851d81-7b31-4b7a-b698-28850259068f",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "e71fae08-2e87-42f2-a0a3-034000bff5eb",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:01:40.825977",
+            "webstore_last_updated": null,
+            "id": "0b8fb4c9-1cba-49a3-a6fe-03bb6d319824",
+            "size": "18673",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Karamoja livelihoods, 2010 (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "livelihood2010.jpg",
+            "created": "2014-03-12T14:50:52.358250",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Alivelihood2010&width=284&bbox=33.5145154880619%2C1.36632338416354%2C35.0003080360633%2C4.23407663109776&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:01:40.674758",
+            "position": 10,
+            "revision_id": "bfc5eea0-e5de-485f-ae99-7d2d9b744999",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e71fae08-2e87-42f2-a0a3-034000bff5eb",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:26:06.876017",
+            "webstore_last_updated": null,
+            "id": "41207570-72e4-4fae-922f-dd1a13b6a46f",
+            "size": "67213",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Karamoja livelihoods, 2010 (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "livelihood2010.pdf",
+            "created": "2014-03-12T14:50:52.358254",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Alivelihood2010&width=284&bbox=33.5145154880619%2C1.36632338416354%2C35.0003080360633%2C4.23407663109776&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:51:17.031009",
+            "position": 11,
+            "revision_id": "41851d81-7b31-4b7a-b698-28850259068f",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "e71fae08-2e87-42f2-a0a3-034000bff5eb",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:01:46.709813",
+            "webstore_last_updated": null,
+            "id": "5ac474d4-ebdb-457b-8471-5b78b455811e",
+            "size": "34048",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Karamoja livelihoods, 2010 (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "livelihood2010.png",
+            "created": "2014-03-12T14:50:52.358257",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Alivelihood2010&width=284&bbox=33.5145154880619%2C1.36632338416354%2C35.0003080360633%2C4.23407663109776&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:01:46.571767",
+            "position": 12,
+            "revision_id": "37650d4e-384a-4cc3-9457-c1d6f6f57649",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Development Indicators",
+            "name": "Development Indicators",
+            "revision_timestamp": "2014-11-04T22:26:06.876017",
+            "state": "active",
+            "id": "848ffddf-125d-447a-a1ea-a182897f9cfb"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Employment",
+            "name": "Employment",
+            "revision_timestamp": "2014-11-04T22:26:06.876017",
+            "state": "active",
+            "id": "f51183c6-c0a2-40ea-b2dd-80aad15cdd00"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Society",
+            "name": "Society",
+            "revision_timestamp": "2014-11-04T22:26:06.876017",
+            "state": "active",
+            "id": "1107c604-0583-482c-ba9f-b645308ebff9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:26:06.876017",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:26:06.876017",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:26:06.876017",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:26:06.876017",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:26:06.876017",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:26:06.876017",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:26:06.876017",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 13,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 10,
+    "name": "karamoja-livelihoods-2010",
+    "isopen": false,
+    "url": null,
+    "notes": "The layer shows Karamoja livelihood activities in 2010. \nThis dataset is from the Information Management Unit 2010, UNOCHA, Uganda Country Office.",
+    "title": "Karamoja livelihoods, 2010",
+    "extras": [
+        {
+            "value": "[\"Not provided\"]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "41851d81-7b31-4b7a-b698-28850259068f",
+                "package_id": "51c89a7f-fc43-4711-9aff-c95e239951cf"
+            }
+        },
+        {
+            "value": "35.0003080361",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "41851d81-7b31-4b7a-b698-28850259068f",
+                "package_id": "51c89a7f-fc43-4711-9aff-c95e239951cf"
+            }
+        },
+        {
+            "value": "4.2340766311",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "51c89a7f-fc43-4711-9aff-c95e239951cf",
+                "revision_id": "41851d81-7b31-4b7a-b698-28850259068f"
+            }
+        },
+        {
+            "value": "1.3663233842",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "41851d81-7b31-4b7a-b698-28850259068f",
+                "package_id": "51c89a7f-fc43-4711-9aff-c95e239951cf"
+            }
+        },
+        {
+            "value": "33.5145154881",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "41851d81-7b31-4b7a-b698-28850259068f",
+                "package_id": "51c89a7f-fc43-4711-9aff-c95e239951cf"
+            }
+        },
+        {
+            "value": "katy@mountbatten.net",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "51c89a7f-fc43-4711-9aff-c95e239951cf",
+                "revision_id": "41851d81-7b31-4b7a-b698-28850259068f"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "51c89a7f-fc43-4711-9aff-c95e239951cf",
+                "revision_id": "41851d81-7b31-4b7a-b698-28850259068f"
+            }
+        },
+        {
+            "value": "[{\"type\": \"creation\", \"value\": \"2014-02-19T10:58:09Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "51c89a7f-fc43-4711-9aff-c95e239951cf",
+                "revision_id": "41851d81-7b31-4b7a-b698-28850259068f"
+            }
+        },
+        {
+            "value": "unknown",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "51c89a7f-fc43-4711-9aff-c95e239951cf",
+                "revision_id": "41851d81-7b31-4b7a-b698-28850259068f"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Karamoja livelihoods, 2010'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "51c89a7f-fc43-4711-9aff-c95e239951cf",
+                "revision_id": "41851d81-7b31-4b7a-b698-28850259068f"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "51c89a7f-fc43-4711-9aff-c95e239951cf",
+                "revision_id": "41851d81-7b31-4b7a-b698-28850259068f"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "41851d81-7b31-4b7a-b698-28850259068f",
+                "package_id": "51c89a7f-fc43-4711-9aff-c95e239951cf"
+            }
+        },
+        {
+            "value": "02c7206a-9987-11e3-85a7-3de289a2861b",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "41851d81-7b31-4b7a-b698-28850259068f",
+                "package_id": "51c89a7f-fc43-4711-9aff-c95e239951cf"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "41851d81-7b31-4b7a-b698-28850259068f",
+                "package_id": "51c89a7f-fc43-4711-9aff-c95e239951cf"
+            }
+        },
+        {
+            "value": "2014-02-19T10:58:09Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "51c89a7f-fc43-4711-9aff-c95e239951cf",
+                "revision_id": "41851d81-7b31-4b7a-b698-28850259068f"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "41851d81-7b31-4b7a-b698-28850259068f",
+                "package_id": "51c89a7f-fc43-4711-9aff-c95e239951cf"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "51c89a7f-fc43-4711-9aff-c95e239951cf",
+                "revision_id": "41851d81-7b31-4b7a-b698-28850259068f"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "51c89a7f-fc43-4711-9aff-c95e239951cf",
+                "revision_id": "41851d81-7b31-4b7a-b698-28850259068f"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "51c89a7f-fc43-4711-9aff-c95e239951cf",
+                "revision_id": "41851d81-7b31-4b7a-b698-28850259068f"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[33.5145154881, 1.3663233842], [35.0003080361, 1.3663233842], [35.0003080361, 4.2340766311], [33.5145154881, 4.2340766311], [33.5145154881, 1.3663233842]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "41851d81-7b31-4b7a-b698-28850259068f",
+                "package_id": "51c89a7f-fc43-4711-9aff-c95e239951cf"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "51c89a7f-fc43-4711-9aff-c95e239951cf",
+                "revision_id": "41851d81-7b31-4b7a-b698-28850259068f"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "41851d81-7b31-4b7a-b698-28850259068f",
+                "package_id": "51c89a7f-fc43-4711-9aff-c95e239951cf"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "41851d81-7b31-4b7a-b698-28850259068f",
+                "package_id": "51c89a7f-fc43-4711-9aff-c95e239951cf"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "41851d81-7b31-4b7a-b698-28850259068f"
+}

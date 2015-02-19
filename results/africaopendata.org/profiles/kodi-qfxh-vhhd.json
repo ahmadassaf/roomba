@@ -1,0 +1,130 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Chris Metcalf",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:55:24.719596",
+    "id": "1abd3ad9-f963-437d-ab94-212c0bdb9291",
+    "metadata_created": "2012-09-11T13:55:24.719596",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:03:34.237686",
+    "author": "Chris Metcalf",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "6e4e8311-8846-490a-8fd6-e95b048daade",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:03:34.237686",
+            "webstore_last_updated": "2013-10-10T12:03:34.166644",
+            "id": "8ff4b307-fad4-4470-a7f3-82d0eb3466b7",
+            "size": "299",
+            "state": "active",
+            "hash": "b66fe2449081f59e702e69c7f8cc11a27201a0e6",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Kajiado Pop Pyramid Age Groups - 2009.csv",
+            "created": "2012-09-11T13:55:24.764229",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155809/qfxh-vhhd.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:28:41.145334",
+            "position": 0,
+            "revision_id": "b8ff04c1-eb07-422e-a742-ab3889498ac9",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "county",
+            "name": "county",
+            "revision_timestamp": "2012-09-11T13:55:24.719596",
+            "state": "active",
+            "id": "858f3acf-2c66-4fd9-9dc2-32e4f12121a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:55:24.719596",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:55:24.719596",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population",
+            "name": "population",
+            "revision_timestamp": "2012-09-11T13:55:24.719596",
+            "state": "active",
+            "id": "c5e39de5-556e-4bcb-883b-5b9ec2481ae9"
+        }
+    ],
+    "tracking_summary": {
+        "total": 42,
+        "recent": 3
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "kodi-qfxh-vhhd",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": null,
+    "title": "Kajiado Pop Pyramid Age Groups - 2009",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "a178674f-d2ed-4639-8a5f-0d8853bfe9d2",
+                "package_id": "1abd3ad9-f963-437d-ab94-212c0bdb9291"
+            }
+        },
+        {
+            "value": "Population",
+            "key": "category",
+            "__extras": {
+                "revision_id": "a178674f-d2ed-4639-8a5f-0d8853bfe9d2",
+                "package_id": "1abd3ad9-f963-437d-ab94-212c0bdb9291"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "a178674f-d2ed-4639-8a5f-0d8853bfe9d2",
+                "package_id": "1abd3ad9-f963-437d-ab94-212c0bdb9291"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "a178674f-d2ed-4639-8a5f-0d8853bfe9d2"
+}

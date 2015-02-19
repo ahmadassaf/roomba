@@ -1,0 +1,97 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-03-18T15:32:09.328093",
+    "id": "75e1075e-6db4-4c65-917d-ee67c7936c17",
+    "metadata_created": "2013-03-18T15:31:36.189479",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:52:19.548038",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "d978f845-bb7f-4784-99ae-05040767de3d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:52:19.548038",
+            "webstore_last_updated": "2013-10-10T10:52:19.483113",
+            "id": "346e7006-bd08-4575-8d7c-724e51361d48",
+            "size": "6231",
+            "state": "active",
+            "hash": "813ad3099c710dff53caa6206f4c951aa2257302",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 10,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Census-Zimbabwe-2012.csv",
+            "created": "2013-03-18T15:31:55.980958",
+            "url": "http://africaopendata.org/storage/f/2013-03-18T15%3A31%3A41.192Z/census-zimbabwe-2012.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-18T15:31:59.788757",
+            "position": 0,
+            "revision_id": "a1fe5eb8-f205-4bb2-9007-e710987d8718",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Census",
+            "name": "Census",
+            "revision_timestamp": "2013-03-18T15:31:36.189479",
+            "state": "active",
+            "id": "04f3f9f2-05a9-41dc-a645-0d482800bf16"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Population",
+            "name": "Population",
+            "revision_timestamp": "2013-03-18T15:31:36.189479",
+            "state": "active",
+            "id": "677a6872-9247-4378-909f-65b72b65b3c5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Zimbabwe",
+            "name": "Zimbabwe",
+            "revision_timestamp": "2013-03-18T15:31:36.189479",
+            "state": "active",
+            "id": "1a20dbb2-0de6-4d8a-941c-9acee6884a94"
+        }
+    ],
+    "tracking_summary": {
+        "total": 130,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Zimbabwe",
+            "description": "Data on the Republic of Zimbabwe",
+            "name": "zimbabwe",
+            "id": "10c4a19f-0573-4551-bcb2-0f70f68b1e14"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "zimbabwe-census-2012",
+    "isopen": false,
+    "url": null,
+    "notes": "This is data from the preliminary results of the Zimbabwe Census 2012 \r\n",
+    "title": "Zimbabwe Census 2012",
+    "extras": [],
+    "organization": null,
+    "revision_id": "68e6ec96-2115-4187-88b8-cbb2ba4662ce"
+}

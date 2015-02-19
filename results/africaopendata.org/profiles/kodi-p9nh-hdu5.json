@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:54:11.192375",
+    "id": "1bb4f46b-35dd-4f24-96cc-f8666200084d",
+    "metadata_created": "2012-09-11T13:54:11.192375",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:03:54.502049",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "988cbf0c-9281-41c1-b17b-de9bedd636ed",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:03:54.502049",
+            "webstore_last_updated": "2013-10-10T12:03:54.318715",
+            "id": "03dbfede-30c4-411f-a5ae-d19247bfbadf",
+            "size": "3655",
+            "state": "active",
+            "hash": "4583bfd60fd04729721f1decaa131f43460f7097",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Percentage distribution of Children (Under five) by Place of delivery County Estimates 2005/6.csv",
+            "created": "2012-09-11T13:54:11.232738",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155656/p9nh-hdu5.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:28:58.074211",
+            "position": 0,
+            "revision_id": "66802cfb-8614-4e96-a106-d6f617c49b9a",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "county health",
+            "name": "county health",
+            "revision_timestamp": "2012-09-11T13:54:11.192375",
+            "state": "active",
+            "id": "15b14e9f-d157-4cbb-8aac-9240e5922144"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:54:11.192375",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:54:11.192375",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 59,
+        "recent": 4
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-p9nh-hdu5",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "2005/6 KIHBS Table 5.7: Percentage distribution of Children (Under five) by Place of delivery County Estimates",
+    "title": "Percentage distribution of Children (Under five) by Place of delivery County Estimates 2005/6",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "f1a33a52-45f8-4b2e-9ff9-03ef09a840d8",
+                "package_id": "1bb4f46b-35dd-4f24-96cc-f8666200084d"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "f1a33a52-45f8-4b2e-9ff9-03ef09a840d8",
+                "package_id": "1bb4f46b-35dd-4f24-96cc-f8666200084d"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "f1a33a52-45f8-4b2e-9ff9-03ef09a840d8",
+                "package_id": "1bb4f46b-35dd-4f24-96cc-f8666200084d"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "f1a33a52-45f8-4b2e-9ff9-03ef09a840d8"
+}

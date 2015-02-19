@@ -1,0 +1,127 @@
+{
+    "license_title": "CC0 1.0",
+    "maintainer": "Ufficio Tutela Ambiente",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "rip.igieneeambiente@comune.bari.it",
+    "revision_timestamp": "2014-12-17T11:45:29.051569",
+    "id": "dc9bc622-9aa3-4e97-825f-87f39d0387da",
+    "metadata_created": "2014-11-12T16:58:34.298427",
+    "metadata_modified": "2014-12-17T11:45:29.052172",
+    "author": "Ripartizione Tutela Ambiente, Sanità e Igiene",
+    "author_email": "rip.igieneeambiente@comune.bari.it",
+    "state": "active",
+    "version": "",
+    "creator_user_id": "1a9bb171-088a-40d4-8c09-3eb097bb7860",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "7e2e2905-72a8-42ba-9e47-ab1b5df1b37e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-12T16:58:34.736353",
+            "webstore_last_updated": null,
+            "datastore_active": false,
+            "id": "b71465ea-bd1b-4cde-abfc-3d3f60eb12f3",
+            "size": "10863",
+            "state": "active",
+            "hash": "md5:6e7098e40be7ac846c61daa67c0ef3df",
+            "description": "",
+            "format": "ZIP",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "last_modified": "2013-02-22T15:09:28.318100",
+            "url_type": "upload",
+            "mimetype": "application/zip",
+            "cache_url": "",
+            "name": "2013-02-22T140919/Farmacie_AMIU.zip",
+            "created": "2013-02-22T15:09:27.134688",
+            "url": "http://opendata.comune.bari.it/dataset/dc9bc622-9aa3-4e97-825f-87f39d0387da/resource/b71465ea-bd1b-4cde-abfc-3d3f60eb12f3/download/20130222t140919farmacieamiu.zip",
+            "webstore_url": "/storage/f/2013-02-22T140919/Farmacie_AMIU.zip",
+            "mimetype_inner": "",
+            "position": 0,
+            "revision_id": "7fef1297-6e2c-449f-bffc-e9dac18e9606",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "farmacie",
+            "name": "farmacie",
+            "revision_timestamp": "2014-11-12T16:58:34.298427",
+            "state": "active",
+            "id": "5134e95b-7a17-46d1-8573-af45989412a5"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "display_name": "Dati Geografici",
+            "description": "Dati Geografici del Comune di Bari",
+            "image_display_url": "",
+            "title": "Dati Geografici",
+            "id": "33ce3844-87cd-418d-a237-31b4939342a7",
+            "name": "dati-geografici"
+        }
+    ],
+    "license_id": "CC0-1.0",
+    "relationships_as_subject": [],
+    "num_tags": 1,
+    "organization": {
+        "description": "",
+        "created": "2014-11-26T17:08:49.091500",
+        "title": "Comune di Bari",
+        "name": "comune-di-bari",
+        "revision_timestamp": "2014-11-26T16:08:49.054306",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "",
+        "revision_id": "dd9136cf-62f3-4182-b0a6-3287c82accaa",
+        "type": "organization",
+        "id": "a5fb4b95-9a9e-49de-a9cd-e93ac2bf587f",
+        "approval_status": "approved"
+    },
+    "name": "farmacie",
+    "isopen": true,
+    "url": "",
+    "notes": "Mappa delle farmacie del Comune di Bari",
+    "owner_org": "a5fb4b95-9a9e-49de-a9cd-e93ac2bf587f",
+    "extras": [
+        {
+            "key": "Data di creazione",
+            "value": "\"Febbraio 2013\""
+        },
+        {
+            "key": "Data ultima modifica del dato",
+            "value": "\"Febbraio 2013\""
+        },
+        {
+            "key": "Data ultima modifica del metadato",
+            "value": "\"2006\""
+        },
+        {
+            "key": "Tipo di dato",
+            "value": "\"shape file\""
+        }
+    ],
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "title": "Farmacie",
+    "revision_id": "35afa195-c50c-4682-ba55-4817bbf7e23b",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": true,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

@@ -1,0 +1,211 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2013-05-15T13:55:35.689394",
+    "id": "b496b6e0-d355-4e88-85dc-d3151277f735",
+    "metadata_created": "2013-05-15T13:55:35.689394",
+    "owner_org": null,
+    "metadata_modified": "2013-05-15T13:55:35.689394",
+    "author": "Ruimtelijke Ordening (DRO)",
+    "author_email": "info@dro.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "27731caf-6097-4c7f-9ac7-1588873ffee0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-05-15T13:55:35.689394",
+            "webstore_last_updated": null,
+            "id": "a6cddc85-b0f8-4a11-bca9-69e55ad16747",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Instructie voor download",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://maps.amsterdam.nl/open_geodata/",
+            "created": "2013-05-15T15:55:35.748983",
+            "url": "http://maps.amsterdam.nl/open_geodata/",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "78588b88-dd49-4f8c-9f74-4f728bab26d7",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "auto",
+            "name": "auto",
+            "revision_timestamp": "2013-05-15T13:55:35.689394",
+            "state": "active",
+            "id": "a617a63e-a649-4d3e-924c-3f67a5783d2e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "bus",
+            "name": "bus",
+            "revision_timestamp": "2013-05-15T13:55:35.689394",
+            "state": "active",
+            "id": "efdb12fc-c798-4041-8717-20bd67ba825d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "fiets\n",
+            "name": "fiets\n",
+            "revision_timestamp": "2013-05-15T13:55:35.689394",
+            "state": "active",
+            "id": "b32a68af-5836-4752-89b2-ad6b0a1327c5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "openbaar",
+            "name": "openbaar",
+            "revision_timestamp": "2013-05-15T13:55:35.689394",
+            "state": "active",
+            "id": "cac5a887-e5c6-4b29-a579-f57db802cfb1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "ov",
+            "name": "ov",
+            "revision_timestamp": "2013-05-15T13:55:35.689394",
+            "state": "active",
+            "id": "eeed27ec-bcdc-48e0-8a8e-33069fdc6f80"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "rijlijnen",
+            "name": "rijlijnen",
+            "revision_timestamp": "2013-05-15T13:55:35.689394",
+            "state": "active",
+            "id": "ebb502ce-20d2-41ba-ba55-d3b6243638cc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "tram",
+            "name": "tram",
+            "revision_timestamp": "2013-05-15T13:55:35.689394",
+            "state": "active",
+            "id": "e97e655e-6c67-4b0f-882a-ad44373acf52"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "transport",
+            "name": "transport",
+            "revision_timestamp": "2013-05-15T13:55:35.689394",
+            "state": "active",
+            "id": "24747e56-e219-4c0c-8171-2f21a7f30eb5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "vervoer",
+            "name": "vervoer",
+            "revision_timestamp": "2013-05-15T13:55:35.689394",
+            "state": "active",
+            "id": "8ec4f7ba-b671-4bdd-8a46-8b442e0f3ba6"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Verkeer & Infrastructuur",
+            "description": "",
+            "name": "verkeer-infrastructuur",
+            "id": "12502584-9d7d-4bdc-bf5f-df2b0d85f4f6"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 9,
+    "name": "rijlijnen-tram-bus-auto-fiets",
+    "isopen": true,
+    "url": null,
+    "notes": "Netwerk van rijlijnen voor tram, bus auto en fiets. Gedigitaliseerd op de wegassen van de topografische ondergrond 10:000. Voorzien van A-node en B-node, zodat er verkeersgegevens van de Dienst Infrastructuur, Verkeer en Vervoer (DIVV) aan gekoppeld kunnen worden. \n\nOpmerking: het bestand is nog in ontwikkeling.",
+    "title": "Rijlijnen tram bus auto fiets",
+    "extras": [
+        {
+            "value": "info@dro.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "b496b6e0-d355-4e88-85dc-d3151277f735",
+                "revision_id": "78588b88-dd49-4f8c-9f74-4f728bab26d7"
+            }
+        },
+        {
+            "value": "Ruimtelijke Ordening (DRO)",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "78588b88-dd49-4f8c-9f74-4f728bab26d7",
+                "package_id": "b496b6e0-d355-4e88-85dc-d3151277f735"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "78588b88-dd49-4f8c-9f74-4f728bab26d7",
+                "package_id": "b496b6e0-d355-4e88-85dc-d3151277f735"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "78588b88-dd49-4f8c-9f74-4f728bab26d7",
+                "package_id": "b496b6e0-d355-4e88-85dc-d3151277f735"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "b496b6e0-d355-4e88-85dc-d3151277f735",
+                "revision_id": "78588b88-dd49-4f8c-9f74-4f728bab26d7"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "b496b6e0-d355-4e88-85dc-d3151277f735",
+                "revision_id": "78588b88-dd49-4f8c-9f74-4f728bab26d7"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "78588b88-dd49-4f8c-9f74-4f728bab26d7",
+                "package_id": "b496b6e0-d355-4e88-85dc-d3151277f735"
+            }
+        },
+        {
+            "value": "http://maps.amsterdam.nl",
+            "key": "website",
+            "__extras": {
+                "package_id": "b496b6e0-d355-4e88-85dc-d3151277f735",
+                "revision_id": "78588b88-dd49-4f8c-9f74-4f728bab26d7"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "78588b88-dd49-4f8c-9f74-4f728bab26d7"
+}

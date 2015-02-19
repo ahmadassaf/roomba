@@ -1,0 +1,195 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2014-03-25T10:58:57.472467",
+    "id": "7b80e088-fb39-441e-8079-d9eb088b9524",
+    "metadata_created": "2014-03-24T08:29:30.848887",
+    "owner_org": null,
+    "metadata_modified": "2015-01-23T10:58:57.847043",
+    "author": "MOOR   stadsdelen",
+    "author_email": "info@amsterdamopendata.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "04866213-6ffa-469a-9502-47db62505c9f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2015-01-23T10:58:57.847043",
+            "webstore_last_updated": null,
+            "id": "988b5372-919a-4a03-b022-1c9398041654",
+            "size": "2453583",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "MOOR-data (GeoJSON)",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "http://www.amsterdamopendata.nl/files/MoorRoadworks.geojson",
+            "created": "2014-03-24T09:39:42.972390",
+            "url": "http://www.amsterdamopendata.nl/files/MoorRoadworks.geojson",
+            "webstore_url": null,
+            "last_modified": "2015-01-23T04:07:48",
+            "position": 0,
+            "revision_id": "ad2b236b-6a39-45f4-a788-0548fb4f8cf5",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "MOOR",
+            "name": "MOOR",
+            "revision_timestamp": "2014-03-24T08:29:30.848887",
+            "state": "active",
+            "id": "115f9715-98ec-4446-a867-cc75cc58e98e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kleine",
+            "name": "kleine",
+            "revision_timestamp": "2014-03-24T08:29:30.848887",
+            "state": "active",
+            "id": "35cd8a68-f283-45c6-b7f2-1decc0171b08"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "meldpunt",
+            "name": "meldpunt",
+            "revision_timestamp": "2014-03-24T08:29:30.848887",
+            "state": "active",
+            "id": "c4a29a68-2af8-431c-9428-3d21d2e9f330"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "opbrekingen",
+            "name": "opbrekingen",
+            "revision_timestamp": "2014-03-24T08:29:30.848887",
+            "state": "active",
+            "id": "05018913-bcd9-4565-b1a4-390967d1caa9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "openbare",
+            "name": "openbare",
+            "revision_timestamp": "2014-03-24T08:29:30.848887",
+            "state": "active",
+            "id": "efb7a313-4bde-41c5-b3dc-3595d6cb815d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "ruimte",
+            "name": "ruimte",
+            "revision_timestamp": "2014-03-24T08:29:30.848887",
+            "state": "active",
+            "id": "4abffe47-fdd9-4df0-8479-76f83415d587"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "werkzaamheden",
+            "name": "werkzaamheden",
+            "revision_timestamp": "2014-03-24T08:29:30.848887",
+            "state": "active",
+            "id": "e039359c-1eb5-445f-b151-1538b7f15e92"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Openbare ruimte & groen",
+            "description": "",
+            "name": "openbare-ruimte-groen",
+            "id": "5ef8ea8a-6f09-4d17-9e16-bb57bba25272"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 7,
+    "name": "kleine_werkzaamheden_openbare_ruimte",
+    "isopen": true,
+    "url": null,
+    "notes": "In MOOR, het Meldpunt Opbrekingen Openbare Ruimte, worden kleine werkzaamheden (kleiner dan 10 m² in beslag nemen, korter dan 10 meter of korter duren dan 3 dagen) van telecombedrijven en van werkzaamheden die onder de Jaarvergunning WIOR vallen opgeslagen.De data uit MOOR is beschikbaar als GeoJSON-bestand, waarin o.a. locatie en geplande start- en einddatum in zijn opgenomen.Hierin zijn de werkzaamheden opgenomen waarvan zowel de start- als einddatum ligt tussen de eerste van de huidige maand en en de huidige datum   90 dagen. Deze data wordt dagelijks vernieuwd.",
+    "title": "Kleine werkzaamheden openbare ruimte",
+    "extras": [
+        {
+            "value": "info@amsterdamopendata.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "7b80e088-fb39-441e-8079-d9eb088b9524",
+                "revision_id": "939fd335-5ffa-4679-8af6-0cf299b8ba5c"
+            }
+        },
+        {
+            "value": "MOOR   stadsdelen",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "6661fd90-65c1-4783-9a5e-e13257f2f530",
+                "package_id": "7b80e088-fb39-441e-8079-d9eb088b9524"
+            }
+        },
+        {
+            "value": "23/01/2015",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "ad2b236b-6a39-45f4-a788-0548fb4f8cf5",
+                "package_id": "7b80e088-fb39-441e-8079-d9eb088b9524"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "939fd335-5ffa-4679-8af6-0cf299b8ba5c",
+                "package_id": "7b80e088-fb39-441e-8079-d9eb088b9524"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "7b80e088-fb39-441e-8079-d9eb088b9524",
+                "revision_id": "939fd335-5ffa-4679-8af6-0cf299b8ba5c"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "7b80e088-fb39-441e-8079-d9eb088b9524",
+                "revision_id": "939fd335-5ffa-4679-8af6-0cf299b8ba5c"
+            }
+        },
+        {
+            "value": "Dagelijks",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "939fd335-5ffa-4679-8af6-0cf299b8ba5c",
+                "package_id": "7b80e088-fb39-441e-8079-d9eb088b9524"
+            }
+        },
+        {
+            "value": "http://www.opbrekingen.nl/",
+            "key": "website",
+            "__extras": {
+                "package_id": "7b80e088-fb39-441e-8079-d9eb088b9524",
+                "revision_id": "939fd335-5ffa-4679-8af6-0cf299b8ba5c"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "6661fd90-65c1-4783-9a5e-e13257f2f530"
+}

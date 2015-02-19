@@ -1,0 +1,715 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:23:38.508603",
+    "id": "04e85e86-e3a3-4d2e-b312-743126356a7f",
+    "metadata_created": "2014-11-04T22:23:38.508603",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:47:24.726223",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "27508b05-64df-4eb8-bbc3-0560df8d2dc0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:47:24.726223",
+            "webstore_last_updated": null,
+            "id": "d7b2252c-0c36-4c32-91c3-c60b605adf73",
+            "size": "20",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "5b16f0083c77c5ac4a98b13d88fc0f9c0154045c",
+            "description": "Online link to the 'Transmission Lines UETCL 2014' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:53:24.199697",
+            "url": "http://maps.data.ug/layers/geonode:transmission_lines_uetcl_2014",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T16:54:52.633983",
+            "position": 0,
+            "revision_id": "5ff8838b-568e-4d87-8383-d21bd9ec780f",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "27508b05-64df-4eb8-bbc3-0560df8d2dc0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:47:24.726223",
+            "webstore_last_updated": null,
+            "id": "e65fea04-09e6-4a96-9700-fe5254fef12a",
+            "size": "455",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Transmission Lines UETCL 2014 (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "transmission_lines_uetcl_2014.jpg",
+            "created": "2014-03-12T14:53:24.199721",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms?layers=geonode%3Atransmission_lines_uetcl_2014&width=565&bbox=29.725404491885%2C-1.24690438644435%2C34.6839500874179%2C3.57187768748082&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:48:56.289053",
+            "position": 1,
+            "revision_id": "5ff8838b-568e-4d87-8383-d21bd9ec780f",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "27508b05-64df-4eb8-bbc3-0560df8d2dc0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:47:24.726223",
+            "webstore_last_updated": null,
+            "id": "30d8a28c-9f9e-48cb-b2b7-5a520dd9796a",
+            "size": "455",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Transmission Lines UETCL 2014 (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "transmission_lines_uetcl_2014.pdf",
+            "created": "2014-03-12T14:53:24.199726",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms?layers=geonode%3Atransmission_lines_uetcl_2014&width=565&bbox=29.725404491885%2C-1.24690438644435%2C34.6839500874179%2C3.57187768748082&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:49:14.616789",
+            "position": 2,
+            "revision_id": "5ff8838b-568e-4d87-8383-d21bd9ec780f",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "27508b05-64df-4eb8-bbc3-0560df8d2dc0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:47:24.726223",
+            "webstore_last_updated": null,
+            "id": "6080502c-fc4d-434b-af33-4cc7dd8bd83f",
+            "size": "455",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Transmission Lines UETCL 2014 (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "transmission_lines_uetcl_2014.png",
+            "created": "2014-03-12T14:53:24.199731",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms?layers=geonode%3Atransmission_lines_uetcl_2014&width=565&bbox=29.725404491885%2C-1.24690438644435%2C34.6839500874179%2C3.57187768748082&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:48:57.968475",
+            "position": 3,
+            "revision_id": "5ff8838b-568e-4d87-8383-d21bd9ec780f",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "27508b05-64df-4eb8-bbc3-0560df8d2dc0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:47:24.726223",
+            "webstore_last_updated": null,
+            "id": "8cbd0837-1aab-4394-999a-fb2010a52451",
+            "size": "447",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Transmission Lines UETCL 2014 (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "transmission_lines_uetcl_2014.zip",
+            "created": "2014-03-12T14:53:24.199736",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Atransmission_lines_uetcl_2014&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:49:01.442570",
+            "position": 4,
+            "revision_id": "5ff8838b-568e-4d87-8383-d21bd9ec780f",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "27508b05-64df-4eb8-bbc3-0560df8d2dc0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:47:24.726223",
+            "webstore_last_updated": null,
+            "id": "ad1fd152-80c1-49f4-88cf-d1332a1cf565",
+            "size": "447",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Transmission Lines UETCL 2014 (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "transmission_lines_uetcl_2014.gml",
+            "created": "2014-03-12T14:53:24.199740",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Atransmission_lines_uetcl_2014&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:49:16.309723",
+            "position": 5,
+            "revision_id": "5ff8838b-568e-4d87-8383-d21bd9ec780f",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "27508b05-64df-4eb8-bbc3-0560df8d2dc0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:47:24.726223",
+            "webstore_last_updated": null,
+            "id": "72f38d15-32b9-4008-b098-698b2bceb459",
+            "size": "447",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Transmission Lines UETCL 2014 (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "transmission_lines_uetcl_2014.gml",
+            "created": "2014-03-12T14:53:24.199745",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Atransmission_lines_uetcl_2014&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:49:07.189147",
+            "position": 6,
+            "revision_id": "5ff8838b-568e-4d87-8383-d21bd9ec780f",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "27508b05-64df-4eb8-bbc3-0560df8d2dc0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:47:24.726223",
+            "webstore_last_updated": null,
+            "id": "835feadd-a823-40a1-9178-d5bea4b10a03",
+            "size": "447",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Transmission Lines UETCL 2014 (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "transmission_lines_uetcl_2014.csv",
+            "created": "2014-03-12T14:53:24.199750",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Atransmission_lines_uetcl_2014&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:49:12.411772",
+            "position": 7,
+            "revision_id": "5ff8838b-568e-4d87-8383-d21bd9ec780f",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "27508b05-64df-4eb8-bbc3-0560df8d2dc0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:47:24.726223",
+            "webstore_last_updated": null,
+            "id": "00410610-5a50-40b8-8a54-9f2541a0c80b",
+            "size": "447",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Transmission Lines UETCL 2014 (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "transmission_lines_uetcl_2014.excel",
+            "created": "2014-03-12T14:53:24.199754",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Atransmission_lines_uetcl_2014&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:48:59.783239",
+            "position": 8,
+            "revision_id": "5ff8838b-568e-4d87-8383-d21bd9ec780f",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "27508b05-64df-4eb8-bbc3-0560df8d2dc0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:47:24.726223",
+            "webstore_last_updated": null,
+            "id": "c7e6b9bf-1726-4862-9b95-de5fcf4b8fde",
+            "size": "447",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Transmission Lines UETCL 2014 (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "transmission_lines_uetcl_2014.json",
+            "created": "2014-03-12T14:53:24.199759",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Atransmission_lines_uetcl_2014&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:49:03.494099",
+            "position": 9,
+            "revision_id": "5ff8838b-568e-4d87-8383-d21bd9ec780f",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "27508b05-64df-4eb8-bbc3-0560df8d2dc0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:47:24.726223",
+            "webstore_last_updated": null,
+            "id": "364a76b0-d231-4201-816a-18471add98fe",
+            "size": "455",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Transmission Lines UETCL 2014 (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "transmission_lines_uetcl_2014.kml",
+            "created": "2014-03-12T14:53:24.199763",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms/kml?layers=geonode%3Atransmission_lines_uetcl_2014&mode=download",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:49:09.027869",
+            "position": 10,
+            "revision_id": "5ff8838b-568e-4d87-8383-d21bd9ec780f",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "27508b05-64df-4eb8-bbc3-0560df8d2dc0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:47:24.726223",
+            "webstore_last_updated": null,
+            "id": "f00a3869-d80a-46c8-9fc9-e7e7f070a7ea",
+            "size": "455",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Transmission Lines UETCL 2014 (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "transmission_lines_uetcl_2014.kml",
+            "created": "2014-03-12T14:53:24.199768",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms/kml?layers=geonode%3Atransmission_lines_uetcl_2014&mode=refresh",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:49:10.689647",
+            "position": 11,
+            "revision_id": "5ff8838b-568e-4d87-8383-d21bd9ec780f",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "27508b05-64df-4eb8-bbc3-0560df8d2dc0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:23:38.508603",
+            "webstore_last_updated": null,
+            "id": "402a881a-37ec-4501-8d67-3881953ae9ce",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Transmission Lines UETCL 2014 (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "transmission_lines_uetcl_2014.tiles",
+            "created": "2014-03-12T14:53:24.199773",
+            "url": "http://geoclean.mountbatten.net/geoserver/gwc/service/gmaps?layers=geonode:transmission_lines_uetcl_2014&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 12,
+            "revision_id": "139e0212-0dd4-47f7-9043-2da11d9a72c8",
+            "resource_type": null
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Electricity",
+            "name": "Electricity",
+            "revision_timestamp": "2014-11-04T22:23:38.508603",
+            "state": "active",
+            "id": "822045a5-02ed-4f81-9de9-6b5fa0c258e6"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Energy Infrastructure",
+            "name": "Energy Infrastructure",
+            "revision_timestamp": "2014-11-04T22:23:38.508603",
+            "state": "active",
+            "id": "c84af0c4-9f82-444a-b320-da92ae01a3f5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Energy Lines",
+            "name": "Energy Lines",
+            "revision_timestamp": "2014-11-04T22:23:38.508603",
+            "state": "active",
+            "id": "c29b0700-48bd-4733-b08d-4d80dbbf1b7b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Transmission Lines",
+            "name": "Transmission Lines",
+            "revision_timestamp": "2014-11-04T22:23:38.508603",
+            "state": "active",
+            "id": "bdd148f0-29a4-4521-9282-35a1c61896e5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "UETCL",
+            "name": "UETCL",
+            "revision_timestamp": "2014-11-04T22:23:38.508603",
+            "state": "active",
+            "id": "e5c6c16a-8108-4d6b-a060-18c9e25df31c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:23:38.508603",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:23:38.508603",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:23:38.508603",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:23:38.508603",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:23:38.508603",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:23:38.508603",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:23:38.508603",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 12,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 12,
+    "name": "transmission-lines-uetcl-2014",
+    "isopen": false,
+    "url": null,
+    "notes": "This layer contains the existing and proposed transmission lines of Uganda.\nThe transmission lines were first digitized in AutoCad using angle points which were surveyed in the field. The AutoCad lines were then imported into ArcGIS and joined with an Excel attribute table. The data was last updated in January 2014.",
+    "title": "Transmission Lines UETCL 2014",
+    "extras": [
+        {
+            "value": "[\"The data is owned by UETCL. If you want to use this data for anything more than viewing please contact UETCL.\"]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "139e0212-0dd4-47f7-9043-2da11d9a72c8",
+                "package_id": "04e85e86-e3a3-4d2e-b312-743126356a7f"
+            }
+        },
+        {
+            "value": "34.6839500874",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "139e0212-0dd4-47f7-9043-2da11d9a72c8",
+                "package_id": "04e85e86-e3a3-4d2e-b312-743126356a7f"
+            }
+        },
+        {
+            "value": "3.5718776875",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "04e85e86-e3a3-4d2e-b312-743126356a7f",
+                "revision_id": "139e0212-0dd4-47f7-9043-2da11d9a72c8"
+            }
+        },
+        {
+            "value": "-1.2469043864",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "139e0212-0dd4-47f7-9043-2da11d9a72c8",
+                "package_id": "04e85e86-e3a3-4d2e-b312-743126356a7f"
+            }
+        },
+        {
+            "value": "29.7254044919",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "139e0212-0dd4-47f7-9043-2da11d9a72c8",
+                "package_id": "04e85e86-e3a3-4d2e-b312-743126356a7f"
+            }
+        },
+        {
+            "value": "martin.kretschmer@giz.de",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "04e85e86-e3a3-4d2e-b312-743126356a7f",
+                "revision_id": "139e0212-0dd4-47f7-9043-2da11d9a72c8"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "04e85e86-e3a3-4d2e-b312-743126356a7f",
+                "revision_id": "139e0212-0dd4-47f7-9043-2da11d9a72c8"
+            }
+        },
+        {
+            "value": "[{\"type\": \"creation\", \"value\": \"2014-01-16T00:00:00Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "04e85e86-e3a3-4d2e-b312-743126356a7f",
+                "revision_id": "139e0212-0dd4-47f7-9043-2da11d9a72c8"
+            }
+        },
+        {
+            "value": "annually",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "04e85e86-e3a3-4d2e-b312-743126356a7f",
+                "revision_id": "139e0212-0dd4-47f7-9043-2da11d9a72c8"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Transmission Lines UETCL 2014'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "04e85e86-e3a3-4d2e-b312-743126356a7f",
+                "revision_id": "139e0212-0dd4-47f7-9043-2da11d9a72c8"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "04e85e86-e3a3-4d2e-b312-743126356a7f",
+                "revision_id": "139e0212-0dd4-47f7-9043-2da11d9a72c8"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "139e0212-0dd4-47f7-9043-2da11d9a72c8",
+                "package_id": "04e85e86-e3a3-4d2e-b312-743126356a7f"
+            }
+        },
+        {
+            "value": "ee4ad436-994c-11e3-af32-512f6875ee4d",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "139e0212-0dd4-47f7-9043-2da11d9a72c8",
+                "package_id": "04e85e86-e3a3-4d2e-b312-743126356a7f"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "139e0212-0dd4-47f7-9043-2da11d9a72c8",
+                "package_id": "04e85e86-e3a3-4d2e-b312-743126356a7f"
+            }
+        },
+        {
+            "value": "2014-01-16T00:00:00Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "04e85e86-e3a3-4d2e-b312-743126356a7f",
+                "revision_id": "139e0212-0dd4-47f7-9043-2da11d9a72c8"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "139e0212-0dd4-47f7-9043-2da11d9a72c8",
+                "package_id": "04e85e86-e3a3-4d2e-b312-743126356a7f"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "04e85e86-e3a3-4d2e-b312-743126356a7f",
+                "revision_id": "139e0212-0dd4-47f7-9043-2da11d9a72c8"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "04e85e86-e3a3-4d2e-b312-743126356a7f",
+                "revision_id": "139e0212-0dd4-47f7-9043-2da11d9a72c8"
+            }
+        },
+        {
+            "value": "[{\"name\": \"GIZ\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "04e85e86-e3a3-4d2e-b312-743126356a7f",
+                "revision_id": "139e0212-0dd4-47f7-9043-2da11d9a72c8"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.7254044919, -1.2469043864], [34.6839500874, -1.2469043864], [34.6839500874, 3.5718776875], [29.7254044919, 3.5718776875], [29.7254044919, -1.2469043864]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "139e0212-0dd4-47f7-9043-2da11d9a72c8",
+                "package_id": "04e85e86-e3a3-4d2e-b312-743126356a7f"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "04e85e86-e3a3-4d2e-b312-743126356a7f",
+                "revision_id": "139e0212-0dd4-47f7-9043-2da11d9a72c8"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "139e0212-0dd4-47f7-9043-2da11d9a72c8",
+                "package_id": "04e85e86-e3a3-4d2e-b312-743126356a7f"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "139e0212-0dd4-47f7-9043-2da11d9a72c8",
+                "package_id": "04e85e86-e3a3-4d2e-b312-743126356a7f"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "139e0212-0dd4-47f7-9043-2da11d9a72c8"
+}

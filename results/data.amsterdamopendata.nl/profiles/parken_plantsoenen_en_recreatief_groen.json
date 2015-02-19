@@ -1,0 +1,187 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2014-11-20T16:00:08.266350",
+    "id": "3ded2b8f-bb86-48c5-b3e3-90cee03b8c90",
+    "metadata_created": "2014-11-20T15:40:49.029297",
+    "owner_org": null,
+    "metadata_modified": "2014-11-20T16:00:08.266350",
+    "author": "Dienst Ruimtelijke Ordening",
+    "author_email": "info@dro.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "9839e607-0a94-4ffd-b218-6cd938540fbf",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-20T16:00:08.266350",
+            "webstore_last_updated": null,
+            "id": "2fa774fc-0970-4c39-a0ea-05f339ccc2f2",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Download via maps.amsterdam.nl",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://maps.amsterdam.nl/open_geodata/",
+            "created": "2014-11-20T17:00:08.325457",
+            "url": "http://maps.amsterdam.nl/open_geodata/",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "6a3ac521-04fd-45e2-b905-6af3d9e3e6e5",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "groen",
+            "name": "groen",
+            "revision_timestamp": "2014-11-20T15:40:49.029297",
+            "state": "active",
+            "id": "3b5f7d26-f94d-4568-83bd-bf70f616c93b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "park",
+            "name": "park",
+            "revision_timestamp": "2014-11-20T15:40:49.029297",
+            "state": "active",
+            "id": "f259a653-bdae-4d3f-a4f8-6deeb1b78edd"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "plantsoen",
+            "name": "plantsoen",
+            "revision_timestamp": "2014-11-20T15:40:49.029297",
+            "state": "active",
+            "id": "98e61485-94d5-4092-87e2-5032acb1b112"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "plantsoenen",
+            "name": "plantsoenen",
+            "revision_timestamp": "2014-11-20T15:40:49.029297",
+            "state": "active",
+            "id": "c7671a8f-55bd-43bd-ac07-bc9998b73ffc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "recreatie",
+            "name": "recreatie",
+            "revision_timestamp": "2014-11-20T15:40:49.029297",
+            "state": "active",
+            "id": "b2c0f3d2-18a5-457f-a092-b9a8a8851b03"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "stadsparken",
+            "name": "stadsparken",
+            "revision_timestamp": "2014-11-20T15:40:49.029297",
+            "state": "active",
+            "id": "d975ee7a-96e6-4fcd-9c14-e4a4e6ebc6df"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Openbare ruimte & groen",
+            "description": "",
+            "name": "openbare-ruimte-groen",
+            "id": "5ef8ea8a-6f09-4d17-9e16-bb57bba25272"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "parken_plantsoenen_en_recreatief_groen",
+    "isopen": true,
+    "url": null,
+    "notes": "Overzicht van (stads)parken, plantsoenen en recreatief groen in Amsterdam.",
+    "title": "Parken, plantsoenen en recreatief groen",
+    "extras": [
+        {
+            "value": "f.haccou@dro.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "3ded2b8f-bb86-48c5-b3e3-90cee03b8c90",
+                "revision_id": "a9332645-55b8-4eda-b33f-c773665d68b7"
+            }
+        },
+        {
+            "value": "Femke Haccou",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "a9332645-55b8-4eda-b33f-c773665d68b7",
+                "package_id": "3ded2b8f-bb86-48c5-b3e3-90cee03b8c90"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "a9332645-55b8-4eda-b33f-c773665d68b7",
+                "package_id": "3ded2b8f-bb86-48c5-b3e3-90cee03b8c90"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "a9332645-55b8-4eda-b33f-c773665d68b7",
+                "package_id": "3ded2b8f-bb86-48c5-b3e3-90cee03b8c90"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "3ded2b8f-bb86-48c5-b3e3-90cee03b8c90",
+                "revision_id": "a9332645-55b8-4eda-b33f-c773665d68b7"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "3ded2b8f-bb86-48c5-b3e3-90cee03b8c90",
+                "revision_id": "a9332645-55b8-4eda-b33f-c773665d68b7"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "a9332645-55b8-4eda-b33f-c773665d68b7",
+                "package_id": "3ded2b8f-bb86-48c5-b3e3-90cee03b8c90"
+            }
+        },
+        {
+            "value": "http://maps.amsterdam.nl/stadsparken/",
+            "key": "website",
+            "__extras": {
+                "package_id": "3ded2b8f-bb86-48c5-b3e3-90cee03b8c90",
+                "revision_id": "a9332645-55b8-4eda-b33f-c773665d68b7"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "6a3ac521-04fd-45e2-b905-6af3d9e3e6e5"
+}

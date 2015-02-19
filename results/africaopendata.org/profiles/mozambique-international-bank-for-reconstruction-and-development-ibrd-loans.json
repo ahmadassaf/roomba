@@ -1,0 +1,97 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-11-06T11:30:49.808423",
+    "id": "4c0dc51a-3b40-4194-8edb-8074d27ca5d9",
+    "metadata_created": "2012-11-06T11:29:47.775179",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:56:41.371471",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "f492cba7-3136-44de-a217-abe15753bcd4",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:56:41.371471",
+            "webstore_last_updated": "2013-10-10T10:56:41.309450",
+            "id": "4f7e6983-efa4-4601-84b3-33f3ecc321c9",
+            "size": "213092",
+            "state": "active",
+            "hash": "68e5e5d4dcdfd13a3436cca328304ff791f0fb7d",
+            "description": "The International Bank for Reconstruction and Development (IBRD) loans are public and publicly guaranteed debt extended by the World Bank Group. IBRD loans are made to, or guaranteed by, countries that are members of IBRD. IBRD may also make loans to IFC. IBRD lends at market rates. Data are in U.S. dollars calculated using historical rates. This dataset contains the latest available snapshot of the Statement of Loans. The World Bank complies with all sanctions applicable to World Bank transactions.",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "IBRD_Loans_-Mozambique.csv",
+            "created": "2012-11-06T11:30:40.778674",
+            "url": "http://africaopendata.org/storage/f/2012-11-06T11%3A30%3A10.172Z/ibrd-loans-mozambique.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:39:21.197560",
+            "position": 0,
+            "revision_id": "dc99cbd8-c5bd-4ba5-a7ba-b8b52d87fe4a",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Mozambique",
+            "name": "Mozambique",
+            "revision_timestamp": "2012-11-06T11:29:47.775179",
+            "state": "active",
+            "id": "4bdda290-c43f-4a36-83b5-c298f623e95d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "finance",
+            "name": "finance",
+            "revision_timestamp": "2012-11-06T11:29:47.775179",
+            "state": "active",
+            "id": "03e21f21-04d8-4e9f-aa27-cd50d0b59c7c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "loans",
+            "name": "loans",
+            "revision_timestamp": "2012-11-06T11:29:47.775179",
+            "state": "active",
+            "id": "ab029346-93af-48b5-b680-6fedfc8b0fb3"
+        }
+    ],
+    "tracking_summary": {
+        "total": 51,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Mozambique",
+            "description": "Datasets related to the Republic of Mozambique",
+            "name": "mozambique",
+            "id": "e0d7f52a-54ad-4c58-9948-e6757f8ce27b"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "mozambique-international-bank-for-reconstruction-and-development-ibrd-loans",
+    "isopen": true,
+    "url": null,
+    "notes": "The International Bank for Reconstruction and Development (IBRD) loans are public and publicly guaranteed debt extended by the World Bank Group. IBRD loans are made to, or guaranteed by, countries that are members of IBRD. IBRD may also make loans to IFC. IBRD lends at market rates. Data are in U.S. dollars calculated using historical rates. This dataset contains the latest available snapshot of the Statement of Loans. The World Bank complies with all sanctions applicable to World Bank transactions.",
+    "title": "Mozambique - International Bank for Reconstruction and Development (IBRD) loans",
+    "extras": [],
+    "organization": null,
+    "revision_id": "781a293c-43e8-4417-a87b-4be305548e51"
+}

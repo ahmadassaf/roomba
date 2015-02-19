@@ -1,0 +1,615 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:31:07.589320",
+    "id": "c826c797-a806-49e8-b868-19350e6f0bea",
+    "metadata_created": "2014-11-04T22:31:07.589320",
+    "owner_org": null,
+    "metadata_modified": "2014-11-05T04:11:49.569496",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "c2dd95e6-abf4-4abc-94f3-c85ee62e7d17",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-05T04:11:49.569496",
+            "webstore_last_updated": null,
+            "id": "d43a3660-7cfb-493d-8d09-23bbed57ae8c",
+            "size": "40884",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "66fcd15ea8ce8107228be60df351449e1a133941",
+            "description": "Online link to the 'Water bodies' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:52:34.128790",
+            "url": "http://maps.data.ug/layers/geonode:lakes_wri_2008",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T04:11:49.410314",
+            "position": 0,
+            "revision_id": "806c4509-c14b-4aee-ba52-e0709b7feeae",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c2dd95e6-abf4-4abc-94f3-c85ee62e7d17",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:07.589320",
+            "webstore_last_updated": null,
+            "id": "f4d360b6-f04d-4efe-989b-4f3dad6fefb5",
+            "size": "63981",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Water bodies (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "lakes_wri_2008.pdf",
+            "created": "2014-03-12T14:52:34.128822",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Alakes_wri_2008&width=537&bbox=29.302490236871%2C-3.01348000373569%2C36.7079315316278%2C4.56929302026241&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T15:00:48.795409",
+            "position": 1,
+            "revision_id": "f4f7aa66-ba47-4dc2-851a-6ffeed07409c",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c2dd95e6-abf4-4abc-94f3-c85ee62e7d17",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:07.589320",
+            "webstore_last_updated": null,
+            "id": "65e3a387-ac77-4d1e-893a-5299945d492c",
+            "size": "2725357",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Water bodies (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "lakes_wri_2008.zip",
+            "created": "2014-03-12T14:52:34.128829",
+            "url": "http://maps.data.ug/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Alakes_wri_2008&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "f4f7aa66-ba47-4dc2-851a-6ffeed07409c",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c2dd95e6-abf4-4abc-94f3-c85ee62e7d17",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:07.589320",
+            "webstore_last_updated": null,
+            "id": "003f8e56-bef6-46e8-b6dd-330ba1d27dfe",
+            "size": "5033778",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Water bodies (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "lakes_wri_2008.gml",
+            "created": "2014-03-12T14:52:34.128833",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Alakes_wri_2008&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "f4f7aa66-ba47-4dc2-851a-6ffeed07409c",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c2dd95e6-abf4-4abc-94f3-c85ee62e7d17",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:07.589320",
+            "webstore_last_updated": null,
+            "id": "86448d50-5456-4907-9780-9dfa3b2cb4cf",
+            "size": "7931072",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Water bodies (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "lakes_wri_2008.gml",
+            "created": "2014-03-12T14:52:34.128836",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Alakes_wri_2008&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T15:00:50.374739",
+            "position": 4,
+            "revision_id": "f4f7aa66-ba47-4dc2-851a-6ffeed07409c",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c2dd95e6-abf4-4abc-94f3-c85ee62e7d17",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:07.589320",
+            "webstore_last_updated": null,
+            "id": "786a9580-bd81-4b29-9dbb-2e15349dd1de",
+            "size": "7948873",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Water bodies (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "lakes_wri_2008.csv",
+            "created": "2014-03-12T14:52:34.128840",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Alakes_wri_2008&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 5,
+            "revision_id": "f4f7aa66-ba47-4dc2-851a-6ffeed07409c",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c2dd95e6-abf4-4abc-94f3-c85ee62e7d17",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:07.589320",
+            "webstore_last_updated": null,
+            "id": "91043651-67bf-447b-ba71-8c0303cc74be",
+            "size": "36864",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Water bodies (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "lakes_wri_2008.excel",
+            "created": "2014-03-12T14:52:34.128843",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Alakes_wri_2008&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T15:00:52.325555",
+            "position": 6,
+            "revision_id": "f4f7aa66-ba47-4dc2-851a-6ffeed07409c",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c2dd95e6-abf4-4abc-94f3-c85ee62e7d17",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:07.589320",
+            "webstore_last_updated": null,
+            "id": "b5d22d0a-169f-46ce-93e0-dac36a178ab9",
+            "size": "8156090",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Water bodies (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "lakes_wri_2008.json",
+            "created": "2014-03-12T14:52:34.128847",
+            "url": "http://maps.data.ug/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Alakes_wri_2008&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T15:00:51.019424",
+            "position": 7,
+            "revision_id": "f4f7aa66-ba47-4dc2-851a-6ffeed07409c",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c2dd95e6-abf4-4abc-94f3-c85ee62e7d17",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:07.589320",
+            "webstore_last_updated": null,
+            "id": "6654e75c-50f7-4318-ab10-1f3a0a08296e",
+            "size": "8038878",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Water bodies (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "lakes_wri_2008.kml",
+            "created": "2014-03-12T14:52:34.128850",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Alakes_wri_2008&mode=download",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 8,
+            "revision_id": "f4f7aa66-ba47-4dc2-851a-6ffeed07409c",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c2dd95e6-abf4-4abc-94f3-c85ee62e7d17",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:07.589320",
+            "webstore_last_updated": null,
+            "id": "0db530c1-664e-4f83-961f-bf198b55ac86",
+            "size": "664",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Water bodies (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "lakes_wri_2008.kml",
+            "created": "2014-03-12T14:52:34.128854",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Alakes_wri_2008&mode=refresh",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T15:00:49.919544",
+            "position": 9,
+            "revision_id": "f4f7aa66-ba47-4dc2-851a-6ffeed07409c",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "c2dd95e6-abf4-4abc-94f3-c85ee62e7d17",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:31:07.589320",
+            "webstore_last_updated": null,
+            "id": "c8646e50-5434-4f24-837e-576a11eaeb2a",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Water bodies (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "lakes_wri_2008.tiles",
+            "created": "2014-03-12T14:52:34.128857",
+            "url": "http://maps.data.ug/geoserver/gwc/service/gmaps?layers=geonode:lakes_wri_2008&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 10,
+            "revision_id": "f4f7aa66-ba47-4dc2-851a-6ffeed07409c",
+            "resource_type": null
+        }
+    ],
+    "num_resources": 11,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Water",
+            "name": "Water",
+            "revision_timestamp": "2014-11-04T22:31:07.589320",
+            "state": "active",
+            "id": "f75cebda-a321-48c2-895a-461d20dd398d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:31:07.589320",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:31:07.589320",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:31:07.589320",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:31:07.589320",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:31:07.589320",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:31:07.589320",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 5,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 7,
+    "name": "water-bodies098f6",
+    "isopen": false,
+    "url": null,
+    "notes": "Main open water bodies of Uganda.",
+    "title": "Water bodies",
+    "extras": [
+        {
+            "value": "[\"Dataset is not for use in litigation. While efforts have been made to ensure that these data are accurate and reliable within the state of the art, WRI cannot assume liability for any damages, or misrepresentations, caused by any inaccuracies in the data, or as a result of the data to be used on a particular system. WRI makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\"]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "f4f7aa66-ba47-4dc2-851a-6ffeed07409c",
+                "package_id": "c826c797-a806-49e8-b868-19350e6f0bea"
+            }
+        },
+        {
+            "value": "36.7079315316",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "f4f7aa66-ba47-4dc2-851a-6ffeed07409c",
+                "package_id": "c826c797-a806-49e8-b868-19350e6f0bea"
+            }
+        },
+        {
+            "value": "4.5692930203",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "c826c797-a806-49e8-b868-19350e6f0bea",
+                "revision_id": "f4f7aa66-ba47-4dc2-851a-6ffeed07409c"
+            }
+        },
+        {
+            "value": "-3.0134800037",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "f4f7aa66-ba47-4dc2-851a-6ffeed07409c",
+                "package_id": "c826c797-a806-49e8-b868-19350e6f0bea"
+            }
+        },
+        {
+            "value": "29.3024902369",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "f4f7aa66-ba47-4dc2-851a-6ffeed07409c",
+                "package_id": "c826c797-a806-49e8-b868-19350e6f0bea"
+            }
+        },
+        {
+            "value": "",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "c826c797-a806-49e8-b868-19350e6f0bea",
+                "revision_id": "f4f7aa66-ba47-4dc2-851a-6ffeed07409c"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "c826c797-a806-49e8-b868-19350e6f0bea",
+                "revision_id": "f4f7aa66-ba47-4dc2-851a-6ffeed07409c"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2010-05-05T00:00:00Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "c826c797-a806-49e8-b868-19350e6f0bea",
+                "revision_id": "f4f7aa66-ba47-4dc2-851a-6ffeed07409c"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "c826c797-a806-49e8-b868-19350e6f0bea",
+                "revision_id": "f4f7aa66-ba47-4dc2-851a-6ffeed07409c"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Water bodies'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "c826c797-a806-49e8-b868-19350e6f0bea",
+                "revision_id": "f4f7aa66-ba47-4dc2-851a-6ffeed07409c"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "c826c797-a806-49e8-b868-19350e6f0bea",
+                "revision_id": "f4f7aa66-ba47-4dc2-851a-6ffeed07409c"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "f4f7aa66-ba47-4dc2-851a-6ffeed07409c",
+                "package_id": "c826c797-a806-49e8-b868-19350e6f0bea"
+            }
+        },
+        {
+            "value": "b3d7af62-a9ba-11e3-b8d5-d7100fec7aa5",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "f4f7aa66-ba47-4dc2-851a-6ffeed07409c",
+                "package_id": "c826c797-a806-49e8-b868-19350e6f0bea"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "f4f7aa66-ba47-4dc2-851a-6ffeed07409c",
+                "package_id": "c826c797-a806-49e8-b868-19350e6f0bea"
+            }
+        },
+        {
+            "value": "2010-05-05T00:00:00Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "c826c797-a806-49e8-b868-19350e6f0bea",
+                "revision_id": "f4f7aa66-ba47-4dc2-851a-6ffeed07409c"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "f4f7aa66-ba47-4dc2-851a-6ffeed07409c",
+                "package_id": "c826c797-a806-49e8-b868-19350e6f0bea"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "c826c797-a806-49e8-b868-19350e6f0bea",
+                "revision_id": "f4f7aa66-ba47-4dc2-851a-6ffeed07409c"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "c826c797-a806-49e8-b868-19350e6f0bea",
+                "revision_id": "f4f7aa66-ba47-4dc2-851a-6ffeed07409c"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "c826c797-a806-49e8-b868-19350e6f0bea",
+                "revision_id": "f4f7aa66-ba47-4dc2-851a-6ffeed07409c"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.3024902369, -3.0134800037], [36.7079315316, -3.0134800037], [36.7079315316, 4.5692930203], [29.3024902369, 4.5692930203], [29.3024902369, -3.0134800037]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "f4f7aa66-ba47-4dc2-851a-6ffeed07409c",
+                "package_id": "c826c797-a806-49e8-b868-19350e6f0bea"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "c826c797-a806-49e8-b868-19350e6f0bea",
+                "revision_id": "f4f7aa66-ba47-4dc2-851a-6ffeed07409c"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "f4f7aa66-ba47-4dc2-851a-6ffeed07409c",
+                "package_id": "c826c797-a806-49e8-b868-19350e6f0bea"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "f4f7aa66-ba47-4dc2-851a-6ffeed07409c",
+                "package_id": "c826c797-a806-49e8-b868-19350e6f0bea"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "f4f7aa66-ba47-4dc2-851a-6ffeed07409c"
+}

@@ -1,0 +1,146 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Kenya Visualization Bot",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:56:03.584606",
+    "id": "73b33935-d563-443b-83d9-4245942bc0a5",
+    "metadata_created": "2012-09-11T13:56:03.584606",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:03:16.392818",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "33e23e97-6e00-4490-80a3-68f380a5c8a4",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:03:16.392818",
+            "webstore_last_updated": "2013-10-10T12:03:16.322419",
+            "id": "0570ad12-1b75-423c-9ba3-2a51e219601e",
+            "size": "956",
+            "state": "active",
+            "hash": "f2b860aa7ca91e9c7ba44cfe6ba73b1210448d67",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Per Capita County Expenditures: Baringo.csv",
+            "created": "2012-09-11T13:56:03.657509",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155848/ux4i-zcyw.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:57:36.255324",
+            "position": 0,
+            "revision_id": "25673a63-4656-4c10-8e1c-2f93a8c44228",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "cdf",
+            "name": "cdf",
+            "revision_timestamp": "2012-09-11T13:56:03.584606",
+            "state": "active",
+            "id": "e4f787d6-ec60-483a-b3b3-f941cf48c3b4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "county",
+            "name": "county",
+            "revision_timestamp": "2012-09-11T13:56:03.584606",
+            "state": "active",
+            "id": "858f3acf-2c66-4fd9-9dc2-32e4f12121a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "expenditures",
+            "name": "expenditures",
+            "revision_timestamp": "2012-09-11T13:56:03.584606",
+            "state": "active",
+            "id": "44c63fed-5be4-49aa-b2a5-1e7baf93d961"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:56:03.584606",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:56:03.584606",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "local authorities",
+            "name": "local authorities",
+            "revision_timestamp": "2012-09-11T13:56:03.584606",
+            "state": "active",
+            "id": "ece507fe-ec49-44f8-848e-39df75ac1866"
+        }
+    ],
+    "tracking_summary": {
+        "total": 47,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "kodi-ux4i-zcyw",
+    "isopen": true,
+    "url": null,
+    "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque dictum augue ac lorem malesuada at rhoncus turpis condimentum. Maecenas commodo sem ac magna posuere ultrices. Proin ut felis ac odio consectetur rutrum vel quis sem. Cras elit tortor, aliquam non condimentum vitae, gravida eget nisi. Phasellus molestie, lorem at dapibus imperdiet, elit dolor viverra purus, a viverra enim dui non velit. Duis id tortor mi.",
+    "title": "Per Capita County Expenditures: Baringo",
+    "extras": [
+        {
+            "value": "Ministry of Local Government",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "a59b587e-25fb-4c42-bcef-32048e8936ec",
+                "package_id": "73b33935-d563-443b-83d9-4245942bc0a5"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "a59b587e-25fb-4c42-bcef-32048e8936ec",
+                "package_id": "73b33935-d563-443b-83d9-4245942bc0a5"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "a59b587e-25fb-4c42-bcef-32048e8936ec",
+                "package_id": "73b33935-d563-443b-83d9-4245942bc0a5"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "a59b587e-25fb-4c42-bcef-32048e8936ec"
+}

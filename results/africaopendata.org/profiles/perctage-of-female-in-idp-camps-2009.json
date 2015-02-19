@@ -1,0 +1,699 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:28:58.730979",
+    "id": "9bddad9c-ec5e-48b7-b40d-2bdd1aa2a851",
+    "metadata_created": "2014-11-04T22:28:58.730979",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:50:01.133618",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "42ed649e-bab8-4e7c-ba4b-1b618c35a627",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:50:01.133618",
+            "webstore_last_updated": null,
+            "id": "c22707db-0bb1-4537-8dbb-b86fb7d12e57",
+            "size": "20",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "5a65b400ff19ad0ff96aa30553b82ec8ffa14289",
+            "description": "Online link to the 'Perctage  of female in IDP camps, 2009' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:53:06.612244",
+            "url": "http://maps.data.ug/layers/geonode:perct_female2009",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T16:04:59.597649",
+            "position": 0,
+            "revision_id": "25b1cb21-b100-4fe4-9d82-7c5566227f33",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "42ed649e-bab8-4e7c-ba4b-1b618c35a627",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:58.730979",
+            "webstore_last_updated": null,
+            "id": "adf21995-9d15-40ec-b331-617708bb0997",
+            "size": "1032366",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Perctage  of female in IDP camps, 2009 (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "perct_female2009.zip",
+            "created": "2014-03-12T14:53:06.612263",
+            "url": "http://maps.data.ug/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Aperct_female2009&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "8dd6b2cb-3a85-49b7-81be-120be897e564",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "42ed649e-bab8-4e7c-ba4b-1b618c35a627",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:58.730979",
+            "webstore_last_updated": null,
+            "id": "a928df2e-ff74-468c-8b47-f9beceed9eab",
+            "size": "1963884",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Perctage  of female in IDP camps, 2009 (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "perct_female2009.gml",
+            "created": "2014-03-12T14:53:06.612267",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Aperct_female2009&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "8dd6b2cb-3a85-49b7-81be-120be897e564",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "42ed649e-bab8-4e7c-ba4b-1b618c35a627",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:58.730979",
+            "webstore_last_updated": null,
+            "id": "35f23c97-479e-43e9-ae5d-c746095cb87b",
+            "size": "3116564",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Perctage  of female in IDP camps, 2009 (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "perct_female2009.gml",
+            "created": "2014-03-12T14:53:06.612271",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Aperct_female2009&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "8dd6b2cb-3a85-49b7-81be-120be897e564",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "42ed649e-bab8-4e7c-ba4b-1b618c35a627",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:58.730979",
+            "webstore_last_updated": null,
+            "id": "f5ac6d41-5010-4b0a-a520-66559f69c4c3",
+            "size": "3134583",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Perctage  of female in IDP camps, 2009 (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "perct_female2009.csv",
+            "created": "2014-03-12T14:53:06.612275",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Aperct_female2009&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 4,
+            "revision_id": "8dd6b2cb-3a85-49b7-81be-120be897e564",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "42ed649e-bab8-4e7c-ba4b-1b618c35a627",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:58.730979",
+            "webstore_last_updated": null,
+            "id": "de9d4fb6-ac1e-46f7-8793-a3906e4763a4",
+            "size": "1782784",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Perctage  of female in IDP camps, 2009 (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "perct_female2009.excel",
+            "created": "2014-03-12T14:53:06.612278",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Aperct_female2009&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 5,
+            "revision_id": "8dd6b2cb-3a85-49b7-81be-120be897e564",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "42ed649e-bab8-4e7c-ba4b-1b618c35a627",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:58.730979",
+            "webstore_last_updated": null,
+            "id": "3ebf1721-0b2b-4e1f-bcb6-63a71de85779",
+            "size": "3237006",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Perctage  of female in IDP camps, 2009 (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "perct_female2009.json",
+            "created": "2014-03-12T14:53:06.612282",
+            "url": "http://maps.data.ug/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Aperct_female2009&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 6,
+            "revision_id": "8dd6b2cb-3a85-49b7-81be-120be897e564",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "42ed649e-bab8-4e7c-ba4b-1b618c35a627",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:58.730979",
+            "webstore_last_updated": null,
+            "id": "fbae98e6-77a1-45c3-9059-9c9c99fb53b3",
+            "size": "3287795",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Perctage  of female in IDP camps, 2009 (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "perct_female2009.kml",
+            "created": "2014-03-12T14:53:06.612285",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Aperct_female2009&mode=download",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 7,
+            "revision_id": "8dd6b2cb-3a85-49b7-81be-120be897e564",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "42ed649e-bab8-4e7c-ba4b-1b618c35a627",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:58.730979",
+            "webstore_last_updated": null,
+            "id": "01f84efb-9710-4efa-ab39-6d3ea33362db",
+            "size": "1845",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Perctage  of female in IDP camps, 2009 (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "perct_female2009.kml",
+            "created": "2014-03-12T14:53:06.612289",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Aperct_female2009&mode=refresh",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 8,
+            "revision_id": "8dd6b2cb-3a85-49b7-81be-120be897e564",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "42ed649e-bab8-4e7c-ba4b-1b618c35a627",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:58.730979",
+            "webstore_last_updated": null,
+            "id": "8bcc313c-3338-49a8-8c17-663507f0ec2e",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Perctage  of female in IDP camps, 2009 (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "perct_female2009.tiles",
+            "created": "2014-03-12T14:53:06.612292",
+            "url": "http://maps.data.ug/geoserver/gwc/service/gmaps?layers=geonode:perct_female2009&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "8dd6b2cb-3a85-49b7-81be-120be897e564",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "42ed649e-bab8-4e7c-ba4b-1b618c35a627",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:58.730979",
+            "webstore_last_updated": null,
+            "id": "8a06594b-2f45-41ec-9941-fbc7632d9f2f",
+            "size": "28300",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Perctage  of female in IDP camps, 2009 (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "perct_female2009.jpg",
+            "created": "2014-03-12T14:53:06.612296",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Aperct_female2009&width=790&bbox=31.3358136341824%2C2.21946697805056%2C33.7417096390712%2C3.89361371044298&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 10,
+            "revision_id": "8dd6b2cb-3a85-49b7-81be-120be897e564",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "42ed649e-bab8-4e7c-ba4b-1b618c35a627",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:58.730979",
+            "webstore_last_updated": null,
+            "id": "33bdbc70-48c9-4efa-b1da-92b47b4d2b74",
+            "size": "88484",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Perctage  of female in IDP camps, 2009 (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "perct_female2009.pdf",
+            "created": "2014-03-12T14:53:06.612299",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Aperct_female2009&width=790&bbox=31.3358136341824%2C2.21946697805056%2C33.7417096390712%2C3.89361371044298&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 11,
+            "revision_id": "8dd6b2cb-3a85-49b7-81be-120be897e564",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "42ed649e-bab8-4e7c-ba4b-1b618c35a627",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:58.730979",
+            "webstore_last_updated": null,
+            "id": "696b8512-1130-46dd-9495-f2e42c1e1f59",
+            "size": "48555",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Perctage  of female in IDP camps, 2009 (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "perct_female2009.png",
+            "created": "2014-03-12T14:53:06.612303",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Aperct_female2009&width=790&bbox=31.3358136341824%2C2.21946697805056%2C33.7417096390712%2C3.89361371044298&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 12,
+            "revision_id": "8dd6b2cb-3a85-49b7-81be-120be897e564",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Demography",
+            "name": "Demography",
+            "revision_timestamp": "2014-11-04T22:28:58.730979",
+            "state": "active",
+            "id": "7afcd760-7f1e-4e83-bbd8-67c253e543a8"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Female",
+            "name": "Female",
+            "revision_timestamp": "2014-11-04T22:28:58.730979",
+            "state": "active",
+            "id": "8e082e3b-6bb6-4d0b-9bb5-b4d3b79df07b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Gender",
+            "name": "Gender",
+            "revision_timestamp": "2014-11-04T22:28:58.730979",
+            "state": "active",
+            "id": "ca8f763a-144b-4ea3-b0b2-3f5a40720e35"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:28:58.730979",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:28:58.730979",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:28:58.730979",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:28:58.730979",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:28:58.730979",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:28:58.730979",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:28:58.730979",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 1,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 10,
+    "name": "perctage-of-female-in-idp-camps-2009",
+    "isopen": false,
+    "url": null,
+    "notes": "This layer shows IDP(Internally Displaced Peoples) camps population in 2009. The dataset is from the Information Management Unit-UNOCHA, Uganda Country Office. 2010.",
+    "title": "Perctage  of female in IDP camps, 2009",
+    "extras": [
+        {
+            "value": "[\"unknown\"]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "8dd6b2cb-3a85-49b7-81be-120be897e564",
+                "package_id": "9bddad9c-ec5e-48b7-b40d-2bdd1aa2a851"
+            }
+        },
+        {
+            "value": "33.7417096391",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "8dd6b2cb-3a85-49b7-81be-120be897e564",
+                "package_id": "9bddad9c-ec5e-48b7-b40d-2bdd1aa2a851"
+            }
+        },
+        {
+            "value": "3.8936137104",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "9bddad9c-ec5e-48b7-b40d-2bdd1aa2a851",
+                "revision_id": "8dd6b2cb-3a85-49b7-81be-120be897e564"
+            }
+        },
+        {
+            "value": "2.2194669781",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "8dd6b2cb-3a85-49b7-81be-120be897e564",
+                "package_id": "9bddad9c-ec5e-48b7-b40d-2bdd1aa2a851"
+            }
+        },
+        {
+            "value": "31.3358136342",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "8dd6b2cb-3a85-49b7-81be-120be897e564",
+                "package_id": "9bddad9c-ec5e-48b7-b40d-2bdd1aa2a851"
+            }
+        },
+        {
+            "value": "katy@mountbatten.net",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "9bddad9c-ec5e-48b7-b40d-2bdd1aa2a851",
+                "revision_id": "8dd6b2cb-3a85-49b7-81be-120be897e564"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "9bddad9c-ec5e-48b7-b40d-2bdd1aa2a851",
+                "revision_id": "8dd6b2cb-3a85-49b7-81be-120be897e564"
+            }
+        },
+        {
+            "value": "[{\"type\": \"creation\", \"value\": \"2014-02-20T02:35:00Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "9bddad9c-ec5e-48b7-b40d-2bdd1aa2a851",
+                "revision_id": "8dd6b2cb-3a85-49b7-81be-120be897e564"
+            }
+        },
+        {
+            "value": "unknown",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "9bddad9c-ec5e-48b7-b40d-2bdd1aa2a851",
+                "revision_id": "8dd6b2cb-3a85-49b7-81be-120be897e564"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Perctage  of female in IDP camps, 2009'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "9bddad9c-ec5e-48b7-b40d-2bdd1aa2a851",
+                "revision_id": "8dd6b2cb-3a85-49b7-81be-120be897e564"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "9bddad9c-ec5e-48b7-b40d-2bdd1aa2a851",
+                "revision_id": "8dd6b2cb-3a85-49b7-81be-120be897e564"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "8dd6b2cb-3a85-49b7-81be-120be897e564",
+                "package_id": "9bddad9c-ec5e-48b7-b40d-2bdd1aa2a851"
+            }
+        },
+        {
+            "value": "e33c7ca8-9a09-11e3-b17b-8509b11274ac",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "8dd6b2cb-3a85-49b7-81be-120be897e564",
+                "package_id": "9bddad9c-ec5e-48b7-b40d-2bdd1aa2a851"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "8dd6b2cb-3a85-49b7-81be-120be897e564",
+                "package_id": "9bddad9c-ec5e-48b7-b40d-2bdd1aa2a851"
+            }
+        },
+        {
+            "value": "2014-02-20T02:35:00Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "9bddad9c-ec5e-48b7-b40d-2bdd1aa2a851",
+                "revision_id": "8dd6b2cb-3a85-49b7-81be-120be897e564"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "8dd6b2cb-3a85-49b7-81be-120be897e564",
+                "package_id": "9bddad9c-ec5e-48b7-b40d-2bdd1aa2a851"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "9bddad9c-ec5e-48b7-b40d-2bdd1aa2a851",
+                "revision_id": "8dd6b2cb-3a85-49b7-81be-120be897e564"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "9bddad9c-ec5e-48b7-b40d-2bdd1aa2a851",
+                "revision_id": "8dd6b2cb-3a85-49b7-81be-120be897e564"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "9bddad9c-ec5e-48b7-b40d-2bdd1aa2a851",
+                "revision_id": "8dd6b2cb-3a85-49b7-81be-120be897e564"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[31.3358136342, 2.2194669781], [33.7417096391, 2.2194669781], [33.7417096391, 3.8936137104], [31.3358136342, 3.8936137104], [31.3358136342, 2.2194669781]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "8dd6b2cb-3a85-49b7-81be-120be897e564",
+                "package_id": "9bddad9c-ec5e-48b7-b40d-2bdd1aa2a851"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "9bddad9c-ec5e-48b7-b40d-2bdd1aa2a851",
+                "revision_id": "8dd6b2cb-3a85-49b7-81be-120be897e564"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "8dd6b2cb-3a85-49b7-81be-120be897e564",
+                "package_id": "9bddad9c-ec5e-48b7-b40d-2bdd1aa2a851"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "8dd6b2cb-3a85-49b7-81be-120be897e564",
+                "package_id": "9bddad9c-ec5e-48b7-b40d-2bdd1aa2a851"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "8dd6b2cb-3a85-49b7-81be-120be897e564"
+}

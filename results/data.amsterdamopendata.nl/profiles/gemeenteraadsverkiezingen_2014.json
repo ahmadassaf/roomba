@@ -1,0 +1,208 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2014-05-12T15:22:11.244097",
+    "id": "992116eb-8d22-418f-9a4f-f866b43f7d3b",
+    "metadata_created": "2014-05-12T15:22:11.244097",
+    "owner_org": null,
+    "metadata_modified": "2014-05-12T15:22:11.244097",
+    "author": "Bureau Onderzoek en Statistiek",
+    "author_email": "info@os.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "949b7b66-280c-454e-a362-422865c87b6f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-05-12T15:22:11.244097",
+            "webstore_last_updated": null,
+            "id": "6b67fc74-11db-454d-923f-fc66ab438436",
+            "size": "127574",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Excel (via O+S)",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "cache_url": null,
+            "name": "http://www.os.amsterdam.nl/download/verkiezingen-gemeenteraad-amsterdam-naar-stembureaus-19-maart-2014",
+            "created": "2014-05-12T17:22:12.363773",
+            "url": "http://www.os.amsterdam.nl/download/verkiezingen-gemeenteraad-amsterdam-naar-stembureaus-19-maart-2014",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "f1453056-c951-4404-9fcb-eaf591847434",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "949b7b66-280c-454e-a362-422865c87b6f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-05-12T15:22:11.244097",
+            "webstore_last_updated": null,
+            "id": "18da94c9-809a-43be-8b27-7009be0cbad2",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "KML (incl. geografie), downloaden via maps.amsterdam.nl",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://maps.amsterdam.nl/open_geodata/",
+            "created": "2014-05-12T17:22:12.363799",
+            "url": "http://maps.amsterdam.nl/open_geodata/",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "f1453056-c951-4404-9fcb-eaf591847434",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "gemeenteraad",
+            "name": "gemeenteraad",
+            "revision_timestamp": "2014-05-12T15:22:11.244097",
+            "state": "active",
+            "id": "bac43e1b-1ea2-4cba-bf17-afe3797d0882"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kiesgerechtigden",
+            "name": "kiesgerechtigden",
+            "revision_timestamp": "2014-05-12T15:22:11.244097",
+            "state": "active",
+            "id": "ec1acaef-7d8f-46d4-853a-f38a9f852351"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "stembureau",
+            "name": "stembureau",
+            "revision_timestamp": "2014-05-12T15:22:11.244097",
+            "state": "active",
+            "id": "be003c96-0e68-4967-a9f1-2facb46604f1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uitslagen",
+            "name": "uitslagen",
+            "revision_timestamp": "2014-05-12T15:22:11.244097",
+            "state": "active",
+            "id": "f101ee6e-7853-457d-9613-975b69a1856a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "verkiezingen",
+            "name": "verkiezingen",
+            "revision_timestamp": "2014-05-12T15:22:11.244097",
+            "state": "active",
+            "id": "52a81727-6fac-4caf-ad62-1d223228e995"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Verkiezingen",
+            "description": "",
+            "name": "verkiezingen",
+            "id": "6c0fcbf2-2bef-43a1-8202-bb6378d6daa5"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "gemeenteraadsverkiezingen_2014",
+    "isopen": true,
+    "url": null,
+    "notes": "Uitslag van de gemeenteraadsverkiezingen 2014 per stembureau. Geografische locatie stembureau , aantal kiesgerechtigden, en stemmen per partij",
+    "title": "Gemeenteraadsverkiezingen 2014",
+    "extras": [
+        {
+            "value": "j.slot@os.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "992116eb-8d22-418f-9a4f-f866b43f7d3b",
+                "revision_id": "f1453056-c951-4404-9fcb-eaf591847434"
+            }
+        },
+        {
+            "value": "Jeroen Slot",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "f1453056-c951-4404-9fcb-eaf591847434",
+                "package_id": "992116eb-8d22-418f-9a4f-f866b43f7d3b"
+            }
+        },
+        {
+            "value": "19/03/2014",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "f1453056-c951-4404-9fcb-eaf591847434",
+                "package_id": "992116eb-8d22-418f-9a4f-f866b43f7d3b"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "f1453056-c951-4404-9fcb-eaf591847434",
+                "package_id": "992116eb-8d22-418f-9a4f-f866b43f7d3b"
+            }
+        },
+        {
+            "value": "19/03/2014",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "992116eb-8d22-418f-9a4f-f866b43f7d3b",
+                "revision_id": "f1453056-c951-4404-9fcb-eaf591847434"
+            }
+        },
+        {
+            "value": "19/03/2014",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "992116eb-8d22-418f-9a4f-f866b43f7d3b",
+                "revision_id": "f1453056-c951-4404-9fcb-eaf591847434"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "f1453056-c951-4404-9fcb-eaf591847434",
+                "package_id": "992116eb-8d22-418f-9a4f-f866b43f7d3b"
+            }
+        },
+        {
+            "value": "http://www.os.amsterdam.nl",
+            "key": "website",
+            "__extras": {
+                "package_id": "992116eb-8d22-418f-9a4f-f866b43f7d3b",
+                "revision_id": "f1453056-c951-4404-9fcb-eaf591847434"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "f1453056-c951-4404-9fcb-eaf591847434"
+}

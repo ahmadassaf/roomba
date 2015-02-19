@@ -1,0 +1,99 @@
+{
+    "license_title": "Open Government Licence 3.0 (United Kingdom)",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2015-01-22T11:57:35.625147",
+    "id": "08306cd3-6e1f-43ef-ab1d-0c8008f41f62",
+    "metadata_created": "2015-01-22T11:00:28.346092",
+    "owner_org": "32858c37-0924-4538-986d-313697ce8b1c",
+    "metadata_modified": "2015-01-23T06:00:21.459247",
+    "author": "Jamie Whyte",
+    "author_email": "jamie.whyte@trafford.gov.uk",
+    "state": "active",
+    "version": null,
+    "license_id": "OGL-UK-3.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "c340cd4f-6d9d-4091-b56b-49a0a5adf8d8",
+            "cache_last_updated": null,
+            "revision_timestamp": "2015-01-23T06:00:21.459247",
+            "webstore_last_updated": null,
+            "id": "3139934f-da9e-48e3-b9a5-30bc5c2f3ea8",
+            "size": "20",
+            "state": "active",
+            "hash": "",
+            "description": "This data is being pulled live from OpenStreetMap's Overpass API",
+            "format": "JSON",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "Defibrillators in Trafford",
+            "created": "2015-01-22T11:57:10.672391",
+            "url": "http://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%28node%5B%22emergency%22%3D%22defibrillator%22%5D%2853%2E29313078734049%2C%2D2%2E5508880615234375%2C53%2E53051320304864%2C%2D2%2E1128082275390625%29%3Bway%5B%22emergency%22%3D%22defibrillator%22%5D%2853%2E29313078734049%2C%2D2%2E5508880615234375%2C53%2E53051320304864%2C%2D2%2E1128082275390625%29%3Brelation%5B%22emergency%22%3D%22defibrillator%22%5D%2853%2E29313078734049%2C%2D2%2E5508880615234375%2C53%2E53051320304864%2C%2D2%2E1128082275390625%29%3B%29%3Bout%20body%3B%3E%3Bout%20skel%20qt%3B%0A",
+            "webstore_url": null,
+            "last_modified": "2015-01-23T06:00:21.400568",
+            "position": 0,
+            "revision_id": "458f75a4-42c0-44d3-b741-5d0b59812eea",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "defibrillators",
+            "name": "defibrillators",
+            "revision_timestamp": "2015-01-22T11:00:28.346092",
+            "state": "active",
+            "id": "f483d7e1-5a1b-4a8a-aeca-9b4582a3d893"
+        }
+    ],
+    "tracking_summary": {
+        "total": 1,
+        "recent": 1
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 1,
+    "name": "defibrillators",
+    "isopen": true,
+    "url": null,
+    "notes": "Locations of automated external defibrillators (AEDs)",
+    "title": "Defibrillators",
+    "extras": [],
+    "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "organization": {
+        "description": "Trafford Innovation and Intelligence lab is a multi-organisation, multi-disciplinary team, aiming to make better use of data and technology in Trafford. By combining datasets from different organisations, and co-locating the data owners/analysts, data is put to much better use, and a more rounded picture of Trafford can be developed.",
+        "created": "2015-01-13T11:43:58.886486",
+        "title": "Trafford Innovation and Intelligence Lab",
+        "name": "trafford-innovation-and-intelligence-lab",
+        "revision_timestamp": "2015-01-13T11:43:58.706397",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://www.infotrafford.org.uk/custom/resources/TIILLogo_black_on_trans_190px.png",
+        "revision_id": "b0fa9571-1ef1-417f-aefe-32c236fd1d55",
+        "type": "organization",
+        "id": "32858c37-0924-4538-986d-313697ce8b1c",
+        "approval_status": "approved"
+    },
+    "revision_id": "feb7c064-cd06-426a-a022-303e1f1f6af8",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": true,
+        "family": "",
+        "is_generic": false,
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "UK Government",
+        "status": "active"
+    }
+}

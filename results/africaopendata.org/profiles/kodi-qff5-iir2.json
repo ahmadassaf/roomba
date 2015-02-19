@@ -1,0 +1,146 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:51:56.561469",
+    "id": "63062ddc-c54d-4a51-82e2-ed8e734e730b",
+    "metadata_created": "2012-09-11T13:51:56.561469",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:07:45.079404",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "cd916961-64c2-4051-8267-51a92a2efd75",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:07:45.079404",
+            "webstore_last_updated": "2013-10-10T12:07:45.008277",
+            "id": "6261785a-eeb4-41e7-967f-9dd42df4dc27",
+            "size": "2116",
+            "state": "active",
+            "hash": "4d68570721e37acebe490df2184f6ba4caec3f29",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Proportion  of Children under 5 years who have ever breastfed by county.xls - 2005/6.csv",
+            "created": "2012-09-11T13:51:56.615172",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155441/qff5-iir2.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-13T22:47:33.920701",
+            "position": 0,
+            "revision_id": "f318e8bc-29a2-426d-b26e-42c464fc510a",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "county",
+            "name": "county",
+            "revision_timestamp": "2012-09-11T13:51:56.561469",
+            "state": "active",
+            "id": "858f3acf-2c66-4fd9-9dc2-32e4f12121a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "health",
+            "name": "health",
+            "revision_timestamp": "2012-09-11T13:51:56.561469",
+            "state": "active",
+            "id": "956a3c07-125e-44e4-b843-c5011fadcc7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:51:56.561469",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kihbs",
+            "name": "kihbs",
+            "revision_timestamp": "2012-09-11T13:51:56.561469",
+            "state": "active",
+            "id": "e034ae5d-0777-40b8-92f7-c93ba0a00972"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:51:56.561469",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "nutrition",
+            "name": "nutrition",
+            "revision_timestamp": "2012-09-11T13:51:56.561469",
+            "state": "active",
+            "id": "7ef8b5e3-e1a9-4af1-9979-40b24f2ed82b"
+        }
+    ],
+    "tracking_summary": {
+        "total": 54,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "kodi-qff5-iir2",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "KIHBS Table 6.2: Proportion  of Children under 5 years who have ever breastfed, County estimates",
+    "title": "Proportion  of Children under 5 years who have ever breastfed by county.xls - 2005/6",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "b0fcb320-2b84-4516-8093-83f941c4a11b",
+                "package_id": "63062ddc-c54d-4a51-82e2-ed8e734e730b"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "b0fcb320-2b84-4516-8093-83f941c4a11b",
+                "package_id": "63062ddc-c54d-4a51-82e2-ed8e734e730b"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "b0fcb320-2b84-4516-8093-83f941c4a11b",
+                "package_id": "63062ddc-c54d-4a51-82e2-ed8e734e730b"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "b0fcb320-2b84-4516-8093-83f941c4a11b"
+}

@@ -1,0 +1,699 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:28:51.819239",
+    "id": "9ad117f6-3100-470a-8dd9-3e8031bca830",
+    "metadata_created": "2014-11-04T22:28:51.819239",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:49:58.590332",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "149bb131-62da-4fab-91e3-3fc475ce1faa",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:58.590332",
+            "webstore_last_updated": null,
+            "id": "9e5a1c2b-868f-425f-b8ec-fdbb2637e07e",
+            "size": "20",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "8d17c758781e1bd4b9dda1a15cd83365f643b68a",
+            "description": "Online link to the 'Percentage of population in IDP camps, August 2009' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:53:12.852476",
+            "url": "http://maps.data.ug/layers/geonode:perct_idp_aug09",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T16:21:44.534220",
+            "position": 0,
+            "revision_id": "c0b6e6f6-33ba-4e91-98bb-3f91ae116aee",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "149bb131-62da-4fab-91e3-3fc475ce1faa",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:51.819239",
+            "webstore_last_updated": null,
+            "id": "65315d47-e6af-4f0b-9b73-9f9411bc8e5b",
+            "size": "1024796",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Percentage of population in IDP camps, August 2009 (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "perct_idp_aug09.zip",
+            "created": "2014-03-12T14:53:12.852499",
+            "url": "http://maps.data.ug/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Aperct_idp_aug09&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "7e49f61a-3fb5-448f-8f61-debcd4839726",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "149bb131-62da-4fab-91e3-3fc475ce1faa",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:51.819239",
+            "webstore_last_updated": null,
+            "id": "dd470fb5-97a1-4816-a1e3-ab5dda70e422",
+            "size": "1958303",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Percentage of population in IDP camps, August 2009 (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "perct_idp_aug09.gml",
+            "created": "2014-03-12T14:53:12.852503",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Aperct_idp_aug09&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "7e49f61a-3fb5-448f-8f61-debcd4839726",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "149bb131-62da-4fab-91e3-3fc475ce1faa",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:51.819239",
+            "webstore_last_updated": null,
+            "id": "e6044882-287c-420d-936b-382988e42212",
+            "size": "3110983",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Percentage of population in IDP camps, August 2009 (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "perct_idp_aug09.gml",
+            "created": "2014-03-12T14:53:12.852506",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Aperct_idp_aug09&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "7e49f61a-3fb5-448f-8f61-debcd4839726",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "149bb131-62da-4fab-91e3-3fc475ce1faa",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:51.819239",
+            "webstore_last_updated": null,
+            "id": "835da8c5-ccca-4ad5-9814-531814b837a3",
+            "size": "3134141",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Percentage of population in IDP camps, August 2009 (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "perct_idp_aug09.csv",
+            "created": "2014-03-12T14:53:12.852510",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Aperct_idp_aug09&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 4,
+            "revision_id": "7e49f61a-3fb5-448f-8f61-debcd4839726",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "149bb131-62da-4fab-91e3-3fc475ce1faa",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:51.819239",
+            "webstore_last_updated": null,
+            "id": "90af19ef-d46b-4e5f-86d8-e5a96bd70351",
+            "size": "1780736",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Percentage of population in IDP camps, August 2009 (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "perct_idp_aug09.excel",
+            "created": "2014-03-12T14:53:12.852513",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Aperct_idp_aug09&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 5,
+            "revision_id": "7e49f61a-3fb5-448f-8f61-debcd4839726",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "149bb131-62da-4fab-91e3-3fc475ce1faa",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:51.819239",
+            "webstore_last_updated": null,
+            "id": "6b1919fa-01c7-4c0b-80a6-29b271eb429a",
+            "size": "3235026",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Percentage of population in IDP camps, August 2009 (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "perct_idp_aug09.json",
+            "created": "2014-03-12T14:53:12.852516",
+            "url": "http://maps.data.ug/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Aperct_idp_aug09&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 6,
+            "revision_id": "7e49f61a-3fb5-448f-8f61-debcd4839726",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "149bb131-62da-4fab-91e3-3fc475ce1faa",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:51.819239",
+            "webstore_last_updated": null,
+            "id": "f248cfb9-cd00-407f-b9f9-774faf8d9bc6",
+            "size": "3215789",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Percentage of population in IDP camps, August 2009 (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "perct_idp_aug09.kml",
+            "created": "2014-03-12T14:53:12.852520",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Aperct_idp_aug09&mode=download",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 7,
+            "revision_id": "7e49f61a-3fb5-448f-8f61-debcd4839726",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "149bb131-62da-4fab-91e3-3fc475ce1faa",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:51.819239",
+            "webstore_last_updated": null,
+            "id": "b43340da-de5c-421d-949f-94352100d64c",
+            "size": "1842",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Percentage of population in IDP camps, August 2009 (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "perct_idp_aug09.kml",
+            "created": "2014-03-12T14:53:12.852523",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Aperct_idp_aug09&mode=refresh",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 8,
+            "revision_id": "7e49f61a-3fb5-448f-8f61-debcd4839726",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "149bb131-62da-4fab-91e3-3fc475ce1faa",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:51.819239",
+            "webstore_last_updated": null,
+            "id": "c3c31d70-4e57-4446-a5f9-f3159a73d400",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Percentage of population in IDP camps, August 2009 (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "perct_idp_aug09.tiles",
+            "created": "2014-03-12T14:53:12.852526",
+            "url": "http://maps.data.ug/geoserver/gwc/service/gmaps?layers=geonode:perct_idp_aug09&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "7e49f61a-3fb5-448f-8f61-debcd4839726",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "149bb131-62da-4fab-91e3-3fc475ce1faa",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:51.819239",
+            "webstore_last_updated": null,
+            "id": "5bcd3668-9047-4a40-8bc7-e868a1df2613",
+            "size": "31276",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Percentage of population in IDP camps, August 2009 (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "perct_idp_aug09.jpg",
+            "created": "2014-03-12T14:53:12.852530",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Aperct_idp_aug09&width=790&bbox=31.3358136341824%2C2.21946697805056%2C33.7417096390712%2C3.89361371044298&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 10,
+            "revision_id": "7e49f61a-3fb5-448f-8f61-debcd4839726",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "149bb131-62da-4fab-91e3-3fc475ce1faa",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:51.819239",
+            "webstore_last_updated": null,
+            "id": "a91d27b8-51de-44e5-b961-3082cf11eb4a",
+            "size": "86004",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Percentage of population in IDP camps, August 2009 (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "perct_idp_aug09.pdf",
+            "created": "2014-03-12T14:53:12.852533",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Aperct_idp_aug09&width=790&bbox=31.3358136341824%2C2.21946697805056%2C33.7417096390712%2C3.89361371044298&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 11,
+            "revision_id": "7e49f61a-3fb5-448f-8f61-debcd4839726",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "149bb131-62da-4fab-91e3-3fc475ce1faa",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:51.819239",
+            "webstore_last_updated": null,
+            "id": "40899fa7-1603-4071-a9ed-a6823449c60d",
+            "size": "50278",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Percentage of population in IDP camps, August 2009 (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "perct_idp_aug09.png",
+            "created": "2014-03-12T14:53:12.852536",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Aperct_idp_aug09&width=790&bbox=31.3358136341824%2C2.21946697805056%2C33.7417096390712%2C3.89361371044298&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 12,
+            "revision_id": "7e49f61a-3fb5-448f-8f61-debcd4839726",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Humanitarian",
+            "name": "Humanitarian",
+            "revision_timestamp": "2014-11-04T22:28:51.819239",
+            "state": "active",
+            "id": "083b4181-ee4a-45b0-816e-8eec255de9bd"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "IDP camps",
+            "name": "IDP camps",
+            "revision_timestamp": "2014-11-04T22:28:51.819239",
+            "state": "active",
+            "id": "bc583b67-b3a2-4997-9b91-1e8da9637f19"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Infrastructure",
+            "name": "Infrastructure",
+            "revision_timestamp": "2014-11-04T22:28:51.819239",
+            "state": "active",
+            "id": "aa1c8978-cf79-4ee6-8f2c-7ac020c1fe1b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:28:51.819239",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:28:51.819239",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:28:51.819239",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:28:51.819239",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:28:51.819239",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:28:51.819239",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:28:51.819239",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 1,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 10,
+    "name": "percentage-of-population-in-idp-camps-august-2009",
+    "isopen": false,
+    "url": null,
+    "notes": "This layer shows the population percentage in IDP camps in 2009 by sub county. This dataset is from the Information Management Unit of UNOCHA, Uganda Country Office in 2010.",
+    "title": "Percentage of population in IDP camps, August 2009",
+    "extras": [
+        {
+            "value": "[\"Non available.\"]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "7e49f61a-3fb5-448f-8f61-debcd4839726",
+                "package_id": "9ad117f6-3100-470a-8dd9-3e8031bca830"
+            }
+        },
+        {
+            "value": "33.7417096391",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "7e49f61a-3fb5-448f-8f61-debcd4839726",
+                "package_id": "9ad117f6-3100-470a-8dd9-3e8031bca830"
+            }
+        },
+        {
+            "value": "3.8936137104",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "9ad117f6-3100-470a-8dd9-3e8031bca830",
+                "revision_id": "7e49f61a-3fb5-448f-8f61-debcd4839726"
+            }
+        },
+        {
+            "value": "2.2194669781",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "7e49f61a-3fb5-448f-8f61-debcd4839726",
+                "package_id": "9ad117f6-3100-470a-8dd9-3e8031bca830"
+            }
+        },
+        {
+            "value": "31.3358136342",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "7e49f61a-3fb5-448f-8f61-debcd4839726",
+                "package_id": "9ad117f6-3100-470a-8dd9-3e8031bca830"
+            }
+        },
+        {
+            "value": "katy@mountbatten.net",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "9ad117f6-3100-470a-8dd9-3e8031bca830",
+                "revision_id": "7e49f61a-3fb5-448f-8f61-debcd4839726"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "9ad117f6-3100-470a-8dd9-3e8031bca830",
+                "revision_id": "7e49f61a-3fb5-448f-8f61-debcd4839726"
+            }
+        },
+        {
+            "value": "[{\"type\": \"creation\", \"value\": \"2014-02-20T02:35:04Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "9ad117f6-3100-470a-8dd9-3e8031bca830",
+                "revision_id": "7e49f61a-3fb5-448f-8f61-debcd4839726"
+            }
+        },
+        {
+            "value": "unknown",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "9ad117f6-3100-470a-8dd9-3e8031bca830",
+                "revision_id": "7e49f61a-3fb5-448f-8f61-debcd4839726"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Percentage of population in IDP camps, August 2009'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "9ad117f6-3100-470a-8dd9-3e8031bca830",
+                "revision_id": "7e49f61a-3fb5-448f-8f61-debcd4839726"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "9ad117f6-3100-470a-8dd9-3e8031bca830",
+                "revision_id": "7e49f61a-3fb5-448f-8f61-debcd4839726"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "7e49f61a-3fb5-448f-8f61-debcd4839726",
+                "package_id": "9ad117f6-3100-470a-8dd9-3e8031bca830"
+            }
+        },
+        {
+            "value": "e535791a-9a09-11e3-b17b-8509b11274ac",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "7e49f61a-3fb5-448f-8f61-debcd4839726",
+                "package_id": "9ad117f6-3100-470a-8dd9-3e8031bca830"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "7e49f61a-3fb5-448f-8f61-debcd4839726",
+                "package_id": "9ad117f6-3100-470a-8dd9-3e8031bca830"
+            }
+        },
+        {
+            "value": "2014-02-20T02:35:04Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "9ad117f6-3100-470a-8dd9-3e8031bca830",
+                "revision_id": "7e49f61a-3fb5-448f-8f61-debcd4839726"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "7e49f61a-3fb5-448f-8f61-debcd4839726",
+                "package_id": "9ad117f6-3100-470a-8dd9-3e8031bca830"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "9ad117f6-3100-470a-8dd9-3e8031bca830",
+                "revision_id": "7e49f61a-3fb5-448f-8f61-debcd4839726"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "9ad117f6-3100-470a-8dd9-3e8031bca830",
+                "revision_id": "7e49f61a-3fb5-448f-8f61-debcd4839726"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "9ad117f6-3100-470a-8dd9-3e8031bca830",
+                "revision_id": "7e49f61a-3fb5-448f-8f61-debcd4839726"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[31.3358136342, 2.2194669781], [33.7417096391, 2.2194669781], [33.7417096391, 3.8936137104], [31.3358136342, 3.8936137104], [31.3358136342, 2.2194669781]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "7e49f61a-3fb5-448f-8f61-debcd4839726",
+                "package_id": "9ad117f6-3100-470a-8dd9-3e8031bca830"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "9ad117f6-3100-470a-8dd9-3e8031bca830",
+                "revision_id": "7e49f61a-3fb5-448f-8f61-debcd4839726"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "7e49f61a-3fb5-448f-8f61-debcd4839726",
+                "package_id": "9ad117f6-3100-470a-8dd9-3e8031bca830"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "7e49f61a-3fb5-448f-8f61-debcd4839726",
+                "package_id": "9ad117f6-3100-470a-8dd9-3e8031bca830"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "7e49f61a-3fb5-448f-8f61-debcd4839726"
+}

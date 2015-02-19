@@ -1,0 +1,698 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:27:09.654189",
+    "id": "6f8b49ca-0bb6-4e95-a5df-05800f4676f8",
+    "metadata_created": "2014-11-04T22:27:09.654189",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:49:09.468882",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "3ef14881-6630-466f-97d4-9a9f90698177",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:27:09.654189",
+            "webstore_last_updated": null,
+            "id": "8082d538-416b-4755-899d-d3642e1e686d",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Online link to the 'Lakes' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-10T17:58:58.898338",
+            "url": "http://maps.nemaug.org/layers/geonode:lakes",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "2950ab45-a72c-4fbb-931d-61acb79419d8",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "3ef14881-6630-466f-97d4-9a9f90698177",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:09.468882",
+            "webstore_last_updated": null,
+            "id": "726cff9b-3522-4c5e-87c5-6e37fabae596",
+            "size": "423",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Lakes (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "lakes.zip",
+            "created": "2014-03-10T17:58:58.898357",
+            "url": "http://maps.nemaug.org/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Alakes&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:27:43.659917",
+            "position": 1,
+            "revision_id": "f15bd847-accb-493a-b55c-06db71c78332",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3ef14881-6630-466f-97d4-9a9f90698177",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:09.468882",
+            "webstore_last_updated": null,
+            "id": "bb658674-90fc-41c8-b970-f825cd89359e",
+            "size": "423",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Lakes (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "lakes.gml",
+            "created": "2014-03-10T17:58:58.898362",
+            "url": "http://maps.nemaug.org/geoserver/wfs?typename=geonode%3Alakes&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:27:45.846276",
+            "position": 2,
+            "revision_id": "f15bd847-accb-493a-b55c-06db71c78332",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3ef14881-6630-466f-97d4-9a9f90698177",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:09.468882",
+            "webstore_last_updated": null,
+            "id": "8169ab5e-b93e-4f6e-8353-a629f150b341",
+            "size": "423",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Lakes (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "lakes.gml",
+            "created": "2014-03-10T17:58:58.898366",
+            "url": "http://maps.nemaug.org/geoserver/wfs?typename=geonode%3Alakes&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:27:36.249916",
+            "position": 3,
+            "revision_id": "f15bd847-accb-493a-b55c-06db71c78332",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3ef14881-6630-466f-97d4-9a9f90698177",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:09.468882",
+            "webstore_last_updated": null,
+            "id": "31155c02-e7ec-4c43-a400-0c1baf97cf95",
+            "size": "423",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Lakes (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "lakes.csv",
+            "created": "2014-03-10T17:58:58.898369",
+            "url": "http://maps.nemaug.org/geoserver/wfs?typename=geonode%3Alakes&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:27:38.348387",
+            "position": 4,
+            "revision_id": "f15bd847-accb-493a-b55c-06db71c78332",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3ef14881-6630-466f-97d4-9a9f90698177",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:09.468882",
+            "webstore_last_updated": null,
+            "id": "881850ff-700f-4190-8323-e39259e471a8",
+            "size": "423",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Lakes (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "lakes.excel",
+            "created": "2014-03-10T17:58:58.898373",
+            "url": "http://maps.nemaug.org/geoserver/wfs?typename=geonode%3Alakes&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:27:48.861967",
+            "position": 5,
+            "revision_id": "f15bd847-accb-493a-b55c-06db71c78332",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3ef14881-6630-466f-97d4-9a9f90698177",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:09.468882",
+            "webstore_last_updated": null,
+            "id": "12999831-2607-4eaf-b2ee-0925c4f18a8f",
+            "size": "423",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Lakes (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "lakes.json",
+            "created": "2014-03-10T17:58:58.898376",
+            "url": "http://maps.nemaug.org/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Alakes&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:27:42.569368",
+            "position": 6,
+            "revision_id": "f15bd847-accb-493a-b55c-06db71c78332",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3ef14881-6630-466f-97d4-9a9f90698177",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:09.468882",
+            "webstore_last_updated": null,
+            "id": "eea05f3b-383b-40a5-8610-975a8cdb7285",
+            "size": "437",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Lakes (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "lakes.kml",
+            "created": "2014-03-10T17:58:58.898379",
+            "url": "http://maps.nemaug.org/geoserver/wms/kml?layers=geonode%3Alakes&mode=download",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:27:47.895914",
+            "position": 7,
+            "revision_id": "f15bd847-accb-493a-b55c-06db71c78332",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3ef14881-6630-466f-97d4-9a9f90698177",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:09.468882",
+            "webstore_last_updated": null,
+            "id": "183784a7-02a4-4b47-8725-22573c788572",
+            "size": "437",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Lakes (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "lakes.kml",
+            "created": "2014-03-10T17:58:58.898383",
+            "url": "http://maps.nemaug.org/geoserver/wms/kml?layers=geonode%3Alakes&mode=refresh",
+            "webstore_url": null,
+            "last_modified": "2014-03-10T18:15:34.467905",
+            "position": 8,
+            "revision_id": "f15bd847-accb-493a-b55c-06db71c78332",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3ef14881-6630-466f-97d4-9a9f90698177",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:27:09.654189",
+            "webstore_last_updated": null,
+            "id": "ab1dd2f4-d7a8-48ae-90d6-646ab7af2768",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Lakes (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "lakes.tiles",
+            "created": "2014-03-10T17:58:58.898386",
+            "url": "http://maps.nemaug.org/geoserver/gwc/service/gmaps?layers=geonode:lakes&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "2950ab45-a72c-4fbb-931d-61acb79419d8",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "3ef14881-6630-466f-97d4-9a9f90698177",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:09.468882",
+            "webstore_last_updated": null,
+            "id": "6f8e7059-e9a0-4580-b06b-6b61998c744d",
+            "size": "437",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Lakes (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "lakes.jpg",
+            "created": "2014-03-10T17:58:58.898390",
+            "url": "http://maps.nemaug.org/geoserver/wms?layers=geonode%3Alakes&width=281&bbox=29.643932000541547%2C-1.2779529494748252%2C32.05445043733139%2C3.4344630512580654&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:27:40.918876",
+            "position": 10,
+            "revision_id": "f15bd847-accb-493a-b55c-06db71c78332",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3ef14881-6630-466f-97d4-9a9f90698177",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:09.468882",
+            "webstore_last_updated": null,
+            "id": "87a2cc9f-5c61-4b57-9242-d536e78ed57d",
+            "size": "437",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Lakes (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "lakes.pdf",
+            "created": "2014-03-10T17:58:58.898393",
+            "url": "http://maps.nemaug.org/geoserver/wms?layers=geonode%3Alakes&width=281&bbox=29.643932000541547%2C-1.2779529494748252%2C32.05445043733139%2C3.4344630512580654&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:27:39.884584",
+            "position": 11,
+            "revision_id": "f15bd847-accb-493a-b55c-06db71c78332",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3ef14881-6630-466f-97d4-9a9f90698177",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:09.468882",
+            "webstore_last_updated": null,
+            "id": "5f47b4ef-ebd2-490a-9bbf-ad41c9a94865",
+            "size": "437",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Lakes (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "lakes.png",
+            "created": "2014-03-10T17:58:58.898396",
+            "url": "http://maps.nemaug.org/geoserver/wms?layers=geonode%3Alakes&width=281&bbox=29.643932000541547%2C-1.2779529494748252%2C32.05445043733139%2C3.4344630512580654&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:27:44.786073",
+            "position": 12,
+            "revision_id": "f15bd847-accb-493a-b55c-06db71c78332",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Hydrology",
+            "name": "Hydrology",
+            "revision_timestamp": "2014-11-04T22:27:09.654189",
+            "state": "active",
+            "id": "a07eebd5-528f-4397-b6c4-31f1ea1a3b52"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Lakes",
+            "name": "Lakes",
+            "revision_timestamp": "2014-11-04T22:27:09.654189",
+            "state": "active",
+            "id": "c5122b45-b8f2-4317-9abf-071cf4b1c5df"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Physical",
+            "name": "Physical",
+            "revision_timestamp": "2014-11-04T22:27:09.654189",
+            "state": "active",
+            "id": "22708169-ba07-4e7c-a53f-f676ce36b428"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:27:09.654189",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:27:09.654189",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:27:09.654189",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:27:09.654189",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:27:09.654189",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:27:09.654189",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:27:09.654189",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 2,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 10,
+    "name": "lakes",
+    "isopen": false,
+    "url": null,
+    "notes": "Lakes along the Albertine Graben region.",
+    "title": "Lakes",
+    "extras": [
+        {
+            "value": "[\"Not provided\"]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "2950ab45-a72c-4fbb-931d-61acb79419d8",
+                "package_id": "6f8b49ca-0bb6-4e95-a5df-05800f4676f8"
+            }
+        },
+        {
+            "value": "32.0544504373",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "2950ab45-a72c-4fbb-931d-61acb79419d8",
+                "package_id": "6f8b49ca-0bb6-4e95-a5df-05800f4676f8"
+            }
+        },
+        {
+            "value": "3.4344630513",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "6f8b49ca-0bb6-4e95-a5df-05800f4676f8",
+                "revision_id": "2950ab45-a72c-4fbb-931d-61acb79419d8"
+            }
+        },
+        {
+            "value": "-1.2779529495",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "2950ab45-a72c-4fbb-931d-61acb79419d8",
+                "package_id": "6f8b49ca-0bb6-4e95-a5df-05800f4676f8"
+            }
+        },
+        {
+            "value": "29.6439320005",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "2950ab45-a72c-4fbb-931d-61acb79419d8",
+                "package_id": "6f8b49ca-0bb6-4e95-a5df-05800f4676f8"
+            }
+        },
+        {
+            "value": "ketty@mountbatten.net",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "6f8b49ca-0bb6-4e95-a5df-05800f4676f8",
+                "revision_id": "2950ab45-a72c-4fbb-931d-61acb79419d8"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "6f8b49ca-0bb6-4e95-a5df-05800f4676f8",
+                "revision_id": "2950ab45-a72c-4fbb-931d-61acb79419d8"
+            }
+        },
+        {
+            "value": "[{\"type\": \"creation\", \"value\": \"2010-02-10T00:00:00Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "6f8b49ca-0bb6-4e95-a5df-05800f4676f8",
+                "revision_id": "2950ab45-a72c-4fbb-931d-61acb79419d8"
+            }
+        },
+        {
+            "value": "unknown",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "6f8b49ca-0bb6-4e95-a5df-05800f4676f8",
+                "revision_id": "2950ab45-a72c-4fbb-931d-61acb79419d8"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Lakes'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "6f8b49ca-0bb6-4e95-a5df-05800f4676f8",
+                "revision_id": "2950ab45-a72c-4fbb-931d-61acb79419d8"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "6f8b49ca-0bb6-4e95-a5df-05800f4676f8",
+                "revision_id": "2950ab45-a72c-4fbb-931d-61acb79419d8"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "2950ab45-a72c-4fbb-931d-61acb79419d8",
+                "package_id": "6f8b49ca-0bb6-4e95-a5df-05800f4676f8"
+            }
+        },
+        {
+            "value": "4a60d11e-98a1-11e3-919a-22000a1cecb5",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "2950ab45-a72c-4fbb-931d-61acb79419d8",
+                "package_id": "6f8b49ca-0bb6-4e95-a5df-05800f4676f8"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "2950ab45-a72c-4fbb-931d-61acb79419d8",
+                "package_id": "6f8b49ca-0bb6-4e95-a5df-05800f4676f8"
+            }
+        },
+        {
+            "value": "2010-02-10T00:00:00Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "6f8b49ca-0bb6-4e95-a5df-05800f4676f8",
+                "revision_id": "2950ab45-a72c-4fbb-931d-61acb79419d8"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "2950ab45-a72c-4fbb-931d-61acb79419d8",
+                "package_id": "6f8b49ca-0bb6-4e95-a5df-05800f4676f8"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "6f8b49ca-0bb6-4e95-a5df-05800f4676f8",
+                "revision_id": "2950ab45-a72c-4fbb-931d-61acb79419d8"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "6f8b49ca-0bb6-4e95-a5df-05800f4676f8",
+                "revision_id": "2950ab45-a72c-4fbb-931d-61acb79419d8"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "6f8b49ca-0bb6-4e95-a5df-05800f4676f8",
+                "revision_id": "2950ab45-a72c-4fbb-931d-61acb79419d8"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.6439320005, -1.2779529495], [32.0544504373, -1.2779529495], [32.0544504373, 3.4344630513], [29.6439320005, 3.4344630513], [29.6439320005, -1.2779529495]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "2950ab45-a72c-4fbb-931d-61acb79419d8",
+                "package_id": "6f8b49ca-0bb6-4e95-a5df-05800f4676f8"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "6f8b49ca-0bb6-4e95-a5df-05800f4676f8",
+                "revision_id": "2950ab45-a72c-4fbb-931d-61acb79419d8"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "2950ab45-a72c-4fbb-931d-61acb79419d8",
+                "package_id": "6f8b49ca-0bb6-4e95-a5df-05800f4676f8"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "2950ab45-a72c-4fbb-931d-61acb79419d8",
+                "package_id": "6f8b49ca-0bb6-4e95-a5df-05800f4676f8"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "2950ab45-a72c-4fbb-931d-61acb79419d8"
+}

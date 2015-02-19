@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T14:01:20.428363",
+    "id": "92483758-fbd1-464d-8f63-2abf5da2cd8a",
+    "metadata_created": "2012-09-11T14:01:20.428363",
+    "owner_org": null,
+    "metadata_modified": "2013-03-14T09:08:56.872823",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "75a00caa-5057-4e4f-8a14-631a98818fe9",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-14T09:08:56.872823",
+            "webstore_last_updated": null,
+            "id": "957c8aa5-5cda-4e32-ad10-0f64227f7906",
+            "size": "6874",
+            "state": "active",
+            "hash": "357b005e07087f5cfe71e1237a7e8dab967524fd",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Vol II Jedwali 9:Kaya kulingana na aina kuu ya kutupa taka  za binadamu (kinyesi) na Kaunti - 2009.csv",
+            "created": "2012-09-11T14:01:20.473190",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T160405/y4js-3n4f.csv",
+            "webstore_url": null,
+            "last_modified": "2013-03-14T09:08:56.804971",
+            "position": 0,
+            "revision_id": "6e64f506-6701-4df7-8382-7d1c5b435015",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "county",
+            "name": "county",
+            "revision_timestamp": "2012-09-11T14:01:20.428363",
+            "state": "active",
+            "id": "858f3acf-2c66-4fd9-9dc2-32e4f12121a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T14:01:20.428363",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T14:01:20.428363",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 53,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-y4js-3n4f",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "2009 Census: Households by main mode of Human Waste Disposal and County, Swahili Version",
+    "title": "Vol II Jedwali 9:Kaya kulingana na aina kuu ya kutupa taka  za binadamu (kinyesi) na Kaunti - 2009",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "0ecc1ab7-aa06-42f5-8252-86b2efcbc443",
+                "package_id": "92483758-fbd1-464d-8f63-2abf5da2cd8a"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "0ecc1ab7-aa06-42f5-8252-86b2efcbc443",
+                "package_id": "92483758-fbd1-464d-8f63-2abf5da2cd8a"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "0ecc1ab7-aa06-42f5-8252-86b2efcbc443",
+                "package_id": "92483758-fbd1-464d-8f63-2abf5da2cd8a"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "0ecc1ab7-aa06-42f5-8252-86b2efcbc443"
+}

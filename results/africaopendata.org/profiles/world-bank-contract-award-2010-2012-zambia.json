@@ -1,0 +1,108 @@
+{
+    "license_title": "Open Data Commons Attribution License 1.0",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-11-04T16:57:24.969823",
+    "id": "1d58ba37-1d51-4441-9eab-a53d85336888",
+    "metadata_created": "2012-11-04T16:57:00.072105",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:58:31.988828",
+    "author": "World Bank (finance.worldbank.org)",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "ODC-BY-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "b60fd896-a648-4d2b-a0d8-8acf71555742",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:58:31.988828",
+            "webstore_last_updated": "2013-10-10T10:58:31.924035",
+            "id": "a879fa48-a8ec-46d3-b473-3ec871beaac4",
+            "size": "34559",
+            "state": "active",
+            "hash": "abbf2f141a676519c4377a12f89aefe32e7f5c47",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Major_Contract_Awards_FY2010-12_-_Africa_Region-Zambia.csv",
+            "created": "2012-11-04T16:57:16.440565",
+            "url": "http://africaopendata.org/storage/f/2012-11-04T16%3A57%3A06.110Z/major-contract-awards-fy2010-12-africa-region-zambia.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:29:29.383088",
+            "position": 0,
+            "revision_id": "1e5f2cf9-da62-45f9-9492-39243e5d1302",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Contracts",
+            "name": "Contracts",
+            "revision_timestamp": "2012-11-04T16:57:00.072105",
+            "state": "active",
+            "id": "c60bfb8e-35f5-487b-b481-b489447b7cef"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "World Bank",
+            "name": "World Bank",
+            "revision_timestamp": "2012-11-04T16:57:00.072105",
+            "state": "active",
+            "id": "ae91265e-0b5c-45a0-a96f-02cf356ec937"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Zambia",
+            "name": "Zambia",
+            "revision_timestamp": "2012-11-04T16:57:00.072105",
+            "state": "active",
+            "id": "91e266bb-6bee-4744-912d-4abaf60da569"
+        }
+    ],
+    "tracking_summary": {
+        "total": 78,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Zambia",
+            "description": "Datasets from the Republic of Zambia",
+            "name": "zambia",
+            "id": "00234b16-b93c-4396-92d2-ac339f018158"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "world-bank-contract-award-2010-2012-zambia",
+    "isopen": true,
+    "url": null,
+    "notes": "This set of contract awards includes data on commitments against contracts that were reviewed by the Bank before they were awarded (prior-reviewed Bank-funded contracts) under IDA/IBRD investment projects and related Trust Funds. This dataset does not list all contracts awarded by the Bank, and should be viewed only as a guide to determine the distribution of major contract commitments among the Bank's member countries. \"Supplier Country\" represents place of supplier registration, which may or not be the supplier's actual country of origin. Information does not include awards to subcontractors nor account for cofinancing. The Procurement Policy and Services Group does not guarantee the data included in this publication and accepts no responsibility whatsoever for any consequences of its use. The World Bank complies with all sanctions applicable to World Bank transactions.\r\n",
+    "title": "World Bank Contract Award 2010-2012 - Zambia",
+    "extras": [],
+    "license_url": "http://www.opendefinition.org/licenses/odc-by",
+    "organization": null,
+    "revision_id": "e1899a8c-ac9e-467b-ab41-1d1886bfb3d4",
+    "license_information": {
+        "domain_content": false,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Open Data Commons",
+        "status": "active"
+    }
+}

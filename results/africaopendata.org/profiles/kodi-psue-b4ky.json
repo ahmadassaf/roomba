@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T12:02:07.998722",
+    "id": "13ef3c76-c383-473e-a9fe-0c677a44051c",
+    "metadata_created": "2012-09-10T12:02:07.998722",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:16:01.486077",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "f7c5d6a5-5db5-4f1d-9237-632640c199cd",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:16:01.486077",
+            "webstore_last_updated": "2013-10-10T12:16:01.416854",
+            "id": "8f6a4a9e-d604-4e37-ba01-378abfa3332a",
+            "size": "767",
+            "state": "active",
+            "hash": "dab20baf636b5c5c56df83823ed7857edd692fbf",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Quarterly GDP 2000 - 2011 Chart.csv",
+            "created": "2012-09-11T13:33:45.510824",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T153630/psue-b4ky.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:27:24.645570",
+            "position": 0,
+            "revision_id": "88d5d770-a5b0-4f28-9cc8-dc6e21e2cc4f",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "gdp",
+            "name": "gdp",
+            "revision_timestamp": "2012-09-10T12:02:07.998722",
+            "state": "active",
+            "id": "cbb01a93-4bb5-4ab2-a836-a80ecfe5a699"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T12:02:07.998722",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T12:02:07.998722",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 50,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-psue-b4ky",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke/gdpreports.php",
+    "notes": "KNBS: Quarterly Gross Domestic Product by Economic Sector, 2000 - 2011, KSh Million at Constant 2001 prices",
+    "title": "Quarterly GDP 2000 - 2011 Chart",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "4f8a8980-6457-4e4d-8864-3f40ac7e89a3",
+                "package_id": "13ef3c76-c383-473e-a9fe-0c677a44051c"
+            }
+        },
+        {
+            "value": "    National Accounts And Inflation",
+            "key": "category",
+            "__extras": {
+                "revision_id": "4f8a8980-6457-4e4d-8864-3f40ac7e89a3",
+                "package_id": "13ef3c76-c383-473e-a9fe-0c677a44051c"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "4f8a8980-6457-4e4d-8864-3f40ac7e89a3",
+                "package_id": "13ef3c76-c383-473e-a9fe-0c677a44051c"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "4f8a8980-6457-4e4d-8864-3f40ac7e89a3"
+}

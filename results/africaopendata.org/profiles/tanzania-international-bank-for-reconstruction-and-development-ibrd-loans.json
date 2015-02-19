@@ -1,0 +1,97 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-11-07T09:25:16.539633",
+    "id": "7a351c0d-dbf6-493a-b80a-506fead2bbe7",
+    "metadata_created": "2012-11-07T09:24:45.505312",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:56:08.614399",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "131bdcd4-1043-4adc-ad32-f6aec5c7a6fa",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:56:08.614399",
+            "webstore_last_updated": "2013-10-10T10:56:08.548146",
+            "id": "7ea77c0f-9851-472a-97a2-d51fd5effe87",
+            "size": "213092",
+            "state": "active",
+            "hash": "68e5e5d4dcdfd13a3436cca328304ff791f0fb7d",
+            "description": "The International Bank for Reconstruction and Development (IBRD) loans are public and publicly guaranteed debt extended by the World Bank Group. IBRD loans are made to, or guaranteed by, countries that are members of IBRD. IBRD may also make loans to IFC. IBRD lends at market rates. Data are in U.S. dollars calculated using historical rates. This dataset contains the latest available snapshot of the Statement of Loans. The World Bank complies with all sanctions applicable to World Bank transactions.",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "IBRD_Loans_Tanzania.csv",
+            "created": "2012-11-07T09:25:09.613153",
+            "url": "http://africaopendata.org/storage/f/2012-11-07T09%3A25%3A00.319Z/ibrd-loans-tanzania.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-13T22:54:42.119973",
+            "position": 0,
+            "revision_id": "7aee7d06-f096-4b5f-ae1b-31549a98f0e7",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "finance",
+            "name": "finance",
+            "revision_timestamp": "2012-11-07T09:24:45.505312",
+            "state": "active",
+            "id": "03e21f21-04d8-4e9f-aa27-cd50d0b59c7c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "loans",
+            "name": "loans",
+            "revision_timestamp": "2012-11-07T09:24:45.505312",
+            "state": "active",
+            "id": "ab029346-93af-48b5-b680-6fedfc8b0fb3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "tanzania",
+            "name": "tanzania",
+            "revision_timestamp": "2012-11-07T09:24:45.505312",
+            "state": "active",
+            "id": "997a3ba2-c930-4949-85ea-feed429df6ce"
+        }
+    ],
+    "tracking_summary": {
+        "total": 61,
+        "recent": 6
+    },
+    "groups": [
+        {
+            "title": "Tanzania",
+            "description": "Datasets from Tanzania",
+            "name": "tanzania",
+            "id": "6b341afd-2b71-430f-aa0e-dbf83720c079"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "tanzania-international-bank-for-reconstruction-and-development-ibrd-loans",
+    "isopen": true,
+    "url": null,
+    "notes": "The International Bank for Reconstruction and Development (IBRD) loans are public and publicly guaranteed debt extended by the World Bank Group. IBRD loans are made to, or guaranteed by, countries that are members of IBRD. IBRD may also make loans to IFC. IBRD lends at market rates. Data are in U.S. dollars calculated using historical rates. This dataset contains the latest available snapshot of the Statement of Loans. The World Bank complies with all sanctions applicable to World Bank transactions.",
+    "title": "Tanzania - International Bank for Reconstruction and Development (IBRD) loans",
+    "extras": [],
+    "organization": null,
+    "revision_id": "6b35581d-ae54-44bd-a91c-1be8e37e855a"
+}

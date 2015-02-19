@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:40:47.274925",
+    "id": "af1ab7d5-d4b2-41a6-ac2a-042d86de8afd",
+    "metadata_created": "2012-09-11T13:40:47.274925",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:11:53.846638",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "0e1344df-2cd3-4d91-98dd-e30a090b4dac",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:11:53.846638",
+            "webstore_last_updated": "2013-10-10T12:11:53.776540",
+            "id": "031971ce-09bd-4891-bd3f-6b561e2f955e",
+            "size": "67140",
+            "state": "active",
+            "hash": "3b619ce66e954a596b337a9f4112bc760456688e",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Population, 3 years and above by Sex and Highest Level of Education Reached up to District Level - 2009.csv",
+            "created": "2012-09-11T13:40:47.320560",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T154332/x4e7-whsh.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:43:26.757128",
+            "position": 0,
+            "revision_id": "5a2a79a4-ff99-46f0-b79e-8f69c3674430",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "education districy census",
+            "name": "education districy census",
+            "revision_timestamp": "2012-09-11T13:40:47.274925",
+            "state": "active",
+            "id": "14fddbef-c05a-4dd7-8d3b-d6ca4993c5be"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:40:47.274925",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:40:47.274925",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 46,
+        "recent": 4
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-x4e7-whsh",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "2009 Census Volume II Table 2: Population, 3 years and above by Sex and Highest Level of Education Reached up to District Level",
+    "title": "Population, 3 years and above by Sex and Highest Level of Education Reached up to District Level - 2009",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "2cee0371-6586-4f8c-98ed-501d355e5ecd",
+                "package_id": "af1ab7d5-d4b2-41a6-ac2a-042d86de8afd"
+            }
+        },
+        {
+            "value": "Education",
+            "key": "category",
+            "__extras": {
+                "revision_id": "2cee0371-6586-4f8c-98ed-501d355e5ecd",
+                "package_id": "af1ab7d5-d4b2-41a6-ac2a-042d86de8afd"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "2cee0371-6586-4f8c-98ed-501d355e5ecd",
+                "package_id": "af1ab7d5-d4b2-41a6-ac2a-042d86de8afd"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "2cee0371-6586-4f8c-98ed-501d355e5ecd"
+}

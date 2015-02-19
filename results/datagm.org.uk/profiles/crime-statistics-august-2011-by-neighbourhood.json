@@ -1,0 +1,130 @@
+{
+    "license_title": "UK Crown Copyright with data.gov.uk rights",
+    "maintainer": "Police UK",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2013-03-28T09:24:12.967712",
+    "id": "11b7f4f3-7d70-4c7b-8871-e32b984e1cc8",
+    "metadata_created": "2011-09-26T12:18:25.164903",
+    "owner_org": "1d119d2c-c943-4d89-9dcf-40f874277f68",
+    "metadata_modified": "2013-12-08T06:23:18.794495",
+    "author": "Police UK",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "ukcrown-withrights",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "application/octet-stream",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "{\"content\": \"64fe1619128e3deb5c3c1ffd84c2fe1cb5c98199\", \"header\": \"584307de08d1320cf5311a3e20968a8a7c3ded38\"}",
+            "description": "",
+            "format": "CSV",
+            "url": "http://store.datagm.org.uk/sets/police/2011-08-greater-manchester-neighbourhood.csv",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 3,
+                "recent": 1
+            },
+            "revision_timestamp": "2013-12-08T06:23:18.794495",
+            "webstore_url": "active",
+            "resource_group_id": "607fc56a-e92b-42e7-98ee-311191aa7960",
+            "state": "active",
+            "last_modified": "2013-12-08T06:23:18.414208",
+            "webstore_last_updated": "2013-12-08T06:23:18.775864",
+            "position": 0,
+            "revision_id": "e10949d4-721a-4e85-aa66-5c9f671c1480",
+            "size": "3721",
+            "id": "5ac35321-5972-455b-bf34-207310228d25",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "crime",
+            "name": "crime",
+            "revision_timestamp": "2011-09-26T12:18:25.164903",
+            "state": "active",
+            "id": "e729a839-5af5-4993-8b9d-0b28a29c7c11"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "neighbourood",
+            "name": "neighbourood",
+            "revision_timestamp": "2011-09-26T12:18:25.164903",
+            "state": "active",
+            "id": "c5ed5663-f237-4f11-a2dc-cc33dda4baae"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "police",
+            "name": "police",
+            "revision_timestamp": "2011-09-26T12:18:25.164903",
+            "state": "active",
+            "id": "d35486f7-9c06-4adc-8483-b1248a5b5070"
+        }
+    ],
+    "tracking_summary": {
+        "total": 16,
+        "recent": 1
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "crime-statistics-august-2011-by-neighbourhood",
+    "isopen": false,
+    "url": "http://store.datagm.org.uk/sets/police/2011-08-greater-manchester-neighbourhood.csv",
+    "notes": "Greater Manchester crime statistics for August 2011 by neighbourhood",
+    "title": "Crime Statistics August 2011 By Neighbourhood",
+    "extras": [
+        {
+            "value": "2011-08-01",
+            "key": "temporal_coverage-from",
+            "__extras": {
+                "package_id": "11b7f4f3-7d70-4c7b-8871-e32b984e1cc8",
+                "revision_id": "fd47fdce-25ae-4899-8161-315c2efbf1e4"
+            }
+        },
+        {
+            "value": "2011-08-31",
+            "key": "temporal_coverage-to",
+            "__extras": {
+                "package_id": "11b7f4f3-7d70-4c7b-8871-e32b984e1cc8",
+                "revision_id": "fd47fdce-25ae-4899-8161-315c2efbf1e4"
+            }
+        }
+    ],
+    "organization": {
+        "description": "",
+        "created": "2013-03-28T04:18:11.750143",
+        "title": "Greater Manchester Police",
+        "name": "police",
+        "revision_timestamp": "2013-03-28T09:18:11.706568",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "",
+        "revision_id": "27d4a255-6ab3-4f0a-bcc4-7a929da400bb",
+        "type": "organization",
+        "id": "1d119d2c-c943-4d89-9dcf-40f874277f68",
+        "approval_status": "approved"
+    },
+    "revision_id": "bd51eeb2-371b-4483-9221-0cd1d5481608",
+    "license_url": "",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": false,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "",
+        "status": "active"
+    }
+}

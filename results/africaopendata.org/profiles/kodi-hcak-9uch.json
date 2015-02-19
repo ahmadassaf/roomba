@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:58:40.072983",
+    "id": "a27f263c-0b39-4d63-b1b3-5efcb6b0cb70",
+    "metadata_created": "2012-09-11T13:58:40.072983",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:02:38.790272",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "bed116e0-7618-4c5e-acf3-edcaf0bddec9",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:02:38.790272",
+            "webstore_last_updated": "2013-10-10T12:02:38.672232",
+            "id": "b284bb60-6aaa-4ade-8969-4a5ba97cf360",
+            "size": "6120",
+            "state": "active",
+            "hash": "76e986ef583584ed0ed73c0d560c949f60b5452e",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Percentage Distribution of Population by Incidence of Sickness in the last four weeks and district - 2005/6.csv",
+            "created": "2012-09-11T13:58:40.119770",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T160125/hcak-9uch.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:13:38.016212",
+            "position": 0,
+            "revision_id": "07e5d6f7-9722-4ffe-a34e-5690ad814289",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:58:40.072983",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:58:40.072983",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population",
+            "name": "population",
+            "revision_timestamp": "2012-09-11T13:58:40.072983",
+            "state": "active",
+            "id": "c5e39de5-556e-4bcb-883b-5b9ec2481ae9"
+        }
+    ],
+    "tracking_summary": {
+        "total": 36,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-hcak-9uch",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "KIHBS Table 5.1: Percentage Distribution of Population by Incidence of Sickness in the last four weeks and district",
+    "title": "Percentage Distribution of Population by Incidence of Sickness in the last four weeks and district - 2005/6",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "3305d0b4-712e-4e9f-ba25-2c6aa50dc1b1",
+                "package_id": "a27f263c-0b39-4d63-b1b3-5efcb6b0cb70"
+            }
+        },
+        {
+            "value": "Population",
+            "key": "category",
+            "__extras": {
+                "revision_id": "3305d0b4-712e-4e9f-ba25-2c6aa50dc1b1",
+                "package_id": "a27f263c-0b39-4d63-b1b3-5efcb6b0cb70"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "3305d0b4-712e-4e9f-ba25-2c6aa50dc1b1",
+                "package_id": "a27f263c-0b39-4d63-b1b3-5efcb6b0cb70"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "3305d0b4-712e-4e9f-ba25-2c6aa50dc1b1"
+}

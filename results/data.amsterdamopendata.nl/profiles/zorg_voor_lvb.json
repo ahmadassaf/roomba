@@ -1,0 +1,161 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2013-10-07T09:43:22.435319",
+    "id": "eab74895-bc40-405a-a28a-57681fe19895",
+    "metadata_created": "2013-10-07T09:43:22.435319",
+    "owner_org": null,
+    "metadata_modified": "2013-10-22T11:35:27.306496",
+    "author": "GGD Amsterdam",
+    "author_email": "info@ggd.amsterdam.nl",
+    "state": "active",
+    "version": null,
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "c8558f28-c9fa-4538-9f0e-332dc2faaba3",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-22T11:35:27.306496",
+            "webstore_last_updated": null,
+            "id": "eac111b6-733d-4565-a64d-cde568278ebd",
+            "size": null,
+            "state": "active",
+            "hash": "",
+            "description": "Downloaden via Open Datakaart",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "http://www.opendatakaart.nl/catalogus/datasets/datasets_dataset/t/zorg_voor_lvb_ers",
+            "created": "2013-10-07T11:43:22.494426",
+            "url": "http://www.opendatakaart.nl/catalogus/datasets/datasets_dataset/t/zorg_voor_lvb_ers",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "a4873028-6a72-4016-81f9-798573033a7b",
+            "resource_type": "file"
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "gehandicapt",
+            "name": "gehandicapt",
+            "revision_timestamp": "2013-10-07T09:43:22.435319",
+            "state": "active",
+            "id": "46c105bb-2fa1-41f3-8e10-cf39b09ef492"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "lvb",
+            "name": "lvb",
+            "revision_timestamp": "2013-10-07T09:43:22.435319",
+            "state": "active",
+            "id": "55edc5a8-f470-4766-9eb6-1a6d5eef0814"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "verstandelijk",
+            "name": "verstandelijk",
+            "revision_timestamp": "2013-10-07T09:43:22.435319",
+            "state": "active",
+            "id": "7739bef8-b8d4-4642-8508-772e3630e2fd"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "zorg",
+            "name": "zorg",
+            "revision_timestamp": "2013-10-07T09:43:22.435319",
+            "state": "active",
+            "id": "41c4d511-98c2-469b-82e5-c2041ca54430"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Zorg & welzijn",
+            "description": "",
+            "name": "zorg-welzijn",
+            "id": "03f76fe0-7556-4f88-9c23-0b318e1c69ed"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "zorg_voor_lvb",
+    "isopen": false,
+    "url": null,
+    "notes": "Overzicht van alle zorgvoorzieningen voor LVB'ers (Licht Verstandelijk Beperkten) in Amsterdam",
+    "title": "Zorg voor LVB'ers",
+    "extras": [
+        {
+            "value": "info@ggd.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "eab74895-bc40-405a-a28a-57681fe19895",
+                "revision_id": "392ef98a-2825-4185-8c29-16160f63621d"
+            }
+        },
+        {
+            "value": "GGD Amsterdam",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "392ef98a-2825-4185-8c29-16160f63621d",
+                "package_id": "eab74895-bc40-405a-a28a-57681fe19895"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "392ef98a-2825-4185-8c29-16160f63621d",
+                "package_id": "eab74895-bc40-405a-a28a-57681fe19895"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "392ef98a-2825-4185-8c29-16160f63621d",
+                "package_id": "eab74895-bc40-405a-a28a-57681fe19895"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "eab74895-bc40-405a-a28a-57681fe19895",
+                "revision_id": "392ef98a-2825-4185-8c29-16160f63621d"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "eab74895-bc40-405a-a28a-57681fe19895",
+                "revision_id": "392ef98a-2825-4185-8c29-16160f63621d"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "392ef98a-2825-4185-8c29-16160f63621d",
+                "package_id": "eab74895-bc40-405a-a28a-57681fe19895"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "392ef98a-2825-4185-8c29-16160f63621d"
+}

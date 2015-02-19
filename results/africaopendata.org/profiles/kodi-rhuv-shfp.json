@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Saf",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:56:38.181583",
+    "id": "9fa7297f-fc64-4546-ad46-e66146c1fd82",
+    "metadata_created": "2012-09-11T13:56:38.181583",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:03:04.290291",
+    "author": "Chris Metcalf",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "f1bf203c-e02a-462d-9bd7-85cdcc72836b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:03:04.290291",
+            "webstore_last_updated": "2013-10-10T12:03:04.224285",
+            "id": "7d7255f8-09e8-4420-8e82-54d4886836f6",
+            "size": "240",
+            "state": "active",
+            "hash": "d51ffac3b3fb6061edf24ae3729cc24b8d60c029",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Lamu Age Pyramid.csv",
+            "created": "2012-09-11T13:56:38.220798",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155923/rhuv-shfp.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:13:05.752919",
+            "position": 0,
+            "revision_id": "4d40d82d-0c9a-4a57-b47d-27d4fc670e0c",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:56:38.181583",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:56:38.181583",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population",
+            "name": "population",
+            "revision_timestamp": "2012-09-11T13:56:38.181583",
+            "state": "active",
+            "id": "c5e39de5-556e-4bcb-883b-5b9ec2481ae9"
+        }
+    ],
+    "tracking_summary": {
+        "total": 40,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-rhuv-shfp",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Male and female populations by age group.",
+    "title": "Lamu Age Pyramid",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "8c57166c-c0aa-4a2b-ae8a-f3f4e036ff34",
+                "package_id": "9fa7297f-fc64-4546-ad46-e66146c1fd82"
+            }
+        },
+        {
+            "value": "Population",
+            "key": "category",
+            "__extras": {
+                "revision_id": "8c57166c-c0aa-4a2b-ae8a-f3f4e036ff34",
+                "package_id": "9fa7297f-fc64-4546-ad46-e66146c1fd82"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "8c57166c-c0aa-4a2b-ae8a-f3f4e036ff34",
+                "package_id": "9fa7297f-fc64-4546-ad46-e66146c1fd82"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "8c57166c-c0aa-4a2b-ae8a-f3f4e036ff34"
+}

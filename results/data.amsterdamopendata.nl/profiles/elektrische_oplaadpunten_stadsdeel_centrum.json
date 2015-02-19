@@ -1,0 +1,243 @@
+{
+    "license_title": "CC0 1.0",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2013-06-27T12:14:40.746593",
+    "id": "7d46bc73-42e3-49a8-a2b8-13285057c398",
+    "metadata_created": "2013-06-27T12:14:40.746593",
+    "owner_org": null,
+    "metadata_modified": "2013-06-27T12:14:40.746593",
+    "author": "Stadsdeel Centrum",
+    "author_email": "stadsdeel@centrum.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "CC0-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "ca7d6d64-042c-491e-854e-0019b097dab7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-06-27T12:14:40.746593",
+            "webstore_last_updated": null,
+            "id": "43a67274-3671-46f4-a084-1ad6e8a5420f",
+            "size": "5137",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Elektische oplaadpunten (Shapefile in RD)",
+            "format": "ZIP",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "pp_elektrisch_oplaadpunt_RD.zip",
+            "created": "2013-06-27T14:14:40.814386",
+            "url": "http://www.amsterdamopendata.nl/documents/10180/25288/pp_elektrisch_oplaadpunt_RD.zip",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "6ff74a5a-e11b-49a4-b89f-3ece45645dc9",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "ca7d6d64-042c-491e-854e-0019b097dab7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-06-27T12:14:40.746593",
+            "webstore_last_updated": null,
+            "id": "6dfe4d5d-30de-464c-8146-acded3cc6a40",
+            "size": "4529",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Elektrische oplaadpunten (Shapefile in WGS84)",
+            "format": "ZIP",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "pp_elektrisch_oplaadpunt_WGS84.zip",
+            "created": "2013-06-27T14:14:40.814410",
+            "url": "http://www.amsterdamopendata.nl/documents/10180/25288/pp_elektrisch_oplaadpunt_WGS84.zip",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "6ff74a5a-e11b-49a4-b89f-3ece45645dc9",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "auto",
+            "name": "auto",
+            "revision_timestamp": "2013-06-27T12:14:40.746593",
+            "state": "active",
+            "id": "a617a63e-a649-4d3e-924c-3f67a5783d2e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "elektrisch",
+            "name": "elektrisch",
+            "revision_timestamp": "2013-06-27T12:14:40.746593",
+            "state": "active",
+            "id": "035a0b35-38a1-419b-8462-42a71baee05d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "hybrid",
+            "name": "hybrid",
+            "revision_timestamp": "2013-06-27T12:14:40.746593",
+            "state": "active",
+            "id": "31ab2c12-15b4-4084-805d-27a5536210ab"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "laadpunt",
+            "name": "laadpunt",
+            "revision_timestamp": "2013-06-27T12:14:40.746593",
+            "state": "active",
+            "id": "e4edae27-249f-461b-8ba0-3d4f3f56a138"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "laden",
+            "name": "laden",
+            "revision_timestamp": "2013-06-27T12:14:40.746593",
+            "state": "active",
+            "id": "319df18a-ddd7-4713-8714-5711529b51e3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "oplaadpunt",
+            "name": "oplaadpunt",
+            "revision_timestamp": "2013-06-27T12:14:40.746593",
+            "state": "active",
+            "id": "ad768a07-4c5d-4be1-b509-bf5c30c2bc2b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "opladen",
+            "name": "opladen",
+            "revision_timestamp": "2013-06-27T12:14:40.746593",
+            "state": "active",
+            "id": "8c9cc801-2f48-4a13-826b-9fed9cd5603b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "plugin",
+            "name": "plugin",
+            "revision_timestamp": "2013-06-27T12:14:40.746593",
+            "state": "active",
+            "id": "43b36d95-d145-45e2-9e16-7d6eecd77f15"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Verkeer & Infrastructuur",
+            "description": "",
+            "name": "verkeer-infrastructuur",
+            "id": "12502584-9d7d-4bdc-bf5f-df2b0d85f4f6"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 8,
+    "name": "elektrische_oplaadpunten_stadsdeel_centrum",
+    "isopen": true,
+    "url": null,
+    "notes": "Elektrische oplaadpunten in stadsdeel Centrum",
+    "title": "Elektrische oplaadpunten Stadsdeel Centrum",
+    "extras": [
+        {
+            "value": "stadsdeel@centrum.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "7d46bc73-42e3-49a8-a2b8-13285057c398",
+                "revision_id": "6ff74a5a-e11b-49a4-b89f-3ece45645dc9"
+            }
+        },
+        {
+            "value": "Marc Schoneveld",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "6ff74a5a-e11b-49a4-b89f-3ece45645dc9",
+                "package_id": "7d46bc73-42e3-49a8-a2b8-13285057c398"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "6ff74a5a-e11b-49a4-b89f-3ece45645dc9",
+                "package_id": "7d46bc73-42e3-49a8-a2b8-13285057c398"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "6ff74a5a-e11b-49a4-b89f-3ece45645dc9",
+                "package_id": "7d46bc73-42e3-49a8-a2b8-13285057c398"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "7d46bc73-42e3-49a8-a2b8-13285057c398",
+                "revision_id": "6ff74a5a-e11b-49a4-b89f-3ece45645dc9"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "7d46bc73-42e3-49a8-a2b8-13285057c398",
+                "revision_id": "6ff74a5a-e11b-49a4-b89f-3ece45645dc9"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "6ff74a5a-e11b-49a4-b89f-3ece45645dc9",
+                "package_id": "7d46bc73-42e3-49a8-a2b8-13285057c398"
+            }
+        },
+        {
+            "value": "http://www.centrum.amsterdam.nl/algemene_onderdelen/overigen/open-data-stadsdeel/",
+            "key": "website",
+            "__extras": {
+                "package_id": "7d46bc73-42e3-49a8-a2b8-13285057c398",
+                "revision_id": "6ff74a5a-e11b-49a4-b89f-3ece45645dc9"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "organization": null,
+    "revision_id": "6ff74a5a-e11b-49a4-b89f-3ece45645dc9",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": true,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

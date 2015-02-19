@@ -1,0 +1,232 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Beheerder IVV",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "info@ivv.amsterdam.nl",
+    "revision_timestamp": "2014-11-13T18:58:54.543553",
+    "id": "686092dd-5246-4896-bf65-3c56b81a13d3",
+    "metadata_created": "2013-05-16T10:26:50.136655",
+    "owner_org": null,
+    "metadata_modified": "2014-12-29T10:59:00.922944",
+    "author": "Dienst IVV",
+    "author_email": "info@ivv.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "db1b70ba-90db-4177-8330-315cf4893e7c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-29T10:59:00.922944",
+            "webstore_last_updated": null,
+            "id": "7a128ea1-a4e4-4498-8ced-c8409b3c0659",
+            "size": "43193",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Locaties (JSON)",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "http://www.amsterdamopendata.nl/files/ivv/parkeren/locaties.json",
+            "created": "2014-10-22T17:00:33.365760",
+            "url": "http://www.amsterdamopendata.nl/files/ivv/parkeren/locaties.json",
+            "webstore_url": null,
+            "last_modified": "2014-12-29T11:13:59",
+            "position": 0,
+            "revision_id": "ee810e03-6faf-4e70-ac23-1ee7a9f0790e",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "db1b70ba-90db-4177-8330-315cf4893e7c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-13T18:58:54.543553",
+            "webstore_last_updated": null,
+            "id": "b263edb0-1fdf-417e-ad6e-757871759336",
+            "size": "42477",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "P R Routes (JSON)",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "http://www.amsterdamopendata.nl/files/ivv/parkeren/p_r_routes.json",
+            "created": "2014-10-22T17:00:33.365789",
+            "url": "http://www.amsterdamopendata.nl/files/ivv/parkeren/p_r_routes.json",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "27762160-43bc-4cc3-a20b-bbf43502448d",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "PR",
+            "name": "PR",
+            "revision_timestamp": "2013-05-16T10:26:50.136655",
+            "state": "active",
+            "id": "91d7433c-c675-4f69-a119-9becdf80bf43"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "and",
+            "name": "and",
+            "revision_timestamp": "2013-05-16T10:26:50.136655",
+            "state": "active",
+            "id": "e1d3c432-21ed-4e76-82b6-cdfcb32c4198"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "en",
+            "name": "en",
+            "revision_timestamp": "2013-05-16T10:26:50.136655",
+            "state": "active",
+            "id": "5641233a-b92a-4cbf-ad12-4fa2b8736d0c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "ov",
+            "name": "ov",
+            "revision_timestamp": "2013-05-16T10:26:50.136655",
+            "state": "active",
+            "id": "eeed27ec-bcdc-48e0-8a8e-33069fdc6f80"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "park",
+            "name": "park",
+            "revision_timestamp": "2013-05-16T10:26:50.136655",
+            "state": "active",
+            "id": "f259a653-bdae-4d3f-a4f8-6deeb1b78edd"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "parkeren",
+            "name": "parkeren",
+            "revision_timestamp": "2013-05-16T10:26:50.136655",
+            "state": "active",
+            "id": "d26079eb-6ae8-45d4-a518-9ff38f2dd225"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "reizen",
+            "name": "reizen",
+            "revision_timestamp": "2013-05-16T10:26:50.136655",
+            "state": "active",
+            "id": "308bdb66-6872-412b-ad0b-f3297c1eb6a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "ride",
+            "name": "ride",
+            "revision_timestamp": "2013-05-16T10:26:50.136655",
+            "state": "active",
+            "id": "f309d2f3-43e8-407b-8bf2-0237863c910c"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Verkeer & Infrastructuur",
+            "description": "",
+            "name": "verkeer-infrastructuur",
+            "id": "12502584-9d7d-4bdc-bf5f-df2b0d85f4f6"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 8,
+    "name": "p-en-r-terreinen",
+    "isopen": false,
+    "url": null,
+    "notes": "P R staat voor Parkeren en Reizen en is de slimste parkeerplek voor bezoekers van Amsterdam. Het zijn goedkope parkeerplekken aan de rand van de stad waar je makkelijk kunt overstappen op het openbaar vervoer.\n\nIn onderstaand JSON-bestand   (Locaties.json) zijn deze opgenomen als parkeerlocaties met type \"P R\"\n\nDaarnaast zijn ook P R-routes weergegeven in onderstaande bestand 'p_r_routes.json'.\n\nDit betreft lijnstukgegevens voor de opbouw van een routeinformatiekaart verbonden aan P R locaties. Deze dataset is niet uitputtend in verbindingsmogelijkheden maar bevat een selectie van het OV-netwerk om vanuit P R locaties het stadscentrum te bereiken. Alle lijnstukken samen vormen het netwerk. Per lijnstuk is in de geojson met het veld \"Vervoerstype\" (tram, metro, bus,trein) en \"title\" (GVB-lijnnummer, of in geval van trein een facultatieve traject-omschrijving) aangegeven welke van de (voor weergave geselecteerde) OV-lijnen dit lijnstuk benutten als onderdeel van hun route. Het veld \"P_R\" verwijst naar de naam van een of meer van de P R-locaties, zoals te vinden in bestand locaties.json, die via deze route verbonden zijn. \n\nN.B. 1: Deze dataset is opgezet voor het op kaart schematisch weergeven van gemeentelijke P R informatie en is geen weergave van het daadwerkelijke volledige OV-netwerk in Amsterdam. informatie is georienteerd op het weergeven van selectieve informatie en teksten, leent zich niet voor OV-planning, en bevat deels niet-gecodeerde data maar velden met publieksteksten.\n\nN.B. 2: Het Vervoerstype-veld bevat eenmalig een afwijkend type \"Centrumzone\" dat de polygoondata bevat van het P R Centrumgebied. N.B. Deze dataset is opgezet voor het op kaart schematisch weergeven van gemeentelijke P R-informatie en is geen weergave van het daadwerkelijke volledige OV-netwerk in Amsterdam.",
+    "title": "P en R terreinen",
+    "extras": [
+        {
+            "value": "info@ivv.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "686092dd-5246-4896-bf65-3c56b81a13d3",
+                "revision_id": "60cad187-ed7b-4600-88e0-2cf50bf33dc7"
+            }
+        },
+        {
+            "value": "Dienst IVV",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "60cad187-ed7b-4600-88e0-2cf50bf33dc7",
+                "package_id": "686092dd-5246-4896-bf65-3c56b81a13d3"
+            }
+        },
+        {
+            "value": "29/12/2014",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "ee810e03-6faf-4e70-ac23-1ee7a9f0790e",
+                "package_id": "686092dd-5246-4896-bf65-3c56b81a13d3"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "60cad187-ed7b-4600-88e0-2cf50bf33dc7",
+                "package_id": "686092dd-5246-4896-bf65-3c56b81a13d3"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "686092dd-5246-4896-bf65-3c56b81a13d3",
+                "revision_id": "60cad187-ed7b-4600-88e0-2cf50bf33dc7"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "686092dd-5246-4896-bf65-3c56b81a13d3",
+                "revision_id": "60cad187-ed7b-4600-88e0-2cf50bf33dc7"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "60cad187-ed7b-4600-88e0-2cf50bf33dc7",
+                "package_id": "686092dd-5246-4896-bf65-3c56b81a13d3"
+            }
+        },
+        {
+            "value": "http://www.amsterdam.nl/opendatadivv",
+            "key": "website",
+            "__extras": {
+                "package_id": "686092dd-5246-4896-bf65-3c56b81a13d3",
+                "revision_id": "60cad187-ed7b-4600-88e0-2cf50bf33dc7"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "27762160-43bc-4cc3-a20b-bbf43502448d"
+}

@@ -1,0 +1,106 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-03-13T12:45:40.641958",
+    "id": "7a483eb9-9a5e-4f1c-8ca9-9af1310a817b",
+    "metadata_created": "2013-03-13T12:44:49.176749",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:52:33.465114",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "5ea1bc2d-15ba-4563-876d-68f176cbdf81",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:52:33.465114",
+            "webstore_last_updated": "2013-10-10T10:52:33.403586",
+            "id": "1f040811-cf90-49cc-81fc-9c9904a8b962",
+            "size": "121720",
+            "state": "active",
+            "hash": "274ff0d2296f31c9b4837a7efa2be35699e9e24c",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 60,
+                "recent": 6
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "provincial_and_district_hospitals.csv",
+            "created": "2013-03-13T12:45:18.253892",
+            "url": "http://africaopendata.org/storage/f/2013-03-13T13%3A25%3A18.212Z/provincial-and-district-hospitals.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:00:26.695692",
+            "position": 0,
+            "revision_id": "0443f85b-ec52-4e71-b9e3-510dce3ce13b",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "health",
+            "name": "health",
+            "revision_timestamp": "2013-03-13T12:44:49.176749",
+            "state": "active",
+            "id": "956a3c07-125e-44e4-b843-c5011fadcc7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "hospitals",
+            "name": "hospitals",
+            "revision_timestamp": "2013-03-13T12:44:49.176749",
+            "state": "active",
+            "id": "ad77d979-4e7d-4f42-ac87-c9605fd5f504"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "zimbabwe",
+            "name": "zimbabwe",
+            "revision_timestamp": "2013-03-13T12:44:49.176749",
+            "state": "active",
+            "id": "81956876-63b4-40cc-a24b-e6fb5f224ea6"
+        }
+    ],
+    "tracking_summary": {
+        "total": 269,
+        "recent": 13
+    },
+    "groups": [
+        {
+            "title": "Zimbabwe",
+            "description": "Data on the Republic of Zimbabwe",
+            "name": "zimbabwe",
+            "id": "10c4a19f-0573-4551-bcb2-0f70f68b1e14"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "provincial-hospitals-in-zimbabwe",
+    "isopen": false,
+    "url": null,
+    "notes": "A list of provincial hospitals in Zimbabwe",
+    "title": "Provincial Hospitals in Zimbabwe",
+    "extras": [
+        {
+            "value": "https://github.com/mihi-tr/dpkg-zimbabwe-hospitals",
+            "key": "datapackage",
+            "__extras": {
+                "revision_id": "a42a0ccb-cbb5-4c2c-aa6d-9e0c8b37dc9e",
+                "package_id": "7a483eb9-9a5e-4f1c-8ca9-9af1310a817b"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "a42a0ccb-cbb5-4c2c-aa6d-9e0c8b37dc9e"
+}

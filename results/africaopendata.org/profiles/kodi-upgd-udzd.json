@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:49:53.505738",
+    "id": "c433313a-73e0-432a-a33e-8a26475b000a",
+    "metadata_created": "2012-09-11T13:49:53.505738",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:08:43.662961",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "2dcbf182-f231-4ac4-ba2b-31d77f8fddcc",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:08:43.662961",
+            "webstore_last_updated": "2013-10-10T12:08:43.595432",
+            "id": "3756e1aa-8b3e-4e3d-82e3-142d2c5764ce",
+            "size": "1138",
+            "state": "active",
+            "hash": "5a63a6179d9f722d14febbb98e78cdde3de6af53",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Public Expenditures Legend - 2002/3-2008/9.csv",
+            "created": "2012-09-11T13:49:53.550118",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155238/upgd-udzd.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-13T23:25:52.951963",
+            "position": 0,
+            "revision_id": "4fd2f863-b3db-46ad-860d-349616dc76f6",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:49:53.505738",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:49:53.505738",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "public expenditures",
+            "name": "public expenditures",
+            "revision_timestamp": "2012-09-11T13:49:53.505738",
+            "state": "active",
+            "id": "45e07b9a-9b42-46d8-bff0-3623b8582dd8"
+        }
+    ],
+    "tracking_summary": {
+        "total": 71,
+        "recent": 4
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-upgd-udzd",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "This dataset explains the terms used in the Public Expenditures database",
+    "title": "Public Expenditures Legend - 2002/3-2008/9",
+    "extras": [
+        {
+            "value": "KENAO, CDF, Ministry of Local Government",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "d7ce5096-9c6b-4c2d-8a2a-b4a0784e0506",
+                "package_id": "c433313a-73e0-432a-a33e-8a26475b000a"
+            }
+        },
+        {
+            "value": "Public Finance",
+            "key": "category",
+            "__extras": {
+                "revision_id": "d7ce5096-9c6b-4c2d-8a2a-b4a0784e0506",
+                "package_id": "c433313a-73e0-432a-a33e-8a26475b000a"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "d7ce5096-9c6b-4c2d-8a2a-b4a0784e0506",
+                "package_id": "c433313a-73e0-432a-a33e-8a26475b000a"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "d7ce5096-9c6b-4c2d-8a2a-b4a0784e0506"
+}

@@ -1,0 +1,699 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:25:27.315620",
+    "id": "3a79ebd8-550d-4dbe-b7e4-eeffa9395006",
+    "metadata_created": "2014-11-04T22:25:27.315620",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:48:21.292887",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "5db86d32-0683-4dce-9726-378868174fd5",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:48:21.292887",
+            "webstore_last_updated": null,
+            "id": "d35b4590-342f-47b9-a953-47e81f84cfa8",
+            "size": "20",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "c854f94aa814afc907f79b97dd6773df271fc625",
+            "description": "Online link to the 'Pupils To Teacher Ratio In Primary School 2002' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:53:11.923316",
+            "url": "http://maps.data.ug/layers/geonode:pupils_to_teacher_ratio_in_primary_school_2002",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T16:19:25.995792",
+            "position": 0,
+            "revision_id": "42852e71-c522-477f-bce7-fbdf3d2f6578",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "5db86d32-0683-4dce-9726-378868174fd5",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:56:25.165530",
+            "webstore_last_updated": null,
+            "id": "2b25ad8c-0fc2-485d-aaf6-a9a5dab45522",
+            "size": "55374",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Pupils To Teacher Ratio In Primary School 2002 (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "pupils_to_teacher_ratio_in_primary_school_2002.png",
+            "created": "2014-03-12T14:53:11.923342",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Apupils_to_teacher_ratio_in_primary_school_2002&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:56:25.026766",
+            "position": 1,
+            "revision_id": "f10f2d6c-af33-48ed-bb84-56e8774e8a12",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "5db86d32-0683-4dce-9726-378868174fd5",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:56:34.896313",
+            "webstore_last_updated": null,
+            "id": "fe6d9101-ddfa-4d18-84f3-413b0f263fed",
+            "size": "41073",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Pupils To Teacher Ratio In Primary School 2002 (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "pupils_to_teacher_ratio_in_primary_school_2002.pdf",
+            "created": "2014-03-12T14:53:11.923346",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Apupils_to_teacher_ratio_in_primary_school_2002&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:56:34.668903",
+            "position": 2,
+            "revision_id": "09a742fc-80d5-4dd9-b95e-307322e46049",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "5db86d32-0683-4dce-9726-378868174fd5",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:56:24.207278",
+            "webstore_last_updated": null,
+            "id": "7da8a631-9751-4e09-b1cb-b23f4e0893dc",
+            "size": "32206",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Pupils To Teacher Ratio In Primary School 2002 (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "pupils_to_teacher_ratio_in_primary_school_2002.jpg",
+            "created": "2014-03-12T14:53:11.923350",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Apupils_to_teacher_ratio_in_primary_school_2002&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:56:24.067991",
+            "position": 3,
+            "revision_id": "d9df2333-32a2-41fe-96cc-5f7bcc62c06e",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "5db86d32-0683-4dce-9726-378868174fd5",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:25:27.315620",
+            "webstore_last_updated": null,
+            "id": "53a344e0-6933-45da-9983-bee0a3c629b4",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Pupils To Teacher Ratio In Primary School 2002 (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "pupils_to_teacher_ratio_in_primary_school_2002.tiles",
+            "created": "2014-03-12T14:53:11.923354",
+            "url": "http://maps.data.ug/geoserver/gwc/service/gmaps?layers=geonode:pupils_to_teacher_ratio_in_primary_school_2002&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 4,
+            "revision_id": "3e521da9-a9a1-4e21-9f02-9ec8cb80895b",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "5db86d32-0683-4dce-9726-378868174fd5",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:56:26.208341",
+            "webstore_last_updated": null,
+            "id": "ee3659eb-41c5-4ba9-9894-6f600233189f",
+            "size": "1935",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Pupils To Teacher Ratio In Primary School 2002 (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "pupils_to_teacher_ratio_in_primary_school_2002.kml",
+            "created": "2014-03-12T14:53:11.923357",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Apupils_to_teacher_ratio_in_primary_school_2002&mode=refresh",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:56:26.075296",
+            "position": 5,
+            "revision_id": "5b68262c-eae0-4851-8996-5d9d104db764",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "5db86d32-0683-4dce-9726-378868174fd5",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:56:27.147353",
+            "webstore_last_updated": null,
+            "id": "e374e7cc-d9b5-4cf6-84c2-271ee26cc187",
+            "size": "574376",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Pupils To Teacher Ratio In Primary School 2002 (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "pupils_to_teacher_ratio_in_primary_school_2002.kml",
+            "created": "2014-03-12T14:53:11.923361",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Apupils_to_teacher_ratio_in_primary_school_2002&mode=download",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:56:26.924008",
+            "position": 6,
+            "revision_id": "6026f86f-3924-4222-9f7a-5e140778dccb",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "5db86d32-0683-4dce-9726-378868174fd5",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:56:28.122617",
+            "webstore_last_updated": null,
+            "id": "1101d0cf-14b6-492e-884a-e6066c87310d",
+            "size": "371656",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Pupils To Teacher Ratio In Primary School 2002 (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "pupils_to_teacher_ratio_in_primary_school_2002.json",
+            "created": "2014-03-12T14:53:11.923364",
+            "url": "http://maps.data.ug/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Apupils_to_teacher_ratio_in_primary_school_2002&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:56:27.983944",
+            "position": 7,
+            "revision_id": "ca1d0a80-8b35-4bea-878f-b6e796aca3d0",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "5db86d32-0683-4dce-9726-378868174fd5",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:56:34.195999",
+            "webstore_last_updated": null,
+            "id": "fec7c01e-825d-4aee-854e-a6f55a017097",
+            "size": "356864",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Pupils To Teacher Ratio In Primary School 2002 (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "pupils_to_teacher_ratio_in_primary_school_2002.excel",
+            "created": "2014-03-12T14:53:11.923368",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Apupils_to_teacher_ratio_in_primary_school_2002&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:56:34.058370",
+            "position": 8,
+            "revision_id": "dc8879ed-2f33-43aa-9f96-fd5a958a93f5",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "5db86d32-0683-4dce-9726-378868174fd5",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:48:21.292887",
+            "webstore_last_updated": "2014-11-04T22:56:33.415850",
+            "id": "9a7d62a5-a2b4-41b2-9f84-135071ca5a33",
+            "size": "349241",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Pupils To Teacher Ratio In Primary School 2002 (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "pupils_to_teacher_ratio_in_primary_school_2002.csv",
+            "created": "2014-03-12T14:53:11.923371",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Apupils_to_teacher_ratio_in_primary_school_2002&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": "active",
+            "last_modified": "2014-11-04T22:56:32.135515",
+            "position": 9,
+            "revision_id": "42852e71-c522-477f-bce7-fbdf3d2f6578",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "5db86d32-0683-4dce-9726-378868174fd5",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:48:21.292887",
+            "webstore_last_updated": null,
+            "id": "9c84556c-0e36-42c9-800f-ff8de16f4c1c",
+            "size": "514",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Pupils To Teacher Ratio In Primary School 2002 (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "pupils_to_teacher_ratio_in_primary_school_2002.gml",
+            "created": "2014-03-12T14:53:11.923375",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Apupils_to_teacher_ratio_in_primary_school_2002&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:56:29.820693",
+            "position": 10,
+            "revision_id": "42852e71-c522-477f-bce7-fbdf3d2f6578",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "5db86d32-0683-4dce-9726-378868174fd5",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:56:29.006126",
+            "webstore_last_updated": null,
+            "id": "709bd6c2-d0a2-4d6a-8d6b-9f27e71d9d93",
+            "size": "269847",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Pupils To Teacher Ratio In Primary School 2002 (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "pupils_to_teacher_ratio_in_primary_school_2002.gml",
+            "created": "2014-03-12T14:53:11.923378",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Apupils_to_teacher_ratio_in_primary_school_2002&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:56:28.873814",
+            "position": 11,
+            "revision_id": "9eca1ff8-2b9c-482f-a905-c28b2d3dbab9",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "5db86d32-0683-4dce-9726-378868174fd5",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:48:21.292887",
+            "webstore_last_updated": null,
+            "id": "9dc148f1-d87a-44ac-94b5-2d92b49bcd80",
+            "size": "119462",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Pupils To Teacher Ratio In Primary School 2002 (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "pupils_to_teacher_ratio_in_primary_school_2002.zip",
+            "created": "2014-03-12T14:53:11.923381",
+            "url": "http://maps.data.ug/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Apupils_to_teacher_ratio_in_primary_school_2002&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:56:30.796955",
+            "position": 12,
+            "revision_id": "42852e71-c522-477f-bce7-fbdf3d2f6578",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:25:27.315620",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:25:27.315620",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "children",
+            "name": "children",
+            "revision_timestamp": "2014-11-04T22:25:27.315620",
+            "state": "active",
+            "id": "eb94209b-4c51-4b2f-acb4-1d10d89d9568"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:25:27.315620",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:25:27.315620",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:25:27.315620",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:25:27.315620",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "review",
+            "name": "review",
+            "revision_timestamp": "2014-11-04T22:25:27.315620",
+            "state": "active",
+            "id": "de7b1f8f-d249-40b9-955e-f0af31354055"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "school",
+            "name": "school",
+            "revision_timestamp": "2014-11-04T22:25:27.315620",
+            "state": "active",
+            "id": "fd63e38b-2c1e-4d80-ac0f-9c1b26a606a6"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:25:27.315620",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 6,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 10,
+    "name": "pupils-to-teacher-ratio-in-primary-school-2002",
+    "isopen": false,
+    "url": null,
+    "notes": "Pupils To Teacher Ratio In Primary School 2002",
+    "title": "Pupils To Teacher Ratio In Primary School 2002",
+    "extras": [
+        {
+            "value": "[]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "3e521da9-a9a1-4e21-9f02-9ec8cb80895b",
+                "package_id": "3a79ebd8-550d-4dbe-b7e4-eeffa9395006"
+            }
+        },
+        {
+            "value": "35.0017411394",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "3e521da9-a9a1-4e21-9f02-9ec8cb80895b",
+                "package_id": "3a79ebd8-550d-4dbe-b7e4-eeffa9395006"
+            }
+        },
+        {
+            "value": "4.2310114174",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "3a79ebd8-550d-4dbe-b7e4-eeffa9395006",
+                "revision_id": "3e521da9-a9a1-4e21-9f02-9ec8cb80895b"
+            }
+        },
+        {
+            "value": "-1.4817440179",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "3e521da9-a9a1-4e21-9f02-9ec8cb80895b",
+                "package_id": "3a79ebd8-550d-4dbe-b7e4-eeffa9395006"
+            }
+        },
+        {
+            "value": "29.5741674481",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "3e521da9-a9a1-4e21-9f02-9ec8cb80895b",
+                "package_id": "3a79ebd8-550d-4dbe-b7e4-eeffa9395006"
+            }
+        },
+        {
+            "value": "",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "3a79ebd8-550d-4dbe-b7e4-eeffa9395006",
+                "revision_id": "3e521da9-a9a1-4e21-9f02-9ec8cb80895b"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "3a79ebd8-550d-4dbe-b7e4-eeffa9395006",
+                "revision_id": "3e521da9-a9a1-4e21-9f02-9ec8cb80895b"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-02-20T04:01:19Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "3a79ebd8-550d-4dbe-b7e4-eeffa9395006",
+                "revision_id": "3e521da9-a9a1-4e21-9f02-9ec8cb80895b"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "3a79ebd8-550d-4dbe-b7e4-eeffa9395006",
+                "revision_id": "3e521da9-a9a1-4e21-9f02-9ec8cb80895b"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Pupils To Teacher Ratio In Primary School 2002'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "3a79ebd8-550d-4dbe-b7e4-eeffa9395006",
+                "revision_id": "3e521da9-a9a1-4e21-9f02-9ec8cb80895b"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "3a79ebd8-550d-4dbe-b7e4-eeffa9395006",
+                "revision_id": "3e521da9-a9a1-4e21-9f02-9ec8cb80895b"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "3e521da9-a9a1-4e21-9f02-9ec8cb80895b",
+                "package_id": "3a79ebd8-550d-4dbe-b7e4-eeffa9395006"
+            }
+        },
+        {
+            "value": "f2292372-9a15-11e3-8923-11b11f8ea6d0",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "3e521da9-a9a1-4e21-9f02-9ec8cb80895b",
+                "package_id": "3a79ebd8-550d-4dbe-b7e4-eeffa9395006"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "3e521da9-a9a1-4e21-9f02-9ec8cb80895b",
+                "package_id": "3a79ebd8-550d-4dbe-b7e4-eeffa9395006"
+            }
+        },
+        {
+            "value": "2014-02-20T04:01:19Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "3a79ebd8-550d-4dbe-b7e4-eeffa9395006",
+                "revision_id": "3e521da9-a9a1-4e21-9f02-9ec8cb80895b"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "3e521da9-a9a1-4e21-9f02-9ec8cb80895b",
+                "package_id": "3a79ebd8-550d-4dbe-b7e4-eeffa9395006"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "3a79ebd8-550d-4dbe-b7e4-eeffa9395006",
+                "revision_id": "3e521da9-a9a1-4e21-9f02-9ec8cb80895b"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "3a79ebd8-550d-4dbe-b7e4-eeffa9395006",
+                "revision_id": "3e521da9-a9a1-4e21-9f02-9ec8cb80895b"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "3a79ebd8-550d-4dbe-b7e4-eeffa9395006",
+                "revision_id": "3e521da9-a9a1-4e21-9f02-9ec8cb80895b"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.5741674481, -1.4817440179], [35.0017411394, -1.4817440179], [35.0017411394, 4.2310114174], [29.5741674481, 4.2310114174], [29.5741674481, -1.4817440179]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "3e521da9-a9a1-4e21-9f02-9ec8cb80895b",
+                "package_id": "3a79ebd8-550d-4dbe-b7e4-eeffa9395006"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "3a79ebd8-550d-4dbe-b7e4-eeffa9395006",
+                "revision_id": "3e521da9-a9a1-4e21-9f02-9ec8cb80895b"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "3e521da9-a9a1-4e21-9f02-9ec8cb80895b",
+                "package_id": "3a79ebd8-550d-4dbe-b7e4-eeffa9395006"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "3e521da9-a9a1-4e21-9f02-9ec8cb80895b",
+                "package_id": "3a79ebd8-550d-4dbe-b7e4-eeffa9395006"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "3e521da9-a9a1-4e21-9f02-9ec8cb80895b"
+}

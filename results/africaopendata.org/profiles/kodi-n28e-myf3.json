@@ -1,0 +1,114 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Laban",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:46:33.379274",
+    "id": "bc38ae3a-53ce-49d2-886d-beb64afb2240",
+    "metadata_created": "2012-09-11T13:46:33.379274",
+    "owner_org": null,
+    "metadata_modified": "2013-03-13T23:21:59.756761",
+    "author": "Laban",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "d769784f-e4e0-43e5-96e6-a802cd6c9a20",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-13T23:21:59.756761",
+            "webstore_last_updated": null,
+            "id": "aef74369-5552-4165-8c9f-c62f04c4a15b",
+            "size": "107811307",
+            "state": "active",
+            "hash": "",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Public Expenditure 2002-2010.csv",
+            "created": "2012-09-11T13:46:33.427583",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T154852/n28e-myf3.csv",
+            "webstore_url": null,
+            "last_modified": "2013-03-13T23:21:58.620945",
+            "position": 0,
+            "revision_id": "3c0a529e-9953-4b2d-9732-ef1ed7fdd2fc",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:46:33.379274",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:46:33.379274",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "puplic finance",
+            "name": "puplic finance",
+            "revision_timestamp": "2012-09-11T13:46:33.379274",
+            "state": "active",
+            "id": "a85970a7-2c55-41ce-a709-7d5068f7c89f"
+        }
+    ],
+    "tracking_summary": {
+        "total": 66,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-n28e-myf3",
+    "isopen": true,
+    "url": null,
+    "notes": "Public Expenditure Audited Accounts 2002/3-2009/2010 and Budget 2010/11",
+    "title": "Public Expenditure 2002-2010",
+    "extras": [
+        {
+            "value": "Public Finance",
+            "key": "category",
+            "__extras": {
+                "revision_id": "2ce16004-cc2f-476c-9b35-c47137689698",
+                "package_id": "bc38ae3a-53ce-49d2-886d-beb64afb2240"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "2ce16004-cc2f-476c-9b35-c47137689698",
+                "package_id": "bc38ae3a-53ce-49d2-886d-beb64afb2240"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "2ce16004-cc2f-476c-9b35-c47137689698"
+}

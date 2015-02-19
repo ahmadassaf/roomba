@@ -1,0 +1,100 @@
+{
+    "license_title": "Open Data Commons Attribution License 1.0",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-11-05T09:29:18.523747",
+    "id": "9d0fe2b0-0e93-4f22-aedf-f121d8b28917",
+    "metadata_created": "2012-11-05T09:27:38.360674",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:57:13.484105",
+    "author": "Uganda Bureau of Statistics",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "ODC-BY-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "57f8d995-c675-4d81-9bc0-00b9db6b6e41",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:57:13.484105",
+            "webstore_last_updated": "2013-10-10T10:57:13.421822",
+            "id": "41bb8b5f-a762-4f0a-a453-df01ef650aa2",
+            "size": "546428",
+            "state": "active",
+            "hash": "a1eac7a6a8e523e773134e2f093c4122cc8e41a7",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "UgandaNationalAccounts2011.csv",
+            "created": "2012-11-05T09:28:57.866122",
+            "url": "http://africaopendata.org/storage/f/2012-11-05T09%3A27%3A44.312Z/ugandanationalaccounts2011.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:11:54.419944",
+            "position": 0,
+            "revision_id": "f1e28a14-9cd4-48c8-80c9-dd0a1f18c6fa",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Statistics",
+            "name": "Statistics",
+            "revision_timestamp": "2012-11-05T09:27:38.360674",
+            "state": "active",
+            "id": "1f3abedf-7be2-4208-8bcb-9b689ebd3e73"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2012-11-05T09:27:38.360674",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        }
+    ],
+    "tracking_summary": {
+        "total": 74,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "uganda-national-accounts-2011",
+    "isopen": true,
+    "url": null,
+    "notes": "National Accounts data for Uganda",
+    "title": "Uganda National Accounts 2011",
+    "extras": [],
+    "license_url": "http://www.opendefinition.org/licenses/odc-by",
+    "organization": null,
+    "revision_id": "db3b7f40-62d5-4d04-97a7-cd7685c7759e",
+    "license_information": {
+        "domain_content": false,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Open Data Commons",
+        "status": "active"
+    }
+}

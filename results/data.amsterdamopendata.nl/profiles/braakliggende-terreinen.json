@@ -1,0 +1,179 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2013-05-15T13:03:37.183243",
+    "id": "477ffea2-58a8-4a4e-8ad6-1bffb9895196",
+    "metadata_created": "2013-05-15T13:03:37.183243",
+    "owner_org": null,
+    "metadata_modified": "2013-05-15T13:03:37.183243",
+    "author": "Ruimtelijke Ordening (DRO)",
+    "author_email": "info@dro.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "0094a4b1-2ee2-4f86-95ff-a71a7d55fea2",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-05-15T13:03:37.183243",
+            "webstore_last_updated": null,
+            "id": "d3be7bcc-9ace-47c1-b88d-935cf54a63b1",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Instructie voor download",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://maps.amsterdam.nl/open_geodata/",
+            "created": "2013-05-15T15:03:37.223121",
+            "url": "http://maps.amsterdam.nl/open_geodata/",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "e087f4ae-5ad5-40bf-8bc3-4c4aef46be76",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "bouwrijp",
+            "name": "bouwrijp",
+            "revision_timestamp": "2013-05-15T13:03:37.183243",
+            "state": "active",
+            "id": "c541e5e6-1eec-4bf2-bc8c-20a6e4c1e281"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "braakliggend",
+            "name": "braakliggend",
+            "revision_timestamp": "2013-05-15T13:03:37.183243",
+            "state": "active",
+            "id": "6b72532f-f361-4b48-b700-5e4a34e55e56"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "ordening\n",
+            "name": "ordening\n",
+            "revision_timestamp": "2013-05-15T13:03:37.183243",
+            "state": "active",
+            "id": "9cf12d4a-b681-4778-8b74-a3618184200b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "ruimtelijke",
+            "name": "ruimtelijke",
+            "revision_timestamp": "2013-05-15T13:03:37.183243",
+            "state": "active",
+            "id": "b5daf57f-08ab-4369-8e51-753d92967310"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "terreinen",
+            "name": "terreinen",
+            "revision_timestamp": "2013-05-15T13:03:37.183243",
+            "state": "active",
+            "id": "a58cffee-a07b-4ee2-b872-60f062b063d4"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Openbare ruimte & groen",
+            "description": "",
+            "name": "openbare-ruimte-groen",
+            "id": "5ef8ea8a-6f09-4d17-9e16-bb57bba25272"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "braakliggende-terreinen",
+    "isopen": false,
+    "url": null,
+    "notes": "Door de economische crisis zullen veel (soms al bouwrijpe) terreinen de komende jaren niet worden bebouwd. Het tijdelijk gebruik van deze braakliggende terreinen door initiatieven uit de samenleving wordt steeds meer onderwerp van maatschappelijke en bestuurlijke aandacht. Deze kaartviewer geeft de locatie van en nadere informatie over braakliggende terreinen in Amsterdam en Zaanstad. Planeigenaren (stadsdelen, projectbureau's, gemeente Zaanstad) hebben gegevens aangeleverd over de toestand van het terrein, de beschikbaarheid voor tijdelijke invulling en de contactpersoon waarmee initiatiefnemers contact kunnen opnemen. Ook is aangegeven of er al een (tijdelijke) invulling plaatsvindt of op korte termijn gepland is.\n",
+    "title": "Braakliggende terreinen",
+    "extras": [
+        {
+            "value": "info@dro.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "477ffea2-58a8-4a4e-8ad6-1bffb9895196",
+                "revision_id": "e087f4ae-5ad5-40bf-8bc3-4c4aef46be76"
+            }
+        },
+        {
+            "value": "Ruimtelijke Ordening (DRO)",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "e087f4ae-5ad5-40bf-8bc3-4c4aef46be76",
+                "package_id": "477ffea2-58a8-4a4e-8ad6-1bffb9895196"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "e087f4ae-5ad5-40bf-8bc3-4c4aef46be76",
+                "package_id": "477ffea2-58a8-4a4e-8ad6-1bffb9895196"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "e087f4ae-5ad5-40bf-8bc3-4c4aef46be76",
+                "package_id": "477ffea2-58a8-4a4e-8ad6-1bffb9895196"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "477ffea2-58a8-4a4e-8ad6-1bffb9895196",
+                "revision_id": "e087f4ae-5ad5-40bf-8bc3-4c4aef46be76"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "477ffea2-58a8-4a4e-8ad6-1bffb9895196",
+                "revision_id": "e087f4ae-5ad5-40bf-8bc3-4c4aef46be76"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "e087f4ae-5ad5-40bf-8bc3-4c4aef46be76",
+                "package_id": "477ffea2-58a8-4a4e-8ad6-1bffb9895196"
+            }
+        },
+        {
+            "value": "http://maps.amsterdam.nl",
+            "key": "website",
+            "__extras": {
+                "package_id": "477ffea2-58a8-4a4e-8ad6-1bffb9895196",
+                "revision_id": "e087f4ae-5ad5-40bf-8bc3-4c4aef46be76"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "e087f4ae-5ad5-40bf-8bc3-4c4aef46be76"
+}

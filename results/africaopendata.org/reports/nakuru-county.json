@@ -1,0 +1,94 @@
+{
+    "missing": [
+        "group",
+        "organization"
+    ],
+    "undefined": [
+        "url",
+        "notes",
+        "owner_org",
+        "version"
+    ],
+    "unreachableURLs": [],
+    "report": [
+        "url field exists but there is no value defined",
+        "notes field exists but there is no value defined",
+        "group information is missing. Check organization information as they can be mixed sometimes",
+        "owner_org field exists but there is no value defined",
+        "organization information is missing",
+        "version field exists but there is no value defined"
+    ],
+    "tag": {
+        "General Information": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        },
+        "Health and Education Outcomes": {
+            "missing": [],
+            "undefined": [
+                "vocabulary_id"
+            ],
+            "unreachableURLs": [],
+            "report": [
+                "vocabulary_id field exists but there is no value defined"
+            ]
+        }
+    },
+    "license": {
+        "license": {
+            "missing": [
+                "license_url"
+            ],
+            "undefined": [],
+            "unreachableURLs": [],
+            "report": [
+                "license_url field is missing",
+                "We could not normalize the license information as no valid mapping was found !"
+            ]
+        }
+    },
+    "resource": {
+        "23 january 2012": {
+            "missing": [
+                "url-type"
+            ],
+            "undefined": [
+                "cache_last_updated",
+                "webstore_last_updated",
+                "description",
+                "mimetype_inner",
+                "cache_url",
+                "webstore_url"
+            ],
+            "unreachableURLs": [
+                "https://opendata.go.ke/facet/counties/Nakuru"
+            ],
+            "report": [
+                "cache_last_updated field exists but there is no value defined",
+                "webstore_last_updated field exists but there is no value defined",
+                "description field exists but there is no value defined",
+                "mimetype_inner field exists but there is no value defined",
+                "url-type field is missing",
+                "cache_url field exists but there is no value defined",
+                "webstore_url field exists but there is no value defined",
+                "The url for this resource is not reachable !",
+                "mimetype value defined where the resource is not reachable",
+                "size value defined where the resource is not reachable"
+            ],
+            "unreachableTypes": {
+                "file": "https://opendata.go.ke/facet/counties/Nakuru"
+            }
+        }
+    },
+    "counter": {
+        "group": 0,
+        "tag": 2,
+        "resource": 1
+    }
+}

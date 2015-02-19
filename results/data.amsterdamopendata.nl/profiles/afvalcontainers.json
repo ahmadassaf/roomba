@@ -1,0 +1,211 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2014-10-23T12:36:59.756303",
+    "id": "28e0a0ae-360c-48b2-9d22-c4ac0789b59e",
+    "metadata_created": "2014-10-23T12:36:59.756303",
+    "owner_org": null,
+    "metadata_modified": "2014-10-23T12:36:59.756303",
+    "author": "AEB Amsterdam",
+    "author_email": "info@aebamsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "0db0d5d9-5d22-4073-8b99-bdfe005537c2",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-10-23T12:36:59.756303",
+            "webstore_last_updated": null,
+            "id": "6722ab7c-e677-4839-8541-338e5912bbe9",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Downloaden via Open Datakaart",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://www.opendatakaart.nl/catalogus/datasets/datasets_dataset/t/afvalcontainers_stadsdelen",
+            "created": "2014-10-23T14:36:59.872928",
+            "url": "http://www.opendatakaart.nl/catalogus/datasets/datasets_dataset/t/afvalcontainers_stadsdelen",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "bb914671-9220-4513-bc3e-4e907da14865",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Afval",
+            "name": "Afval",
+            "revision_timestamp": "2014-10-23T12:36:59.756303",
+            "state": "active",
+            "id": "cc2bae13-1534-4663-9808-546bf8ec30bc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "afvalcontainers",
+            "name": "afvalcontainers",
+            "revision_timestamp": "2014-10-23T12:36:59.756303",
+            "state": "active",
+            "id": "6cecb3b4-979d-49b0-8b02-a48744331329"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "containers",
+            "name": "containers",
+            "revision_timestamp": "2014-10-23T12:36:59.756303",
+            "state": "active",
+            "id": "ce085375-6163-44b9-8ee7-6c1cbe3ab14c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "glas",
+            "name": "glas",
+            "revision_timestamp": "2014-10-23T12:36:59.756303",
+            "state": "active",
+            "id": "6a2cb61a-9059-4c72-9bc6-6265ca7a76f2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "glasbak",
+            "name": "glasbak",
+            "revision_timestamp": "2014-10-23T12:36:59.756303",
+            "state": "active",
+            "id": "37880d3b-31fc-4732-8d31-2e54a03dab81"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "oud",
+            "name": "oud",
+            "revision_timestamp": "2014-10-23T12:36:59.756303",
+            "state": "active",
+            "id": "7168748c-0fc3-4d00-8a6f-81c675bc1ccc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "papier",
+            "name": "papier",
+            "revision_timestamp": "2014-10-23T12:36:59.756303",
+            "state": "active",
+            "id": "af30a103-e3f6-4166-b0c9-e8fc38718dc9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "plastic",
+            "name": "plastic",
+            "revision_timestamp": "2014-10-23T12:36:59.756303",
+            "state": "active",
+            "id": "cf8aa51a-ce11-4923-bd89-5823c48082e7"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "textiel",
+            "name": "textiel",
+            "revision_timestamp": "2014-10-23T12:36:59.756303",
+            "state": "active",
+            "id": "fddb4f06-169b-4111-a232-b75e887986b1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Wonen & leefomgeving",
+            "description": "",
+            "name": "wonen-leefomgeving",
+            "id": "d29db8ae-9fe4-40f4-ad32-8d77b74dd95d"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 9,
+    "name": "afvalcontainers",
+    "isopen": false,
+    "url": null,
+    "notes": "Verzameling van alle recyclecontainers (Papier, Glas, Textiel en Plastic) in alle stadsdelen, aangevuld met restafvalcontainers voor enkele stadsdelen. \n\nEenmalige verzameling voor Afvalenergiebedrijf Amsterdam (okt. 2014), voor structurele verzameling en publicatie wordt nog naar definitieve oplossing gezocht.",
+    "title": "Afvalcontainers",
+    "extras": [
+        {
+            "value": "info@aebamsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "28e0a0ae-360c-48b2-9d22-c4ac0789b59e",
+                "revision_id": "bb914671-9220-4513-bc3e-4e907da14865"
+            }
+        },
+        {
+            "value": "AEB Amsterdam",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "bb914671-9220-4513-bc3e-4e907da14865",
+                "package_id": "28e0a0ae-360c-48b2-9d22-c4ac0789b59e"
+            }
+        },
+        {
+            "value": "01/10/2014",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "bb914671-9220-4513-bc3e-4e907da14865",
+                "package_id": "28e0a0ae-360c-48b2-9d22-c4ac0789b59e"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "bb914671-9220-4513-bc3e-4e907da14865",
+                "package_id": "28e0a0ae-360c-48b2-9d22-c4ac0789b59e"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "28e0a0ae-360c-48b2-9d22-c4ac0789b59e",
+                "revision_id": "bb914671-9220-4513-bc3e-4e907da14865"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "28e0a0ae-360c-48b2-9d22-c4ac0789b59e",
+                "revision_id": "bb914671-9220-4513-bc3e-4e907da14865"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "bb914671-9220-4513-bc3e-4e907da14865",
+                "package_id": "28e0a0ae-360c-48b2-9d22-c4ac0789b59e"
+            }
+        },
+        {
+            "value": "http://www.aebamsterdam.nl/",
+            "key": "website",
+            "__extras": {
+                "package_id": "28e0a0ae-360c-48b2-9d22-c4ac0789b59e",
+                "revision_id": "bb914671-9220-4513-bc3e-4e907da14865"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "bb914671-9220-4513-bc3e-4e907da14865"
+}

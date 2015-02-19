@@ -1,0 +1,146 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Kenya Open Data Bot",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T12:00:28.762123",
+    "id": "81aa1be9-c66b-4e95-9e6c-37d57717ed4e",
+    "metadata_created": "2012-09-10T12:00:28.762123",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:16:18.365890",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "1cb1d9bf-6bc9-40f5-b2ee-6b9ff6091682",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:16:18.365890",
+            "webstore_last_updated": "2013-10-10T12:16:18.292221",
+            "id": "34e004ee-122a-4165-b839-b1e2bc9a0284",
+            "size": "181",
+            "state": "active",
+            "hash": "fcacf7d82abc2ea6f52ed4f7e3a2da976316e22d",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Local Authority Expenditures by Year: West Pokot.csv",
+            "created": "2012-09-11T13:32:12.530556",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T153457/xnh2-vjp5.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:02:27.528837",
+            "position": 0,
+            "revision_id": "b0765b7e-626d-4d15-8ca4-28754b565338",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "cdf",
+            "name": "cdf",
+            "revision_timestamp": "2012-09-10T12:00:28.762123",
+            "state": "active",
+            "id": "e4f787d6-ec60-483a-b3b3-f941cf48c3b4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "county",
+            "name": "county",
+            "revision_timestamp": "2012-09-10T12:00:28.762123",
+            "state": "active",
+            "id": "858f3acf-2c66-4fd9-9dc2-32e4f12121a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "expenditures",
+            "name": "expenditures",
+            "revision_timestamp": "2012-09-10T12:00:28.762123",
+            "state": "active",
+            "id": "44c63fed-5be4-49aa-b2a5-1e7baf93d961"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T12:00:28.762123",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T12:00:28.762123",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "local authorities",
+            "name": "local authorities",
+            "revision_timestamp": "2012-09-10T12:00:28.762123",
+            "state": "active",
+            "id": "ece507fe-ec49-44f8-848e-39df75ac1866"
+        }
+    ],
+    "tracking_summary": {
+        "total": 59,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "kodi-xnh2-vjp5",
+    "isopen": true,
+    "url": null,
+    "notes": "Local Authority and Constituency Development Fund Expenditures, County estimates, Kenya Shillings",
+    "title": "Local Authority Expenditures by Year: West Pokot",
+    "extras": [
+        {
+            "value": "Ministry of Local Government",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "85232d4b-ee93-40f0-b1fe-00d611e7f36d",
+                "package_id": "81aa1be9-c66b-4e95-9e6c-37d57717ed4e"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "85232d4b-ee93-40f0-b1fe-00d611e7f36d",
+                "package_id": "81aa1be9-c66b-4e95-9e6c-37d57717ed4e"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "85232d4b-ee93-40f0-b1fe-00d611e7f36d",
+                "package_id": "81aa1be9-c66b-4e95-9e6c-37d57717ed4e"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "85232d4b-ee93-40f0-b1fe-00d611e7f36d"
+}

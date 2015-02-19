@@ -1,0 +1,138 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Kenya Open Data Bot",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T12:01:50.971061",
+    "id": "88c67415-2ac3-42da-8f21-32f705bb3025",
+    "metadata_created": "2012-09-10T12:01:50.971061",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:16:04.270733",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "f1ac1f48-40c6-4fb2-aa92-65ea47429c0b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:16:04.270733",
+            "webstore_last_updated": "2013-10-10T12:16:04.198077",
+            "id": "c8ab0e0e-3f9d-4281-b092-ac36a482b745",
+            "size": "166",
+            "state": "active",
+            "hash": "2867ad1f3ca848c4dadc2bc5f371574d7cd3fbb6",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "County Urbanization: Migori.csv",
+            "created": "2012-09-11T13:33:35.138643",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T153620/pgpq-fbmj.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-10-10T12:16:03.724145",
+            "position": 0,
+            "revision_id": "dcd18f83-c7eb-4077-aeaf-35dd41f9fa8e",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "county",
+            "name": "county",
+            "revision_timestamp": "2012-09-10T12:01:50.971061",
+            "state": "active",
+            "id": "858f3acf-2c66-4fd9-9dc2-32e4f12121a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T12:01:50.971061",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T12:01:50.971061",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population",
+            "name": "population",
+            "revision_timestamp": "2012-09-10T12:01:50.971061",
+            "state": "active",
+            "id": "c5e39de5-556e-4bcb-883b-5b9ec2481ae9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "urbanisation",
+            "name": "urbanisation",
+            "revision_timestamp": "2012-09-10T12:01:50.971061",
+            "state": "active",
+            "id": "0a352ac2-4503-4c03-8962-ef4f605e793e"
+        }
+    ],
+    "tracking_summary": {
+        "total": 53,
+        "recent": 6
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "kodi-pgpq-fbmj",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Census population by rural, urban, County estimates",
+    "title": "County Urbanization: Migori",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "094ce4aa-4f79-46ac-8268-0f326271698f",
+                "package_id": "88c67415-2ac3-42da-8f21-32f705bb3025"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "094ce4aa-4f79-46ac-8268-0f326271698f",
+                "package_id": "88c67415-2ac3-42da-8f21-32f705bb3025"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "094ce4aa-4f79-46ac-8268-0f326271698f",
+                "package_id": "88c67415-2ac3-42da-8f21-32f705bb3025"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "094ce4aa-4f79-46ac-8268-0f326271698f"
+}

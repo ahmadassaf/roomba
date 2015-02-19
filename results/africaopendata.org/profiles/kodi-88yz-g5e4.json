@@ -1,0 +1,106 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Laban",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T14:00:27.916557",
+    "id": "f141f0d8-cc0f-4a58-83c8-28c3b1307c8f",
+    "metadata_created": "2012-09-11T14:00:27.916557",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T11:57:24.000150",
+    "author": "Laban",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "adc4fc5a-1f78-4959-850b-100fa52dbd47",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T11:57:24.000150",
+            "webstore_last_updated": "2013-10-10T11:57:23.932394",
+            "id": "df96b04e-8f2f-4816-b32b-eb4a69f3c71d",
+            "size": "379",
+            "state": "active",
+            "hash": "5c13d36d89028e041b32582b693450eb20d19650",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Spending by sector 2009-10.csv",
+            "created": "2012-09-11T14:00:27.949010",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T160313/88yz-g5e4.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T10:43:16.508200",
+            "position": 0,
+            "revision_id": "e70ccf39-5865-4c64-beba-e12fd02b7fe1",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T14:00:27.916557",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T14:00:27.916557",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 46,
+        "recent": 5
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "kodi-88yz-g5e4",
+    "isopen": true,
+    "url": null,
+    "notes": null,
+    "title": "Spending by sector 2009-10",
+    "extras": [
+        {
+            "value": "Economy",
+            "key": "category",
+            "__extras": {
+                "revision_id": "04ba0006-02d4-4b95-bfbf-fc0fc9f3a006",
+                "package_id": "f141f0d8-cc0f-4a58-83c8-28c3b1307c8f"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "04ba0006-02d4-4b95-bfbf-fc0fc9f3a006",
+                "package_id": "f141f0d8-cc0f-4a58-83c8-28c3b1307c8f"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "04ba0006-02d4-4b95-bfbf-fc0fc9f3a006"
+}

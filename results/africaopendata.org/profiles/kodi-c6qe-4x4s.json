@@ -1,0 +1,106 @@
+{
+    "license_title": null,
+    "maintainer": "Laban",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T12:51:29.506687",
+    "id": "a8c12096-3763-4767-8bdd-ad51319a4584",
+    "metadata_created": "2012-09-10T12:51:29.506687",
+    "owner_org": null,
+    "metadata_modified": "2013-03-14T09:43:08.438371",
+    "author": "Laban",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "cdaf5e03-e379-450d-8300-cb8a5b013c40",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-14T09:43:08.438371",
+            "webstore_last_updated": null,
+            "id": "6e1871d9-50a6-4b77-964e-e478adf7db76",
+            "size": "108",
+            "state": "active",
+            "hash": "c88b54bd40e5d45da38d3c55c5873c4e984bba9f",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Tourism statistics.csv",
+            "created": "2012-09-11T13:37:00.026259",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T153944/c6qe-4x4s.csv",
+            "webstore_url": null,
+            "last_modified": "2013-03-14T09:43:08.353443",
+            "position": 0,
+            "revision_id": "ee27c9b8-e429-4b22-b976-4ba1500994d7",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T12:51:29.506687",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T12:51:29.506687",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 52,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "kodi-c6qe-4x4s",
+    "isopen": false,
+    "url": null,
+    "notes": "Facts and figures on:\r\n-Visitor Arrival and departures\r\nHotel Bed-Nights Occupancy by Country of Residence\r\n-Hotel Bed Occupancy by Zone\r\n-Parks Statistics",
+    "title": "Tourism statistics",
+    "extras": [
+        {
+            "value": "Ministry of Tourism",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "c7591c66-16db-42db-bf22-096c3f72cc78",
+                "package_id": "a8c12096-3763-4767-8bdd-ad51319a4584"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "c7591c66-16db-42db-bf22-096c3f72cc78",
+                "package_id": "a8c12096-3763-4767-8bdd-ad51319a4584"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "c7591c66-16db-42db-bf22-096c3f72cc78"
+}

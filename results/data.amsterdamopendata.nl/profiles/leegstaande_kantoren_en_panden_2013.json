@@ -1,0 +1,179 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2013-09-25T07:37:11.085810",
+    "id": "e7d20867-b67d-429c-a504-7cc541713cc7",
+    "metadata_created": "2013-09-25T07:37:11.085810",
+    "owner_org": null,
+    "metadata_modified": "2013-09-25T07:37:11.085810",
+    "author": "Ontwikkelbedrijf Gemeente Amsterdam (OGA)",
+    "author_email": "p.oudeman@oga.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "bcc215b9-4761-4172-a46d-72deb15ac771",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-09-25T07:37:11.085810",
+            "webstore_last_updated": null,
+            "id": "7af3d2f0-0182-4303-92d6-bcf131773e1b",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Downloaden via Open Datakaart",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://www.opendatakaart.nl/catalogus/datasets/datasets_dataset/t/kantorenleegstand_2013",
+            "created": "2013-09-25T09:37:11.140860",
+            "url": "http://www.opendatakaart.nl/catalogus/datasets/datasets_dataset/t/kantorenleegstand_2013",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "d02c7b60-2596-4f40-a51e-5f3d27ec5690",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kantoren",
+            "name": "kantoren",
+            "revision_timestamp": "2013-09-25T07:37:11.085810",
+            "state": "active",
+            "id": "29b44482-2c77-46aa-9a56-5e21e39b5028"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kantorenloods",
+            "name": "kantorenloods",
+            "revision_timestamp": "2013-09-25T07:37:11.085810",
+            "state": "active",
+            "id": "f85c5878-6177-4a29-81e3-9e0101626499"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "leegstaande",
+            "name": "leegstaande",
+            "revision_timestamp": "2013-09-25T07:37:11.085810",
+            "state": "active",
+            "id": "f64ebc57-fa5c-4c9b-a39e-5a161a9c74b7"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "leegstand",
+            "name": "leegstand",
+            "revision_timestamp": "2013-09-25T07:37:11.085810",
+            "state": "active",
+            "id": "5c891436-9372-4861-acff-d4bd6bf63860"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "panden",
+            "name": "panden",
+            "revision_timestamp": "2013-09-25T07:37:11.085810",
+            "state": "active",
+            "id": "0dbce415-6f86-4707-92d5-3eef4b5270df"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Economie & Haven",
+            "description": "",
+            "name": "economie-haven",
+            "id": "0436932a-66f0-480b-9c68-ef542dcc7a09"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "leegstaande_kantoren_en_panden_2013",
+    "isopen": false,
+    "url": null,
+    "notes": "Leegstaande kantoren, groter dan 1.000m2, groter dan 50 procent leegstand in Amsterdam, Diemen, Amstelveen en Ouder-Amstel.",
+    "title": "Leegstaande Kantoren en Panden 2013",
+    "extras": [
+        {
+            "value": "p.oudeman@oga.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "e7d20867-b67d-429c-a504-7cc541713cc7",
+                "revision_id": "d02c7b60-2596-4f40-a51e-5f3d27ec5690"
+            }
+        },
+        {
+            "value": "Paul Oudeman",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "d02c7b60-2596-4f40-a51e-5f3d27ec5690",
+                "package_id": "e7d20867-b67d-429c-a504-7cc541713cc7"
+            }
+        },
+        {
+            "value": "19/09/2013",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "d02c7b60-2596-4f40-a51e-5f3d27ec5690",
+                "package_id": "e7d20867-b67d-429c-a504-7cc541713cc7"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "d02c7b60-2596-4f40-a51e-5f3d27ec5690",
+                "package_id": "e7d20867-b67d-429c-a504-7cc541713cc7"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "e7d20867-b67d-429c-a504-7cc541713cc7",
+                "revision_id": "d02c7b60-2596-4f40-a51e-5f3d27ec5690"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "e7d20867-b67d-429c-a504-7cc541713cc7",
+                "revision_id": "d02c7b60-2596-4f40-a51e-5f3d27ec5690"
+            }
+        },
+        {
+            "value": "Regelmatig",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "d02c7b60-2596-4f40-a51e-5f3d27ec5690",
+                "package_id": "e7d20867-b67d-429c-a504-7cc541713cc7"
+            }
+        },
+        {
+            "value": "http://www.amsterdam.nl/gemeente/organisatie-diensten/ontwikkelingsbedrijf/we/kantorenloods-0",
+            "key": "website",
+            "__extras": {
+                "package_id": "e7d20867-b67d-429c-a504-7cc541713cc7",
+                "revision_id": "d02c7b60-2596-4f40-a51e-5f3d27ec5690"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "d02c7b60-2596-4f40-a51e-5f3d27ec5690"
+}

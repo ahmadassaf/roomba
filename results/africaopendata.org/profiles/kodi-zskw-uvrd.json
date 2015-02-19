@@ -1,0 +1,114 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Laban",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:54:44.831805",
+    "id": "bdc74205-8b03-4eac-9a40-61b29ae982b0",
+    "metadata_created": "2012-09-11T13:54:44.831805",
+    "owner_org": null,
+    "metadata_modified": "2013-03-14T09:45:37.013337",
+    "author": "Laban",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "d71ceecb-d663-4ae9-b243-99f29940c4e3",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-14T09:45:37.013337",
+            "webstore_last_updated": null,
+            "id": "16469fdc-d834-4070-8829-275a55e4da4b",
+            "size": "108",
+            "state": "active",
+            "hash": "c88b54bd40e5d45da38d3c55c5873c4e984bba9f",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Kenya National Audit Summary Report 2009-2010.csv",
+            "created": "2012-09-11T13:54:44.864986",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155729/zskw-uvrd.csv",
+            "webstore_url": null,
+            "last_modified": "2013-03-14T09:45:36.954693",
+            "position": 0,
+            "revision_id": "2c11cb26-cca1-49ff-a0b7-a32b488c920a",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:54:44.831805",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:54:44.831805",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 51,
+        "recent": 6
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "kodi-zskw-uvrd",
+    "isopen": true,
+    "url": "http://www.kenao.go.ke/report_cg.html",
+    "notes": "Central Government National Audit Summary Report 2009-2010",
+    "title": "Kenya National Audit Summary Report 2009-2010",
+    "extras": [
+        {
+            "value": "Kenya National Audit Office (KENAO)",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "93bfacaa-adb2-40c2-ac83-15004471e9d3",
+                "package_id": "bdc74205-8b03-4eac-9a40-61b29ae982b0"
+            }
+        },
+        {
+            "value": "Public Finance",
+            "key": "category",
+            "__extras": {
+                "revision_id": "93bfacaa-adb2-40c2-ac83-15004471e9d3",
+                "package_id": "bdc74205-8b03-4eac-9a40-61b29ae982b0"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "93bfacaa-adb2-40c2-ac83-15004471e9d3",
+                "package_id": "bdc74205-8b03-4eac-9a40-61b29ae982b0"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "93bfacaa-adb2-40c2-ac83-15004471e9d3"
+}

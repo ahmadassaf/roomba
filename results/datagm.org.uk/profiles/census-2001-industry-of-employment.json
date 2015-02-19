@@ -1,0 +1,117 @@
+{
+    "license_title": "UK Crown Copyright with data.gov.uk rights",
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2011-07-06T10:49:42.778722",
+    "id": "0e85685c-4896-4e31-98a4-b3869c542190",
+    "metadata_created": "2011-07-04T13:03:14.639239",
+    "owner_org": null,
+    "metadata_modified": "2013-12-08T06:28:30.134755",
+    "author": "ONS",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "ukcrown-withrights",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "application/octet-stream",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "{\"content\": \"1b28d67cd6384c84eab844daa53ffdfe40e4f6a4\", \"header\": \"e8358cf3421a701f2aecd3929eaf67a77295095e\"}",
+            "description": "",
+            "format": "CSV",
+            "url": "http://store.datagm.org.uk/sets/census/CensusIndustryofEmploymentAll.csv",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 2,
+                "recent": 1
+            },
+            "revision_timestamp": "2013-12-08T06:28:30.134755",
+            "webstore_url": null,
+            "resource_group_id": "90cfbab9-83c3-43ea-9b3e-47ea2945a396",
+            "state": "active",
+            "last_modified": "2013-12-08T06:28:30.115332",
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "b75aa07b-152d-4629-a71e-3c4d8a06b9ff",
+            "size": "530483",
+            "id": "55474a1d-569d-4e08-af13-cd44a39c67ca",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "census",
+            "name": "census",
+            "revision_timestamp": "2011-07-04T13:03:14.639239",
+            "state": "active",
+            "id": "f63ab9ff-ea1c-4332-8308-6d04c32d99ce"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "employment",
+            "name": "employment",
+            "revision_timestamp": "2011-07-04T13:03:14.639239",
+            "state": "active",
+            "id": "5d92b0c5-067c-4ac7-9194-889dd3082a6d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "industry",
+            "name": "industry",
+            "revision_timestamp": "2011-07-04T13:03:14.639239",
+            "state": "active",
+            "id": "57baa0f5-f9b7-4b1b-8f52-bbe8324121a7"
+        }
+    ],
+    "tracking_summary": {
+        "total": 5,
+        "recent": 1
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "census-2001-industry-of-employment",
+    "isopen": false,
+    "url": "http://www.statistics.gov.uk/default.asp",
+    "notes": "Data on the industry of employment of the population of Greater Manchester. It covers the population 'all people aged 16-74 in employment'.",
+    "title": "Census 2001 Industry of Employment",
+    "extras": [
+        {
+            "value": "2001",
+            "key": "temporal_coverage-from",
+            "__extras": {
+                "package_id": "0e85685c-4896-4e31-98a4-b3869c542190",
+                "revision_id": "a480a864-1511-4305-a99c-c50a9c04a6dd"
+            }
+        },
+        {
+            "value": "2001",
+            "key": "temporal_coverage-to",
+            "__extras": {
+                "package_id": "0e85685c-4896-4e31-98a4-b3869c542190",
+                "revision_id": "a480a864-1511-4305-a99c-c50a9c04a6dd"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "cb0f8c36-876f-45c0-9d7b-e06cba5aab7e",
+    "license_url": "",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": false,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "",
+        "status": "active"
+    }
+}

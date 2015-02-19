@@ -1,0 +1,698 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:26:52.191630",
+    "id": "6900b837-b62a-469c-8483-496b32339964",
+    "metadata_created": "2014-11-04T22:26:52.191630",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:49:00.537293",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "3f5f85c4-2dba-4feb-96a7-a10ab48c1f26",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:26:52.191630",
+            "webstore_last_updated": null,
+            "id": "32f6b526-4e4e-4713-af74-197f41518ad9",
+            "size": "20",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Online link to the 'National parks' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:38:22.482024",
+            "url": "http://maps.nemaug.org/layers/geonode:nationalparks",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:43:58.566102",
+            "position": 0,
+            "revision_id": "2504055a-cc8e-4e8c-86ce-06b40ed4ddb9",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "3f5f85c4-2dba-4feb-96a7-a10ab48c1f26",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:00.537293",
+            "webstore_last_updated": null,
+            "id": "0a50c40a-c2cf-4c1d-9433-2dbb544d1ffb",
+            "size": "431",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "National parks (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "nationalparks.zip",
+            "created": "2014-03-12T14:38:22.482038",
+            "url": "http://maps.nemaug.org/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Anationalparks&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:05:00.862391",
+            "position": 1,
+            "revision_id": "792d1833-ce6c-48be-9af8-6037d4328dca",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3f5f85c4-2dba-4feb-96a7-a10ab48c1f26",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:00.537293",
+            "webstore_last_updated": null,
+            "id": "5fe8118e-f728-438d-847e-74e6b1076f18",
+            "size": "431",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "National parks (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "nationalparks.gml",
+            "created": "2014-03-12T14:38:22.482042",
+            "url": "http://maps.nemaug.org/geoserver/wfs?typename=geonode%3Anationalparks&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:04:57.439427",
+            "position": 2,
+            "revision_id": "792d1833-ce6c-48be-9af8-6037d4328dca",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3f5f85c4-2dba-4feb-96a7-a10ab48c1f26",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:00.537293",
+            "webstore_last_updated": null,
+            "id": "4386006b-6e31-4af7-94ab-be2bf52ce4b7",
+            "size": "431",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "National parks (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "nationalparks.gml",
+            "created": "2014-03-12T14:38:22.482046",
+            "url": "http://maps.nemaug.org/geoserver/wfs?typename=geonode%3Anationalparks&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:04:58.838079",
+            "position": 3,
+            "revision_id": "792d1833-ce6c-48be-9af8-6037d4328dca",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3f5f85c4-2dba-4feb-96a7-a10ab48c1f26",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:00.537293",
+            "webstore_last_updated": null,
+            "id": "3acdb496-7493-44e4-9a9e-4164f8cc2f9f",
+            "size": "431",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "National parks (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "nationalparks.csv",
+            "created": "2014-03-12T14:38:22.482050",
+            "url": "http://maps.nemaug.org/geoserver/wfs?typename=geonode%3Anationalparks&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:04:55.718146",
+            "position": 4,
+            "revision_id": "792d1833-ce6c-48be-9af8-6037d4328dca",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3f5f85c4-2dba-4feb-96a7-a10ab48c1f26",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:00.537293",
+            "webstore_last_updated": null,
+            "id": "61f3219f-0f34-4189-a0d8-08cbf2253a22",
+            "size": "431",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "National parks (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "nationalparks.excel",
+            "created": "2014-03-12T14:38:22.482053",
+            "url": "http://maps.nemaug.org/geoserver/wfs?typename=geonode%3Anationalparks&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:05:01.948445",
+            "position": 5,
+            "revision_id": "792d1833-ce6c-48be-9af8-6037d4328dca",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3f5f85c4-2dba-4feb-96a7-a10ab48c1f26",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:00.537293",
+            "webstore_last_updated": null,
+            "id": "f5ea989a-e873-4362-b950-3330575230e0",
+            "size": "431",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "National parks (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "nationalparks.json",
+            "created": "2014-03-12T14:38:22.482057",
+            "url": "http://maps.nemaug.org/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Anationalparks&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:04:51.648290",
+            "position": 6,
+            "revision_id": "792d1833-ce6c-48be-9af8-6037d4328dca",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3f5f85c4-2dba-4feb-96a7-a10ab48c1f26",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:00.537293",
+            "webstore_last_updated": null,
+            "id": "77e940ba-ba76-4a57-b1ea-1651101ec48e",
+            "size": "445",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "National parks (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "nationalparks.kml",
+            "created": "2014-03-12T14:38:22.482060",
+            "url": "http://maps.nemaug.org/geoserver/wms/kml?layers=geonode%3Anationalparks&mode=download",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:04:53.646524",
+            "position": 7,
+            "revision_id": "792d1833-ce6c-48be-9af8-6037d4328dca",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3f5f85c4-2dba-4feb-96a7-a10ab48c1f26",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:00.537293",
+            "webstore_last_updated": null,
+            "id": "c1d426a5-43e4-489b-b8e0-96bf8cb3d209",
+            "size": "445",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "National parks (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "nationalparks.kml",
+            "created": "2014-03-12T14:38:22.482064",
+            "url": "http://maps.nemaug.org/geoserver/wms/kml?layers=geonode%3Anationalparks&mode=refresh",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:04:59.709255",
+            "position": 8,
+            "revision_id": "792d1833-ce6c-48be-9af8-6037d4328dca",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3f5f85c4-2dba-4feb-96a7-a10ab48c1f26",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:26:52.191630",
+            "webstore_last_updated": null,
+            "id": "8331ee7a-3f47-468b-9928-9f37f82ebc85",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "National parks (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "nationalparks.tiles",
+            "created": "2014-03-12T14:38:22.482068",
+            "url": "http://maps.nemaug.org/geoserver/gwc/service/gmaps?layers=geonode:nationalparks&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "2504055a-cc8e-4e8c-86ce-06b40ed4ddb9",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "3f5f85c4-2dba-4feb-96a7-a10ab48c1f26",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:00.537293",
+            "webstore_last_updated": null,
+            "id": "8cb5a570-b1a1-470c-b709-105517303e7b",
+            "size": "445",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "National parks (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "nationalparks.jpg",
+            "created": "2014-03-12T14:38:22.482071",
+            "url": "http://maps.nemaug.org/geoserver/wms?layers=geonode%3Anationalparks&width=521&bbox=29.575608644961147%2C-1.3920696778829227%2C34.74048690560483%2C4.059717633099969&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:04:50.607208",
+            "position": 10,
+            "revision_id": "792d1833-ce6c-48be-9af8-6037d4328dca",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3f5f85c4-2dba-4feb-96a7-a10ab48c1f26",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:00.537293",
+            "webstore_last_updated": null,
+            "id": "4921335e-810d-4229-8802-0b705a77edf1",
+            "size": "445",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "National parks (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "nationalparks.pdf",
+            "created": "2014-03-12T14:38:22.482075",
+            "url": "http://maps.nemaug.org/geoserver/wms?layers=geonode%3Anationalparks&width=521&bbox=29.575608644961147%2C-1.3920696778829227%2C34.74048690560483%2C4.059717633099969&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:04:52.617158",
+            "position": 11,
+            "revision_id": "792d1833-ce6c-48be-9af8-6037d4328dca",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3f5f85c4-2dba-4feb-96a7-a10ab48c1f26",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:00.537293",
+            "webstore_last_updated": null,
+            "id": "e4f56b0c-16ab-40ba-b926-78aa38951ef7",
+            "size": "445",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "National parks (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "nationalparks.png",
+            "created": "2014-03-12T14:38:22.482078",
+            "url": "http://maps.nemaug.org/geoserver/wms?layers=geonode%3Anationalparks&width=521&bbox=29.575608644961147%2C-1.3920696778829227%2C34.74048690560483%2C4.059717633099969&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:04:54.589221",
+            "position": 12,
+            "revision_id": "792d1833-ce6c-48be-9af8-6037d4328dca",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Biological",
+            "name": "Biological",
+            "revision_timestamp": "2014-11-04T22:26:52.191630",
+            "state": "active",
+            "id": "601adee3-53fc-466d-97cb-b670199dc66b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Conservation",
+            "name": "Conservation",
+            "revision_timestamp": "2014-11-04T22:26:52.191630",
+            "state": "active",
+            "id": "1202ff18-986c-4e13-9330-56e59ffead1d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Physical",
+            "name": "Physical",
+            "revision_timestamp": "2014-11-04T22:26:52.191630",
+            "state": "active",
+            "id": "22708169-ba07-4e7c-a53f-f676ce36b428"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:26:52.191630",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:26:52.191630",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:26:52.191630",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:26:52.191630",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:26:52.191630",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:26:52.191630",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:26:52.191630",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 7,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 10,
+    "name": "national-parks",
+    "isopen": false,
+    "url": null,
+    "notes": "National park area name, status and size.",
+    "title": "National parks",
+    "extras": [
+        {
+            "value": "[\"Non provided\"]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "2504055a-cc8e-4e8c-86ce-06b40ed4ddb9",
+                "package_id": "6900b837-b62a-469c-8483-496b32339964"
+            }
+        },
+        {
+            "value": "34.7404869056",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "2504055a-cc8e-4e8c-86ce-06b40ed4ddb9",
+                "package_id": "6900b837-b62a-469c-8483-496b32339964"
+            }
+        },
+        {
+            "value": "4.0597176331",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "6900b837-b62a-469c-8483-496b32339964",
+                "revision_id": "2504055a-cc8e-4e8c-86ce-06b40ed4ddb9"
+            }
+        },
+        {
+            "value": "-1.3920696779",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "2504055a-cc8e-4e8c-86ce-06b40ed4ddb9",
+                "package_id": "6900b837-b62a-469c-8483-496b32339964"
+            }
+        },
+        {
+            "value": "29.5756086450",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "2504055a-cc8e-4e8c-86ce-06b40ed4ddb9",
+                "package_id": "6900b837-b62a-469c-8483-496b32339964"
+            }
+        },
+        {
+            "value": "ketty@mountbatten.net",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "6900b837-b62a-469c-8483-496b32339964",
+                "revision_id": "2504055a-cc8e-4e8c-86ce-06b40ed4ddb9"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "6900b837-b62a-469c-8483-496b32339964",
+                "revision_id": "2504055a-cc8e-4e8c-86ce-06b40ed4ddb9"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-02-18T07:06:49Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "6900b837-b62a-469c-8483-496b32339964",
+                "revision_id": "2504055a-cc8e-4e8c-86ce-06b40ed4ddb9"
+            }
+        },
+        {
+            "value": "unknown",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "6900b837-b62a-469c-8483-496b32339964",
+                "revision_id": "2504055a-cc8e-4e8c-86ce-06b40ed4ddb9"
+            }
+        },
+        {
+            "value": "Thumbnail for 'National parks'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "6900b837-b62a-469c-8483-496b32339964",
+                "revision_id": "2504055a-cc8e-4e8c-86ce-06b40ed4ddb9"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "6900b837-b62a-469c-8483-496b32339964",
+                "revision_id": "2504055a-cc8e-4e8c-86ce-06b40ed4ddb9"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "2504055a-cc8e-4e8c-86ce-06b40ed4ddb9",
+                "package_id": "6900b837-b62a-469c-8483-496b32339964"
+            }
+        },
+        {
+            "value": "870c6096-989d-11e3-bc1f-22000a1cecb5",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "2504055a-cc8e-4e8c-86ce-06b40ed4ddb9",
+                "package_id": "6900b837-b62a-469c-8483-496b32339964"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "2504055a-cc8e-4e8c-86ce-06b40ed4ddb9",
+                "package_id": "6900b837-b62a-469c-8483-496b32339964"
+            }
+        },
+        {
+            "value": "2014-02-18T07:06:49Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "6900b837-b62a-469c-8483-496b32339964",
+                "revision_id": "2504055a-cc8e-4e8c-86ce-06b40ed4ddb9"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "2504055a-cc8e-4e8c-86ce-06b40ed4ddb9",
+                "package_id": "6900b837-b62a-469c-8483-496b32339964"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "6900b837-b62a-469c-8483-496b32339964",
+                "revision_id": "2504055a-cc8e-4e8c-86ce-06b40ed4ddb9"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "6900b837-b62a-469c-8483-496b32339964",
+                "revision_id": "2504055a-cc8e-4e8c-86ce-06b40ed4ddb9"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "6900b837-b62a-469c-8483-496b32339964",
+                "revision_id": "2504055a-cc8e-4e8c-86ce-06b40ed4ddb9"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.575608645, -1.3920696779], [34.7404869056, -1.3920696779], [34.7404869056, 4.0597176331], [29.575608645, 4.0597176331], [29.575608645, -1.3920696779]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "2504055a-cc8e-4e8c-86ce-06b40ed4ddb9",
+                "package_id": "6900b837-b62a-469c-8483-496b32339964"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "6900b837-b62a-469c-8483-496b32339964",
+                "revision_id": "2504055a-cc8e-4e8c-86ce-06b40ed4ddb9"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "2504055a-cc8e-4e8c-86ce-06b40ed4ddb9",
+                "package_id": "6900b837-b62a-469c-8483-496b32339964"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "2504055a-cc8e-4e8c-86ce-06b40ed4ddb9",
+                "package_id": "6900b837-b62a-469c-8483-496b32339964"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "2504055a-cc8e-4e8c-86ce-06b40ed4ddb9"
+}

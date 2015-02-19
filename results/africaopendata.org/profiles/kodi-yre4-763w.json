@@ -1,0 +1,130 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Cam Caldwell",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:40:30.571171",
+    "id": "ea6962b3-f8ed-425e-9014-23e96b2823d2",
+    "metadata_created": "2012-09-11T13:40:30.571171",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:11:58.831972",
+    "author": "Laban",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "4b3d567d-9b9e-4607-8165-a989bd753154",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:11:58.831972",
+            "webstore_last_updated": "2013-10-10T12:11:58.748962",
+            "id": "d3073276-a392-47dd-8d36-c3726fa369be",
+            "size": "128",
+            "state": "active",
+            "hash": "b43ca525f7e761eeb05f0aeab1405d3214e69c47",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Health Facility Pie Chart.csv",
+            "created": "2012-09-11T13:40:30.624095",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T154315/yre4-763w.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T10:42:59.402719",
+            "position": 0,
+            "revision_id": "8bb44856-edda-4efa-a462-ec15d192345c",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "health",
+            "name": "health",
+            "revision_timestamp": "2012-09-11T13:40:30.571171",
+            "state": "active",
+            "id": "956a3c07-125e-44e4-b843-c5011fadcc7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "health facilities",
+            "name": "health facilities",
+            "revision_timestamp": "2012-09-11T13:40:30.571171",
+            "state": "active",
+            "id": "9beae195-17b1-4d89-b7cb-e990bc94b1f2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:40:30.571171",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:40:30.571171",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 74,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "kodi-yre4-763w",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Health Facilities across the Country",
+    "title": "Health Facility Pie Chart",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "bfd3d701-4daf-44d9-b702-82804edaa530",
+                "package_id": "ea6962b3-f8ed-425e-9014-23e96b2823d2"
+            }
+        },
+        {
+            "value": "Health Sector",
+            "key": "category",
+            "__extras": {
+                "revision_id": "bfd3d701-4daf-44d9-b702-82804edaa530",
+                "package_id": "ea6962b3-f8ed-425e-9014-23e96b2823d2"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "bfd3d701-4daf-44d9-b702-82804edaa530",
+                "package_id": "ea6962b3-f8ed-425e-9014-23e96b2823d2"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "bfd3d701-4daf-44d9-b702-82804edaa530"
+}

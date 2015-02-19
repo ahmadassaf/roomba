@@ -1,0 +1,122 @@
+{
+    "license_title": "UK Crown Copyright with data.gov.uk rights",
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2013-03-28T09:23:28.231113",
+    "id": "1151dce0-3cfb-43fa-aed6-cbf3654bf7eb",
+    "metadata_created": "2011-07-04T13:45:16.411764",
+    "owner_org": "f43f185f-3c59-4ced-ac96-bae6aa554e20",
+    "metadata_modified": "2013-12-08T06:25:26.800156",
+    "author": "ONS",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "ukcrown-withrights",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "application/octet-stream",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "{\"content\": \"60b0544105ad5333665d70d77f7b9c68452095fe\", \"header\": \"4bad5138c7eed0cac30b82ce76684ac9c591a548\"}",
+            "description": "",
+            "format": "CSV",
+            "url": "http://store.datagm.org.uk/sets/census/CensusPopulationDensity.csv",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "revision_timestamp": "2013-12-08T06:25:26.800156",
+            "webstore_url": null,
+            "resource_group_id": "04beea26-9533-49c0-aa10-6f11dfa94b06",
+            "state": "active",
+            "last_modified": "2013-12-08T06:25:26.781819",
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "42224b05-ce48-45f0-98a1-140c347714fa",
+            "size": "305084",
+            "id": "89f1c95c-1cbf-4ef2-a417-d9b26f981cb6",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "census",
+            "name": "census",
+            "revision_timestamp": "2011-07-04T13:45:16.411764",
+            "state": "active",
+            "id": "f63ab9ff-ea1c-4332-8308-6d04c32d99ce"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population",
+            "name": "population",
+            "revision_timestamp": "2011-07-04T13:45:16.411764",
+            "state": "active",
+            "id": "b00012ac-2247-447c-ac9f-02287b9c155f"
+        }
+    ],
+    "tracking_summary": {
+        "total": 16,
+        "recent": 2
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "census-2001-population-density",
+    "isopen": false,
+    "url": "http://www.statistics.gov.uk/default.asp",
+    "notes": null,
+    "title": "Census 2001 Population Density",
+    "extras": [
+        {
+            "value": "2001",
+            "key": "temporal_coverage-from",
+            "__extras": {
+                "revision_id": "f8e761ae-80fa-484e-a5ac-697fad13777d",
+                "package_id": "1151dce0-3cfb-43fa-aed6-cbf3654bf7eb"
+            }
+        },
+        {
+            "value": "2001",
+            "key": "temporal_coverage-to",
+            "__extras": {
+                "package_id": "1151dce0-3cfb-43fa-aed6-cbf3654bf7eb",
+                "revision_id": "f8e761ae-80fa-484e-a5ac-697fad13777d"
+            }
+        }
+    ],
+    "organization": {
+        "description": "",
+        "created": "2013-03-28T04:17:34.358882",
+        "title": "Association of Greater Manchester Authorities",
+        "name": "association-of-greater-manchester-authorities",
+        "revision_timestamp": "2013-12-05T15:02:37.169037",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://www.agma.gov.uk/cms_media/images/agma_small_logo.gif",
+        "revision_id": "05d96cc7-dcb8-45ec-b9e7-375afa1a88a3",
+        "type": "organization",
+        "id": "f43f185f-3c59-4ced-ac96-bae6aa554e20",
+        "approval_status": "approved"
+    },
+    "revision_id": "2353099d-ffc7-4ed2-83c4-daa444142aff",
+    "license_url": "",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": false,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "",
+        "status": "active"
+    }
+}

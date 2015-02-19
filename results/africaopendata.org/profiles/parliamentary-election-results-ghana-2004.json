@@ -1,0 +1,143 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Michael Bauer",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "michael.bauer@okfn.org",
+    "revision_timestamp": "2012-10-25T09:42:43.962563",
+    "id": "3ce821d3-0f8b-4c73-9265-7d9cb07b2d57",
+    "metadata_created": "2012-10-25T09:40:28.951221",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T11:00:26.914539",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "53072384-1fe7-418b-aca3-0b142bd7925e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T11:00:26.914539",
+            "webstore_last_updated": "2013-10-10T11:00:26.766706",
+            "id": "54e592f1-3f14-4c71-bdd6-73b1c25b1d89",
+            "size": "141544",
+            "state": "active",
+            "hash": "534b0bdfe2fc5ab8314869cde56b3197c7b9d210",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Ghana Election Results 2004 - CSV",
+            "created": "2012-10-25T09:41:15.781384",
+            "url": "https://api.scraperwiki.com/api/1.0/datastore/sqlite?format=csv&name=pres_election_results_ghana_2004&query=select+*+from+%60swdata%60&apikey=",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:37:06.613545",
+            "position": 0,
+            "revision_id": "4e22ebb0-8f47-40ff-9779-6d0d97d0e7c5",
+            "resource_type": "file"
+        },
+        {
+            "resource_group_id": "53072384-1fe7-418b-aca3-0b142bd7925e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-14T08:37:08.126677",
+            "webstore_last_updated": null,
+            "id": "e12bd084-7664-4a3b-8641-28e5c1494641",
+            "size": "42380",
+            "state": "active",
+            "hash": "",
+            "description": "",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "Parliamentary Election Results Ghana - 2004",
+            "created": "2012-10-25T09:41:48.465578",
+            "url": "https://api.scraperwiki.com/api/1.0/datastore/sqlite?format=json&name=pres_election_results_ghana_2004&query=select+*+from+%60swdata%60&apikey=",
+            "webstore_url": null,
+            "last_modified": "2013-03-14T08:37:08.063259",
+            "position": 1,
+            "revision_id": "2cf444bb-229a-4c3d-bc29-e867ac144209",
+            "resource_type": "file"
+        },
+        {
+            "resource_group_id": "53072384-1fe7-418b-aca3-0b142bd7925e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-14T08:37:08.714904",
+            "webstore_last_updated": null,
+            "id": "5e6ce9d6-82f1-409c-8b3b-54c611ceb0e5",
+            "size": "30297",
+            "state": "active",
+            "hash": "b863005a2e615858bd0d1988e862853568914c49",
+            "description": "",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Ghana Parliamentary Election Results - API",
+            "created": "2012-10-25T09:42:21.635017",
+            "url": "https://scraperwiki.com/docs/api?name=pres_election_results_ghana_2004#sqlite",
+            "webstore_url": null,
+            "last_modified": "2013-03-14T08:37:08.630786",
+            "position": 2,
+            "revision_id": "75cd2539-0eef-46fd-873f-bd7832c0eefc",
+            "resource_type": "api"
+        }
+    ],
+    "num_resources": 3,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "election",
+            "name": "election",
+            "revision_timestamp": "2012-10-25T09:40:28.951221",
+            "state": "active",
+            "id": "3751e8c5-646d-41fe-a0d0-aa59af0ade94"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "ghana",
+            "name": "ghana",
+            "revision_timestamp": "2012-10-25T09:40:28.951221",
+            "state": "active",
+            "id": "364eaf66-4038-4271-9eac-f0f9b2ef7d28"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "parliament",
+            "name": "parliament",
+            "revision_timestamp": "2012-10-25T09:40:28.951221",
+            "state": "active",
+            "id": "80e719d9-13c4-4fdf-ac73-8ff55ec3fb28"
+        }
+    ],
+    "tracking_summary": {
+        "total": 66,
+        "recent": 8
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "parliamentary-election-results-ghana-2004",
+    "isopen": true,
+    "url": null,
+    "notes": "Results of the Parliamentary Election in Ghana in 2004",
+    "title": "Parliamentary Election Results - Ghana 2004",
+    "extras": [],
+    "organization": null,
+    "revision_id": "e50994e7-a001-4bd3-a04e-46cd9791989c"
+}

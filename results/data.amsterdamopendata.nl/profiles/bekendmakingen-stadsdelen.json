@@ -1,0 +1,388 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2015-01-08T15:44:10.972315",
+    "id": "e9646ca0-a23c-4470-ae15-27daa59e0413",
+    "metadata_created": "2013-05-15T14:08:06.978065",
+    "owner_org": null,
+    "metadata_modified": "2015-01-08T15:46:15.208576",
+    "author": "Stadsdelen",
+    "author_email": "info@stadsdeel.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "2b2d04cc-9baa-4fc2-b8b4-b40a9653650b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2015-01-08T15:46:15.208576",
+            "webstore_last_updated": null,
+            "id": "93a6a7b9-258c-42bd-a738-9775451646ce",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Amsterdam (GeoRSS)",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "http://www.amsterdam.nl/actueel/bekendmakingen/vergunningen/?georss=true",
+            "created": "2015-01-08T16:46:15.310348",
+            "url": "http://www.amsterdam.nl/actueel/bekendmakingen/vergunningen/?georss=true",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "41b66e37-af68-434d-81c7-58e7d8fa2c6a",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "2b2d04cc-9baa-4fc2-b8b4-b40a9653650b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2015-01-08T15:46:15.208576",
+            "webstore_last_updated": null,
+            "id": "b4eb1d5c-75e5-4ef1-923a-6a32e1274b07",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Stadsdeel West (GeoRSS)",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "http://www.amsterdam.nl/actueel/bekendmakingen/filter/vergunningen-west/?georss=true",
+            "created": "2015-01-08T16:46:15.310368",
+            "url": "http://www.amsterdam.nl/actueel/bekendmakingen/filter/vergunningen-west/?georss=true",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "41b66e37-af68-434d-81c7-58e7d8fa2c6a",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "2b2d04cc-9baa-4fc2-b8b4-b40a9653650b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2015-01-08T15:46:15.208576",
+            "webstore_last_updated": null,
+            "id": "407f2e07-f09c-4fae-86ac-29667de3e035",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Stadsdeel Nieuw-west (GeoRSS)",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "http://www.amsterdam.nl/actueel/bekendmakingen/filter/vergunningen-nwwest/?georss=true",
+            "created": "2015-01-08T16:46:15.310376",
+            "url": "http://www.amsterdam.nl/actueel/bekendmakingen/filter/vergunningen-nwwest/?georss=true",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "41b66e37-af68-434d-81c7-58e7d8fa2c6a",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "2b2d04cc-9baa-4fc2-b8b4-b40a9653650b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2015-01-08T15:46:15.208576",
+            "webstore_last_updated": null,
+            "id": "8275c540-1e25-457a-ac63-b72e828c7584",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Stadsdeel Oost (GeoRSS)",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "http://www.amsterdam.nl/actueel/bekendmakingen/filter/vergunningen-oost/?georss=true",
+            "created": "2015-01-08T16:46:15.310382",
+            "url": "http://www.amsterdam.nl/actueel/bekendmakingen/filter/vergunningen-oost/?georss=true",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "41b66e37-af68-434d-81c7-58e7d8fa2c6a",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "2b2d04cc-9baa-4fc2-b8b4-b40a9653650b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2015-01-08T15:46:15.208576",
+            "webstore_last_updated": null,
+            "id": "bf74108a-fa2d-48fc-909f-5eb52d85749a",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Stadsdeel Zuid (GeoRSS)",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "http://www.amsterdam.nl/actueel/bekendmakingen/filter/vergunningen-zuid/?georss=true",
+            "created": "2015-01-08T16:46:15.310387",
+            "url": "http://www.amsterdam.nl/actueel/bekendmakingen/filter/vergunningen-zuid/?georss=true",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 4,
+            "revision_id": "41b66e37-af68-434d-81c7-58e7d8fa2c6a",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "2b2d04cc-9baa-4fc2-b8b4-b40a9653650b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2015-01-08T15:46:15.208576",
+            "webstore_last_updated": null,
+            "id": "01ace90e-1012-46a2-8a30-e1adc6680647",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Stadsdeel Zuidoost\n",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "http://www.amsterdam.nl/actueel/bekendmakingen/filter/vergunningen-zdoost/?georss=true",
+            "created": "2015-01-08T16:46:15.310393",
+            "url": "http://www.amsterdam.nl/actueel/bekendmakingen/filter/vergunningen-zdoost/?georss=true",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 5,
+            "revision_id": "41b66e37-af68-434d-81c7-58e7d8fa2c6a",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 6,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "bestemmingsplan",
+            "name": "bestemmingsplan",
+            "revision_timestamp": "2013-05-15T14:08:06.978065",
+            "state": "active",
+            "id": "193002b1-a757-4391-a5ac-f73b15f8a7cb"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "bouwvergunning",
+            "name": "bouwvergunning",
+            "revision_timestamp": "2013-05-15T14:08:06.978065",
+            "state": "active",
+            "id": "d20108ef-36b8-4d73-b471-685ec891759f"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "evenementenvergunning",
+            "name": "evenementenvergunning",
+            "revision_timestamp": "2013-05-15T14:08:06.978065",
+            "state": "active",
+            "id": "18ac7fa2-1b8e-4d76-bb2c-f72223e88d2b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "exploitatievergunning",
+            "name": "exploitatievergunning",
+            "revision_timestamp": "2013-05-15T14:08:06.978065",
+            "state": "active",
+            "id": "a9a0c628-21f6-4e10-b3a9-21f58a9b8102"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "gebruiksvergunning",
+            "name": "gebruiksvergunning",
+            "revision_timestamp": "2013-05-15T14:08:06.978065",
+            "state": "active",
+            "id": "be063345-2717-4675-821d-b7d29991a928"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "gehandicaptenparkeerplaatsvergunning",
+            "name": "gehandicaptenparkeerplaatsvergunning",
+            "revision_timestamp": "2013-05-15T14:08:06.978065",
+            "state": "active",
+            "id": "5d141d59-d1dc-4cab-a3b6-4785e4fba809"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kapvergunning",
+            "name": "kapvergunning",
+            "revision_timestamp": "2013-05-15T14:08:06.978065",
+            "state": "active",
+            "id": "80afed63-ed85-42a0-93b4-ad6d8eebf3f7"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "omgevingsvergunningen",
+            "name": "omgevingsvergunningen",
+            "revision_timestamp": "2013-05-15T14:08:06.978065",
+            "state": "active",
+            "id": "0b004d12-8227-4d4e-bd43-fd27ecec4c5b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "rectificatie",
+            "name": "rectificatie",
+            "revision_timestamp": "2013-05-15T14:08:06.978065",
+            "state": "active",
+            "id": "50e4220b-5e2a-49c7-8b58-f5a64e5961a8"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "registerkinderopvang\n",
+            "name": "registerkinderopvang\n",
+            "revision_timestamp": "2013-05-15T14:08:06.978065",
+            "state": "active",
+            "id": "30801cd6-f861-4dce-b987-b82c98c89055"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "splitsingsvergunningen",
+            "name": "splitsingsvergunningen",
+            "revision_timestamp": "2013-05-15T14:08:06.978065",
+            "state": "active",
+            "id": "feb7dbfa-cb91-49c3-9bb4-2203c0b62daf"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "vergunning",
+            "name": "vergunning",
+            "revision_timestamp": "2013-05-15T14:08:06.978065",
+            "state": "active",
+            "id": "17f480a1-439a-4a9c-ab44-1f09a5333ac2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "vergunningen",
+            "name": "vergunningen",
+            "revision_timestamp": "2013-05-15T14:08:06.978065",
+            "state": "active",
+            "id": "9da87db4-896c-48c4-8d51-ba2c69fd41bb"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Bestuur en organisatie",
+            "description": "",
+            "name": "bestuur-en-organisatie",
+            "id": "b28c8e5d-7f00-41ac-ad58-43e4b6fe2a15"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 13,
+    "name": "bekendmakingen-stadsdelen",
+    "isopen": false,
+    "url": null,
+    "notes": "Georss feeds met de bekendmakingen, vanaf de verschillende stadsdeelwebsite",
+    "title": "Bekendmakingen Stadsdelen",
+    "extras": [
+        {
+            "value": "info@stadsdeel.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "e9646ca0-a23c-4470-ae15-27daa59e0413",
+                "revision_id": "0f5bf553-0d33-43dc-ad31-8bab139829e3"
+            }
+        },
+        {
+            "value": "Stadsdelen",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "0f5bf553-0d33-43dc-ad31-8bab139829e3",
+                "package_id": "e9646ca0-a23c-4470-ae15-27daa59e0413"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "0f5bf553-0d33-43dc-ad31-8bab139829e3",
+                "package_id": "e9646ca0-a23c-4470-ae15-27daa59e0413"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "0f5bf553-0d33-43dc-ad31-8bab139829e3",
+                "package_id": "e9646ca0-a23c-4470-ae15-27daa59e0413"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "e9646ca0-a23c-4470-ae15-27daa59e0413",
+                "revision_id": "0f5bf553-0d33-43dc-ad31-8bab139829e3"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "e9646ca0-a23c-4470-ae15-27daa59e0413",
+                "revision_id": "0f5bf553-0d33-43dc-ad31-8bab139829e3"
+            }
+        },
+        {
+            "value": "Wekelijks",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "0f5bf553-0d33-43dc-ad31-8bab139829e3",
+                "package_id": "e9646ca0-a23c-4470-ae15-27daa59e0413"
+            }
+        },
+        {
+            "value": "",
+            "key": "website",
+            "__extras": {
+                "revision_id": "0f5bf553-0d33-43dc-ad31-8bab139829e3",
+                "package_id": "e9646ca0-a23c-4470-ae15-27daa59e0413"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "d6b3344d-dbde-46d4-babc-25a2254e4fb6"
+}

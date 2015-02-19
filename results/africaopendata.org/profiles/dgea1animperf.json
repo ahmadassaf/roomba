@@ -1,0 +1,553 @@
+{
+    "license_title": "Creative Commons Attribution Share-Alike 4.0",
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-12T22:53:30.200346",
+    "id": "6450c85c-2daa-4476-a4ab-5ad92bd7ac97",
+    "metadata_created": "2014-11-12T22:53:30.200346",
+    "owner_org": "d053dbc0-7a56-4798-b138-1e377618d497",
+    "metadata_modified": "2014-11-12T22:54:57.578966",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-SA-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "15723f1b-56e1-4082-a20a-7463ba881965",
+            "resource_description": "Calving information. Contains: Country,Client ID for DGEA,Client name for DGEA,Cow number,Farm code,Initial calving date and Parity Number",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-12T22:54:50.859498",
+            "webstore_last_updated": null,
+            "id": "dedd5040-aef8-4213-ac96-c777f9822235",
+            "size": "9370",
+            "state": "active",
+            "hash": "da4e3bd1a181ae5ee4c8980285110b16be8ec517",
+            "description": "{\"resource_description\":\"Calving information. Contains: Country,Client ID for DGEA,Client name for DGEA,Cow number,Farm code,Initial calving date and Parity Number\",\"resource_access\":\"Public\"}",
+            "format": "getdata",
+            "tracking_summary": {
+                "total": 6,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Information on calving",
+            "created": "2014-07-08T21:20:37.071633",
+            "url": "http://data.ilri.org/portal/",
+            "webstore_url": null,
+            "last_modified": "2014-11-12T22:54:50.699073",
+            "position": 0,
+            "revision_id": "fcb5abab-4240-4ae1-8577-037f56847ca2",
+            "ILRIResourceAccess": "Public",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "15723f1b-56e1-4082-a20a-7463ba881965",
+            "resource_description": "Milk production. Contains: Country,Client ID for DGEA,Client name for DGEA,Breed,Cow number,Yield Morning,Yield Afternoon,Farm code,Date of milking,Number of lactations and Test date",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-12T22:54:48.799443",
+            "webstore_last_updated": null,
+            "id": "b0c61fe9-52b2-4528-88a4-ee4103a73aaf",
+            "size": "9370",
+            "state": "active",
+            "hash": "da4e3bd1a181ae5ee4c8980285110b16be8ec517",
+            "description": "{\"resource_description\":\"Milk production. Contains: Country,Client ID for DGEA,Client name for DGEA,Breed,Cow number,Yield Morning,Yield Afternoon,Farm code,Date of milking,Number of lactations and Test date\",\"resource_access\":\"Public\"}",
+            "format": "getdata",
+            "tracking_summary": {
+                "total": 6,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": " Information on milk production",
+            "created": "2014-07-08T21:33:16.613988",
+            "url": "http://data.ilri.org/portal/",
+            "webstore_url": null,
+            "last_modified": "2014-11-12T22:54:48.640408",
+            "position": 1,
+            "revision_id": "c7a03e09-085f-485e-9389-664d5f700025",
+            "ILRIResourceAccess": "Public",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "15723f1b-56e1-4082-a20a-7463ba881965",
+            "resource_description": "Animal information. Contains: Country,Client ID for DGEA,Client name for DGEA,Breed,Exotic percent,Cow number,Last calving date,Registration date,Sex and Farm code",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-12T22:54:45.443952",
+            "webstore_last_updated": null,
+            "id": "e75f56ba-a2d5-4e9a-887c-e774e98f5211",
+            "size": "9370",
+            "state": "active",
+            "hash": "da4e3bd1a181ae5ee4c8980285110b16be8ec517",
+            "description": "{\"resource_description\":\"Animal information. Contains: Country,Client ID for DGEA,Client name for DGEA,Breed,Exotic percent,Cow number,Last calving date,Registration date,Sex and Farm code\",\"resource_access\":\"Public\"}",
+            "format": "getdata",
+            "tracking_summary": {
+                "total": 6,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "All animals in DGEA Project",
+            "created": "2014-07-08T22:13:22.631077",
+            "url": "http://data.ilri.org/portal/",
+            "webstore_url": null,
+            "last_modified": "2014-11-12T22:54:45.215198",
+            "position": 2,
+            "revision_id": "5a69f086-d416-4c05-a417-14c3993117b6",
+            "ILRIResourceAccess": "Public",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "15723f1b-56e1-4082-a20a-7463ba881965",
+            "resource_description": "Households in DGEA Project. Contains: Country,Client ID for DGEA,Client name for DGEA and Farm code",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-12T22:54:55.317686",
+            "webstore_last_updated": null,
+            "id": "8cadf1b5-589c-4c35-8d5b-d75a7f725fb1",
+            "size": "9370",
+            "state": "active",
+            "hash": "da4e3bd1a181ae5ee4c8980285110b16be8ec517",
+            "description": "{\"resource_description\":\"Households in DGEA Project. Contains: Country,Client ID for DGEA,Client name for DGEA and Farm code\",\"resource_access\":\"Public\"}",
+            "format": "getdata",
+            "tracking_summary": {
+                "total": 6,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "All households in DGEA Project",
+            "created": "2014-07-08T22:15:35.036525",
+            "url": "http://data.ilri.org/portal/",
+            "webstore_url": null,
+            "last_modified": "2014-11-12T22:54:55.161765",
+            "position": 3,
+            "revision_id": "532a0268-b4df-4b14-a1d4-e939a2de97a4",
+            "ILRIResourceAccess": "Public",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "15723f1b-56e1-4082-a20a-7463ba881965",
+            "resource_description": "Milk recording paper sheets",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-12T22:54:53.016550",
+            "webstore_last_updated": null,
+            "id": "2152b873-1712-4a5c-b7bd-ce3ce46a59c6",
+            "size": "9370",
+            "state": "active",
+            "hash": "da4e3bd1a181ae5ee4c8980285110b16be8ec517",
+            "description": "{\"resource_description\":\"Milk recording paper sheets\",\"resource_access\":\"Public\"}",
+            "format": "docx",
+            "tracking_summary": {
+                "total": 6,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Milk recording paper sheets",
+            "created": "2014-09-12T19:16:20.528230",
+            "url": "http://data.ilri.org/portal/",
+            "webstore_url": null,
+            "last_modified": "2014-11-12T22:54:52.805733",
+            "position": 4,
+            "revision_id": "20ac50e6-88f1-4470-bb4c-5b8aaf199074",
+            "ILRIResourceAccess": "Public",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "15723f1b-56e1-4082-a20a-7463ba881965",
+            "resource_description": "Longitudinal Survey Instrument before 9th of January 2012",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-12T22:54:57.578966",
+            "webstore_last_updated": null,
+            "id": "38f61f4a-b4ea-48ab-9b77-e9cf9484c5eb",
+            "size": "9370",
+            "state": "active",
+            "hash": "da4e3bd1a181ae5ee4c8980285110b16be8ec517",
+            "description": "{\"resource_description\":\"Longitudinal Survey Instrument before 9th of January 2012\",\"resource_access\":\"Public\"}",
+            "format": "docx",
+            "tracking_summary": {
+                "total": 6,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Longitudinal Survey Instrument - A",
+            "created": "2014-09-12T19:49:58.104141",
+            "url": "http://data.ilri.org/portal/",
+            "webstore_url": null,
+            "last_modified": "2014-11-12T22:54:57.297640",
+            "position": 5,
+            "revision_id": "66dc99fb-c005-44c9-8acd-28869550fe35",
+            "ILRIResourceAccess": "Public",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "15723f1b-56e1-4082-a20a-7463ba881965",
+            "resource_description": "Longitudinal Survey Instrument after 9th of January 2012",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-12T22:54:43.279602",
+            "webstore_last_updated": null,
+            "id": "4b6bc706-31f7-4173-873b-860520c510a6",
+            "size": "9370",
+            "state": "active",
+            "hash": "da4e3bd1a181ae5ee4c8980285110b16be8ec517",
+            "description": "{\"resource_description\":\"Longitudinal Survey Instrument after 9th of January 2012\",\"resource_access\":\"Public\"}",
+            "format": "docx",
+            "tracking_summary": {
+                "total": 6,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Longitudinal Survey Instrument - B",
+            "created": "2014-09-12T19:51:06.585087",
+            "url": "http://data.ilri.org/portal/",
+            "webstore_url": null,
+            "last_modified": "2014-11-12T22:54:43.116558",
+            "position": 6,
+            "revision_id": "0faef357-079a-4f7b-a311-0055d6d7b528",
+            "ILRIResourceAccess": "Public",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 7,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "breeding",
+            "name": "breeding",
+            "revision_timestamp": "2014-11-12T22:53:30.200346",
+            "state": "active",
+            "id": "0b977f4b-9889-4ab3-a474-7adcf52e2255"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "cattle",
+            "name": "cattle",
+            "revision_timestamp": "2014-11-12T22:53:30.200346",
+            "state": "active",
+            "id": "d6f4411c-ac44-47af-94ab-35d22119bd31"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "dairy",
+            "name": "dairy",
+            "revision_timestamp": "2014-11-12T22:53:30.200346",
+            "state": "active",
+            "id": "c39463cb-5a22-4aa5-97fd-f20eeb12e11e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "livestock",
+            "name": "livestock",
+            "revision_timestamp": "2014-11-12T22:53:30.200346",
+            "state": "active",
+            "id": "0ad5c5be-d2e6-4413-b40f-b94ec97ab91a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "production",
+            "name": "production",
+            "revision_timestamp": "2014-11-12T22:53:30.200346",
+            "state": "active",
+            "id": "171ca36f-36db-48ae-ab9c-7ff00aa5c2dd"
+        }
+    ],
+    "tracking_summary": {
+        "total": 3,
+        "recent": 1
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "dgea1animperf",
+    "isopen": true,
+    "url": "http://data.ilri.org/portal/",
+    "notes": "Germplasm for Dairy Development in East Africa. Phase I: Identifying appropriate germplasm and delivery mechanisms (DGEA1 ). DGEA1 will determine what are the most appropriate genotypes for the range of dairy production systems and levels of production operated by small-holder farmers in East Africa, and how these genotypes can be delivered to small-holders. The project partners will apply high density snp technology to determine breed composition of cows owned by small-holders, and combine this with traditional and participatory appraisal of animal and farm performance to determine which genotypes are most profitable at different levels of production. An assessment of the potential value of importing, testing and delivery of genotypes from elsewhere will be undertaken. A partnership will be developed that has a fully articulated business model ready to implement delivery of germplasm in a Phase II project and beyond. A design will also be developed for better delivery of R4D in livestock genetics in sub-Saharan Africa.\r\n\r\nThis dataset contains monitoring productivity of animals in DGEA1 dairy cattle keeping households",
+    "title": "DGEA1 Animal Performance",
+    "extras": [
+        {
+            "value": "",
+            "key": "ILRI_actyboundbox",
+            "__extras": {
+                "revision_id": "b9d33ed3-d010-49eb-983d-fa5cfcf76ad8",
+                "package_id": "6450c85c-2daa-4476-a4ab-5ad92bd7ac97"
+            }
+        },
+        {
+            "value": "",
+            "key": "ILRI_actyboundboxcenter",
+            "__extras": {
+                "revision_id": "b9d33ed3-d010-49eb-983d-fa5cfcf76ad8",
+                "package_id": "6450c85c-2daa-4476-a4ab-5ad92bd7ac97"
+            }
+        },
+        {
+            "value": "Not yet available",
+            "key": "ILRI_actycitation",
+            "__extras": {
+                "revision_id": "b9d33ed3-d010-49eb-983d-fa5cfcf76ad8",
+                "package_id": "6450c85c-2daa-4476-a4ab-5ad92bd7ac97"
+            }
+        },
+        {
+            "value": "Not yet available",
+            "key": "ILRI_actycitationacknowledge",
+            "__extras": {
+                "package_id": "6450c85c-2daa-4476-a4ab-5ad92bd7ac97",
+                "revision_id": "b9d33ed3-d010-49eb-983d-fa5cfcf76ad8"
+            }
+        },
+        {
+            "value": "O.MWAI@CGIAR.ORG",
+            "key": "ILRI_actycontactemail",
+            "__extras": {
+                "package_id": "6450c85c-2daa-4476-a4ab-5ad92bd7ac97",
+                "revision_id": "b9d33ed3-d010-49eb-983d-fa5cfcf76ad8"
+            }
+        },
+        {
+            "value": "Dr. Ally Mwai Okeyo",
+            "key": "ILRI_actycontactperson",
+            "__extras": {
+                "package_id": "6450c85c-2daa-4476-a4ab-5ad92bd7ac97",
+                "revision_id": "b9d33ed3-d010-49eb-983d-fa5cfcf76ad8"
+            }
+        },
+        {
+            "value": "All Project Partners : UNE, ILRI, PICOTEAM",
+            "key": "ILRI_actydataowner",
+            "__extras": {
+                "revision_id": "b9d33ed3-d010-49eb-983d-fa5cfcf76ad8",
+                "package_id": "6450c85c-2daa-4476-a4ab-5ad92bd7ac97"
+            }
+        },
+        {
+            "value": "31/12/2014",
+            "key": "ILRI_actydatavailable",
+            "__extras": {
+                "package_id": "6450c85c-2daa-4476-a4ab-5ad92bd7ac97",
+                "revision_id": "b9d33ed3-d010-49eb-983d-fa5cfcf76ad8"
+            }
+        },
+        {
+            "value": "01/04/2011",
+            "key": "ILRI_actydatecollected",
+            "__extras": {
+                "revision_id": "b9d33ed3-d010-49eb-983d-fa5cfcf76ad8",
+                "package_id": "6450c85c-2daa-4476-a4ab-5ad92bd7ac97"
+            }
+        },
+        {
+            "value": "",
+            "key": "ILRI_actymapextent",
+            "__extras": {
+                "package_id": "6450c85c-2daa-4476-a4ab-5ad92bd7ac97",
+                "revision_id": "b9d33ed3-d010-49eb-983d-fa5cfcf76ad8"
+            }
+        },
+        {
+            "value": "",
+            "key": "ILRI_actymapzoom",
+            "__extras": {
+                "package_id": "6450c85c-2daa-4476-a4ab-5ad92bd7ac97",
+                "revision_id": "b9d33ed3-d010-49eb-983d-fa5cfcf76ad8"
+            }
+        },
+        {
+            "value": "",
+            "key": "ILRI_actynatlevel",
+            "__extras": {
+                "revision_id": "b9d33ed3-d010-49eb-983d-fa5cfcf76ad8",
+                "package_id": "6450c85c-2daa-4476-a4ab-5ad92bd7ac97"
+            }
+        },
+        {
+            "value": "Small Holder Livestock Keepers",
+            "key": "ILRI_actypartners",
+            "__extras": {
+                "revision_id": "b9d33ed3-d010-49eb-983d-fa5cfcf76ad8",
+                "package_id": "6450c85c-2daa-4476-a4ab-5ad92bd7ac97"
+            }
+        },
+        {
+            "value": "Dr. Ally Mwai Okeyo",
+            "key": "ILRI_actypi",
+            "__extras": {
+                "revision_id": "b9d33ed3-d010-49eb-983d-fa5cfcf76ad8",
+                "package_id": "6450c85c-2daa-4476-a4ab-5ad92bd7ac97"
+            }
+        },
+        {
+            "value": "Required for sensitive / private data like GPS coordinates",
+            "key": "ILRI_actysharingagreement",
+            "__extras": {
+                "revision_id": "b9d33ed3-d010-49eb-983d-fa5cfcf76ad8",
+                "package_id": "6450c85c-2daa-4476-a4ab-5ad92bd7ac97"
+            }
+        },
+        {
+            "value": "Dr. Julie Ojango, Dr. Isabelle Baltenweck, Dr. James Rao, Dr. Denis Mujiibi, Ms. Elizabeth Jane Poole",
+            "key": "ILRI_actystaff",
+            "__extras": {
+                "package_id": "6450c85c-2daa-4476-a4ab-5ad92bd7ac97",
+                "revision_id": "b9d33ed3-d010-49eb-983d-fa5cfcf76ad8"
+            }
+        },
+        {
+            "value": "Usage is restricted to Non-commercial purposes",
+            "key": "ILRI_actyusageconditions",
+            "__extras": {
+                "package_id": "6450c85c-2daa-4476-a4ab-5ad92bd7ac97",
+                "revision_id": "b9d33ed3-d010-49eb-983d-fa5cfcf76ad8"
+            }
+        },
+        {
+            "value": "DGEA will determine what are the most appropriate genotypes for the range of dairy production systems and levels of production operated by small-holder farmers in East Africa, and how these genotypes can be delivered to small-holders. The project partners will apply high density snp technology to determine breed composition of cows owned by small-holders, and combine this with traditional and participatory appraisal of animal and farm performance to determine which genotypes are most profitable at different levels of production. An assessment of the potential value of importing, testing and delivery of genotypes from elsewhere will be undertaken. A partnership will be developed that has a fully articulated business model ready to implement delivery of germplasm in a Phase II project and beyond. A design will also be developed for better delivery of R4D in livestock genetics in sub-Saharan Africa.",
+            "key": "ILRI_prjabstract",
+            "__extras": {
+                "revision_id": "b9d33ed3-d010-49eb-983d-fa5cfcf76ad8",
+                "package_id": "6450c85c-2daa-4476-a4ab-5ad92bd7ac97"
+            }
+        },
+        {
+            "value": "KENYA+UGANDA",
+            "key": "ILRI_prjcountries",
+            "__extras": {
+                "revision_id": "b9d33ed3-d010-49eb-983d-fa5cfcf76ad8",
+                "package_id": "6450c85c-2daa-4476-a4ab-5ad92bd7ac97"
+            }
+        },
+        {
+            "value": "Bill & Melinda Gates Foundation (BMGF)",
+            "key": "ILRI_prjdonor",
+            "__extras": {
+                "package_id": "6450c85c-2daa-4476-a4ab-5ad92bd7ac97",
+                "revision_id": "b9d33ed3-d010-49eb-983d-fa5cfcf76ad8"
+            }
+        },
+        {
+            "value": "31/03/2013",
+            "key": "ILRI_prjedate",
+            "__extras": {
+                "revision_id": "b9d33ed3-d010-49eb-983d-fa5cfcf76ad8",
+                "package_id": "6450c85c-2daa-4476-a4ab-5ad92bd7ac97"
+            }
+        },
+        {
+            "value": "UNE001",
+            "key": "ILRI_prjgrant",
+            "__extras": {
+                "revision_id": "b9d33ed3-d010-49eb-983d-fa5cfcf76ad8",
+                "package_id": "6450c85c-2daa-4476-a4ab-5ad92bd7ac97"
+            }
+        },
+        {
+            "value": "University of New England (UNE), Australia (Project lead organisation); ILRI;The Institute for People, Innovation and Change in Organizations (PICOTEAM) ",
+            "key": "ILRI_prjpartners",
+            "__extras": {
+                "revision_id": "b9d33ed3-d010-49eb-983d-fa5cfcf76ad8",
+                "package_id": "6450c85c-2daa-4476-a4ab-5ad92bd7ac97"
+            }
+        },
+        {
+            "value": "Professor John P Gibson",
+            "key": "ILRI_prjpi",
+            "__extras": {
+                "package_id": "6450c85c-2daa-4476-a4ab-5ad92bd7ac97",
+                "revision_id": "b9d33ed3-d010-49eb-983d-fa5cfcf76ad8"
+            }
+        },
+        {
+            "value": "EAST AFRICA",
+            "key": "ILRI_prjregions",
+            "__extras": {
+                "revision_id": "b9d33ed3-d010-49eb-983d-fa5cfcf76ad8",
+                "package_id": "6450c85c-2daa-4476-a4ab-5ad92bd7ac97"
+            }
+        },
+        {
+            "value": "01/09/2010",
+            "key": "ILRI_prjsdate",
+            "__extras": {
+                "package_id": "6450c85c-2daa-4476-a4ab-5ad92bd7ac97",
+                "revision_id": "b9d33ed3-d010-49eb-983d-fa5cfcf76ad8"
+            }
+        },
+        {
+            "value": "CATTLE",
+            "key": "ILRI_prjspecies",
+            "__extras": {
+                "revision_id": "b9d33ed3-d010-49eb-983d-fa5cfcf76ad8",
+                "package_id": "6450c85c-2daa-4476-a4ab-5ad92bd7ac97"
+            }
+        },
+        {
+            "value": "Dr. Ally Mwai Okeyo, Dr. Julie Ojango, Dr. Isabelle Baltenweck, Dr. James Rao, Dr. Denis Mujiibi, Ms. Elizabeth Jane Poole, Dr. Stephen Kemp",
+            "key": "ILRI_prjstaff",
+            "__extras": {
+                "package_id": "6450c85c-2daa-4476-a4ab-5ad92bd7ac97",
+                "revision_id": "b9d33ed3-d010-49eb-983d-fa5cfcf76ad8"
+            }
+        },
+        {
+            "value": "Germplasm for Dairy Development in East Africa. Phase I: Identifying appropriate germplasm and delivery mechanisms (DGEA1)",
+            "key": "ILRI_prjtitle",
+            "__extras": {
+                "revision_id": "b9d33ed3-d010-49eb-983d-fa5cfcf76ad8",
+                "package_id": "6450c85c-2daa-4476-a4ab-5ad92bd7ac97"
+            }
+        },
+        {
+            "value": "",
+            "key": "ILRI_prjwebsite",
+            "__extras": {
+                "package_id": "6450c85c-2daa-4476-a4ab-5ad92bd7ac97",
+                "revision_id": "b9d33ed3-d010-49eb-983d-fa5cfcf76ad8"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "organization": {
+        "description": "The International Livestock Research Institute (ILRI) works to improve food security and reduce poverty in developing countries through research for better and more sustainable use of livestock. ILRI is a member of the CGIAR Consortium which works for a food-secure future.",
+        "title": "ILRI",
+        "created": "2014-08-19T09:51:48.312508",
+        "approval_status": "approved",
+        "revision_timestamp": "2014-08-19T09:51:48.269962",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://www.fangrvn.com/upload/ilri_logo_color_1377842099.jpg",
+        "revision_id": "628af016-a0e5-4abb-8fa0-78160498318f",
+        "type": "organization",
+        "id": "d053dbc0-7a56-4798-b138-1e377618d497",
+        "name": "ilri"
+    },
+    "revision_id": "b9d33ed3-d010-49eb-983d-fa5cfcf76ad8",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

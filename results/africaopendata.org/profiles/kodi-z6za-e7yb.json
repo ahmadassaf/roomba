@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T12:04:49.350634",
+    "id": "7b5f2a27-444c-4e47-95a6-f2ac37c33928",
+    "metadata_created": "2012-09-10T12:04:49.350634",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:13:31.092938",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "c5377d6e-2a1a-4008-b07b-0144659ac41b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:13:31.092938",
+            "webstore_last_updated": "2013-10-10T12:13:31.022649",
+            "id": "1d344f9c-94d0-406b-acf7-97db8b341731",
+            "size": "2227",
+            "state": "active",
+            "hash": "22d0cfea4273b254eb532d20ce3f044a63d37310",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Poverty Rates by County.csv",
+            "created": "2012-09-11T13:36:31.478180",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T153916/z6za-e7yb.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:00:28.752584",
+            "position": 0,
+            "revision_id": "b9d08fe3-17b7-45e8-bc4a-ded5b4a6db10",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T12:04:49.350634",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T12:04:49.350634",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "poverty kihbs county",
+            "name": "poverty kihbs county",
+            "revision_timestamp": "2012-09-10T12:04:49.350634",
+            "state": "active",
+            "id": "4a0e9570-6a6e-446d-afbb-324ac5c03c47"
+        }
+    ],
+    "tracking_summary": {
+        "total": 39,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-z6za-e7yb",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "County poverty rates estimates based on KIHBS data for Constituencies in 2005/6",
+    "title": "Poverty Rates by County",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "7deaf4a7-3fee-4a27-bf38-29e83bf3d27e",
+                "package_id": "7b5f2a27-444c-4e47-95a6-f2ac37c33928"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "7deaf4a7-3fee-4a27-bf38-29e83bf3d27e",
+                "package_id": "7b5f2a27-444c-4e47-95a6-f2ac37c33928"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "7deaf4a7-3fee-4a27-bf38-29e83bf3d27e",
+                "package_id": "7b5f2a27-444c-4e47-95a6-f2ac37c33928"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "7deaf4a7-3fee-4a27-bf38-29e83bf3d27e"
+}

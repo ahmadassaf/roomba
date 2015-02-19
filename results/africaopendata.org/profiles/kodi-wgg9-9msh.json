@@ -1,0 +1,114 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:53:32.390541",
+    "id": "530f5932-36e3-4286-998a-aafe4ac1be6e",
+    "metadata_created": "2012-09-11T13:53:32.390541",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:04:44.714995",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "f3af6ed7-f0ed-4d29-b6fd-e683fb32f5e2",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:04:44.714995",
+            "webstore_last_updated": "2013-10-10T12:04:44.640903",
+            "id": "2e986625-5378-42f3-b723-b90f6af1d45c",
+            "size": "4257",
+            "state": "active",
+            "hash": "dd599d9fed254b7baf4db2b8a18df05cf827edbd",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Recurrent budget changes 2010 to 2011 Gross Budget Ksh.csv",
+            "created": "2012-09-11T13:53:32.433874",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155617/wgg9-9msh.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:40:57.981867",
+            "position": 0,
+            "revision_id": "95d3d605-e094-4f64-9399-70c4eee67211",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:53:32.390541",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:53:32.390541",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "public finance expenditures budget",
+            "name": "public finance expenditures budget",
+            "revision_timestamp": "2012-09-11T13:53:32.390541",
+            "state": "active",
+            "id": "075101f2-c523-4f02-b98c-1116506b7c83"
+        }
+    ],
+    "tracking_summary": {
+        "total": 65,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-wgg9-9msh",
+    "isopen": true,
+    "url": "http://www.kenyalaw.org/klr/fileadmin/pdfdownloads/bills/2011/APPROPRIATIONBILL2011.doc",
+    "notes": "Chart shows recurrent expenditure by administrative vote.  Size of box shows how large the vote is in the budget. Color shows changes from last years budget. Red indicates an increase (light red between 0 and 10 percent, red between 10 and 20 percent, dark red more than 20 percent.  Green indicates a decrease, (light green between 0 and 10 percent decrease, green between 10 and 20 percent decrease, dark green more than 20 percent decrease).",
+    "title": "Recurrent budget changes 2010 to 2011 Gross Budget Ksh",
+    "extras": [
+        {
+            "value": "Public Finance",
+            "key": "category",
+            "__extras": {
+                "revision_id": "498e06c0-abf1-47d0-b49f-df66c6604823",
+                "package_id": "530f5932-36e3-4286-998a-aafe4ac1be6e"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "498e06c0-abf1-47d0-b49f-df66c6604823",
+                "package_id": "530f5932-36e3-4286-998a-aafe4ac1be6e"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "498e06c0-abf1-47d0-b49f-df66c6604823"
+}

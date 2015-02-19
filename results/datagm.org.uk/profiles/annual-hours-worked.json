@@ -1,0 +1,103 @@
+{
+    "license_title": "localauth-withrights",
+    "maintainer": "Office  for National Statistics",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "info@statistics.gov.uk ",
+    "revision_timestamp": "2013-03-28T09:22:24.302645",
+    "id": "0a3e2dd8-ffbc-4e66-96b0-779df3ae842c",
+    "metadata_created": "2011-04-12T12:19:22.591124",
+    "owner_org": "f43f185f-3c59-4ced-ac96-bae6aa554e20",
+    "metadata_modified": "2013-12-08T06:27:30.974619",
+    "author": "Office for National Statistics",
+    "author_email": "info@statistics.gov.uk ",
+    "state": "active",
+    "version": null,
+    "license_id": "localauth-withrights",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "application/octet-stream",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "{\"content\": \"d9f60387a8630a91487c7286d38ae42c622816b9\", \"header\": \"8dc6225808dcd0b97b0ea499579345d349e57dd2\"}",
+            "description": "Number of annual hours worked",
+            "format": "CSV",
+            "url": "http://store.datagm.org.uk/sets/misc/AnnualSurveyHoursWorked.csv",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 2,
+                "recent": 1
+            },
+            "revision_timestamp": "2013-12-08T06:27:30.974619",
+            "webstore_url": null,
+            "resource_group_id": "5ab3e11a-8bbf-41b3-9cc4-a4ec51926bd0",
+            "state": "active",
+            "last_modified": "2013-12-08T06:27:30.955293",
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "43c5c836-9895-4025-8499-d629e3963c29",
+            "size": "2485",
+            "id": "e1c8efcf-4d13-404e-9f74-2a3c801c158b",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "employment",
+            "name": "employment",
+            "revision_timestamp": "2011-04-12T12:19:22.591124",
+            "state": "active",
+            "id": "5d92b0c5-067c-4ac7-9194-889dd3082a6d"
+        }
+    ],
+    "tracking_summary": {
+        "total": 13,
+        "recent": 1
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 1,
+    "name": "annual-hours-worked",
+    "isopen": false,
+    "url": "www.ons.gov.uk",
+    "notes": "Results for 2003 and earlier exclude supplementary surveys. In 2006 there\t\t\t\t\t\t\r\nwere a number of methodological changes made. For further details goto :\t\t\t\t\t\t\r\nhttp://www.nomisweb.co.uk/articles/341.aspx\t\t\t\t\t\t\r\nhttp://www.nomisweb.co.uk/articles/341.aspx\t\t\t\t\t\t\r\n",
+    "title": "Annual hours worked",
+    "extras": [
+        {
+            "value": "",
+            "key": "temporal_coverage-from",
+            "__extras": {
+                "revision_id": "90690d31-9009-4a81-ba83-1511aa3966e9",
+                "package_id": "0a3e2dd8-ffbc-4e66-96b0-779df3ae842c"
+            }
+        },
+        {
+            "value": "",
+            "key": "temporal_coverage-to",
+            "__extras": {
+                "package_id": "0a3e2dd8-ffbc-4e66-96b0-779df3ae842c",
+                "revision_id": "90690d31-9009-4a81-ba83-1511aa3966e9"
+            }
+        }
+    ],
+    "organization": {
+        "description": "",
+        "created": "2013-03-28T04:17:34.358882",
+        "title": "Association of Greater Manchester Authorities",
+        "name": "association-of-greater-manchester-authorities",
+        "revision_timestamp": "2013-12-05T15:02:37.169037",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://www.agma.gov.uk/cms_media/images/agma_small_logo.gif",
+        "revision_id": "05d96cc7-dcb8-45ec-b9e7-375afa1a88a3",
+        "type": "organization",
+        "id": "f43f185f-3c59-4ced-ac96-bae6aa554e20",
+        "approval_status": "approved"
+    },
+    "revision_id": "0aa579f4-28a0-4e31-b046-7a13ab946148"
+}

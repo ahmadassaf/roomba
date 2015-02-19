@@ -1,0 +1,155 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2014-11-04T22:26:37.681810",
+    "id": "63193453-80f9-4992-9d8f-c8b45b52b7b4",
+    "metadata_created": "2014-11-04T22:26:37.681810",
+    "owner_org": null,
+    "metadata_modified": "2014-11-04T22:26:37.681810",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": "",
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "d92b3907-037c-43b8-8560-7dcacf075661",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:26:37.681810",
+            "webstore_last_updated": "2014-08-15T18:59:24.063858",
+            "id": "d7494881-9262-4481-9195-aa255223f262",
+            "size": null,
+            "state": "active",
+            "hash": "3b8414de12a099f80d676f0da446ee6e",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "List of Airports",
+            "created": "2014-08-15T18:59:16.742591",
+            "url": "http://ourairports.com/countries/UG/airports.csv",
+            "webstore_url": "active",
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "108e5f71-a898-4bcd-b332-85d00db0d58d",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "d92b3907-037c-43b8-8560-7dcacf075661",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:26:37.681810",
+            "webstore_last_updated": null,
+            "id": "fed2014e-eee9-4cf8-bd22-29d23a21896b",
+            "size": null,
+            "state": "active",
+            "hash": "",
+            "description": "",
+            "format": "HTML",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "Webpage about Ugandan Airports",
+            "created": "2014-08-15T19:01:05.088804",
+            "url": "http://ourairports.com/countries/UG/#lat=1.538861,lon=32.133500000000026,zoom=6,type=Map,country=UG",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "108e5f71-a898-4bcd-b332-85d00db0d58d",
+            "resource_type": null
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Infrastructure",
+            "name": "Infrastructure",
+            "revision_timestamp": "2014-11-04T22:26:37.681810",
+            "state": "active",
+            "id": "aa1c8978-cf79-4ee6-8f2c-7ac020c1fe1b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:26:37.681810",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:26:37.681810",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:26:37.681810",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:26:37.681810",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:26:37.681810",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:26:37.681810",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 2,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 7,
+    "name": "ugandan-airports",
+    "isopen": true,
+    "url": "",
+    "notes": "information about Ugandan Airports",
+    "title": "Ugandan Airports",
+    "extras": [],
+    "organization": null,
+    "revision_id": "108e5f71-a898-4bcd-b332-85d00db0d58d"
+}

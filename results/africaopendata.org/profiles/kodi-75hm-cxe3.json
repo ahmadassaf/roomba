@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:49:01.691994",
+    "id": "a5c26b49-313c-4360-b470-fa48031c3d4b",
+    "metadata_created": "2012-09-11T13:49:01.691994",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:08:59.755277",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "e817e9b1-8404-4dfb-8f65-7f1deb09c39c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:08:59.755277",
+            "webstore_last_updated": "2013-10-10T12:08:59.593993",
+            "id": "1c4426ee-924c-4781-a01a-2bcde1e8ceff",
+            "size": "7170",
+            "state": "active",
+            "hash": "ec8194f072378f12358438ff66b4e5214d966332",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "2009 Census Volume II Table 8: Households by main source of water County Estimates.csv",
+            "created": "2012-09-11T13:49:01.746703",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155146/75hm-cxe3.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:42:59.852545",
+            "position": 0,
+            "revision_id": "313bd066-6d92-4931-af72-914be98cac5d",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:49:01.691994",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:49:01.691994",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "water counties census",
+            "name": "water counties census",
+            "revision_timestamp": "2012-09-11T13:49:01.691994",
+            "state": "active",
+            "id": "0c6b71ea-b1d5-41e7-8318-b4be649c7a71"
+        }
+    ],
+    "tracking_summary": {
+        "total": 29,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-75hm-cxe3",
+    "isopen": true,
+    "url": null,
+    "notes": "2009 Census Volume II Table 8: Households by main source of water County Estimates",
+    "title": "2009 Census Volume II Table 8: Households by main source of water County Estimates",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "4fadce15-60c4-4694-bd36-4beb7a4dc5b5",
+                "package_id": "a5c26b49-313c-4360-b470-fa48031c3d4b"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "4fadce15-60c4-4694-bd36-4beb7a4dc5b5",
+                "package_id": "a5c26b49-313c-4360-b470-fa48031c3d4b"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "4fadce15-60c4-4694-bd36-4beb7a4dc5b5",
+                "package_id": "a5c26b49-313c-4360-b470-fa48031c3d4b"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "4fadce15-60c4-4694-bd36-4beb7a4dc5b5"
+}

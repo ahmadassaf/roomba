@@ -1,0 +1,108 @@
+{
+    "license_title": "Open Data Commons Attribution License 1.0",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-11-05T08:55:45.087798",
+    "id": "fa53157e-770a-4780-8e93-c40d95727e33",
+    "metadata_created": "2012-11-05T08:32:53.682755",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:57:16.915069",
+    "author": "Ministry of Prisons, Government of Uganda",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "ODC-BY-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "9c93544c-65fe-4c6c-9526-45dd19646c92",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:57:16.915069",
+            "webstore_last_updated": "2013-10-10T10:57:16.853031",
+            "id": "d6efe94b-ec1e-47c3-ab26-0b4be30f92a8",
+            "size": "18131",
+            "state": "active",
+            "hash": "7f341f9da88b9125cd314cf72d73a295a78fb304",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 9,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "UgandaRegionalPrisonerStatistics.csv",
+            "created": "2012-11-05T08:55:30.612869",
+            "url": "http://africaopendata.org/storage/f/2012-11-05T08%3A55%3A24.421Z/ugandaregionalprisonerstatistics.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T10:47:29.768565",
+            "position": 0,
+            "revision_id": "a0bb04dd-5439-476d-8971-93ffad53c7bb",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Crime",
+            "name": "Crime",
+            "revision_timestamp": "2012-11-05T08:32:53.682755",
+            "state": "active",
+            "id": "f1e58c36-31a1-40e5-b0f4-9c3f91ac57b4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Prisons",
+            "name": "Prisons",
+            "revision_timestamp": "2012-11-05T08:32:53.682755",
+            "state": "active",
+            "id": "a54febdd-af62-411a-9cd0-fede201d9e1c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2012-11-05T08:32:53.682755",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        }
+    ],
+    "tracking_summary": {
+        "total": 113,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "uganda-crime-statistics-2011",
+    "isopen": true,
+    "url": null,
+    "notes": "Distribution of prisoners by region",
+    "title": "Uganda Crime Statistics 2011",
+    "extras": [],
+    "license_url": "http://www.opendefinition.org/licenses/odc-by",
+    "organization": null,
+    "revision_id": "35ca0b15-47f1-4c23-8b7e-62812ccc142b",
+    "license_information": {
+        "domain_content": false,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Open Data Commons",
+        "status": "active"
+    }
+}

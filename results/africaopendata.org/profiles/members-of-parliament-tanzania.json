@@ -1,0 +1,144 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Michael Bauer",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "michael.bauer@okfn.org",
+    "revision_timestamp": "2012-10-16T18:41:47.409547",
+    "id": "5f393630-821e-4df5-8e6b-3083e3023014",
+    "metadata_created": "2012-10-16T18:38:38.739489",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T11:52:51.381186",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "20544f99-1402-436c-b223-790197997ca7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T11:52:51.381186",
+            "webstore_last_updated": "2013-10-10T11:52:51.315514",
+            "id": "3747572a-fc56-4bb1-9a12-65c6395fae8a",
+            "size": "91179",
+            "state": "active",
+            "hash": "f94977184637a23b84cf6eb935bb7228f2f47124",
+            "description": "This CSV contains members of the parliament and their activities from http://www.parliament.go.tz",
+            "format": "",
+            "tracking_summary": {
+                "total": 4,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "CSV File",
+            "created": "2012-10-16T18:41:24.923509",
+            "url": "https://api.scraperwiki.com/api/1.0/datastore/sqlite?format=csv&name=mps_tanzania&query=select+*+from+%60swdata%60&apikey=",
+            "webstore_url": "active",
+            "last_modified": "2013-10-10T11:52:49.904169",
+            "position": 0,
+            "revision_id": "68258ce2-ce85-4d6a-a25e-96d586a17008",
+            "resource_type": "file"
+        },
+        {
+            "resource_group_id": "20544f99-1402-436c-b223-790197997ca7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-14T08:42:37.566757",
+            "webstore_last_updated": null,
+            "id": "70c9f7e2-497e-46a2-8e42-2da3b0baef2f",
+            "size": "26247",
+            "state": "active",
+            "hash": "",
+            "description": "",
+            "format": "",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "JSON - Members of the Parliament Tanzania",
+            "created": "2012-10-16T18:42:27.877951",
+            "url": "https://api.scraperwiki.com/api/1.0/datastore/sqlite?format=json&name=mps_tanzania&query=select+*+from+%60swdata%60&apikey=",
+            "webstore_url": null,
+            "last_modified": "2013-03-14T08:42:37.502680",
+            "position": 1,
+            "revision_id": "c1808673-fb64-419d-8dba-521e29d3d429",
+            "resource_type": "file"
+        },
+        {
+            "resource_group_id": "20544f99-1402-436c-b223-790197997ca7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-14T08:42:38.137706",
+            "webstore_last_updated": null,
+            "id": "ec2816f6-4351-4fea-90ac-3012d3d6ea00",
+            "size": "30257",
+            "state": "active",
+            "hash": "8cc3a1459cb34131a1d2ee68dbe79f574ef4be74",
+            "description": "This is the Scraperwiki API",
+            "format": "",
+            "tracking_summary": {
+                "total": 5,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Members of the Tanzanian Parliament",
+            "created": "2012-10-16T18:43:11.203920",
+            "url": "https://scraperwiki.com/docs/api?name=mps_tanzania#sqlite",
+            "webstore_url": null,
+            "last_modified": "2013-03-14T08:42:38.071967",
+            "position": 2,
+            "revision_id": "938764c9-4561-4858-af51-3bc746841f1f",
+            "resource_type": "api"
+        }
+    ],
+    "num_resources": 3,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "parliament",
+            "name": "parliament",
+            "revision_timestamp": "2012-10-16T18:38:38.739489",
+            "state": "active",
+            "id": "80e719d9-13c4-4fdf-ac73-8ff55ec3fb28"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "tanzania",
+            "name": "tanzania",
+            "revision_timestamp": "2012-10-16T18:38:38.739489",
+            "state": "active",
+            "id": "997a3ba2-c930-4949-85ea-feed429df6ce"
+        }
+    ],
+    "tracking_summary": {
+        "total": 205,
+        "recent": 5
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "members-of-parliament-tanzania",
+    "isopen": true,
+    "url": null,
+    "notes": "A list of Members of the Tanzanian Parliament - scraped from http://www.parliament.go.tz",
+    "title": "Members of Parliament Tanzania",
+    "extras": [
+        {
+            "value": "Scaperwiki",
+            "key": "Plattform",
+            "__extras": {
+                "revision_id": "7cf17273-0ba7-4563-98df-98a0bf409bbf",
+                "package_id": "5f393630-821e-4df5-8e6b-3083e3023014"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "980a4815-2e61-461c-a243-b4009e87f2b1"
+}

@@ -1,0 +1,182 @@
+{
+    "license_title": "CC0 1.0",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2013-05-24T07:43:44.728117",
+    "id": "43b73b23-fbe2-414d-a8fc-ed612603f5ed",
+    "metadata_created": "2013-05-15T10:37:11.070298",
+    "owner_org": null,
+    "metadata_modified": "2013-05-24T07:43:44.728117",
+    "author": "Provincie Noord-Holland",
+    "author_email": "reussinka@noord-holland.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "CC0-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "b8c34bc0-4d16-4021-9b3a-fa0a3a5934fd",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-05-24T07:43:44.728117",
+            "webstore_last_updated": null,
+            "id": "5eb2e878-6795-4bad-a672-abb394ec3c21",
+            "size": "202009",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "CSV",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "http://www.appsfornoordholland.nl/wp-content/uploads/2011/07/Bedrijventerreinen-Noord-Holland-2011-tbv-apps4nh.csv",
+            "created": "2013-05-24T09:43:44.778354",
+            "url": "http://www.appsfornoordholland.nl/wp-content/uploads/2011/07/Bedrijventerreinen-Noord-Holland-2011-tbv-apps4nh.csv",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "f464dc7a-c278-41f4-81a4-c2d052490b2c",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "bedrijven",
+            "name": "bedrijven",
+            "revision_timestamp": "2013-05-15T10:37:11.070298",
+            "state": "active",
+            "id": "213de9f3-15eb-4ef1-8529-862b82813db7"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "bedrijventerrein",
+            "name": "bedrijventerrein",
+            "revision_timestamp": "2013-05-15T10:37:11.070298",
+            "state": "active",
+            "id": "66bed1cd-061c-4d32-81a2-a133fb6b5c10"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "oppervlakte",
+            "name": "oppervlakte",
+            "revision_timestamp": "2013-05-15T10:37:11.070298",
+            "state": "active",
+            "id": "30c6a9fa-7293-42fd-b19a-29b901662158"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "terrein",
+            "name": "terrein",
+            "revision_timestamp": "2013-05-15T10:37:11.070298",
+            "state": "active",
+            "id": "2e2afc6b-24f1-429a-b2e5-8d2432f9520c"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Economie & Haven",
+            "description": "",
+            "name": "economie-haven",
+            "id": "0436932a-66f0-480b-9c68-ef542dcc7a09"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "bedrijventerreinen-noord-holland",
+    "isopen": true,
+    "url": null,
+    "notes": "Dit bestand bevat een overzicht van alle bedrijventerreinen in de provincie. Het bevat tevens specifieke kenmerken over bijvoorbeeld oppervlakte, uitgeefbaar terrein en mate van veroudering. Er is tevens GEO-informatie (GIS) beschikbaar. Updatefrequentie onbekend.",
+    "title": "Bedrijventerreinen Noord-Holland",
+    "extras": [
+        {
+            "value": "reussinka@noord-holland.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "43b73b23-fbe2-414d-a8fc-ed612603f5ed",
+                "revision_id": "786bcb11-abb3-4279-bbb7-61653efeb1f5"
+            }
+        },
+        {
+            "value": "Provincie Noord-Holland",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "786bcb11-abb3-4279-bbb7-61653efeb1f5",
+                "package_id": "43b73b23-fbe2-414d-a8fc-ed612603f5ed"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "786bcb11-abb3-4279-bbb7-61653efeb1f5",
+                "package_id": "43b73b23-fbe2-414d-a8fc-ed612603f5ed"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "786bcb11-abb3-4279-bbb7-61653efeb1f5",
+                "package_id": "43b73b23-fbe2-414d-a8fc-ed612603f5ed"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "43b73b23-fbe2-414d-a8fc-ed612603f5ed",
+                "revision_id": "786bcb11-abb3-4279-bbb7-61653efeb1f5"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "43b73b23-fbe2-414d-a8fc-ed612603f5ed",
+                "revision_id": "786bcb11-abb3-4279-bbb7-61653efeb1f5"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "786bcb11-abb3-4279-bbb7-61653efeb1f5",
+                "package_id": "43b73b23-fbe2-414d-a8fc-ed612603f5ed"
+            }
+        },
+        {
+            "value": "http://www.noord-holland.nl",
+            "key": "website",
+            "__extras": {
+                "package_id": "43b73b23-fbe2-414d-a8fc-ed612603f5ed",
+                "revision_id": "786bcb11-abb3-4279-bbb7-61653efeb1f5"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "organization": null,
+    "revision_id": "f464dc7a-c278-41f4-81a4-c2d052490b2c",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": true,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

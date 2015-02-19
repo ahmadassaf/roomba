@@ -1,0 +1,89 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-10-16T06:07:12.064636",
+    "id": "1da0a19c-39b0-4b5b-9843-36754e52e0f5",
+    "metadata_created": "2012-10-16T06:05:19.736285",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T11:55:26.924797",
+    "author": "Lesotho Bureau of Statistics",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "a622dfcb-4d20-433d-9348-f412a30c9a25",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T11:55:26.924797",
+            "webstore_last_updated": "2013-10-10T11:55:26.845887",
+            "id": "78db46b3-0ded-4167-9961-f27f5b2e7142",
+            "size": "8056",
+            "state": "active",
+            "hash": "346c6212a354c6553362081280ed207b064ff4ab",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Projects_in_Lesotho.csv",
+            "created": "2012-10-16T06:05:39.371797",
+            "url": "http://africaopendata.org/storage/f/2012-10-16T06%3A05%3A30.436Z/projects-in-lesotho.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:29:41.146027",
+            "position": 0,
+            "revision_id": "75851684-13ab-4182-a293-c999ce58f5da",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Republic of Lesotho",
+            "name": "Republic of Lesotho",
+            "revision_timestamp": "2012-10-16T06:05:19.736285",
+            "state": "active",
+            "id": "b8bd76d6-f032-446f-96f4-19e8a0344cf2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "UNDP",
+            "name": "UNDP",
+            "revision_timestamp": "2012-10-16T06:05:19.736285",
+            "state": "active",
+            "id": "653ba396-934d-4477-a335-d9057041ecf1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 50,
+        "recent": 4
+    },
+    "groups": [
+        {
+            "title": "Lesotho",
+            "description": "Republic of Lesotho",
+            "name": "lesotho",
+            "id": "648fc73e-d1e7-47a6-a030-f240849fed69"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "undp-projects-in-lesotho",
+    "isopen": false,
+    "url": null,
+    "notes": "Projects funded in Lesotho, includes expenditure, status, title and descriptions.",
+    "title": "UNDP Projects in Lesotho",
+    "extras": [],
+    "organization": null,
+    "revision_id": "4d3410d9-6f43-427f-9549-549ece5aafd6"
+}

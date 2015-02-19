@@ -1,0 +1,144 @@
+{
+    "license_title": "Open Data Commons Open Database License 1.0",
+    "maintainer": "Simeon Oriko",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "simeon@code4kenya.org",
+    "revision_timestamp": "2012-11-23T18:12:54.864268",
+    "id": "2a657444-22be-40f4-9298-872b092d7388",
+    "metadata_created": "2012-11-21T06:12:57.961357",
+    "owner_org": null,
+    "metadata_modified": "2014-01-25T18:32:14.232333",
+    "author": "Simeon Oriko",
+    "author_email": "simeon@code4kenya.org",
+    "state": "active",
+    "version": null,
+    "license_id": "ODbL-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "d797fe66-604c-4b6a-b7b3-79388ba801e1",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:55:44.921915",
+            "webstore_last_updated": "2013-10-10T10:55:44.860175",
+            "id": "b3ff4ffc-7dc5-4e43-abad-4139f400b980",
+            "size": "2175837",
+            "state": "active",
+            "hash": "f7f96208b29ef7f58e7e96b614025a9cdaa6a72c",
+            "description": "IEBC Voter Registration Centers 2012",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 13,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "reg_centers.csv",
+            "created": "2012-11-21T06:13:46.612656",
+            "url": "http://africaopendata.org/storage/f/2012-11-21T06%3A13%3A09.898Z/reg-centers.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:32:46.748593",
+            "position": 0,
+            "revision_id": "af3ffe21-6c80-4219-9097-afe5d81cf51e",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "d797fe66-604c-4b6a-b7b3-79388ba801e1",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-01-25T18:32:14.232333",
+            "webstore_last_updated": null,
+            "id": "732534a7-d005-4e8e-8273-886cfd11cc9a",
+            "size": "8071380",
+            "state": "active",
+            "hash": "",
+            "description": "",
+            "format": "PDF",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "IEBC Voter Registration Centres [PDF]",
+            "created": "2013-11-19T09:09:53.028167",
+            "url": "http://africaopendata.org/storage/f/2013-11-19T09%3A06%3A56.158Z/iebc-voter-registration-centres.pdf",
+            "webstore_url": null,
+            "last_modified": "2014-01-25T18:32:14.170137",
+            "position": 1,
+            "revision_id": "85b40225-f26d-40d6-809e-fd47d71b0dd9",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "GotToVote",
+            "name": "GotToVote",
+            "revision_timestamp": "2012-12-02T14:53:46.783855",
+            "state": "active",
+            "id": "758b6780-f868-4b49-a5ef-eb28a4410fe0"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "IEBC",
+            "name": "IEBC",
+            "revision_timestamp": "2012-12-03T15:34:08.910375",
+            "state": "active",
+            "id": "c735a9e8-9821-476b-86d8-d097a2a6d285"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "election",
+            "name": "election",
+            "revision_timestamp": "2012-11-21T06:12:57.961357",
+            "state": "active",
+            "id": "3751e8c5-646d-41fe-a0d0-aa59af0ade94"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "vote",
+            "name": "vote",
+            "revision_timestamp": "2012-11-21T06:12:57.961357",
+            "state": "active",
+            "id": "644aa2eb-ec15-4bd5-be0b-597c9eddf269"
+        }
+    ],
+    "tracking_summary": {
+        "total": 501,
+        "recent": 12
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "iebc-voter-registration-centres-2012",
+    "isopen": true,
+    "url": null,
+    "notes": "IEBC Voter Registration Centers 2012",
+    "title": "IEBC Voter Registration Centres 2012",
+    "extras": [],
+    "license_url": "http://www.opendefinition.org/licenses/odc-odbl",
+    "organization": null,
+    "revision_id": "f06406cd-6ca8-4190-8405-d2a0ecfd8f67",
+    "license_information": {
+        "domain_content": false,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "",
+        "status": "active"
+    }
+}

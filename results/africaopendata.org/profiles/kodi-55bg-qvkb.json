@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Kenya Visualization Bot",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T12:51:47.679008",
+    "id": "ffccc38e-d7f5-4146-bc96-1e2d3e34062b",
+    "metadata_created": "2012-09-10T12:51:47.679008",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:13:20.660302",
+    "author": "Chris Metcalf",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "f8226fdd-c297-4e40-a03e-199d05d13bd2",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:13:20.660302",
+            "webstore_last_updated": "2013-10-10T12:13:20.591209",
+            "id": "fa88d4ff-2f2f-4090-8958-7672cf6d9a8e",
+            "size": "262",
+            "state": "active",
+            "hash": "abb96693981bb74eae3f4299d7a23c485dea5055",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Wajir Age Pyramid.csv",
+            "created": "2012-09-11T13:37:17.520223",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T154000/55bg-qvkb.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T10:47:36.252541",
+            "position": 0,
+            "revision_id": "4948f533-48e3-44e8-8cb9-4b3939024f67",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T12:51:47.679008",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T12:51:47.679008",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population",
+            "name": "population",
+            "revision_timestamp": "2012-09-10T12:51:47.679008",
+            "state": "active",
+            "id": "c5e39de5-556e-4bcb-883b-5b9ec2481ae9"
+        }
+    ],
+    "tracking_summary": {
+        "total": 82,
+        "recent": 3
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-55bg-qvkb",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Male and female populations by age group.",
+    "title": "Wajir Age Pyramid",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "5ef3f8a5-7a14-44eb-be6d-996b66911fd0",
+                "package_id": "ffccc38e-d7f5-4146-bc96-1e2d3e34062b"
+            }
+        },
+        {
+            "value": "Population",
+            "key": "category",
+            "__extras": {
+                "revision_id": "5ef3f8a5-7a14-44eb-be6d-996b66911fd0",
+                "package_id": "ffccc38e-d7f5-4146-bc96-1e2d3e34062b"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "5ef3f8a5-7a14-44eb-be6d-996b66911fd0",
+                "package_id": "ffccc38e-d7f5-4146-bc96-1e2d3e34062b"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "5ef3f8a5-7a14-44eb-be6d-996b66911fd0"
+}

@@ -1,0 +1,130 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Chris Metcalf",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:56:27.971803",
+    "id": "ed1870a9-ff9d-4c84-99fd-2f27ee359c65",
+    "metadata_created": "2012-09-11T13:56:27.971803",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:03:07.853819",
+    "author": "Chris Metcalf",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "0d65546c-983d-47df-9681-6fa1ed07b07a",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:03:07.853819",
+            "webstore_last_updated": "2013-10-10T12:03:07.782050",
+            "id": "9e8cf255-0587-40d8-97df-f5640078b970",
+            "size": "265",
+            "state": "active",
+            "hash": "ad9562097e3a242f060238498cf97bb69fd79b7b",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Migori Pop Pyramid Age Groups - 2009.csv",
+            "created": "2012-09-11T13:56:28.014909",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155913/p9vn-e2ss.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T10:43:04.977212",
+            "position": 0,
+            "revision_id": "dcdfa934-d6bd-4c48-abf3-d5fbc367fc12",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "county",
+            "name": "county",
+            "revision_timestamp": "2012-09-11T13:56:27.971803",
+            "state": "active",
+            "id": "858f3acf-2c66-4fd9-9dc2-32e4f12121a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:56:27.971803",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:56:27.971803",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population",
+            "name": "population",
+            "revision_timestamp": "2012-09-11T13:56:27.971803",
+            "state": "active",
+            "id": "c5e39de5-556e-4bcb-883b-5b9ec2481ae9"
+        }
+    ],
+    "tracking_summary": {
+        "total": 58,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "kodi-p9vn-e2ss",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": null,
+    "title": "Migori Pop Pyramid Age Groups - 2009",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "42efb69b-399c-4e5d-bcc6-5d65aa1af95e",
+                "package_id": "ed1870a9-ff9d-4c84-99fd-2f27ee359c65"
+            }
+        },
+        {
+            "value": "Population",
+            "key": "category",
+            "__extras": {
+                "revision_id": "42efb69b-399c-4e5d-bcc6-5d65aa1af95e",
+                "package_id": "ed1870a9-ff9d-4c84-99fd-2f27ee359c65"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "42efb69b-399c-4e5d-bcc6-5d65aa1af95e",
+                "package_id": "ed1870a9-ff9d-4c84-99fd-2f27ee359c65"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "42efb69b-399c-4e5d-bcc6-5d65aa1af95e"
+}

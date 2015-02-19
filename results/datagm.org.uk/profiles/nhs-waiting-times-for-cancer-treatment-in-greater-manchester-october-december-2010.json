@@ -1,0 +1,141 @@
+{
+    "license_title": "UK Crown Copyright with data.gov.uk rights",
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "Cancer-waits@dh.gsi.gov.uk",
+    "revision_timestamp": "2011-05-17T13:18:22.134918",
+    "id": "04d9222d-79da-467b-9135-c4daf0741b8f",
+    "metadata_created": "2011-05-11T13:26:10.107159",
+    "owner_org": null,
+    "metadata_modified": "2013-12-08T06:29:09.578514",
+    "author": "Department of Health",
+    "author_email": "Cancer-waits@dh.gsi.gov.uk",
+    "state": "active",
+    "version": null,
+    "license_id": "ukcrown-withrights",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "application/vnd.ms-excel",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "{\"content\": \"77398a1c0b425cab48bd6a73b3be797fedff1fd2\", \"header\": \"a325b4a538abb14fc750bb00daf6440b4af192d5\"}",
+            "description": "",
+            "format": "XLS",
+            "url": "http://store.datagm.org.uk/sets/misc/DoHCancerWaitingTimesGMOct-Dec2010.xls",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 2,
+                "recent": 1
+            },
+            "revision_timestamp": "2013-12-08T06:29:09.578514",
+            "webstore_url": "active",
+            "resource_group_id": "5a551c92-75b3-4994-8380-3161f7458e75",
+            "state": "active",
+            "last_modified": "2013-12-08T06:29:09.266274",
+            "webstore_last_updated": "2013-12-08T06:29:09.561150",
+            "position": 0,
+            "revision_id": "11048dd0-c4a8-4d74-9729-3abdd0a04a76",
+            "size": "274432",
+            "id": "cca64b51-e943-426e-ad22-dd8913187cfd",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "cancer",
+            "name": "cancer",
+            "revision_timestamp": "2011-05-11T13:26:10.107159",
+            "state": "active",
+            "id": "dc12e567-c493-4905-81f0-d07888876a26"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "greater",
+            "name": "greater",
+            "revision_timestamp": "2011-05-11T13:26:10.107159",
+            "state": "active",
+            "id": "11932b0d-6250-4c8f-a7cd-dfeb2e7cf9b5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "manchester",
+            "name": "manchester",
+            "revision_timestamp": "2011-05-11T13:26:10.107159",
+            "state": "active",
+            "id": "2c2ae44c-70ae-43b7-a297-c66ceac0b759"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "nhs",
+            "name": "nhs",
+            "revision_timestamp": "2011-05-11T13:26:10.107159",
+            "state": "active",
+            "id": "7240e766-577a-4e3a-be51-711f9c543483"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "treatment",
+            "name": "treatment",
+            "revision_timestamp": "2011-05-11T13:26:10.107159",
+            "state": "active",
+            "id": "62da8bf4-c6b7-4637-a090-dc9dcca55c8f"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "waiting",
+            "name": "waiting",
+            "revision_timestamp": "2011-05-11T13:26:10.107159",
+            "state": "active",
+            "id": "a80be3dd-7d98-4743-9278-1e687fdcb8f0"
+        }
+    ],
+    "tracking_summary": {
+        "total": 15,
+        "recent": 2
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "nhs-waiting-times-for-cancer-treatment-in-greater-manchester-october-december-2010",
+    "isopen": false,
+    "url": "http://store.datagm.org.uk/sets/misc/DoHCancerWaitingTimesGMOct-Dec2010.xls",
+    "notes": "Waiting times in Greater Manchester for cancer treatment for the period October to December 2010",
+    "title": "NHS Waiting Times For Cancer Treatment in Greater Manchester October to December 2010",
+    "extras": [
+        {
+            "value": "2010-10-01",
+            "key": "temporal_coverage-from",
+            "__extras": {
+                "package_id": "04d9222d-79da-467b-9135-c4daf0741b8f",
+                "revision_id": "d2570607-f8ae-4c03-8d18-3846ca5cb2a3"
+            }
+        },
+        {
+            "value": "2010-12-31",
+            "key": "temporal_coverage-to",
+            "__extras": {
+                "revision_id": "d2570607-f8ae-4c03-8d18-3846ca5cb2a3",
+                "package_id": "04d9222d-79da-467b-9135-c4daf0741b8f"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "0a992b51-c6ca-4189-8b54-2ef7c92c9353",
+    "license_url": "",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": false,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "",
+        "status": "active"
+    }
+}

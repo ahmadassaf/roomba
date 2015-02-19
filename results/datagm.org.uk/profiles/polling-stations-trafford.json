@@ -1,0 +1,119 @@
+{
+    "license_title": "localauth-withrights",
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2013-03-28T09:25:59.185187",
+    "id": "0b8d5b81-9b6d-41b2-a4e7-81d5d13741aa",
+    "metadata_created": "2011-04-12T13:50:15.945821",
+    "owner_org": "c62ec0c2-ed92-418f-8620-967baf5806a6",
+    "metadata_modified": "2015-01-13T11:03:32.619917",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "localauth-withrights",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "",
+            "format": "XML",
+            "url": "http://www.trafford.gov.uk/opendata/sets/pollingstations.xml",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "revision_timestamp": "2013-05-06T09:30:16.680714",
+            "webstore_url": null,
+            "resource_group_id": "710edd60-afab-4b95-8eaa-8b3135b763e5",
+            "state": "active",
+            "last_modified": "2013-05-06T04:30:16.669360",
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "b062096b-4872-4fcc-bf71-7cee0681fe45",
+            "size": "43767",
+            "id": "5ed8c567-64a8-4840-b236-068db65bfffa",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "polling",
+            "name": "polling",
+            "revision_timestamp": "2011-04-12T13:50:15.945821",
+            "state": "active",
+            "id": "3cdabb52-cd76-4a25-acec-2c44e5f83f5f"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "stations",
+            "name": "stations",
+            "revision_timestamp": "2011-04-12T13:50:15.945821",
+            "state": "active",
+            "id": "aa5b8a09-55aa-44d8-b66e-48f6eff0afdf"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "trafford",
+            "name": "trafford",
+            "revision_timestamp": "2011-04-12T13:50:15.945821",
+            "state": "active",
+            "id": "4741356b-543a-4f8e-8bf6-cf46d9206feb"
+        }
+    ],
+    "tracking_summary": {
+        "total": 5,
+        "recent": 4
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "polling-stations-trafford",
+    "isopen": false,
+    "url": "http://www.trafford.gov.uk/opendata/sets/pollingstations.xml",
+    "notes": "Location of Polling Stations in Trafford",
+    "title": "Polling Stations Trafford",
+    "extras": [
+        {
+            "value": "",
+            "key": "temporal_coverage-from",
+            "__extras": {
+                "package_id": "0b8d5b81-9b6d-41b2-a4e7-81d5d13741aa",
+                "revision_id": "539e1de9-05fa-40d1-a77d-0fd30323c759"
+            }
+        },
+        {
+            "value": "",
+            "key": "temporal_coverage-to",
+            "__extras": {
+                "package_id": "0b8d5b81-9b6d-41b2-a4e7-81d5d13741aa",
+                "revision_id": "539e1de9-05fa-40d1-a77d-0fd30323c759"
+            }
+        }
+    ],
+    "organization": {
+        "description": "",
+        "created": "2013-03-28T04:18:54.382589",
+        "title": "Trafford Council",
+        "name": "trafford-council",
+        "revision_timestamp": "2015-01-13T11:03:32.619917",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://www.trafford.gov.uk/SiteElements/Images/TClogo.png",
+        "revision_id": "aa2e80cf-5dc8-4d91-9ae2-98cd171c0170",
+        "type": "organization",
+        "id": "c62ec0c2-ed92-418f-8620-967baf5806a6",
+        "approval_status": "approved"
+    },
+    "revision_id": "18f8e27c-a6c2-4394-afdf-1c3b5e945db5"
+}

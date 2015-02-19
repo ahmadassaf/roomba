@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Samuel Kipruto",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:57:03.158749",
+    "id": "4889a162-53d9-43f1-8e66-4d12a7b34145",
+    "metadata_created": "2012-09-11T13:57:03.158749",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:02:59.858959",
+    "author": "Samuel Kipruto",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "16504d0e-5d3c-470b-bbee-09323d7c5e98",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:02:59.858959",
+            "webstore_last_updated": "2013-10-10T12:02:59.794049",
+            "id": "ae03d02f-5786-4231-b196-da2df1dd1728",
+            "size": "7181",
+            "state": "active",
+            "hash": "2946c46af773e109e7e31a9a698502d261aca05c",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Gross Domestic Product at Current Prices, 1998-2003.csv",
+            "created": "2012-09-11T13:57:03.651768",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155945/nxqj-wvy9.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:39:17.971972",
+            "position": 0,
+            "revision_id": "849987d9-fcd2-4caf-b573-4760cd40ff6c",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "groos domestic product",
+            "name": "groos domestic product",
+            "revision_timestamp": "2012-09-11T13:57:03.158749",
+            "state": "active",
+            "id": "6267ef4f-9236-4535-b93f-eebf2286823e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:57:03.158749",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:57:03.158749",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 58,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-nxqj-wvy9",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Statistical Abstract  Table 33",
+    "title": "Gross Domestic Product at Current Prices, 1998-2003",
+    "extras": [
+        {
+            "value": "Kenya National Bureau of Statistics",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "a858156d-637a-46bd-89d0-50d443ea6d0b",
+                "package_id": "4889a162-53d9-43f1-8e66-4d12a7b34145"
+            }
+        },
+        {
+            "value": "Economy",
+            "key": "category",
+            "__extras": {
+                "revision_id": "a858156d-637a-46bd-89d0-50d443ea6d0b",
+                "package_id": "4889a162-53d9-43f1-8e66-4d12a7b34145"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "a858156d-637a-46bd-89d0-50d443ea6d0b",
+                "package_id": "4889a162-53d9-43f1-8e66-4d12a7b34145"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "a858156d-637a-46bd-89d0-50d443ea6d0b"
+}

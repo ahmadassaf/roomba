@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Saf",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:49:50.777165",
+    "id": "ad7939ba-d3b8-4092-a564-2e4af8edeb17",
+    "metadata_created": "2012-09-11T13:49:50.777165",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:08:44.694523",
+    "author": "Chris Metcalf",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "73ced2ee-71c6-4dae-a609-39caa46c1f40",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:08:44.694523",
+            "webstore_last_updated": "2013-10-10T12:08:44.612408",
+            "id": "d0ce3f73-04a3-4c09-9fce-ce1e9277f75c",
+            "size": "264",
+            "state": "active",
+            "hash": "ffd87261ee50754a5a4504a7d5a04da10503536a",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Population By Age Group Bomet County.csv",
+            "created": "2012-09-11T13:49:50.819022",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155235/sn7t-f6yk.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:43:23.527704",
+            "position": 0,
+            "revision_id": "48c19ec2-21f5-4344-809f-a36afe7dde79",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:49:50.777165",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:49:50.777165",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population",
+            "name": "population",
+            "revision_timestamp": "2012-09-11T13:49:50.777165",
+            "state": "active",
+            "id": "c5e39de5-556e-4bcb-883b-5b9ec2481ae9"
+        }
+    ],
+    "tracking_summary": {
+        "total": 50,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-sn7t-f6yk",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": null,
+    "title": "Population By Age Group Bomet County",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "090f1cbc-cbd0-4887-b9db-5dfe14557272",
+                "package_id": "ad7939ba-d3b8-4092-a564-2e4af8edeb17"
+            }
+        },
+        {
+            "value": "Population",
+            "key": "category",
+            "__extras": {
+                "revision_id": "090f1cbc-cbd0-4887-b9db-5dfe14557272",
+                "package_id": "ad7939ba-d3b8-4092-a564-2e4af8edeb17"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "090f1cbc-cbd0-4887-b9db-5dfe14557272",
+                "package_id": "ad7939ba-d3b8-4092-a564-2e4af8edeb17"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "090f1cbc-cbd0-4887-b9db-5dfe14557272"
+}

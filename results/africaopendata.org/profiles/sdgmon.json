@@ -1,0 +1,365 @@
+{
+    "license_title": "Creative Commons Attribution Share-Alike 4.0",
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-12T22:54:06.578611",
+    "id": "f78eb300-32e3-4ae7-90ac-7d3544b8d566",
+    "metadata_created": "2014-11-12T22:54:06.578611",
+    "owner_org": "d053dbc0-7a56-4798-b138-1e377618d497",
+    "metadata_modified": "2014-11-12T22:57:30.776734",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-SA-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "91e26566-665a-4ee5-b186-86aa20994187",
+            "resource_description": "Longitudinal Monitoring Survey Database. **Data collections is ongoing**. The database currently covers Cycle 2 to 8\r\n\r\n**WARNING:** Data cleaning is on going. We remind users that data downloadable from the portal is for analysis ONLY. Any cleaning happening to these files WILL NOT affect the database but it should be reported to the main researcher (see Metadata for more information).",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-12T22:57:30.776734",
+            "webstore_last_updated": null,
+            "id": "0ce5029d-b75d-400a-8b0f-a2e99e69b18f",
+            "size": "9370",
+            "state": "active",
+            "hash": "da4e3bd1a181ae5ee4c8980285110b16be8ec517",
+            "description": "{\"resource_description\":\"Longitudinal Monitoring Survey Database. **Data collections is ongoing**. The database currently covers Cycle 2 to 8\\n\\n**WARNING:** Data cleaning is on going. We remind users that data downloadable from the portal is for analysis ONLY. Any cleaning happening to these files WILL NOT affect the database but it should be reported to the main researcher (see Metadata for more information).\",\"resource_access\":\"Private\"}",
+            "format": "getdata",
+            "tracking_summary": {
+                "total": 6,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Longitudinal Monitoring Survey Database (Cycle 2 to 8)",
+            "created": "2014-07-09T05:56:32.546612",
+            "url": "http://data.ilri.org/portal/",
+            "webstore_url": null,
+            "last_modified": "2014-11-12T22:57:30.611934",
+            "position": 0,
+            "revision_id": "89187bfb-dcc3-470f-bf7b-8c8b1dfe37e0",
+            "ILRIResourceAccess": "Private",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "breeding",
+            "name": "breeding",
+            "revision_timestamp": "2014-11-12T22:54:06.578611",
+            "state": "active",
+            "id": "0b977f4b-9889-4ab3-a474-7adcf52e2255"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "cattle",
+            "name": "cattle",
+            "revision_timestamp": "2014-11-12T22:54:06.578611",
+            "state": "active",
+            "id": "d6f4411c-ac44-47af-94ab-35d22119bd31"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "livestock",
+            "name": "livestock",
+            "revision_timestamp": "2014-11-12T22:54:06.578611",
+            "state": "active",
+            "id": "0ad5c5be-d2e6-4413-b40f-b94ec97ab91a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "production",
+            "name": "production",
+            "revision_timestamp": "2014-11-12T22:54:06.578611",
+            "state": "active",
+            "id": "171ca36f-36db-48ae-ab9c-7ff00aa5c2dd"
+        }
+    ],
+    "tracking_summary": {
+        "total": 14,
+        "recent": 1
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "sdgmon",
+    "isopen": true,
+    "url": "http://data.ilri.org/portal/",
+    "notes": "The project “Improved food and nutritional security from better utilisation of dairy cattle breed-types types in Senegal” (SDG), is led by the International Livestock Research Institute (ILRI), in partnership with the the Interstate School of Veterinary science and Medicine of Dakar, the University of Helsinki and Agrifood Research Finland. It is funded via the Finnish Government’s FoodAfrica Programme. SDG aims at: A) Determine the most appropriate dairy breed/cross-breed types for peri-urban dairy produc­tion systems in Senegal, and disseminate this infor­mation; B) Characterise the dairy germplasm production chain, and related policies, and use this infor­mation to develop a strategy for strengthened dairy germplasm production and delivery systems and ; C) Enhance local human, institutional and organi­zational capacity on accessing and promoting different breeds/cross-breeds of livestock.\r\n\r\nThis dataset contains the Longitudinal Monitoring Survey.\r\n\r\n**WARNING:** Data cleaning is on going. We remind users that data downloadable from the portal is for analysis **ONLY**. Any cleaning happening to these files **WILL NOT** affect the database. Errors and inconsistencies **MUST** be reported to the project staff in charge of cleaning.",
+    "title": "SDG - Longitudinal Monitoring Survey",
+    "extras": [
+        {
+            "value": "",
+            "key": "ILRI_actyboundbox",
+            "__extras": {
+                "revision_id": "2cfead6d-9ca6-4928-93fb-3ecdeb863bc5",
+                "package_id": "f78eb300-32e3-4ae7-90ac-7d3544b8d566"
+            }
+        },
+        {
+            "value": "",
+            "key": "ILRI_actyboundboxcenter",
+            "__extras": {
+                "revision_id": "2cfead6d-9ca6-4928-93fb-3ecdeb863bc5",
+                "package_id": "f78eb300-32e3-4ae7-90ac-7d3544b8d566"
+            }
+        },
+        {
+            "value": "Not available yet",
+            "key": "ILRI_actycitation",
+            "__extras": {
+                "revision_id": "2cfead6d-9ca6-4928-93fb-3ecdeb863bc5",
+                "package_id": "f78eb300-32e3-4ae7-90ac-7d3544b8d566"
+            }
+        },
+        {
+            "value": "Not available yet",
+            "key": "ILRI_actycitationacknowledge",
+            "__extras": {
+                "revision_id": "2cfead6d-9ca6-4928-93fb-3ecdeb863bc5",
+                "package_id": "f78eb300-32e3-4ae7-90ac-7d3544b8d566"
+            }
+        },
+        {
+            "value": "K.Marshall@cgiar.org",
+            "key": "ILRI_actycontactemail",
+            "__extras": {
+                "package_id": "f78eb300-32e3-4ae7-90ac-7d3544b8d566",
+                "revision_id": "2cfead6d-9ca6-4928-93fb-3ecdeb863bc5"
+            }
+        },
+        {
+            "value": "Karen Marshall",
+            "key": "ILRI_actycontactperson",
+            "__extras": {
+                "package_id": "f78eb300-32e3-4ae7-90ac-7d3544b8d566",
+                "revision_id": "2cfead6d-9ca6-4928-93fb-3ecdeb863bc5"
+            }
+        },
+        {
+            "value": "ILRI",
+            "key": "ILRI_actydataowner",
+            "__extras": {
+                "revision_id": "2cfead6d-9ca6-4928-93fb-3ecdeb863bc5",
+                "package_id": "f78eb300-32e3-4ae7-90ac-7d3544b8d566"
+            }
+        },
+        {
+            "value": "To be defined",
+            "key": "ILRI_actydatavailable",
+            "__extras": {
+                "package_id": "f78eb300-32e3-4ae7-90ac-7d3544b8d566",
+                "revision_id": "2cfead6d-9ca6-4928-93fb-3ecdeb863bc5"
+            }
+        },
+        {
+            "value": "15/07/2013",
+            "key": "ILRI_actydatecollected",
+            "__extras": {
+                "revision_id": "2cfead6d-9ca6-4928-93fb-3ecdeb863bc5",
+                "package_id": "f78eb300-32e3-4ae7-90ac-7d3544b8d566"
+            }
+        },
+        {
+            "value": "",
+            "key": "ILRI_actymapextent",
+            "__extras": {
+                "package_id": "f78eb300-32e3-4ae7-90ac-7d3544b8d566",
+                "revision_id": "2cfead6d-9ca6-4928-93fb-3ecdeb863bc5"
+            }
+        },
+        {
+            "value": "",
+            "key": "ILRI_actymapzoom",
+            "__extras": {
+                "package_id": "f78eb300-32e3-4ae7-90ac-7d3544b8d566",
+                "revision_id": "2cfead6d-9ca6-4928-93fb-3ecdeb863bc5"
+            }
+        },
+        {
+            "value": "",
+            "key": "ILRI_actynatlevel",
+            "__extras": {
+                "revision_id": "2cfead6d-9ca6-4928-93fb-3ecdeb863bc5",
+                "package_id": "f78eb300-32e3-4ae7-90ac-7d3544b8d566"
+            }
+        },
+        {
+            "value": "Interstate School of Veterinary science and Medicine of Dakar, University of Helsinki and Agrifood Research Finland",
+            "key": "ILRI_actypartners",
+            "__extras": {
+                "revision_id": "2cfead6d-9ca6-4928-93fb-3ecdeb863bc5",
+                "package_id": "f78eb300-32e3-4ae7-90ac-7d3544b8d566"
+            }
+        },
+        {
+            "value": "Karen Marshall",
+            "key": "ILRI_actypi",
+            "__extras": {
+                "revision_id": "2cfead6d-9ca6-4928-93fb-3ecdeb863bc5",
+                "package_id": "f78eb300-32e3-4ae7-90ac-7d3544b8d566"
+            }
+        },
+        {
+            "value": "Needed for sensitive data like GPS coordinates",
+            "key": "ILRI_actysharingagreement",
+            "__extras": {
+                "revision_id": "2cfead6d-9ca6-4928-93fb-3ecdeb863bc5",
+                "package_id": "f78eb300-32e3-4ae7-90ac-7d3544b8d566"
+            }
+        },
+        {
+            "value": "Jane Poole, Isabelle Baltenweck and others",
+            "key": "ILRI_actystaff",
+            "__extras": {
+                "revision_id": "2cfead6d-9ca6-4928-93fb-3ecdeb863bc5",
+                "package_id": "f78eb300-32e3-4ae7-90ac-7d3544b8d566"
+            }
+        },
+        {
+            "value": "For non-commercial purposes",
+            "key": "ILRI_actyusageconditions",
+            "__extras": {
+                "package_id": "f78eb300-32e3-4ae7-90ac-7d3544b8d566",
+                "revision_id": "2cfead6d-9ca6-4928-93fb-3ecdeb863bc5"
+            }
+        },
+        {
+            "value": "SDG is led by the International Livestock Research Institute (ILRI), in partnership with the the Interstate School of Veterinary science and Medicine of Dakar, the University of Helsinki and Agrifood Research Finland. It is funded via the Finnish Government’s FoodAfrica Programme. SDG aims at: a) Determine the most appropriate dairy breed/cross-breed types for peri-urban dairy produc­tion systems in Senegal, and disseminate this infor­mation; B) Characterise the dairy germplasm production chain, and related policies, and use this infor­mation to develop a strategy for strengthened dairy germplasm production and delivery systems and ; C) Enhance local human, institutional and organi­zational capacity on accessing and promoting different breeds/cross-breeds of livestock.",
+            "key": "ILRI_prjabstract",
+            "__extras": {
+                "revision_id": "2cfead6d-9ca6-4928-93fb-3ecdeb863bc5",
+                "package_id": "f78eb300-32e3-4ae7-90ac-7d3544b8d566"
+            }
+        },
+        {
+            "value": "SENEGAL",
+            "key": "ILRI_prjcountries",
+            "__extras": {
+                "revision_id": "2cfead6d-9ca6-4928-93fb-3ecdeb863bc5",
+                "package_id": "f78eb300-32e3-4ae7-90ac-7d3544b8d566"
+            }
+        },
+        {
+            "value": "Ministry for Foreign Affairs of Finland",
+            "key": "ILRI_prjdonor",
+            "__extras": {
+                "package_id": "f78eb300-32e3-4ae7-90ac-7d3544b8d566",
+                "revision_id": "2cfead6d-9ca6-4928-93fb-3ecdeb863bc5"
+            }
+        },
+        {
+            "value": "31/07/2015",
+            "key": "ILRI_prjedate",
+            "__extras": {
+                "revision_id": "2cfead6d-9ca6-4928-93fb-3ecdeb863bc5",
+                "package_id": "f78eb300-32e3-4ae7-90ac-7d3544b8d566"
+            }
+        },
+        {
+            "value": "",
+            "key": "ILRI_prjgrant",
+            "__extras": {
+                "package_id": "f78eb300-32e3-4ae7-90ac-7d3544b8d566",
+                "revision_id": "2cfead6d-9ca6-4928-93fb-3ecdeb863bc5"
+            }
+        },
+        {
+            "value": "Interstate School of Veterinary science and Medicine of Dakar, the University of Helsinki and Agrifood Research Finland",
+            "key": "ILRI_prjpartners",
+            "__extras": {
+                "package_id": "f78eb300-32e3-4ae7-90ac-7d3544b8d566",
+                "revision_id": "2cfead6d-9ca6-4928-93fb-3ecdeb863bc5"
+            }
+        },
+        {
+            "value": "Karen Marshall",
+            "key": "ILRI_prjpi",
+            "__extras": {
+                "package_id": "f78eb300-32e3-4ae7-90ac-7d3544b8d566",
+                "revision_id": "2cfead6d-9ca6-4928-93fb-3ecdeb863bc5"
+            }
+        },
+        {
+            "value": "WEST AFRICA",
+            "key": "ILRI_prjregions",
+            "__extras": {
+                "revision_id": "2cfead6d-9ca6-4928-93fb-3ecdeb863bc5",
+                "package_id": "f78eb300-32e3-4ae7-90ac-7d3544b8d566"
+            }
+        },
+        {
+            "value": "01/01/2012",
+            "key": "ILRI_prjsdate",
+            "__extras": {
+                "package_id": "f78eb300-32e3-4ae7-90ac-7d3544b8d566",
+                "revision_id": "2cfead6d-9ca6-4928-93fb-3ecdeb863bc5"
+            }
+        },
+        {
+            "value": "CATTLE",
+            "key": "ILRI_prjspecies",
+            "__extras": {
+                "revision_id": "2cfead6d-9ca6-4928-93fb-3ecdeb863bc5",
+                "package_id": "f78eb300-32e3-4ae7-90ac-7d3544b8d566"
+            }
+        },
+        {
+            "value": "Jane Poole, Isabelle Baltenweck and others",
+            "key": "ILRI_prjstaff",
+            "__extras": {
+                "package_id": "f78eb300-32e3-4ae7-90ac-7d3544b8d566",
+                "revision_id": "2cfead6d-9ca6-4928-93fb-3ecdeb863bc5"
+            }
+        },
+        {
+            "value": "Improved food and nutritional security from better utilisation of dairy cattle breed-types types in Senegal (SDG))",
+            "key": "ILRI_prjtitle",
+            "__extras": {
+                "revision_id": "2cfead6d-9ca6-4928-93fb-3ecdeb863bc5",
+                "package_id": "f78eb300-32e3-4ae7-90ac-7d3544b8d566"
+            }
+        },
+        {
+            "value": "http://senegaldairy.wordpress.com/",
+            "key": "ILRI_prjwebsite",
+            "__extras": {
+                "package_id": "f78eb300-32e3-4ae7-90ac-7d3544b8d566",
+                "revision_id": "2cfead6d-9ca6-4928-93fb-3ecdeb863bc5"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "organization": {
+        "description": "The International Livestock Research Institute (ILRI) works to improve food security and reduce poverty in developing countries through research for better and more sustainable use of livestock. ILRI is a member of the CGIAR Consortium which works for a food-secure future.",
+        "title": "ILRI",
+        "created": "2014-08-19T09:51:48.312508",
+        "approval_status": "approved",
+        "revision_timestamp": "2014-08-19T09:51:48.269962",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://www.fangrvn.com/upload/ilri_logo_color_1377842099.jpg",
+        "revision_id": "628af016-a0e5-4abb-8fa0-78160498318f",
+        "type": "organization",
+        "id": "d053dbc0-7a56-4798-b138-1e377618d497",
+        "name": "ilri"
+    },
+    "revision_id": "2cfead6d-9ca6-4928-93fb-3ecdeb863bc5",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

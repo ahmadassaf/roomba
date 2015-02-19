@@ -1,0 +1,191 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Michael Bauer",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "michael.bauer@okfn.org",
+    "revision_timestamp": "2012-10-22T15:44:18.226549",
+    "id": "7ef35d04-a787-468e-b87b-feea659888f4",
+    "metadata_created": "2012-10-22T15:41:10.296195",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T11:00:54.847226",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "7b583d73-e1c8-47da-9ca4-633d38613bcd",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T11:00:54.847226",
+            "webstore_last_updated": "2013-10-10T11:00:54.714677",
+            "id": "eccd6c0e-a26d-4fe5-97c2-3634e4b657a2",
+            "size": "423043",
+            "state": "active",
+            "hash": "3500502bf1224e33cf623bd65c69f6c19223ce52",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 3,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Government Tenders Ghana",
+            "created": "2012-10-22T15:41:51.565377",
+            "url": "https://api.scraperwiki.com/api/1.0/datastore/sqlite?format=csv&name=awarded_tenders_ghana&query=select+*+from+%60swdata%60&apikey=",
+            "webstore_url": "active",
+            "last_modified": "2013-10-10T11:00:46.483911",
+            "position": 0,
+            "revision_id": "0c99ddc7-5a74-40dd-b2e4-8ace7571835e",
+            "resource_type": "file"
+        },
+        {
+            "resource_group_id": "7b583d73-e1c8-47da-9ca4-633d38613bcd",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-14T09:01:32.344488",
+            "webstore_last_updated": null,
+            "id": "fe4374ab-e05d-44bc-8af6-9072ff1d4a84",
+            "size": "74576",
+            "state": "active",
+            "hash": "",
+            "description": "",
+            "format": "JSON",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "Government Tenders Ghana - JSON",
+            "created": "2012-10-22T15:42:11.168028",
+            "url": "https://api.scraperwiki.com/api/1.0/datastore/sqlite?format=json&name=awarded_tenders_ghana&query=select+*+from+%60swdata%60&apikey=",
+            "webstore_url": null,
+            "last_modified": "2013-03-14T09:01:30.926352",
+            "position": 1,
+            "revision_id": "b0776d9c-1e67-4bea-ab71-502bb9b8ae12",
+            "resource_type": "file"
+        },
+        {
+            "resource_group_id": "7b583d73-e1c8-47da-9ca4-633d38613bcd",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-14T09:01:44.044832",
+            "webstore_last_updated": null,
+            "id": "2447143f-fb98-4a1c-a494-56a6d5614c13",
+            "size": "30275",
+            "state": "active",
+            "hash": "fbd969e76b5ddb27525bcc77f19f508b4b099f85",
+            "description": "Standard scraperwiki API",
+            "format": "",
+            "tracking_summary": {
+                "total": 4,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Government Tenders Ghana - API",
+            "created": "2012-10-22T15:42:41.327255",
+            "url": "https://scraperwiki.com/docs/api?name=awarded_tenders_ghana#sqlite",
+            "webstore_url": null,
+            "last_modified": "2013-03-14T09:01:41.016704",
+            "position": 2,
+            "revision_id": "6035d3b4-ad20-4375-be59-6f87b872dee1",
+            "resource_type": "api"
+        }
+    ],
+    "num_resources": 3,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "expenditure",
+            "name": "expenditure",
+            "revision_timestamp": "2012-10-22T15:41:10.296195",
+            "state": "active",
+            "id": "07304bf1-9bcb-4e5f-86e4-1749d0c7efdb"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "ghana",
+            "name": "ghana",
+            "revision_timestamp": "2012-10-22T15:41:10.296195",
+            "state": "active",
+            "id": "364eaf66-4038-4271-9eac-f0f9b2ef7d28"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "tender",
+            "name": "tender",
+            "revision_timestamp": "2012-10-22T15:41:10.296195",
+            "state": "active",
+            "id": "ce2e96a3-c136-4d79-b829-58e7a0ab0661"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "tenders",
+            "name": "tenders",
+            "revision_timestamp": "2012-10-22T15:41:10.296195",
+            "state": "active",
+            "id": "28cf2228-9c9c-4c3c-b38c-431342661065"
+        }
+    ],
+    "tracking_summary": {
+        "total": 130,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Ghana",
+            "description": "Data Sets For the Republic of Ghana",
+            "name": "ghana",
+            "id": "ad652170-f141-4e2a-a917-3e7bb5d42133"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "government-tenders-ghana",
+    "isopen": true,
+    "url": null,
+    "notes": "This is a dataset containing Government tenders in Ghana. Updated weekly",
+    "title": "Government Tenders Ghana",
+    "extras": [
+        {
+            "value": "ghana",
+            "key": "country",
+            "__extras": {
+                "package_id": "7ef35d04-a787-468e-b87b-feea659888f4",
+                "revision_id": "e556c5c1-ecf5-4325-b5c9-6010c040c3c8"
+            }
+        },
+        {
+            "value": "scraping",
+            "key": "method",
+            "__extras": {
+                "revision_id": "e556c5c1-ecf5-4325-b5c9-6010c040c3c8",
+                "package_id": "7ef35d04-a787-468e-b87b-feea659888f4"
+            }
+        },
+        {
+            "value": "2012-10-22",
+            "key": "obtained",
+            "__extras": {
+                "revision_id": "e556c5c1-ecf5-4325-b5c9-6010c040c3c8",
+                "package_id": "7ef35d04-a787-468e-b87b-feea659888f4"
+            }
+        },
+        {
+            "value": "scraperwiki",
+            "key": "platform",
+            "__extras": {
+                "revision_id": "e556c5c1-ecf5-4325-b5c9-6010c040c3c8",
+                "package_id": "7ef35d04-a787-468e-b87b-feea659888f4"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "b97ab5e7-feb8-4539-9f0f-44828fd22b8a"
+}

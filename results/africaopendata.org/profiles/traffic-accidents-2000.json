@@ -1,0 +1,145 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jane Rose",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "jane.rose.lutaya@ubos.org",
+    "revision_timestamp": "2014-11-04T22:26:00.025068",
+    "id": "4bf199a6-ccd8-4390-b020-d75fada0058c",
+    "metadata_created": "2014-11-04T22:26:00.025068",
+    "owner_org": null,
+    "metadata_modified": "2014-11-04T23:01:19.869575",
+    "author": "UBOS",
+    "author_email": "",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "43698c6f-6e7c-4f1a-ae46-8ceaa992f85e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:01:19.869575",
+            "webstore_last_updated": "2014-11-04T23:01:19.713978",
+            "id": "0a652a24-057b-4c74-8676-ee7398bffbb0",
+            "size": "7143",
+            "state": "active",
+            "hash": "43c9b29471b98f42c6bfc77b7732891c109c6be0",
+            "description": "Number of traffic accidents of the year 2000",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "traffic-accidents-2000",
+            "created": "2014-03-11T16:19:15.578493",
+            "url": "http://catalog.data.ug/dataset/4bf199a6-ccd8-4390-b020-d75fada0058c/resource/0a652a24-057b-4c74-8676-ee7398bffbb0/download/trafficaccidents.csv2000.csv",
+            "webstore_url": "active",
+            "last_modified": "2014-03-11T16:19:51.521758",
+            "position": 0,
+            "revision_id": "bca20287-d1f7-4621-ba47-8c037a1e440e",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:26:00.025068",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:26:00.025068",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:26:00.025068",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:26:00.025068",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "health",
+            "name": "health",
+            "revision_timestamp": "2014-11-04T22:26:00.025068",
+            "state": "active",
+            "id": "956a3c07-125e-44e4-b843-c5011fadcc7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "infrastructure",
+            "name": "infrastructure",
+            "revision_timestamp": "2014-11-04T22:26:00.025068",
+            "state": "active",
+            "id": "36dfa28b-a3c3-48f8-9aea-bb6585dcec3b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:26:00.025068",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "safety",
+            "name": "safety",
+            "revision_timestamp": "2014-11-04T22:26:00.025068",
+            "state": "active",
+            "id": "92fb207b-09f9-4202-aad6-e80a119675dd"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:26:00.025068",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 6,
+        "recent": 4
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 9,
+    "name": "traffic-accidents-2000",
+    "isopen": false,
+    "url": "",
+    "notes": "number of traffic accidents (classes: fatal, minor, injured, killed and serious), data source:UBOS,  Statistical Abstract for the Year 2001",
+    "title": "Traffic accidents 2000",
+    "extras": [],
+    "organization": null,
+    "revision_id": "30f47bb0-ffe2-4f74-a457-527768285e51"
+}

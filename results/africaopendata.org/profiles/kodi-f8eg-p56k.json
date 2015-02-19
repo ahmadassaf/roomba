@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Saf",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:50:58.235447",
+    "id": "17829fc1-9afc-43ec-b626-c34365a4770d",
+    "metadata_created": "2012-09-11T13:50:58.235447",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:08:01.423790",
+    "author": "Chris Metcalf",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "baab982b-b543-49fe-b878-9a1303368c5a",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:08:01.423790",
+            "webstore_last_updated": "2013-10-10T12:08:01.355750",
+            "id": "72e184fc-3d2c-40d4-b765-4d1b0790b31a",
+            "size": "267",
+            "state": "active",
+            "hash": "3958862f7eae7a4948270ec3e4793bfdf74385c5",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Makueni Age Pyramid.csv",
+            "created": "2012-09-11T13:50:58.278256",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155343/f8eg-p56k.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:28:36.807983",
+            "position": 0,
+            "revision_id": "f467c6e4-b9a0-47cf-8a23-31e0bb2991b1",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:50:58.235447",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:50:58.235447",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population",
+            "name": "population",
+            "revision_timestamp": "2012-09-11T13:50:58.235447",
+            "state": "active",
+            "id": "c5e39de5-556e-4bcb-883b-5b9ec2481ae9"
+        }
+    ],
+    "tracking_summary": {
+        "total": 30,
+        "recent": 5
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-f8eg-p56k",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Male and female populations by age group.",
+    "title": "Makueni Age Pyramid",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "52aa49d5-36ef-4705-a9d9-6c6398b8d84c",
+                "package_id": "17829fc1-9afc-43ec-b626-c34365a4770d"
+            }
+        },
+        {
+            "value": "Population",
+            "key": "category",
+            "__extras": {
+                "revision_id": "52aa49d5-36ef-4705-a9d9-6c6398b8d84c",
+                "package_id": "17829fc1-9afc-43ec-b626-c34365a4770d"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "52aa49d5-36ef-4705-a9d9-6c6398b8d84c",
+                "package_id": "17829fc1-9afc-43ec-b626-c34365a4770d"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "52aa49d5-36ef-4705-a9d9-6c6398b8d84c"
+}

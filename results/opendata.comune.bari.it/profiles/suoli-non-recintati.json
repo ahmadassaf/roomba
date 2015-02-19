@@ -1,0 +1,135 @@
+{
+    "license_title": "CC0 1.0",
+    "maintainer": "Ufficio Tutela Ambiente",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "rip.igieneeambiente@comune.bari.it",
+    "revision_timestamp": "2014-12-17T11:32:54.460255",
+    "id": "e2030ba6-589c-48f7-acd6-52d80df60ce7",
+    "metadata_created": "2014-11-12T17:14:37.980305",
+    "metadata_modified": "2014-12-17T11:32:54.460859",
+    "author": "Ripartizione Tutela Ambiente, Sanità e Igiene",
+    "author_email": "rip.igieneeambiente@comune.bari.it",
+    "state": "active",
+    "version": "",
+    "creator_user_id": "1a9bb171-088a-40d4-8c09-3eb097bb7860",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "d090f060-2220-4165-ab7b-17904c4d7f2d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-12T17:14:38.706244",
+            "webstore_last_updated": null,
+            "datastore_active": false,
+            "id": "0b28900d-2cca-4843-8268-6e73cef749e9",
+            "size": "45399",
+            "state": "active",
+            "hash": "md5:c226677de69c66e191246c09dd4fc116",
+            "description": "",
+            "format": "ZIP",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "last_modified": "2013-02-22T14:58:22.329087",
+            "url_type": "upload",
+            "mimetype": "application/zip",
+            "cache_url": "",
+            "name": "2013-02-22T135810/AMIU_Suoli_Non_Recintati.zip",
+            "created": "2013-02-22T14:58:21.640639",
+            "url": "http://opendata.comune.bari.it/dataset/e2030ba6-589c-48f7-acd6-52d80df60ce7/resource/0b28900d-2cca-4843-8268-6e73cef749e9/download/20130222t135810amiusuolinonrecintati.zip",
+            "webstore_url": "/storage/f/2013-02-22T135810/AMIU_Suoli_Non_Recintati.zip",
+            "mimetype_inner": "",
+            "position": 0,
+            "revision_id": "cd8952e6-6f00-44a0-8b64-ce954c7891de",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "suoli",
+            "name": "suoli",
+            "revision_timestamp": "2014-11-12T17:14:37.980305",
+            "state": "active",
+            "id": "0b00a7d7-ccf1-4238-a10f-add8ee6ab708"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "suolo",
+            "name": "suolo",
+            "revision_timestamp": "2014-11-12T17:14:37.980305",
+            "state": "active",
+            "id": "b29155cb-485e-4b84-aea1-a04409a96fad"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "display_name": "Dati Geografici",
+            "description": "Dati Geografici del Comune di Bari",
+            "image_display_url": "",
+            "title": "Dati Geografici",
+            "id": "33ce3844-87cd-418d-a237-31b4939342a7",
+            "name": "dati-geografici"
+        }
+    ],
+    "license_id": "CC0-1.0",
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "organization": {
+        "description": "",
+        "created": "2014-11-26T17:08:49.091500",
+        "title": "Comune di Bari",
+        "name": "comune-di-bari",
+        "revision_timestamp": "2014-11-26T16:08:49.054306",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "",
+        "revision_id": "dd9136cf-62f3-4182-b0a6-3287c82accaa",
+        "type": "organization",
+        "id": "a5fb4b95-9a9e-49de-a9cd-e93ac2bf587f",
+        "approval_status": "approved"
+    },
+    "name": "suoli-non-recintati",
+    "isopen": true,
+    "url": "",
+    "notes": "Mappa dei suoli non recintati del Comune di Bari",
+    "owner_org": "a5fb4b95-9a9e-49de-a9cd-e93ac2bf587f",
+    "extras": [
+        {
+            "key": "Data di creazione",
+            "value": "\"Febbraio 2013\""
+        },
+        {
+            "key": "Data ultima modifica del dato",
+            "value": "\"2006\""
+        },
+        {
+            "key": "Data ultima modifica del metadato \t",
+            "value": "\"2006\""
+        },
+        {
+            "key": "Tipo di dato",
+            "value": "\"shape file\""
+        }
+    ],
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "title": "Suoli non recintati",
+    "revision_id": "fd67fc60-d509-4771-ade1-0ba02a224c17",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": true,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

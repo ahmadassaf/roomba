@@ -1,0 +1,357 @@
+{
+    "license_title": "Creative Commons Attribution Share-Alike 4.0",
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-12T22:53:54.086249",
+    "id": "c00ce205-e282-4654-9735-0284f6ae05ed",
+    "metadata_created": "2014-11-12T22:53:54.086249",
+    "owner_org": "d053dbc0-7a56-4798-b138-1e377618d497",
+    "metadata_modified": "2014-11-12T22:56:43.581273",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-SA-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "8f2a77ee-b41d-49f5-a5f6-a46066d2f009",
+            "resource_description": "The Moremilkit Monitoring Survey in Database format\r\n\r\n**WARNING:** Data cleaning is on going. We remind users that data downloadable from the portal is for analysis **ONLY**. Any cleaning happening to these files **WILL NOT** affect the database. Errors and inconsistencies **MUST** be reported to the project staff in charge of cleaning.",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-12T22:56:43.581273",
+            "webstore_last_updated": null,
+            "id": "b5626d66-dd88-4d4e-8366-e0d0563f5af6",
+            "size": "9370",
+            "state": "active",
+            "hash": "da4e3bd1a181ae5ee4c8980285110b16be8ec517",
+            "description": "{\"resource_description\":\"The Moremilkit Monitoring Survey in Database format\\n\\n**WARNING:** Data cleaning is on going. We remind users that data downloadable from the portal is for analysis **ONLY**. Any cleaning happening to these files **WILL NOT** affect the database. Errors and inconsistencies **MUST** be reported to the project staff in charge of cleaning.\",\"resource_access\":\"Private\"}",
+            "format": "getdata",
+            "tracking_summary": {
+                "total": 6,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Moremilkit Monitoring Survey Database",
+            "created": "2014-10-22T10:17:31.943618",
+            "url": "http://data.ilri.org/portal/",
+            "webstore_url": null,
+            "last_modified": "2014-11-12T22:56:43.417424",
+            "position": 0,
+            "revision_id": "02cdfe6c-038a-4dd8-98ce-7b0bcb0d738f",
+            "ILRIResourceAccess": "Private",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Dairy byproducts",
+            "name": "Dairy byproducts",
+            "revision_timestamp": "2014-11-12T22:53:54.086249",
+            "state": "active",
+            "id": "db0339d4-d281-41ec-9b18-37334df4e610"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "cattle",
+            "name": "cattle",
+            "revision_timestamp": "2014-11-12T22:53:54.086249",
+            "state": "active",
+            "id": "d6f4411c-ac44-47af-94ab-35d22119bd31"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "markets",
+            "name": "markets",
+            "revision_timestamp": "2014-11-12T22:53:54.086249",
+            "state": "active",
+            "id": "304a6a62-10bc-444f-b462-feef9b30e2af"
+        }
+    ],
+    "tracking_summary": {
+        "total": 5,
+        "recent": 1
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "moremilkit-mon-tz",
+    "isopen": true,
+    "url": "http://data.ilri.org/portal/",
+    "notes": "The MoreMilkiT project aims to achieve inclusive growth and reduced poverty and vulnerability among people with dairy- dependent livelihoods in selected rural areas in Tanzania. The project is primarily targeted at pre-commercial marginalized smallholder cattle-keeping men and women who do not currently participate fully in dairy value chains\r\n\r\nThis dataset contains Monitoring, Learning and Evaluation (MLE) data from 461 households for project evaluation and impact assessment.\r\n\r\n**WARNING:** Data cleaning is on going. We remind users that data downloadable from the portal is for analysis **ONLY**. Any cleaning happening to these files **WILL NOT** affect the database. Errors and inconsistencies **MUST** be reported to the project staff in charge of cleaning.",
+    "title": "MoreMilkiT Monitoring Survey in Tanzania",
+    "extras": [
+        {
+            "value": "{\"southWestLat\":-7.302899523349857,\"southWestLong\":35.25897189974785,\"northEastLat\":-3.288963811111513,\"northEastLong\":38.91741916537285}",
+            "key": "ILRI_actyboundbox",
+            "__extras": {
+                "revision_id": "37846fee-3230-4b79-b764-ba7c322f7f2e",
+                "package_id": "c00ce205-e282-4654-9735-0284f6ae05ed"
+            }
+        },
+        {
+            "value": "-5.295931667230684,37.08819553256035",
+            "key": "ILRI_actyboundboxcenter",
+            "__extras": {
+                "revision_id": "37846fee-3230-4b79-b764-ba7c322f7f2e",
+                "package_id": "c00ce205-e282-4654-9735-0284f6ae05ed"
+            }
+        },
+        {
+            "value": "ILRI (2014). 2014 More MilkIT M&E survey dataset.",
+            "key": "ILRI_actycitation",
+            "__extras": {
+                "package_id": "c00ce205-e282-4654-9735-0284f6ae05ed",
+                "revision_id": "37846fee-3230-4b79-b764-ba7c322f7f2e"
+            }
+        },
+        {
+            "value": "",
+            "key": "ILRI_actycitationacknowledge",
+            "__extras": {
+                "revision_id": "37846fee-3230-4b79-b764-ba7c322f7f2e",
+                "package_id": "c00ce205-e282-4654-9735-0284f6ae05ed"
+            }
+        },
+        {
+            "value": "J.Rao@cgiar.org",
+            "key": "ILRI_actycontactemail",
+            "__extras": {
+                "package_id": "c00ce205-e282-4654-9735-0284f6ae05ed",
+                "revision_id": "37846fee-3230-4b79-b764-ba7c322f7f2e"
+            }
+        },
+        {
+            "value": "James Rao",
+            "key": "ILRI_actycontactperson",
+            "__extras": {
+                "package_id": "c00ce205-e282-4654-9735-0284f6ae05ed",
+                "revision_id": "37846fee-3230-4b79-b764-ba7c322f7f2e"
+            }
+        },
+        {
+            "value": "ILRI",
+            "key": "ILRI_actydataowner",
+            "__extras": {
+                "revision_id": "37846fee-3230-4b79-b764-ba7c322f7f2e",
+                "package_id": "c00ce205-e282-4654-9735-0284f6ae05ed"
+            }
+        },
+        {
+            "value": "31/12/2015",
+            "key": "ILRI_actydatavailable",
+            "__extras": {
+                "package_id": "c00ce205-e282-4654-9735-0284f6ae05ed",
+                "revision_id": "37846fee-3230-4b79-b764-ba7c322f7f2e"
+            }
+        },
+        {
+            "value": "15/07/2014",
+            "key": "ILRI_actydatecollected",
+            "__extras": {
+                "revision_id": "37846fee-3230-4b79-b764-ba7c322f7f2e",
+                "package_id": "c00ce205-e282-4654-9735-0284f6ae05ed"
+            }
+        },
+        {
+            "value": "{\"southWestLat\":-7.395152907137248,\"southWestLong\":34.024658203125,\"northEastLat\":-3.239239845874887,\"northEastLong\":40.79223632812499}",
+            "key": "ILRI_actymapextent",
+            "__extras": {
+                "package_id": "c00ce205-e282-4654-9735-0284f6ae05ed",
+                "revision_id": "37846fee-3230-4b79-b764-ba7c322f7f2e"
+            }
+        },
+        {
+            "value": "7",
+            "key": "ILRI_actymapzoom",
+            "__extras": {
+                "package_id": "c00ce205-e282-4654-9735-0284f6ae05ed",
+                "revision_id": "37846fee-3230-4b79-b764-ba7c322f7f2e"
+            }
+        },
+        {
+            "value": "Lushoto,Handeni,Kilosa,Mvomero",
+            "key": "ILRI_actynatlevel",
+            "__extras": {
+                "revision_id": "37846fee-3230-4b79-b764-ba7c322f7f2e",
+                "package_id": "c00ce205-e282-4654-9735-0284f6ae05ed"
+            }
+        },
+        {
+            "value": "Sokoine University of Agriculture",
+            "key": "ILRI_actypartners",
+            "__extras": {
+                "revision_id": "37846fee-3230-4b79-b764-ba7c322f7f2e",
+                "package_id": "c00ce205-e282-4654-9735-0284f6ae05ed"
+            }
+        },
+        {
+            "value": "James Rao, Edgar Twine",
+            "key": "ILRI_actypi",
+            "__extras": {
+                "revision_id": "37846fee-3230-4b79-b764-ba7c322f7f2e",
+                "package_id": "c00ce205-e282-4654-9735-0284f6ae05ed"
+            }
+        },
+        {
+            "value": "A Non-Disclosure Agreement is necessary to obtain confidential information like GPS Coordinates.",
+            "key": "ILRI_actysharingagreement",
+            "__extras": {
+                "revision_id": "37846fee-3230-4b79-b764-ba7c322f7f2e",
+                "package_id": "c00ce205-e282-4654-9735-0284f6ae05ed"
+            }
+        },
+        {
+            "value": "Julius Githinji, Eunice Kariuki, Salim Werner",
+            "key": "ILRI_actystaff",
+            "__extras": {
+                "revision_id": "37846fee-3230-4b79-b764-ba7c322f7f2e",
+                "package_id": "c00ce205-e282-4654-9735-0284f6ae05ed"
+            }
+        },
+        {
+            "value": "This data is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE",
+            "key": "ILRI_actyusageconditions",
+            "__extras": {
+                "package_id": "c00ce205-e282-4654-9735-0284f6ae05ed",
+                "revision_id": "37846fee-3230-4b79-b764-ba7c322f7f2e"
+            }
+        },
+        {
+            "value": "The MoreMilkiT project aims to achieve inclusive growth and reduced poverty and vulnerability among people with dairy- dependent livelihoods in selected rural areas in Tanzania. The project is primarily targeted at pre-commercial marginalized smallholder cattle-keeping men and women who do not currently participate fully in dairy value chains",
+            "key": "ILRI_prjabstract",
+            "__extras": {
+                "revision_id": "37846fee-3230-4b79-b764-ba7c322f7f2e",
+                "package_id": "c00ce205-e282-4654-9735-0284f6ae05ed"
+            }
+        },
+        {
+            "value": "TANZANIA",
+            "key": "ILRI_prjcountries",
+            "__extras": {
+                "revision_id": "37846fee-3230-4b79-b764-ba7c322f7f2e",
+                "package_id": "c00ce205-e282-4654-9735-0284f6ae05ed"
+            }
+        },
+        {
+            "value": "Irish Aid",
+            "key": "ILRI_prjdonor",
+            "__extras": {
+                "package_id": "c00ce205-e282-4654-9735-0284f6ae05ed",
+                "revision_id": "37846fee-3230-4b79-b764-ba7c322f7f2e"
+            }
+        },
+        {
+            "value": "31/12/2016",
+            "key": "ILRI_prjedate",
+            "__extras": {
+                "revision_id": "37846fee-3230-4b79-b764-ba7c322f7f2e",
+                "package_id": "c00ce205-e282-4654-9735-0284f6ae05ed"
+            }
+        },
+        {
+            "value": "IRE006",
+            "key": "ILRI_prjgrant",
+            "__extras": {
+                "package_id": "c00ce205-e282-4654-9735-0284f6ae05ed",
+                "revision_id": "37846fee-3230-4b79-b764-ba7c322f7f2e"
+            }
+        },
+        {
+            "value": "Sokoine University of Agriculture, Faida Market Link, Heifer International (Tanzania), Tanzania Dairy Board",
+            "key": "ILRI_prjpartners",
+            "__extras": {
+                "package_id": "c00ce205-e282-4654-9735-0284f6ae05ed",
+                "revision_id": "37846fee-3230-4b79-b764-ba7c322f7f2e"
+            }
+        },
+        {
+            "value": "Amos Omore",
+            "key": "ILRI_prjpi",
+            "__extras": {
+                "package_id": "c00ce205-e282-4654-9735-0284f6ae05ed",
+                "revision_id": "37846fee-3230-4b79-b764-ba7c322f7f2e"
+            }
+        },
+        {
+            "value": "EAST AFRICA",
+            "key": "ILRI_prjregions",
+            "__extras": {
+                "revision_id": "37846fee-3230-4b79-b764-ba7c322f7f2e",
+                "package_id": "c00ce205-e282-4654-9735-0284f6ae05ed"
+            }
+        },
+        {
+            "value": "31/01/2012",
+            "key": "ILRI_prjsdate",
+            "__extras": {
+                "package_id": "c00ce205-e282-4654-9735-0284f6ae05ed",
+                "revision_id": "37846fee-3230-4b79-b764-ba7c322f7f2e"
+            }
+        },
+        {
+            "value": "CATTLE",
+            "key": "ILRI_prjspecies",
+            "__extras": {
+                "revision_id": "37846fee-3230-4b79-b764-ba7c322f7f2e",
+                "package_id": "c00ce205-e282-4654-9735-0284f6ae05ed"
+            }
+        },
+        {
+            "value": "Isabelle Baltenweck",
+            "key": "ILRI_prjstaff",
+            "__extras": {
+                "package_id": "c00ce205-e282-4654-9735-0284f6ae05ed",
+                "revision_id": "37846fee-3230-4b79-b764-ba7c322f7f2e"
+            }
+        },
+        {
+            "value": "More milk by and for the poor: Adapting dairy market hubs for pro-poor smallholder value chains in Tanzania",
+            "key": "ILRI_prjtitle",
+            "__extras": {
+                "revision_id": "37846fee-3230-4b79-b764-ba7c322f7f2e",
+                "package_id": "c00ce205-e282-4654-9735-0284f6ae05ed"
+            }
+        },
+        {
+            "value": "http://moremilkit.wikispaces.com/",
+            "key": "ILRI_prjwebsite",
+            "__extras": {
+                "package_id": "c00ce205-e282-4654-9735-0284f6ae05ed",
+                "revision_id": "37846fee-3230-4b79-b764-ba7c322f7f2e"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "organization": {
+        "description": "The International Livestock Research Institute (ILRI) works to improve food security and reduce poverty in developing countries through research for better and more sustainable use of livestock. ILRI is a member of the CGIAR Consortium which works for a food-secure future.",
+        "title": "ILRI",
+        "created": "2014-08-19T09:51:48.312508",
+        "approval_status": "approved",
+        "revision_timestamp": "2014-08-19T09:51:48.269962",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://www.fangrvn.com/upload/ilri_logo_color_1377842099.jpg",
+        "revision_id": "628af016-a0e5-4abb-8fa0-78160498318f",
+        "type": "organization",
+        "id": "d053dbc0-7a56-4798-b138-1e377618d497",
+        "name": "ilri"
+    },
+    "revision_id": "37846fee-3230-4b79-b764-ba7c322f7f2e",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

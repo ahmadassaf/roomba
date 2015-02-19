@@ -1,0 +1,135 @@
+{
+    "license_title": "CC0 1.0",
+    "maintainer": "Posizione Organizzativa Statistica e Toponomastica",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "pos.statistica@comune.bari.it",
+    "revision_timestamp": "2014-12-17T11:34:15.633702",
+    "id": "2ab37d6e-e71e-4420-bd76-ae1c0a19e0c1",
+    "metadata_created": "2014-11-12T17:14:16.977385",
+    "metadata_modified": "2014-12-17T11:34:15.634381",
+    "author": "Ripartizione Servizi Demografici, Elettorali e Statistici",
+    "author_email": "rip.demografici@comune.bari.it",
+    "state": "active",
+    "version": "",
+    "creator_user_id": "1a9bb171-088a-40d4-8c09-3eb097bb7860",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "893318df-9fd8-47d5-8c23-84cff30f2d90",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-12T17:14:17.481888",
+            "webstore_last_updated": "2013-02-21T11:51:20.999996",
+            "datastore_active": false,
+            "id": "e19cc60b-9fd9-48d5-9894-6d31c3f1711a",
+            "size": "16788",
+            "state": "active",
+            "hash": "a811d4e51ff429ead63cc2e71ae5f0878b7f5ddc",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "last_modified": "2013-02-21T11:51:20.518378",
+            "url_type": "upload",
+            "mimetype": "text/csv",
+            "cache_url": "",
+            "name": "2013-02-21T105052/Anticipazione-NIC.csv",
+            "created": "2013-02-21T11:51:19.994452",
+            "url": "http://opendata.comune.bari.it/dataset/2ab37d6e-e71e-4420-bd76-ae1c0a19e0c1/resource/e19cc60b-9fd9-48d5-9894-6d31c3f1711a/download/20130221t105052anticipazionenic.csv",
+            "webstore_url": "active",
+            "mimetype_inner": "",
+            "position": 0,
+            "revision_id": "ced6df1f-08b2-4163-bc08-1b992abedfae",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Indici",
+            "name": "Indici",
+            "revision_timestamp": "2014-11-12T17:14:16.977385",
+            "state": "active",
+            "id": "04f90e31-8e8c-486a-9968-0d6b119912eb"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "prezzi al consumo",
+            "name": "prezzi al consumo",
+            "revision_timestamp": "2014-11-12T17:14:16.977385",
+            "state": "active",
+            "id": "4995bb69-df31-4995-8b36-e8544e6fe288"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "display_name": "Dati Statistici",
+            "description": "Dati Statistici del Comune di Bari",
+            "image_display_url": "",
+            "title": "Dati Statistici",
+            "id": "75fd2c2f-39c5-4e2b-a09b-15887f04cee7",
+            "name": "dati-statistici"
+        }
+    ],
+    "license_id": "CC0-1.0",
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "organization": {
+        "description": "",
+        "created": "2014-11-26T17:08:49.091500",
+        "title": "Comune di Bari",
+        "name": "comune-di-bari",
+        "revision_timestamp": "2014-11-26T16:08:49.054306",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "",
+        "revision_id": "dd9136cf-62f3-4182-b0a6-3287c82accaa",
+        "type": "organization",
+        "id": "a5fb4b95-9a9e-49de-a9cd-e93ac2bf587f",
+        "approval_status": "approved"
+    },
+    "name": "rilevazione-dei-prezzi-al-consumo",
+    "isopen": true,
+    "url": "",
+    "notes": "Rilevazione dei prezzi al consumo del Comune di Bari del 2013",
+    "owner_org": "a5fb4b95-9a9e-49de-a9cd-e93ac2bf587f",
+    "extras": [
+        {
+            "key": "Data di creazione",
+            "value": "\"Febbraio 2013\""
+        },
+        {
+            "key": "Data ultima modifica del dato",
+            "value": "\"Gennaio 2013\""
+        },
+        {
+            "key": "Data ultima modifica del metadato",
+            "value": "\"Gennaio 2013\""
+        },
+        {
+            "key": "Tipo di dato",
+            "value": "\"Alfanumerico\""
+        }
+    ],
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "title": "Rilevazione dei prezzi al consumo",
+    "revision_id": "af9b58e1-dc60-4b5c-a207-67d2f86bb5bb",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": true,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

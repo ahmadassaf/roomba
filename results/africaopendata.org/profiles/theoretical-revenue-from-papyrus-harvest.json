@@ -1,0 +1,683 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:23:59.294822",
+    "id": "0aef82a4-3a77-4ba6-8e6f-0f201d1f0dc6",
+    "metadata_created": "2014-11-04T22:23:59.294822",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:47:35.758786",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "1ec58f16-35a7-4986-b821-23a5ca7a56bb",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:50:45.954060",
+            "webstore_last_updated": null,
+            "id": "047b2ac5-f305-447f-96c1-58cf1c1b3e16",
+            "size": "45232",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "dfaba924c9e10f44d3e2851c332bd1fe868d1f59",
+            "description": "Online link to the 'Theoretical revenue from papyrus harvest' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:52:03.643217",
+            "url": "http://maps.data.ug/layers/geonode:theoretical_revenue_from_papyrus_wri",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:50:45.819326",
+            "position": 0,
+            "revision_id": "64ed0e06-fd91-42a7-8035-b41554d26592",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "1ec58f16-35a7-4986-b821-23a5ca7a56bb",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:50:43.654482",
+            "webstore_last_updated": null,
+            "id": "831bbf09-6bcc-4921-a7f5-1a1fc439f2c5",
+            "size": "23792",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Theoretical revenue from papyrus harvest (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "theoretical_revenue_from_papyrus_wri.jpg",
+            "created": "2014-03-12T14:52:03.643248",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Atheoretical_revenue_from_papyrus_wri&width=522&bbox=29.5734049777465%2C-1.48139427250923%2C35.0010886627197%2C4.23097983860334&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:50:43.522457",
+            "position": 1,
+            "revision_id": "a87f2f2b-6037-41d8-b446-a6e1ed4a21c1",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "1ec58f16-35a7-4986-b821-23a5ca7a56bb",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:51:00.688139",
+            "webstore_last_updated": null,
+            "id": "e52120f6-661e-4785-bd92-c4fac3c1f14d",
+            "size": "182431",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Theoretical revenue from papyrus harvest (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "theoretical_revenue_from_papyrus_wri.pdf",
+            "created": "2014-03-12T14:52:03.643256",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Atheoretical_revenue_from_papyrus_wri&width=522&bbox=29.5734049777465%2C-1.48139427250923%2C35.0010886627197%2C4.23097983860334&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:51:00.537815",
+            "position": 2,
+            "revision_id": "c59b32c3-627c-4fb5-8569-8b368927ef37",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "1ec58f16-35a7-4986-b821-23a5ca7a56bb",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:50:37.482328",
+            "webstore_last_updated": null,
+            "id": "033368b9-cd8e-4adb-a5f9-0bf4f88d9b87",
+            "size": "70842",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Theoretical revenue from papyrus harvest (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "theoretical_revenue_from_papyrus_wri.png",
+            "created": "2014-03-12T14:52:03.643262",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Atheoretical_revenue_from_papyrus_wri&width=522&bbox=29.5734049777465%2C-1.48139427250923%2C35.0010886627197%2C4.23097983860334&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:50:37.354100",
+            "position": 3,
+            "revision_id": "64d3aba1-4346-480b-b249-8eb001148311",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "1ec58f16-35a7-4986-b821-23a5ca7a56bb",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:50:59.175221",
+            "webstore_last_updated": null,
+            "id": "7a4849b5-7a12-4f7a-a5cb-d4fb5488e96f",
+            "size": "8093881",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Theoretical revenue from papyrus harvest (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "theoretical_revenue_from_papyrus_wri.zip",
+            "created": "2014-03-12T14:52:03.643269",
+            "url": "http://maps.data.ug/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Atheoretical_revenue_from_papyrus_wri&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:50:59.039746",
+            "position": 4,
+            "revision_id": "e5cb1ce8-d4ca-412d-a73a-19e9e8d0dc23",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "1ec58f16-35a7-4986-b821-23a5ca7a56bb",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:50:51.564310",
+            "webstore_last_updated": null,
+            "id": "601a9373-df5e-4abb-a691-7a12d2bac874",
+            "size": "16244659",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Theoretical revenue from papyrus harvest (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "theoretical_revenue_from_papyrus_wri.gml",
+            "created": "2014-03-12T14:52:03.643275",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Atheoretical_revenue_from_papyrus_wri&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:50:51.422991",
+            "position": 5,
+            "revision_id": "e5e49d0b-2369-4422-98b4-ff81df6cbaef",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "1ec58f16-35a7-4986-b821-23a5ca7a56bb",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:50:56.617104",
+            "webstore_last_updated": null,
+            "id": "eda0bd90-6c13-4a17-bcbe-c45dcdad2184",
+            "size": "25652489",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Theoretical revenue from papyrus harvest (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "theoretical_revenue_from_papyrus_wri.gml",
+            "created": "2014-03-12T14:52:03.643282",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Atheoretical_revenue_from_papyrus_wri&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:50:56.477333",
+            "position": 6,
+            "revision_id": "ea846b1f-4484-4bb8-a338-27452411d224",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "1ec58f16-35a7-4986-b821-23a5ca7a56bb",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:47:35.758786",
+            "webstore_last_updated": "2014-11-04T22:50:59.571954",
+            "id": "2a677a42-10db-4c50-a33c-9ef5855b455a",
+            "size": "25462083",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Theoretical revenue from papyrus harvest (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "theoretical_revenue_from_papyrus_wri.csv",
+            "created": "2014-03-12T14:52:03.643288",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Atheoretical_revenue_from_papyrus_wri&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": "active",
+            "last_modified": "2014-11-04T22:50:34.729583",
+            "position": 7,
+            "revision_id": "ed9c9591-cf91-4011-8322-a4cbb151b5a8",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "1ec58f16-35a7-4986-b821-23a5ca7a56bb",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:51:05.057273",
+            "webstore_last_updated": null,
+            "id": "3dc41fb3-fa02-474f-ab7f-33d7cfd3ae65",
+            "size": "21211648",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Theoretical revenue from papyrus harvest (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "theoretical_revenue_from_papyrus_wri.excel",
+            "created": "2014-03-12T14:52:03.643294",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Atheoretical_revenue_from_papyrus_wri&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:51:04.927583",
+            "position": 8,
+            "revision_id": "dbfd0d8a-fd56-402c-a742-e50435822023",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "1ec58f16-35a7-4986-b821-23a5ca7a56bb",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:50:41.642473",
+            "webstore_last_updated": null,
+            "id": "bb8dfbe5-8fbb-4e20-9bb6-326ff1775c95",
+            "size": "26368363",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Theoretical revenue from papyrus harvest (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "theoretical_revenue_from_papyrus_wri.json",
+            "created": "2014-03-12T14:52:03.643301",
+            "url": "http://maps.data.ug/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Atheoretical_revenue_from_papyrus_wri&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:50:41.513525",
+            "position": 9,
+            "revision_id": "ae8e1193-0051-4e38-b9cb-23886789b083",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "1ec58f16-35a7-4986-b821-23a5ca7a56bb",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:23:59.294822",
+            "webstore_last_updated": null,
+            "id": "4562288d-f6b5-4e83-9c2a-b078611e77f8",
+            "size": "15114330",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Theoretical revenue from papyrus harvest (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "theoretical_revenue_from_papyrus_wri.kml",
+            "created": "2014-03-12T14:52:03.643308",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Atheoretical_revenue_from_papyrus_wri&mode=download",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:58:11.594086",
+            "position": 10,
+            "revision_id": "67125ac1-9b35-4d12-8c47-97275bfdd039",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "1ec58f16-35a7-4986-b821-23a5ca7a56bb",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:47:35.758786",
+            "webstore_last_updated": null,
+            "id": "a614ee61-d36c-4949-9a18-8b9ab23a0aa0",
+            "size": "664",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Theoretical revenue from papyrus harvest (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "theoretical_revenue_from_papyrus_wri.kml",
+            "created": "2014-03-12T14:52:03.643314",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Atheoretical_revenue_from_papyrus_wri&mode=refresh",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:51:01.193527",
+            "position": 11,
+            "revision_id": "ed9c9591-cf91-4011-8322-a4cbb151b5a8",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "1ec58f16-35a7-4986-b821-23a5ca7a56bb",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:23:59.294822",
+            "webstore_last_updated": null,
+            "id": "adc0b165-603d-48ff-924f-a45103348a32",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Theoretical revenue from papyrus harvest (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "theoretical_revenue_from_papyrus_wri.tiles",
+            "created": "2014-03-12T14:52:03.643321",
+            "url": "http://maps.data.ug/geoserver/gwc/service/gmaps?layers=geonode:theoretical_revenue_from_papyrus_wri&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 12,
+            "revision_id": "67125ac1-9b35-4d12-8c47-97275bfdd039",
+            "resource_type": null
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:23:59.294822",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:23:59.294822",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:23:59.294822",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:23:59.294822",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:23:59.294822",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "economy",
+            "name": "economy",
+            "revision_timestamp": "2014-11-04T22:23:59.294822",
+            "state": "active",
+            "id": "04a67a7a-85b4-4841-815a-ec4ebad88b59"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:23:59.294822",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:23:59.294822",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 5,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 8,
+    "name": "theoretical-revenue-from-papyrus-harvest",
+    "isopen": false,
+    "url": null,
+    "notes": "Theoretical revenue from papyrus harvest",
+    "title": "Theoretical revenue from papyrus harvest",
+    "extras": [
+        {
+            "value": "[\"Dataset is not for use in litigation. While efforts have been made to ensure that these data are accurate and reliable within the state of the art, WRI cannot assume liability for any damages, or misrepresentations, caused by any inaccuracies in the data, or as a result of the data to be used on a particular system. WRI makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\"]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "67125ac1-9b35-4d12-8c47-97275bfdd039",
+                "package_id": "0aef82a4-3a77-4ba6-8e6f-0f201d1f0dc6"
+            }
+        },
+        {
+            "value": "35.0010886627",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "67125ac1-9b35-4d12-8c47-97275bfdd039",
+                "package_id": "0aef82a4-3a77-4ba6-8e6f-0f201d1f0dc6"
+            }
+        },
+        {
+            "value": "4.2309798386",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "0aef82a4-3a77-4ba6-8e6f-0f201d1f0dc6",
+                "revision_id": "67125ac1-9b35-4d12-8c47-97275bfdd039"
+            }
+        },
+        {
+            "value": "-1.4813942725",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "67125ac1-9b35-4d12-8c47-97275bfdd039",
+                "package_id": "0aef82a4-3a77-4ba6-8e6f-0f201d1f0dc6"
+            }
+        },
+        {
+            "value": "29.5734049777",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "67125ac1-9b35-4d12-8c47-97275bfdd039",
+                "package_id": "0aef82a4-3a77-4ba6-8e6f-0f201d1f0dc6"
+            }
+        },
+        {
+            "value": "",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "0aef82a4-3a77-4ba6-8e6f-0f201d1f0dc6",
+                "revision_id": "67125ac1-9b35-4d12-8c47-97275bfdd039"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "0aef82a4-3a77-4ba6-8e6f-0f201d1f0dc6",
+                "revision_id": "67125ac1-9b35-4d12-8c47-97275bfdd039"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2010-05-05T00:00:00Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "0aef82a4-3a77-4ba6-8e6f-0f201d1f0dc6",
+                "revision_id": "67125ac1-9b35-4d12-8c47-97275bfdd039"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "0aef82a4-3a77-4ba6-8e6f-0f201d1f0dc6",
+                "revision_id": "67125ac1-9b35-4d12-8c47-97275bfdd039"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Theoretical revenue from papyrus harvest'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "0aef82a4-3a77-4ba6-8e6f-0f201d1f0dc6",
+                "revision_id": "67125ac1-9b35-4d12-8c47-97275bfdd039"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "0aef82a4-3a77-4ba6-8e6f-0f201d1f0dc6",
+                "revision_id": "67125ac1-9b35-4d12-8c47-97275bfdd039"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "67125ac1-9b35-4d12-8c47-97275bfdd039",
+                "package_id": "0aef82a4-3a77-4ba6-8e6f-0f201d1f0dc6"
+            }
+        },
+        {
+            "value": "2087917c-a9bb-11e3-b8d5-d7100fec7aa5",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "67125ac1-9b35-4d12-8c47-97275bfdd039",
+                "package_id": "0aef82a4-3a77-4ba6-8e6f-0f201d1f0dc6"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "67125ac1-9b35-4d12-8c47-97275bfdd039",
+                "package_id": "0aef82a4-3a77-4ba6-8e6f-0f201d1f0dc6"
+            }
+        },
+        {
+            "value": "2010-05-05T00:00:00Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "0aef82a4-3a77-4ba6-8e6f-0f201d1f0dc6",
+                "revision_id": "67125ac1-9b35-4d12-8c47-97275bfdd039"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "67125ac1-9b35-4d12-8c47-97275bfdd039",
+                "package_id": "0aef82a4-3a77-4ba6-8e6f-0f201d1f0dc6"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "0aef82a4-3a77-4ba6-8e6f-0f201d1f0dc6",
+                "revision_id": "67125ac1-9b35-4d12-8c47-97275bfdd039"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "0aef82a4-3a77-4ba6-8e6f-0f201d1f0dc6",
+                "revision_id": "67125ac1-9b35-4d12-8c47-97275bfdd039"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "0aef82a4-3a77-4ba6-8e6f-0f201d1f0dc6",
+                "revision_id": "67125ac1-9b35-4d12-8c47-97275bfdd039"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.5734049777, -1.4813942725], [35.0010886627, -1.4813942725], [35.0010886627, 4.2309798386], [29.5734049777, 4.2309798386], [29.5734049777, -1.4813942725]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "67125ac1-9b35-4d12-8c47-97275bfdd039",
+                "package_id": "0aef82a4-3a77-4ba6-8e6f-0f201d1f0dc6"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "0aef82a4-3a77-4ba6-8e6f-0f201d1f0dc6",
+                "revision_id": "67125ac1-9b35-4d12-8c47-97275bfdd039"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "67125ac1-9b35-4d12-8c47-97275bfdd039",
+                "package_id": "0aef82a4-3a77-4ba6-8e6f-0f201d1f0dc6"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "67125ac1-9b35-4d12-8c47-97275bfdd039",
+                "package_id": "0aef82a4-3a77-4ba6-8e6f-0f201d1f0dc6"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "67125ac1-9b35-4d12-8c47-97275bfdd039"
+}

@@ -1,0 +1,130 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Chris Metcalf",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:56:32.958849",
+    "id": "3c2a0a97-db76-4fdc-8cb1-bd39024b620f",
+    "metadata_created": "2012-09-11T13:56:32.958849",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:03:06.378203",
+    "author": "Chris Metcalf",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "aa0c6166-5fb8-4ea8-9415-a71a86ce005a",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:03:06.378203",
+            "webstore_last_updated": "2013-10-10T12:03:06.309303",
+            "id": "bbd286e0-0ee2-483b-bf50-e8b9b5553dc3",
+            "size": "262",
+            "state": "active",
+            "hash": "270bd6ae9ea2762476e6882c77b4bc568af7ebc8",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Busia Population Pyramid Age Groups - 2009.csv",
+            "created": "2012-09-11T13:56:33.002041",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155918/rg9p-2ycg.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-13T22:39:11.999359",
+            "position": 0,
+            "revision_id": "155408d8-5cd8-45af-8dbe-57598ea60850",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "county",
+            "name": "county",
+            "revision_timestamp": "2012-09-11T13:56:32.958849",
+            "state": "active",
+            "id": "858f3acf-2c66-4fd9-9dc2-32e4f12121a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:56:32.958849",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:56:32.958849",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population",
+            "name": "population",
+            "revision_timestamp": "2012-09-11T13:56:32.958849",
+            "state": "active",
+            "id": "c5e39de5-556e-4bcb-883b-5b9ec2481ae9"
+        }
+    ],
+    "tracking_summary": {
+        "total": 45,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "kodi-rg9p-2ycg",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": null,
+    "title": "Busia Population Pyramid Age Groups - 2009",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "72cb2e5b-5709-4f6f-90c2-70aa38357aa0",
+                "package_id": "3c2a0a97-db76-4fdc-8cb1-bd39024b620f"
+            }
+        },
+        {
+            "value": "Population",
+            "key": "category",
+            "__extras": {
+                "revision_id": "72cb2e5b-5709-4f6f-90c2-70aa38357aa0",
+                "package_id": "3c2a0a97-db76-4fdc-8cb1-bd39024b620f"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "72cb2e5b-5709-4f6f-90c2-70aa38357aa0",
+                "package_id": "3c2a0a97-db76-4fdc-8cb1-bd39024b620f"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "72cb2e5b-5709-4f6f-90c2-70aa38357aa0"
+}

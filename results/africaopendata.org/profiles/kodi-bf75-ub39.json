@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:59:47.262723",
+    "id": "03ff2534-95dc-4506-a64e-6491273e82a1",
+    "metadata_created": "2012-09-11T13:59:47.262723",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T11:58:56.677804",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "cf5ff3cb-7dc6-4e08-bdfb-6aeb5828866d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T11:58:56.677804",
+            "webstore_last_updated": "2013-10-10T11:58:56.610675",
+            "id": "ee779179-1a6c-4627-b76c-0083cd6e9ada",
+            "size": "4811",
+            "state": "active",
+            "hash": "dc095f15f95109d2a529721eeebe1d6d3665154c",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "2009 Census Volume II Table 7 Households by main type of Floor Material for the main dwelling unit, County Estimates.csv",
+            "created": "2012-09-11T13:59:47.301637",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T160232/bf75-ub39.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:24:32.261685",
+            "position": 0,
+            "revision_id": "1378d751-8f5f-4666-8892-ea1ca0f2c6e8",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "housing floor material county census",
+            "name": "housing floor material county census",
+            "revision_timestamp": "2012-09-11T13:59:47.262723",
+            "state": "active",
+            "id": "8e3f1b4d-922d-441b-9f19-15d39f2ea5f9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:59:47.262723",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:59:47.262723",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 43,
+        "recent": 4
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-bf75-ub39",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "2009 Census Volume II Table 7 Households by main type of Floor Material for the main dwelling unit, County Estimates",
+    "title": "2009 Census Volume II Table 7 Households by main type of Floor Material for the main dwelling unit, County Estimates",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "d0473ec8-dfb9-42e1-9952-60db662f8b1b",
+                "package_id": "03ff2534-95dc-4506-a64e-6491273e82a1"
+            }
+        },
+        {
+            "value": "Poverty",
+            "key": "category",
+            "__extras": {
+                "revision_id": "d0473ec8-dfb9-42e1-9952-60db662f8b1b",
+                "package_id": "03ff2534-95dc-4506-a64e-6491273e82a1"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "d0473ec8-dfb9-42e1-9952-60db662f8b1b",
+                "package_id": "03ff2534-95dc-4506-a64e-6491273e82a1"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "d0473ec8-dfb9-42e1-9952-60db662f8b1b"
+}

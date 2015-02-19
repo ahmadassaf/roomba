@@ -1,0 +1,675 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:26:39.103838",
+    "id": "63af4fe8-8f81-438c-9f44-e592e001aa57",
+    "metadata_created": "2014-11-04T22:26:39.103838",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:48:56.225336",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "2b3ed30e-dea2-4806-b401-359dad72a7bd",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:48:56.225336",
+            "webstore_last_updated": null,
+            "id": "d31a7829-6e27-4868-b9cf-f8acd3b47be7",
+            "size": "20",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "f74c91b05a79e11c21ae165e1598f65fec753213",
+            "description": "Online link to the 'Rural Poverty Data 2005' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:53:13.993923",
+            "url": "http://maps.data.ug/layers/geonode:subcounties_rural_poverty_wri_2005_958",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T16:22:57.656466",
+            "position": 0,
+            "revision_id": "f7e4c972-d8af-434b-8a1e-e3687b442eb0",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "2b3ed30e-dea2-4806-b401-359dad72a7bd",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:03:44.891515",
+            "webstore_last_updated": null,
+            "id": "d0733cf2-91e9-4bd9-9f65-7f74ea54aa4c",
+            "size": "38303",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Rural Poverty Data 2005 (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "subcounties_rural_poverty_wri_2005_958.jpg",
+            "created": "2014-03-12T14:53:13.993942",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Asubcounties_rural_poverty_wri_2005_958&width=522&bbox=29.5734049777465%2C-1.48139427250923%2C35.0010886627197%2C4.23097983860334&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:03:44.745979",
+            "position": 1,
+            "revision_id": "8f62a52b-2ceb-4627-870c-088660964c62",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "2b3ed30e-dea2-4806-b401-359dad72a7bd",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:04:09.198081",
+            "webstore_last_updated": null,
+            "id": "5cca0078-e7b1-4349-b0e8-e6fe53b3a385",
+            "size": "287205",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Rural Poverty Data 2005 (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "subcounties_rural_poverty_wri_2005_958.pdf",
+            "created": "2014-03-12T14:53:13.993951",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Asubcounties_rural_poverty_wri_2005_958&width=522&bbox=29.5734049777465%2C-1.48139427250923%2C35.0010886627197%2C4.23097983860334&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:04:08.933716",
+            "position": 2,
+            "revision_id": "e643a2e7-9064-464d-93ed-6a0d84f668b6",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "2b3ed30e-dea2-4806-b401-359dad72a7bd",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:04:06.899490",
+            "webstore_last_updated": null,
+            "id": "c2eea4f8-fabc-4ee2-abf2-5000769c62c2",
+            "size": "99041",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Rural Poverty Data 2005 (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "subcounties_rural_poverty_wri_2005_958.png",
+            "created": "2014-03-12T14:53:13.993960",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Asubcounties_rural_poverty_wri_2005_958&width=522&bbox=29.5734049777465%2C-1.48139427250923%2C35.0010886627197%2C4.23097983860334&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:04:06.762339",
+            "position": 3,
+            "revision_id": "459221f0-8128-4e06-b2e4-e43dd9b78140",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "2b3ed30e-dea2-4806-b401-359dad72a7bd",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:03:54.685436",
+            "webstore_last_updated": null,
+            "id": "edc9ee61-4b7a-45a4-b765-1dbf2459b433",
+            "size": "8201809",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Rural Poverty Data 2005 (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "subcounties_rural_poverty_wri_2005_958.zip",
+            "created": "2014-03-12T14:53:13.993967",
+            "url": "http://maps.data.ug/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Asubcounties_rural_poverty_wri_2005_958&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:03:54.544605",
+            "position": 4,
+            "revision_id": "ddebe5c2-a349-419f-aad1-c9e914feca48",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "2b3ed30e-dea2-4806-b401-359dad72a7bd",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:03:44.233874",
+            "webstore_last_updated": null,
+            "id": "d02b082d-f07c-48ff-ae42-16411e78b086",
+            "size": "16489561",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Rural Poverty Data 2005 (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "subcounties_rural_poverty_wri_2005_958.gml",
+            "created": "2014-03-12T14:53:13.993974",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Asubcounties_rural_poverty_wri_2005_958&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:03:44.094774",
+            "position": 5,
+            "revision_id": "694eb24b-7408-433d-af5b-0968801ff9f9",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "2b3ed30e-dea2-4806-b401-359dad72a7bd",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:03:52.293661",
+            "webstore_last_updated": null,
+            "id": "153f7704-3e7e-4c58-9879-2a9d9f0f6a20",
+            "size": "25897391",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Rural Poverty Data 2005 (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "subcounties_rural_poverty_wri_2005_958.gml",
+            "created": "2014-03-12T14:53:13.993981",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Asubcounties_rural_poverty_wri_2005_958&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:03:52.146084",
+            "position": 6,
+            "revision_id": "66c178d0-f55e-44f0-a4e7-75f6c08ed4ff",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "2b3ed30e-dea2-4806-b401-359dad72a7bd",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:48:56.225336",
+            "webstore_last_updated": "2014-11-04T23:04:28.037538",
+            "id": "b7945e4c-75fb-45ab-b33c-b4a2634d91ac",
+            "size": "25502548",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Rural Poverty Data 2005 (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "subcounties_rural_poverty_wri_2005_958.csv",
+            "created": "2014-03-12T14:53:13.993989",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Asubcounties_rural_poverty_wri_2005_958&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": "active",
+            "last_modified": "2014-11-04T23:04:01.997179",
+            "position": 7,
+            "revision_id": "f7e4c972-d8af-434b-8a1e-e3687b442eb0",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "2b3ed30e-dea2-4806-b401-359dad72a7bd",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:03:49.628211",
+            "webstore_last_updated": null,
+            "id": "6d8c6fde-1045-4392-88d0-a4bab99412e6",
+            "size": "21335552",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Rural Poverty Data 2005 (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "subcounties_rural_poverty_wri_2005_958.excel",
+            "created": "2014-03-12T14:53:13.993995",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Asubcounties_rural_poverty_wri_2005_958&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:03:49.482023",
+            "position": 8,
+            "revision_id": "f1751b0c-8e39-4500-aeb9-11e7e77950ff",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "2b3ed30e-dea2-4806-b401-359dad72a7bd",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:03:50.738288",
+            "webstore_last_updated": null,
+            "id": "c10463ba-e8e5-4e2a-8ea2-f9a7108b3ce2",
+            "size": "26460393",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Rural Poverty Data 2005 (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "subcounties_rural_poverty_wri_2005_958.json",
+            "created": "2014-03-12T14:53:13.994003",
+            "url": "http://maps.data.ug/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Asubcounties_rural_poverty_wri_2005_958&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:03:50.591528",
+            "position": 9,
+            "revision_id": "d813ee36-50e3-4b2f-a478-48794203f43c",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "2b3ed30e-dea2-4806-b401-359dad72a7bd",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:03:41.706062",
+            "webstore_last_updated": null,
+            "id": "9687ae19-a55d-46b9-b2b3-1b9becc5ff9d",
+            "size": "28430690",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Rural Poverty Data 2005 (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "subcounties_rural_poverty_wri_2005_958.kml",
+            "created": "2014-03-12T14:53:13.994009",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Asubcounties_rural_poverty_wri_2005_958&mode=download",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:03:41.554563",
+            "position": 10,
+            "revision_id": "12f78c7c-deb6-4dc3-aef4-a63d72c75b71",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "2b3ed30e-dea2-4806-b401-359dad72a7bd",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:48:56.225336",
+            "webstore_last_updated": null,
+            "id": "f5caa878-f936-4839-b12c-429efc7fced9",
+            "size": "664",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Rural Poverty Data 2005 (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "subcounties_rural_poverty_wri_2005_958.kml",
+            "created": "2014-03-12T14:53:13.994017",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Asubcounties_rural_poverty_wri_2005_958&mode=refresh",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:03:55.110957",
+            "position": 11,
+            "revision_id": "f7e4c972-d8af-434b-8a1e-e3687b442eb0",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "2b3ed30e-dea2-4806-b401-359dad72a7bd",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:26:39.103838",
+            "webstore_last_updated": null,
+            "id": "ca578488-4efb-4ede-85f7-ec13ff2e28b9",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Rural Poverty Data 2005 (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "subcounties_rural_poverty_wri_2005_958.tiles",
+            "created": "2014-03-12T14:53:13.994024",
+            "url": "http://maps.data.ug/geoserver/gwc/service/gmaps?layers=geonode:subcounties_rural_poverty_wri_2005_958&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 12,
+            "revision_id": "df854321-f2a7-4d32-8bb5-22e6f9742a21",
+            "resource_type": null
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:26:39.103838",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:26:39.103838",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:26:39.103838",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:26:39.103838",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:26:39.103838",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "poverty",
+            "name": "poverty",
+            "revision_timestamp": "2014-11-04T22:26:39.103838",
+            "state": "active",
+            "id": "490c0df0-0458-4e36-8ad1-2fa9d0684d97"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:26:39.103838",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 15,
+        "recent": 3
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 7,
+    "name": "rural-poverty-data-2005",
+    "isopen": false,
+    "url": null,
+    "notes": "2005 Poverty data for Uganda for 855 rural subcounties",
+    "title": "Rural Poverty Data 2005",
+    "extras": [
+        {
+            "value": "[\"Dataset is not for use in litigation. While efforts have been made to ensure that these data are accurate and reliable within the state of the art, WRI cannot assume liability for any damages, or misrepresentations, caused by any inaccuracies in the data, or as a result of the data to be used on a particular system. WRI makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\"]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "df854321-f2a7-4d32-8bb5-22e6f9742a21",
+                "package_id": "63af4fe8-8f81-438c-9f44-e592e001aa57"
+            }
+        },
+        {
+            "value": "35.0010886627",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "df854321-f2a7-4d32-8bb5-22e6f9742a21",
+                "package_id": "63af4fe8-8f81-438c-9f44-e592e001aa57"
+            }
+        },
+        {
+            "value": "4.2309798386",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "63af4fe8-8f81-438c-9f44-e592e001aa57",
+                "revision_id": "df854321-f2a7-4d32-8bb5-22e6f9742a21"
+            }
+        },
+        {
+            "value": "-1.4813942725",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "df854321-f2a7-4d32-8bb5-22e6f9742a21",
+                "package_id": "63af4fe8-8f81-438c-9f44-e592e001aa57"
+            }
+        },
+        {
+            "value": "29.5734049777",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "df854321-f2a7-4d32-8bb5-22e6f9742a21",
+                "package_id": "63af4fe8-8f81-438c-9f44-e592e001aa57"
+            }
+        },
+        {
+            "value": "",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "63af4fe8-8f81-438c-9f44-e592e001aa57",
+                "revision_id": "df854321-f2a7-4d32-8bb5-22e6f9742a21"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "63af4fe8-8f81-438c-9f44-e592e001aa57",
+                "revision_id": "df854321-f2a7-4d32-8bb5-22e6f9742a21"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2010-08-02T00:00:00Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "63af4fe8-8f81-438c-9f44-e592e001aa57",
+                "revision_id": "df854321-f2a7-4d32-8bb5-22e6f9742a21"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "63af4fe8-8f81-438c-9f44-e592e001aa57",
+                "revision_id": "df854321-f2a7-4d32-8bb5-22e6f9742a21"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Rural Poverty Data 2005'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "63af4fe8-8f81-438c-9f44-e592e001aa57",
+                "revision_id": "df854321-f2a7-4d32-8bb5-22e6f9742a21"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "63af4fe8-8f81-438c-9f44-e592e001aa57",
+                "revision_id": "df854321-f2a7-4d32-8bb5-22e6f9742a21"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "df854321-f2a7-4d32-8bb5-22e6f9742a21",
+                "package_id": "63af4fe8-8f81-438c-9f44-e592e001aa57"
+            }
+        },
+        {
+            "value": "f6d055d0-a9ba-11e3-b8d5-d7100fec7aa5",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "df854321-f2a7-4d32-8bb5-22e6f9742a21",
+                "package_id": "63af4fe8-8f81-438c-9f44-e592e001aa57"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "df854321-f2a7-4d32-8bb5-22e6f9742a21",
+                "package_id": "63af4fe8-8f81-438c-9f44-e592e001aa57"
+            }
+        },
+        {
+            "value": "2010-08-02T00:00:00Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "63af4fe8-8f81-438c-9f44-e592e001aa57",
+                "revision_id": "df854321-f2a7-4d32-8bb5-22e6f9742a21"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "df854321-f2a7-4d32-8bb5-22e6f9742a21",
+                "package_id": "63af4fe8-8f81-438c-9f44-e592e001aa57"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "63af4fe8-8f81-438c-9f44-e592e001aa57",
+                "revision_id": "df854321-f2a7-4d32-8bb5-22e6f9742a21"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "63af4fe8-8f81-438c-9f44-e592e001aa57",
+                "revision_id": "df854321-f2a7-4d32-8bb5-22e6f9742a21"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "63af4fe8-8f81-438c-9f44-e592e001aa57",
+                "revision_id": "df854321-f2a7-4d32-8bb5-22e6f9742a21"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.5734049777, -1.4813942725], [35.0010886627, -1.4813942725], [35.0010886627, 4.2309798386], [29.5734049777, 4.2309798386], [29.5734049777, -1.4813942725]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "df854321-f2a7-4d32-8bb5-22e6f9742a21",
+                "package_id": "63af4fe8-8f81-438c-9f44-e592e001aa57"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "63af4fe8-8f81-438c-9f44-e592e001aa57",
+                "revision_id": "df854321-f2a7-4d32-8bb5-22e6f9742a21"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "df854321-f2a7-4d32-8bb5-22e6f9742a21",
+                "package_id": "63af4fe8-8f81-438c-9f44-e592e001aa57"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "df854321-f2a7-4d32-8bb5-22e6f9742a21",
+                "package_id": "63af4fe8-8f81-438c-9f44-e592e001aa57"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "df854321-f2a7-4d32-8bb5-22e6f9742a21"
+}

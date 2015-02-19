@@ -1,0 +1,273 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2014-10-09T13:29:04.879267",
+    "id": "72dc3c35-e07b-4d2d-9ec9-7fc741c2f54c",
+    "metadata_created": "2013-05-16T11:32:01.940237",
+    "owner_org": null,
+    "metadata_modified": "2014-10-09T13:30:14.351501",
+    "author": "Dienst IVV",
+    "author_email": "info@ivv.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "cc4e71d7-8a9e-48e7-b22e-f00e8decb223",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-10-09T13:30:14.351501",
+            "webstore_last_updated": null,
+            "id": "97349aad-d571-4be4-bc7d-094b0cc39f83",
+            "size": "2234",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Metadata en voorbeeldcode",
+            "format": "ZIP",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "Metadata realtime verkeersdata.zip",
+            "created": "2014-10-09T15:30:14.429705",
+            "url": "http://www.amsterdamopendata.nl/documents/10180/31475/Metadata realtime verkeersdata.zip",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "4b16ad31-bcaf-4893-ae96-c3b2343dab35",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "cc4e71d7-8a9e-48e7-b22e-f00e8decb223",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-10-09T13:30:14.351501",
+            "webstore_last_updated": null,
+            "id": "7334c7f4-2501-4459-aa71-ca943deb06d3",
+            "size": "173931",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "GeoJSON",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/plain",
+            "cache_url": null,
+            "name": "http://www.trafficlink-online.nl/trafficlinkdata/wegdata/TrajectSensorsNH.GeoJSON",
+            "created": "2014-10-09T15:30:14.429740",
+            "url": "http://www.trafficlink-online.nl/trafficlinkdata/wegdata/TrajectSensorsNH.GeoJSON",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "4b16ad31-bcaf-4893-ae96-c3b2343dab35",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "cc4e71d7-8a9e-48e7-b22e-f00e8decb223",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-10-09T13:30:14.351501",
+            "webstore_last_updated": null,
+            "id": "3e908eee-db49-4532-b357-cdf2fa801987",
+            "size": "29294189",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Historie reistijden januari 2014",
+            "format": "ZIP",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "http://www.amsterdamopendata.nl/files/traject_export_jan2014.zip",
+            "created": "2014-10-09T15:30:14.429755",
+            "url": "http://www.amsterdamopendata.nl/files/traject_export_jan2014.zip",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "4b16ad31-bcaf-4893-ae96-c3b2343dab35",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "cc4e71d7-8a9e-48e7-b22e-f00e8decb223",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-10-09T13:30:14.351501",
+            "webstore_last_updated": null,
+            "id": "f0988010-fa07-4ca0-ab53-cab4a73cc335",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Reistijden (via CitySDK)\n",
+            "format": "url",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "http://api.citysdk.waag.org/nodes?layer=divv.traffic&geom",
+            "created": "2014-10-09T15:30:14.429768",
+            "url": "http://api.citysdk.waag.org/nodes?layer=divv.traffic&geom",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "4b16ad31-bcaf-4893-ae96-c3b2343dab35",
+            "resource_type": "api"
+        }
+    ],
+    "num_resources": 4,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "auto",
+            "name": "auto",
+            "revision_timestamp": "2013-05-16T11:32:01.940237",
+            "state": "active",
+            "id": "a617a63e-a649-4d3e-924c-3f67a5783d2e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "drukte",
+            "name": "drukte",
+            "revision_timestamp": "2013-05-16T11:32:01.940237",
+            "state": "active",
+            "id": "7f9f6e9a-aa14-4099-9425-9377670256ae"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "mobiliteit",
+            "name": "mobiliteit",
+            "revision_timestamp": "2013-05-16T11:32:01.940237",
+            "state": "active",
+            "id": "f1df86c2-140e-4788-bb06-8a6a40919016"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "reistijden\n",
+            "name": "reistijden\n",
+            "revision_timestamp": "2013-05-16T11:32:01.940237",
+            "state": "active",
+            "id": "445a82b8-d63a-47bc-8956-36e8a96b8478"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "snelheid",
+            "name": "snelheid",
+            "revision_timestamp": "2013-05-16T11:32:01.940237",
+            "state": "active",
+            "id": "fab984f1-26ae-4fe1-85cb-5338304ff78a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "verkeer",
+            "name": "verkeer",
+            "revision_timestamp": "2013-05-16T11:32:01.940237",
+            "state": "active",
+            "id": "7d17c803-771e-4250-994b-76ae82fcd79e"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Verkeer & Infrastructuur",
+            "description": "",
+            "name": "verkeer-infrastructuur",
+            "id": "12502584-9d7d-4bdc-bf5f-df2b0d85f4f6"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "realtime-verkeersdata",
+    "isopen": false,
+    "url": null,
+    "notes": "Voor het Hoofdnet Auto wordt per traject de huidige reistijd (voor auto's) weergegeven. Dit wordt iedere 5 minuten ververst.Deze data is ook beschikbaar via CitySDK",
+    "title": "Realtime verkeersdata",
+    "extras": [
+        {
+            "value": "info@ivv.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "72dc3c35-e07b-4d2d-9ec9-7fc741c2f54c",
+                "revision_id": "67f68e21-4d83-4e7e-9773-70f32cf72858"
+            }
+        },
+        {
+            "value": "Dienst IVV",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "67f68e21-4d83-4e7e-9773-70f32cf72858",
+                "package_id": "72dc3c35-e07b-4d2d-9ec9-7fc741c2f54c"
+            }
+        },
+        {
+            "value": "04/02/2014",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "6c117b7a-0162-4dc9-ac79-d1243c200dce",
+                "package_id": "72dc3c35-e07b-4d2d-9ec9-7fc741c2f54c"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "67f68e21-4d83-4e7e-9773-70f32cf72858",
+                "package_id": "72dc3c35-e07b-4d2d-9ec9-7fc741c2f54c"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "72dc3c35-e07b-4d2d-9ec9-7fc741c2f54c",
+                "revision_id": "67f68e21-4d83-4e7e-9773-70f32cf72858"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "72dc3c35-e07b-4d2d-9ec9-7fc741c2f54c",
+                "revision_id": "67f68e21-4d83-4e7e-9773-70f32cf72858"
+            }
+        },
+        {
+            "value": "Iedere 5 minuten",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "67f68e21-4d83-4e7e-9773-70f32cf72858",
+                "package_id": "72dc3c35-e07b-4d2d-9ec9-7fc741c2f54c"
+            }
+        },
+        {
+            "value": "http://www.amsterdam.nl/opendatadivv",
+            "key": "website",
+            "__extras": {
+                "package_id": "72dc3c35-e07b-4d2d-9ec9-7fc741c2f54c",
+                "revision_id": "67f68e21-4d83-4e7e-9773-70f32cf72858"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "67775616-3e91-4aff-b963-c38c34c0a902"
+}

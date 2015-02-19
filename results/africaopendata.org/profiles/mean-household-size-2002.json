@@ -1,0 +1,699 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:23:43.529831",
+    "id": "055ae02f-f546-4c7f-82cb-be1d44bb4028",
+    "metadata_created": "2014-11-04T22:23:43.529831",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:47:27.328032",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "311751e3-7f99-4bc9-8bf1-212a0ab16f30",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:47:27.328032",
+            "webstore_last_updated": null,
+            "id": "2a045556-ffff-461a-976c-bb824845f476",
+            "size": "20",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "1f6086484eee7534b07fff0d50dcd9d70b653842",
+            "description": "Online link to the 'Mean Household Size 2002' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:53:14.922458",
+            "url": "http://maps.data.ug/layers/geonode:mean_household_size_2002",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T16:27:58.821067",
+            "position": 0,
+            "revision_id": "c5ae838c-c9df-4c7e-9a28-2c80893c7f8a",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "311751e3-7f99-4bc9-8bf1-212a0ab16f30",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:49:22.849690",
+            "webstore_last_updated": null,
+            "id": "4d801f9a-736d-4d9f-8bd7-36e5db410e23",
+            "size": "119156",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Mean Household Size 2002 (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "mean_household_size_2002.zip",
+            "created": "2014-03-12T14:53:14.922481",
+            "url": "http://maps.data.ug/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Amean_household_size_2002&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:49:22.719655",
+            "position": 1,
+            "revision_id": "74d1d5ab-a14b-4e28-ba45-ed3e7a16ac64",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "311751e3-7f99-4bc9-8bf1-212a0ab16f30",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:49:20.672812",
+            "webstore_last_updated": null,
+            "id": "7c4756d5-2a22-4928-9263-5252bb9cb7a4",
+            "size": "261706",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Mean Household Size 2002 (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "mean_household_size_2002.gml",
+            "created": "2014-03-12T14:53:14.922490",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Amean_household_size_2002&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:49:20.542768",
+            "position": 2,
+            "revision_id": "b226ea4e-ac1b-476f-b71c-8ed3e7144b73",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "311751e3-7f99-4bc9-8bf1-212a0ab16f30",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:47:27.328032",
+            "webstore_last_updated": null,
+            "id": "6cacb96b-d164-474e-9e78-1fb30031015e",
+            "size": "514",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Mean Household Size 2002 (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "mean_household_size_2002.gml",
+            "created": "2014-03-12T14:53:14.922497",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Amean_household_size_2002&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:49:33.139747",
+            "position": 3,
+            "revision_id": "c5ae838c-c9df-4c7e-9a28-2c80893c7f8a",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "311751e3-7f99-4bc9-8bf1-212a0ab16f30",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:47:27.328032",
+            "webstore_last_updated": "2014-11-04T22:49:36.507108",
+            "id": "0c167734-5a77-40fb-b8ea-3decee17d0a5",
+            "size": "345793",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Mean Household Size 2002 (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "mean_household_size_2002.csv",
+            "created": "2014-03-12T14:53:14.922504",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Amean_household_size_2002&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": "active",
+            "last_modified": "2014-11-04T22:49:35.273618",
+            "position": 4,
+            "revision_id": "c5ae838c-c9df-4c7e-9a28-2c80893c7f8a",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "311751e3-7f99-4bc9-8bf1-212a0ab16f30",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:49:34.229971",
+            "webstore_last_updated": null,
+            "id": "b28df6e2-3e44-452d-8338-e13c2a321a88",
+            "size": "354816",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Mean Household Size 2002 (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "mean_household_size_2002.excel",
+            "created": "2014-03-12T14:53:14.922512",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Amean_household_size_2002&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:49:34.074539",
+            "position": 5,
+            "revision_id": "69515fc3-305e-4c39-add4-c3eef7ccec13",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "311751e3-7f99-4bc9-8bf1-212a0ab16f30",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:49:26.741517",
+            "webstore_last_updated": null,
+            "id": "8d685c0d-c134-40dc-97f5-2a469981920d",
+            "size": "367491",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Mean Household Size 2002 (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "mean_household_size_2002.json",
+            "created": "2014-03-12T14:53:14.922518",
+            "url": "http://maps.data.ug/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Amean_household_size_2002&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:49:26.610157",
+            "position": 6,
+            "revision_id": "149613c4-b125-4c1c-aab5-bd67ea492200",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "311751e3-7f99-4bc9-8bf1-212a0ab16f30",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:49:37.441919",
+            "webstore_last_updated": null,
+            "id": "d5daddb2-ce61-4594-a378-335ac12b027c",
+            "size": "554309",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Mean Household Size 2002 (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "mean_household_size_2002.kml",
+            "created": "2014-03-12T14:53:14.922526",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Amean_household_size_2002&mode=download",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:49:37.314173",
+            "position": 7,
+            "revision_id": "6c2e09a3-d2f9-47d7-8e2a-f8136894e3c0",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "311751e3-7f99-4bc9-8bf1-212a0ab16f30",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:49:31.496906",
+            "webstore_last_updated": null,
+            "id": "4de848b4-0c5f-4d11-b34c-8a56b3410f11",
+            "size": "1869",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Mean Household Size 2002 (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "mean_household_size_2002.kml",
+            "created": "2014-03-12T14:53:14.922533",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Amean_household_size_2002&mode=refresh",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:49:31.359785",
+            "position": 8,
+            "revision_id": "d8c17e91-8f07-4af1-b90c-8e04a301324c",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "311751e3-7f99-4bc9-8bf1-212a0ab16f30",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:23:43.529831",
+            "webstore_last_updated": null,
+            "id": "8c34a954-b1c9-45ca-b229-2226b33179f6",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Mean Household Size 2002 (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "mean_household_size_2002.tiles",
+            "created": "2014-03-12T14:53:14.922540",
+            "url": "http://maps.data.ug/geoserver/gwc/service/gmaps?layers=geonode:mean_household_size_2002&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "380bae69-5f57-4901-adfa-8d9f0239f71b",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "311751e3-7f99-4bc9-8bf1-212a0ab16f30",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:49:32.423309",
+            "webstore_last_updated": null,
+            "id": "7f4e4ed7-3958-4b86-956c-ed9392fb89b6",
+            "size": "33889",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Mean Household Size 2002 (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "mean_household_size_2002.jpg",
+            "created": "2014-03-12T14:53:14.922547",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Amean_household_size_2002&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:49:32.266559",
+            "position": 10,
+            "revision_id": "49584e45-ed23-4cea-8e90-0f37d9f44a83",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "311751e3-7f99-4bc9-8bf1-212a0ab16f30",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:49:24.667280",
+            "webstore_last_updated": null,
+            "id": "58936991-7979-4e90-bd7a-f6334b947205",
+            "size": "40952",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Mean Household Size 2002 (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "mean_household_size_2002.pdf",
+            "created": "2014-03-12T14:53:14.922555",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Amean_household_size_2002&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:49:24.508003",
+            "position": 11,
+            "revision_id": "23615b8c-2fa2-43ed-985f-8651618297a6",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "311751e3-7f99-4bc9-8bf1-212a0ab16f30",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:49:38.095777",
+            "webstore_last_updated": null,
+            "id": "5188ea8c-4960-4f9c-b130-8cf52c3aa7ab",
+            "size": "56047",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Mean Household Size 2002 (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "mean_household_size_2002.png",
+            "created": "2014-03-12T14:53:14.922562",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Amean_household_size_2002&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:49:37.924518",
+            "position": 12,
+            "revision_id": "2bba8530-34f1-44dd-a163-42e8c93ad49b",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:23:43.529831",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:23:43.529831",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:23:43.529831",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:23:43.529831",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:23:43.529831",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "family",
+            "name": "family",
+            "revision_timestamp": "2014-11-04T22:23:43.529831",
+            "state": "active",
+            "id": "2fa7b318-53f0-4e76-9305-b10e5275fa89"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "household",
+            "name": "household",
+            "revision_timestamp": "2014-11-04T22:23:43.529831",
+            "state": "active",
+            "id": "3b1d2a86-64c3-4a65-8e56-1380dc8caf24"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:23:43.529831",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population",
+            "name": "population",
+            "revision_timestamp": "2014-11-04T22:23:43.529831",
+            "state": "active",
+            "id": "c5e39de5-556e-4bcb-883b-5b9ec2481ae9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:23:43.529831",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 14,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 10,
+    "name": "mean-household-size-2002",
+    "isopen": false,
+    "url": null,
+    "notes": "Mean Household Size 2002 per district",
+    "title": "Mean Household Size 2002",
+    "extras": [
+        {
+            "value": "[]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "380bae69-5f57-4901-adfa-8d9f0239f71b",
+                "package_id": "055ae02f-f546-4c7f-82cb-be1d44bb4028"
+            }
+        },
+        {
+            "value": "35.0017411394",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "380bae69-5f57-4901-adfa-8d9f0239f71b",
+                "package_id": "055ae02f-f546-4c7f-82cb-be1d44bb4028"
+            }
+        },
+        {
+            "value": "4.2310114174",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "055ae02f-f546-4c7f-82cb-be1d44bb4028",
+                "revision_id": "380bae69-5f57-4901-adfa-8d9f0239f71b"
+            }
+        },
+        {
+            "value": "-1.4817440179",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "380bae69-5f57-4901-adfa-8d9f0239f71b",
+                "package_id": "055ae02f-f546-4c7f-82cb-be1d44bb4028"
+            }
+        },
+        {
+            "value": "29.5741674481",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "380bae69-5f57-4901-adfa-8d9f0239f71b",
+                "package_id": "055ae02f-f546-4c7f-82cb-be1d44bb4028"
+            }
+        },
+        {
+            "value": "",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "055ae02f-f546-4c7f-82cb-be1d44bb4028",
+                "revision_id": "380bae69-5f57-4901-adfa-8d9f0239f71b"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "055ae02f-f546-4c7f-82cb-be1d44bb4028",
+                "revision_id": "380bae69-5f57-4901-adfa-8d9f0239f71b"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-02-20T03:59:57Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "055ae02f-f546-4c7f-82cb-be1d44bb4028",
+                "revision_id": "380bae69-5f57-4901-adfa-8d9f0239f71b"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "055ae02f-f546-4c7f-82cb-be1d44bb4028",
+                "revision_id": "380bae69-5f57-4901-adfa-8d9f0239f71b"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Mean Household Size 2002'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "055ae02f-f546-4c7f-82cb-be1d44bb4028",
+                "revision_id": "380bae69-5f57-4901-adfa-8d9f0239f71b"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "055ae02f-f546-4c7f-82cb-be1d44bb4028",
+                "revision_id": "380bae69-5f57-4901-adfa-8d9f0239f71b"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "380bae69-5f57-4901-adfa-8d9f0239f71b",
+                "package_id": "055ae02f-f546-4c7f-82cb-be1d44bb4028"
+            }
+        },
+        {
+            "value": "c0faccc4-9a15-11e3-8923-11b11f8ea6d0",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "380bae69-5f57-4901-adfa-8d9f0239f71b",
+                "package_id": "055ae02f-f546-4c7f-82cb-be1d44bb4028"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "380bae69-5f57-4901-adfa-8d9f0239f71b",
+                "package_id": "055ae02f-f546-4c7f-82cb-be1d44bb4028"
+            }
+        },
+        {
+            "value": "2014-02-20T03:59:57Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "055ae02f-f546-4c7f-82cb-be1d44bb4028",
+                "revision_id": "380bae69-5f57-4901-adfa-8d9f0239f71b"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "380bae69-5f57-4901-adfa-8d9f0239f71b",
+                "package_id": "055ae02f-f546-4c7f-82cb-be1d44bb4028"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "055ae02f-f546-4c7f-82cb-be1d44bb4028",
+                "revision_id": "380bae69-5f57-4901-adfa-8d9f0239f71b"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "055ae02f-f546-4c7f-82cb-be1d44bb4028",
+                "revision_id": "380bae69-5f57-4901-adfa-8d9f0239f71b"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "055ae02f-f546-4c7f-82cb-be1d44bb4028",
+                "revision_id": "380bae69-5f57-4901-adfa-8d9f0239f71b"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.5741674481, -1.4817440179], [35.0017411394, -1.4817440179], [35.0017411394, 4.2310114174], [29.5741674481, 4.2310114174], [29.5741674481, -1.4817440179]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "380bae69-5f57-4901-adfa-8d9f0239f71b",
+                "package_id": "055ae02f-f546-4c7f-82cb-be1d44bb4028"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "055ae02f-f546-4c7f-82cb-be1d44bb4028",
+                "revision_id": "380bae69-5f57-4901-adfa-8d9f0239f71b"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "380bae69-5f57-4901-adfa-8d9f0239f71b",
+                "package_id": "055ae02f-f546-4c7f-82cb-be1d44bb4028"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "380bae69-5f57-4901-adfa-8d9f0239f71b",
+                "package_id": "055ae02f-f546-4c7f-82cb-be1d44bb4028"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "380bae69-5f57-4901-adfa-8d9f0239f71b"
+}

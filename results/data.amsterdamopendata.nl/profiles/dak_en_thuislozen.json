@@ -1,0 +1,170 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2013-10-22T11:41:28.404275",
+    "id": "f7d5bfa5-0c61-4ff2-8ed7-0cbae2c6285f",
+    "metadata_created": "2013-10-01T14:46:59.086020",
+    "owner_org": null,
+    "metadata_modified": "2013-10-22T11:41:28.404275",
+    "author": "GGD Amsterdam",
+    "author_email": "info@ggd.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "3423d76e-d2d1-4b28-9f8f-d8b8145f9719",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-22T11:41:28.404275",
+            "webstore_last_updated": null,
+            "id": "946868aa-8ae4-4cfa-9935-f61b7ff602c3",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Downloaden via Open Datakaart",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "http://www.opendatakaart.nl/catalogus/datasets/datasets_dataset/t/dak_en_thuislozenzorg",
+            "created": "2013-10-22T13:41:28.467635",
+            "url": "http://www.opendatakaart.nl/catalogus/datasets/datasets_dataset/t/dak_en_thuislozenzorg",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "b270de40-d1e6-4d46-846b-c45837a32389",
+            "resource_type": "file"
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "daklozen",
+            "name": "daklozen",
+            "revision_timestamp": "2013-10-01T14:46:59.086020",
+            "state": "active",
+            "id": "545fc2a3-83ae-4fb8-9769-f8240893fe5c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "daklozenzorg",
+            "name": "daklozenzorg",
+            "revision_timestamp": "2013-10-01T14:46:59.086020",
+            "state": "active",
+            "id": "840496fa-c5e5-48c2-be3b-7bf7ca89fc2d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "thuislozen",
+            "name": "thuislozen",
+            "revision_timestamp": "2013-10-01T14:46:59.086020",
+            "state": "active",
+            "id": "4f43ba07-ad68-4727-85fb-a88b1034f0bd"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "thuislozenzorg",
+            "name": "thuislozenzorg",
+            "revision_timestamp": "2013-10-01T14:46:59.086020",
+            "state": "active",
+            "id": "3c95d39f-b29a-4b3f-b844-f50f29d958d9"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Zorg & welzijn",
+            "description": "",
+            "name": "zorg-welzijn",
+            "id": "03f76fe0-7556-4f88-9c23-0b318e1c69ed"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "dak_en_thuislozen",
+    "isopen": false,
+    "url": null,
+    "notes": "Overzicht van alle voorzieningen voor dak- en thuislozenzorg in Amsterdam",
+    "title": "Dak- en Thuislozenzorg",
+    "extras": [
+        {
+            "value": "info@ggd.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "f7d5bfa5-0c61-4ff2-8ed7-0cbae2c6285f",
+                "revision_id": "f2f08b04-abab-4e4d-9be1-3f2b5f5757f4"
+            }
+        },
+        {
+            "value": "GGD Amsterdam",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "f2f08b04-abab-4e4d-9be1-3f2b5f5757f4",
+                "package_id": "f7d5bfa5-0c61-4ff2-8ed7-0cbae2c6285f"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "7355ee9c-ca53-4b67-9a36-b7f6b8b699eb",
+                "package_id": "f7d5bfa5-0c61-4ff2-8ed7-0cbae2c6285f"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "7355ee9c-ca53-4b67-9a36-b7f6b8b699eb",
+                "package_id": "f7d5bfa5-0c61-4ff2-8ed7-0cbae2c6285f"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "f7d5bfa5-0c61-4ff2-8ed7-0cbae2c6285f",
+                "revision_id": "7355ee9c-ca53-4b67-9a36-b7f6b8b699eb"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "f7d5bfa5-0c61-4ff2-8ed7-0cbae2c6285f",
+                "revision_id": "7355ee9c-ca53-4b67-9a36-b7f6b8b699eb"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "7355ee9c-ca53-4b67-9a36-b7f6b8b699eb",
+                "package_id": "f7d5bfa5-0c61-4ff2-8ed7-0cbae2c6285f"
+            }
+        },
+        {
+            "value": "http://www.ggd.amsterdam.nl",
+            "key": "website",
+            "__extras": {
+                "package_id": "f7d5bfa5-0c61-4ff2-8ed7-0cbae2c6285f",
+                "revision_id": "f2f08b04-abab-4e4d-9be1-3f2b5f5757f4"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "b270de40-d1e6-4d46-846b-c45837a32389"
+}

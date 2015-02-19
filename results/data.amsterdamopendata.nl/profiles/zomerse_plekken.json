@@ -1,0 +1,219 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2013-12-19T14:51:45.364544",
+    "id": "d012b992-5745-4c48-bc13-fe23eee70ac0",
+    "metadata_created": "2013-12-19T14:51:45.364544",
+    "owner_org": null,
+    "metadata_modified": "2013-12-19T14:51:45.364544",
+    "author": "Dienst Ruimtelijke Ordening (DRO)",
+    "author_email": "info@dro.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "fa1ab60a-3619-477b-b38a-eec5c674b1ab",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-12-19T14:51:45.364544",
+            "webstore_last_updated": null,
+            "id": "631e67dc-b312-4360-a7c5-e0992ace5d14",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Data via maps.amsterdam.nl",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://maps.amsterdam.nl/open_geodata/",
+            "created": "2013-12-19T15:51:45.447793",
+            "url": "http://maps.amsterdam.nl/open_geodata/",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "0b335369-2126-4ab1-a9c8-7c78a7a74715",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Zomerse",
+            "name": "Zomerse",
+            "revision_timestamp": "2013-12-19T14:51:45.364544",
+            "state": "active",
+            "id": "67238f5c-023f-444f-87e3-b920a06bc0e5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "fontein",
+            "name": "fontein",
+            "revision_timestamp": "2013-12-19T14:51:45.364544",
+            "state": "active",
+            "id": "a04b6acc-b17d-4300-b102-f15f507cc12b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "ligweide",
+            "name": "ligweide",
+            "revision_timestamp": "2013-12-19T14:51:45.364544",
+            "state": "active",
+            "id": "f2e0b6fa-7997-45f2-8a17-db40fe206cf4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "plekken",
+            "name": "plekken",
+            "revision_timestamp": "2013-12-19T14:51:45.364544",
+            "state": "active",
+            "id": "a66d1c4e-77f8-450b-9802-0ae4ca66a220"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "stadsstrand",
+            "name": "stadsstrand",
+            "revision_timestamp": "2013-12-19T14:51:45.364544",
+            "state": "active",
+            "id": "06e264a0-5669-4678-9851-84efa9060d71"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "terras",
+            "name": "terras",
+            "revision_timestamp": "2013-12-19T14:51:45.364544",
+            "state": "active",
+            "id": "17357476-adaf-4b16-83f4-8e3021804777"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "tijd",
+            "name": "tijd",
+            "revision_timestamp": "2013-12-19T14:51:45.364544",
+            "state": "active",
+            "id": "3922c823-178a-4241-bfd2-39dc4fb3397d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "vrije",
+            "name": "vrije",
+            "revision_timestamp": "2013-12-19T14:51:45.364544",
+            "state": "active",
+            "id": "3295570f-b0e8-411a-9e55-48b35d42a617"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "zomer",
+            "name": "zomer",
+            "revision_timestamp": "2013-12-19T14:51:45.364544",
+            "state": "active",
+            "id": "ad30997e-dc6e-4bc1-b1e2-1ad4a763ac9b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "zon",
+            "name": "zon",
+            "revision_timestamp": "2013-12-19T14:51:45.364544",
+            "state": "active",
+            "id": "52401d66-1a19-49d7-8b79-a79b55129739"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Openbare ruimte & groen",
+            "description": "",
+            "name": "openbare-ruimte-groen",
+            "id": "5ef8ea8a-6f09-4d17-9e16-bb57bba25272"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 10,
+    "name": "zomerse_plekken",
+    "isopen": true,
+    "url": null,
+    "notes": "Door de inwoners van Amsterdam verzamelde lijst van zomerse plekken: terrassen, stadsstranden, ligweiden en fonteinen.",
+    "title": "Zomerse plekken",
+    "extras": [
+        {
+            "value": "kb.de.haan@dro.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "d012b992-5745-4c48-bc13-fe23eee70ac0",
+                "revision_id": "0b335369-2126-4ab1-a9c8-7c78a7a74715"
+            }
+        },
+        {
+            "value": "Klaas-Bindert de Haan",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "0b335369-2126-4ab1-a9c8-7c78a7a74715",
+                "package_id": "d012b992-5745-4c48-bc13-fe23eee70ac0"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "0b335369-2126-4ab1-a9c8-7c78a7a74715",
+                "package_id": "d012b992-5745-4c48-bc13-fe23eee70ac0"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "0b335369-2126-4ab1-a9c8-7c78a7a74715",
+                "package_id": "d012b992-5745-4c48-bc13-fe23eee70ac0"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "d012b992-5745-4c48-bc13-fe23eee70ac0",
+                "revision_id": "0b335369-2126-4ab1-a9c8-7c78a7a74715"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "d012b992-5745-4c48-bc13-fe23eee70ac0",
+                "revision_id": "0b335369-2126-4ab1-a9c8-7c78a7a74715"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "0b335369-2126-4ab1-a9c8-7c78a7a74715",
+                "package_id": "d012b992-5745-4c48-bc13-fe23eee70ac0"
+            }
+        },
+        {
+            "value": "http://maps.amsterdam.nl/zomerplekken/",
+            "key": "website",
+            "__extras": {
+                "package_id": "d012b992-5745-4c48-bc13-fe23eee70ac0",
+                "revision_id": "0b335369-2126-4ab1-a9c8-7c78a7a74715"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "0b335369-2126-4ab1-a9c8-7c78a7a74715"
+}

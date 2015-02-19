@@ -1,0 +1,106 @@
+{
+    "license_title": null,
+    "maintainer": "Laban",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:50:11.881967",
+    "id": "896a5e87-e465-428d-87f5-d7c748f1388c",
+    "metadata_created": "2012-09-11T13:50:11.881967",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:08:13.413300",
+    "author": "Laban",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "30f29e08-5bb7-4d25-8f0f-32db3ab08c24",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:08:13.413300",
+            "webstore_last_updated": null,
+            "id": "b76cf151-9b24-42c7-a569-18c57b5dd10e",
+            "size": "108",
+            "state": "active",
+            "hash": "c88b54bd40e5d45da38d3c55c5873c4e984bba9f",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Kenya Meteorological Information.csv",
+            "created": "2012-09-11T13:50:11.917512",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155256/yyat-j4uq.csv",
+            "webstore_url": null,
+            "last_modified": "2013-10-10T12:08:13.337250",
+            "position": 0,
+            "revision_id": "41ce8151-3cee-4f18-b42a-f62132658556",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:50:11.881967",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:50:11.881967",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 51,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "kodi-yyat-j4uq",
+    "isopen": false,
+    "url": null,
+    "notes": "Daily, weekly, monthly and seasonal forecasts",
+    "title": "Kenya Meteorological Information",
+    "extras": [
+        {
+            "value": "Kenya Meteorological Department",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "28e87c25-1bee-4d87-959f-bba0bfa5b8d8",
+                "package_id": "896a5e87-e465-428d-87f5-d7c748f1388c"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "28e87c25-1bee-4d87-959f-bba0bfa5b8d8",
+                "package_id": "896a5e87-e465-428d-87f5-d7c748f1388c"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "28e87c25-1bee-4d87-959f-bba0bfa5b8d8"
+}

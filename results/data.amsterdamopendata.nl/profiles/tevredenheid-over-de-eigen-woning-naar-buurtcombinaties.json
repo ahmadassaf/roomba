@@ -1,0 +1,208 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2014-10-29T13:50:51.162556",
+    "id": "6d8cfb46-a9f3-462d-9136-a7c050fecc27",
+    "metadata_created": "2013-05-15T11:34:43.420853",
+    "owner_org": null,
+    "metadata_modified": "2014-10-29T13:50:51.162556",
+    "author": "O+S",
+    "author_email": "algemeen@os.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "171d8d34-3ba0-45c6-984d-ba49d55f8ff7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-10-29T13:50:51.162556",
+            "webstore_last_updated": null,
+            "id": "d7df2088-83ff-424f-9816-21ebe22927f8",
+            "size": "66752",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Overzicht",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://www.os.amsterdam.nl/feiten-en-cijfers/basismeetset-2014/openbare-ruimte-en-groen/tevredenheid-bewoners-over-eigen-buurt/",
+            "created": "2014-10-29T14:50:51.463302",
+            "url": "http://www.os.amsterdam.nl/feiten-en-cijfers/basismeetset-2014/openbare-ruimte-en-groen/tevredenheid-bewoners-over-eigen-buurt/",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "aeb93b2b-dcbb-4f6c-b099-46ae2b0c6b17",
+            "resource_type": "file",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "171d8d34-3ba0-45c6-984d-ba49d55f8ff7",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-10-29T13:50:51.162556",
+            "webstore_last_updated": null,
+            "id": "3685ac00-7144-402b-bab5-ef87ccf7b64e",
+            "size": "12322",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Excel",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "cache_url": null,
+            "name": "http://www.os.amsterdam.nl/download/91b-tevredenheid-over-de-eigen-buurt-naar-buurtcombinaties-2009-2013-rapportcijfer",
+            "created": "2014-10-29T14:50:51.463328",
+            "url": "http://www.os.amsterdam.nl/download/91b-tevredenheid-over-de-eigen-buurt-naar-buurtcombinaties-2009-2013-rapportcijfer",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "aeb93b2b-dcbb-4f6c-b099-46ae2b0c6b17",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "bc",
+            "name": "bc",
+            "revision_timestamp": "2013-05-15T11:34:43.420853",
+            "state": "active",
+            "id": "cde7e5f1-a88c-463a-820a-7d95a260cd56"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "buurtcombinatie",
+            "name": "buurtcombinatie",
+            "revision_timestamp": "2013-05-15T11:34:43.420853",
+            "state": "active",
+            "id": "4e21be27-8901-4358-a8b7-dbd95dd41cd3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "enquete\n",
+            "name": "enquete\n",
+            "revision_timestamp": "2013-05-15T11:34:43.420853",
+            "state": "active",
+            "id": "17f5b451-c302-4395-887e-862280fae0e9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "tevredenheid",
+            "name": "tevredenheid",
+            "revision_timestamp": "2013-05-15T11:34:43.420853",
+            "state": "active",
+            "id": "d11dea3c-670e-419d-9385-fe84c36b1c70"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "woning",
+            "name": "woning",
+            "revision_timestamp": "2013-05-15T11:34:43.420853",
+            "state": "active",
+            "id": "e646c607-4e4c-42af-b128-4b6dbfa6fd85"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Wonen & leefomgeving",
+            "description": "",
+            "name": "wonen-leefomgeving",
+            "id": "d29db8ae-9fe4-40f4-ad32-8d77b74dd95d"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "tevredenheid-over-de-eigen-woning-naar-buurtcombinaties",
+    "isopen": false,
+    "url": null,
+    "notes": "Rapportcijfer voor de tevredenheid met de eigen woning, 2009-2011",
+    "title": "Tevredenheid over de eigen woning naar buurtcombinaties",
+    "extras": [
+        {
+            "value": "algemeen@os.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "6d8cfb46-a9f3-462d-9136-a7c050fecc27",
+                "revision_id": "68a4aad6-2c08-46c9-8257-88c2eef5125b"
+            }
+        },
+        {
+            "value": "O+S",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "68a4aad6-2c08-46c9-8257-88c2eef5125b",
+                "package_id": "6d8cfb46-a9f3-462d-9136-a7c050fecc27"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "68a4aad6-2c08-46c9-8257-88c2eef5125b",
+                "package_id": "6d8cfb46-a9f3-462d-9136-a7c050fecc27"
+            }
+        },
+        {
+            "value": "Jaar",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "9203ab84-252e-49ef-a0a1-439724c8e720",
+                "package_id": "6d8cfb46-a9f3-462d-9136-a7c050fecc27"
+            }
+        },
+        {
+            "value": "01/01/2009",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "6d8cfb46-a9f3-462d-9136-a7c050fecc27",
+                "revision_id": "9203ab84-252e-49ef-a0a1-439724c8e720"
+            }
+        },
+        {
+            "value": "01/01/2011",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "6d8cfb46-a9f3-462d-9136-a7c050fecc27",
+                "revision_id": "9203ab84-252e-49ef-a0a1-439724c8e720"
+            }
+        },
+        {
+            "value": "Jaarlijks",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "9203ab84-252e-49ef-a0a1-439724c8e720",
+                "package_id": "6d8cfb46-a9f3-462d-9136-a7c050fecc27"
+            }
+        },
+        {
+            "value": "http://www.os.amsterdam.nl",
+            "key": "website",
+            "__extras": {
+                "package_id": "6d8cfb46-a9f3-462d-9136-a7c050fecc27",
+                "revision_id": "68a4aad6-2c08-46c9-8257-88c2eef5125b"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "aeb93b2b-dcbb-4f6c-b099-46ae2b0c6b17"
+}

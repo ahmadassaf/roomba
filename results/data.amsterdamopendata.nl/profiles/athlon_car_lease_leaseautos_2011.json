@@ -1,0 +1,211 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2013-06-11T13:33:29.383625",
+    "id": "cc2065d5-76a0-4e5f-b486-5c015f9c8ace",
+    "metadata_created": "2013-05-29T15:14:26.998956",
+    "owner_org": null,
+    "metadata_modified": "2013-06-11T13:33:29.383625",
+    "author": "Athlon Car Lease",
+    "author_email": "info@athloncarlease.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "a0990732-c692-42aa-b56c-384326603447",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-06-11T13:33:29.383625",
+            "webstore_last_updated": null,
+            "id": "e2ac3362-16f3-4158-a027-9daf6af23838",
+            "size": "93696",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Athlon - Geaggregeerde data 2011",
+            "format": "XLS",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/vnd.ms-excel",
+            "cache_url": null,
+            "name": "Athlon_-_Geaggregeerde_data_2011.xls",
+            "created": "2013-06-11T15:33:29.497723",
+            "url": "http://www.amsterdamopendata.nl/documents/10180/24903/Athlon_-_Geaggregeerde_data_2011.xls",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "891e62a5-616a-472e-960a-eb2855198ff6",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "aantal",
+            "name": "aantal",
+            "revision_timestamp": "2013-05-29T15:14:26.998956",
+            "state": "active",
+            "id": "3480ac53-6cfb-4cdb-a96d-2b01cda71e1a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "autos",
+            "name": "autos",
+            "revision_timestamp": "2013-05-29T15:14:26.998956",
+            "state": "active",
+            "id": "93d9033f-967a-4c1f-a2df-0749f9d4e24c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "bekeuringen",
+            "name": "bekeuringen",
+            "revision_timestamp": "2013-05-29T15:14:26.998956",
+            "state": "active",
+            "id": "43a956df-57b1-4816-b17d-a94fee65f505"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "gewicht",
+            "name": "gewicht",
+            "revision_timestamp": "2013-05-29T15:14:26.998956",
+            "state": "active",
+            "id": "9729d408-3892-4aca-b5f0-0b0389275116"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "klasse",
+            "name": "klasse",
+            "revision_timestamp": "2013-05-29T15:14:26.998956",
+            "state": "active",
+            "id": "9d3dde36-59b0-4bca-bd88-f3a9532c5eba"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "leaseautos",
+            "name": "leaseautos",
+            "revision_timestamp": "2013-05-29T15:14:26.998956",
+            "state": "active",
+            "id": "6192f5c2-9534-4205-92c2-cda24e8a546d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "schades",
+            "name": "schades",
+            "revision_timestamp": "2013-05-29T15:14:26.998956",
+            "state": "active",
+            "id": "6c9f57c7-6143-4781-b914-d9d7464307c4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "verbruik",
+            "name": "verbruik",
+            "revision_timestamp": "2013-05-29T15:14:26.998956",
+            "state": "active",
+            "id": "a55381e3-1a95-4bfc-9ca6-184fc9301850"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "vermogen",
+            "name": "vermogen",
+            "revision_timestamp": "2013-05-29T15:14:26.998956",
+            "state": "active",
+            "id": "a92f9679-a72b-46fd-b6b8-8bc95f681619"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Verkeer & Infrastructuur",
+            "description": "",
+            "name": "verkeer-infrastructuur",
+            "id": "12502584-9d7d-4bdc-bf5f-df2b0d85f4f6"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 9,
+    "name": "athlon_car_lease_leaseautos_2011",
+    "isopen": false,
+    "url": null,
+    "notes": "Overzicht van leaseautos van Athlon per buurtcombinatie in 2011. Inzicht in aantal auto's, klasse, verbruik, vermogen, gewicht, schades en bekeuringen",
+    "title": "Athlon Car Lease Leaseautos 2011",
+    "extras": [
+        {
+            "value": "info@athloncarlease.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "cc2065d5-76a0-4e5f-b486-5c015f9c8ace",
+                "revision_id": "0b01c6bd-ade2-4cff-93aa-f09c2b15bef6"
+            }
+        },
+        {
+            "value": "Athlon Car Lease",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "0b01c6bd-ade2-4cff-93aa-f09c2b15bef6",
+                "package_id": "cc2065d5-76a0-4e5f-b486-5c015f9c8ace"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "0b01c6bd-ade2-4cff-93aa-f09c2b15bef6",
+                "package_id": "cc2065d5-76a0-4e5f-b486-5c015f9c8ace"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "0b01c6bd-ade2-4cff-93aa-f09c2b15bef6",
+                "package_id": "cc2065d5-76a0-4e5f-b486-5c015f9c8ace"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "cc2065d5-76a0-4e5f-b486-5c015f9c8ace",
+                "revision_id": "0b01c6bd-ade2-4cff-93aa-f09c2b15bef6"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "cc2065d5-76a0-4e5f-b486-5c015f9c8ace",
+                "revision_id": "0b01c6bd-ade2-4cff-93aa-f09c2b15bef6"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "0b01c6bd-ade2-4cff-93aa-f09c2b15bef6",
+                "package_id": "cc2065d5-76a0-4e5f-b486-5c015f9c8ace"
+            }
+        },
+        {
+            "value": "http://www.athloncarlease.nl",
+            "key": "website",
+            "__extras": {
+                "package_id": "cc2065d5-76a0-4e5f-b486-5c015f9c8ace",
+                "revision_id": "0b01c6bd-ade2-4cff-93aa-f09c2b15bef6"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "891e62a5-616a-472e-960a-eb2855198ff6"
+}

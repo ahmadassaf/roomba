@@ -1,0 +1,119 @@
+{
+    "license_title": "localauth-withrights",
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "accounts.payable@trafford.gov.uk",
+    "revision_timestamp": "2013-03-28T09:27:23.103564",
+    "id": "00980fda-6319-4344-8e67-8b20af4d575d",
+    "metadata_created": "2011-09-02T09:36:06.010271",
+    "owner_org": "c62ec0c2-ed92-418f-8620-967baf5806a6",
+    "metadata_modified": "2015-01-21T06:01:52.365176",
+    "author": "Trafford Council",
+    "author_email": "accounts.payable@trafford.gov.uk",
+    "state": "active",
+    "version": null,
+    "license_id": "localauth-withrights",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "text/html",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "{\"content\": \"329b05792c54b4e8d2490c666d08048ec680780c\", \"header\": null}",
+            "description": "",
+            "format": "CSV",
+            "url": "http://www.trafford.gov.uk/opendata/sets/supplierspend/2011_07.csv",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "revision_timestamp": "2015-01-21T06:01:52.365176",
+            "webstore_url": null,
+            "resource_group_id": "a4d8afc8-b9f6-4e10-b304-116bea678da0",
+            "state": "active",
+            "last_modified": "2015-01-21T06:01:52.345365",
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "1fbbe8c0-9694-4b7d-bbd8-f1b44452be9f",
+            "size": "43773",
+            "id": "04f65be4-a2e4-4947-a66c-498160a3bbcb",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "spend",
+            "name": "spend",
+            "revision_timestamp": "2011-09-02T09:36:06.010271",
+            "state": "active",
+            "id": "eeb8da16-09e2-4882-b0d5-7a55c57f4c50"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "supplier",
+            "name": "supplier",
+            "revision_timestamp": "2011-09-02T09:36:06.010271",
+            "state": "active",
+            "id": "f9b52c91-a3bf-455c-bb0a-f1f6d456ea8f"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "trafford",
+            "name": "trafford",
+            "revision_timestamp": "2011-09-02T09:36:06.010271",
+            "state": "active",
+            "id": "4741356b-543a-4f8e-8bf6-cf46d9206feb"
+        }
+    ],
+    "tracking_summary": {
+        "total": 2,
+        "recent": 1
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "trafford-supplier-spend-july-2011",
+    "isopen": false,
+    "url": "http://www.trafford.gov.uk/opendata/#spend",
+    "notes": "Supplier Spend - All Payments £0+",
+    "title": "Trafford Supplier Spend - July 2011",
+    "extras": [
+        {
+            "value": "2011-07-01",
+            "key": "temporal_coverage-from",
+            "__extras": {
+                "package_id": "00980fda-6319-4344-8e67-8b20af4d575d",
+                "revision_id": "f1eab0fb-e055-42e7-850b-70850f85ff45"
+            }
+        },
+        {
+            "value": "2011-07-31",
+            "key": "temporal_coverage-to",
+            "__extras": {
+                "package_id": "00980fda-6319-4344-8e67-8b20af4d575d",
+                "revision_id": "f1eab0fb-e055-42e7-850b-70850f85ff45"
+            }
+        }
+    ],
+    "organization": {
+        "description": "",
+        "created": "2013-03-28T04:18:54.382589",
+        "title": "Trafford Council",
+        "name": "trafford-council",
+        "revision_timestamp": "2015-01-13T11:03:32.619917",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://www.trafford.gov.uk/SiteElements/Images/TClogo.png",
+        "revision_id": "aa2e80cf-5dc8-4d91-9ae2-98cd171c0170",
+        "type": "organization",
+        "id": "c62ec0c2-ed92-418f-8620-967baf5806a6",
+        "approval_status": "approved"
+    },
+    "revision_id": "df9d8c32-dfbe-4b6a-8a8d-27335ab8675e"
+}

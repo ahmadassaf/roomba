@@ -1,0 +1,144 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-09-09T10:13:00.987277",
+    "id": "f5026762-0bd5-4dad-9e91-1025dc7daad1",
+    "metadata_created": "2012-09-09T10:07:33.515061",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:24:46.127925",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "971a443f-af14-4d1f-94e8-e0f82d92ee6a",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:24:45.509776",
+            "webstore_last_updated": "2013-10-10T12:24:45.440240",
+            "id": "1614963b-2626-4220-8055-6120cf5f65a0",
+            "size": "1557",
+            "state": "active",
+            "hash": "30e2b76a264b0bd76b3f5fbc4b0466be26fea00b",
+            "description": "Poverty rate by District 2005/2006 ",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 3,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Poverty_Rate__by_District.csv",
+            "created": "2012-09-09T10:10:21.832368",
+            "url": "http://africaopendata.org//storage/f/2012-09-09T10%3A10%3A13.796Z/poverty-rate-by-district.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T10:43:37.867162",
+            "position": 0,
+            "revision_id": "9eb2307d-ea10-46e1-bf88-bba0d5acf2c1",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "971a443f-af14-4d1f-94e8-e0f82d92ee6a",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:24:46.127925",
+            "webstore_last_updated": "2013-10-10T12:24:46.057527",
+            "id": "fe506d13-5ca9-4ca3-9d03-9cad59e05697",
+            "size": "10240",
+            "state": "active",
+            "hash": "dc684a68e12b57c5acd0834fea98000338336170",
+            "description": "Poverty Rate by District 2005/2006",
+            "format": "XLS",
+            "tracking_summary": {
+                "total": 6,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/vnd.ms-excel",
+            "cache_url": null,
+            "name": "Poverty_Rate__by_District.xls",
+            "created": "2012-09-09T10:11:49.198101",
+            "url": "http://africaopendata.org//storage/f/2012-09-09T10%3A11%3A48.708Z/poverty-rate-by-district.xls",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T10:43:38.363254",
+            "position": 1,
+            "revision_id": "97ad884a-c99b-4eda-a901-eec556cc6b47",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "971a443f-af14-4d1f-94e8-e0f82d92ee6a",
+            "cache_last_updated": null,
+            "revision_timestamp": "2012-09-09T10:12:31.985825",
+            "webstore_last_updated": null,
+            "id": "7fd1468c-cafc-485a-bfb6-f1b5d02d2f7c",
+            "size": null,
+            "state": "active",
+            "hash": "",
+            "description": "Poverty Rate by District",
+            "format": "xlsx",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "Poverty_Rate__by_District.xlsx",
+            "created": "2012-09-09T10:12:32.016371",
+            "url": "http://africaopendata.org//storage/f/2012-09-09T10%3A12%3A17.183Z/poverty-rate-by-district.xlsxhttps://www.opendata.go.ke/Poverty/Poverty-Rate-by-District/i5bp-z9aq",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "946ac740-7216-4573-9926-719120c6efaa",
+            "resource_type": "file.upload"
+        }
+    ],
+    "num_resources": 3,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Districts",
+            "name": "Districts",
+            "revision_timestamp": "2012-09-09T10:07:33.515061",
+            "state": "active",
+            "id": "2e7f1aaa-ed5f-492f-a26c-e2be5c425eb3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Poverty",
+            "name": "Poverty",
+            "revision_timestamp": "2012-09-09T10:07:33.515061",
+            "state": "active",
+            "id": "ebc88660-67ab-4c8d-af8d-63e492002f96"
+        }
+    ],
+    "tracking_summary": {
+        "total": 163,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "poverty-rate-by-district",
+    "isopen": true,
+    "url": null,
+    "notes": "District Poverty Data KIHBS 2005/2006",
+    "title": "Poverty Rate by District",
+    "extras": [],
+    "organization": null,
+    "revision_id": "34b6770e-71da-416d-8f6f-b39a8a2a4fbf"
+}

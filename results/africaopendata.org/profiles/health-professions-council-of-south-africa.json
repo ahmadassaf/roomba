@@ -1,0 +1,114 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-09-04T16:10:56.395154",
+    "id": "f41e7507-e896-4a4f-9033-490383c1c584",
+    "metadata_created": "2012-09-04T16:10:56.395154",
+    "owner_org": null,
+    "metadata_modified": "2014-01-25T18:44:51.803068",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": "",
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "813b5586-65b2-4a79-a2d9-4aac0fb22975",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-01-25T18:44:51.803068",
+            "webstore_last_updated": null,
+            "id": "e61b80c9-2010-4a11-9261-3a807e8a7d96",
+            "size": "7914406",
+            "state": "active",
+            "hash": "5f36579a6470d99991b2d5b369d0e4d2c1c8cfa4",
+            "description": "",
+            "format": "gz",
+            "tracking_summary": {
+                "total": 19,
+                "recent": 2
+            },
+            "mimetype_inner": "",
+            "mimetype": "text/plain",
+            "cache_url": null,
+            "name": "hpcsa.csv.gz",
+            "created": "2012-07-24T03:56:48.725347",
+            "url": "http://africaopendata.org/storage/f/2013-11-19T12%3A06%3A07.340Z/hpcsa-csv.gz",
+            "webstore_url": null,
+            "last_modified": "2014-01-25T18:44:51.739284",
+            "position": 0,
+            "revision_id": "e9553083-50cb-4b77-a29f-05d20ad30ab2",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "health",
+            "name": "health",
+            "revision_timestamp": "2012-09-09T09:39:43.665850",
+            "state": "active",
+            "id": "956a3c07-125e-44e4-b843-c5011fadcc7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "health care profeesionals",
+            "name": "health care profeesionals",
+            "revision_timestamp": "2012-09-09T09:39:43.665850",
+            "state": "active",
+            "id": "ebbd7ee5-68b0-4eb3-a480-2299222e17d4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "southafrica",
+            "name": "southafrica",
+            "revision_timestamp": "2012-09-04T16:10:56.395154",
+            "state": "active",
+            "id": "16620248-4ab3-4ae8-a8e9-49ed7920fd32"
+        }
+    ],
+    "tracking_summary": {
+        "total": 188,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "South Africa",
+            "description": "Datasets from South Africa",
+            "name": "south-africa",
+            "id": "fc691a3f-cfce-46d6-93a0-77bdccfec89d"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "health-professions-council-of-south-africa",
+    "isopen": true,
+    "url": "",
+    "notes": "Database of registered health care professionals in South Africa, including postal codes, areas of specialisation and degrees",
+    "title": "Health Professions Council of South Africa",
+    "extras": [
+        {
+            "value": "Coding for Democracy",
+            "key": "Source",
+            "__extras": {
+                "revision_id": "8aa118c4-6245-4638-9048-87168231cdba",
+                "package_id": "f41e7507-e896-4a4f-9033-490383c1c584"
+            }
+        },
+        {
+            "value": "http://197.221.34.5/dataset/f41e7507-e896-4a4f-9033-490383c1c584",
+            "key": "harvest_url",
+            "__extras": {
+                "revision_id": "8aa118c4-6245-4638-9048-87168231cdba",
+                "package_id": "f41e7507-e896-4a4f-9033-490383c1c584"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "8aa118c4-6245-4638-9048-87168231cdba"
+}

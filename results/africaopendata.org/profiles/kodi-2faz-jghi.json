@@ -1,0 +1,146 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:51:08.138889",
+    "id": "99d242ab-715e-49dc-b0a2-e6382bb264b1",
+    "metadata_created": "2012-09-11T13:51:08.138889",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:07:59.425276",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "fd56032d-d079-4783-91dd-58c2e49bcba0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:07:59.425276",
+            "webstore_last_updated": "2013-10-10T12:07:59.355460",
+            "id": "334fe811-3005-491a-a87b-bf524c10d128",
+            "size": "3637",
+            "state": "active",
+            "hash": "e7e730b4eed3d76622ef82ad78289e74b9b41ac2",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Percentage of Children (6 - 59 months)  who are Severely or Moderately Undernourished, County estimates - 2005/6.csv",
+            "created": "2012-09-11T13:51:08.193969",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155353/2faz-jghi.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:09:05.996994",
+            "position": 0,
+            "revision_id": "aca9e8da-3b09-4370-9f9b-b0306c078418",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "county",
+            "name": "county",
+            "revision_timestamp": "2012-09-11T13:51:08.138889",
+            "state": "active",
+            "id": "858f3acf-2c66-4fd9-9dc2-32e4f12121a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "health",
+            "name": "health",
+            "revision_timestamp": "2012-09-11T13:51:08.138889",
+            "state": "active",
+            "id": "956a3c07-125e-44e4-b843-c5011fadcc7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:51:08.138889",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kihbs",
+            "name": "kihbs",
+            "revision_timestamp": "2012-09-11T13:51:08.138889",
+            "state": "active",
+            "id": "e034ae5d-0777-40b8-92f7-c93ba0a00972"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:51:08.138889",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "nutrition",
+            "name": "nutrition",
+            "revision_timestamp": "2012-09-11T13:51:08.138889",
+            "state": "active",
+            "id": "7ef8b5e3-e1a9-4af1-9979-40b24f2ed82b"
+        }
+    ],
+    "tracking_summary": {
+        "total": 62,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "kodi-2faz-jghi",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "KIHBS Table 6.1: Percentage of Children (6 - 59 months)  who are Severely or Moderately Undernourished, County estimates",
+    "title": "Percentage of Children (6 - 59 months)  who are Severely or Moderately Undernourished, County estimates - 2005/6",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "c8627570-aaba-4d1a-b01d-8a103d2af66f",
+                "package_id": "99d242ab-715e-49dc-b0a2-e6382bb264b1"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "c8627570-aaba-4d1a-b01d-8a103d2af66f",
+                "package_id": "99d242ab-715e-49dc-b0a2-e6382bb264b1"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "c8627570-aaba-4d1a-b01d-8a103d2af66f",
+                "package_id": "99d242ab-715e-49dc-b0a2-e6382bb264b1"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "c8627570-aaba-4d1a-b01d-8a103d2af66f"
+}

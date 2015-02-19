@@ -1,0 +1,90 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-06-16T13:33:10.478896",
+    "id": "8fe65277-1c12-40ea-b4bf-1966b2e260d7",
+    "metadata_created": "2013-06-16T13:31:59.712932",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:45:25.414138",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "d0f65f74-c943-472f-8053-f0f356121f6d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:45:25.414138",
+            "webstore_last_updated": "2013-10-10T10:45:25.349037",
+            "id": "73621f05-bd95-47e9-add0-f279cd026b99",
+            "size": "4783",
+            "state": "active",
+            "hash": "28b52ed2b06cb2c305e0a76122b994fe60077e15",
+            "description": "Consumer Price Index 1980 - 2009",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "UNdata_Export_20130616_093231686[1].csv",
+            "created": "2013-06-16T13:32:59.430495",
+            "url": "http://africaopendata.org/storage/f/2013-06-16T13%3A33%3A06.424Z/undata-export-20130616-093231686-1.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-10-10T10:45:24.723143",
+            "position": 0,
+            "revision_id": "e1079a02-4ae2-4193-9a15-f85835787cea",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "CPI",
+            "name": "CPI",
+            "revision_timestamp": "2013-06-16T13:31:59.712932",
+            "state": "active",
+            "id": "4c5bc32a-fcb6-40bf-ae22-2d5c35f054fd"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Consumer Price Index",
+            "name": "Consumer Price Index",
+            "revision_timestamp": "2013-06-16T13:31:59.712932",
+            "state": "active",
+            "id": "d6ed4d6c-796a-4047-8547-bffd30386436"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Malaw",
+            "name": "Malaw",
+            "revision_timestamp": "2013-06-16T13:31:59.712932",
+            "state": "active",
+            "id": "eaa527d6-c9bd-49f1-abe2-2d7c5515d561"
+        }
+    ],
+    "tracking_summary": {
+        "total": 64,
+        "recent": 3
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "malawi-consumer-price-index-1980-2009",
+    "isopen": false,
+    "url": null,
+    "notes": "Malawi Consumer Price Index 1980 - 2009",
+    "title": "Malawi Consumer Price Index 1980 - 2009",
+    "extras": [],
+    "organization": null,
+    "revision_id": "08111339-22fc-44bc-aefc-adf8ea2baf84"
+}

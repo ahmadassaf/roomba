@@ -1,0 +1,155 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Beheerder IVV",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "info@ivv.amsterdam.nl",
+    "revision_timestamp": "2014-10-22T14:20:47.023617",
+    "id": "e39a64c8-511c-4a1e-aa0b-bdc2eea3ab4f",
+    "metadata_created": "2013-05-16T10:28:41.504014",
+    "owner_org": null,
+    "metadata_modified": "2014-12-29T10:58:59.974500",
+    "author": "Parkeergebouwen Amsterdam, P1, Qpark, RaiParking, Apcoa",
+    "author_email": "info@ivv.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "4a4758c1-c870-4aa3-8af9-7f5e5850416c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-29T10:58:59.974500",
+            "webstore_last_updated": null,
+            "id": "309782c4-c0d7-4dc4-b1e6-66eb9e3022c9",
+            "size": "43193",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Locaties (JSON)",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "http://www.amsterdamopendata.nl/files/ivv/parkeren/locaties.json",
+            "created": "2014-10-22T16:20:47.055778",
+            "url": "http://www.amsterdamopendata.nl/files/ivv/parkeren/locaties.json",
+            "webstore_url": null,
+            "last_modified": "2014-12-29T11:13:59",
+            "position": 0,
+            "revision_id": "f5308381-aa40-497d-ace5-dce93752e79b",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "parkeergarages",
+            "name": "parkeergarages",
+            "revision_timestamp": "2013-05-16T10:28:41.504014",
+            "state": "active",
+            "id": "8f842fb7-396a-48a6-ac2c-9f0812ed5863"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "parkeren",
+            "name": "parkeren",
+            "revision_timestamp": "2013-06-19T09:59:55.343949",
+            "state": "active",
+            "id": "d26079eb-6ae8-45d4-a518-9ff38f2dd225"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Verkeer & Infrastructuur",
+            "description": "",
+            "name": "verkeer-infrastructuur",
+            "id": "12502584-9d7d-4bdc-bf5f-df2b0d85f4f6"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "parkeergarages",
+    "isopen": false,
+    "url": null,
+    "notes": "Toegankelijke parkeergarages in Amsterdam met meer dan 200 plekken van o.a. Parkeergebouwen Amsterdam, P1, Qpark, RaiParking, Apcoa.\n\nOpgenomen in onderstaand JSON-bestand als parkeerlocaties van het type \"Parkeergarage\".",
+    "title": "Parkeergarages",
+    "extras": [
+        {
+            "value": "info@ivv.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "e39a64c8-511c-4a1e-aa0b-bdc2eea3ab4f",
+                "revision_id": "4707561f-df28-4a0f-b615-2e4cf98cdbc1"
+            }
+        },
+        {
+            "value": "Dienst IVV",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "4707561f-df28-4a0f-b615-2e4cf98cdbc1",
+                "package_id": "e39a64c8-511c-4a1e-aa0b-bdc2eea3ab4f"
+            }
+        },
+        {
+            "value": "29/12/2014",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "f5308381-aa40-497d-ace5-dce93752e79b",
+                "package_id": "e39a64c8-511c-4a1e-aa0b-bdc2eea3ab4f"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "4707561f-df28-4a0f-b615-2e4cf98cdbc1",
+                "package_id": "e39a64c8-511c-4a1e-aa0b-bdc2eea3ab4f"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "e39a64c8-511c-4a1e-aa0b-bdc2eea3ab4f",
+                "revision_id": "4707561f-df28-4a0f-b615-2e4cf98cdbc1"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "e39a64c8-511c-4a1e-aa0b-bdc2eea3ab4f",
+                "revision_id": "4707561f-df28-4a0f-b615-2e4cf98cdbc1"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "4707561f-df28-4a0f-b615-2e4cf98cdbc1",
+                "package_id": "e39a64c8-511c-4a1e-aa0b-bdc2eea3ab4f"
+            }
+        },
+        {
+            "value": "http://www.amsterdam.nl/opendatadivv",
+            "key": "website",
+            "__extras": {
+                "package_id": "e39a64c8-511c-4a1e-aa0b-bdc2eea3ab4f",
+                "revision_id": "4707561f-df28-4a0f-b615-2e4cf98cdbc1"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "9703607c-4768-4479-a100-e953a92feb65"
+}

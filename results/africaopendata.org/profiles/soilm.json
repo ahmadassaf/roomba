@@ -1,0 +1,675 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:25:33.639933",
+    "id": "3d27c81e-cf4a-4dd4-88c9-016a3ddf38db",
+    "metadata_created": "2014-11-04T22:25:33.639933",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:48:24.636840",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "a3d3ad05-86a4-4bc2-a4c2-89676672cb49",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:57:43.802177",
+            "webstore_last_updated": null,
+            "id": "2688a92e-6aa7-4cb5-9416-a47b311f135a",
+            "size": "48222",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "3232c1323e3f3fb9a69c0e2c0e212a4693ea26ac",
+            "description": "Online link to the 'Soilm' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:51:34.091005",
+            "url": "http://maps.data.ug/layers/geonode:soilm",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:57:43.666706",
+            "position": 0,
+            "revision_id": "c52ffae2-2f86-439a-a81d-9bc724308468",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "a3d3ad05-86a4-4bc2-a4c2-89676672cb49",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:56:40.639450",
+            "webstore_last_updated": null,
+            "id": "fede6eb8-0973-403d-b0b4-d8660c0df4ab",
+            "size": "70640",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Soilm (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "soilm.jpg",
+            "created": "2014-03-12T14:51:34.091038",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms?layers=geonode%3Asoilm&width=525&bbox=29.56418185559171%2C-1.4804084484691022%2C35.027275783150145%2C4.235032222076028&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:56:40.498141",
+            "position": 1,
+            "revision_id": "ce0cf43b-798c-4195-bf9f-c0a79874342f",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "a3d3ad05-86a4-4bc2-a4c2-89676672cb49",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:56:44.034145",
+            "webstore_last_updated": null,
+            "id": "4f67a636-7cff-4d99-ab2b-c8dfef50fbd6",
+            "size": "866842",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Soilm (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "soilm.pdf",
+            "created": "2014-03-12T14:51:34.091049",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms?layers=geonode%3Asoilm&width=525&bbox=29.56418185559171%2C-1.4804084484691022%2C35.027275783150145%2C4.235032222076028&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:56:43.897935",
+            "position": 2,
+            "revision_id": "c7b633bf-4065-4935-963e-ae396c31ecd8",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "a3d3ad05-86a4-4bc2-a4c2-89676672cb49",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:56:53.450861",
+            "webstore_last_updated": null,
+            "id": "42f3d06a-b741-4d27-9da2-446e4460483a",
+            "size": "163801",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Soilm (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "soilm.png",
+            "created": "2014-03-12T14:51:34.091058",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms?layers=geonode%3Asoilm&width=525&bbox=29.56418185559171%2C-1.4804084484691022%2C35.027275783150145%2C4.235032222076028&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:56:53.314445",
+            "position": 3,
+            "revision_id": "d8b4e38f-198e-4576-a54e-e94567267ab2",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "a3d3ad05-86a4-4bc2-a4c2-89676672cb49",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:48:24.636840",
+            "webstore_last_updated": null,
+            "id": "a8f1cc84-709a-477b-9ce4-1ac432478556",
+            "size": "29912758",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Soilm (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "soilm.zip",
+            "created": "2014-03-12T14:51:34.091066",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Asoilm&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:55:26.005120",
+            "position": 4,
+            "revision_id": "b767da13-8206-40b4-bd2d-3c8023c81e7c",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "a3d3ad05-86a4-4bc2-a4c2-89676672cb49",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:57:38.280083",
+            "webstore_last_updated": null,
+            "id": "e9140ea3-aed5-47f2-a798-4efb7658755d",
+            "size": "73134214",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Soilm (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "soilm.gml",
+            "created": "2014-03-12T14:51:34.091073",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Asoilm&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:57:38.127779",
+            "position": 5,
+            "revision_id": "da2d9be9-fb30-44bd-b609-8ed17ddcb086",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "a3d3ad05-86a4-4bc2-a4c2-89676672cb49",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:57:28.972942",
+            "webstore_last_updated": null,
+            "id": "51b8ddc8-827c-40e9-848c-ecc3e9fc22c0",
+            "size": "84270800",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Soilm (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "soilm.gml",
+            "created": "2014-03-12T14:51:34.091080",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Asoilm&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:57:28.838567",
+            "position": 6,
+            "revision_id": "35d4b213-7046-42c5-84fa-3a090bf9907c",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "a3d3ad05-86a4-4bc2-a4c2-89676672cb49",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:57:20.463469",
+            "webstore_last_updated": null,
+            "id": "6514dce8-5884-4a7f-9460-a27c02459f8e",
+            "size": "82774046",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Soilm (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "soilm.csv",
+            "created": "2014-03-12T14:51:34.091087",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Asoilm&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:57:20.327104",
+            "position": 7,
+            "revision_id": "e2de1c1f-2595-40f7-9f90-15d81f4dc212",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "a3d3ad05-86a4-4bc2-a4c2-89676672cb49",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:56:51.702375",
+            "webstore_last_updated": null,
+            "id": "ab8f6b0f-825b-4e3c-ac0e-8429d3f7db74",
+            "size": "42670080",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Soilm (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "soilm.excel",
+            "created": "2014-03-12T14:51:34.091095",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Asoilm&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:56:51.561481",
+            "position": 8,
+            "revision_id": "ace159eb-22e2-4955-9258-8042b69f5b09",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "a3d3ad05-86a4-4bc2-a4c2-89676672cb49",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:57:24.292820",
+            "webstore_last_updated": null,
+            "id": "daeb5fa9-ad57-4518-88c3-60e0c38e1ef6",
+            "size": "87314405",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Soilm (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "soilm.json",
+            "created": "2014-03-12T14:51:34.091103",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Asoilm&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:57:24.152770",
+            "position": 9,
+            "revision_id": "9f8ce1fb-e7dc-4c24-9c5e-0c8364b67ff2",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "a3d3ad05-86a4-4bc2-a4c2-89676672cb49",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:57:34.518003",
+            "webstore_last_updated": null,
+            "id": "f7504d7d-3f3f-40a1-87b0-c3dd2dafb598",
+            "size": "101435012",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Soilm (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "soilm.kml",
+            "created": "2014-03-12T14:51:34.091110",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms/kml?layers=geonode%3Asoilm&mode=download",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:57:34.267739",
+            "position": 10,
+            "revision_id": "3a79d616-9822-40f9-a580-ce934cb7ed71",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "a3d3ad05-86a4-4bc2-a4c2-89676672cb49",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:57:24.338154",
+            "webstore_last_updated": null,
+            "id": "9bc9230a-4f8e-497f-8387-93e91ded3359",
+            "size": "1808",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Soilm (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "soilm.kml",
+            "created": "2014-03-12T14:51:34.091118",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms/kml?layers=geonode%3Asoilm&mode=refresh",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:57:24.199403",
+            "position": 11,
+            "revision_id": "28e95f05-32bb-4d18-b7e9-2cddcc5cbf1c",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "a3d3ad05-86a4-4bc2-a4c2-89676672cb49",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:25:33.639933",
+            "webstore_last_updated": null,
+            "id": "16037a1e-d1f4-4360-9075-143450072e12",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Soilm (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "soilm.tiles",
+            "created": "2014-03-12T14:51:34.091124",
+            "url": "http://geoclean.mountbatten.net/geoserver/gwc/service/gmaps?layers=geonode:soilm&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 12,
+            "revision_id": "ef6501f9-51b0-4aab-a17a-0af100d3870a",
+            "resource_type": null
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "CLEAN",
+            "name": "CLEAN",
+            "revision_timestamp": "2014-11-04T22:25:33.639933",
+            "state": "active",
+            "id": "3acc157d-6cb7-4e71-8564-28ccf51ed93b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:25:33.639933",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:25:33.639933",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:25:33.639933",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:25:33.639933",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:25:33.639933",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:25:33.639933",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 4,
+        "recent": 3
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 7,
+    "name": "soilm",
+    "isopen": false,
+    "url": null,
+    "notes": "No abstract provided",
+    "title": "Soilm",
+    "extras": [
+        {
+            "value": "[\"None\"]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "ef6501f9-51b0-4aab-a17a-0af100d3870a",
+                "package_id": "3d27c81e-cf4a-4dd4-88c9-016a3ddf38db"
+            }
+        },
+        {
+            "value": "35.0272757832",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "ef6501f9-51b0-4aab-a17a-0af100d3870a",
+                "package_id": "3d27c81e-cf4a-4dd4-88c9-016a3ddf38db"
+            }
+        },
+        {
+            "value": "4.2350322221",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "3d27c81e-cf4a-4dd4-88c9-016a3ddf38db",
+                "revision_id": "ef6501f9-51b0-4aab-a17a-0af100d3870a"
+            }
+        },
+        {
+            "value": "-1.4804084485",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "ef6501f9-51b0-4aab-a17a-0af100d3870a",
+                "package_id": "3d27c81e-cf4a-4dd4-88c9-016a3ddf38db"
+            }
+        },
+        {
+            "value": "29.5641818556",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "ef6501f9-51b0-4aab-a17a-0af100d3870a",
+                "package_id": "3d27c81e-cf4a-4dd4-88c9-016a3ddf38db"
+            }
+        },
+        {
+            "value": "katy@mountbatten.net",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "3d27c81e-cf4a-4dd4-88c9-016a3ddf38db",
+                "revision_id": "ef6501f9-51b0-4aab-a17a-0af100d3870a"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "3d27c81e-cf4a-4dd4-88c9-016a3ddf38db",
+                "revision_id": "ef6501f9-51b0-4aab-a17a-0af100d3870a"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-02-19T03:11:58Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "3d27c81e-cf4a-4dd4-88c9-016a3ddf38db",
+                "revision_id": "ef6501f9-51b0-4aab-a17a-0af100d3870a"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "3d27c81e-cf4a-4dd4-88c9-016a3ddf38db",
+                "revision_id": "ef6501f9-51b0-4aab-a17a-0af100d3870a"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Soilm'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "3d27c81e-cf4a-4dd4-88c9-016a3ddf38db",
+                "revision_id": "ef6501f9-51b0-4aab-a17a-0af100d3870a"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "3d27c81e-cf4a-4dd4-88c9-016a3ddf38db",
+                "revision_id": "ef6501f9-51b0-4aab-a17a-0af100d3870a"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "ef6501f9-51b0-4aab-a17a-0af100d3870a",
+                "package_id": "3d27c81e-cf4a-4dd4-88c9-016a3ddf38db"
+            }
+        },
+        {
+            "value": "e26a5968-9945-11e3-a848-65994865a09c",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "ef6501f9-51b0-4aab-a17a-0af100d3870a",
+                "package_id": "3d27c81e-cf4a-4dd4-88c9-016a3ddf38db"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "ef6501f9-51b0-4aab-a17a-0af100d3870a",
+                "package_id": "3d27c81e-cf4a-4dd4-88c9-016a3ddf38db"
+            }
+        },
+        {
+            "value": "2014-02-19T03:11:58Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "3d27c81e-cf4a-4dd4-88c9-016a3ddf38db",
+                "revision_id": "ef6501f9-51b0-4aab-a17a-0af100d3870a"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "ef6501f9-51b0-4aab-a17a-0af100d3870a",
+                "package_id": "3d27c81e-cf4a-4dd4-88c9-016a3ddf38db"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "3d27c81e-cf4a-4dd4-88c9-016a3ddf38db",
+                "revision_id": "ef6501f9-51b0-4aab-a17a-0af100d3870a"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "3d27c81e-cf4a-4dd4-88c9-016a3ddf38db",
+                "revision_id": "ef6501f9-51b0-4aab-a17a-0af100d3870a"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "3d27c81e-cf4a-4dd4-88c9-016a3ddf38db",
+                "revision_id": "ef6501f9-51b0-4aab-a17a-0af100d3870a"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.5641818556, -1.4804084485], [35.0272757832, -1.4804084485], [35.0272757832, 4.2350322221], [29.5641818556, 4.2350322221], [29.5641818556, -1.4804084485]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "ef6501f9-51b0-4aab-a17a-0af100d3870a",
+                "package_id": "3d27c81e-cf4a-4dd4-88c9-016a3ddf38db"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "3d27c81e-cf4a-4dd4-88c9-016a3ddf38db",
+                "revision_id": "ef6501f9-51b0-4aab-a17a-0af100d3870a"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "ef6501f9-51b0-4aab-a17a-0af100d3870a",
+                "package_id": "3d27c81e-cf4a-4dd4-88c9-016a3ddf38db"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "ef6501f9-51b0-4aab-a17a-0af100d3870a",
+                "package_id": "3d27c81e-cf4a-4dd4-88c9-016a3ddf38db"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "ef6501f9-51b0-4aab-a17a-0af100d3870a"
+}

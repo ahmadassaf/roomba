@@ -1,0 +1,481 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:27:01.991764",
+    "id": "6d29b581-63fd-4841-843b-9f66c78fdcf8",
+    "metadata_created": "2014-11-04T22:27:01.991764",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:49:04.696525",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "a0cfe18c-fb72-43ba-9690-26e69a322745",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:04.696525",
+            "webstore_last_updated": null,
+            "id": "c645ff05-feb5-43a2-bbf9-2f0f8601e9a4",
+            "size": "20",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "09948db1bdadfaa79c755e911db401d593831586",
+            "description": "Online link to the 'Student To Classroom Ratio In Secondary School 2002' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:51:10.841366",
+            "url": "http://maps.data.ug/layers/geonode:student_to_classroom_ratio_in_secondary_school_2002",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:53:05.161144",
+            "position": 0,
+            "revision_id": "8ed98d62-ddc8-4815-8827-104f8730f642",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "a0cfe18c-fb72-43ba-9690-26e69a322745",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:27:01.991764",
+            "webstore_last_updated": null,
+            "id": "ac8f63f5-bb15-489a-854e-2d9dab806631",
+            "size": "57281",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Student To Classroom Ratio In Secondary School 2002 (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "student_to_classroom_ratio_in_secondary_school_2002.png",
+            "created": "2014-03-12T14:51:10.841386",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Astudent_to_classroom_ratio_in_secondary_school_2002&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "087831d6-e9f1-4e98-97e6-c383a922326f",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "a0cfe18c-fb72-43ba-9690-26e69a322745",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:27:01.991764",
+            "webstore_last_updated": null,
+            "id": "009067b8-280d-496d-a95b-4630880ec41f",
+            "size": "40933",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Student To Classroom Ratio In Secondary School 2002 (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "student_to_classroom_ratio_in_secondary_school_2002.pdf",
+            "created": "2014-03-12T14:51:10.841391",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Astudent_to_classroom_ratio_in_secondary_school_2002&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "087831d6-e9f1-4e98-97e6-c383a922326f",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "a0cfe18c-fb72-43ba-9690-26e69a322745",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:27:01.991764",
+            "webstore_last_updated": null,
+            "id": "ea1c5ab9-aae7-4a5b-a296-a5f4de3d7360",
+            "size": "32348",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Student To Classroom Ratio In Secondary School 2002 (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "student_to_classroom_ratio_in_secondary_school_2002.jpg",
+            "created": "2014-03-12T14:51:10.841395",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Astudent_to_classroom_ratio_in_secondary_school_2002&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "087831d6-e9f1-4e98-97e6-c383a922326f",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "a0cfe18c-fb72-43ba-9690-26e69a322745",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:27:01.991764",
+            "webstore_last_updated": null,
+            "id": "52b737c0-80e1-47b2-9f46-d6e934805205",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Student To Classroom Ratio In Secondary School 2002 (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "student_to_classroom_ratio_in_secondary_school_2002.tiles",
+            "created": "2014-03-12T14:51:10.841399",
+            "url": "http://maps.data.ug/geoserver/gwc/service/gmaps?layers=geonode:student_to_classroom_ratio_in_secondary_school_2002&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 4,
+            "revision_id": "087831d6-e9f1-4e98-97e6-c383a922326f",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "a0cfe18c-fb72-43ba-9690-26e69a322745",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:27:01.991764",
+            "webstore_last_updated": null,
+            "id": "39937746-d3ce-4a92-bfa5-1d23a4a6c68d",
+            "size": "370940",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Student To Classroom Ratio In Secondary School 2002 (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "student_to_classroom_ratio_in_secondary_school_2002.json",
+            "created": "2014-03-12T14:51:10.841410",
+            "url": "http://maps.data.ug/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Astudent_to_classroom_ratio_in_secondary_school_2002&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:53:07.593950",
+            "position": 5,
+            "revision_id": "087831d6-e9f1-4e98-97e6-c383a922326f",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 6,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:27:01.991764",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:27:01.991764",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:27:01.991764",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:27:01.991764",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:27:01.991764",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "education",
+            "name": "education",
+            "revision_timestamp": "2014-11-04T22:27:01.991764",
+            "state": "active",
+            "id": "4bc98291-13cc-4baf-b090-52376fa3a429"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:27:01.991764",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "secondary",
+            "name": "secondary",
+            "revision_timestamp": "2014-11-04T22:27:01.991764",
+            "state": "active",
+            "id": "3319fd5e-5d9c-4a26-a54f-3a50f32ac1d1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:27:01.991764",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 2,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 9,
+    "name": "student-to-classroom-ratio-in-secondary-school-2002",
+    "isopen": false,
+    "url": null,
+    "notes": "Student To Classroom Ratio In Secondary School 2002 per district",
+    "title": "Student To Classroom Ratio In Secondary School 2002",
+    "extras": [
+        {
+            "value": "[]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "087831d6-e9f1-4e98-97e6-c383a922326f",
+                "package_id": "6d29b581-63fd-4841-843b-9f66c78fdcf8"
+            }
+        },
+        {
+            "value": "35.0017411394",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "087831d6-e9f1-4e98-97e6-c383a922326f",
+                "package_id": "6d29b581-63fd-4841-843b-9f66c78fdcf8"
+            }
+        },
+        {
+            "value": "4.2310114174",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "revision_id": "087831d6-e9f1-4e98-97e6-c383a922326f",
+                "package_id": "6d29b581-63fd-4841-843b-9f66c78fdcf8"
+            }
+        },
+        {
+            "value": "-1.4817440179",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "package_id": "6d29b581-63fd-4841-843b-9f66c78fdcf8",
+                "revision_id": "087831d6-e9f1-4e98-97e6-c383a922326f"
+            }
+        },
+        {
+            "value": "29.5741674481",
+            "key": "bbox-west-long",
+            "__extras": {
+                "package_id": "6d29b581-63fd-4841-843b-9f66c78fdcf8",
+                "revision_id": "087831d6-e9f1-4e98-97e6-c383a922326f"
+            }
+        },
+        {
+            "value": "",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "6d29b581-63fd-4841-843b-9f66c78fdcf8",
+                "revision_id": "087831d6-e9f1-4e98-97e6-c383a922326f"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "revision_id": "087831d6-e9f1-4e98-97e6-c383a922326f",
+                "package_id": "6d29b581-63fd-4841-843b-9f66c78fdcf8"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-02-20T04:02:04Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "6d29b581-63fd-4841-843b-9f66c78fdcf8",
+                "revision_id": "087831d6-e9f1-4e98-97e6-c383a922326f"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "revision_id": "087831d6-e9f1-4e98-97e6-c383a922326f",
+                "package_id": "6d29b581-63fd-4841-843b-9f66c78fdcf8"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Student To Classroom Ratio In Secondary School 2002'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "6d29b581-63fd-4841-843b-9f66c78fdcf8",
+                "revision_id": "087831d6-e9f1-4e98-97e6-c383a922326f"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "6d29b581-63fd-4841-843b-9f66c78fdcf8",
+                "revision_id": "087831d6-e9f1-4e98-97e6-c383a922326f"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "087831d6-e9f1-4e98-97e6-c383a922326f",
+                "package_id": "6d29b581-63fd-4841-843b-9f66c78fdcf8"
+            }
+        },
+        {
+            "value": "0ccf39c8-9a16-11e3-8923-11b11f8ea6d0",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "087831d6-e9f1-4e98-97e6-c383a922326f",
+                "package_id": "6d29b581-63fd-4841-843b-9f66c78fdcf8"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "package_id": "6d29b581-63fd-4841-843b-9f66c78fdcf8",
+                "revision_id": "087831d6-e9f1-4e98-97e6-c383a922326f"
+            }
+        },
+        {
+            "value": "2014-02-20T04:02:04Z",
+            "key": "metadata-date",
+            "__extras": {
+                "revision_id": "087831d6-e9f1-4e98-97e6-c383a922326f",
+                "package_id": "6d29b581-63fd-4841-843b-9f66c78fdcf8"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "087831d6-e9f1-4e98-97e6-c383a922326f",
+                "package_id": "6d29b581-63fd-4841-843b-9f66c78fdcf8"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "6d29b581-63fd-4841-843b-9f66c78fdcf8",
+                "revision_id": "087831d6-e9f1-4e98-97e6-c383a922326f"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "revision_id": "087831d6-e9f1-4e98-97e6-c383a922326f",
+                "package_id": "6d29b581-63fd-4841-843b-9f66c78fdcf8"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "revision_id": "087831d6-e9f1-4e98-97e6-c383a922326f",
+                "package_id": "6d29b581-63fd-4841-843b-9f66c78fdcf8"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.5741674481, -1.4817440179], [35.0017411394, -1.4817440179], [35.0017411394, 4.2310114174], [29.5741674481, 4.2310114174], [29.5741674481, -1.4817440179]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "087831d6-e9f1-4e98-97e6-c383a922326f",
+                "package_id": "6d29b581-63fd-4841-843b-9f66c78fdcf8"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "6d29b581-63fd-4841-843b-9f66c78fdcf8",
+                "revision_id": "087831d6-e9f1-4e98-97e6-c383a922326f"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "087831d6-e9f1-4e98-97e6-c383a922326f",
+                "package_id": "6d29b581-63fd-4841-843b-9f66c78fdcf8"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "package_id": "6d29b581-63fd-4841-843b-9f66c78fdcf8",
+                "revision_id": "087831d6-e9f1-4e98-97e6-c383a922326f"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "087831d6-e9f1-4e98-97e6-c383a922326f"
+}

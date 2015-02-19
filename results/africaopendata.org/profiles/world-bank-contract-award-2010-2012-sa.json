@@ -1,0 +1,108 @@
+{
+    "license_title": "Open Data Commons Attribution License 1.0",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-11-04T17:03:14.408496",
+    "id": "13c7e21d-2f55-4cef-955b-9d514df271b7",
+    "metadata_created": "2012-11-04T17:02:50.168481",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:58:30.258525",
+    "author": "World Bank (finance.worldbank.org)",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "ODC-BY-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "41599751-7aa8-4938-8ae2-c32061db460f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:58:30.258525",
+            "webstore_last_updated": "2013-10-10T10:58:30.192838",
+            "id": "2ea12752-5369-46cf-99b0-936a2ce0d92a",
+            "size": "15169",
+            "state": "active",
+            "hash": "481f4af8c47ff22e7170972fce7cff303f637bd2",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Major_Contract_Awards_FY2010-12_-_Africa_Region-SouthAfrica.csv",
+            "created": "2012-11-04T17:03:03.417962",
+            "url": "http://africaopendata.org/storage/f/2012-11-04T17%3A02%3A58.223Z/major-contract-awards-fy2010-12-africa-region-southafrica.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:26:53.854877",
+            "position": 0,
+            "revision_id": "b7fc883f-b3cc-4f76-a4f0-fcfed0bb4080",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Contracts",
+            "name": "Contracts",
+            "revision_timestamp": "2012-11-04T17:02:50.168481",
+            "state": "active",
+            "id": "c60bfb8e-35f5-487b-b481-b489447b7cef"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "South Africa",
+            "name": "South Africa",
+            "revision_timestamp": "2012-11-04T17:02:50.168481",
+            "state": "active",
+            "id": "9dc9229c-e2f5-47e7-bb37-b6a9b7b5df70"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "World Bank",
+            "name": "World Bank",
+            "revision_timestamp": "2012-11-04T17:02:50.168481",
+            "state": "active",
+            "id": "ae91265e-0b5c-45a0-a96f-02cf356ec937"
+        }
+    ],
+    "tracking_summary": {
+        "total": 63,
+        "recent": 8
+    },
+    "groups": [
+        {
+            "title": "South Africa",
+            "description": "Datasets from South Africa",
+            "name": "south-africa",
+            "id": "fc691a3f-cfce-46d6-93a0-77bdccfec89d"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "world-bank-contract-award-2010-2012-sa",
+    "isopen": true,
+    "url": null,
+    "notes": "This set of contract awards includes data on commitments against contracts that were reviewed by the Bank before they were awarded (prior-reviewed Bank-funded contracts) under IDA/IBRD investment projects and related Trust Funds. This dataset does not list all contracts awarded by the Bank, and should be viewed only as a guide to determine the distribution of major contract commitments among the Bank's member countries. \"Supplier Country\" represents place of supplier registration, which may or not be the supplier's actual country of origin. Information does not include awards to subcontractors nor account for cofinancing. The Procurement Policy and Services Group does not guarantee the data included in this publication and accepts no responsibility whatsoever for any consequences of its use. The World Bank complies with all sanctions applicable to World Bank transactions.\r\n",
+    "title": "World Bank Contract Award 2010-2012 - South Africa",
+    "extras": [],
+    "license_url": "http://www.opendefinition.org/licenses/odc-by",
+    "organization": null,
+    "revision_id": "3953fe2e-6669-4b3b-97e2-915c651db08c",
+    "license_information": {
+        "domain_content": false,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Open Data Commons",
+        "status": "active"
+    }
+}

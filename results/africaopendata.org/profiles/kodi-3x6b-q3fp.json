@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "geekmate",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:46:47.926834",
+    "id": "e8e1dac3-a641-44d6-86df-531c77b423ba",
+    "metadata_created": "2012-09-11T13:46:47.926834",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:11:18.327949",
+    "author": "Chris Metcalf",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "0f76d5d0-70f9-43b9-941e-c75b64551388",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:11:18.327949",
+            "webstore_last_updated": "2013-10-10T12:11:18.259575",
+            "id": "509946b3-ec6b-4eb5-8622-c602671e76c5",
+            "size": "7860",
+            "state": "active",
+            "hash": "413118cc831c7333206235bc3bed09bd1252c891",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "energy distribution.csv",
+            "created": "2012-09-11T13:46:47.965198",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T154933/3x6b-q3fp.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T10:42:57.257942",
+            "position": 0,
+            "revision_id": "620185a5-bc1b-46f2-a093-cafb4ef84bca",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "energy",
+            "name": "energy",
+            "revision_timestamp": "2012-09-11T13:46:47.926834",
+            "state": "active",
+            "id": "442f266c-6f64-47c8-a2a9-8e135cba2940"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:46:47.926834",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:46:47.926834",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 77,
+        "recent": 4
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-3x6b-q3fp",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Source: Vol II Q 10 County",
+    "title": "energy distribution",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "370645f7-7065-44cf-aa9e-620d9176a222",
+                "package_id": "e8e1dac3-a641-44d6-86df-531c77b423ba"
+            }
+        },
+        {
+            "value": "Energy",
+            "key": "category",
+            "__extras": {
+                "revision_id": "370645f7-7065-44cf-aa9e-620d9176a222",
+                "package_id": "e8e1dac3-a641-44d6-86df-531c77b423ba"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "370645f7-7065-44cf-aa9e-620d9176a222",
+                "package_id": "e8e1dac3-a641-44d6-86df-531c77b423ba"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "370645f7-7065-44cf-aa9e-620d9176a222"
+}

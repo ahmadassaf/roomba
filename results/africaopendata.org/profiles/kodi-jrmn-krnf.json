@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:40:43.878133",
+    "id": "299ec19c-4b87-4df0-9835-b50f0297e79e",
+    "metadata_created": "2012-09-11T13:40:43.878133",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:11:55.160265",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "dba5339c-3f05-403b-a880-b7174ee71e59",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:11:55.160265",
+            "webstore_last_updated": "2013-10-10T12:11:55.092854",
+            "id": "50c7b949-bfd3-4766-ade6-efa14b82b48c",
+            "size": "219",
+            "state": "active",
+            "hash": "830969df7d36754350530a26f227cc24f37d15f8",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "2009 Census Volume 2 Table 12 Population by Religious Affiliation.csv",
+            "created": "2012-09-11T13:40:43.916253",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T154328/jrmn-krnf.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:32:46.101101",
+            "position": 0,
+            "revision_id": "5502b379-0815-4b37-a276-dce3f53698a2",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:40:43.878133",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:40:43.878133",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "religion population census",
+            "name": "religion population census",
+            "revision_timestamp": "2012-09-11T13:40:43.878133",
+            "state": "active",
+            "id": "929c7de1-f877-45a7-a43a-17788f86ab77"
+        }
+    ],
+    "tracking_summary": {
+        "total": 55,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-jrmn-krnf",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "2009 Census Volume 2 Table 12 Population by Religious Affiliation",
+    "title": "2009 Census Volume 2 Table 12 Population by Religious Affiliation",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "d1e03943-6d36-4ff4-8ae2-3858e35aeb1c",
+                "package_id": "299ec19c-4b87-4df0-9835-b50f0297e79e"
+            }
+        },
+        {
+            "value": "    Environment And Natural Resources",
+            "key": "category",
+            "__extras": {
+                "revision_id": "d1e03943-6d36-4ff4-8ae2-3858e35aeb1c",
+                "package_id": "299ec19c-4b87-4df0-9835-b50f0297e79e"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "d1e03943-6d36-4ff4-8ae2-3858e35aeb1c",
+                "package_id": "299ec19c-4b87-4df0-9835-b50f0297e79e"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "d1e03943-6d36-4ff4-8ae2-3858e35aeb1c"
+}

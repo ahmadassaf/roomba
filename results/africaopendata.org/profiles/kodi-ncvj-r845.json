@@ -1,0 +1,114 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Samuel Kipruto",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:59:44.440266",
+    "id": "3420567c-b1aa-41ca-825f-2ab05a0bbf9c",
+    "metadata_created": "2012-09-11T13:59:44.440266",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T11:58:57.463776",
+    "author": "Samuel Kipruto",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "78525073-4028-4ba5-9e7e-2b98e567eec6",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T11:58:57.463776",
+            "webstore_last_updated": "2013-10-10T11:58:57.327358",
+            "id": "292058d3-6411-4fa6-9f69-28a678b7f012",
+            "size": "1596",
+            "state": "active",
+            "hash": "b737560a8248201cc32887cdd2634ffb2b595240",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Gross Fixed Capital Formation In Constant Prices ( Percentage Shares) By Purpose 2006-2009.csv",
+            "created": "2012-09-11T13:59:44.473104",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T160229/ncvj-r845.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:34:50.551546",
+            "position": 0,
+            "revision_id": "5067c9a4-3c02-4caf-b598-61fc9e32c31c",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:59:44.440266",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:59:44.440266",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 40,
+        "recent": 3
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "kodi-ncvj-r845",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Kenya National Bureau of Statistics_Gross Fixed Capital Formation In Constant Prices ( Percentage Shares) By Purpose_Statistical Abstract 2006-2009",
+    "title": "Gross Fixed Capital Formation In Constant Prices ( Percentage Shares) By Purpose 2006-2009",
+    "extras": [
+        {
+            "value": "Kenya National Bureau of Statistics",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "fc1c12da-d63d-4960-9d5f-4167bdff1d9e",
+                "package_id": "3420567c-b1aa-41ca-825f-2ab05a0bbf9c"
+            }
+        },
+        {
+            "value": "    National Accounts And Inflation",
+            "key": "category",
+            "__extras": {
+                "revision_id": "fc1c12da-d63d-4960-9d5f-4167bdff1d9e",
+                "package_id": "3420567c-b1aa-41ca-825f-2ab05a0bbf9c"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "fc1c12da-d63d-4960-9d5f-4167bdff1d9e",
+                "package_id": "3420567c-b1aa-41ca-825f-2ab05a0bbf9c"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "fc1c12da-d63d-4960-9d5f-4167bdff1d9e"
+}

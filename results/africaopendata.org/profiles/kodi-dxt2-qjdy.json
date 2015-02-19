@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:41:14.718469",
+    "id": "ab9555f1-4d1e-4557-bef8-1dd36fd9dac1",
+    "metadata_created": "2012-09-11T13:41:14.718469",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:11:49.589245",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "0b530758-e2d7-4e58-a76e-89c749ea2101",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:11:49.589245",
+            "webstore_last_updated": "2013-10-10T12:11:49.512998",
+            "id": "e0bf7ec1-4cb1-4022-9371-1069ae421a67",
+            "size": "60340",
+            "state": "active",
+            "hash": "a3b826e35416686bec80d523fbbb5b3e1ab4c502",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Population, 3 years and above by Sex and School Attendance Status up to District Level -2009.csv",
+            "created": "2012-09-11T13:41:15.216708",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T154357/dxt2-qjdy.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:43:18.287773",
+            "position": 0,
+            "revision_id": "3abeffbd-3787-432c-88d1-dd086f3e0e82",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "education district census",
+            "name": "education district census",
+            "revision_timestamp": "2012-09-11T13:41:14.718469",
+            "state": "active",
+            "id": "99d5bd7b-dfd4-4322-b4be-b2d702f05717"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:41:14.718469",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:41:14.718469",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 36,
+        "recent": 3
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-dxt2-qjdy",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "2009 Census Volume II Table 1: Population, 3 years and above by Sex and School Attendance Status up to District Level",
+    "title": "Population, 3 years and above by Sex and School Attendance Status up to District Level -2009",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "64d3a1a7-edae-4af8-842d-20fe9d748848",
+                "package_id": "ab9555f1-4d1e-4557-bef8-1dd36fd9dac1"
+            }
+        },
+        {
+            "value": "Education",
+            "key": "category",
+            "__extras": {
+                "revision_id": "64d3a1a7-edae-4af8-842d-20fe9d748848",
+                "package_id": "ab9555f1-4d1e-4557-bef8-1dd36fd9dac1"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "64d3a1a7-edae-4af8-842d-20fe9d748848",
+                "package_id": "ab9555f1-4d1e-4557-bef8-1dd36fd9dac1"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "64d3a1a7-edae-4af8-842d-20fe9d748848"
+}

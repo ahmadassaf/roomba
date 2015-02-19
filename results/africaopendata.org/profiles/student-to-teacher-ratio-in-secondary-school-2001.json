@@ -1,0 +1,699 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:29:11.955628",
+    "id": "a30e9d0b-9a37-4e48-90b4-37183b4ced72",
+    "metadata_created": "2014-11-04T22:29:11.955628",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:50:06.094176",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "6d18bba3-579d-4b2d-8c2f-2d04395163a4",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:50:06.094176",
+            "webstore_last_updated": null,
+            "id": "d3fffeee-5532-4bc8-8121-9d24ae270d8a",
+            "size": "20",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "9ceb508b4dbc756417e69ddef509cafa122f65f0",
+            "description": "Online link to the 'Student To Teacher Ratio In Secondary School 2001' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:53:29.198542",
+            "url": "http://maps.data.ug/layers/geonode:student_to_teacher_ratio_in_secondary_school_2001",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T17:07:26.625929",
+            "position": 0,
+            "revision_id": "c5e3d3b0-99d5-42b1-85df-a05466ad0670",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "6d18bba3-579d-4b2d-8c2f-2d04395163a4",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:11.955628",
+            "webstore_last_updated": null,
+            "id": "e8816c14-2db2-4ab3-9ef4-b523cd7b57a9",
+            "size": "56523",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Student To Teacher Ratio In Secondary School 2001 (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "student_to_teacher_ratio_in_secondary_school_2001.png",
+            "created": "2014-03-12T14:53:29.198566",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Astudent_to_teacher_ratio_in_secondary_school_2001&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "eda85082-6155-4b3b-ac02-c9fadcadbcbd",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "6d18bba3-579d-4b2d-8c2f-2d04395163a4",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:11.955628",
+            "webstore_last_updated": null,
+            "id": "e19535e9-1bdc-4220-9868-4935e83f8b45",
+            "size": "39363",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Student To Teacher Ratio In Secondary School 2001 (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "student_to_teacher_ratio_in_secondary_school_2001.pdf",
+            "created": "2014-03-12T14:53:29.198570",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Astudent_to_teacher_ratio_in_secondary_school_2001&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "eda85082-6155-4b3b-ac02-c9fadcadbcbd",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "6d18bba3-579d-4b2d-8c2f-2d04395163a4",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:11.955628",
+            "webstore_last_updated": null,
+            "id": "fe850943-cceb-403f-b68b-af7489e9fa6b",
+            "size": "34147",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Student To Teacher Ratio In Secondary School 2001 (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "student_to_teacher_ratio_in_secondary_school_2001.jpg",
+            "created": "2014-03-12T14:53:29.198574",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Astudent_to_teacher_ratio_in_secondary_school_2001&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "eda85082-6155-4b3b-ac02-c9fadcadbcbd",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "6d18bba3-579d-4b2d-8c2f-2d04395163a4",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:11.955628",
+            "webstore_last_updated": null,
+            "id": "fdf5400c-c505-4b14-a907-40303f0e18d9",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Student To Teacher Ratio In Secondary School 2001 (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "student_to_teacher_ratio_in_secondary_school_2001.tiles",
+            "created": "2014-03-12T14:53:29.198577",
+            "url": "http://maps.data.ug/geoserver/gwc/service/gmaps?layers=geonode:student_to_teacher_ratio_in_secondary_school_2001&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 4,
+            "revision_id": "eda85082-6155-4b3b-ac02-c9fadcadbcbd",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "6d18bba3-579d-4b2d-8c2f-2d04395163a4",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:11.955628",
+            "webstore_last_updated": null,
+            "id": "944dcbd4-623a-4052-94e4-4d10f682f884",
+            "size": "1944",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Student To Teacher Ratio In Secondary School 2001 (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "student_to_teacher_ratio_in_secondary_school_2001.kml",
+            "created": "2014-03-12T14:53:29.198582",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Astudent_to_teacher_ratio_in_secondary_school_2001&mode=refresh",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 5,
+            "revision_id": "eda85082-6155-4b3b-ac02-c9fadcadbcbd",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "6d18bba3-579d-4b2d-8c2f-2d04395163a4",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:11.955628",
+            "webstore_last_updated": null,
+            "id": "e6827c15-bf95-47fe-93f3-61e54673f7de",
+            "size": "537152",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Student To Teacher Ratio In Secondary School 2001 (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "student_to_teacher_ratio_in_secondary_school_2001.kml",
+            "created": "2014-03-12T14:53:29.198589",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Astudent_to_teacher_ratio_in_secondary_school_2001&mode=download",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 6,
+            "revision_id": "eda85082-6155-4b3b-ac02-c9fadcadbcbd",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "6d18bba3-579d-4b2d-8c2f-2d04395163a4",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:11.955628",
+            "webstore_last_updated": null,
+            "id": "adc4f108-80ff-4790-b4f9-247c262aaba3",
+            "size": "370135",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Student To Teacher Ratio In Secondary School 2001 (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "student_to_teacher_ratio_in_secondary_school_2001.json",
+            "created": "2014-03-12T14:53:29.198595",
+            "url": "http://maps.data.ug/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Astudent_to_teacher_ratio_in_secondary_school_2001&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 7,
+            "revision_id": "eda85082-6155-4b3b-ac02-c9fadcadbcbd",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "6d18bba3-579d-4b2d-8c2f-2d04395163a4",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:11.955628",
+            "webstore_last_updated": null,
+            "id": "58082c29-ae93-424a-b30e-d9f3a7bd1eda",
+            "size": "355840",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Student To Teacher Ratio In Secondary School 2001 (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "student_to_teacher_ratio_in_secondary_school_2001.excel",
+            "created": "2014-03-12T14:53:29.198602",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Astudent_to_teacher_ratio_in_secondary_school_2001&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 8,
+            "revision_id": "eda85082-6155-4b3b-ac02-c9fadcadbcbd",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "6d18bba3-579d-4b2d-8c2f-2d04395163a4",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:11.955628",
+            "webstore_last_updated": null,
+            "id": "f3ce4444-a9f3-4199-a6f8-fea86a132000",
+            "size": "348230",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Student To Teacher Ratio In Secondary School 2001 (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "student_to_teacher_ratio_in_secondary_school_2001.csv",
+            "created": "2014-03-12T14:53:29.198607",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Astudent_to_teacher_ratio_in_secondary_school_2001&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "eda85082-6155-4b3b-ac02-c9fadcadbcbd",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "6d18bba3-579d-4b2d-8c2f-2d04395163a4",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:11.955628",
+            "webstore_last_updated": null,
+            "id": "74a39916-e31d-4359-8f43-38925792b9dd",
+            "size": "386734",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Student To Teacher Ratio In Secondary School 2001 (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "student_to_teacher_ratio_in_secondary_school_2001.gml",
+            "created": "2014-03-12T14:53:29.198610",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Astudent_to_teacher_ratio_in_secondary_school_2001&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 10,
+            "revision_id": "eda85082-6155-4b3b-ac02-c9fadcadbcbd",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "6d18bba3-579d-4b2d-8c2f-2d04395163a4",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:11.955628",
+            "webstore_last_updated": null,
+            "id": "c2cd11b2-34f9-42e2-9acd-5a26aca75c44",
+            "size": "266616",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Student To Teacher Ratio In Secondary School 2001 (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "student_to_teacher_ratio_in_secondary_school_2001.gml",
+            "created": "2014-03-12T14:53:29.198614",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Astudent_to_teacher_ratio_in_secondary_school_2001&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 11,
+            "revision_id": "eda85082-6155-4b3b-ac02-c9fadcadbcbd",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "6d18bba3-579d-4b2d-8c2f-2d04395163a4",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:11.955628",
+            "webstore_last_updated": null,
+            "id": "dd74c523-eb22-4bea-b6bd-48432a535b65",
+            "size": "120942",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Student To Teacher Ratio In Secondary School 2001 (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "student_to_teacher_ratio_in_secondary_school_2001.zip",
+            "created": "2014-03-12T14:53:29.198617",
+            "url": "http://maps.data.ug/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Astudent_to_teacher_ratio_in_secondary_school_2001&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 12,
+            "revision_id": "eda85082-6155-4b3b-ac02-c9fadcadbcbd",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:29:11.955628",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:29:11.955628",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "children",
+            "name": "children",
+            "revision_timestamp": "2014-11-04T22:29:11.955628",
+            "state": "active",
+            "id": "eb94209b-4c51-4b2f-acb4-1d10d89d9568"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "clear",
+            "name": "clear",
+            "revision_timestamp": "2014-11-04T22:29:11.955628",
+            "state": "active",
+            "id": "ef8a9a56-ff26-4cab-8dab-86419b1dc7b0"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:29:11.955628",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:29:11.955628",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:29:11.955628",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:29:11.955628",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "school",
+            "name": "school",
+            "revision_timestamp": "2014-11-04T22:29:11.955628",
+            "state": "active",
+            "id": "fd63e38b-2c1e-4d80-ac0f-9c1b26a606a6"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:29:11.955628",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 2,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 10,
+    "name": "student-to-teacher-ratio-in-secondary-school-2001",
+    "isopen": false,
+    "url": null,
+    "notes": "Student To Teacher Ratio In Secondary School 2001",
+    "title": "Student To Teacher Ratio In Secondary School 2001",
+    "extras": [
+        {
+            "value": "[]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "eda85082-6155-4b3b-ac02-c9fadcadbcbd",
+                "package_id": "a30e9d0b-9a37-4e48-90b4-37183b4ced72"
+            }
+        },
+        {
+            "value": "35.0017411394",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "eda85082-6155-4b3b-ac02-c9fadcadbcbd",
+                "package_id": "a30e9d0b-9a37-4e48-90b4-37183b4ced72"
+            }
+        },
+        {
+            "value": "4.2310114174",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "a30e9d0b-9a37-4e48-90b4-37183b4ced72",
+                "revision_id": "eda85082-6155-4b3b-ac02-c9fadcadbcbd"
+            }
+        },
+        {
+            "value": "-1.4817440179",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "eda85082-6155-4b3b-ac02-c9fadcadbcbd",
+                "package_id": "a30e9d0b-9a37-4e48-90b4-37183b4ced72"
+            }
+        },
+        {
+            "value": "29.5741674481",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "eda85082-6155-4b3b-ac02-c9fadcadbcbd",
+                "package_id": "a30e9d0b-9a37-4e48-90b4-37183b4ced72"
+            }
+        },
+        {
+            "value": "",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "a30e9d0b-9a37-4e48-90b4-37183b4ced72",
+                "revision_id": "eda85082-6155-4b3b-ac02-c9fadcadbcbd"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "a30e9d0b-9a37-4e48-90b4-37183b4ced72",
+                "revision_id": "eda85082-6155-4b3b-ac02-c9fadcadbcbd"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-02-20T04:02:20Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "a30e9d0b-9a37-4e48-90b4-37183b4ced72",
+                "revision_id": "eda85082-6155-4b3b-ac02-c9fadcadbcbd"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "a30e9d0b-9a37-4e48-90b4-37183b4ced72",
+                "revision_id": "eda85082-6155-4b3b-ac02-c9fadcadbcbd"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Student To Teacher Ratio In Secondary School 2001'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "a30e9d0b-9a37-4e48-90b4-37183b4ced72",
+                "revision_id": "eda85082-6155-4b3b-ac02-c9fadcadbcbd"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "a30e9d0b-9a37-4e48-90b4-37183b4ced72",
+                "revision_id": "eda85082-6155-4b3b-ac02-c9fadcadbcbd"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "eda85082-6155-4b3b-ac02-c9fadcadbcbd",
+                "package_id": "a30e9d0b-9a37-4e48-90b4-37183b4ced72"
+            }
+        },
+        {
+            "value": "16314286-9a16-11e3-8923-11b11f8ea6d0",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "eda85082-6155-4b3b-ac02-c9fadcadbcbd",
+                "package_id": "a30e9d0b-9a37-4e48-90b4-37183b4ced72"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "eda85082-6155-4b3b-ac02-c9fadcadbcbd",
+                "package_id": "a30e9d0b-9a37-4e48-90b4-37183b4ced72"
+            }
+        },
+        {
+            "value": "2014-02-20T04:02:20Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "a30e9d0b-9a37-4e48-90b4-37183b4ced72",
+                "revision_id": "eda85082-6155-4b3b-ac02-c9fadcadbcbd"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "eda85082-6155-4b3b-ac02-c9fadcadbcbd",
+                "package_id": "a30e9d0b-9a37-4e48-90b4-37183b4ced72"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "a30e9d0b-9a37-4e48-90b4-37183b4ced72",
+                "revision_id": "eda85082-6155-4b3b-ac02-c9fadcadbcbd"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "a30e9d0b-9a37-4e48-90b4-37183b4ced72",
+                "revision_id": "eda85082-6155-4b3b-ac02-c9fadcadbcbd"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "a30e9d0b-9a37-4e48-90b4-37183b4ced72",
+                "revision_id": "eda85082-6155-4b3b-ac02-c9fadcadbcbd"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.5741674481, -1.4817440179], [35.0017411394, -1.4817440179], [35.0017411394, 4.2310114174], [29.5741674481, 4.2310114174], [29.5741674481, -1.4817440179]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "eda85082-6155-4b3b-ac02-c9fadcadbcbd",
+                "package_id": "a30e9d0b-9a37-4e48-90b4-37183b4ced72"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "a30e9d0b-9a37-4e48-90b4-37183b4ced72",
+                "revision_id": "eda85082-6155-4b3b-ac02-c9fadcadbcbd"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "eda85082-6155-4b3b-ac02-c9fadcadbcbd",
+                "package_id": "a30e9d0b-9a37-4e48-90b4-37183b4ced72"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "eda85082-6155-4b3b-ac02-c9fadcadbcbd",
+                "package_id": "a30e9d0b-9a37-4e48-90b4-37183b4ced72"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "eda85082-6155-4b3b-ac02-c9fadcadbcbd"
+}

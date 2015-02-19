@@ -1,0 +1,171 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2014-05-12T16:51:34.132009",
+    "id": "1d06ba96-01e3-4a26-bb69-94ad16beb243",
+    "metadata_created": "2014-05-12T16:51:34.132009",
+    "owner_org": null,
+    "metadata_modified": "2014-05-12T16:51:34.132009",
+    "author": "ProjectManagement Bureau (PMB)",
+    "author_email": "info@pmb.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "f4935311-fd9f-416b-bd5d-e42e277bf9a5",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-05-12T16:51:34.132009",
+            "webstore_last_updated": null,
+            "id": "675aba24-4947-4626-ab27-5dc2a4f32ca2",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "KML, downloaden via maps.amsterdam.nl",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://maps.amsterdam.nl/open_geodata/",
+            "created": "2014-05-12T18:51:34.168570",
+            "url": "http://maps.amsterdam.nl/open_geodata/",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "205dff43-ef4e-40c4-955a-a1a23c18c5da",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "functie",
+            "name": "functie",
+            "revision_timestamp": "2014-05-12T16:51:34.132009",
+            "state": "active",
+            "id": "bb63ca70-77d9-405b-b925-16bdf8ab64c4"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "herbestemming",
+            "name": "herbestemming",
+            "revision_timestamp": "2014-05-12T16:51:34.132009",
+            "state": "active",
+            "id": "1a2e92b2-3f34-4ef2-9cab-816090c1328d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "scholen",
+            "name": "scholen",
+            "revision_timestamp": "2014-05-12T16:51:34.132009",
+            "state": "active",
+            "id": "f0b343db-7d98-40b2-80ee-8fa6ab25317c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "schoolgebouwen",
+            "name": "schoolgebouwen",
+            "revision_timestamp": "2014-05-12T16:51:34.132009",
+            "state": "active",
+            "id": "462fe383-9e72-4beb-b0a9-c084312416ba"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Stedelijke ontwikkeling",
+            "description": "",
+            "name": "stedelijke-ontwikkeling",
+            "id": "0364e650-9355-4ad7-aa0a-8d87d809544e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "herbestemde_schoolgebouwen",
+    "isopen": true,
+    "url": null,
+    "notes": "Dit bestand bevat alle herbestemde schoolgebouwen binnen de stadsdelen van Amsterdam.\nPer schoolgebouw is het bouwjaar en de huidige functie weergegeven. Dit is onderzocht aan de hand van de adressengidsen van het stadsarchief uit de periode 1905-1995.\nBij alle schoolgebouwen is geanalyseerd welke functies deze nu hebben.",
+    "title": "Herbestemde schoolgebouwen",
+    "extras": [
+        {
+            "value": "brunhaar@pmb.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "1d06ba96-01e3-4a26-bb69-94ad16beb243",
+                "revision_id": "205dff43-ef4e-40c4-955a-a1a23c18c5da"
+            }
+        },
+        {
+            "value": "Bert Runhaar",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "205dff43-ef4e-40c4-955a-a1a23c18c5da",
+                "package_id": "1d06ba96-01e3-4a26-bb69-94ad16beb243"
+            }
+        },
+        {
+            "value": "01/01/2014",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "205dff43-ef4e-40c4-955a-a1a23c18c5da",
+                "package_id": "1d06ba96-01e3-4a26-bb69-94ad16beb243"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "205dff43-ef4e-40c4-955a-a1a23c18c5da",
+                "package_id": "1d06ba96-01e3-4a26-bb69-94ad16beb243"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "1d06ba96-01e3-4a26-bb69-94ad16beb243",
+                "revision_id": "205dff43-ef4e-40c4-955a-a1a23c18c5da"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "1d06ba96-01e3-4a26-bb69-94ad16beb243",
+                "revision_id": "205dff43-ef4e-40c4-955a-a1a23c18c5da"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "205dff43-ef4e-40c4-955a-a1a23c18c5da",
+                "package_id": "1d06ba96-01e3-4a26-bb69-94ad16beb243"
+            }
+        },
+        {
+            "value": "http://maps.amsterdam.nl/scholen_herbestemd/",
+            "key": "website",
+            "__extras": {
+                "package_id": "1d06ba96-01e3-4a26-bb69-94ad16beb243",
+                "revision_id": "205dff43-ef4e-40c4-955a-a1a23c18c5da"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "205dff43-ef4e-40c4-955a-a1a23c18c5da"
+}

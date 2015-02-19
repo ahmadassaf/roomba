@@ -1,0 +1,89 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2014-02-19T16:15:10.318563",
+    "id": "d0a7244e-765e-45cd-abf4-74e08d64ac2f",
+    "metadata_created": "2014-02-19T16:14:48.685095",
+    "owner_org": null,
+    "metadata_modified": "2014-02-19T16:15:10.318563",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "367c3707-d5bd-43e7-956e-3192ea7997dd",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-02-19T16:15:09.373949",
+            "webstore_last_updated": "2014-02-19T16:15:08.859693",
+            "id": "38849794-7d5a-4b90-b0e0-3b4f7330664f",
+            "size": "92672",
+            "state": "active",
+            "hash": "24c9d02204b1d88801b741cf6d2e1b675fc25c83",
+            "description": "",
+            "format": "xlsx",
+            "tracking_summary": {
+                "total": 12,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/vnd.ms-excel",
+            "cache_url": null,
+            "name": "District Health Information System Dataset.xls",
+            "created": "2014-02-19T16:15:07.351638",
+            "url": "http://africaopendata.org/storage/f/2014-02-19T16%3A14%3A43.830Z/district-health-information-system-dataset.xls",
+            "webstore_url": "active",
+            "last_modified": "2014-02-19T16:15:09.307031",
+            "position": 0,
+            "revision_id": "b1fdc4b5-5e72-4620-83b0-ab94d2024e88",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Nigeria",
+            "name": "Nigeria",
+            "revision_timestamp": "2014-02-19T16:14:48.685095",
+            "state": "active",
+            "id": "3d6ed434-c3fa-4c47-a357-f4725f623120"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "health",
+            "name": "health",
+            "revision_timestamp": "2014-02-19T16:14:48.685095",
+            "state": "active",
+            "id": "956a3c07-125e-44e4-b843-c5011fadcc7e"
+        }
+    ],
+    "tracking_summary": {
+        "total": 114,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Nigeria",
+            "description": "Datasets from the Republic of Nigeria",
+            "name": "nigeria",
+            "id": "6e482307-7e70-4db4-a3f2-91db4e2b90bc"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "district-health-information-system",
+    "isopen": false,
+    "url": null,
+    "notes": "These are program data from the Federal Ministry of Health and show actual numbers from health facilities in the country disaggregated by states. These are actual numbers for some selected indicators. Example the first column is the actual number of people that visited a health facility in Bauchi State in the month of February 2014. These are real time data entered at the end of the month. ",
+    "title": "District Health Information System",
+    "extras": [],
+    "organization": null,
+    "revision_id": "ecb21516-197b-4529-8d00-1b46e670faf9"
+}

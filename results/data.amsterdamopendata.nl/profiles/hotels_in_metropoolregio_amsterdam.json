@@ -1,0 +1,231 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2014-08-28T07:57:07.797832",
+    "id": "3ac80a00-f823-4719-b7b3-f05984f91def",
+    "metadata_created": "2013-06-25T14:34:45.265679",
+    "owner_org": null,
+    "metadata_modified": "2014-08-28T07:57:07.797832",
+    "author": "Hotelloods Amsterdam",
+    "author_email": "hotelloods@ez.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "1b3c7ad0-bdb1-4619-9274-6c813da6aa39",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-08-28T07:57:07.797832",
+            "webstore_last_updated": null,
+            "id": "e825ba21-73db-4b15-b8aa-8146c37b5de3",
+            "size": "57135",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Lijst hotels (CSV)",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Lijst hotels MRA 2012.csv",
+            "created": "2014-08-28T09:57:07.837751",
+            "url": "http://www.amsterdamopendata.nl/documents/10180/25203/Lijst hotels MRA 2012.csv",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "3113d109-e4ed-4ab7-8bf0-c9581bf4dfe8",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "1b3c7ad0-bdb1-4619-9274-6c813da6aa39",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-08-28T07:57:07.797832",
+            "webstore_last_updated": null,
+            "id": "e29021f9-9404-4da4-9305-21ade8b20e19",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Hotels (via CitySDK)",
+            "format": "url",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "http://api.citysdk.waag.org/nodes?layer=amsterdam.hotels&geom",
+            "created": "2014-08-28T09:57:07.837767",
+            "url": "http://api.citysdk.waag.org/nodes?layer=amsterdam.hotels&geom",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "3113d109-e4ed-4ab7-8bf0-c9581bf4dfe8",
+            "resource_type": "api"
+        }
+    ],
+    "num_resources": 2,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "aantal",
+            "name": "aantal",
+            "revision_timestamp": "2013-06-25T14:34:45.265679",
+            "state": "active",
+            "id": "3480ac53-6cfb-4cdb-a96d-2b01cda71e1a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "bedden",
+            "name": "bedden",
+            "revision_timestamp": "2013-06-25T14:34:45.265679",
+            "state": "active",
+            "id": "80f7cea3-508d-4ebf-8d19-b75dcbe0ba66"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "classificatie",
+            "name": "classificatie",
+            "revision_timestamp": "2013-06-25T14:34:45.265679",
+            "state": "active",
+            "id": "bcbd2e09-4c93-4c4e-9f62-797ffd52c226"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "hotel",
+            "name": "hotel",
+            "revision_timestamp": "2013-06-25T14:34:45.265679",
+            "state": "active",
+            "id": "34787ba1-e7c2-45b5-bb9c-997d07a5fbd0"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "hotelloods",
+            "name": "hotelloods",
+            "revision_timestamp": "2013-06-25T14:34:45.265679",
+            "state": "active",
+            "id": "daecc78f-e477-4d9d-95df-020e50895e92"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "hotels",
+            "name": "hotels",
+            "revision_timestamp": "2013-06-25T14:34:45.265679",
+            "state": "active",
+            "id": "2641d103-dca4-4509-88f6-44dc154ea75b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kamers",
+            "name": "kamers",
+            "revision_timestamp": "2013-06-25T14:34:45.265679",
+            "state": "active",
+            "id": "e9937e6a-04d6-473c-98a0-80f088906ea8"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "sterren",
+            "name": "sterren",
+            "revision_timestamp": "2013-06-25T14:34:45.265679",
+            "state": "active",
+            "id": "dbc0ac2d-1c75-4198-9d81-9dc66caeb6fa"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Toerisme & cultuur",
+            "description": "",
+            "name": "toerisme-cultuur",
+            "id": "ea426321-bf88-499e-be18-d11d20001350"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 8,
+    "name": "hotels_in_metropoolregio_amsterdam",
+    "isopen": false,
+    "url": null,
+    "notes": "Overzicht van alle hotels in de metropoolregio Amsterdam, zoals beschikbaar gesteld door de Hotelloods Amsterdam. Per hotel zijn naam, adres,  aantal sterren, aantal kamers en aantal bedden opgenomen.\n\nDeze data is ook beschikbaar via CitySDK",
+    "title": "Hotels in metropoolregio Amsterdam",
+    "extras": [
+        {
+            "value": "hotelloods@ez.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "3ac80a00-f823-4719-b7b3-f05984f91def",
+                "revision_id": "29748a3d-9045-4df4-a5e9-7163fd0f3c07"
+            }
+        },
+        {
+            "value": "Hotelloods Amsterdam",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "29748a3d-9045-4df4-a5e9-7163fd0f3c07",
+                "package_id": "3ac80a00-f823-4719-b7b3-f05984f91def"
+            }
+        },
+        {
+            "value": "25/06/2013",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "29748a3d-9045-4df4-a5e9-7163fd0f3c07",
+                "package_id": "3ac80a00-f823-4719-b7b3-f05984f91def"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "29748a3d-9045-4df4-a5e9-7163fd0f3c07",
+                "package_id": "3ac80a00-f823-4719-b7b3-f05984f91def"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "3ac80a00-f823-4719-b7b3-f05984f91def",
+                "revision_id": "29748a3d-9045-4df4-a5e9-7163fd0f3c07"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "3ac80a00-f823-4719-b7b3-f05984f91def",
+                "revision_id": "29748a3d-9045-4df4-a5e9-7163fd0f3c07"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "29748a3d-9045-4df4-a5e9-7163fd0f3c07",
+                "package_id": "3ac80a00-f823-4719-b7b3-f05984f91def"
+            }
+        },
+        {
+            "value": "http://www.amsterdam.nl/ondernemen/bedrijfsruimte/ata/hotelloods/",
+            "key": "website",
+            "__extras": {
+                "package_id": "3ac80a00-f823-4719-b7b3-f05984f91def",
+                "revision_id": "29748a3d-9045-4df4-a5e9-7163fd0f3c07"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "3113d109-e4ed-4ab7-8bf0-c9581bf4dfe8"
+}

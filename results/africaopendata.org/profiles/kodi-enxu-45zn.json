@@ -1,0 +1,146 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:55:42.519261",
+    "id": "52f77386-82fd-43ce-9c26-eeb1ac83ad0a",
+    "metadata_created": "2012-09-11T13:55:42.519261",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:03:22.076811",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "e359f31b-b2fd-4fc1-9af8-5429c2cbeffe",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:03:22.076811",
+            "webstore_last_updated": "2013-10-10T12:03:22.011624",
+            "id": "091bd118-3464-4794-86e7-8de4fdcf4392",
+            "size": "5114",
+            "state": "active",
+            "hash": "86bd616215544eb4b3c003a473890c8f4f35bb3f",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Percentage Distribution of Households by Source of Credit Received, County estimates - 2005/6.csv",
+            "created": "2012-09-11T13:55:42.574167",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155827/enxu-45zn.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:40:34.558397",
+            "position": 0,
+            "revision_id": "ee6e2501-3527-4c8d-ad52-d9ef7b6bce32",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "county",
+            "name": "county",
+            "revision_timestamp": "2012-09-11T13:55:42.519261",
+            "state": "active",
+            "id": "858f3acf-2c66-4fd9-9dc2-32e4f12121a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "credit",
+            "name": "credit",
+            "revision_timestamp": "2012-09-11T13:55:42.519261",
+            "state": "active",
+            "id": "f75f0f6a-6ae1-4519-9dc9-6ef5faf66337"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "economy",
+            "name": "economy",
+            "revision_timestamp": "2012-09-11T13:55:42.519261",
+            "state": "active",
+            "id": "04a67a7a-85b4-4841-815a-ec4ebad88b59"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:55:42.519261",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "khibs",
+            "name": "khibs",
+            "revision_timestamp": "2012-09-11T13:55:42.519261",
+            "state": "active",
+            "id": "55e752fd-b18c-4bb7-8474-5e058ad4dc2d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:55:42.519261",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 96,
+        "recent": 5
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "kodi-enxu-45zn",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "kKIHBS Table 8.7: Percentage Distribution of Households by Source of Credit Received, County estimates",
+    "title": "Percentage Distribution of Households by Source of Credit Received, County estimates - 2005/6",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "70c9fcb0-0f8e-4d82-8265-cf1fec01f7bd",
+                "package_id": "52f77386-82fd-43ce-9c26-eeb1ac83ad0a"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "70c9fcb0-0f8e-4d82-8265-cf1fec01f7bd",
+                "package_id": "52f77386-82fd-43ce-9c26-eeb1ac83ad0a"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "70c9fcb0-0f8e-4d82-8265-cf1fec01f7bd",
+                "package_id": "52f77386-82fd-43ce-9c26-eeb1ac83ad0a"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "70c9fcb0-0f8e-4d82-8265-cf1fec01f7bd"
+}

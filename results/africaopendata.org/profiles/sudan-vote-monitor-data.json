@@ -1,0 +1,93 @@
+{
+    "license_title": "Open Data Commons Open Database License 1.0",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-10-03T07:36:40.753143",
+    "id": "cc76f7a1-d64e-41da-ae1d-fb3169ba0592",
+    "metadata_created": "2012-10-03T07:35:10.924277",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T11:56:39.020253",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "ODbL-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "708ed5ad-4132-44c8-a4e5-bace9141b977",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T11:56:39.020253",
+            "webstore_last_updated": "2013-10-10T11:56:38.955310",
+            "id": "7bfde52a-8ee4-4436-aa3f-0f6cb49f6671",
+            "size": "187409",
+            "state": "active",
+            "hash": "eea4c7bd84dff3ac0dd2e9c3b49884a991999505",
+            "description": "Sudan Vote Monitor Data from the Ushahidi Instance",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Sudan Vote Monitor.csv",
+            "created": "2012-10-03T07:36:33.726238",
+            "url": "http://africaopendata.org/storage/f/2012-10-03T07%3A35%3A47.808Z/sudan-vote-monitor.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:48:58.403771",
+            "position": 0,
+            "revision_id": "74d51193-688a-465d-a1af-c0b783e8b233",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Sudan",
+            "name": "Sudan",
+            "revision_timestamp": "2012-10-03T07:35:10.924277",
+            "state": "active",
+            "id": "20fc85bf-89e2-4421-9571-d52c68e04c5e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Ushahidi",
+            "name": "Ushahidi",
+            "revision_timestamp": "2012-10-03T07:35:10.924277",
+            "state": "active",
+            "id": "eebeadb1-e141-4363-a6e8-68d843a8b0ab"
+        }
+    ],
+    "tracking_summary": {
+        "total": 56,
+        "recent": 6
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "sudan-vote-monitor-data",
+    "isopen": true,
+    "url": null,
+    "notes": "Sudan Vote Monitor Data from the Ushahidi Instance",
+    "title": "Sudan Vote Monitor Data",
+    "extras": [],
+    "license_url": "http://www.opendefinition.org/licenses/odc-odbl",
+    "organization": null,
+    "revision_id": "7c0b2e25-990b-49f9-b536-dd34c8135e82",
+    "license_information": {
+        "domain_content": false,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "",
+        "status": "active"
+    }
+}

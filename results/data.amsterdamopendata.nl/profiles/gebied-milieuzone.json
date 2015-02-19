@@ -1,0 +1,163 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Beheerder IVV",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "info@ivv.amsterdam.nl",
+    "revision_timestamp": "2013-06-19T09:52:55.931193",
+    "id": "c0faeafb-664c-4174-83e2-a98d7215876d",
+    "metadata_created": "2013-05-16T10:23:31.090588",
+    "owner_org": null,
+    "metadata_modified": "2013-06-27T07:19:41.876549",
+    "author": "Dienst IVV",
+    "author_email": "info@ivv.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "870ee79b-32ea-49af-bba9-6e16a2d0324a",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-06-27T07:19:41.876549",
+            "webstore_last_updated": null,
+            "id": "6608a45c-263b-41d8-8592-7c213c0895e8",
+            "size": "258813",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Milieuzone",
+            "format": "ZIP",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "milieuzone_mei2013.zip",
+            "created": "2013-06-27T09:19:41.907797",
+            "url": "http://www.amsterdamopendata.nl/documents/10180/25237/milieuzone_mei2013.zip",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "918734f7-a3c2-4119-bfa7-c05348bf2d3d",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "milieuzone",
+            "name": "milieuzone",
+            "revision_timestamp": "2013-05-16T10:23:31.090588",
+            "state": "active",
+            "id": "47767c34-0141-4f59-a721-fa8e286d9459"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "vervoer\n",
+            "name": "vervoer\n",
+            "revision_timestamp": "2013-05-16T10:23:31.090588",
+            "state": "active",
+            "id": "2eb42702-21a2-4b96-9ee4-7973659cb31b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "vrachtwagens",
+            "name": "vrachtwagens",
+            "revision_timestamp": "2013-05-16T10:23:31.090588",
+            "state": "active",
+            "id": "58027eb3-da0a-4da5-af7b-014af2d33567"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Verkeer & Infrastructuur",
+            "description": "",
+            "name": "verkeer-infrastructuur",
+            "id": "12502584-9d7d-4bdc-bf5f-df2b0d85f4f6"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "gebied-milieuzone",
+    "isopen": false,
+    "url": null,
+    "notes": "Alleen vrachtauto's met een Euro 4 en Euro 5 dieselmotor (en Euro 3 met roetfilter, mits niet ouder dan 8 jaar) mogen de milieuzone in. Meer info opwww.amsterdam.nl/milieuzone",
+    "title": "Gebied Milieuzone",
+    "extras": [
+        {
+            "value": "info@ivv.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "c0faeafb-664c-4174-83e2-a98d7215876d",
+                "revision_id": "f7599fc8-d0ac-4dd7-92f7-5c21ffcbbae9"
+            }
+        },
+        {
+            "value": "Dienst IVV",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "f7599fc8-d0ac-4dd7-92f7-5c21ffcbbae9",
+                "package_id": "c0faeafb-664c-4174-83e2-a98d7215876d"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "f7599fc8-d0ac-4dd7-92f7-5c21ffcbbae9",
+                "package_id": "c0faeafb-664c-4174-83e2-a98d7215876d"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "f7599fc8-d0ac-4dd7-92f7-5c21ffcbbae9",
+                "package_id": "c0faeafb-664c-4174-83e2-a98d7215876d"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "c0faeafb-664c-4174-83e2-a98d7215876d",
+                "revision_id": "f7599fc8-d0ac-4dd7-92f7-5c21ffcbbae9"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "c0faeafb-664c-4174-83e2-a98d7215876d",
+                "revision_id": "f7599fc8-d0ac-4dd7-92f7-5c21ffcbbae9"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "f7599fc8-d0ac-4dd7-92f7-5c21ffcbbae9",
+                "package_id": "c0faeafb-664c-4174-83e2-a98d7215876d"
+            }
+        },
+        {
+            "value": "http://www.amsterdam.nl/opendatadivv",
+            "key": "website",
+            "__extras": {
+                "package_id": "c0faeafb-664c-4174-83e2-a98d7215876d",
+                "revision_id": "f7599fc8-d0ac-4dd7-92f7-5c21ffcbbae9"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "e55050c2-0c07-4c49-b187-3d0fdfa15efe"
+}

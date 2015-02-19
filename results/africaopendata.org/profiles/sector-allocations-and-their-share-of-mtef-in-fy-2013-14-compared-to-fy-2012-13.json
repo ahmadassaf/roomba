@@ -1,0 +1,154 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "CSBAG",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "csbag@csbag.org",
+    "revision_timestamp": "2014-11-04T22:35:01.536853",
+    "id": "f97c707e-748e-40bc-8b96-466d372f96fc",
+    "metadata_created": "2014-11-04T22:35:01.536853",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:52:33.408862",
+    "author": "CSBAG",
+    "author_email": "csbag@csbag.org",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "4c9a464c-f117-4b41-b7e8-ce606eb76859",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:52:33.408862",
+            "webstore_last_updated": null,
+            "id": "e117e444-a647-432a-8568-1fc6e2b94ae7",
+            "size": "13149",
+            "state": "active",
+            "hash": "a4681d788b4cb4edee49dfbe03a40d38b5630f61",
+            "description": "Ministry of Finance Planning and Economic Development\r\nNBFP-National Budget Framework Paper\r\nSource: MFPED, NBFP 2012",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Sector Allocations and their share of MTEF in FY 2013/14 compared to FY 2012/13",
+            "created": "2014-08-13T15:38:09.611348",
+            "url": "http://catalog.data.ug/dataset/f97c707e-748e-40bc-8b96-466d372f96fc/resource/e117e444-a647-432a-8568-1fc6e2b94ae7/download/sectorallocationsandtheirshareofmtefinfy201314comparedtofy201213.csv",
+            "webstore_url": null,
+            "last_modified": "2014-08-13T15:38:12.343063",
+            "position": 0,
+            "revision_id": "9a9f4487-74b0-4702-9b16-fa2ac6f5978f",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Budget",
+            "name": "Budget",
+            "revision_timestamp": "2014-11-04T22:35:01.536853",
+            "state": "active",
+            "id": "1e720dc6-5aa5-4329-bcbc-f8d42dc95cd3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Government Administration",
+            "name": "Government Administration",
+            "revision_timestamp": "2014-11-04T22:35:01.536853",
+            "state": "active",
+            "id": "f5fa060a-8b0e-4588-9847-52f44011ca8d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:35:01.536853",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:35:01.536853",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:35:01.536853",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:35:01.536853",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:35:01.536853",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:35:01.536853",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:35:01.536853",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 8,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 9,
+    "name": "sector-allocations-and-their-share-of-mtef-in-fy-2013-14-compared-to-fy-2012-13",
+    "isopen": false,
+    "url": "http://www.csbag.org/docs/Citizens_Budget_FY2013_14.pdf",
+    "notes": "Sectoral allocations in FY 2013/14 indicate a growth of 7.3% in the MTEF allocation when compared to FY 2012/13. The highest increase of resource allocation is under the Energy Sector (Ushs280.4 billion) which is largely on account of the Karuma Hydro Power Project.",
+    "title": "Sector Allocations and their share of MTEF in FY 2013/14 compared to FY 2012/13",
+    "extras": [
+        {
+            "value": "www.data.ug",
+            "key": "Published by",
+            "__extras": {
+                "revision_id": "c5984643-c57f-470e-ad05-b7dcfb66632d",
+                "package_id": "f97c707e-748e-40bc-8b96-466d372f96fc"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "c5984643-c57f-470e-ad05-b7dcfb66632d"
+}

@@ -1,0 +1,108 @@
+{
+    "license_title": "Open Data Commons Attribution License 1.0",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-11-04T17:50:03.212127",
+    "id": "5f48ec5f-d93d-4fd8-9244-e766ee7ff76b",
+    "metadata_created": "2012-11-04T17:49:45.698792",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:58:05.579116",
+    "author": "World Bank (finance.worldbank.org)",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "ODC-BY-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "0ab5baef-3c1f-4880-b0ab-ca82a5a18d12",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:58:05.579116",
+            "webstore_last_updated": "2013-10-10T10:58:05.512953",
+            "id": "754471da-4890-4743-9904-ec60b25a806f",
+            "size": "100493",
+            "state": "active",
+            "hash": "598604301fd435741c398a34fe51a35c9bc0b93a",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 4,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Major_Contract_Awards_FY2010-12_-_Africa_Region-Liberia.csv",
+            "created": "2012-11-04T17:49:55.631690",
+            "url": "http://africaopendata.org/storage/f/2012-11-04T17%3A49%3A49.656Z/major-contract-awards-fy2010-12-africa-region-liberia.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:42:46.135811",
+            "position": 0,
+            "revision_id": "23694283-2cd8-464f-b461-6a88ca38c79f",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Contracts",
+            "name": "Contracts",
+            "revision_timestamp": "2012-11-04T17:49:45.698792",
+            "state": "active",
+            "id": "c60bfb8e-35f5-487b-b481-b489447b7cef"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Liberia",
+            "name": "Liberia",
+            "revision_timestamp": "2012-11-04T17:49:45.698792",
+            "state": "active",
+            "id": "9423b951-4377-47a9-9b3c-206f73be9736"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "World Bank",
+            "name": "World Bank",
+            "revision_timestamp": "2012-11-04T17:49:45.698792",
+            "state": "active",
+            "id": "ae91265e-0b5c-45a0-a96f-02cf356ec937"
+        }
+    ],
+    "tracking_summary": {
+        "total": 61,
+        "recent": 8
+    },
+    "groups": [
+        {
+            "title": "Liberia",
+            "description": "Datasets from the Republic of Liberia",
+            "name": "liberia",
+            "id": "8fc3ddd6-def0-4762-b658-883db7ace208"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "world-bank-contract-award-2010-2012-liberia",
+    "isopen": true,
+    "url": null,
+    "notes": "This set of contract awards includes data on commitments against contracts that were reviewed by the Bank before they were awarded (prior-reviewed Bank-funded contracts) under IDA/IBRD investment projects and related Trust Funds. This dataset does not list all contracts awarded by the Bank, and should be viewed only as a guide to determine the distribution of major contract commitments among the Bank's member countries. \"Supplier Country\" represents place of supplier registration, which may or not be the supplier's actual country of origin. Information does not include awards to subcontractors nor account for cofinancing. The Procurement Policy and Services Group does not guarantee the data included in this publication and accepts no responsibility whatsoever for any consequences of its use. The World Bank complies with all sanctions applicable to World Bank transactions.\r\n",
+    "title": "World Bank Contract Award 2010-2012 - Liberia",
+    "extras": [],
+    "license_url": "http://www.opendefinition.org/licenses/odc-by",
+    "organization": null,
+    "revision_id": "9308e66d-26e3-462d-b5a3-224c45ba75f7",
+    "license_information": {
+        "domain_content": false,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Open Data Commons",
+        "status": "active"
+    }
+}

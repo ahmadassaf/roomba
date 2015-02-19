@@ -1,0 +1,691 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:25:07.522650",
+    "id": "316348ce-942d-4754-a3a6-c27a6b09949c",
+    "metadata_created": "2014-11-04T22:25:07.522650",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:48:12.088246",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "5d85a7ce-f380-4347-8a6c-879120ae4be6",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:55:20.868585",
+            "webstore_last_updated": null,
+            "id": "09a99fd8-a806-4163-b9b5-6a869b59afc7",
+            "size": "44020",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "55e5bf4ed96d1aa27ab9ffd951175aac3b447bc2",
+            "description": "Online link to the 'Health Fac Submit Completely To Hmis 2010' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:52:04.681762",
+            "url": "http://maps.data.ug/layers/geonode:health_fac_submit_completely_to_hmis_2010",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:55:20.683484",
+            "position": 0,
+            "revision_id": "d210acee-c82b-4024-ba05-1d7064335653",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "5d85a7ce-f380-4347-8a6c-879120ae4be6",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:48:12.088246",
+            "webstore_last_updated": null,
+            "id": "be95ff74-4603-4f4d-93d7-296052e05a20",
+            "size": "129685",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "4b24b7b53caa7411d681707392ce80db8822eec8",
+            "description": "Health Fac Submit Completely To Hmis 2010 (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "health_fac_submit_completely_to_hmis_2010.zip",
+            "created": "2014-03-12T14:52:04.681787",
+            "url": "http://maps.data.ug/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Ahealth_fac_submit_completely_to_hmis_2010&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:58:20.655295",
+            "position": 1,
+            "revision_id": "608511cc-76a4-46f2-9d22-c8e21d45c0c1",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "5d85a7ce-f380-4347-8a6c-879120ae4be6",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:55:25.499428",
+            "webstore_last_updated": null,
+            "id": "6245fe08-161e-4400-a24f-39733fda7ed5",
+            "size": "361343",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Health Fac Submit Completely To Hmis 2010 (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "health_fac_submit_completely_to_hmis_2010.gml",
+            "created": "2014-03-12T14:52:04.681791",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Ahealth_fac_submit_completely_to_hmis_2010&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:55:25.283628",
+            "position": 2,
+            "revision_id": "683b91d6-76f1-4dbf-a7ff-b607185702dd",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "5d85a7ce-f380-4347-8a6c-879120ae4be6",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:48:12.088246",
+            "webstore_last_updated": null,
+            "id": "c4d23ff6-18b3-47c8-9ba9-1da2af670fe2",
+            "size": "514",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Health Fac Submit Completely To Hmis 2010 (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "health_fac_submit_completely_to_hmis_2010.gml",
+            "created": "2014-03-12T14:52:04.681795",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Ahealth_fac_submit_completely_to_hmis_2010&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:55:28.734067",
+            "position": 3,
+            "revision_id": "608511cc-76a4-46f2-9d22-c8e21d45c0c1",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "5d85a7ce-f380-4347-8a6c-879120ae4be6",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:48:12.088246",
+            "webstore_last_updated": "2014-11-04T22:55:24.021027",
+            "id": "28702beb-51d7-470f-b124-6a3dd254eef8",
+            "size": "438091",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Health Fac Submit Completely To Hmis 2010 (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "health_fac_submit_completely_to_hmis_2010.csv",
+            "created": "2014-03-12T14:52:04.681799",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Ahealth_fac_submit_completely_to_hmis_2010&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": "active",
+            "last_modified": "2014-11-04T22:55:22.708287",
+            "position": 4,
+            "revision_id": "608511cc-76a4-46f2-9d22-c8e21d45c0c1",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "5d85a7ce-f380-4347-8a6c-879120ae4be6",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:55:24.716290",
+            "webstore_last_updated": null,
+            "id": "de42759d-a424-4add-bca6-51b8911efd64",
+            "size": "449024",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Health Fac Submit Completely To Hmis 2010 (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "health_fac_submit_completely_to_hmis_2010.excel",
+            "created": "2014-03-12T14:52:04.681803",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Ahealth_fac_submit_completely_to_hmis_2010&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:55:24.578691",
+            "position": 5,
+            "revision_id": "6d360273-824d-4792-b336-0d0c022d758c",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "5d85a7ce-f380-4347-8a6c-879120ae4be6",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:55:28.035250",
+            "webstore_last_updated": null,
+            "id": "2783b22a-1c9e-4b32-b4e9-d575e984f7fc",
+            "size": "467459",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Health Fac Submit Completely To Hmis 2010 (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "health_fac_submit_completely_to_hmis_2010.json",
+            "created": "2014-03-12T14:52:04.681806",
+            "url": "http://maps.data.ug/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Ahealth_fac_submit_completely_to_hmis_2010&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:55:27.897878",
+            "position": 6,
+            "revision_id": "62e1eba2-6316-44a1-8227-e0b21dcfbd3a",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "5d85a7ce-f380-4347-8a6c-879120ae4be6",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:55:29.876943",
+            "webstore_last_updated": null,
+            "id": "b2a6eb4e-80a8-4061-a972-3e98728eca01",
+            "size": "664028",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Health Fac Submit Completely To Hmis 2010 (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "health_fac_submit_completely_to_hmis_2010.kml",
+            "created": "2014-03-12T14:52:04.681810",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Ahealth_fac_submit_completely_to_hmis_2010&mode=download",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:55:29.656785",
+            "position": 7,
+            "revision_id": "20f55070-b73e-4d1e-8144-836282061746",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "5d85a7ce-f380-4347-8a6c-879120ae4be6",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:55:27.489265",
+            "webstore_last_updated": null,
+            "id": "7a7023ff-a13f-4376-8ad9-fb45d47e2955",
+            "size": "1916",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Health Fac Submit Completely To Hmis 2010 (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "health_fac_submit_completely_to_hmis_2010.kml",
+            "created": "2014-03-12T14:52:04.681814",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Ahealth_fac_submit_completely_to_hmis_2010&mode=refresh",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:55:27.353679",
+            "position": 8,
+            "revision_id": "73ebe67e-e5a6-48d2-84fe-1557d0849f33",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "5d85a7ce-f380-4347-8a6c-879120ae4be6",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:25:07.522650",
+            "webstore_last_updated": null,
+            "id": "d1b2d12d-ed3c-4445-9073-c63a4231196c",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Health Fac Submit Completely To Hmis 2010 (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "health_fac_submit_completely_to_hmis_2010.tiles",
+            "created": "2014-03-12T14:52:04.681817",
+            "url": "http://maps.data.ug/geoserver/gwc/service/gmaps?layers=geonode:health_fac_submit_completely_to_hmis_2010&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "1fee6517-54d9-4eb3-a845-9ad2720b599b",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "5d85a7ce-f380-4347-8a6c-879120ae4be6",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:55:31.780914",
+            "webstore_last_updated": null,
+            "id": "453f8e37-83af-4044-85b5-8938a21e3291",
+            "size": "38253",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Health Fac Submit Completely To Hmis 2010 (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "health_fac_submit_completely_to_hmis_2010.jpg",
+            "created": "2014-03-12T14:52:04.681820",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Ahealth_fac_submit_completely_to_hmis_2010&width=522&bbox=29.5741674480582%2C-1.48186111902126%2C35.0017411394285%2C4.23101141736342&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:55:31.629913",
+            "position": 10,
+            "revision_id": "0a7c9fcd-18c5-4913-b562-adff38e84ce8",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "5d85a7ce-f380-4347-8a6c-879120ae4be6",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:55:30.729385",
+            "webstore_last_updated": null,
+            "id": "a2c9ea00-d3d4-43d7-990c-ff0acfb2a4e4",
+            "size": "41406",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Health Fac Submit Completely To Hmis 2010 (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "health_fac_submit_completely_to_hmis_2010.pdf",
+            "created": "2014-03-12T14:52:04.681824",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Ahealth_fac_submit_completely_to_hmis_2010&width=522&bbox=29.5741674480582%2C-1.48186111902126%2C35.0017411394285%2C4.23101141736342&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:55:30.587606",
+            "position": 11,
+            "revision_id": "6d0b46dd-35b9-4671-93f2-215879b5c5ff",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "5d85a7ce-f380-4347-8a6c-879120ae4be6",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:55:21.671084",
+            "webstore_last_updated": null,
+            "id": "4442f1a6-4ffd-408c-a44b-b736063931a2",
+            "size": "62354",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Health Fac Submit Completely To Hmis 2010 (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "health_fac_submit_completely_to_hmis_2010.png",
+            "created": "2014-03-12T14:52:04.681828",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Ahealth_fac_submit_completely_to_hmis_2010&width=522&bbox=29.5741674480582%2C-1.48186111902126%2C35.0017411394285%2C4.23101141736342&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:55:21.505916",
+            "position": 12,
+            "revision_id": "fe0be6e0-1708-410f-b92a-6cf3a1297855",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:25:07.522650",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:25:07.522650",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:25:07.522650",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:25:07.522650",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:25:07.522650",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "facilities",
+            "name": "facilities",
+            "revision_timestamp": "2014-11-04T22:25:07.522650",
+            "state": "active",
+            "id": "bc64149a-bd4c-4d71-9439-9e0f8353d6be"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "health facilities",
+            "name": "health facilities",
+            "revision_timestamp": "2014-11-04T22:25:07.522650",
+            "state": "active",
+            "id": "9beae195-17b1-4d89-b7cb-e990bc94b1f2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:25:07.522650",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:25:07.522650",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 23,
+        "recent": 5
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 9,
+    "name": "health-fac-submit-completely-to-hmis-2010",
+    "isopen": false,
+    "url": null,
+    "notes": "Health Fac Submit Completely To Hmis 2010 per district",
+    "title": "Health Fac Submit Completely To Hmis 2010",
+    "extras": [
+        {
+            "value": "[]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "1fee6517-54d9-4eb3-a845-9ad2720b599b",
+                "package_id": "316348ce-942d-4754-a3a6-c27a6b09949c"
+            }
+        },
+        {
+            "value": "35.0017411394",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "1fee6517-54d9-4eb3-a845-9ad2720b599b",
+                "package_id": "316348ce-942d-4754-a3a6-c27a6b09949c"
+            }
+        },
+        {
+            "value": "4.2310114174",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "316348ce-942d-4754-a3a6-c27a6b09949c",
+                "revision_id": "1fee6517-54d9-4eb3-a845-9ad2720b599b"
+            }
+        },
+        {
+            "value": "-1.4818611190",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "1fee6517-54d9-4eb3-a845-9ad2720b599b",
+                "package_id": "316348ce-942d-4754-a3a6-c27a6b09949c"
+            }
+        },
+        {
+            "value": "29.5741674481",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "1fee6517-54d9-4eb3-a845-9ad2720b599b",
+                "package_id": "316348ce-942d-4754-a3a6-c27a6b09949c"
+            }
+        },
+        {
+            "value": "",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "316348ce-942d-4754-a3a6-c27a6b09949c",
+                "revision_id": "1fee6517-54d9-4eb3-a845-9ad2720b599b"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "316348ce-942d-4754-a3a6-c27a6b09949c",
+                "revision_id": "1fee6517-54d9-4eb3-a845-9ad2720b599b"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-02-20T03:59:26Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "316348ce-942d-4754-a3a6-c27a6b09949c",
+                "revision_id": "1fee6517-54d9-4eb3-a845-9ad2720b599b"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "316348ce-942d-4754-a3a6-c27a6b09949c",
+                "revision_id": "1fee6517-54d9-4eb3-a845-9ad2720b599b"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Health Fac Submit Completely To Hmis 2010'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "316348ce-942d-4754-a3a6-c27a6b09949c",
+                "revision_id": "1fee6517-54d9-4eb3-a845-9ad2720b599b"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "316348ce-942d-4754-a3a6-c27a6b09949c",
+                "revision_id": "1fee6517-54d9-4eb3-a845-9ad2720b599b"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "1fee6517-54d9-4eb3-a845-9ad2720b599b",
+                "package_id": "316348ce-942d-4754-a3a6-c27a6b09949c"
+            }
+        },
+        {
+            "value": "aecb9c9a-9a15-11e3-8923-11b11f8ea6d0",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "1fee6517-54d9-4eb3-a845-9ad2720b599b",
+                "package_id": "316348ce-942d-4754-a3a6-c27a6b09949c"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "1fee6517-54d9-4eb3-a845-9ad2720b599b",
+                "package_id": "316348ce-942d-4754-a3a6-c27a6b09949c"
+            }
+        },
+        {
+            "value": "2014-02-20T03:59:26Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "316348ce-942d-4754-a3a6-c27a6b09949c",
+                "revision_id": "1fee6517-54d9-4eb3-a845-9ad2720b599b"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "1fee6517-54d9-4eb3-a845-9ad2720b599b",
+                "package_id": "316348ce-942d-4754-a3a6-c27a6b09949c"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "316348ce-942d-4754-a3a6-c27a6b09949c",
+                "revision_id": "1fee6517-54d9-4eb3-a845-9ad2720b599b"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "316348ce-942d-4754-a3a6-c27a6b09949c",
+                "revision_id": "1fee6517-54d9-4eb3-a845-9ad2720b599b"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "316348ce-942d-4754-a3a6-c27a6b09949c",
+                "revision_id": "1fee6517-54d9-4eb3-a845-9ad2720b599b"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.5741674481, -1.481861119], [35.0017411394, -1.481861119], [35.0017411394, 4.2310114174], [29.5741674481, 4.2310114174], [29.5741674481, -1.481861119]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "1fee6517-54d9-4eb3-a845-9ad2720b599b",
+                "package_id": "316348ce-942d-4754-a3a6-c27a6b09949c"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "316348ce-942d-4754-a3a6-c27a6b09949c",
+                "revision_id": "1fee6517-54d9-4eb3-a845-9ad2720b599b"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "1fee6517-54d9-4eb3-a845-9ad2720b599b",
+                "package_id": "316348ce-942d-4754-a3a6-c27a6b09949c"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "1fee6517-54d9-4eb3-a845-9ad2720b599b",
+                "package_id": "316348ce-942d-4754-a3a6-c27a6b09949c"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "1fee6517-54d9-4eb3-a845-9ad2720b599b"
+}

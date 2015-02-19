@@ -1,0 +1,190 @@
+{
+    "license_title": "Creative Commons Attribution 4.0",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2013-05-16T11:49:13.324936",
+    "id": "1f734957-7f92-4df4-a26d-4d0f339425cc",
+    "metadata_created": "2013-05-16T11:49:13.324936",
+    "owner_org": null,
+    "metadata_modified": "2013-05-16T11:49:13.324936",
+    "author": "Ruimtelijkeplannen.nl",
+    "author_email": "ro-online@kadaster.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "8346e291-7e54-4e8c-b732-670c61594722",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-05-16T11:49:13.324936",
+            "webstore_last_updated": null,
+            "id": "d9917035-1599-4a94-9598-ff38684e73ee",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "WFS",
+            "format": "url",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/vnd.ogc.se_xml",
+            "cache_url": null,
+            "name": "http://afnemers.ruimtelijkeplannen.nl/unregafnemers/services?REQUEST=GetFeature&SERVICE=WFS&VERSION=1.0.0&TYPENAME=app:Plangebied_PCP&FILTER=%3CFilter%3E%3CPropertyIsEqualTo%3E%3CPropertyName%3Eoverheidscode%3C/PropertyName%3E%3CLiteral%3E0363%3C/Literal%3E%3C/PropertyIsEqualTo%3E%3C/Filter%3E",
+            "created": "2013-05-16T13:49:13.366733",
+            "url": "http://afnemers.ruimtelijkeplannen.nl/unregafnemers/services?REQUEST=GetFeature&SERVICE=WFS&VERSION=1.0.0&TYPENAME=app:Plangebied_PCP&FILTER=%3CFilter%3E%3CPropertyIsEqualTo%3E%3CPropertyName%3Eoverheidscode%3C/PropertyName%3E%3CLiteral%3E0363%3C/Literal%3E%3C/PropertyIsEqualTo%3E%3C/Filter%3E",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "db37754a-4791-4ed0-bd12-de237b128bba",
+            "resource_type": "api",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Bestemming",
+            "name": "Bestemming",
+            "revision_timestamp": "2013-05-16T11:49:13.324936",
+            "state": "active",
+            "id": "6a3830e8-7263-40b4-9ed6-7c24f65e990f"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "bestemmingsplannen",
+            "name": "bestemmingsplannen",
+            "revision_timestamp": "2013-05-16T11:49:13.324936",
+            "state": "active",
+            "id": "5f6e858e-416f-4203-a225-82239bb7f096"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "plannen",
+            "name": "plannen",
+            "revision_timestamp": "2013-05-16T11:49:13.324936",
+            "state": "active",
+            "id": "53fdc307-b0c4-43df-8a64-e6940675b6df"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "ruimtelijk\n",
+            "name": "ruimtelijk\n",
+            "revision_timestamp": "2013-05-16T11:49:13.324936",
+            "state": "active",
+            "id": "6abaa168-c01a-40bc-a09b-1f0ef245affc"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "ruimtelijke",
+            "name": "ruimtelijke",
+            "revision_timestamp": "2013-05-16T11:49:13.324936",
+            "state": "active",
+            "id": "b5daf57f-08ab-4369-8e51-753d92967310"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Stedelijke ontwikkeling",
+            "description": "",
+            "name": "stedelijke-ontwikkeling",
+            "id": "0364e650-9355-4ad7-aa0a-8d87d809544e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "bestemmingsplannen-analoge-plangebieden-amsterdam",
+    "isopen": true,
+    "url": null,
+    "notes": "WFS plangebieden\n",
+    "title": "Bestemmingsplannen analoge plangebieden Amsterdam",
+    "extras": [
+        {
+            "value": "ro-online@kadaster.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "1f734957-7f92-4df4-a26d-4d0f339425cc",
+                "revision_id": "db37754a-4791-4ed0-bd12-de237b128bba"
+            }
+        },
+        {
+            "value": "Ruimtelijkeplannen.nl",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "db37754a-4791-4ed0-bd12-de237b128bba",
+                "package_id": "1f734957-7f92-4df4-a26d-4d0f339425cc"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "db37754a-4791-4ed0-bd12-de237b128bba",
+                "package_id": "1f734957-7f92-4df4-a26d-4d0f339425cc"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "db37754a-4791-4ed0-bd12-de237b128bba",
+                "package_id": "1f734957-7f92-4df4-a26d-4d0f339425cc"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "1f734957-7f92-4df4-a26d-4d0f339425cc",
+                "revision_id": "db37754a-4791-4ed0-bd12-de237b128bba"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "1f734957-7f92-4df4-a26d-4d0f339425cc",
+                "revision_id": "db37754a-4791-4ed0-bd12-de237b128bba"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "db37754a-4791-4ed0-bd12-de237b128bba",
+                "package_id": "1f734957-7f92-4df4-a26d-4d0f339425cc"
+            }
+        },
+        {
+            "value": "http://www.ruimtelijkeplannen.nl",
+            "key": "website",
+            "__extras": {
+                "package_id": "1f734957-7f92-4df4-a26d-4d0f339425cc",
+                "revision_id": "db37754a-4791-4ed0-bd12-de237b128bba"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "organization": null,
+    "revision_id": "db37754a-4791-4ed0-bd12-de237b128bba",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

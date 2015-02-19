@@ -1,0 +1,100 @@
+{
+    "license_title": "Open Data Commons Attribution License 1.0",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-11-05T08:31:10.132256",
+    "id": "4fbb7e08-1baf-41f4-862c-70166d2558a5",
+    "metadata_created": "2012-11-05T08:30:30.171873",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:57:22.068905",
+    "author": "MInistry of Health, Government of Uganda",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "ODC-BY-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "fff02019-4a2e-4c4c-9455-c41250f9e29e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:57:22.068905",
+            "webstore_last_updated": "2013-10-10T10:57:22.003375",
+            "id": "ba9761e8-6640-43ab-891b-b24daef0c02a",
+            "size": "233565",
+            "state": "active",
+            "hash": "92e29bc7420795167f926eec37204fb2644ea353",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 7,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "UgandaRegionalHealthStatistics2011.csv",
+            "created": "2012-11-05T08:30:48.299717",
+            "url": "http://africaopendata.org/storage/f/2012-11-05T08%3A30%3A39.684Z/ugandaregionalhealthstatistics2011.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:39:27.330648",
+            "position": 0,
+            "revision_id": "474c7472-b5c5-480a-9316-d72f087284da",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Ministry of Health",
+            "name": "Ministry of Health",
+            "revision_timestamp": "2012-11-05T08:30:30.171873",
+            "state": "active",
+            "id": "fa219275-f0ef-4b43-a2d5-fa2f0f5e1c7d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2012-11-05T08:30:30.171873",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        }
+    ],
+    "tracking_summary": {
+        "total": 96,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "uganda-regional-health-statistics-database-2011",
+    "isopen": true,
+    "url": null,
+    "notes": "Number of health units, number of hospital beds (public and private) and Immunization indicators for every region in Uganda.",
+    "title": "Uganda Regional Health Statistics Database 2011",
+    "extras": [],
+    "license_url": "http://www.opendefinition.org/licenses/odc-by",
+    "organization": null,
+    "revision_id": "5c911283-5a99-4bef-969b-5969e8ce2737",
+    "license_information": {
+        "domain_content": false,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Open Data Commons",
+        "status": "active"
+    }
+}

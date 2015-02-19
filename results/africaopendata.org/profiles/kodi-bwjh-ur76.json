@@ -1,0 +1,138 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:50:03.569724",
+    "id": "8a19012e-3649-4da0-8491-d900300c5004",
+    "metadata_created": "2012-09-11T13:50:03.569724",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:08:15.610417",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "2a84ff6f-fb78-40a8-8aa0-2440099b80ac",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:08:15.610417",
+            "webstore_last_updated": "2013-10-10T12:08:15.543137",
+            "id": "043e0a4b-1382-4cc5-b87b-c5cd3925173f",
+            "size": "2488",
+            "state": "active",
+            "hash": "96bf30a50422d0fb0540e1e539891fbbb7d11b63",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Percentage distribution of Population (6-17 years) by School Attendance and District - 2005/6.csv",
+            "created": "2012-09-11T13:50:03.624545",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155248/bwjh-ur76.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-13T23:01:27.684410",
+            "position": 0,
+            "revision_id": "19958ec2-fda0-4455-8881-9becc61bce5b",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "district",
+            "name": "district",
+            "revision_timestamp": "2012-09-11T13:50:03.569724",
+            "state": "active",
+            "id": "7cd19d3c-2632-4bf1-96f2-7991759d4b88"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "education",
+            "name": "education",
+            "revision_timestamp": "2012-09-11T13:50:03.569724",
+            "state": "active",
+            "id": "4bc98291-13cc-4baf-b090-52376fa3a429"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:50:03.569724",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kihbs",
+            "name": "kihbs",
+            "revision_timestamp": "2012-09-11T13:50:03.569724",
+            "state": "active",
+            "id": "e034ae5d-0777-40b8-92f7-c93ba0a00972"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:50:03.569724",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 65,
+        "recent": 4
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "kodi-bwjh-ur76",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Asilimia distribution of Population (6-17 years) by School Attendance and District. KIHBS Table 4.1",
+    "title": "Percentage distribution of Population (6-17 years) by School Attendance and District - 2005/6",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "69d00725-c0fc-435a-bcf0-8adbf586d7b9",
+                "package_id": "8a19012e-3649-4da0-8491-d900300c5004"
+            }
+        },
+        {
+            "value": "Education",
+            "key": "category",
+            "__extras": {
+                "revision_id": "69d00725-c0fc-435a-bcf0-8adbf586d7b9",
+                "package_id": "8a19012e-3649-4da0-8491-d900300c5004"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "69d00725-c0fc-435a-bcf0-8adbf586d7b9",
+                "package_id": "8a19012e-3649-4da0-8491-d900300c5004"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "69d00725-c0fc-435a-bcf0-8adbf586d7b9"
+}

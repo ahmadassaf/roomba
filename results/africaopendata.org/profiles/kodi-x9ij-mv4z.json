@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:43:49.261525",
+    "id": "c6a584bd-09d3-4d35-a975-e7587d721b85",
+    "metadata_created": "2012-09-11T13:43:49.261525",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:11:22.566616",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "550cf9c3-9337-4bbd-9d12-c71bf24f942f",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:11:22.566616",
+            "webstore_last_updated": "2013-10-10T12:11:22.449092",
+            "id": "04317ef3-8a8e-49b7-9975-798bdf69c80d",
+            "size": "6215",
+            "state": "active",
+            "hash": "afb0c2d53d1d117482a1435f52ae5878363fff57",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Percentage Sick Population by Type of Health Care Provider Consulted and District.csv",
+            "created": "2012-09-11T13:43:49.299919",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T154634/x9ij-mv4z.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:47:45.474269",
+            "position": 0,
+            "revision_id": "deff8015-d24f-4a8f-a132-3db6f75c899f",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "health kihbs practioner sickness",
+            "name": "health kihbs practioner sickness",
+            "revision_timestamp": "2012-09-11T13:43:49.261525",
+            "state": "active",
+            "id": "ae092251-8331-4871-852c-9816c3803eb1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:43:49.261525",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:43:49.261525",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 51,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-x9ij-mv4z",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "KIHBS 2005/06 Table 5.4: Percentage Sick Population by Type of Health Care Provider Consulted and District.  Of those sick in the region, the table shows the percentage of these that consulted, a hospital, a dispensary, a faith healer etc.",
+    "title": "Percentage Sick Population by Type of Health Care Provider Consulted and District",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "cd87f0cc-4380-4175-aad7-7268dbc7f987",
+                "package_id": "c6a584bd-09d3-4d35-a975-e7587d721b85"
+            }
+        },
+        {
+            "value": "Health Sector",
+            "key": "category",
+            "__extras": {
+                "revision_id": "cd87f0cc-4380-4175-aad7-7268dbc7f987",
+                "package_id": "c6a584bd-09d3-4d35-a975-e7587d721b85"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "cd87f0cc-4380-4175-aad7-7268dbc7f987",
+                "package_id": "c6a584bd-09d3-4d35-a975-e7587d721b85"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "cd87f0cc-4380-4175-aad7-7268dbc7f987"
+}

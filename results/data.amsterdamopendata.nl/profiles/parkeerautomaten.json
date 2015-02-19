@@ -1,0 +1,171 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Beheerder IVV",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "info@ivv.amsterdam.nl",
+    "revision_timestamp": "2014-10-22T14:06:34.263356",
+    "id": "c55f86f6-79dd-4652-aa5e-fdea106a9ce1",
+    "metadata_created": "2013-06-19T13:49:55.287929",
+    "owner_org": null,
+    "metadata_modified": "2014-10-22T14:06:34.263356",
+    "author": "DIVV",
+    "author_email": "info@ivv.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "50cec2cb-0dfc-44f0-92d3-f3e0d2868570",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-10-22T14:06:34.263356",
+            "webstore_last_updated": null,
+            "id": "9ad6b532-67fd-4ba5-86c6-f0f3ce4cd180",
+            "size": "32",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Link naar actuele dataset",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://www.amsterdamopendata.nl/data?dataset=tariefgebieden-parkeren",
+            "created": "2014-10-22T16:06:34.351910",
+            "url": "http://www.amsterdamopendata.nl/data?dataset=tariefgebieden-parkeren",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "d6d15410-2e94-4905-a483-83c63734caca",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Amsterdamse",
+            "name": "Amsterdamse",
+            "revision_timestamp": "2013-06-19T13:49:55.287929",
+            "state": "active",
+            "id": "9d2c7d0c-229d-49d1-b99b-cd0aabf098ed"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "automaten",
+            "name": "automaten",
+            "revision_timestamp": "2013-06-19T13:49:55.287929",
+            "state": "active",
+            "id": "12ebc13e-32c4-47d5-b0d6-486812f37cb8"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "en",
+            "name": "en",
+            "revision_timestamp": "2013-06-19T13:49:55.287929",
+            "state": "active",
+            "id": "5641233a-b92a-4cbf-ad12-4fa2b8736d0c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "verwijsborden",
+            "name": "verwijsborden",
+            "revision_timestamp": "2013-06-19T13:49:55.287929",
+            "state": "active",
+            "id": "b9112db2-f34c-4a66-af4e-bae0bae7f9ea"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Verkeer & Infrastructuur",
+            "description": "",
+            "name": "verkeer-infrastructuur",
+            "id": "12502584-9d7d-4bdc-bf5f-df2b0d85f4f6"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "parkeerautomaten",
+    "isopen": false,
+    "url": null,
+    "notes": "Deze dataset en eerder gepubliceerde bestanden zijn verouderd.Voor een actuele API zie: \"Tariefgebieden Parkeren\" (http://www.amsterdamopendata.nl/data?dataset=tariefgebieden-parkeren)",
+    "title": "Parkeerautomaten",
+    "extras": [
+        {
+            "value": "info@ivv.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "c55f86f6-79dd-4652-aa5e-fdea106a9ce1",
+                "revision_id": "e6a7dc53-05bf-4648-ab2e-ad1cc85ff6fd"
+            }
+        },
+        {
+            "value": "Patricia van Marle",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "e6a7dc53-05bf-4648-ab2e-ad1cc85ff6fd",
+                "package_id": "c55f86f6-79dd-4652-aa5e-fdea106a9ce1"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "e6a7dc53-05bf-4648-ab2e-ad1cc85ff6fd",
+                "package_id": "c55f86f6-79dd-4652-aa5e-fdea106a9ce1"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "e6a7dc53-05bf-4648-ab2e-ad1cc85ff6fd",
+                "package_id": "c55f86f6-79dd-4652-aa5e-fdea106a9ce1"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "c55f86f6-79dd-4652-aa5e-fdea106a9ce1",
+                "revision_id": "e6a7dc53-05bf-4648-ab2e-ad1cc85ff6fd"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "c55f86f6-79dd-4652-aa5e-fdea106a9ce1",
+                "revision_id": "e6a7dc53-05bf-4648-ab2e-ad1cc85ff6fd"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "e6a7dc53-05bf-4648-ab2e-ad1cc85ff6fd",
+                "package_id": "c55f86f6-79dd-4652-aa5e-fdea106a9ce1"
+            }
+        },
+        {
+            "value": "http://www.amsterdam.nl/parkeren-verkeer/open-data/overzicht/",
+            "key": "website",
+            "__extras": {
+                "package_id": "c55f86f6-79dd-4652-aa5e-fdea106a9ce1",
+                "revision_id": "e6a7dc53-05bf-4648-ab2e-ad1cc85ff6fd"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "d6d15410-2e94-4905-a483-83c63734caca"
+}

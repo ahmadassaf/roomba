@@ -1,0 +1,105 @@
+{
+    "license_title": "Other (Not Open)",
+    "maintainer": "Cape Town City Maps",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "city.maps@capetown.gov.za",
+    "revision_timestamp": "2012-09-11T10:21:49.676067",
+    "id": "efa6369d-01ab-485e-b157-ae4988410f7a",
+    "metadata_created": "2012-09-11T10:19:47.984264",
+    "owner_org": null,
+    "metadata_modified": "2013-03-14T10:43:14.355983",
+    "author": "Cape Town City Maps",
+    "author_email": "city.maps@capetown.gov.za",
+    "state": "active",
+    "version": null,
+    "license_id": "other-closed",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "4f74c4a3-b2ee-4822-9c6a-3f755c4c9757",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-14T10:43:14.355983",
+            "webstore_last_updated": null,
+            "id": "fcec73d5-a196-42ce-b1eb-553f165cb7b5",
+            "size": "71919",
+            "state": "active",
+            "hash": "015d91ac9982390c0475ffef0cec4d61264fdea4",
+            "description": "This data is publicly available but without distribution rights. As such, it is not possible to upload it to this site. To obtain it, contact \"City Maps\" <city.maps@capetown.gov.za>, ",
+            "format": "shp",
+            "tracking_summary": {
+                "total": 28,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Cadastral Data - Cape Town",
+            "created": "2012-09-11T10:21:19.461395",
+            "url": "http://www.capetown.gov.za/en/stats/pages/default.aspx",
+            "webstore_url": null,
+            "last_modified": "2013-03-14T10:43:14.290613",
+            "position": 0,
+            "revision_id": "47f94bdf-0c71-427a-a99d-58a1d57bf925",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "cadatral",
+            "name": "cadatral",
+            "revision_timestamp": "2012-09-11T10:19:47.984264",
+            "state": "active",
+            "id": "2a89ce25-d32a-4b5d-a0ae-e20be8053b4d"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "cape town",
+            "name": "cape town",
+            "revision_timestamp": "2012-09-11T10:19:47.984264",
+            "state": "active",
+            "id": "4100f363-b1c8-454c-b104-756377c5c165"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "shp",
+            "name": "shp",
+            "revision_timestamp": "2012-09-11T10:19:47.984264",
+            "state": "active",
+            "id": "7bc5e36b-b005-49f7-b59b-06a956db2d95"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "spatial",
+            "name": "spatial",
+            "revision_timestamp": "2012-09-11T10:19:47.984264",
+            "state": "active",
+            "id": "646dff34-f708-4c53-b8b1-b1730b348e3a"
+        }
+    ],
+    "tracking_summary": {
+        "total": 241,
+        "recent": 3
+    },
+    "groups": [
+        {
+            "title": "South Africa",
+            "description": "Datasets from South Africa",
+            "name": "south-africa",
+            "id": "fc691a3f-cfce-46d6-93a0-77bdccfec89d"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "cape-town-cadastral",
+    "isopen": false,
+    "url": null,
+    "notes": "Shape files containing property boundaries in Cape Town",
+    "title": "Cadastral Data for Cape Town",
+    "extras": [],
+    "organization": null,
+    "revision_id": "dc1efba2-02b7-415f-986e-3c2b754a52d4"
+}

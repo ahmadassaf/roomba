@@ -1,0 +1,639 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:30:57.991972",
+    "id": "c48134ce-ccf0-4856-8703-6673a0e2d384",
+    "metadata_created": "2014-11-04T22:30:57.991972",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:50:50.847322",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "368e0bc4-082e-4ea0-b58b-aaac0a9dd5a0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:50:50.847322",
+            "webstore_last_updated": null,
+            "id": "5f0bf71b-4b8d-492d-8e86-ee00e21ab5cd",
+            "size": "20",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "6bce1211dd4507feb60168d92da201e2ece33b7e",
+            "description": "Online link to the 'Uganda Soils in 1967' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:53:31.212047",
+            "url": "http://maps.data.ug/layers/geonode:uganda_soils_afr_ug2001so_modified_2",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T17:12:24.561190",
+            "position": 0,
+            "revision_id": "251328c9-df8f-4864-9aec-9f5898f11399",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "368e0bc4-082e-4ea0-b58b-aaac0a9dd5a0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:30:57.991972",
+            "webstore_last_updated": null,
+            "id": "19e53c83-f6cc-474d-9369-13d0bb4a3d4b",
+            "size": "732417",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Uganda Soils in 1967 (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "uganda_soils_afr_ug2001so_modified_2.png",
+            "created": "2014-03-12T14:53:31.212078",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Auganda_soils_afr_ug2001so_modified_2&width=552&bbox=29.272623427743905%2C-1.7895836424792009%2C35.630391606607155%2C4.533873860837024&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "25bce0bd-158b-4f9d-90d9-252b20e1bb2d",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "368e0bc4-082e-4ea0-b58b-aaac0a9dd5a0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:30:57.991972",
+            "webstore_last_updated": null,
+            "id": "74d61b00-e8db-4237-b117-738ff00068aa",
+            "size": "911558",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Uganda Soils in 1967 (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "uganda_soils_afr_ug2001so_modified_2.pdf",
+            "created": "2014-03-12T14:53:31.212087",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Auganda_soils_afr_ug2001so_modified_2&width=552&bbox=29.272623427743905%2C-1.7895836424792009%2C35.630391606607155%2C4.533873860837024&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "25bce0bd-158b-4f9d-90d9-252b20e1bb2d",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "368e0bc4-082e-4ea0-b58b-aaac0a9dd5a0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:30:57.991972",
+            "webstore_last_updated": null,
+            "id": "35dd73ea-d534-4351-8a93-cb4c41b40288",
+            "size": "88293",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Uganda Soils in 1967 (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "uganda_soils_afr_ug2001so_modified_2.jpg",
+            "created": "2014-03-12T14:53:31.212094",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Auganda_soils_afr_ug2001so_modified_2&width=552&bbox=29.272623427743905%2C-1.7895836424792009%2C35.630391606607155%2C4.533873860837024&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "25bce0bd-158b-4f9d-90d9-252b20e1bb2d",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "368e0bc4-082e-4ea0-b58b-aaac0a9dd5a0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:30:57.991972",
+            "webstore_last_updated": null,
+            "id": "59df9634-a37d-43c4-9ad2-56b79e3d8d9b",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Uganda Soils in 1967 (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "uganda_soils_afr_ug2001so_modified_2.tiles",
+            "created": "2014-03-12T14:53:31.212101",
+            "url": "http://maps.data.ug/geoserver/gwc/service/gmaps?layers=geonode:uganda_soils_afr_ug2001so_modified_2&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 4,
+            "revision_id": "25bce0bd-158b-4f9d-90d9-252b20e1bb2d",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "368e0bc4-082e-4ea0-b58b-aaac0a9dd5a0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:30:57.991972",
+            "webstore_last_updated": null,
+            "id": "6b6221f1-47b6-4963-8064-47c935d75047",
+            "size": "1905",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Uganda Soils in 1967 (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "uganda_soils_afr_ug2001so_modified_2.kml",
+            "created": "2014-03-12T14:53:31.212108",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Auganda_soils_afr_ug2001so_modified_2&mode=refresh",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 5,
+            "revision_id": "25bce0bd-158b-4f9d-90d9-252b20e1bb2d",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "368e0bc4-082e-4ea0-b58b-aaac0a9dd5a0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:30:57.991972",
+            "webstore_last_updated": null,
+            "id": "1c44f061-3258-4ac0-98f2-53924b5ddeaf",
+            "size": "1907",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Uganda Soils in 1967 (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "uganda_soils_afr_ug2001so_modified_2.kml",
+            "created": "2014-03-12T14:53:31.212115",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Auganda_soils_afr_ug2001so_modified_2&mode=download",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 6,
+            "revision_id": "25bce0bd-158b-4f9d-90d9-252b20e1bb2d",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "368e0bc4-082e-4ea0-b58b-aaac0a9dd5a0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:30:57.991972",
+            "webstore_last_updated": null,
+            "id": "0595ecab-2b8e-435d-bb44-49abd37a721e",
+            "size": "204",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Uganda Soils in 1967 (ImageMosaic Format)",
+            "format": "wcs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.ogc.se_xml",
+            "cache_url": null,
+            "name": "uganda_soils_afr_ug2001so_modified_2.ImageMosaic",
+            "created": "2014-03-12T14:53:31.212122",
+            "url": "http://maps.data.ug/geoserver/wcs?crs=EPSG%3A4326&service=WCS&format=ImageMosaic&request=GetCoverage&height=550&width=552&version=1.0.0&BBox=29.272623427743905%2C-1.7895836424792009%2C35.630391606607155%2C4.533873860837024&Coverage=geonode%3Auganda_soils_afr_ug2001so_modified_2",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 7,
+            "revision_id": "25bce0bd-158b-4f9d-90d9-252b20e1bb2d",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "368e0bc4-082e-4ea0-b58b-aaac0a9dd5a0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:30:57.991972",
+            "webstore_last_updated": null,
+            "id": "807e49ac-62c9-4a22-a488-85800e7c7885",
+            "size": "200",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Uganda Soils in 1967 (Gtopo30 Format)",
+            "format": "wcs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.ogc.se_xml",
+            "cache_url": null,
+            "name": "uganda_soils_afr_ug2001so_modified_2.Gtopo30",
+            "created": "2014-03-12T14:53:31.212129",
+            "url": "http://maps.data.ug/geoserver/wcs?crs=EPSG%3A4326&service=WCS&format=Gtopo30&request=GetCoverage&height=550&width=552&version=1.0.0&BBox=29.272623427743905%2C-1.7895836424792009%2C35.630391606607155%2C4.533873860837024&Coverage=geonode%3Auganda_soils_afr_ug2001so_modified_2",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 8,
+            "revision_id": "25bce0bd-158b-4f9d-90d9-252b20e1bb2d",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "368e0bc4-082e-4ea0-b58b-aaac0a9dd5a0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:30:57.991972",
+            "webstore_last_updated": null,
+            "id": "c3637acc-1e98-42f9-a4c9-52653ddac744",
+            "size": "911732",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Uganda Soils in 1967 (GeoTIFF Format)",
+            "format": "wcs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/tiff",
+            "cache_url": null,
+            "name": "uganda_soils_afr_ug2001so_modified_2.GeoTIFF",
+            "created": "2014-03-12T14:53:31.212135",
+            "url": "http://maps.data.ug/geoserver/wcs?crs=EPSG%3A4326&service=WCS&format=GeoTIFF&request=GetCoverage&height=550&width=552&version=1.0.0&BBox=29.272623427743905%2C-1.7895836424792009%2C35.630391606607155%2C4.533873860837024&Coverage=geonode%3Auganda_soils_afr_ug2001so_modified_2",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "25bce0bd-158b-4f9d-90d9-252b20e1bb2d",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "368e0bc4-082e-4ea0-b58b-aaac0a9dd5a0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:30:57.991972",
+            "webstore_last_updated": null,
+            "id": "52e6db2b-8056-4062-92aa-7cbfccb3991f",
+            "size": "1807790",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Uganda Soils in 1967 (ArcGrid Format)",
+            "format": "wcs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/plain",
+            "cache_url": null,
+            "name": "uganda_soils_afr_ug2001so_modified_2.ArcGrid",
+            "created": "2014-03-12T14:53:31.212142",
+            "url": "http://maps.data.ug/geoserver/wcs?crs=EPSG%3A4326&service=WCS&format=ArcGrid&request=GetCoverage&height=550&width=552&version=1.0.0&BBox=29.272623427743905%2C-1.7895836424792009%2C35.630391606607155%2C4.533873860837024&Coverage=geonode%3Auganda_soils_afr_ug2001so_modified_2",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 10,
+            "revision_id": "25bce0bd-158b-4f9d-90d9-252b20e1bb2d",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 11,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Geological",
+            "name": "Geological",
+            "revision_timestamp": "2014-11-04T22:30:57.991972",
+            "state": "active",
+            "id": "5379328b-eb6a-4735-a2ee-33db54f98602"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Physical",
+            "name": "Physical",
+            "revision_timestamp": "2014-11-04T22:30:57.991972",
+            "state": "active",
+            "id": "22708169-ba07-4e7c-a53f-f676ce36b428"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Soil types",
+            "name": "Soil types",
+            "revision_timestamp": "2014-11-04T22:30:57.991972",
+            "state": "active",
+            "id": "9661d67b-d16a-41b2-8089-990a9d9cad4c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:30:57.991972",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:30:57.991972",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:30:57.991972",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:30:57.991972",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:30:57.991972",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:30:57.991972",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:30:57.991972",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 4,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 10,
+    "name": "uganda-soils-in-1967",
+    "isopen": false,
+    "url": null,
+    "notes": "This layer shows soils in 1967. The dataset source is the European Digital Archives of Soil Maps at http://eusoils.jrc.ec.europa.eu/esdb_archive/eudasm/africa/images/maps/download/afr_ug2001so.jpg\nThe map was georeferenced using QGIS, the projection is WGS84.",
+    "title": "Uganda Soils in 1967",
+    "extras": [
+        {
+            "value": "[\"The maps in EuDASM are holdings of ISRIC. The European Commission - JRC was entitled to scan the original maps and make them available over the Internet. Reproduction is allowed provided the source is acknowledged as follows:\\n\\n\\\"European Digital Archive of Soil Maps (EuDASM). 2005. Maps are holdings of ISRIC. Maps are made available by the European Commission - Joint Research Centre through http://eusoils.jrc.it/esdb_archive/EuDASM/EUDASM.htm\\\"\\nAttribution to the source in case of re-distribution\\n\\nThe dataset was downloaded on the 12th August 2012\"]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "25bce0bd-158b-4f9d-90d9-252b20e1bb2d",
+                "package_id": "c48134ce-ccf0-4856-8703-6673a0e2d384"
+            }
+        },
+        {
+            "value": "35.6303916066",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "25bce0bd-158b-4f9d-90d9-252b20e1bb2d",
+                "package_id": "c48134ce-ccf0-4856-8703-6673a0e2d384"
+            }
+        },
+        {
+            "value": "4.5338738608",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "c48134ce-ccf0-4856-8703-6673a0e2d384",
+                "revision_id": "25bce0bd-158b-4f9d-90d9-252b20e1bb2d"
+            }
+        },
+        {
+            "value": "-1.7895836425",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "25bce0bd-158b-4f9d-90d9-252b20e1bb2d",
+                "package_id": "c48134ce-ccf0-4856-8703-6673a0e2d384"
+            }
+        },
+        {
+            "value": "29.2726234277",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "25bce0bd-158b-4f9d-90d9-252b20e1bb2d",
+                "package_id": "c48134ce-ccf0-4856-8703-6673a0e2d384"
+            }
+        },
+        {
+            "value": "katy@mountbatten.net",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "c48134ce-ccf0-4856-8703-6673a0e2d384",
+                "revision_id": "25bce0bd-158b-4f9d-90d9-252b20e1bb2d"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "c48134ce-ccf0-4856-8703-6673a0e2d384",
+                "revision_id": "25bce0bd-158b-4f9d-90d9-252b20e1bb2d"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-02-20T02:32:59Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "c48134ce-ccf0-4856-8703-6673a0e2d384",
+                "revision_id": "25bce0bd-158b-4f9d-90d9-252b20e1bb2d"
+            }
+        },
+        {
+            "value": "unknown",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "c48134ce-ccf0-4856-8703-6673a0e2d384",
+                "revision_id": "25bce0bd-158b-4f9d-90d9-252b20e1bb2d"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Uganda Soils in 1967'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "c48134ce-ccf0-4856-8703-6673a0e2d384",
+                "revision_id": "25bce0bd-158b-4f9d-90d9-252b20e1bb2d"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "c48134ce-ccf0-4856-8703-6673a0e2d384",
+                "revision_id": "25bce0bd-158b-4f9d-90d9-252b20e1bb2d"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "25bce0bd-158b-4f9d-90d9-252b20e1bb2d",
+                "package_id": "c48134ce-ccf0-4856-8703-6673a0e2d384"
+            }
+        },
+        {
+            "value": "9aba7db8-9a09-11e3-a3fc-fd9cbd5bc30b",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "25bce0bd-158b-4f9d-90d9-252b20e1bb2d",
+                "package_id": "c48134ce-ccf0-4856-8703-6673a0e2d384"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "25bce0bd-158b-4f9d-90d9-252b20e1bb2d",
+                "package_id": "c48134ce-ccf0-4856-8703-6673a0e2d384"
+            }
+        },
+        {
+            "value": "2014-02-20T02:32:59Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "c48134ce-ccf0-4856-8703-6673a0e2d384",
+                "revision_id": "25bce0bd-158b-4f9d-90d9-252b20e1bb2d"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "25bce0bd-158b-4f9d-90d9-252b20e1bb2d",
+                "package_id": "c48134ce-ccf0-4856-8703-6673a0e2d384"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "c48134ce-ccf0-4856-8703-6673a0e2d384",
+                "revision_id": "25bce0bd-158b-4f9d-90d9-252b20e1bb2d"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "c48134ce-ccf0-4856-8703-6673a0e2d384",
+                "revision_id": "25bce0bd-158b-4f9d-90d9-252b20e1bb2d"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "c48134ce-ccf0-4856-8703-6673a0e2d384",
+                "revision_id": "25bce0bd-158b-4f9d-90d9-252b20e1bb2d"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.2726234277, -1.7895836425], [35.6303916066, -1.7895836425], [35.6303916066, 4.5338738608], [29.2726234277, 4.5338738608], [29.2726234277, -1.7895836425]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "25bce0bd-158b-4f9d-90d9-252b20e1bb2d",
+                "package_id": "c48134ce-ccf0-4856-8703-6673a0e2d384"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "c48134ce-ccf0-4856-8703-6673a0e2d384",
+                "revision_id": "25bce0bd-158b-4f9d-90d9-252b20e1bb2d"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "25bce0bd-158b-4f9d-90d9-252b20e1bb2d",
+                "package_id": "c48134ce-ccf0-4856-8703-6673a0e2d384"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "25bce0bd-158b-4f9d-90d9-252b20e1bb2d",
+                "package_id": "c48134ce-ccf0-4856-8703-6673a0e2d384"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "25bce0bd-158b-4f9d-90d9-252b20e1bb2d"
+}

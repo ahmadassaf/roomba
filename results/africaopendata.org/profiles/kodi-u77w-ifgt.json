@@ -1,0 +1,138 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Chris Metcalf",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T12:54:15.438815",
+    "id": "34f4931c-3b09-414b-83c0-bcf2ad3ca4f7",
+    "metadata_created": "2012-09-10T12:54:15.438815",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:12:18.805800",
+    "author": "Chris Metcalf",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "a99faf70-4c00-4888-9ecd-fc459286dbb0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:12:18.805800",
+            "webstore_last_updated": "2013-10-10T12:12:18.737146",
+            "id": "387672fc-7eb4-49da-a829-f67c9c244fd4",
+            "size": "79715",
+            "state": "active",
+            "hash": "457cd3b8e8fe84c9e3285f05ab9b5a70f203fd6f",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Availability of Energy Sources, by District -2009.csv",
+            "created": "2012-09-11T13:39:28.710955",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T154213/u77w-ifgt.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:34:52.961162",
+            "position": 0,
+            "revision_id": "ecde42d2-d475-4f13-aad3-898d1ea7c519",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "energy",
+            "name": "energy",
+            "revision_timestamp": "2012-09-10T12:54:15.438815",
+            "state": "active",
+            "id": "442f266c-6f64-47c8-a2a9-8e135cba2940"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "fuel wood",
+            "name": "fuel wood",
+            "revision_timestamp": "2012-09-10T12:54:15.438815",
+            "state": "active",
+            "id": "933f8824-1ad1-4ed5-b277-d3b1fe4737a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "health",
+            "name": "health",
+            "revision_timestamp": "2012-09-10T12:54:15.438815",
+            "state": "active",
+            "id": "956a3c07-125e-44e4-b843-c5011fadcc7e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T12:54:15.438815",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T12:54:15.438815",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 68,
+        "recent": 4
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "kodi-u77w-ifgt",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Source: Vol II Q 10 District",
+    "title": "Availability of Energy Sources, by District -2009",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "6ad40cec-cc2b-48ba-a432-99ab25991b62",
+                "package_id": "34f4931c-3b09-414b-83c0-bcf2ad3ca4f7"
+            }
+        },
+        {
+            "value": "Energy",
+            "key": "category",
+            "__extras": {
+                "revision_id": "6ad40cec-cc2b-48ba-a432-99ab25991b62",
+                "package_id": "34f4931c-3b09-414b-83c0-bcf2ad3ca4f7"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "6ad40cec-cc2b-48ba-a432-99ab25991b62",
+                "package_id": "34f4931c-3b09-414b-83c0-bcf2ad3ca4f7"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "6ad40cec-cc2b-48ba-a432-99ab25991b62"
+}

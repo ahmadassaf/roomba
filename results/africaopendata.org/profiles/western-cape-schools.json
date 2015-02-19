@@ -1,0 +1,122 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-09-04T16:10:40.125582",
+    "id": "40e84aae-242d-4065-a997-4f13116d5f42",
+    "metadata_created": "2012-09-04T16:10:40.125582",
+    "owner_org": null,
+    "metadata_modified": "2014-01-25T18:56:49.518288",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "7a905345-a588-4732-b8ec-35938ef8be6d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-01-25T18:56:49.518288",
+            "webstore_last_updated": "2014-01-25T18:56:48.992109",
+            "id": "aaf205b2-2000-4115-8730-60f1b7f3a503",
+            "size": "381952",
+            "state": "active",
+            "hash": "a63adc2d9046314d0280d23a2c90d65e7261e5eb",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 19,
+                "recent": 1
+            },
+            "mimetype_inner": "",
+            "mimetype": "text/csv",
+            "cache_url": "",
+            "name": "schools_in_the_western_cape_south_africa_1.csv",
+            "created": "2012-07-16T07:50:22.004283",
+            "url": "http://africaopendata.org/storage/f/2013-11-19T12%3A20%3A21.597Z/schools-in-the-western-cape-south-africa-1.csv",
+            "webstore_url": "",
+            "last_modified": "2014-01-25T18:56:49.428979",
+            "position": 0,
+            "revision_id": "dd03513d-a895-4e72-9738-09a887dc2454",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "code4democracy",
+            "name": "code4democracy",
+            "revision_timestamp": "2012-09-04T16:10:40.125582",
+            "state": "active",
+            "id": "51d5a81a-0464-41a3-be13-8d6c304f24e7"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "education",
+            "name": "education",
+            "revision_timestamp": "2012-09-04T16:10:40.125582",
+            "state": "active",
+            "id": "4bc98291-13cc-4baf-b090-52376fa3a429"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "southafrica",
+            "name": "southafrica",
+            "revision_timestamp": "2012-09-04T16:10:40.125582",
+            "state": "active",
+            "id": "16620248-4ab3-4ae8-a8e9-49ed7920fd32"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "western-cape",
+            "name": "western-cape",
+            "revision_timestamp": "2012-09-04T16:10:40.125582",
+            "state": "active",
+            "id": "6baa5eb9-07f5-46aa-9996-57c469a8bc75"
+        }
+    ],
+    "tracking_summary": {
+        "total": 164,
+        "recent": 3
+    },
+    "groups": [
+        {
+            "title": "South Africa",
+            "description": "Datasets from South Africa",
+            "name": "south-africa",
+            "id": "fc691a3f-cfce-46d6-93a0-77bdccfec89d"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "western-cape-schools",
+    "isopen": false,
+    "url": "",
+    "notes": "A list of 'ordinary schools' in the Western Cape scraped from the Western Cape Education Department's website. The scraper used can be improved to cover all types of schools and to include other data. More information is available on the scraper's page at  https://scraperwiki.com/scrapers/schools_in_the_western_cape_south_africa_1/",
+    "title": "Western Cape Schools",
+    "extras": [
+        {
+            "value": "Coding for Democracy",
+            "key": "Source",
+            "__extras": {
+                "revision_id": "cb9a6fd9-1217-4f1c-88ae-42ac989963a8",
+                "package_id": "40e84aae-242d-4065-a997-4f13116d5f42"
+            }
+        },
+        {
+            "value": "http://197.221.34.5/dataset/40e84aae-242d-4065-a997-4f13116d5f42",
+            "key": "harvest_url",
+            "__extras": {
+                "revision_id": "cb9a6fd9-1217-4f1c-88ae-42ac989963a8",
+                "package_id": "40e84aae-242d-4065-a997-4f13116d5f42"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "cb9a6fd9-1217-4f1c-88ae-42ac989963a8"
+}

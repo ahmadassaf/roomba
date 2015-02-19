@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:50:17.126512",
+    "id": "cb4517e1-140a-45f9-b2ed-a3e1a4775999",
+    "metadata_created": "2012-09-11T13:50:17.126512",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:08:11.881575",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "8b08dd77-cf98-4689-8e70-ccf5fcbcbb1d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:08:11.881575",
+            "webstore_last_updated": "2013-10-10T12:08:11.814359",
+            "id": "55db914c-6489-49cb-898f-cbd6ea0d3d2f",
+            "size": "2209",
+            "state": "active",
+            "hash": "c51ef0f69c91c774ca234d8c510a2db6007cb930",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Proportion of Parcels  under Irrigation County Estimates - 2005/6.csv",
+            "created": "2012-09-11T13:50:17.182728",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T155302/jxdm-i7j5.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:48:25.772991",
+            "position": 0,
+            "revision_id": "0cde7fd6-64d4-4780-9cdf-8d14688de4d6",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "county economy kihbs",
+            "name": "county economy kihbs",
+            "revision_timestamp": "2012-09-11T13:50:17.126512",
+            "state": "active",
+            "id": "23626cb4-d78a-4a67-a4a7-7305bf3cd3df"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:50:17.126512",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:50:17.126512",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 60,
+        "recent": 3
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-jxdm-i7j5",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "2005/6 KIHBS Table 9. 6: Proportion of Parcels  under Irrigation County Estimates",
+    "title": "Proportion of Parcels  under Irrigation County Estimates - 2005/6",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "012e1b8a-419f-4852-bd49-c3bdfa6e2765",
+                "package_id": "cb4517e1-140a-45f9-b2ed-a3e1a4775999"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "012e1b8a-419f-4852-bd49-c3bdfa6e2765",
+                "package_id": "cb4517e1-140a-45f9-b2ed-a3e1a4775999"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "012e1b8a-419f-4852-bd49-c3bdfa6e2765",
+                "package_id": "cb4517e1-140a-45f9-b2ed-a3e1a4775999"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "012e1b8a-419f-4852-bd49-c3bdfa6e2765"
+}

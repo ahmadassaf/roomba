@@ -1,0 +1,675 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:34:03.960717",
+    "id": "e71bb44d-0820-435c-8e89-a9e89d61ecac",
+    "metadata_created": "2014-11-04T22:34:03.960717",
+    "owner_org": null,
+    "metadata_modified": "2014-11-05T05:25:14.467375",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "77dd6264-0786-46f0-be28-1d02fc970063",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-05T05:25:14.467375",
+            "webstore_last_updated": null,
+            "id": "4d555de3-cbdb-450e-93aa-9dcd3e18ba8c",
+            "size": "91496",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "0a894f22c4132c8f26d93ee46c35b9860b7563c3",
+            "description": "Online link to the 'Towns Ug' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:51:14.501160",
+            "url": "http://maps.data.ug/layers/geonode:towns_ug",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T05:25:14.315508",
+            "position": 0,
+            "revision_id": "0d6ad265-fcc4-4a02-a0f0-3de420089914",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "77dd6264-0786-46f0-be28-1d02fc970063",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:34:03.960717",
+            "webstore_last_updated": null,
+            "id": "8edf05c2-64a9-43bd-b26e-cd28782e1cc0",
+            "size": "16079",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Towns Ug (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "towns_ug.jpg",
+            "created": "2014-03-12T14:51:14.501181",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms?layers=geonode%3Atowns_ug&width=548&bbox=29.624687665981913%2C-1.2900570563225966%2C34.66457814426255%2C3.7593411405434782&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 1,
+            "revision_id": "aa2f3da7-2959-417a-9d16-cd1d967d3598",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "77dd6264-0786-46f0-be28-1d02fc970063",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:34:03.960717",
+            "webstore_last_updated": null,
+            "id": "c256746c-8920-4d0d-8743-082538930836",
+            "size": "6861",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Towns Ug (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "towns_ug.pdf",
+            "created": "2014-03-12T14:51:14.501189",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms?layers=geonode%3Atowns_ug&width=548&bbox=29.624687665981913%2C-1.2900570563225966%2C34.66457814426255%2C3.7593411405434782&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 2,
+            "revision_id": "aa2f3da7-2959-417a-9d16-cd1d967d3598",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "77dd6264-0786-46f0-be28-1d02fc970063",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:34:03.960717",
+            "webstore_last_updated": null,
+            "id": "4e8cffdc-55a0-45ef-a7e8-3f1223015c5a",
+            "size": "23915",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Towns Ug (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "towns_ug.png",
+            "created": "2014-03-12T14:51:14.501196",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms?layers=geonode%3Atowns_ug&width=548&bbox=29.624687665981913%2C-1.2900570563225966%2C34.66457814426255%2C3.7593411405434782&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 3,
+            "revision_id": "aa2f3da7-2959-417a-9d16-cd1d967d3598",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "77dd6264-0786-46f0-be28-1d02fc970063",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:34:03.960717",
+            "webstore_last_updated": null,
+            "id": "25464e0f-33f9-4d2b-a941-09308de1f1fa",
+            "size": "11403",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Towns Ug (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "towns_ug.zip",
+            "created": "2014-03-12T14:51:14.501203",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Atowns_ug&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 4,
+            "revision_id": "aa2f3da7-2959-417a-9d16-cd1d967d3598",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "77dd6264-0786-46f0-be28-1d02fc970063",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:34:03.960717",
+            "webstore_last_updated": null,
+            "id": "0a3e8de5-8b19-4b6e-8b9a-a87ae251da83",
+            "size": "108473",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Towns Ug (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "towns_ug.gml",
+            "created": "2014-03-12T14:51:14.501209",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Atowns_ug&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 5,
+            "revision_id": "aa2f3da7-2959-417a-9d16-cd1d967d3598",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "77dd6264-0786-46f0-be28-1d02fc970063",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:34:03.960717",
+            "webstore_last_updated": null,
+            "id": "c7212c72-8400-4632-bada-0ba2d024c59b",
+            "size": "90117",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Towns Ug (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "towns_ug.gml",
+            "created": "2014-03-12T14:51:14.501216",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Atowns_ug&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 6,
+            "revision_id": "aa2f3da7-2959-417a-9d16-cd1d967d3598",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "77dd6264-0786-46f0-be28-1d02fc970063",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:34:03.960717",
+            "webstore_last_updated": null,
+            "id": "d19c8b07-d1c8-4952-b222-51398846d43f",
+            "size": "20589",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Towns Ug (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "towns_ug.csv",
+            "created": "2014-03-12T14:51:14.501223",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Atowns_ug&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 7,
+            "revision_id": "aa2f3da7-2959-417a-9d16-cd1d967d3598",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "77dd6264-0786-46f0-be28-1d02fc970063",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:34:03.960717",
+            "webstore_last_updated": null,
+            "id": "1f9bc868-613e-4d0e-920e-625285b1e87d",
+            "size": "47616",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Towns Ug (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "towns_ug.excel",
+            "created": "2014-03-12T14:51:14.501230",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?typename=geonode%3Atowns_ug&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 8,
+            "revision_id": "aa2f3da7-2959-417a-9d16-cd1d967d3598",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "77dd6264-0786-46f0-be28-1d02fc970063",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:34:03.960717",
+            "webstore_last_updated": null,
+            "id": "e5724786-0514-49af-840b-261970a38b3c",
+            "size": "49453",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Towns Ug (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "towns_ug.json",
+            "created": "2014-03-12T14:51:14.501237",
+            "url": "http://geoclean.mountbatten.net/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Atowns_ug&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "aa2f3da7-2959-417a-9d16-cd1d967d3598",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "77dd6264-0786-46f0-be28-1d02fc970063",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:34:03.960717",
+            "webstore_last_updated": null,
+            "id": "1af6cbde-0a02-4194-818e-6b89c40e70db",
+            "size": "493090",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Towns Ug (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "towns_ug.kml",
+            "created": "2014-03-12T14:51:14.501244",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms/kml?layers=geonode%3Atowns_ug&mode=download",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:53:26.185894",
+            "position": 10,
+            "revision_id": "aa2f3da7-2959-417a-9d16-cd1d967d3598",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "77dd6264-0786-46f0-be28-1d02fc970063",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:34:03.960717",
+            "webstore_last_updated": null,
+            "id": "c44a594a-8f39-4174-b7eb-0c0373914ac6",
+            "size": "1821",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Towns Ug (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "towns_ug.kml",
+            "created": "2014-03-12T14:51:14.501251",
+            "url": "http://geoclean.mountbatten.net/geoserver/wms/kml?layers=geonode%3Atowns_ug&mode=refresh",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 11,
+            "revision_id": "aa2f3da7-2959-417a-9d16-cd1d967d3598",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "77dd6264-0786-46f0-be28-1d02fc970063",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:34:03.960717",
+            "webstore_last_updated": null,
+            "id": "4284ded8-4ae3-43a8-8607-622a798feb76",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Towns Ug (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "towns_ug.tiles",
+            "created": "2014-03-12T14:51:14.501258",
+            "url": "http://geoclean.mountbatten.net/geoserver/gwc/service/gmaps?layers=geonode:towns_ug&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 12,
+            "revision_id": "aa2f3da7-2959-417a-9d16-cd1d967d3598",
+            "resource_type": null
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "CLEAN",
+            "name": "CLEAN",
+            "revision_timestamp": "2014-11-04T22:34:03.960717",
+            "state": "active",
+            "id": "3acc157d-6cb7-4e71-8564-28ccf51ed93b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:34:03.960717",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:34:03.960717",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:34:03.960717",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:34:03.960717",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:34:03.960717",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:34:03.960717",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 3,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 7,
+    "name": "towns-ug",
+    "isopen": false,
+    "url": null,
+    "notes": "No abstract provided",
+    "title": "Towns Ug",
+    "extras": [
+        {
+            "value": "[\"None\"]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "aa2f3da7-2959-417a-9d16-cd1d967d3598",
+                "package_id": "e71bb44d-0820-435c-8e89-a9e89d61ecac"
+            }
+        },
+        {
+            "value": "34.6645781443",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "aa2f3da7-2959-417a-9d16-cd1d967d3598",
+                "package_id": "e71bb44d-0820-435c-8e89-a9e89d61ecac"
+            }
+        },
+        {
+            "value": "3.7593411405",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "e71bb44d-0820-435c-8e89-a9e89d61ecac",
+                "revision_id": "aa2f3da7-2959-417a-9d16-cd1d967d3598"
+            }
+        },
+        {
+            "value": "-1.2900570563",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "aa2f3da7-2959-417a-9d16-cd1d967d3598",
+                "package_id": "e71bb44d-0820-435c-8e89-a9e89d61ecac"
+            }
+        },
+        {
+            "value": "29.6246876660",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "aa2f3da7-2959-417a-9d16-cd1d967d3598",
+                "package_id": "e71bb44d-0820-435c-8e89-a9e89d61ecac"
+            }
+        },
+        {
+            "value": "katy@mountbatten.net",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "e71bb44d-0820-435c-8e89-a9e89d61ecac",
+                "revision_id": "aa2f3da7-2959-417a-9d16-cd1d967d3598"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "e71bb44d-0820-435c-8e89-a9e89d61ecac",
+                "revision_id": "aa2f3da7-2959-417a-9d16-cd1d967d3598"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-02-19T03:15:46Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "e71bb44d-0820-435c-8e89-a9e89d61ecac",
+                "revision_id": "aa2f3da7-2959-417a-9d16-cd1d967d3598"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "e71bb44d-0820-435c-8e89-a9e89d61ecac",
+                "revision_id": "aa2f3da7-2959-417a-9d16-cd1d967d3598"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Towns Ug'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "e71bb44d-0820-435c-8e89-a9e89d61ecac",
+                "revision_id": "aa2f3da7-2959-417a-9d16-cd1d967d3598"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "e71bb44d-0820-435c-8e89-a9e89d61ecac",
+                "revision_id": "aa2f3da7-2959-417a-9d16-cd1d967d3598"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "aa2f3da7-2959-417a-9d16-cd1d967d3598",
+                "package_id": "e71bb44d-0820-435c-8e89-a9e89d61ecac"
+            }
+        },
+        {
+            "value": "6a6d7f0c-9946-11e3-a848-65994865a09c",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "aa2f3da7-2959-417a-9d16-cd1d967d3598",
+                "package_id": "e71bb44d-0820-435c-8e89-a9e89d61ecac"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "aa2f3da7-2959-417a-9d16-cd1d967d3598",
+                "package_id": "e71bb44d-0820-435c-8e89-a9e89d61ecac"
+            }
+        },
+        {
+            "value": "2014-02-19T03:15:46Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "e71bb44d-0820-435c-8e89-a9e89d61ecac",
+                "revision_id": "aa2f3da7-2959-417a-9d16-cd1d967d3598"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "aa2f3da7-2959-417a-9d16-cd1d967d3598",
+                "package_id": "e71bb44d-0820-435c-8e89-a9e89d61ecac"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "e71bb44d-0820-435c-8e89-a9e89d61ecac",
+                "revision_id": "aa2f3da7-2959-417a-9d16-cd1d967d3598"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "e71bb44d-0820-435c-8e89-a9e89d61ecac",
+                "revision_id": "aa2f3da7-2959-417a-9d16-cd1d967d3598"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "e71bb44d-0820-435c-8e89-a9e89d61ecac",
+                "revision_id": "aa2f3da7-2959-417a-9d16-cd1d967d3598"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.624687666, -1.2900570563], [34.6645781443, -1.2900570563], [34.6645781443, 3.7593411405], [29.624687666, 3.7593411405], [29.624687666, -1.2900570563]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "aa2f3da7-2959-417a-9d16-cd1d967d3598",
+                "package_id": "e71bb44d-0820-435c-8e89-a9e89d61ecac"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "e71bb44d-0820-435c-8e89-a9e89d61ecac",
+                "revision_id": "aa2f3da7-2959-417a-9d16-cd1d967d3598"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "aa2f3da7-2959-417a-9d16-cd1d967d3598",
+                "package_id": "e71bb44d-0820-435c-8e89-a9e89d61ecac"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "aa2f3da7-2959-417a-9d16-cd1d967d3598",
+                "package_id": "e71bb44d-0820-435c-8e89-a9e89d61ecac"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "aa2f3da7-2959-417a-9d16-cd1d967d3598"
+}

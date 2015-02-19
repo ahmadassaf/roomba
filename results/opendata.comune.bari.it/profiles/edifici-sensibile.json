@@ -1,0 +1,127 @@
+{
+    "license_title": "CC0 1.0",
+    "maintainer": "Ufficio Tutela Ambiente",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "rip.igieneeambiente@comune.bari.it",
+    "revision_timestamp": "2014-12-17T11:37:29.098882",
+    "id": "f1e86e74-4551-42af-b5ee-2a445bec403a",
+    "metadata_created": "2014-11-12T17:05:47.192543",
+    "metadata_modified": "2014-12-17T11:37:29.099454",
+    "author": "Ripartizione Tutela Ambiente, Sanità e Igiene",
+    "author_email": "rip.igieneeambiente@comune.bari.it",
+    "state": "active",
+    "version": "",
+    "creator_user_id": "1a9bb171-088a-40d4-8c09-3eb097bb7860",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "3126e735-0ca1-4e9b-bc16-b9ae24a3de3b",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-12T17:05:49.878867",
+            "webstore_last_updated": null,
+            "datastore_active": false,
+            "id": "a59c77ec-5952-4113-9032-96ac054a7ce5",
+            "size": "234526",
+            "state": "active",
+            "hash": "md5:c32d6bd57281ebc4bd467a3cdf1cac26",
+            "description": "",
+            "format": "ZIP",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "last_modified": "2013-02-22T16:01:29.821233",
+            "url_type": "upload",
+            "mimetype": "application/zip",
+            "cache_url": "",
+            "name": "2013-02-22T150115/VELA_Edifici_sensibili.zip",
+            "created": "2013-02-22T16:01:28.656774",
+            "url": "http://opendata.comune.bari.it/dataset/f1e86e74-4551-42af-b5ee-2a445bec403a/resource/a59c77ec-5952-4113-9032-96ac054a7ce5/download/20130222t150115velaedificisensibili.zip",
+            "webstore_url": "/storage/f/2013-02-22T150115/VELA_Edifici_sensibili.zip",
+            "mimetype_inner": "",
+            "position": 0,
+            "revision_id": "17f9ff65-8f89-4389-83bf-2127c2b562b1",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "edifici",
+            "name": "edifici",
+            "revision_timestamp": "2014-11-12T17:05:47.192543",
+            "state": "active",
+            "id": "973db534-1066-42f6-81dc-fa8a85ea23b4"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "display_name": "Dati Geografici",
+            "description": "Dati Geografici del Comune di Bari",
+            "image_display_url": "",
+            "title": "Dati Geografici",
+            "id": "33ce3844-87cd-418d-a237-31b4939342a7",
+            "name": "dati-geografici"
+        }
+    ],
+    "license_id": "CC0-1.0",
+    "relationships_as_subject": [],
+    "num_tags": 1,
+    "organization": {
+        "description": "",
+        "created": "2014-11-26T17:08:49.091500",
+        "title": "Comune di Bari",
+        "name": "comune-di-bari",
+        "revision_timestamp": "2014-11-26T16:08:49.054306",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "",
+        "revision_id": "dd9136cf-62f3-4182-b0a6-3287c82accaa",
+        "type": "organization",
+        "id": "a5fb4b95-9a9e-49de-a9cd-e93ac2bf587f",
+        "approval_status": "approved"
+    },
+    "name": "edifici-sensibile",
+    "isopen": true,
+    "url": "",
+    "notes": "Mappa degli edifici sensibili del Comune di Bari",
+    "owner_org": "a5fb4b95-9a9e-49de-a9cd-e93ac2bf587f",
+    "extras": [
+        {
+            "key": "Data di creazione",
+            "value": "\"Febbraio 2013\""
+        },
+        {
+            "key": "Data ultima modifica del dato",
+            "value": "\"2006\""
+        },
+        {
+            "key": "Data ultima modifica del metadato",
+            "value": "\"2006\""
+        },
+        {
+            "key": "Tipo di dato",
+            "value": "\"shape file\""
+        }
+    ],
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "title": "Edifici sensibile",
+    "revision_id": "61d5b6fa-0005-421d-ac21-080205a9836f",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": true,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Kenya Open Data Bot",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T12:02:10.465663",
+    "id": "a7a138ff-e765-48bc-aa95-cac96783fb1f",
+    "metadata_created": "2012-09-10T12:02:10.465663",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:16:00.866253",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "a5e092a2-de82-43b2-8f1a-d8d05503148e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:16:00.866253",
+            "webstore_last_updated": "2013-10-10T12:16:00.796032",
+            "id": "8b8d7254-e918-4507-ae0b-e9a01fe0b482",
+            "size": "170",
+            "state": "active",
+            "hash": "f82d35c8ecaaf2cc928c5ecf3cdb2e415c79de28",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "County Urbanization: Samburu.csv",
+            "created": "2012-09-11T13:33:48.205048",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T153633/xjba-kdc6.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:43:05.411171",
+            "position": 0,
+            "revision_id": "4f77ec3c-7c53-44a6-8121-ba19bb9f1334",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "county",
+            "name": "county",
+            "revision_timestamp": "2012-09-10T12:02:10.465663",
+            "state": "active",
+            "id": "858f3acf-2c66-4fd9-9dc2-32e4f12121a2"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T12:02:10.465663",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T12:02:10.465663",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population",
+            "name": "population",
+            "revision_timestamp": "2012-09-10T12:02:10.465663",
+            "state": "active",
+            "id": "c5e39de5-556e-4bcb-883b-5b9ec2481ae9"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "urbanisation",
+            "name": "urbanisation",
+            "revision_timestamp": "2012-09-10T12:02:10.465663",
+            "state": "active",
+            "id": "0a352ac2-4503-4c03-8962-ef4f605e793e"
+        }
+    ],
+    "tracking_summary": {
+        "total": 56,
+        "recent": 4
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "kodi-xjba-kdc6",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Census population by rural, urban, County estimates",
+    "title": "County Urbanization: Samburu",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "d2f4fd7c-b12a-4be8-b37e-e8bb04a33612",
+                "package_id": "a7a138ff-e765-48bc-aa95-cac96783fb1f"
+            }
+        },
+        {
+            "value": "Counties",
+            "key": "category",
+            "__extras": {
+                "revision_id": "d2f4fd7c-b12a-4be8-b37e-e8bb04a33612",
+                "package_id": "a7a138ff-e765-48bc-aa95-cac96783fb1f"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "d2f4fd7c-b12a-4be8-b37e-e8bb04a33612",
+                "package_id": "a7a138ff-e765-48bc-aa95-cac96783fb1f"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "d2f4fd7c-b12a-4be8-b37e-e8bb04a33612"
+}

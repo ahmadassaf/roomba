@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:57:45.397677",
+    "id": "09ab8b65-fa02-4e6c-a1da-40c6a429b551",
+    "metadata_created": "2012-09-11T13:57:45.397677",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:02:54.442957",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "baad4738-532c-4945-aecf-11d01eb5bf65",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:02:54.442957",
+            "webstore_last_updated": "2013-10-10T12:02:54.373421",
+            "id": "5f946e23-d5db-426a-bb55-f081417c1a78",
+            "size": "93100",
+            "state": "active",
+            "hash": "7445312257fc093350d928c0cd4f31c0e0438b84",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Vol II Jedwali 5:Kaya kulingana na aina ya paa la makazi makuu na Wilaya - 2009.csv",
+            "created": "2012-09-11T13:57:45.434983",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T160030/bhuz-kifn.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:25:35.386843",
+            "position": 0,
+            "revision_id": "1607b421-0e9c-46ac-95fc-afb4b1929982",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:57:45.397677",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:57:45.397677",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "poverty",
+            "name": "poverty",
+            "revision_timestamp": "2012-09-11T13:57:45.397677",
+            "state": "active",
+            "id": "490c0df0-0458-4e36-8ad1-2fa9d0684d97"
+        }
+    ],
+    "tracking_summary": {
+        "total": 74,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-bhuz-kifn",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "2009 Census: Households by main type of roofing material for the main dwelling unit, Swahili Version by District",
+    "title": "Vol II Jedwali 5:Kaya kulingana na aina ya paa la makazi makuu na Wilaya - 2009",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "a6d8667c-4bfd-484f-a974-8f70b4ffe24e",
+                "package_id": "09ab8b65-fa02-4e6c-a1da-40c6a429b551"
+            }
+        },
+        {
+            "value": "    Environment And Natural Resources",
+            "key": "category",
+            "__extras": {
+                "revision_id": "a6d8667c-4bfd-484f-a974-8f70b4ffe24e",
+                "package_id": "09ab8b65-fa02-4e6c-a1da-40c6a429b551"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "a6d8667c-4bfd-484f-a974-8f70b4ffe24e",
+                "package_id": "09ab8b65-fa02-4e6c-a1da-40c6a429b551"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "a6d8667c-4bfd-484f-a974-8f70b4ffe24e"
+}

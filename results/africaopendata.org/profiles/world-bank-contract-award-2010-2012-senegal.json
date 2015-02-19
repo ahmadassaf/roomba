@@ -1,0 +1,108 @@
+{
+    "license_title": "Open Data Commons Attribution License 1.0",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-11-04T17:40:55.313489",
+    "id": "5e316342-d303-4dce-99b9-a02c2ac10148",
+    "metadata_created": "2012-11-04T17:40:34.547751",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:58:11.429411",
+    "author": "World Bank (finance.worldbank.org)",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "ODC-BY-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "c6adb0ec-7e92-4e86-83fc-76f03e32871a",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:58:11.429411",
+            "webstore_last_updated": "2013-10-10T10:58:11.365126",
+            "id": "1c3fa07b-3783-4958-a65c-f9de30a247fa",
+            "size": "39218",
+            "state": "active",
+            "hash": "4c5edfafbd9d492844864f2bb7eb11a7a851d85b",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Major_Contract_Awards_FY2010-12_-_Africa_Region-Senegal.csv",
+            "created": "2012-11-04T17:40:46.954150",
+            "url": "http://africaopendata.org/storage/f/2012-11-04T17%3A40%3A38.256Z/major-contract-awards-fy2010-12-africa-region-senegal.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:42:35.770821",
+            "position": 0,
+            "revision_id": "087cf114-2045-4790-a039-60c585461c5c",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Contracts",
+            "name": "Contracts",
+            "revision_timestamp": "2012-11-04T17:40:34.547751",
+            "state": "active",
+            "id": "c60bfb8e-35f5-487b-b481-b489447b7cef"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Senegal",
+            "name": "Senegal",
+            "revision_timestamp": "2012-11-04T17:40:34.547751",
+            "state": "active",
+            "id": "d23d2fce-186f-4a0b-a4dd-afdc812e0bc5"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "World Bank",
+            "name": "World Bank",
+            "revision_timestamp": "2012-11-04T17:40:34.547751",
+            "state": "active",
+            "id": "ae91265e-0b5c-45a0-a96f-02cf356ec937"
+        }
+    ],
+    "tracking_summary": {
+        "total": 59,
+        "recent": 6
+    },
+    "groups": [
+        {
+            "title": "Senegal",
+            "description": "Datasets from Senegal",
+            "name": "senegal",
+            "id": "213907ed-b8e6-4369-a756-4d58caf1ce1b"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "world-bank-contract-award-2010-2012-senegal",
+    "isopen": true,
+    "url": null,
+    "notes": "This set of contract awards includes data on commitments against contracts that were reviewed by the Bank before they were awarded (prior-reviewed Bank-funded contracts) under IDA/IBRD investment projects and related Trust Funds. This dataset does not list all contracts awarded by the Bank, and should be viewed only as a guide to determine the distribution of major contract commitments among the Bank's member countries. \"Supplier Country\" represents place of supplier registration, which may or not be the supplier's actual country of origin. Information does not include awards to subcontractors nor account for cofinancing. The Procurement Policy and Services Group does not guarantee the data included in this publication and accepts no responsibility whatsoever for any consequences of its use. The World Bank complies with all sanctions applicable to World Bank transactions.\r\n",
+    "title": "World Bank Contract Award 2010-2012 - Senegal",
+    "extras": [],
+    "license_url": "http://www.opendefinition.org/licenses/odc-by",
+    "organization": null,
+    "revision_id": "9914db88-3db0-4881-964a-52d9b7e939b8",
+    "license_information": {
+        "domain_content": false,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Open Data Commons",
+        "status": "active"
+    }
+}

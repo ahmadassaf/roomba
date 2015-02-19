@@ -1,0 +1,130 @@
+{
+    "license_title": "Creative Commons Attribution 4.0",
+    "maintainer": "Robert Llangford",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "robert.langford@salford.gov.uk",
+    "revision_timestamp": "2014-03-03T14:39:41.407755",
+    "id": "0ed35f4f-6cb7-4bb8-a5c9-02bdef12efbb",
+    "metadata_created": "2012-12-05T04:00:28.242330",
+    "owner_org": "902ad145-9c82-4aa4-b125-7190c676e747",
+    "metadata_modified": "2014-03-05T14:57:03.083636",
+    "author": "John Gibbons",
+    "author_email": "john.gibbons@salford.gov.uk",
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "mimetype_inner": null,
+            "hash": "",
+            "description": "Salford",
+            "format": "KML",
+            "url": "http://services.salford.gov.uk/data/kml/CombinedGrittingRoutes.kml",
+            "cache_last_updated": null,
+            "tracking_summary": {
+                "total": 7,
+                "recent": 2
+            },
+            "revision_timestamp": "2013-05-06T09:27:10.840988",
+            "webstore_url": null,
+            "resource_group_id": "ff63fdff-dd38-4107-91f7-58785d887319",
+            "state": "active",
+            "last_modified": "2013-05-06T04:27:10.830592",
+            "webstore_last_updated": null,
+            "position": 0,
+            "revision_id": "6c0f474f-8671-4b21-bca6-26af7630cb03",
+            "size": "208293",
+            "id": "f00b2daa-2730-49af-803d-c8d8b8349612",
+            "resource_type": null,
+            "name": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "road",
+            "name": "road",
+            "revision_timestamp": "2012-12-05T04:00:28.242330",
+            "state": "active",
+            "id": "4c6e89da-6edb-4779-9fd8-29c3fa13ba70"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "salford",
+            "name": "salford",
+            "revision_timestamp": "2012-12-05T04:00:28.242330",
+            "state": "active",
+            "id": "494e329e-e5c9-40ca-a5a2-1608001bfb8e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "transport",
+            "name": "transport",
+            "revision_timestamp": "2012-12-05T04:00:28.242330",
+            "state": "active",
+            "id": "69073282-dcd2-47df-8492-86919f03881d"
+        }
+    ],
+    "tracking_summary": {
+        "total": 19,
+        "recent": 1
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "salford-road-gritting-routes",
+    "isopen": true,
+    "url": "http://www.salford.gov.uk/gritting.htm",
+    "notes": "Councils carry out a regular winter road gritting programme which aims to, as far as possible, allow the safe movement of traffic on priority highways across authority areas.\r\n\r\n",
+    "title": "Salford Road Gritting Routes",
+    "extras": [
+        {
+            "value": "2012-11-16",
+            "key": "temporal_coverage-from",
+            "__extras": {
+                "package_id": "0ed35f4f-6cb7-4bb8-a5c9-02bdef12efbb",
+                "revision_id": "305082b3-dedf-447b-86c5-5bec93b8fac9"
+            }
+        },
+        {
+            "value": "",
+            "key": "temporal_coverage-to",
+            "__extras": {
+                "package_id": "0ed35f4f-6cb7-4bb8-a5c9-02bdef12efbb",
+                "revision_id": "305082b3-dedf-447b-86c5-5bec93b8fac9"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "organization": {
+        "description": "Salford City Council Open Datasets",
+        "created": "2013-03-28T04:18:24.950016",
+        "title": "Salford City Council",
+        "name": "salford-city-council",
+        "revision_timestamp": "2014-03-05T14:57:03.083636",
+        "is_organization": true,
+        "state": "active",
+        "image_url": "http://www.salford.gov.uk/t/scc-logo-top.gif",
+        "revision_id": "6d5f29d5-80a5-4d31-a21e-35b58566b304",
+        "type": "organization",
+        "id": "902ad145-9c82-4aa4-b125-7190c676e747",
+        "approval_status": "approved"
+    },
+    "revision_id": "2c504c48-c8d1-40e3-b7e0-ff686de57f99",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}

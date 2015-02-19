@@ -1,0 +1,193 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Uganda National Examination Board",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "unknown",
+    "revision_timestamp": "2014-11-04T22:29:22.437091",
+    "id": "a4a1ef8b-afa4-4b8f-b9f3-d4ef9b783eee",
+    "metadata_created": "2014-11-04T22:29:22.437091",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:50:09.519953",
+    "author": "Sunday Monitor",
+    "author_email": "unknown",
+    "state": "active",
+    "version": "1.0",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "35ab8806-6f20-40a8-ae66-6edef7f1c13e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:29:22.437091",
+            "webstore_last_updated": "2014-02-20T18:19:57.992933",
+            "id": "1ba956e0-e8b5-42f8-9655-c464715ec065",
+            "size": "159018",
+            "state": "active",
+            "hash": "727ece081d88588e60f19be84649b59cd391e88d",
+            "description": "Primary Leaving Examination(PLE) for 12-13 year olds.This spreadsheet has been digitized from data published in the Sunday Monitor news paper of February 2, 2014. ",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "primary-leaving-examination-results-2013",
+            "created": "2014-02-20T18:19:49.369787",
+            "url": "http://catalog.data.ug/dataset/a4a1ef8b-afa4-4b8f-b9f3-d4ef9b783eee/resource/1ba956e0-e8b5-42f8-9655-c464715ec065/download/ple.csv",
+            "webstore_url": "active",
+            "last_modified": "2014-02-27T17:00:01.186448",
+            "position": 0,
+            "revision_id": "9fe49046-feac-45ed-b245-dec696e94edb",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "35ab8806-6f20-40a8-ae66-6edef7f1c13e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:50:09.519953",
+            "webstore_last_updated": "2014-02-20T18:30:56.809589",
+            "id": "5a0ab1f2-7988-4611-9727-72cdfa83dfed",
+            "size": "2246",
+            "state": "active",
+            "hash": "f2c9e8f803475e42ce25dc3b526a9728",
+            "description": "This is a summarized version by district. It takes the total number of pupils with division one, the total number of students and the percentage of pupils with division one per district.",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "ple2013summarised",
+            "created": "2014-02-20T18:30:51.507913",
+            "url": "http://catalog.data.ug/dataset/a4a1ef8b-afa4-4b8f-b9f3-d4ef9b783eee/resource/5a0ab1f2-7988-4611-9727-72cdfa83dfed/download/ple2014agregated.csv",
+            "webstore_url": "active",
+            "last_modified": "2014-02-20T18:30:53.362848",
+            "position": 1,
+            "revision_id": "b01ab256-2e0d-4c3c-933c-bed578194fa9",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "35ab8806-6f20-40a8-ae66-6edef7f1c13e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-05T01:58:30.985478",
+            "webstore_last_updated": "2014-11-05T01:58:30.845731",
+            "id": "5d41b1d0-d029-4d60-a65a-7f9b1b20f89b",
+            "size": "2662",
+            "state": "active",
+            "hash": "147f72f0b645aef050f202850dd20ccc25bef150",
+            "description": "",
+            "format": "",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "ple2013_summarised",
+            "created": "2014-04-08T12:43:55.247405",
+            "url": "http://catalog.data.ug/dataset/a4a1ef8b-afa4-4b8f-b9f3-d4ef9b783eee/resource/5d41b1d0-d029-4d60-a65a-7f9b1b20f89b/download/ple2013sum.csv",
+            "webstore_url": "active",
+            "last_modified": "2014-04-08T12:43:59.974811",
+            "position": 2,
+            "revision_id": "a8192b36-c119-437f-b53d-516843fa7133",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 3,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Education",
+            "name": "Education",
+            "revision_timestamp": "2014-11-04T22:29:22.437091",
+            "state": "active",
+            "id": "9606d357-b5d7-469e-8656-26e83f99eb62"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Primary education",
+            "name": "Primary education",
+            "revision_timestamp": "2014-11-04T22:29:22.437091",
+            "state": "active",
+            "id": "37131c14-3757-4a93-8327-ae02d00ea760"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:29:22.437091",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:29:22.437091",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:29:22.437091",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:29:22.437091",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:29:22.437091",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:29:22.437091",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 10,
+        "recent": 4
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 8,
+    "name": "primary-leaving-examination-results-2013",
+    "isopen": false,
+    "url": "Sunday Monitor newspaper of February 2, 2014",
+    "notes": "Primary Leaving Examination(PLE) for 12-13 year olds.This spreadsheet has been digitized from data published in the Sunday Monitor news paper of February 2, 2014. ",
+    "title": "Primary Leaving Examination Results 2013",
+    "extras": [],
+    "organization": null,
+    "revision_id": "9fe49046-feac-45ed-b245-dec696e94edb"
+}

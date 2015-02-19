@@ -1,0 +1,698 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:28:15.766039",
+    "id": "8ae47c38-fb87-4d2e-ae97-df056c195511",
+    "metadata_created": "2014-11-04T22:28:15.766039",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:49:43.708529",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "3fe0e15e-5e20-418e-adcd-b160a41143a0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:15.766039",
+            "webstore_last_updated": null,
+            "id": "69d195c2-88f6-4a1f-9be4-072da426eede",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Online link to the 'License polygons' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-10T17:58:57.381357",
+            "url": "http://maps.nemaug.org/layers/geonode:currentlicenses",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "e80102f7-9fdb-4c55-a567-d19a4a5005a3",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "3fe0e15e-5e20-418e-adcd-b160a41143a0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:43.708529",
+            "webstore_last_updated": null,
+            "id": "d0a11a74-a142-472a-babc-8a1c9dd17d27",
+            "size": "433",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "License polygons (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "currentlicenses.zip",
+            "created": "2014-03-10T17:58:57.381380",
+            "url": "http://maps.nemaug.org/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Acurrentlicenses&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T00:46:20.678353",
+            "position": 1,
+            "revision_id": "a452c6c6-d77e-400b-99a2-314c52cd1848",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3fe0e15e-5e20-418e-adcd-b160a41143a0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:43.708529",
+            "webstore_last_updated": null,
+            "id": "9d362bcf-d2e6-499e-9934-8b543ce2dc8e",
+            "size": "433",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "License polygons (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "currentlicenses.gml",
+            "created": "2014-03-10T17:58:57.381384",
+            "url": "http://maps.nemaug.org/geoserver/wfs?typename=geonode%3Acurrentlicenses&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T00:46:18.743550",
+            "position": 2,
+            "revision_id": "a452c6c6-d77e-400b-99a2-314c52cd1848",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3fe0e15e-5e20-418e-adcd-b160a41143a0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:43.708529",
+            "webstore_last_updated": null,
+            "id": "93235829-33a0-484f-ab5a-ff8afdc57b72",
+            "size": "433",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "License polygons (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "currentlicenses.gml",
+            "created": "2014-03-10T17:58:57.381388",
+            "url": "http://maps.nemaug.org/geoserver/wfs?typename=geonode%3Acurrentlicenses&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T00:46:25.122905",
+            "position": 3,
+            "revision_id": "a452c6c6-d77e-400b-99a2-314c52cd1848",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3fe0e15e-5e20-418e-adcd-b160a41143a0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:43.708529",
+            "webstore_last_updated": null,
+            "id": "e36b4cee-e136-4842-9da5-423f27b100ad",
+            "size": "433",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "License polygons (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "currentlicenses.csv",
+            "created": "2014-03-10T17:58:57.381392",
+            "url": "http://maps.nemaug.org/geoserver/wfs?typename=geonode%3Acurrentlicenses&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T00:46:13.875362",
+            "position": 4,
+            "revision_id": "a452c6c6-d77e-400b-99a2-314c52cd1848",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3fe0e15e-5e20-418e-adcd-b160a41143a0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:43.708529",
+            "webstore_last_updated": null,
+            "id": "55cd41d5-0922-4111-ab84-b4e71467c644",
+            "size": "433",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "License polygons (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "currentlicenses.excel",
+            "created": "2014-03-10T17:58:57.381395",
+            "url": "http://maps.nemaug.org/geoserver/wfs?typename=geonode%3Acurrentlicenses&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T00:46:17.606346",
+            "position": 5,
+            "revision_id": "a452c6c6-d77e-400b-99a2-314c52cd1848",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3fe0e15e-5e20-418e-adcd-b160a41143a0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:43.708529",
+            "webstore_last_updated": null,
+            "id": "fb274dc0-fe4c-48a9-ad99-cace0af26ccc",
+            "size": "433",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "License polygons (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "currentlicenses.json",
+            "created": "2014-03-10T17:58:57.381399",
+            "url": "http://maps.nemaug.org/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Acurrentlicenses&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T00:46:16.481043",
+            "position": 6,
+            "revision_id": "a452c6c6-d77e-400b-99a2-314c52cd1848",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3fe0e15e-5e20-418e-adcd-b160a41143a0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:43.708529",
+            "webstore_last_updated": null,
+            "id": "6717491c-ccc7-44dd-8b0e-6e9e53ff97d4",
+            "size": "447",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "License polygons (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "currentlicenses.kml",
+            "created": "2014-03-10T17:58:57.381402",
+            "url": "http://maps.nemaug.org/geoserver/wms/kml?layers=geonode%3Acurrentlicenses&mode=download",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T00:46:24.007416",
+            "position": 7,
+            "revision_id": "a452c6c6-d77e-400b-99a2-314c52cd1848",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3fe0e15e-5e20-418e-adcd-b160a41143a0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:43.708529",
+            "webstore_last_updated": null,
+            "id": "e338d4f8-a69e-4e29-bed5-30057e3b7898",
+            "size": "447",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "License polygons (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "currentlicenses.kml",
+            "created": "2014-03-10T17:58:57.381406",
+            "url": "http://maps.nemaug.org/geoserver/wms/kml?layers=geonode%3Acurrentlicenses&mode=refresh",
+            "webstore_url": null,
+            "last_modified": "2014-03-10T18:14:31.044427",
+            "position": 8,
+            "revision_id": "a452c6c6-d77e-400b-99a2-314c52cd1848",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3fe0e15e-5e20-418e-adcd-b160a41143a0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:28:15.766039",
+            "webstore_last_updated": null,
+            "id": "efc1134a-39bb-4f43-81aa-42a58773f57b",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "License polygons (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "currentlicenses.tiles",
+            "created": "2014-03-10T17:58:57.381409",
+            "url": "http://maps.nemaug.org/geoserver/gwc/service/gmaps?layers=geonode:currentlicenses&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 9,
+            "revision_id": "e80102f7-9fdb-4c55-a567-d19a4a5005a3",
+            "resource_type": null
+        },
+        {
+            "resource_group_id": "3fe0e15e-5e20-418e-adcd-b160a41143a0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:43.708529",
+            "webstore_last_updated": null,
+            "id": "c1557493-53b9-4ede-b67f-9e0dd30633d2",
+            "size": "447",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "License polygons (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "currentlicenses.jpg",
+            "created": "2014-03-10T17:58:57.381413",
+            "url": "http://maps.nemaug.org/geoserver/wms?layers=geonode%3Acurrentlicenses&width=352&bbox=29.640854864149187%2C-0.6676800748075133%2C31.834292619265273%2C2.7509736612385893&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T00:46:19.741052",
+            "position": 10,
+            "revision_id": "a452c6c6-d77e-400b-99a2-314c52cd1848",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3fe0e15e-5e20-418e-adcd-b160a41143a0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:43.708529",
+            "webstore_last_updated": null,
+            "id": "0dda1f86-319e-4b8c-a2cf-af5804625f77",
+            "size": "447",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "License polygons (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "currentlicenses.pdf",
+            "created": "2014-03-10T17:58:57.381416",
+            "url": "http://maps.nemaug.org/geoserver/wms?layers=geonode%3Acurrentlicenses&width=352&bbox=29.640854864149187%2C-0.6676800748075133%2C31.834292619265273%2C2.7509736612385893&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T00:46:15.546881",
+            "position": 11,
+            "revision_id": "a452c6c6-d77e-400b-99a2-314c52cd1848",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "3fe0e15e-5e20-418e-adcd-b160a41143a0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:49:43.708529",
+            "webstore_last_updated": null,
+            "id": "2c91e47d-80b4-485c-9697-6c883e4636e6",
+            "size": "447",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "License polygons (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "currentlicenses.png",
+            "created": "2014-03-10T17:58:57.381420",
+            "url": "http://maps.nemaug.org/geoserver/wms?layers=geonode%3Acurrentlicenses&width=352&bbox=29.640854864149187%2C-0.6676800748075133%2C31.834292619265273%2C2.7509736612385893&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-05T00:46:22.976089",
+            "position": 12,
+            "revision_id": "a452c6c6-d77e-400b-99a2-314c52cd1848",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Geological",
+            "name": "Geological",
+            "revision_timestamp": "2014-11-04T22:28:15.766039",
+            "state": "active",
+            "id": "5379328b-eb6a-4735-a2ee-33db54f98602"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Mineral Resources",
+            "name": "Mineral Resources",
+            "revision_timestamp": "2014-11-04T22:28:15.766039",
+            "state": "active",
+            "id": "bebd986d-6fdc-4805-bc09-7f8180e8906c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Physical",
+            "name": "Physical",
+            "revision_timestamp": "2014-11-04T22:28:15.766039",
+            "state": "active",
+            "id": "22708169-ba07-4e7c-a53f-f676ce36b428"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:28:15.766039",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:28:15.766039",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:28:15.766039",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:28:15.766039",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:28:15.766039",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:28:15.766039",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:28:15.766039",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 10,
+    "name": "license-polygons",
+    "isopen": false,
+    "url": null,
+    "notes": "License areas in the Albertine Graben as at October 2012. These include both Exploration and production licenses areas.",
+    "title": "License polygons",
+    "extras": [
+        {
+            "value": "[\"Not provided.\"]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "e80102f7-9fdb-4c55-a567-d19a4a5005a3",
+                "package_id": "8ae47c38-fb87-4d2e-ae97-df056c195511"
+            }
+        },
+        {
+            "value": "31.8342926193",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "e80102f7-9fdb-4c55-a567-d19a4a5005a3",
+                "package_id": "8ae47c38-fb87-4d2e-ae97-df056c195511"
+            }
+        },
+        {
+            "value": "2.7509736612",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "8ae47c38-fb87-4d2e-ae97-df056c195511",
+                "revision_id": "e80102f7-9fdb-4c55-a567-d19a4a5005a3"
+            }
+        },
+        {
+            "value": "-0.6676800748",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "e80102f7-9fdb-4c55-a567-d19a4a5005a3",
+                "package_id": "8ae47c38-fb87-4d2e-ae97-df056c195511"
+            }
+        },
+        {
+            "value": "29.6408548641",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "e80102f7-9fdb-4c55-a567-d19a4a5005a3",
+                "package_id": "8ae47c38-fb87-4d2e-ae97-df056c195511"
+            }
+        },
+        {
+            "value": "ketty@mountbatten.net",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "8ae47c38-fb87-4d2e-ae97-df056c195511",
+                "revision_id": "e80102f7-9fdb-4c55-a567-d19a4a5005a3"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "8ae47c38-fb87-4d2e-ae97-df056c195511",
+                "revision_id": "e80102f7-9fdb-4c55-a567-d19a4a5005a3"
+            }
+        },
+        {
+            "value": "[{\"type\": \"creation\", \"value\": \"2011-03-01T00:00:00Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "8ae47c38-fb87-4d2e-ae97-df056c195511",
+                "revision_id": "e80102f7-9fdb-4c55-a567-d19a4a5005a3"
+            }
+        },
+        {
+            "value": "unknown",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "8ae47c38-fb87-4d2e-ae97-df056c195511",
+                "revision_id": "e80102f7-9fdb-4c55-a567-d19a4a5005a3"
+            }
+        },
+        {
+            "value": "Thumbnail for 'License polygons'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "8ae47c38-fb87-4d2e-ae97-df056c195511",
+                "revision_id": "e80102f7-9fdb-4c55-a567-d19a4a5005a3"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "8ae47c38-fb87-4d2e-ae97-df056c195511",
+                "revision_id": "e80102f7-9fdb-4c55-a567-d19a4a5005a3"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "e80102f7-9fdb-4c55-a567-d19a4a5005a3",
+                "package_id": "8ae47c38-fb87-4d2e-ae97-df056c195511"
+            }
+        },
+        {
+            "value": "6de3ee1c-989e-11e3-9480-22000a1cecb5",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "e80102f7-9fdb-4c55-a567-d19a4a5005a3",
+                "package_id": "8ae47c38-fb87-4d2e-ae97-df056c195511"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "e80102f7-9fdb-4c55-a567-d19a4a5005a3",
+                "package_id": "8ae47c38-fb87-4d2e-ae97-df056c195511"
+            }
+        },
+        {
+            "value": "2011-03-01T00:00:00Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "8ae47c38-fb87-4d2e-ae97-df056c195511",
+                "revision_id": "e80102f7-9fdb-4c55-a567-d19a4a5005a3"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "e80102f7-9fdb-4c55-a567-d19a4a5005a3",
+                "package_id": "8ae47c38-fb87-4d2e-ae97-df056c195511"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "8ae47c38-fb87-4d2e-ae97-df056c195511",
+                "revision_id": "e80102f7-9fdb-4c55-a567-d19a4a5005a3"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "8ae47c38-fb87-4d2e-ae97-df056c195511",
+                "revision_id": "e80102f7-9fdb-4c55-a567-d19a4a5005a3"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "8ae47c38-fb87-4d2e-ae97-df056c195511",
+                "revision_id": "e80102f7-9fdb-4c55-a567-d19a4a5005a3"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.6408548641, -0.6676800748], [31.8342926193, -0.6676800748], [31.8342926193, 2.7509736612], [29.6408548641, 2.7509736612], [29.6408548641, -0.6676800748]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "e80102f7-9fdb-4c55-a567-d19a4a5005a3",
+                "package_id": "8ae47c38-fb87-4d2e-ae97-df056c195511"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "8ae47c38-fb87-4d2e-ae97-df056c195511",
+                "revision_id": "e80102f7-9fdb-4c55-a567-d19a4a5005a3"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "e80102f7-9fdb-4c55-a567-d19a4a5005a3",
+                "package_id": "8ae47c38-fb87-4d2e-ae97-df056c195511"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "e80102f7-9fdb-4c55-a567-d19a4a5005a3",
+                "package_id": "8ae47c38-fb87-4d2e-ae97-df056c195511"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "e80102f7-9fdb-4c55-a567-d19a4a5005a3"
+}

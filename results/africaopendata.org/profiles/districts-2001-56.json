@@ -1,0 +1,512 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:23:27.862797",
+    "id": "00728796-7563-41c1-ae2f-21a50f02e5f6",
+    "metadata_created": "2014-11-04T22:23:27.862797",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:47:19.567702",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "ca25b344-5874-4119-a1f6-ffabdf5cc634",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:48:11.981611",
+            "webstore_last_updated": null,
+            "id": "7de46604-f4a7-48d7-8638-f5cd72d97871",
+            "size": "39721",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "61d762db4cf516bbcbf8823820b36f95550592bd",
+            "description": "Online link to the 'Districts 2001 56 ' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:51:46.751384",
+            "url": "http://maps.data.ug/layers/geonode:districts_2001_56_web_wgs84",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:48:11.836439",
+            "position": 0,
+            "revision_id": "b0f74997-b385-43c1-ad52-22fb95780b59",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "ca25b344-5874-4119-a1f6-ffabdf5cc634",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:48:09.354550",
+            "webstore_last_updated": null,
+            "id": "898eb17b-c7ad-44c2-9af8-87a32947c19a",
+            "size": "45501",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Districts 2001 56  (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "districts_2001_56_web_wgs84.jpg",
+            "created": "2014-03-12T14:51:46.751402",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Adistricts_2001_56_web_wgs84&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:48:09.208253",
+            "position": 1,
+            "revision_id": "0cfc969e-3da9-453d-97a6-d28e8f0f11d2",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "ca25b344-5874-4119-a1f6-ffabdf5cc634",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:23:27.862797",
+            "webstore_last_updated": null,
+            "id": "9983f346-316a-4b89-bf91-6c2b0d0e26b2",
+            "size": "36802",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Districts 2001 56  (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "districts_2001_56_web_wgs84.pdf",
+            "created": "2014-03-12T14:51:46.751406",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Adistricts_2001_56_web_wgs84&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:57:18.005055",
+            "position": 2,
+            "revision_id": "ae52efd7-7b06-45fe-875b-8286490a2f62",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "ca25b344-5874-4119-a1f6-ffabdf5cc634",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:48:13.542266",
+            "webstore_last_updated": null,
+            "id": "3b2e32bf-9f4d-4d17-b7ee-ce4236734216",
+            "size": "46938",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Districts 2001 56  (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "districts_2001_56_web_wgs84.png",
+            "created": "2014-03-12T14:51:46.751410",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Adistricts_2001_56_web_wgs84&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:48:13.378966",
+            "position": 3,
+            "revision_id": "0755de4b-7ba4-4ad2-9f0b-61e6eb1a054e",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "ca25b344-5874-4119-a1f6-ffabdf5cc634",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:47:19.567702",
+            "webstore_last_updated": null,
+            "id": "83bdc008-4950-4f91-a72d-4d09d2a25d89",
+            "size": "117931",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Districts 2001 56  (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "districts_2001_56_web_wgs84.zip",
+            "created": "2014-03-12T14:51:46.751414",
+            "url": "http://maps.data.ug/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Adistricts_2001_56_web_wgs84&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:57:18.624619",
+            "position": 4,
+            "revision_id": "24215dcd-c563-422c-9ef1-22ab35af0b02",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "ca25b344-5874-4119-a1f6-ffabdf5cc634",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:48:15.251713",
+            "webstore_last_updated": null,
+            "id": "2627f3cd-cd9a-4671-93ba-c08b480a2899",
+            "size": "234336",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Districts 2001 56  (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "districts_2001_56_web_wgs84.gml",
+            "created": "2014-03-12T14:51:46.751417",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Adistricts_2001_56_web_wgs84&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T22:48:15.119791",
+            "position": 5,
+            "revision_id": "83830814-562a-46fa-a7a8-74d4d89da03f",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "ca25b344-5874-4119-a1f6-ffabdf5cc634",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:23:27.862797",
+            "webstore_last_updated": null,
+            "id": "0c4c7067-79f9-47d0-94e6-893e67e5fe01",
+            "size": "351172",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Districts 2001 56  (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "districts_2001_56_web_wgs84.json",
+            "created": "2014-03-12T14:51:46.751432",
+            "url": "http://maps.data.ug/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Adistricts_2001_56_web_wgs84&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:57:19.437283",
+            "position": 6,
+            "revision_id": "ae52efd7-7b06-45fe-875b-8286490a2f62",
+            "resource_type": null,
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 7,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Uganda",
+            "name": "Uganda",
+            "revision_timestamp": "2014-11-04T22:23:27.862797",
+            "state": "active",
+            "id": "269881c8-e249-4d0d-9fdd-f2794b373468"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "administrative",
+            "name": "administrative",
+            "revision_timestamp": "2014-11-04T22:23:27.862797",
+            "state": "active",
+            "id": "55d71fe3-7ffa-4f97-aca8-2ef38ae4c096"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:23:27.862797",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:23:27.862797",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "districts",
+            "name": "districts",
+            "revision_timestamp": "2014-11-04T22:23:27.862797",
+            "state": "active",
+            "id": "d6ea4347-3595-4895-a75d-bf0fb7c8092c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:23:27.862797",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:23:27.862797",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:23:27.862797",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:23:27.862797",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 1,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 9,
+    "name": "districts-2001-56",
+    "isopen": false,
+    "url": null,
+    "notes": "Districts for the year 2001, 56 in total",
+    "title": "Districts 2001 56",
+    "extras": [
+        {
+            "value": "[]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "ae52efd7-7b06-45fe-875b-8286490a2f62",
+                "package_id": "00728796-7563-41c1-ae2f-21a50f02e5f6"
+            }
+        },
+        {
+            "value": "35.0017411394",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "ae52efd7-7b06-45fe-875b-8286490a2f62",
+                "package_id": "00728796-7563-41c1-ae2f-21a50f02e5f6"
+            }
+        },
+        {
+            "value": "4.2310114174",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "revision_id": "ae52efd7-7b06-45fe-875b-8286490a2f62",
+                "package_id": "00728796-7563-41c1-ae2f-21a50f02e5f6"
+            }
+        },
+        {
+            "value": "-1.4817440179",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "package_id": "00728796-7563-41c1-ae2f-21a50f02e5f6",
+                "revision_id": "ae52efd7-7b06-45fe-875b-8286490a2f62"
+            }
+        },
+        {
+            "value": "29.5741674481",
+            "key": "bbox-west-long",
+            "__extras": {
+                "package_id": "00728796-7563-41c1-ae2f-21a50f02e5f6",
+                "revision_id": "ae52efd7-7b06-45fe-875b-8286490a2f62"
+            }
+        },
+        {
+            "value": "",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "00728796-7563-41c1-ae2f-21a50f02e5f6",
+                "revision_id": "ae52efd7-7b06-45fe-875b-8286490a2f62"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "revision_id": "ae52efd7-7b06-45fe-875b-8286490a2f62",
+                "package_id": "00728796-7563-41c1-ae2f-21a50f02e5f6"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-02-20T13:44:47Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "00728796-7563-41c1-ae2f-21a50f02e5f6",
+                "revision_id": "ae52efd7-7b06-45fe-875b-8286490a2f62"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "revision_id": "ae52efd7-7b06-45fe-875b-8286490a2f62",
+                "package_id": "00728796-7563-41c1-ae2f-21a50f02e5f6"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Districts 2001 56 '",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "00728796-7563-41c1-ae2f-21a50f02e5f6",
+                "revision_id": "ae52efd7-7b06-45fe-875b-8286490a2f62"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "00728796-7563-41c1-ae2f-21a50f02e5f6",
+                "revision_id": "ae52efd7-7b06-45fe-875b-8286490a2f62"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "ae52efd7-7b06-45fe-875b-8286490a2f62",
+                "package_id": "00728796-7563-41c1-ae2f-21a50f02e5f6"
+            }
+        },
+        {
+            "value": "7415911c-9a67-11e3-b50b-9b423b932199",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "ae52efd7-7b06-45fe-875b-8286490a2f62",
+                "package_id": "00728796-7563-41c1-ae2f-21a50f02e5f6"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "package_id": "00728796-7563-41c1-ae2f-21a50f02e5f6",
+                "revision_id": "ae52efd7-7b06-45fe-875b-8286490a2f62"
+            }
+        },
+        {
+            "value": "2014-02-20T13:44:47Z",
+            "key": "metadata-date",
+            "__extras": {
+                "revision_id": "ae52efd7-7b06-45fe-875b-8286490a2f62",
+                "package_id": "00728796-7563-41c1-ae2f-21a50f02e5f6"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "ae52efd7-7b06-45fe-875b-8286490a2f62",
+                "package_id": "00728796-7563-41c1-ae2f-21a50f02e5f6"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "00728796-7563-41c1-ae2f-21a50f02e5f6",
+                "revision_id": "ae52efd7-7b06-45fe-875b-8286490a2f62"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "revision_id": "ae52efd7-7b06-45fe-875b-8286490a2f62",
+                "package_id": "00728796-7563-41c1-ae2f-21a50f02e5f6"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "revision_id": "ae52efd7-7b06-45fe-875b-8286490a2f62",
+                "package_id": "00728796-7563-41c1-ae2f-21a50f02e5f6"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.5741674481, -1.4817440179], [35.0017411394, -1.4817440179], [35.0017411394, 4.2310114174], [29.5741674481, 4.2310114174], [29.5741674481, -1.4817440179]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "ae52efd7-7b06-45fe-875b-8286490a2f62",
+                "package_id": "00728796-7563-41c1-ae2f-21a50f02e5f6"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "00728796-7563-41c1-ae2f-21a50f02e5f6",
+                "revision_id": "ae52efd7-7b06-45fe-875b-8286490a2f62"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "ae52efd7-7b06-45fe-875b-8286490a2f62",
+                "package_id": "00728796-7563-41c1-ae2f-21a50f02e5f6"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "package_id": "00728796-7563-41c1-ae2f-21a50f02e5f6",
+                "revision_id": "ae52efd7-7b06-45fe-875b-8286490a2f62"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "ae52efd7-7b06-45fe-875b-8286490a2f62"
+}

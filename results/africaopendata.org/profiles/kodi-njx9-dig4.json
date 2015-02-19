@@ -1,0 +1,138 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Chris Metcalf",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:39:56.242350",
+    "id": "050c263d-fcbb-4090-a1b3-d8b629e5b9d2",
+    "metadata_created": "2012-09-11T13:39:56.242350",
+    "owner_org": null,
+    "metadata_modified": "2013-03-14T08:24:49.027394",
+    "author": "Chris Metcalf",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "381a4452-144f-4db4-b121-965737565e6c",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-14T08:24:49.027394",
+            "webstore_last_updated": null,
+            "id": "c7b4cdee-0aa0-42ff-9f08-7f687515a2a7",
+            "size": "245587",
+            "state": "active",
+            "hash": "a093c8746d5716f51643d22b988db946f4b55161",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "School Attendance Data, By District.csv",
+            "created": "2012-09-11T13:39:56.302052",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T154241/njx9-dig4.csv",
+            "webstore_url": null,
+            "last_modified": "2013-03-14T08:24:48.334997",
+            "position": 0,
+            "revision_id": "d1d8ae82-de4b-4f5c-ad85-86e41bf99dd1",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "district",
+            "name": "district",
+            "revision_timestamp": "2012-09-11T13:39:56.242350",
+            "state": "active",
+            "id": "7cd19d3c-2632-4bf1-96f2-7991759d4b88"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "education",
+            "name": "education",
+            "revision_timestamp": "2012-09-11T13:39:56.242350",
+            "state": "active",
+            "id": "4bc98291-13cc-4baf-b090-52376fa3a429"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:39:56.242350",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:39:56.242350",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "school",
+            "name": "school",
+            "revision_timestamp": "2012-09-11T13:39:56.242350",
+            "state": "active",
+            "id": "fd63e38b-2c1e-4d80-ac0f-9c1b26a606a6"
+        }
+    ],
+    "tracking_summary": {
+        "total": 81,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "kodi-njx9-dig4",
+    "isopen": true,
+    "url": null,
+    "notes": "Source: Vol II Q 3 District",
+    "title": "School Attendance Data, By District",
+    "extras": [
+        {
+            "value": "Ministry of Education",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "a202781a-5d5d-4655-a268-4430fd4b1481",
+                "package_id": "050c263d-fcbb-4090-a1b3-d8b629e5b9d2"
+            }
+        },
+        {
+            "value": "Education",
+            "key": "category",
+            "__extras": {
+                "revision_id": "a202781a-5d5d-4655-a268-4430fd4b1481",
+                "package_id": "050c263d-fcbb-4090-a1b3-d8b629e5b9d2"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "a202781a-5d5d-4655-a268-4430fd4b1481",
+                "package_id": "050c263d-fcbb-4090-a1b3-d8b629e5b9d2"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "a202781a-5d5d-4655-a268-4430fd4b1481"
+}

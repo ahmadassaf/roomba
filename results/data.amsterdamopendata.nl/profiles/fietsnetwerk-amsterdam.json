@@ -1,0 +1,163 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Beheerder IVV",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "info@ivv.amsterdam.nl",
+    "revision_timestamp": "2013-06-26T09:41:48.427255",
+    "id": "302c91f2-e7b9-437d-87e6-2da8cc05e46b",
+    "metadata_created": "2013-05-16T11:35:06.305134",
+    "owner_org": null,
+    "metadata_modified": "2013-06-26T09:54:22.904024",
+    "author": "Dienst IVV",
+    "author_email": "info@ivv.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "a3be0172-f284-49b9-b30f-f23c0a73bff2",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-06-26T09:54:22.904024",
+            "webstore_last_updated": null,
+            "id": "c9c8e589-fe1f-4178-9cc8-7df101634890",
+            "size": "11878599",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "",
+            "format": "ZIP",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "GIS.zip",
+            "created": "2013-06-26T11:54:22.953267",
+            "url": "http://www.amsterdamopendata.nl/documents/10180/25212/GIS.zip",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "bdf23652-ff80-4d93-9d8e-1cd30327c44a",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "fiets",
+            "name": "fiets",
+            "revision_timestamp": "2013-05-16T11:35:06.305134",
+            "state": "active",
+            "id": "883fcb10-a2de-4740-b731-e0fb942a4c4c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "fietsnetwerk",
+            "name": "fietsnetwerk",
+            "revision_timestamp": "2013-05-16T11:35:06.305134",
+            "state": "active",
+            "id": "0175245e-95fc-4f8d-ac94-da4882720636"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "fietspaden",
+            "name": "fietspaden",
+            "revision_timestamp": "2013-05-16T11:35:06.305134",
+            "state": "active",
+            "id": "6907dfe3-eb1e-4498-9bcf-66ef1376f80b"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Verkeer & Infrastructuur",
+            "description": "",
+            "name": "verkeer-infrastructuur",
+            "id": "12502584-9d7d-4bdc-bf5f-df2b0d85f4f6"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "fietsnetwerk-amsterdam",
+    "isopen": false,
+    "url": null,
+    "notes": "DIVV heeft het fietsnetwerk in Amsterdam laten onderzoeken op verschillende kenmerken. Het fietsnetwerk bestaat uit verschillende niveaus: van fijnmazig naar grofmazig is dit; Hoofdnet Fiets, Regionaal fietsnetwerk en de Drukste fietsroutes.De oorsprong van de GIS-bestanden is data uit www.OpenStreetMap.nl Na de inventarisatie is het nieuw opgemaakte GIS bestand ook weer teruggeplaatst in OpenStreetMap.",
+    "title": "Fietsnetwerk Amsterdam",
+    "extras": [
+        {
+            "value": "info@ivv.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "302c91f2-e7b9-437d-87e6-2da8cc05e46b",
+                "revision_id": "24bb81c2-508d-46bb-bab5-dae5f29b5eb1"
+            }
+        },
+        {
+            "value": "Dienst IVV",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "24bb81c2-508d-46bb-bab5-dae5f29b5eb1",
+                "package_id": "302c91f2-e7b9-437d-87e6-2da8cc05e46b"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "24bb81c2-508d-46bb-bab5-dae5f29b5eb1",
+                "package_id": "302c91f2-e7b9-437d-87e6-2da8cc05e46b"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "24bb81c2-508d-46bb-bab5-dae5f29b5eb1",
+                "package_id": "302c91f2-e7b9-437d-87e6-2da8cc05e46b"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "302c91f2-e7b9-437d-87e6-2da8cc05e46b",
+                "revision_id": "24bb81c2-508d-46bb-bab5-dae5f29b5eb1"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "302c91f2-e7b9-437d-87e6-2da8cc05e46b",
+                "revision_id": "24bb81c2-508d-46bb-bab5-dae5f29b5eb1"
+            }
+        },
+        {
+            "value": "2 jaarlijks",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "bdf23652-ff80-4d93-9d8e-1cd30327c44a",
+                "package_id": "302c91f2-e7b9-437d-87e6-2da8cc05e46b"
+            }
+        },
+        {
+            "value": "http://www.amsterdam.nl/opendatadivv",
+            "key": "website",
+            "__extras": {
+                "package_id": "302c91f2-e7b9-437d-87e6-2da8cc05e46b",
+                "revision_id": "24bb81c2-508d-46bb-bab5-dae5f29b5eb1"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "37ee36cc-b08c-451c-a379-91b93593ba52"
+}

@@ -1,0 +1,82 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2013-11-05T14:15:45.416020",
+    "id": "b44c903b-8e25-41e6-8905-d1a76eeed829",
+    "metadata_created": "2013-10-25T07:45:58.339179",
+    "owner_org": null,
+    "metadata_modified": "2013-11-05T14:15:45.416020",
+    "author": "IEBC",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "b5677bbb-54c1-4ee8-a32c-7958ef4debf5",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-25T07:51:50.593979",
+            "webstore_last_updated": null,
+            "id": "e5709c96-b5b8-406d-937d-08d4b2150274",
+            "size": "378561",
+            "state": "active",
+            "hash": "0cb4db5378f76b574560fe3157fd7311906128ff",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 5,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Malawi Voter Registration Centers",
+            "created": "2013-10-25T07:51:43.756720",
+            "url": "http://africaopendata.org/storage/f/2013-10-25T07%3A50%3A01.448Z/gtv-malawi-2.csv",
+            "webstore_url": null,
+            "last_modified": "2013-10-25T07:51:50.524539",
+            "position": 0,
+            "revision_id": "67207ce6-df3a-415d-b449-fdb0fdccb047",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Malawi",
+            "name": "Malawi",
+            "revision_timestamp": "2013-10-25T07:45:58.339179",
+            "state": "active",
+            "id": "563d5267-b87a-4c04-b901-a841e71ea9a6"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Malawi Electoral Commission",
+            "name": "Malawi Electoral Commission",
+            "revision_timestamp": "2013-10-25T07:45:58.339179",
+            "state": "active",
+            "id": "ad958be3-595f-4dc8-ad1d-a0f1471f0f5f"
+        }
+    ],
+    "tracking_summary": {
+        "total": 112,
+        "recent": 2
+    },
+    "groups": [],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "malawi-voter-registration-centers",
+    "isopen": false,
+    "url": null,
+    "notes": "List of of voter registraiton centers by district, constituency and wards.",
+    "title": "Malawi Voter Registration Centers",
+    "extras": [],
+    "organization": null,
+    "revision_id": "9d7fba85-9a1f-48d2-a4c1-46a628658120"
+}

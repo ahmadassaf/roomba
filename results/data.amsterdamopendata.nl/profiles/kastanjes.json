@@ -1,0 +1,179 @@
+{
+    "license_title": "Other (Open)",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2014-05-12T15:43:56.098780",
+    "id": "319159c4-0016-4c9f-9886-7317ff1200a4",
+    "metadata_created": "2014-05-12T15:43:56.098780",
+    "owner_org": null,
+    "metadata_modified": "2014-05-12T15:43:56.098780",
+    "author": "Dienst Ruimtelijke Ordening (DRO)",
+    "author_email": "info@dro.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "other-open",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "64fb06ff-ab9e-47f9-a634-e45a79875056",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-05-12T15:43:56.098780",
+            "webstore_last_updated": null,
+            "id": "cb9cce94-242d-4ba2-8fe1-d77fdd3ea4ff",
+            "size": null,
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "KML, downloaden via maps.amsterdam.nl",
+            "format": "n/a",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://maps.amsterdam.nl/open_geodata/",
+            "created": "2014-05-12T17:43:56.158339",
+            "url": "http://maps.amsterdam.nl/open_geodata/",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "739f1a49-16cf-4301-9476-995fba63405b",
+            "resource_type": "file",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "aantasting",
+            "name": "aantasting",
+            "revision_timestamp": "2014-05-12T15:43:56.098780",
+            "state": "active",
+            "id": "ee6026f1-2a0f-437a-b1a5-7c3713bb7243"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "bomen",
+            "name": "bomen",
+            "revision_timestamp": "2014-05-12T15:43:56.098780",
+            "state": "active",
+            "id": "09b5f0ef-e224-42cd-923c-c5e594e56d44"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kastanje",
+            "name": "kastanje",
+            "revision_timestamp": "2014-05-12T15:43:56.098780",
+            "state": "active",
+            "id": "def3d225-0137-4fa0-a5c2-d91bfb88efba"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kastanjebloedingsziekte",
+            "name": "kastanjebloedingsziekte",
+            "revision_timestamp": "2014-05-12T15:43:56.098780",
+            "state": "active",
+            "id": "6890a28c-c5d3-4817-938a-36680c79b67b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kastanjebomen",
+            "name": "kastanjebomen",
+            "revision_timestamp": "2014-05-12T15:43:56.098780",
+            "state": "active",
+            "id": "30491af2-6893-4da3-887c-24d322e274a6"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Openbare ruimte & groen",
+            "description": "",
+            "name": "openbare-ruimte-groen",
+            "id": "5ef8ea8a-6f09-4d17-9e16-bb57bba25272"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 5,
+    "name": "kastanjes",
+    "isopen": true,
+    "url": null,
+    "notes": "Overzicht van kastanjebomen in Amsterdam, incl. inventarisatie van aantasting door de kastanjebloedingsziekte",
+    "title": "Kastanjes",
+    "extras": [
+        {
+            "value": "h.kaljee@dro.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "319159c4-0016-4c9f-9886-7317ff1200a4",
+                "revision_id": "739f1a49-16cf-4301-9476-995fba63405b"
+            }
+        },
+        {
+            "value": "Hans Kaljee",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "739f1a49-16cf-4301-9476-995fba63405b",
+                "package_id": "319159c4-0016-4c9f-9886-7317ff1200a4"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "739f1a49-16cf-4301-9476-995fba63405b",
+                "package_id": "319159c4-0016-4c9f-9886-7317ff1200a4"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "739f1a49-16cf-4301-9476-995fba63405b",
+                "package_id": "319159c4-0016-4c9f-9886-7317ff1200a4"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "319159c4-0016-4c9f-9886-7317ff1200a4",
+                "revision_id": "739f1a49-16cf-4301-9476-995fba63405b"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "319159c4-0016-4c9f-9886-7317ff1200a4",
+                "revision_id": "739f1a49-16cf-4301-9476-995fba63405b"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "739f1a49-16cf-4301-9476-995fba63405b",
+                "package_id": "319159c4-0016-4c9f-9886-7317ff1200a4"
+            }
+        },
+        {
+            "value": "http://maps.amsterdam.nl/kastanjes/",
+            "key": "website",
+            "__extras": {
+                "package_id": "319159c4-0016-4c9f-9886-7317ff1200a4",
+                "revision_id": "739f1a49-16cf-4301-9476-995fba63405b"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "739f1a49-16cf-4301-9476-995fba63405b"
+}

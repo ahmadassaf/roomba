@@ -1,0 +1,106 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "geekmate",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T12:02:25.786431",
+    "id": "a6b32325-ccd5-4100-8bfd-62ae4b24dfd2",
+    "metadata_created": "2012-09-10T12:02:25.786431",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:15:57.224853",
+    "author": "geekmate",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "8fd06535-fb9c-4d19-8648-3a0719fffe3e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:15:57.224853",
+            "webstore_last_updated": "2013-10-10T12:15:57.153810",
+            "id": "13445dc5-0046-4e93-acd2-3995614ce4a8",
+            "size": "5232",
+            "state": "active",
+            "hash": "ec93b199ed947a9d4b15e834d786df7d177aeee3",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Kenya Calandar.csv",
+            "created": "2012-09-11T13:34:03.800628",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T153648/idfg-7q5a.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:43:02.129577",
+            "position": 0,
+            "revision_id": "de1a9c8c-a117-498a-95cf-5cc0ea12830d",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T12:02:25.786431",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T12:02:25.786431",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 42,
+        "recent": 5
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 2,
+    "name": "kodi-idfg-7q5a",
+    "isopen": true,
+    "url": null,
+    "notes": null,
+    "title": "Kenya Calandar",
+    "extras": [
+        {
+            "value": "    Environment And Natural Resources",
+            "key": "category",
+            "__extras": {
+                "revision_id": "b834bdc7-d95e-4d5d-bf8d-e643227bf0a3",
+                "package_id": "a6b32325-ccd5-4100-8bfd-62ae4b24dfd2"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "b834bdc7-d95e-4d5d-bf8d-e643227bf0a3",
+                "package_id": "a6b32325-ccd5-4100-8bfd-62ae4b24dfd2"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "b834bdc7-d95e-4d5d-bf8d-e643227bf0a3"
+}

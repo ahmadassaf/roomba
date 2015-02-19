@@ -1,0 +1,667 @@
+{
+    "license_title": null,
+    "maintainer": null,
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2014-11-04T22:26:48.706976",
+    "id": "6638e520-1ddc-49ae-a809-cb3a8e04c17e",
+    "metadata_created": "2014-11-04T22:26:48.706976",
+    "owner_org": null,
+    "metadata_modified": "2014-12-02T22:48:59.499179",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": null,
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "173f2867-f2a5-43af-b4a3-9939721e5185",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:04:49.118422",
+            "webstore_last_updated": null,
+            "id": "13eababb-5c89-4ed0-80fe-06a0a04353b6",
+            "size": "42113",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "a5dce97f82aba391efba9a69b46dd5c591d02542",
+            "description": "Online link to the 'Built-Up Areas 2000' description on GeoNode",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:LINK-1.0-http--link",
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "Unnamed resource",
+            "created": "2014-03-12T14:51:32.864798",
+            "url": "http://maps.data.ug/layers/geonode:built_up_areas_2000",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:04:48.949347",
+            "position": 0,
+            "revision_id": "34d81bae-d1dd-4272-9ff2-989ff5a50a1b",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "173f2867-f2a5-43af-b4a3-9939721e5185",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:04:42.571100",
+            "webstore_last_updated": null,
+            "id": "5ad5b4a7-7e71-4b83-b639-c094ab09a0eb",
+            "size": "32829",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Built-Up Areas 2000 (JPEG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/jpeg",
+            "cache_url": null,
+            "name": "built_up_areas_2000.jpg",
+            "created": "2014-03-12T14:51:32.864834",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Abuilt_up_areas_2000&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:04:42.412999",
+            "position": 1,
+            "revision_id": "69d4d868-f3f1-4973-b127-2622dfb6f864",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "173f2867-f2a5-43af-b4a3-9939721e5185",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:04:44.263341",
+            "webstore_last_updated": null,
+            "id": "22d3fa7d-5439-455f-9072-55e5df26bd09",
+            "size": "32386",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Built-Up Areas 2000 (PDF Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/pdf",
+            "cache_url": null,
+            "name": "built_up_areas_2000.pdf",
+            "created": "2014-03-12T14:51:32.864838",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Abuilt_up_areas_2000&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=application%2Fpdf&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:04:43.965171",
+            "position": 2,
+            "revision_id": "46e794c0-e580-4728-a953-f0c0d17a45bc",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "173f2867-f2a5-43af-b4a3-9939721e5185",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:04:49.699912",
+            "webstore_last_updated": null,
+            "id": "7f73feff-38a3-446c-ab15-63dd99fbead0",
+            "size": "50282",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Built-Up Areas 2000 (PNG Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "image/png",
+            "cache_url": null,
+            "name": "built_up_areas_2000.png",
+            "created": "2014-03-12T14:51:32.864842",
+            "url": "http://maps.data.ug/geoserver/wms?layers=geonode%3Abuilt_up_areas_2000&width=522&bbox=29.5741674480582%2C-1.48174401785639%2C35.0017411394285%2C4.23101141736341&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:04:49.544406",
+            "position": 3,
+            "revision_id": "53cb4d72-a7d8-4b3b-ab69-c7a5f9bc7b3b",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "173f2867-f2a5-43af-b4a3-9939721e5185",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:04:40.721573",
+            "webstore_last_updated": null,
+            "id": "f7285d8c-b410-44cc-aa98-d4f0d485a4f2",
+            "size": "102126",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Built-Up Areas 2000 (Zipped Shapefile Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/zip",
+            "cache_url": null,
+            "name": "built_up_areas_2000.zip",
+            "created": "2014-03-12T14:51:32.864846",
+            "url": "http://maps.data.ug/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Abuilt_up_areas_2000&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:04:40.544640",
+            "position": 4,
+            "revision_id": "9c82bb6c-77aa-4005-8a14-3a711a77a2d9",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "173f2867-f2a5-43af-b4a3-9939721e5185",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:04:41.773964",
+            "webstore_last_updated": null,
+            "id": "a5fdabd3-feec-410f-b114-9535a8893a66",
+            "size": "218734",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Built-Up Areas 2000 (GML 2.0 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "built_up_areas_2000.gml",
+            "created": "2014-03-12T14:51:32.864849",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Abuilt_up_areas_2000&outputFormat=gml2&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:04:41.612788",
+            "position": 5,
+            "revision_id": "18c1a99f-32f8-47c5-a70b-5820cd5b50ff",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "173f2867-f2a5-43af-b4a3-9939721e5185",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:04:45.362479",
+            "webstore_last_updated": null,
+            "id": "51f8b701-d830-4266-8b0b-b1703dd23675",
+            "size": "323155",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Built-Up Areas 2000 (GML 3.1.1 Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/xml",
+            "cache_url": null,
+            "name": "built_up_areas_2000.gml",
+            "created": "2014-03-12T14:51:32.864853",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Abuilt_up_areas_2000&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:04:45.156146",
+            "position": 6,
+            "revision_id": "b5075679-8672-4e47-bd32-e71656e5b415",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "173f2867-f2a5-43af-b4a3-9939721e5185",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-12-02T22:48:59.499179",
+            "webstore_last_updated": "2014-11-04T23:04:47.693224",
+            "id": "d4a1525c-522a-465c-9be5-a5d849fb22a0",
+            "size": "296214",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Built-Up Areas 2000 (CSV Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "built_up_areas_2000.csv",
+            "created": "2014-03-12T14:51:32.864857",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Abuilt_up_areas_2000&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": "active",
+            "last_modified": "2014-03-12T14:55:19.251770",
+            "position": 7,
+            "revision_id": "91a3fc9b-e674-4287-8f16-0a6caf075250",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "173f2867-f2a5-43af-b4a3-9939721e5185",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:26:48.706976",
+            "webstore_last_updated": null,
+            "id": "04bc72f0-e797-4fad-ab9b-8df883092c55",
+            "size": "306176",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Built-Up Areas 2000 (Excel Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/msexcel",
+            "cache_url": null,
+            "name": "built_up_areas_2000.excel",
+            "created": "2014-03-12T14:51:32.864860",
+            "url": "http://maps.data.ug/geoserver/wfs?typename=geonode%3Abuilt_up_areas_2000&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS",
+            "webstore_url": null,
+            "last_modified": "2014-03-12T14:55:19.321898",
+            "position": 8,
+            "revision_id": "aea0ea2d-4be9-4438-a9a1-3c2ebb0a8f4e",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "173f2867-f2a5-43af-b4a3-9939721e5185",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:04:38.752054",
+            "webstore_last_updated": null,
+            "id": "64314d50-b417-46c7-b785-3ca67d7a2f54",
+            "size": "314285",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Built-Up Areas 2000 (GeoJSON Format)",
+            "format": "wfs",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "built_up_areas_2000.json",
+            "created": "2014-03-12T14:51:32.864864",
+            "url": "http://maps.data.ug/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Abuilt_up_areas_2000&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:04:38.606235",
+            "position": 9,
+            "revision_id": "fe3949de-cb28-4ba2-ac5d-8ee4547e738f",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "173f2867-f2a5-43af-b4a3-9939721e5185",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:04:38.005271",
+            "webstore_last_updated": null,
+            "id": "bf900986-78d2-4a38-94d3-8c8b44354a3c",
+            "size": "416675",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Built-Up Areas 2000 (KML Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "built_up_areas_2000.kml",
+            "created": "2014-03-12T14:51:32.864867",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Abuilt_up_areas_2000&mode=download",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:04:37.859514",
+            "position": 10,
+            "revision_id": "d1fbd8c7-4aea-4753-975d-558826e21e0d",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "173f2867-f2a5-43af-b4a3-9939721e5185",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T23:04:39.300296",
+            "webstore_last_updated": null,
+            "id": "6b370206-dcdc-40e8-aed5-68f8f898e575",
+            "size": "1854",
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Built-Up Areas 2000 (View in Google Earth Format)",
+            "format": "wms",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": "application/vnd.google-earth.kml+xml",
+            "cache_url": null,
+            "name": "built_up_areas_2000.kml",
+            "created": "2014-03-12T14:51:32.864871",
+            "url": "http://maps.data.ug/geoserver/wms/kml?layers=geonode%3Abuilt_up_areas_2000&mode=refresh",
+            "webstore_url": null,
+            "last_modified": "2014-11-04T23:04:39.151991",
+            "position": 11,
+            "revision_id": "6c8f0209-c5c6-40cb-974a-85246471bef5",
+            "resource_type": null,
+            "resource_reachable": true
+        },
+        {
+            "resource_group_id": "173f2867-f2a5-43af-b4a3-9939721e5185",
+            "cache_last_updated": null,
+            "revision_timestamp": "2014-11-04T22:26:48.706976",
+            "webstore_last_updated": null,
+            "id": "70b048e2-de58-4a88-9700-af2b12cbb489",
+            "size": null,
+            "state": "active",
+            "resource_locator_function": "",
+            "hash": "",
+            "description": "Built-Up Areas 2000 (Tiles Format)",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "resource_locator_protocol": "WWW:DOWNLOAD-1.0-http--download",
+            "mimetype": null,
+            "cache_url": null,
+            "name": "built_up_areas_2000.tiles",
+            "created": "2014-03-12T14:51:32.864875",
+            "url": "http://maps.data.ug/geoserver/gwc/service/gmaps?layers=geonode:built_up_areas_2000&zoom={z}&x={x}&y={y}&format=image/png8",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 12,
+            "revision_id": "aea0ea2d-4be9-4438-a9a1-3c2ebb0a8f4e",
+            "resource_type": null
+        }
+    ],
+    "num_resources": 13,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "africa",
+            "name": "africa",
+            "revision_timestamp": "2014-11-04T22:26:48.706976",
+            "state": "active",
+            "id": "d64e7b09-4344-478e-b93f-8c51e5c3110b"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "data-ug",
+            "name": "data-ug",
+            "revision_timestamp": "2014-11-04T22:26:48.706976",
+            "state": "active",
+            "id": "2d4ab88c-fa8f-404f-93c5-d8cd93a74c4e"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "east-africa",
+            "name": "east-africa",
+            "revision_timestamp": "2014-11-04T22:26:48.706976",
+            "state": "active",
+            "id": "d2f6f7f4-547a-4d95-a827-2202e726966c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "eastern-africa",
+            "name": "eastern-africa",
+            "revision_timestamp": "2014-11-04T22:26:48.706976",
+            "state": "active",
+            "id": "88a9e3a1-7dab-4382-849a-af465b0aac6c"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "open-data",
+            "name": "open-data",
+            "revision_timestamp": "2014-11-04T22:26:48.706976",
+            "state": "active",
+            "id": "6dedc6b6-f5b3-4ee8-84e8-eb1882137788"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "uganda",
+            "name": "uganda",
+            "revision_timestamp": "2014-11-04T22:26:48.706976",
+            "state": "active",
+            "id": "e86034dc-e207-4e96-a54a-95c096d4cea2"
+        }
+    ],
+    "tracking_summary": {
+        "total": 1,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Uganda",
+            "description": "This Group contains Data-sets from Uganda",
+            "name": "uganda",
+            "id": "ea5c35d5-4659-46ae-a2cd-f8b0b87d6d4e"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 6,
+    "name": "built-up-areas-2000",
+    "isopen": false,
+    "url": null,
+    "notes": "No abstract provided",
+    "title": "Built-Up Areas 2000",
+    "extras": [
+        {
+            "value": "[\"None\"]",
+            "key": "access_constraints",
+            "__extras": {
+                "revision_id": "aea0ea2d-4be9-4438-a9a1-3c2ebb0a8f4e",
+                "package_id": "6638e520-1ddc-49ae-a809-cb3a8e04c17e"
+            }
+        },
+        {
+            "value": "35.0017411394",
+            "key": "bbox-east-long",
+            "__extras": {
+                "revision_id": "aea0ea2d-4be9-4438-a9a1-3c2ebb0a8f4e",
+                "package_id": "6638e520-1ddc-49ae-a809-cb3a8e04c17e"
+            }
+        },
+        {
+            "value": "4.2310114174",
+            "key": "bbox-north-lat",
+            "__extras": {
+                "package_id": "6638e520-1ddc-49ae-a809-cb3a8e04c17e",
+                "revision_id": "aea0ea2d-4be9-4438-a9a1-3c2ebb0a8f4e"
+            }
+        },
+        {
+            "value": "-1.4817440179",
+            "key": "bbox-south-lat",
+            "__extras": {
+                "revision_id": "aea0ea2d-4be9-4438-a9a1-3c2ebb0a8f4e",
+                "package_id": "6638e520-1ddc-49ae-a809-cb3a8e04c17e"
+            }
+        },
+        {
+            "value": "29.5741674481",
+            "key": "bbox-west-long",
+            "__extras": {
+                "revision_id": "aea0ea2d-4be9-4438-a9a1-3c2ebb0a8f4e",
+                "package_id": "6638e520-1ddc-49ae-a809-cb3a8e04c17e"
+            }
+        },
+        {
+            "value": "katy@mountbatten.net",
+            "key": "contact-email",
+            "__extras": {
+                "package_id": "6638e520-1ddc-49ae-a809-cb3a8e04c17e",
+                "revision_id": "aea0ea2d-4be9-4438-a9a1-3c2ebb0a8f4e"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "coupled-resource",
+            "__extras": {
+                "package_id": "6638e520-1ddc-49ae-a809-cb3a8e04c17e",
+                "revision_id": "aea0ea2d-4be9-4438-a9a1-3c2ebb0a8f4e"
+            }
+        },
+        {
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-02-25T05:51:19Z\"}]",
+            "key": "dataset-reference-date",
+            "__extras": {
+                "package_id": "6638e520-1ddc-49ae-a809-cb3a8e04c17e",
+                "revision_id": "aea0ea2d-4be9-4438-a9a1-3c2ebb0a8f4e"
+            }
+        },
+        {
+            "value": "",
+            "key": "frequency-of-update",
+            "__extras": {
+                "package_id": "6638e520-1ddc-49ae-a809-cb3a8e04c17e",
+                "revision_id": "aea0ea2d-4be9-4438-a9a1-3c2ebb0a8f4e"
+            }
+        },
+        {
+            "value": "Thumbnail for 'Built-Up Areas 2000'",
+            "key": "graphic-preview-description",
+            "__extras": {
+                "package_id": "6638e520-1ddc-49ae-a809-cb3a8e04c17e",
+                "revision_id": "aea0ea2d-4be9-4438-a9a1-3c2ebb0a8f4e"
+            }
+        },
+        {
+            "value": "Thumbnail object",
+            "key": "graphic-preview-file",
+            "__extras": {
+                "package_id": "6638e520-1ddc-49ae-a809-cb3a8e04c17e",
+                "revision_id": "aea0ea2d-4be9-4438-a9a1-3c2ebb0a8f4e"
+            }
+        },
+        {
+            "value": "image/png",
+            "key": "graphic-preview-type",
+            "__extras": {
+                "revision_id": "aea0ea2d-4be9-4438-a9a1-3c2ebb0a8f4e",
+                "package_id": "6638e520-1ddc-49ae-a809-cb3a8e04c17e"
+            }
+        },
+        {
+            "value": "242ee662-9e13-11e3-9770-ab849cd0de74",
+            "key": "guid",
+            "__extras": {
+                "revision_id": "aea0ea2d-4be9-4438-a9a1-3c2ebb0a8f4e",
+                "package_id": "6638e520-1ddc-49ae-a809-cb3a8e04c17e"
+            }
+        },
+        {
+            "value": "[]",
+            "key": "licence",
+            "__extras": {
+                "revision_id": "aea0ea2d-4be9-4438-a9a1-3c2ebb0a8f4e",
+                "package_id": "6638e520-1ddc-49ae-a809-cb3a8e04c17e"
+            }
+        },
+        {
+            "value": "2014-02-25T05:51:19Z",
+            "key": "metadata-date",
+            "__extras": {
+                "package_id": "6638e520-1ddc-49ae-a809-cb3a8e04c17e",
+                "revision_id": "aea0ea2d-4be9-4438-a9a1-3c2ebb0a8f4e"
+            }
+        },
+        {
+            "value": "",
+            "key": "metadata-language",
+            "__extras": {
+                "revision_id": "aea0ea2d-4be9-4438-a9a1-3c2ebb0a8f4e",
+                "package_id": "6638e520-1ddc-49ae-a809-cb3a8e04c17e"
+            }
+        },
+        {
+            "value": "completed",
+            "key": "progress",
+            "__extras": {
+                "package_id": "6638e520-1ddc-49ae-a809-cb3a8e04c17e",
+                "revision_id": "aea0ea2d-4be9-4438-a9a1-3c2ebb0a8f4e"
+            }
+        },
+        {
+            "value": "dataset",
+            "key": "resource-type",
+            "__extras": {
+                "package_id": "6638e520-1ddc-49ae-a809-cb3a8e04c17e",
+                "revision_id": "aea0ea2d-4be9-4438-a9a1-3c2ebb0a8f4e"
+            }
+        },
+        {
+            "value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]",
+            "key": "responsible-party",
+            "__extras": {
+                "package_id": "6638e520-1ddc-49ae-a809-cb3a8e04c17e",
+                "revision_id": "aea0ea2d-4be9-4438-a9a1-3c2ebb0a8f4e"
+            }
+        },
+        {
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[29.5741674481, -1.4817440179], [35.0017411394, -1.4817440179], [35.0017411394, 4.2310114174], [29.5741674481, 4.2310114174], [29.5741674481, -1.4817440179]]]}",
+            "key": "spatial",
+            "__extras": {
+                "revision_id": "aea0ea2d-4be9-4438-a9a1-3c2ebb0a8f4e",
+                "package_id": "6638e520-1ddc-49ae-a809-cb3a8e04c17e"
+            }
+        },
+        {
+            "value": "",
+            "key": "spatial-data-service-type",
+            "__extras": {
+                "package_id": "6638e520-1ddc-49ae-a809-cb3a8e04c17e",
+                "revision_id": "aea0ea2d-4be9-4438-a9a1-3c2ebb0a8f4e"
+            }
+        },
+        {
+            "value": "4326",
+            "key": "spatial-reference-system",
+            "__extras": {
+                "revision_id": "aea0ea2d-4be9-4438-a9a1-3c2ebb0a8f4e",
+                "package_id": "6638e520-1ddc-49ae-a809-cb3a8e04c17e"
+            }
+        },
+        {
+            "value": "true",
+            "key": "spatial_harvester",
+            "__extras": {
+                "revision_id": "aea0ea2d-4be9-4438-a9a1-3c2ebb0a8f4e",
+                "package_id": "6638e520-1ddc-49ae-a809-cb3a8e04c17e"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "aea0ea2d-4be9-4438-a9a1-3c2ebb0a8f4e"
+}

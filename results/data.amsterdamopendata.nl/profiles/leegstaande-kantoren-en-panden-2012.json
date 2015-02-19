@@ -1,0 +1,163 @@
+{
+    "license_title": "License Not Specified",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2013-05-29T14:47:26.505679",
+    "id": "04cb0e51-cd70-410d-a06a-460a7d9bd9f0",
+    "metadata_created": "2013-05-15T10:24:46.970362",
+    "owner_org": null,
+    "metadata_modified": "2013-06-11T14:16:05.600174",
+    "author": "Ontwikkelbedrijf Gemeente Amsterdam",
+    "author_email": "p.oudeman@oga.amsterdam.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "notspecified",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "869debd5-a4e6-4f8b-a713-cd239c64d418",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-06-11T14:16:05.600174",
+            "webstore_last_updated": null,
+            "id": "947a51b8-f2cc-44a3-bc96-509246daf95b",
+            "size": "73728",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "Leegstande kantoren (XLS)",
+            "format": "XLS",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/vnd.ms-excel",
+            "cache_url": null,
+            "name": "bijgestelde_discussiekaart_omzetting_van_kantoren_januari_2012_amsterdam_diemen_ouderamstel_amstelveen.xls",
+            "created": "2013-06-11T16:16:05.628395",
+            "url": "http://www.amsterdamopendata.nl/documents/10180/24939/bijgestelde_discussiekaart_omzetting_van_kantoren_januari_2012_amsterdam_diemen_ouderamstel_amstelveen.xls",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "e01b70a2-2779-4d34-ace5-130445c9fc2e",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kantoren",
+            "name": "kantoren",
+            "revision_timestamp": "2013-05-15T10:24:46.970362",
+            "state": "active",
+            "id": "29b44482-2c77-46aa-9a56-5e21e39b5028"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "leegstaande",
+            "name": "leegstaande",
+            "revision_timestamp": "2013-05-15T10:24:46.970362",
+            "state": "active",
+            "id": "f64ebc57-fa5c-4c9b-a39e-5a161a9c74b7"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "leegstand",
+            "name": "leegstand",
+            "revision_timestamp": "2013-05-15T10:24:46.970362",
+            "state": "active",
+            "id": "5c891436-9372-4861-acff-d4bd6bf63860"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Economie & Haven",
+            "description": "",
+            "name": "economie-haven",
+            "id": "0436932a-66f0-480b-9c68-ef542dcc7a09"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "leegstaande-kantoren-en-panden-2012",
+    "isopen": false,
+    "url": null,
+    "notes": "Leegstaande kantoren, groter dan 1.000m2, groter dan 50 procent leegstand in Amsterdam, Diemen, Amstelveen en Ouder-Amstel.",
+    "title": "Leegstaande kantoren en panden 2012",
+    "extras": [
+        {
+            "value": "p.oudeman@oga.amsterdam.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "04cb0e51-cd70-410d-a06a-460a7d9bd9f0",
+                "revision_id": "93cac237-ad34-449e-97ef-804bd5eafaff"
+            }
+        },
+        {
+            "value": "Paul Oudeman",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "b10a3e15-6792-4c65-9710-cbe8a2776ed1",
+                "package_id": "04cb0e51-cd70-410d-a06a-460a7d9bd9f0"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "b10a3e15-6792-4c65-9710-cbe8a2776ed1",
+                "package_id": "04cb0e51-cd70-410d-a06a-460a7d9bd9f0"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "b10a3e15-6792-4c65-9710-cbe8a2776ed1",
+                "package_id": "04cb0e51-cd70-410d-a06a-460a7d9bd9f0"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "04cb0e51-cd70-410d-a06a-460a7d9bd9f0",
+                "revision_id": "b10a3e15-6792-4c65-9710-cbe8a2776ed1"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "04cb0e51-cd70-410d-a06a-460a7d9bd9f0",
+                "revision_id": "b10a3e15-6792-4c65-9710-cbe8a2776ed1"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "b10a3e15-6792-4c65-9710-cbe8a2776ed1",
+                "package_id": "04cb0e51-cd70-410d-a06a-460a7d9bd9f0"
+            }
+        },
+        {
+            "value": "http://www.oga.amsterdam.nl",
+            "key": "website",
+            "__extras": {
+                "package_id": "04cb0e51-cd70-410d-a06a-460a7d9bd9f0",
+                "revision_id": "b10a3e15-6792-4c65-9710-cbe8a2776ed1"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "93cac237-ad34-449e-97ef-804bd5eafaff"
+}

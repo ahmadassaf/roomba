@@ -1,0 +1,167 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Michael Bauer",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "michael.bauer@okfn.org",
+    "revision_timestamp": "2012-10-17T11:58:40.717385",
+    "id": "bcf88f89-ef7a-4823-b50a-46b9dfa5c57d",
+    "metadata_created": "2012-10-17T11:55:13.445579",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T11:50:44.439893",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "9a7aa3a7-4655-431d-b0a1-d43d0ad2a004",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T11:50:44.439893",
+            "webstore_last_updated": "2013-10-10T11:50:44.372875",
+            "id": "15630ac0-76e0-48c5-86ab-73c9e1f50183",
+            "size": "12740192",
+            "state": "active",
+            "hash": "2a39fd5aebe1c68744352cf5bc53d3613236868d",
+            "description": "Results from the CSEE In Tanzania 2011 ",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 8,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "CSEE Results Tanzania 2011",
+            "created": "2012-10-17T11:57:17.283067",
+            "url": "https://api.scraperwiki.com/api/1.0/datastore/sqlite?format=csv&name=certificate_of_secondary_education_examination_cse&query=select+*+from+`swdata`&apikey=",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:45:16.918618",
+            "position": 0,
+            "revision_id": "44fe334b-68dd-4ca3-b7a0-1e68494a8380",
+            "resource_type": "file"
+        },
+        {
+            "resource_group_id": "9a7aa3a7-4655-431d-b0a1-d43d0ad2a004",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-14T09:45:34.934579",
+            "webstore_last_updated": null,
+            "id": "e15333eb-b12c-4f38-8ae9-27a182386cf3",
+            "size": "1371325",
+            "state": "active",
+            "hash": "",
+            "description": "JSON of the CSEE results in Tanzania 2011",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "application/json",
+            "cache_url": null,
+            "name": "CSEE - Results Tanzania 2011",
+            "created": "2012-10-17T11:57:49.399744",
+            "url": "https://api.scraperwiki.com/api/1.0/datastore/sqlite?format=json&name=certificate_of_secondary_education_examination_cse&query=select+*+from+`swdata`&apikey=",
+            "webstore_url": null,
+            "last_modified": "2013-03-14T09:45:34.869631",
+            "position": 1,
+            "revision_id": "21d3e6d1-d8d2-4023-bd1a-15089bd4a81b",
+            "resource_type": "file"
+        },
+        {
+            "resource_group_id": "9a7aa3a7-4655-431d-b0a1-d43d0ad2a004",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-03-14T09:45:35.594035",
+            "webstore_last_updated": null,
+            "id": "5d9b92c8-7227-4c45-bf11-b93a2b7b80b0",
+            "size": "30333",
+            "state": "active",
+            "hash": "6c81fde9ef9f3b9292482336aebc73d3f48f32ef",
+            "description": "Standard Scraperwiki API",
+            "format": "",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "CSEE - Results API",
+            "created": "2012-10-17T11:58:12.022593",
+            "url": "https://scraperwiki.com/docs/api?name=certificate_of_secondary_education_examination_cse#sqlite",
+            "webstore_url": null,
+            "last_modified": "2013-03-14T09:45:35.528624",
+            "position": 2,
+            "revision_id": "365fe567-d28c-4479-be6b-83499f6e0113",
+            "resource_type": "file"
+        }
+    ],
+    "num_resources": 3,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "education",
+            "name": "education",
+            "revision_timestamp": "2012-10-17T11:55:13.445579",
+            "state": "active",
+            "id": "4bc98291-13cc-4baf-b090-52376fa3a429"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "secondary education",
+            "name": "secondary education",
+            "revision_timestamp": "2012-10-17T11:55:13.445579",
+            "state": "active",
+            "id": "6ed80541-cd81-4cc9-b43f-22f0f2804377"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "tanzania",
+            "name": "tanzania",
+            "revision_timestamp": "2012-10-17T11:55:13.445579",
+            "state": "active",
+            "id": "997a3ba2-c930-4949-85ea-feed429df6ce"
+        }
+    ],
+    "tracking_summary": {
+        "total": 91,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Tanzania",
+            "description": "Datasets from Tanzania",
+            "name": "tanzania",
+            "id": "6b341afd-2b71-430f-aa0e-dbf83720c079"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "csee-results-tanzania-2011",
+    "isopen": true,
+    "url": null,
+    "notes": "This is a set of Test Results from the CSEE in Tanzania 2011 Scraped from http://www.necta.go.tz",
+    "title": "CSEE-Results Tanzania 2011",
+    "extras": [
+        {
+            "value": "2012-10-17",
+            "key": "Obtained",
+            "__extras": {
+                "package_id": "bcf88f89-ef7a-4823-b50a-46b9dfa5c57d",
+                "revision_id": "ca44a6c2-00cf-4a60-9e82-5c7965b5fc38"
+            }
+        },
+        {
+            "value": "Scraperwiki",
+            "key": "Plattform",
+            "__extras": {
+                "revision_id": "ca44a6c2-00cf-4a60-9e82-5c7965b5fc38",
+                "package_id": "bcf88f89-ef7a-4823-b50a-46b9dfa5c57d"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "ca44a6c2-00cf-4a60-9e82-5c7965b5fc38"
+}

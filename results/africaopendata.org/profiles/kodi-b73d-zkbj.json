@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "Kenya Visualization Bot",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-10T12:54:08.196916",
+    "id": "75c92fba-e4e2-42ae-b25a-de1ad7446fc8",
+    "metadata_created": "2012-09-10T12:54:08.196916",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:12:20.259110",
+    "author": "Chris Metcalf",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "12a400a8-7b94-4cae-881e-30ae0b6d4375",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:12:20.259110",
+            "webstore_last_updated": "2013-10-10T12:12:20.190731",
+            "id": "3eb5bb35-b552-43bf-aa01-95b16a374475",
+            "size": "259",
+            "state": "active",
+            "hash": "3bef29a9bc2b218f42ddf8b02a9c5dbbcd912243",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "Nyandarua Age Pyramid.csv",
+            "created": "2012-09-11T13:39:17.514812",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T154202/b73d-zkbj.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:58:28.545440",
+            "position": 0,
+            "revision_id": "af5edc37-a4bf-4a4d-bf10-41b8203a1fe8",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-10T12:54:08.196916",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-10T12:54:08.196916",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "population",
+            "name": "population",
+            "revision_timestamp": "2012-09-10T12:54:08.196916",
+            "state": "active",
+            "id": "c5e39de5-556e-4bcb-883b-5b9ec2481ae9"
+        }
+    ],
+    "tracking_summary": {
+        "total": 32,
+        "recent": 3
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-b73d-zkbj",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "Male and female populations by age group.",
+    "title": "Nyandarua Age Pyramid",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "bdb87b5a-e86d-4d82-b7b8-8cf38583c6f6",
+                "package_id": "75c92fba-e4e2-42ae-b25a-de1ad7446fc8"
+            }
+        },
+        {
+            "value": "Population",
+            "key": "category",
+            "__extras": {
+                "revision_id": "bdb87b5a-e86d-4d82-b7b8-8cf38583c6f6",
+                "package_id": "75c92fba-e4e2-42ae-b25a-de1ad7446fc8"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "bdb87b5a-e86d-4d82-b7b8-8cf38583c6f6",
+                "package_id": "75c92fba-e4e2-42ae-b25a-de1ad7446fc8"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "bdb87b5a-e86d-4d82-b7b8-8cf38583c6f6"
+}

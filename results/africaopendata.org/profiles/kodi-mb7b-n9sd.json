@@ -1,0 +1,122 @@
+{
+    "license_title": "Other (Public Domain)",
+    "maintainer": "tlane@worldbank.org",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "revision_timestamp": "2012-09-11T13:47:12.359027",
+    "id": "5b7c9b75-504e-4f0e-8fb9-ec9f2e32ccda",
+    "metadata_created": "2012-09-11T13:47:12.359027",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T12:11:09.599088",
+    "author": "tlane@worldbank.org",
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "667f3209-5cc7-4718-ad1b-de152b66477e",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T12:11:09.599088",
+            "webstore_last_updated": "2013-10-10T12:11:09.526621",
+            "id": "4506fdce-8e21-411a-a281-de62ecae53df",
+            "size": "43082",
+            "state": "active",
+            "hash": "608da1597ce4758f62ec5ae2d9df4756c36d7ac1",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "2009 Census Volume II Table 9: Households by main mode of Human Waste Disposal.csv",
+            "created": "2012-09-11T13:47:12.408304",
+            "url": "http://africaopendata.org/storage/f/2012-09-11T154957/mb7b-n9sd.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:42:26.591556",
+            "position": 0,
+            "revision_id": "4ab0750a-2ad6-4fc6-9dd4-c4f3a643ddd9",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "kenya",
+            "name": "kenya",
+            "revision_timestamp": "2012-09-11T13:47:12.359027",
+            "state": "active",
+            "id": "3f582e66-8113-4a99-8d18-5647ab436eda"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "kodi",
+            "name": "kodi",
+            "revision_timestamp": "2012-09-11T13:47:12.359027",
+            "state": "active",
+            "id": "8c95d71f-854f-4c7a-8eda-6dfc008df9c1"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "water sanitation census district",
+            "name": "water sanitation census district",
+            "revision_timestamp": "2012-09-11T13:47:12.359027",
+            "state": "active",
+            "id": "52607a90-d82d-4fb6-bd6a-2f5b920cc044"
+        }
+    ],
+    "tracking_summary": {
+        "total": 36,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Kenya",
+            "description": "Datasets from Kenya",
+            "name": "kenya",
+            "id": "cdaf12d8-27b2-4cd4-9504-402a45012576"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "kodi-mb7b-n9sd",
+    "isopen": true,
+    "url": "http://www.knbs.or.ke",
+    "notes": "2009 Census Volume II Table 9: Households by main mode of Human Waste Disposal\r\n by district",
+    "title": "2009 Census Volume II Table 9: Households by main mode of Human Waste Disposal",
+    "extras": [
+        {
+            "value": "KNBS",
+            "key": "attribution",
+            "__extras": {
+                "revision_id": "956dba84-2169-43c3-ae50-afaedc029750",
+                "package_id": "5b7c9b75-504e-4f0e-8fb9-ec9f2e32ccda"
+            }
+        },
+        {
+            "value": "    Environment And Natural Resources",
+            "key": "category",
+            "__extras": {
+                "revision_id": "956dba84-2169-43c3-ae50-afaedc029750",
+                "package_id": "5b7c9b75-504e-4f0e-8fb9-ec9f2e32ccda"
+            }
+        },
+        {
+            "value": "This dataset has been automatically imported from the Kenya Open Data Portal",
+            "key": "comment",
+            "__extras": {
+                "revision_id": "956dba84-2169-43c3-ae50-afaedc029750",
+                "package_id": "5b7c9b75-504e-4f0e-8fb9-ec9f2e32ccda"
+            }
+        }
+    ],
+    "organization": null,
+    "revision_id": "956dba84-2169-43c3-ae50-afaedc029750"
+}

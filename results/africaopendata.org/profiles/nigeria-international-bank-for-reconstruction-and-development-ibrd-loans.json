@@ -1,0 +1,97 @@
+{
+    "license_title": "Other (Not Open)",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-11-06T20:33:46.849824",
+    "id": "d0b5dc68-e7cc-44f7-92e8-1205d1ce24f3",
+    "metadata_created": "2012-11-06T20:25:45.481911",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:56:37.306589",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "other-closed",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "53b17fc7-39b6-4060-8c4b-c4bec0b9489d",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:56:37.306589",
+            "webstore_last_updated": "2013-10-10T10:56:37.209393",
+            "id": "ad651e31-37cf-4368-ad36-b40a60f0902e",
+            "size": "213092",
+            "state": "active",
+            "hash": "68e5e5d4dcdfd13a3436cca328304ff791f0fb7d",
+            "description": "The International Bank for Reconstruction and Development (IBRD) loans are public and publicly guaranteed debt extended by the World Bank Group. IBRD loans are made to, or guaranteed by, countries that are members of IBRD. IBRD may also make loans to IFC. IBRD lends at market rates. Data are in U.S. dollars calculated using historical rates. This dataset contains the latest available snapshot of the Statement of Loans. The World Bank complies with all sanctions applicable to World Bank transactions.",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 6,
+                "recent": 1
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "IBRD_Loans_Nigeria.csv",
+            "created": "2012-11-06T20:33:41.030247",
+            "url": "http://africaopendata.org/storage/f/2012-11-06T20%3A26%3A09.656Z/ibrd-loans-nigeria.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T09:49:50.206382",
+            "position": 0,
+            "revision_id": "5cd58459-e457-4b66-bb92-ae0ff3117927",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "funding",
+            "name": "funding",
+            "revision_timestamp": "2012-11-06T20:25:45.481911",
+            "state": "active",
+            "id": "83359481-7dda-4664-8d3b-11ce39576ccf"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "loans",
+            "name": "loans",
+            "revision_timestamp": "2012-11-06T20:25:45.481911",
+            "state": "active",
+            "id": "ab029346-93af-48b5-b680-6fedfc8b0fb3"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "nigeria",
+            "name": "nigeria",
+            "revision_timestamp": "2012-11-06T20:25:45.481911",
+            "state": "active",
+            "id": "d5e39c15-faf7-4e35-96a0-cb88ec7becb1"
+        }
+    ],
+    "tracking_summary": {
+        "total": 134,
+        "recent": 2
+    },
+    "groups": [
+        {
+            "title": "Nigeria",
+            "description": "Datasets from the Republic of Nigeria",
+            "name": "nigeria",
+            "id": "6e482307-7e70-4db4-a3f2-91db4e2b90bc"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "nigeria-international-bank-for-reconstruction-and-development-ibrd-loans",
+    "isopen": false,
+    "url": null,
+    "notes": "The International Bank for Reconstruction and Development (IBRD) loans are public and publicly guaranteed debt extended by the World Bank Group. IBRD loans are made to, or guaranteed by, countries that are members of IBRD. IBRD may also make loans to IFC. IBRD lends at market rates. Data are in U.S. dollars calculated using historical rates. This dataset contains the latest available snapshot of the Statement of Loans. The World Bank complies with all sanctions applicable to World Bank transactions.",
+    "title": "Nigeria - International Bank for Reconstruction and Development (IBRD) loans",
+    "extras": [],
+    "organization": null,
+    "revision_id": "5b04961c-b98d-43c6-94a5-6f79a33837c7"
+}

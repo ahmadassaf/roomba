@@ -1,0 +1,108 @@
+{
+    "license_title": "Open Data Commons Attribution License 1.0",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "revision_timestamp": "2012-11-04T18:07:21.743288",
+    "id": "6de4f0d4-8b87-4c3f-8333-50c8f90ba472",
+    "metadata_created": "2012-11-04T18:07:03.298278",
+    "owner_org": null,
+    "metadata_modified": "2013-10-10T10:57:54.626340",
+    "author": "World Bank (finance.worldbank.org)",
+    "author_email": "",
+    "state": "active",
+    "version": null,
+    "license_id": "ODC-BY-1.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "67aebddb-8125-4fbc-a6d4-ee17d1381615",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-10-10T10:57:54.626340",
+            "webstore_last_updated": "2013-10-10T10:57:54.559178",
+            "id": "9f31d7b5-18b1-4fcf-a9a1-8284c30f676a",
+            "size": "18223",
+            "state": "active",
+            "hash": "4bde9dd563f2c570bfd27c9def2e98f8ee93e842",
+            "description": "",
+            "format": "CSV",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/csv",
+            "cache_url": null,
+            "name": "RETF_-_Africa_as_Beneficiary-Tanzania.csv",
+            "created": "2012-11-04T18:07:13.693304",
+            "url": "http://africaopendata.org/storage/f/2012-11-04T18%3A07%3A08.270Z/retf-africa-as-beneficiary-tanzania.csv",
+            "webstore_url": "active",
+            "last_modified": "2013-03-14T08:56:43.727366",
+            "position": 0,
+            "revision_id": "f4c411e8-97bb-4913-ac19-cf50a646f161",
+            "resource_type": "file.upload",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "Tanzania",
+            "name": "Tanzania",
+            "revision_timestamp": "2012-11-04T18:07:03.298278",
+            "state": "active",
+            "id": "11a6eb48-2c4d-4b6a-9e3b-ae75653a6dff"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "Trust Funds",
+            "name": "Trust Funds",
+            "revision_timestamp": "2012-11-04T18:07:03.298278",
+            "state": "active",
+            "id": "f284b6a5-a6fb-4bf2-ab20-7d376e25c5d6"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "World Bank",
+            "name": "World Bank",
+            "revision_timestamp": "2012-11-04T18:07:03.298278",
+            "state": "active",
+            "id": "ae91265e-0b5c-45a0-a96f-02cf356ec937"
+        }
+    ],
+    "tracking_summary": {
+        "total": 67,
+        "recent": 1
+    },
+    "groups": [
+        {
+            "title": "Tanzania",
+            "description": "Datasets from Tanzania",
+            "name": "tanzania",
+            "id": "6b341afd-2b71-430f-aa0e-dbf83720c079"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 3,
+    "name": "trust-fund-grants-committed-disbursed-tanzania",
+    "isopen": true,
+    "url": null,
+    "notes": "A Recipient-executed Grant is a Trust Fund Grant that is provided to a third party under a grant agreement, and for which the Bank plays an operational role - i.e., the Bank normally appraises and supervises activities financed by these funds. This dataset provides data on the amount of grant funds committed in the course of a fiscal year and payments made out of a Trust Fund account to eligible recipients, in accordance with the legal agreements. In fulfilling its responsibilities, the World Bank as Trustee complies with all sanctions applicable to World Bank transactions. Data is provided at the individual Trust Fund level. All definitions should be regarded at present as provisional and not final, and are subject to revision at any time.",
+    "title": "Trust Fund Grants Committed & Disbursed - Tanzania",
+    "extras": [],
+    "license_url": "http://www.opendefinition.org/licenses/odc-by",
+    "organization": null,
+    "revision_id": "fca1c8e1-82bf-4b0c-8afb-bd446485a6c8",
+    "license_information": {
+        "domain_content": false,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Open Data Commons",
+        "status": "active"
+    }
+}

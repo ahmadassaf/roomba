@@ -1,0 +1,182 @@
+{
+    "license_title": "Creative Commons Attribution 4.0",
+    "maintainer": "Jasper Soetendal",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "j.soetendal@braxwell.com",
+    "revision_timestamp": "2013-05-15T10:08:22.052601",
+    "id": "a96b7a70-e44e-4dca-8664-a67b357ad499",
+    "metadata_created": "2013-05-15T10:08:22.052601",
+    "owner_org": null,
+    "metadata_modified": "2013-05-15T10:08:22.052601",
+    "author": "Rijksmuseum",
+    "author_email": "api@rijksmuseum.nl",
+    "state": "active",
+    "version": "",
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+        {
+            "resource_group_id": "3f052644-abee-4de1-b65d-9447a8b1f1f0",
+            "cache_last_updated": null,
+            "revision_timestamp": "2013-05-15T10:08:22.052601",
+            "webstore_last_updated": null,
+            "id": "23640c48-2610-4416-b7ee-e51ce0760cfb",
+            "size": "32184",
+            "source": "None",
+            "state": "active",
+            "hash": "",
+            "description": "API",
+            "format": "url",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": "text/html",
+            "cache_url": null,
+            "name": "http://www.rijksmuseum.nl/api",
+            "created": "2013-05-15T12:08:22.128546",
+            "url": "http://www.rijksmuseum.nl/api",
+            "webstore_url": null,
+            "last_modified": null,
+            "position": 0,
+            "revision_id": "6a2153da-cc85-4476-8e6f-e7c1f6a64c21",
+            "resource_type": "api",
+            "resource_reachable": true
+        }
+    ],
+    "num_resources": 1,
+    "tags": [
+        {
+            "vocabulary_id": null,
+            "display_name": "API",
+            "name": "API",
+            "revision_timestamp": "2013-05-15T10:08:22.052601",
+            "state": "active",
+            "id": "9078a2ff-6a1e-4d92-a59b-3e077f9e3994"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "collectie",
+            "name": "collectie",
+            "revision_timestamp": "2013-05-15T10:08:22.052601",
+            "state": "active",
+            "id": "312a4c3b-b59d-4951-a4cf-cca69105ec5a"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "fotos\n",
+            "name": "fotos\n",
+            "revision_timestamp": "2013-05-15T10:08:22.052601",
+            "state": "active",
+            "id": "732da685-645d-4148-af5e-198484b792bf"
+        },
+        {
+            "vocabulary_id": null,
+            "display_name": "rijksmuseum",
+            "name": "rijksmuseum",
+            "revision_timestamp": "2013-05-15T10:08:22.052601",
+            "state": "active",
+            "id": "cdfbb598-68d4-47fa-a0d3-04de08ed310a"
+        }
+    ],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    },
+    "groups": [
+        {
+            "title": "Toerisme & cultuur",
+            "description": "",
+            "name": "toerisme-cultuur",
+            "id": "ea426321-bf88-499e-be18-d11d20001350"
+        }
+    ],
+    "relationships_as_subject": [],
+    "num_tags": 4,
+    "name": "rijksmuseum-api",
+    "isopen": true,
+    "url": null,
+    "notes": "Ontwikkelaars krijgen automatisch toegang tot de basiscollectie van het Rijksmuseum, ruim 100.000 objecten. Waaronder de Nachtwacht! Van alle objecten is digitaal beeldmateriaal beschikbaar. De datasets in de API komen uit het collectieregistratiesysteem van het Rijksmuseum. Alle informatie wordt dagelijks bijgewerkt en geüpdate. Als er nieuw of beter beeldmateriaal van objecten beschikbaar komt, dan wordt deze ook gelijk via de API beschikbaar gemaakt.\n",
+    "title": "Rijksmuseum API",
+    "extras": [
+        {
+            "value": "api@rijksmuseum.nl",
+            "key": "contact_email",
+            "__extras": {
+                "package_id": "a96b7a70-e44e-4dca-8664-a67b357ad499",
+                "revision_id": "6a2153da-cc85-4476-8e6f-e7c1f6a64c21"
+            }
+        },
+        {
+            "value": "Rijksmuseum",
+            "key": "contact_name",
+            "__extras": {
+                "revision_id": "6a2153da-cc85-4476-8e6f-e7c1f6a64c21",
+                "package_id": "a96b7a70-e44e-4dca-8664-a67b357ad499"
+            }
+        },
+        {
+            "value": "",
+            "key": "publication_date",
+            "__extras": {
+                "revision_id": "6a2153da-cc85-4476-8e6f-e7c1f6a64c21",
+                "package_id": "a96b7a70-e44e-4dca-8664-a67b357ad499"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_detail_level",
+            "__extras": {
+                "revision_id": "6a2153da-cc85-4476-8e6f-e7c1f6a64c21",
+                "package_id": "a96b7a70-e44e-4dca-8664-a67b357ad499"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_from",
+            "__extras": {
+                "package_id": "a96b7a70-e44e-4dca-8664-a67b357ad499",
+                "revision_id": "6a2153da-cc85-4476-8e6f-e7c1f6a64c21"
+            }
+        },
+        {
+            "value": "",
+            "key": "time_period_to",
+            "__extras": {
+                "package_id": "a96b7a70-e44e-4dca-8664-a67b357ad499",
+                "revision_id": "6a2153da-cc85-4476-8e6f-e7c1f6a64c21"
+            }
+        },
+        {
+            "value": "",
+            "key": "update_frequency",
+            "__extras": {
+                "revision_id": "6a2153da-cc85-4476-8e6f-e7c1f6a64c21",
+                "package_id": "a96b7a70-e44e-4dca-8664-a67b357ad499"
+            }
+        },
+        {
+            "value": "http://www.rijksmuseum.nl",
+            "key": "website",
+            "__extras": {
+                "package_id": "a96b7a70-e44e-4dca-8664-a67b357ad499",
+                "revision_id": "6a2153da-cc85-4476-8e6f-e7c1f6a64c21"
+            }
+        }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "organization": null,
+    "revision_id": "6a2153da-cc85-4476-8e6f-e7c1f6a64c21",
+    "license_information": {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "maintainer": "Creative Commons",
+        "status": "active"
+    }
+}
