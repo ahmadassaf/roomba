@@ -28,21 +28,23 @@ function ownershipProfiler(parent) {
 
 		function checkOrganization(callback) {
 			// Check if the groups object is defined and run the profiling process on its sub-components
-			if (_.has(root, "organization") && root.organization) {
+			if (_.has(root, "organization")) {
 
+				if (!root.organization) {
+					profileTemplate.addEntry("undefined", "organization", "organization field exists but there is no value defined");
+				} else {
+					// Loop through the meta keys and check if they are undefined or missing
+					_.each(organizationKeys, function(key, index) {
+						// give specific names for organization fields to differentiate them from general metadata keys
+						var entryKey = key == "is_organization" ? "is_organization" : "organization_" + key;
 
-				// Loop through the meta keys and check if they are undefined or missing
-				_.each(organizationKeys, function(key, index) {
-					// give specific names for organization fields to differentiate them from general metadata keys
-					var entryKey = key == "is_organization" ? "is_organization" : "organization_" + key;
-
-					if (_.has(root.organization, key)) {
-						if (_.isUndefined(root.organization[key]) || _.isNull(root.organization[key]) || ( _.isString(root.organization[key]) && root.organization[key].length == 0)) {
-							profileTemplate.addEntry("undefined", entryKey, entryKey + " field exists but there is no value defined");
-						}
-					} else profileTemplate.addEntry("missing", entryKey, entryKey + " field is missing");
-				});
-
+						if (_.has(root.organization, key)) {
+							if (_.isUndefined(root.organization[key]) || _.isNull(root.organization[key]) || ( _.isString(root.organization[key]) && root.organization[key].length == 0)) {
+								profileTemplate.addEntry("undefined", entryKey, entryKey + " field exists but there is no value defined");
+							}
+						} else profileTemplate.addEntry("missing", entryKey, entryKey + " field is missing");
+					});
+				}
 			} else profileTemplate.addEntry("missing", "organization", "organization information is missing");
 
 			callback();

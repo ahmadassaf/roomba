@@ -1,0 +1,491 @@
+{
+    "help": "Return the metadata of a dataset (package) and its resources.\n\n    :param id: the id or name of the dataset\n    :type id: string\n\n    :rtype: dictionary\n\n    ",
+    "success": true,
+    "result": {
+        "license_title": "Creative Commons Attribution Share-Alike",
+        "maintainer": "Raphael Troncy",
+        "relationships_as_object": [],
+        "private": false,
+        "maintainer_email": "raphael.troncy@eurecom.fr",
+        "revision_timestamp": "2013-10-10T20:53:22.610945",
+        "id": "480e0513-a7d3-4832-8e91-985bd9717238",
+        "metadata_created": "2010-09-08T20:36:21.251795",
+        "owner_org": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+        "metadata_modified": "2013-10-10T20:53:22.610945",
+        "author": "Raphael Troncy",
+        "author_email": "raphael.troncy@eurecom.fr",
+        "state": "active",
+        "version": "2010-09-01 (0.1)",
+        "license_id": "cc-by-sa",
+        "type": "dataset",
+        "resources": [
+            {
+                "mimetype": "",
+                "cache_url": "",
+                "mimetype_inner": "",
+                "hash": "",
+                "description": "LODE ontology",
+                "format": "meta/rdf-schema",
+                "url": "http://linkedevents.org/ontology/2010-10-07/rdfxml/",
+                "cache_last_updated": null,
+                "tracking_summary": {
+                    "total": 54,
+                    "recent": 8
+                },
+                "revision_timestamp": "2012-09-11T21:15:19.184494",
+                "webstore_url": "",
+                "resource_group_id": "80d6b1ff-4acb-d9bf-b2b4-f08146e88c45",
+                "state": "active",
+                "last_modified": null,
+                "webstore_last_updated": null,
+                "position": 0,
+                "revision_id": "0df7cf13-d6df-45dc-bfb1-3eacb152740c",
+                "size": null,
+                "id": "6dbad891-959d-44f9-8709-764313880c47",
+                "resource_type": "file",
+                "name": ""
+            },
+            {
+                "mimetype": "",
+                "cache_url": "",
+                "mimetype_inner": "",
+                "hash": "",
+                "description": "LODE ontology including vocab mappings",
+                "format": "mapping/owl",
+                "url": "http://linkedevents.org/ontology/2010-10-07/rdfxml/",
+                "cache_last_updated": null,
+                "tracking_summary": {
+                    "total": 54,
+                    "recent": 8
+                },
+                "revision_timestamp": "2012-09-11T21:15:19.184494",
+                "webstore_url": "",
+                "resource_group_id": "80d6b1ff-4acb-d9bf-b2b4-f08146e88c45",
+                "state": "active",
+                "last_modified": null,
+                "webstore_last_updated": null,
+                "position": 1,
+                "revision_id": "0df7cf13-d6df-45dc-bfb1-3eacb152740c",
+                "size": null,
+                "id": "bf75fbe5-2a79-47da-8b18-0bfbb5dd2cb6",
+                "resource_type": "file",
+                "name": ""
+            },
+            {
+                "mimetype": "",
+                "cache_url": "",
+                "mimetype_inner": "",
+                "hash": "",
+                "description": "W3C Ontology for Media Resources 1.0",
+                "format": "mapping/owl",
+                "url": "http://www.w3.org/ns/ma-ont#",
+                "cache_last_updated": null,
+                "tracking_summary": {
+                    "total": 7,
+                    "recent": 3
+                },
+                "revision_timestamp": "2012-09-11T21:15:19.184494",
+                "webstore_url": "",
+                "resource_group_id": "80d6b1ff-4acb-d9bf-b2b4-f08146e88c45",
+                "state": "active",
+                "last_modified": null,
+                "webstore_last_updated": null,
+                "position": 2,
+                "revision_id": "0df7cf13-d6df-45dc-bfb1-3eacb152740c",
+                "size": null,
+                "id": "7ab6b255-27a0-429d-82da-d6ea0b645430",
+                "resource_type": "file",
+                "name": ""
+            },
+            {
+                "mimetype": "text/html",
+                "cache_url": "",
+                "mimetype_inner": "",
+                "hash": "",
+                "description": "SPARQL endpoint ",
+                "format": "api/sparql",
+                "url": "http://eventmedia.eurecom.fr/sparql",
+                "cache_last_updated": null,
+                "tracking_summary": {
+                    "total": 0,
+                    "recent": 0
+                },
+                "revision_timestamp": "2012-09-11T21:15:21.180848",
+                "webstore_url": "",
+                "resource_group_id": "80d6b1ff-4acb-d9bf-b2b4-f08146e88c45",
+                "state": "active",
+                "last_modified": "2012-09-11T16:15:21.072660",
+                "webstore_last_updated": null,
+                "position": 3,
+                "revision_id": "2eb7e095-c152-4453-afe5-1f46a7149d0b",
+                "size": "7580",
+                "id": "ca5090bd-18d0-4719-856e-550e6602d0a1",
+                "resource_type": "file",
+                "name": ""
+            },
+            {
+                "mimetype": "",
+                "cache_url": "",
+                "mimetype_inner": "",
+                "hash": "",
+                "description": "Dump for events and media (in zip archive)",
+                "format": "",
+                "url": "http://www.eurecom.fr/~troncy/ldtc2010/",
+                "cache_last_updated": null,
+                "tracking_summary": {
+                    "total": 73,
+                    "recent": 8
+                },
+                "revision_timestamp": "2012-09-11T21:15:19.184494",
+                "webstore_url": "",
+                "resource_group_id": "80d6b1ff-4acb-d9bf-b2b4-f08146e88c45",
+                "state": "active",
+                "last_modified": null,
+                "webstore_last_updated": null,
+                "position": 4,
+                "revision_id": "0df7cf13-d6df-45dc-bfb1-3eacb152740c",
+                "size": null,
+                "id": "b34c2215-10d4-41a3-a24c-92c170bbeca4",
+                "resource_type": "file",
+                "name": ""
+            },
+            {
+                "mimetype": "",
+                "cache_url": "",
+                "mimetype_inner": "",
+                "hash": "",
+                "description": "sameAs linkset for artists",
+                "format": "application/x-ntriples",
+                "url": "http://www.eurecom.fr/~troncy/ic2011/Artists_sameAs.nt",
+                "cache_last_updated": null,
+                "tracking_summary": {
+                    "total": 11,
+                    "recent": 3
+                },
+                "revision_timestamp": "2012-09-11T21:15:19.184494",
+                "webstore_url": "",
+                "resource_group_id": "80d6b1ff-4acb-d9bf-b2b4-f08146e88c45",
+                "state": "active",
+                "last_modified": null,
+                "webstore_last_updated": null,
+                "position": 5,
+                "revision_id": "0df7cf13-d6df-45dc-bfb1-3eacb152740c",
+                "size": null,
+                "id": "aad99604-c532-421d-9e4a-b8a9930296ba",
+                "resource_type": "file",
+                "name": ""
+            },
+            {
+                "mimetype": "",
+                "cache_url": "",
+                "mimetype_inner": "",
+                "hash": "",
+                "description": "sameAs linkset for venues",
+                "format": "application/x-ntriples",
+                "url": "http://www.eurecom.fr/~troncy/ic2011/Venues_sameAs.nt",
+                "cache_last_updated": null,
+                "tracking_summary": {
+                    "total": 3,
+                    "recent": 3
+                },
+                "revision_timestamp": "2012-09-11T21:15:19.184494",
+                "webstore_url": "",
+                "resource_group_id": "80d6b1ff-4acb-d9bf-b2b4-f08146e88c45",
+                "state": "active",
+                "last_modified": null,
+                "webstore_last_updated": null,
+                "position": 6,
+                "revision_id": "0df7cf13-d6df-45dc-bfb1-3eacb152740c",
+                "size": null,
+                "id": "c0da2156-2707-4c54-be79-4697a8499a49",
+                "resource_type": "file",
+                "name": ""
+            },
+            {
+                "mimetype": "",
+                "cache_url": "",
+                "mimetype_inner": "",
+                "hash": "",
+                "description": "sameAs linkset for events",
+                "format": "application/x-ntriples",
+                "url": "http://www.eurecom.fr/~troncy/ic2011/Events_sameAs.nt",
+                "cache_last_updated": null,
+                "tracking_summary": {
+                    "total": 11,
+                    "recent": 3
+                },
+                "revision_timestamp": "2012-09-11T21:15:19.184494",
+                "webstore_url": "",
+                "resource_group_id": "80d6b1ff-4acb-d9bf-b2b4-f08146e88c45",
+                "state": "active",
+                "last_modified": null,
+                "webstore_last_updated": null,
+                "position": 7,
+                "revision_id": "0df7cf13-d6df-45dc-bfb1-3eacb152740c",
+                "size": null,
+                "id": "93c0628f-3977-42ca-ab55-be2c3c02e579",
+                "resource_type": "file",
+                "name": ""
+            },
+            {
+                "mimetype": "",
+                "cache_url": "",
+                "mimetype_inner": "",
+                "hash": "",
+                "description": "Example (RDF/XML)",
+                "format": "example/rdf+xml",
+                "url": "http://data.linkedevents.org/agent/0a5a771a-5410-4c15-b695-b8059616e52f",
+                "cache_last_updated": null,
+                "tracking_summary": {
+                    "total": 79,
+                    "recent": 5
+                },
+                "revision_timestamp": "2012-09-11T21:15:19.184494",
+                "webstore_url": "",
+                "resource_group_id": "80d6b1ff-4acb-d9bf-b2b4-f08146e88c45",
+                "state": "active",
+                "last_modified": null,
+                "webstore_last_updated": null,
+                "position": 8,
+                "revision_id": "0df7cf13-d6df-45dc-bfb1-3eacb152740c",
+                "size": null,
+                "id": "fb99be67-f2f7-453e-9885-cd8206644d8e",
+                "resource_type": "file",
+                "name": ""
+            }
+        ],
+        "num_resources": 11,
+        "tags": [
+            {
+                "vocabulary_id": null,
+                "display_name": "deref-vocab",
+                "name": "deref-vocab",
+                "revision_timestamp": "2011-07-20T11:48:09.754725",
+                "state": "active",
+                "id": "487f8915-c3f7-4f32-9658-d8af8c201696"
+            },
+            {
+                "vocabulary_id": null,
+                "display_name": "events",
+                "name": "events",
+                "revision_timestamp": "2010-09-08T20:36:21.251795",
+                "state": "active",
+                "id": "d3e0bdab-e72c-4eb4-8340-0d9ce3b4ae0e"
+            },
+            {
+                "vocabulary_id": null,
+                "display_name": "format-dc",
+                "name": "format-dc",
+                "revision_timestamp": "2011-07-20T11:48:09.754725",
+                "state": "active",
+                "id": "0b675a54-621f-4fdb-850a-ef5d0b1b1ca3"
+            },
+            {
+                "vocabulary_id": null,
+                "display_name": "format-foaf",
+                "name": "format-foaf",
+                "revision_timestamp": "2011-07-20T11:48:09.754725",
+                "state": "active",
+                "id": "bd737030-1ba6-4913-baaa-bfa2581618b5"
+            },
+            {
+                "vocabulary_id": null,
+                "display_name": "format-lode",
+                "name": "format-lode",
+                "revision_timestamp": "2011-07-20T11:48:09.754725",
+                "state": "active",
+                "id": "79efe3cb-97e7-4803-994b-32431a01960e"
+            },
+            {
+                "vocabulary_id": null,
+                "display_name": "format-ma",
+                "name": "format-ma",
+                "revision_timestamp": "2011-07-20T11:48:09.754725",
+                "state": "active",
+                "id": "9ce17f90-3293-4156-8e41-9b4e7b987e95"
+            },
+            {
+                "vocabulary_id": null,
+                "display_name": "format-rdf",
+                "name": "format-rdf",
+                "revision_timestamp": "2010-09-10T15:06:35.914731",
+                "state": "active",
+                "id": "9dd6b48e-299d-427b-95a9-b54708459ab9"
+            },
+            {
+                "vocabulary_id": null,
+                "display_name": "format-sioc",
+                "name": "format-sioc",
+                "revision_timestamp": "2011-07-20T11:48:09.754725",
+                "state": "active",
+                "id": "7a334e2f-c6b6-4ef0-aefe-20b14d14718e"
+            },
+            {
+                "vocabulary_id": null,
+                "display_name": "lod",
+                "name": "lod",
+                "revision_timestamp": "2010-09-08T20:36:21.251795",
+                "state": "active",
+                "id": "54a512d9-f003-4b79-badf-c85bfa977a7e"
+            },
+            {
+                "vocabulary_id": null,
+                "display_name": "media",
+                "name": "media",
+                "revision_timestamp": "2010-09-08T20:36:21.251795",
+                "state": "active",
+                "id": "e9d8b0c1-d68c-4020-a45d-1f46463d8f14"
+            },
+            {
+                "vocabulary_id": null,
+                "display_name": "no-license-metadata",
+                "name": "no-license-metadata",
+                "revision_timestamp": "2010-10-07T07:30:04.979803",
+                "state": "active",
+                "id": "fec2bd03-9eb4-4058-a203-61cd691a383c"
+            },
+            {
+                "vocabulary_id": null,
+                "display_name": "provenance-metadata",
+                "name": "provenance-metadata",
+                "revision_timestamp": "2011-07-20T11:48:09.754725",
+                "state": "active",
+                "id": "24a0f0a3-36bc-4209-84e5-7d6b89d82dfa"
+            },
+            {
+                "vocabulary_id": null,
+                "display_name": "published-by-third-party",
+                "name": "published-by-third-party",
+                "revision_timestamp": "2010-10-07T07:30:04.979803",
+                "state": "active",
+                "id": "61a91c2c-78df-4237-9195-faa353244514"
+            },
+            {
+                "vocabulary_id": null,
+                "display_name": "usergeneratedcontent",
+                "name": "usergeneratedcontent",
+                "revision_timestamp": "2011-07-20T11:26:15.994385",
+                "state": "active",
+                "id": "e9b2da79-5971-41f9-a314-36d368636b85"
+            },
+            {
+                "vocabulary_id": null,
+                "display_name": "vocab-mappings",
+                "name": "vocab-mappings",
+                "revision_timestamp": "2011-07-20T11:48:09.754725",
+                "state": "active",
+                "id": "7fb7cacf-4e96-4986-9c3f-03ed4ed05f61"
+            }
+        ],
+        "tracking_summary": {
+            "total": 1190,
+            "recent": 37
+        },
+        "groups": [],
+        "relationships_as_subject": [],
+        "num_tags": 115,
+        "name": "event-media",
+        "isopen": true,
+        "url": "http://eventmedia.eurecom.fr/",
+        "notes": "This dataset is composed of events and media descriptions associated with these events. It is obtained from three large public event directories (last.fm, eventful and upcoming) represented with the LODE ontology and from large media directories (flickr, youtube) represented with the W3C Media Ontology. It is interlinked with the larger Linked Open Data cloud and in particular with DBpedia, Freebase, Geonames. It also contains links to numerous related web pages, including MusicBrainz, Geonames, Last.fm, Eventful, Upcoming and Foursquare.\r\n\r\n",
+        "title": "EventMedia",
+        "extras": [
+            {
+                "value": "15420",
+                "key": "links:dbpedia",
+                "__extras": {
+                    "revision_id": "d67d5eb7-5cb8-4397-ab09-3574c9b8ff01",
+                    "package_id": "480e0513-a7d3-4832-8e91-985bd9717238"
+                }
+            },
+            {
+                "value": "42889",
+                "key": "links:dbtune-musicbrainz",
+                "__extras": {
+                    "revision_id": "d67d5eb7-5cb8-4397-ab09-3574c9b8ff01",
+                    "package_id": "480e0513-a7d3-4832-8e91-985bd9717238"
+                }
+            },
+            {
+                "value": "14000000",
+                "key": "links:flickr-wrappr",
+                "__extras": {
+                    "revision_id": "fcc9e5d3-038b-4db9-b608-5e588b938d39",
+                    "package_id": "480e0513-a7d3-4832-8e91-985bd9717238"
+                }
+            },
+            {
+                "value": "955",
+                "key": "links:geonames-semantic-web",
+                "__extras": {
+                    "package_id": "480e0513-a7d3-4832-8e91-985bd9717238",
+                    "revision_id": "d67d5eb7-5cb8-4397-ab09-3574c9b8ff01"
+                }
+            },
+            {
+                "value": "21",
+                "key": "links:nytimes-linked-open-data",
+                "__extras": {
+                    "package_id": "480e0513-a7d3-4832-8e91-985bd9717238",
+                    "revision_id": "d67d5eb7-5cb8-4397-ab09-3574c9b8ff01"
+                }
+            },
+            {
+                "value": "40498",
+                "key": "links:uberblic",
+                "__extras": {
+                    "package_id": "480e0513-a7d3-4832-8e91-985bd9717238",
+                    "revision_id": "d67d5eb7-5cb8-4397-ab09-3574c9b8ff01"
+                }
+            },
+            {
+                "value": "http://data.linkedevents.org/",
+                "key": "namespace",
+                "__extras": {
+                    "revision_id": "3404f107-bf40-40e6-809f-ff589060fb9d",
+                    "package_id": "480e0513-a7d3-4832-8e91-985bd9717238"
+                }
+            },
+            {
+                "value": "EventMedia",
+                "key": "shortname",
+                "__extras": {
+                    "package_id": "480e0513-a7d3-4832-8e91-985bd9717238",
+                    "revision_id": "3404f107-bf40-40e6-809f-ff589060fb9d"
+                }
+            },
+            {
+                "value": "36274454",
+                "key": "triples",
+                "__extras": {
+                    "revision_id": "ba9477d0-8c34-40e2-9555-8aa64fe09e55",
+                    "package_id": "480e0513-a7d3-4832-8e91-985bd9717238"
+                }
+            },
+            {
+                "value": "2010-06 (0.1)",
+                "key": "version",
+                "__extras": {
+                    "package_id": "480e0513-a7d3-4832-8e91-985bd9717238",
+                    "revision_id": "601819ee-1f14-4cdd-a4f2-825bcd0f59a2"
+                }
+            }
+        ],
+        "license_url": "http://www.opendefinition.org/licenses/cc-by-sa",
+        "organization": {
+            "description": "This group catalogs data sets that are available on the Web as [Linked Data](http://en.wikipedia.org/wiki/Linked_Data)  and contain data links pointing at other Linked Data sets.\r\n\r\nThe descriptions of the data sets in this group are used to generate the [Linking Open Data Cloud diagram](http://lod-cloud.net) at regular intervals. The descriptions are also used generate the statistics provided in the [State of the LOD Cloud](http://lod-cloud.net/state/) document.\r\n\r\nIf you publish a linked data set yourself, please add it to CKAN so that it appears in the next version of the LOD cloud diagram. Please describe your data set according to [Guidelines for Collecting Metadata on Linked Datasets in CKAN](http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets/CKANmetainformation). Please tag newly added data sets with lod. The editors of this group will review your description afterwards and move your dataset into the lodcloud group.\r\n \r\nPlease also use the [CKAN LOD Validator](http://www4.wiwiss.fu-berlin.de/lodcloud/ckan/validator/validate.php) to check that the description of your data set is complete.",
+            "title": "Linking Open Data Cloud",
+            "created": "2010-04-26T21:06:05.978206",
+            "approval_status": "approved",
+            "revision_timestamp": "2012-08-02T12:16:59.588379",
+            "is_organization": true,
+            "state": "active",
+            "image_url": "http://lod-cloud.net/diagram/resources/lod-cloud-icon.png",
+            "revision_id": "c5462628-d015-41d3-b737-b0e439b98e72",
+            "type": "organization",
+            "id": "ce086ef6-9e56-4af1-a63c-fd768fa2dfff",
+            "name": "lodcloud"
+        },
+        "revision_id": "150b2b4d-f9ac-4f80-ae28-6a9d0dc5032e"
+    }
+}
