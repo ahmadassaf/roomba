@@ -95,16 +95,19 @@
     },
     "license": {
         "license": {
-            "missing": [],
+            "missing": [
+                "license_url"
+            ],
             "undefined": [],
             "unreachableURLs": [],
             "report": [
-                "License information has been normalized !"
+                "license_url field is missing",
+                "We could not normalize the license information as no valid mapping was found !"
             ]
         }
     },
     "resource": {
-        "http://semanticweb.cs.vu.nl/lod/am/": {
+        "http://www.amsterdammuseum.nl/open-data": {
             "missing": [
                 "url-type"
             ],
@@ -119,9 +122,7 @@
                 "webstore_url",
                 "last_modified"
             ],
-            "unreachableURLs": [
-                "http://semanticweb.cs.vu.nl/lod/am/"
-            ],
+            "unreachableURLs": [],
             "report": [
                 "cache_last_updated field exists but there is no value defined",
                 "webstore_last_updated field exists but there is no value defined",
@@ -132,12 +133,8 @@
                 "mimetype field exists but there is no value defined",
                 "cache_url field exists but there is no value defined",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "The url for this resource is not reachable !"
-            ],
-            "unreachableTypes": {
-                "api": "http://semanticweb.cs.vu.nl/lod/am/"
-            }
+                "last_modified field exists but there is no value defined"
+            ]
         }
     },
     "counter": {

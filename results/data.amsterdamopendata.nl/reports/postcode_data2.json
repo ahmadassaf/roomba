@@ -152,9 +152,7 @@
                 "webstore_url",
                 "last_modified"
             ],
-            "unreachableURLs": [
-                "http://api.citysdk.waag.org/admr.nl.amsterdam/nodes?layer=pc.nlp4"
-            ],
+            "unreachableURLs": [],
             "report": [
                 "cache_last_updated field exists but there is no value defined",
                 "webstore_last_updated field exists but there is no value defined",
@@ -165,12 +163,8 @@
                 "mimetype field exists but there is no value defined",
                 "cache_url field exists but there is no value defined",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "The url for this resource is not reachable !"
-            ],
-            "unreachableTypes": {
-                "api": "http://api.citysdk.waag.org/admr.nl.amsterdam/nodes?layer=pc.nlp4"
-            }
+                "last_modified field exists but there is no value defined"
+            ]
         },
         "http://api.citysdk.waag.org/admr.nl.amsterdam/nodes?layer=pc.nlp5": {
             "missing": [
@@ -187,9 +181,7 @@
                 "webstore_url",
                 "last_modified"
             ],
-            "unreachableURLs": [
-                "http://api.citysdk.waag.org/admr.nl.amsterdam/nodes?layer=pc.nlp5"
-            ],
+            "unreachableURLs": [],
             "report": [
                 "cache_last_updated field exists but there is no value defined",
                 "webstore_last_updated field exists but there is no value defined",
@@ -200,12 +192,8 @@
                 "mimetype field exists but there is no value defined",
                 "cache_url field exists but there is no value defined",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "The url for this resource is not reachable !"
-            ],
-            "unreachableTypes": {
-                "api": "http://api.citysdk.waag.org/admr.nl.amsterdam/nodes?layer=pc.nlp5"
-            }
+                "last_modified field exists but there is no value defined"
+            ]
         },
         "http://api.citysdk.waag.org/admr.nl.amsterdam/nodes?layer=pc.nlp6": {
             "missing": [
@@ -222,9 +210,7 @@
                 "webstore_url",
                 "last_modified"
             ],
-            "unreachableURLs": [
-                "http://api.citysdk.waag.org/admr.nl.amsterdam/nodes?layer=pc.nlp6"
-            ],
+            "unreachableURLs": [],
             "report": [
                 "cache_last_updated field exists but there is no value defined",
                 "webstore_last_updated field exists but there is no value defined",
@@ -235,12 +221,8 @@
                 "mimetype field exists but there is no value defined",
                 "cache_url field exists but there is no value defined",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "The url for this resource is not reachable !"
-            ],
-            "unreachableTypes": {
-                "api": "http://api.citysdk.waag.org/admr.nl.amsterdam/nodes?layer=pc.nlp6"
-            }
+                "last_modified field exists but there is no value defined"
+            ]
         }
     },
     "counter": {

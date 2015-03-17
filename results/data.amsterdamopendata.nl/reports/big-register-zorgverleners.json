@@ -99,9 +99,7 @@
                 "webstore_url",
                 "last_modified"
             ],
-            "unreachableURLs": [
-                "http://www.bigregister.nl/zoeken/zoeken_eigen_systeem/"
-            ],
+            "unreachableURLs": [],
             "report": [
                 "cache_last_updated field exists but there is no value defined",
                 "webstore_last_updated field exists but there is no value defined",
@@ -112,12 +110,8 @@
                 "mimetype field exists but there is no value defined",
                 "cache_url field exists but there is no value defined",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "The url for this resource is not reachable !"
-            ],
-            "unreachableTypes": {
-                "file": "http://www.bigregister.nl/zoeken/zoeken_eigen_systeem/"
-            }
+                "last_modified field exists but there is no value defined"
+            ]
         }
     },
     "counter": {

@@ -160,9 +160,7 @@
                 "webstore_url",
                 "last_modified"
             ],
-            "unreachableURLs": [
-                "http://api.citysdk.waag.org/nodes?layer=bag.ligplaatsen&geom"
-            ],
+            "unreachableURLs": [],
             "report": [
                 "cache_last_updated field exists but there is no value defined",
                 "webstore_last_updated field exists but there is no value defined",
@@ -173,12 +171,8 @@
                 "mimetype field exists but there is no value defined",
                 "cache_url field exists but there is no value defined",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "The url for this resource is not reachable !"
-            ],
-            "unreachableTypes": {
-                "api": "http://api.citysdk.waag.org/nodes?layer=bag.ligplaatsen&geom"
-            }
+                "last_modified field exists but there is no value defined"
+            ]
         },
         "http://api.citysdk.waag.org/nodes?layer=bag.panden&geom": {
             "missing": [
@@ -195,9 +189,7 @@
                 "webstore_url",
                 "last_modified"
             ],
-            "unreachableURLs": [
-                "http://api.citysdk.waag.org/nodes?layer=bag.panden&geom"
-            ],
+            "unreachableURLs": [],
             "report": [
                 "cache_last_updated field exists but there is no value defined",
                 "webstore_last_updated field exists but there is no value defined",
@@ -208,12 +200,8 @@
                 "mimetype field exists but there is no value defined",
                 "cache_url field exists but there is no value defined",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "The url for this resource is not reachable !"
-            ],
-            "unreachableTypes": {
-                "api": "http://api.citysdk.waag.org/nodes?layer=bag.panden&geom"
-            }
+                "last_modified field exists but there is no value defined"
+            ]
         },
         "http://api.citysdk.waag.org/nodes?layer=bag.vbo&geom": {
             "missing": [
@@ -230,9 +218,7 @@
                 "webstore_url",
                 "last_modified"
             ],
-            "unreachableURLs": [
-                "http://api.citysdk.waag.org/nodes?layer=bag.vbo&geom"
-            ],
+            "unreachableURLs": [],
             "report": [
                 "cache_last_updated field exists but there is no value defined",
                 "webstore_last_updated field exists but there is no value defined",
@@ -243,12 +229,8 @@
                 "mimetype field exists but there is no value defined",
                 "cache_url field exists but there is no value defined",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "The url for this resource is not reachable !"
-            ],
-            "unreachableTypes": {
-                "api": "http://api.citysdk.waag.org/nodes?layer=bag.vbo&geom"
-            }
+                "last_modified field exists but there is no value defined"
+            ]
         },
         "http://api.citysdk.waag.org/nodes?layer=bag.standplaatsen&geom": {
             "missing": [
@@ -265,9 +247,7 @@
                 "webstore_url",
                 "last_modified"
             ],
-            "unreachableURLs": [
-                "http://api.citysdk.waag.org/nodes?layer=bag.standplaatsen&geom"
-            ],
+            "unreachableURLs": [],
             "report": [
                 "cache_last_updated field exists but there is no value defined",
                 "webstore_last_updated field exists but there is no value defined",
@@ -278,12 +258,8 @@
                 "mimetype field exists but there is no value defined",
                 "cache_url field exists but there is no value defined",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "The url for this resource is not reachable !"
-            ],
-            "unreachableTypes": {
-                "api": "http://api.citysdk.waag.org/nodes?layer=bag.standplaatsen&geom"
-            }
+                "last_modified field exists but there is no value defined"
+            ]
         }
     },
     "counter": {

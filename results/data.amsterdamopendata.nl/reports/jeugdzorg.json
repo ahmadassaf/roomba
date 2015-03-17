@@ -153,7 +153,9 @@
                 "webstore_url",
                 "last_modified"
             ],
-            "unreachableURLs": [],
+            "unreachableURLs": [
+                "http://www.opendatakaart.nl/catalogus/datasets/datasets_dataset/t/hulp_bij_overgewicht"
+            ],
             "report": [
                 "cache_last_updated field exists but there is no value defined",
                 "webstore_last_updated field exists but there is no value defined",
@@ -165,8 +167,12 @@
                 "mimetype field exists but there is no value defined",
                 "cache_url field exists but there is no value defined",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined"
-            ]
+                "last_modified field exists but there is no value defined",
+                "The url for this resource is not reachable !"
+            ],
+            "unreachableTypes": {
+                "file": "http://www.opendatakaart.nl/catalogus/datasets/datasets_dataset/t/hulp_bij_overgewicht"
+            }
         },
         "http://www.opendatakaart.nl/catalogus/datasets/datasets_dataset/t/opvoedingsondersteuning": {
             "missing": [
@@ -184,7 +190,9 @@
                 "webstore_url",
                 "last_modified"
             ],
-            "unreachableURLs": [],
+            "unreachableURLs": [
+                "http://www.opendatakaart.nl/catalogus/datasets/datasets_dataset/t/opvoedingsondersteuning"
+            ],
             "report": [
                 "cache_last_updated field exists but there is no value defined",
                 "webstore_last_updated field exists but there is no value defined",
@@ -196,8 +204,12 @@
                 "mimetype field exists but there is no value defined",
                 "cache_url field exists but there is no value defined",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined"
-            ]
+                "last_modified field exists but there is no value defined",
+                "The url for this resource is not reachable !"
+            ],
+            "unreachableTypes": {
+                "file": "http://www.opendatakaart.nl/catalogus/datasets/datasets_dataset/t/opvoedingsondersteuning"
+            }
         },
         "http://www.opendatakaart.nl/catalogus/datasets/datasets_dataset/t/jeugdhulpverlening": {
             "missing": [
@@ -215,7 +227,9 @@
                 "webstore_url",
                 "last_modified"
             ],
-            "unreachableURLs": [],
+            "unreachableURLs": [
+                "http://www.opendatakaart.nl/catalogus/datasets/datasets_dataset/t/jeugdhulpverlening"
+            ],
             "report": [
                 "cache_last_updated field exists but there is no value defined",
                 "webstore_last_updated field exists but there is no value defined",
@@ -227,8 +241,12 @@
                 "mimetype field exists but there is no value defined",
                 "cache_url field exists but there is no value defined",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined"
-            ]
+                "last_modified field exists but there is no value defined",
+                "The url for this resource is not reachable !"
+            ],
+            "unreachableTypes": {
+                "file": "http://www.opendatakaart.nl/catalogus/datasets/datasets_dataset/t/jeugdhulpverlening"
+            }
         },
         "http://www.opendatakaart.nl/catalogus/datasets/datasets_dataset/t/jeugd_ggz": {
             "missing": [
@@ -246,7 +264,9 @@
                 "webstore_url",
                 "last_modified"
             ],
-            "unreachableURLs": [],
+            "unreachableURLs": [
+                "http://www.opendatakaart.nl/catalogus/datasets/datasets_dataset/t/jeugd_ggz"
+            ],
             "report": [
                 "cache_last_updated field exists but there is no value defined",
                 "webstore_last_updated field exists but there is no value defined",
@@ -258,8 +278,12 @@
                 "mimetype field exists but there is no value defined",
                 "cache_url field exists but there is no value defined",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined"
-            ]
+                "last_modified field exists but there is no value defined",
+                "The url for this resource is not reachable !"
+            ],
+            "unreachableTypes": {
+                "file": "http://www.opendatakaart.nl/catalogus/datasets/datasets_dataset/t/jeugd_ggz"
+            }
         },
         "http://www.opendatakaart.nl/catalogus/datasets/datasets_dataset/t/jeugdgezondheidszorg": {
             "missing": [
@@ -277,7 +301,9 @@
                 "webstore_url",
                 "last_modified"
             ],
-            "unreachableURLs": [],
+            "unreachableURLs": [
+                "http://www.opendatakaart.nl/catalogus/datasets/datasets_dataset/t/jeugdgezondheidszorg"
+            ],
             "report": [
                 "cache_last_updated field exists but there is no value defined",
                 "webstore_last_updated field exists but there is no value defined",
@@ -289,8 +315,12 @@
                 "mimetype field exists but there is no value defined",
                 "cache_url field exists but there is no value defined",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined"
-            ]
+                "last_modified field exists but there is no value defined",
+                "The url for this resource is not reachable !"
+            ],
+            "unreachableTypes": {
+                "file": "http://www.opendatakaart.nl/catalogus/datasets/datasets_dataset/t/jeugdgezondheidszorg"
+            }
         }
     },
     "counter": {

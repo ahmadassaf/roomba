@@ -334,9 +334,7 @@
                 "webstore_url",
                 "last_modified"
             ],
-            "unreachableURLs": [
-                "http://www.os.amsterdam.nl/amsterdam-in-europa/feiten-en-cijfers/openbare-orde-en-veiligheid/#"
-            ],
+            "unreachableURLs": [],
             "report": [
                 "cache_last_updated field exists but there is no value defined",
                 "webstore_last_updated field exists but there is no value defined",
@@ -347,12 +345,8 @@
                 "mimetype field exists but there is no value defined",
                 "cache_url field exists but there is no value defined",
                 "webstore_url field exists but there is no value defined",
-                "last_modified field exists but there is no value defined",
-                "The url for this resource is not reachable !"
-            ],
-            "unreachableTypes": {
-                "file": "http://www.os.amsterdam.nl/amsterdam-in-europa/feiten-en-cijfers/openbare-orde-en-veiligheid/#"
-            }
+                "last_modified field exists but there is no value defined"
+            ]
         }
     },
     "counter": {
