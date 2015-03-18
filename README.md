@@ -9,7 +9,7 @@ This application is designed for the command line (CLI) and is built using [node
 
 ## Architecture
 
-![Roomba Architecture](https://www.dropbox.com/s/iqfcw9ykrblr7ym/figure-1_architecture.png?dl=1)
+![Roomba Architecture](https://www.dropbox.com/s/o9e9lwf6urylbir/figure-1_architecture.png?dl=1)
 
 ### Data Portal Identification
 
