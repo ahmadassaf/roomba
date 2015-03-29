@@ -1,0 +1,127 @@
+{
+    "id" : "",
+    "name" : "",
+    "title" : "",
+    "description" : "",
+    "url" : "",
+    "type" : "",
+    "accessLevel" : "",
+    "rights" : "",
+    "state" : "",
+    "language" : "",
+    "languageCode" : "",
+    "conformsTo" : "",
+    "accuralPeriodicity" : "",
+    "licenseTitle" : "",
+    "licenseID" : "",
+    "licenseUrl" : "",
+    "attributionText" : "",
+    "attributionLink" : "",
+    "version" : "",
+    "revisionId" : "",
+    "revisionTimestamp" : "",
+    "metadataCreated" : "",
+    "metadataModified" : "",
+    "maintainer" : {
+        "name" : "",
+        "email" : "",
+        "role" : ""
+    },
+    "author" : {
+        "name" : "",
+        "email" : "",
+        "role" : ""
+    },
+    "hasPart" : [],
+    "ratingsAverage" : "",
+    "dataQualityAverage" : "",
+    "numberOfResources" : "",
+    "numberOfTags" : "",
+    "organization" : [
+        {
+            "id" : "",
+            "name" : "",
+            "description" : "",
+            "type" : "",
+            "organizationalUnit" : "",
+            "subOrganizationOf" : "",
+            "basedAt" : "",
+            "hasSite" : {
+                    "siteAddress" : ""
+                },
+            "hasUnit" : "",
+            "location" : ""
+        }
+    ],
+    "resources" : [
+        {
+            "id" : "",
+            "name" : "",
+            "title" : "",
+            "description" : "",
+            "type" : "",
+            "downloadUrl" : "",
+            "accessUrl" : "",
+            "webstoreUrl" : "",
+            "format" : "",
+            "hash" : "",
+            "state" : "",
+            "accessLevel" : "",
+            "mimetype" : "",
+            "mimetypeInner" : "",
+            "size" : "",
+            "describedBy" : "",
+            "describedByType" : "",
+            "conformsTo" : "",
+            "rating" : "",
+            "dataQuality" : "",
+            "cacheUrl" : "",
+            "temporal" : {
+                "temporalGranularity" : "",
+                "temporalCoverageFrom" : "",
+                "temporalCoverageTo" : ""
+            },
+            "spatial" : {
+                "spatialText" : "",
+                "spatialGranularity" : "",
+                "bbox" : "",
+                "layers" : "",
+                "namespace" : ""
+            },
+            "created" : "",
+            "modified" : "",
+            "cacheModified" : "",
+            "webstoreModified" : "",
+            "revisionnId" : "",
+            "revisionTimestamp" : ""
+        }
+    ],
+    "groups" : [
+        {
+            "id" : "",
+            "name" : "",
+            "title" : "",
+            "description" : "",
+            "created" : "",
+            "modified" : "",
+            "administrator" : [
+                {
+                    "name" : "",
+                    "email" : "",
+                    "role" : ""
+                }
+            ],
+            "subGroupOf" : ""
+        }
+    ],
+    "tags" : [
+        {
+            "id" : "",
+            "name" : "",
+            "title" : "",
+            "vocabularyId" : "",
+            "created" : "",
+            "modified" : ""
+        }
+    ]
+}
