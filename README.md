@@ -132,7 +132,7 @@ Roomba gives you the ability to perform the following:
 - Execute aggregation report on a specific group or on the whole data portal
 - Profile a specific dataset, a whole group or the whole data portal
 
-![How to use](http://g.recordit.co/NZjLBhbFH7.gif)
+![How to use](http://g.recordit.co/W3mN7By9NC.gif)
 
 **A screencast is available on: http://youtu.be/p7Y-mDN_Y2s**
 
@@ -149,8 +149,6 @@ Data portal administrators need to have an overview of the datasets in their por
 ### Profile Generation
 
 The generated profile contains the information spotted in the profile as well as general statistics for them.
-
-![profile](http://g.recordit.co/aFvscpqfcv.gif)
 
 ## Roomba Quality (Objective Linked Data Quality Assessment)
 
@@ -186,5 +184,3 @@ The **objective quality indicators** we assess are:
  - Existence of mailing list, message board or point of contact               
  - Existence of metadata that describes its authoritative information         
  - Usage of Versioning 
-
-![qualityReport](http://g.recordit.co/ZkII2EY5S4.gif)
