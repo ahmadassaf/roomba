@@ -34,7 +34,7 @@ util.prototype.checkValidAddress = function checkValidAddress(question, callback
 		if (!util.checkExitCode(URL)) {
 			// Test and validate the URL against a valid syntax
 			if (validator.isURL(URL)) {
-				// Test that the URL corresonds to a "rea" web entity
+				// Test that the URL corresonds to a "real" web entity
 				util.checkAddress(URL, function(error, body) {
 					if (!error && body ) callback(false, URL, body)
 					else {
@@ -63,7 +63,7 @@ util.prototype.checkAddress = function (url, callback, method) {
 
 	var userAgent    = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2';
 
-	request({ url : url , method: method || "POST" ,headers : { "User-Agent" : userAgent }},function(error, response, body){
+	request({ url : url , method: method || "GET" ,headers : { "User-Agent" : userAgent }},function(error, response, body){
 		!error && response.statusCode == 200 ? callback(false, body, response) : callback(true, body, response);
 	});
 }
