@@ -144,8 +144,6 @@ Data portal administrators need to have an overview of the datasets in their por
 - **key:object meta-field values** report: Aggregate all the values of a certain key with an aggregate of another field as its object. e.g. `license_title:title` will aggregate all the license titles used and also will aggregate all the titles for all the datasets using that license title
 - **Check Empty field values** report: Check all the datasets containing an empty value of the passed field key
 
-![report](http://g.recordit.co/919rHoQtDe.gif)
-
 ### Profile Generation
 
 The generated profile contains the information spotted in the profile as well as general statistics for them.
