@@ -78,10 +78,12 @@ git clone --recursive http://github.com/ahmadassaf/opendata-checker
 
 Now, you will need to install the dependecies:
 
-```javascript
-\\ Downloading the required modules 
+```shell
+# Install the required packages
 npm intall
-\\ After the installation finish start the application
+# You may alternatively use yarn to install them
+yarn install
+# After the installation finish start the application
 node DC.js
 ```
 

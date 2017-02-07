@@ -5,17 +5,17 @@
   "main"         : "server.js",
   "author"       : "Ahmad.A.Assaf",
   "dependencies" : {
-    "request"         : "latest",
-    "cheerio"         : "latest",
-    "async"           : "latest",
-    "underscore"      : "latest",
-    "validator"       : "latest",
-    "inquirer"        : "latest",
-    "mkdirp"          : "latest",
-    "extend"          : "latest",
-    "colors"          : "latest",
-    "awesome-progress": "latest",
-    "progress"        : "latest",
-    "csv-parse"       : "latest"
+    "request"         : "^2.51.0",
+    "cheerio"         : "^0.18.0",
+    "async"           : "^0.9.0",
+    "underscore"      : "^1.7.0",
+    "validator"       : "^3.25.0",
+    "inquirer"        : "^0.8.0",
+    "mkdirp"          : "^0.5.0",
+    "extend"          : "^2.0.0",
+    "colors"          : "^1.0.3",
+    "awesome-progress": "^0.0.53",
+    "progress"        : "^1.1.8",
+    "csv-parse"       : "^0.0.6"
   }
 }
