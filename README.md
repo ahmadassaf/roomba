@@ -134,7 +134,7 @@ Roomba gives you the ability to perform the following:
 - Execute aggregation report on a specific group or on the whole data portal
 - Profile a specific dataset, a whole group or the whole data portal
 
-![How to use](http://g.recordit.co/W3mN7By9NC.gif)
+![How to use](https://dl.dropboxusercontent.com/u/5258344/Blog/roomba.gif)
 
 **A screencast is available on: http://youtu.be/p7Y-mDN_Y2s**
 
