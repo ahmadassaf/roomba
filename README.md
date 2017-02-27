@@ -138,11 +138,13 @@ Roomba gives you the ability to perform the following:
 
 **A screencast is available on: http://youtu.be/p7Y-mDN_Y2s**
 
+> Note that the demo above uses `publicdata.eu`. However, it seems that they no longer support CKAN access as PublicData.eu is archived and no longer active. You can try `http://datahub.io` instead to demonstrate the tool
+
 ### Report Generation
 
 Data portal administrators need to have an overview of the datasets in their portal or in a specific group. The reporting tool gives the freedom for admins to execute various types of queries and mining information about the datasets. The reports are of three types:
 
-- **meta-field values** report: Aggregate all the values of a certain `key` e.g. `license_title` will aggregate all the licenses titles        
+- **meta-field values** report: Aggregate all the values of a certain `key` e.g. `license_title` will aggregate all the licenses titles
 - **key:object meta-field values** report: Aggregate all the values of a certain key with an aggregate of another field as its object. e.g. `license_title:title` will aggregate all the license titles used and also will aggregate all the titles for all the datasets using that license title
 - **Check Empty field values** report: Check all the datasets containing an empty value of the passed field key
 
@@ -162,25 +164,25 @@ The **objective measures** we have identified are: completeness, availability, l
 
 The **objective quality indicators** we assess are:
 
- - Supports multiple serializations                                           
- - Has different data access points                                           
- - Uses datasets description vocabularies                                     
- - Existence of descriptions about its size                                   
- - Existence of descriptions about its structure (MIME Type, Format)          
- - Existence of descriptions about its organization and categorization        
- - Existence of dereferencable links for the dataset and its resources        
- - Existence of an RDF dump that can be downloaded by users                   
- - Existence of queryable endpoints that respond to direct queries            
- - Existence of valid dereferencable URLs (respond to HTTP request)           
- - Existence of human and machine readable license information                
- - Existence of dereferencable links to the full license information          
- - Existence of timestamps that can keep track of its modifications           
- - Includes the correct MIME type for the content                             
- - Includes the correct size for the content                                  
- - Absence of Syntactic errors on the links level                             
+ - Supports multiple serializations
+ - Has different data access points
+ - Uses datasets description vocabularies
+ - Existence of descriptions about its size
+ - Existence of descriptions about its structure (MIME Type, Format)
+ - Existence of descriptions about its organization and categorization
+ - Existence of dereferencable links for the dataset and its resources
+ - Existence of an RDF dump that can be downloaded by users
+ - Existence of queryable endpoints that respond to direct queries
+ - Existence of valid dereferencable URLs (respond to HTTP request)
+ - Existence of human and machine readable license information
+ - Existence of dereferencable links to the full license information
+ - Existence of timestamps that can keep track of its modifications
+ - Includes the correct MIME type for the content
+ - Includes the correct size for the content
+ - Absence of Syntactic errors on the links level
  - Use the HTTP URI Scheme
- - Existence of at least one exemplary RDF file                               
- - Existence of general information (title, URL, description) for the dataset 
- - Existence of mailing list, message board or point of contact               
- - Existence of metadata that describes its authoritative information         
- - Usage of Versioning 
+ - Existence of at least one exemplary RDF file
+ - Existence of general information (title, URL, description) for the dataset
+ - Existence of mailing list, message board or point of contact
+ - Existence of metadata that describes its authoritative information
+ - Usage of Versioning
