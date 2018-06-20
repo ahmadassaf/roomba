@@ -9,7 +9,7 @@ This application is designed for the command line (CLI) and is built using [node
 
 ## Architecture
 
-![Roomba Architecture](https://www.dropbox.com/s/o9e9lwf6urylbir/figure-1_architecture.png?dl=1)
+![Roomba Architecture](https://s22.postimg.cc/ho9bfvjs1/figure-1_architecture.png)
 
 ### Data Portal Identification
 
@@ -134,7 +134,7 @@ Roomba gives you the ability to perform the following:
 - Execute aggregation report on a specific group or on the whole data portal
 - Profile a specific dataset, a whole group or the whole data portal
 
-![How to use](https://dl.dropboxusercontent.com/u/5258344/Blog/roomba.gif)
+![How to use](https://s22.postimg.cc/ha7zgqx8x/roomba.gif)
 
 **A screencast is available on: http://youtu.be/p7Y-mDN_Y2s**
 
